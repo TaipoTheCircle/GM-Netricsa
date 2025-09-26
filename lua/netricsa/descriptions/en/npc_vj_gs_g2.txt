@@ -1,0 +1,23 @@
+COMPANION G-2 ROBOT
+
+
+CLASS:      Automated Defense Unit
+METABOLISM: Mechanical (Fusion Core Powered)
+PERCEPTION: Advanced Targeting Sensors + AI Coordination
+SIZE:       ~3 ft
+ENDURANCE:  High (combat plating with layered shielding)
+HOSTILITY:  High (against enemies)
+WEAPONS:    kicks
+REWARD:     1200 FC
+THREAT:     High
+
+DESCRIPTION:
+
+The Companion G-2 Robot is a mechanized defender unit belonging to the Core Guardians Team, deployed during assaults against lums hordes. conflicts. it is covered with drawings by Sweet Autumn.
+
+Armed with hands capable of shredding aliens Lume creatures at melee. Its AI allows seamless coordination with Human Guardians, covering chokepoints and providing suppression where needed most.
+
+TIPS:
+
+- Keep G-2 near chokepoints for maximum efficiency.
+- Works best when supported by Human Guardians and tower structures.
