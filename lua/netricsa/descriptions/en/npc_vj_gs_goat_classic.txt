@@ -1,4 +1,4 @@
-CLASSIC GOAT FROM GOATVILLE
+PILGOR THE GOAT FROM GOATVILLE
 
 
 CLASS:      Mammal, Ungulate
@@ -13,9 +13,9 @@ THREAT:     Medium
 
 DESCRIPTION:
 
-The Classic Goat from Goatville may look like a simple farm goat, but appearances are deceiving. This is, without a doubt, the most reckless goat in existence.
+The Pilgor may look like a simple farm goat, but appearances are deceiving. This is, without a doubt, the most reckless goat in existence.
 
-Unlike its "normal" variants, the Classic Goat is the original - the chaos-bringer that started it all. Every bug, glitch, and ragdoll moment feels amplified when this goat is involved.
+Unlike its "normal" variants, the Pilgor is the original - the chaos-bringer that started it all. Every bug, glitch, and ragdoll moment feels amplified when this goat is involved.
 
 TIPS:
 
