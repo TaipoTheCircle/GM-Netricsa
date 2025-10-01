@@ -1,4 +1,4 @@
-COMPANION G-2 ROBOT
+COMPANION G-2 ROBOT FROM LOEK-III
 
 
 CLASS:      Automated Defense Unit

@@ -7,7 +7,7 @@ PERCEPTION: Vibration + chemical sensing
 SIZE: ~2-4 ft tall
 ENDURANCE: Medium
 HOSTILITY: Low (defensive)
-WEAPONS: Spore burst, toxic haze
+WEAPONS: None
 REWARD: 0 FC
 THREAT: Low
 
