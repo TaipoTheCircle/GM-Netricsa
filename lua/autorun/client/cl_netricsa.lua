@@ -759,6 +759,11 @@ end
         end
         btn.DoClick = function() OpenFraction(fracName) end
     end
+            -- открыть первую фракцию по умолчанию
+        if files and #files > 0 then
+            local firstFrac = string.StripExtension(files[1])
+            OpenFraction(firstFrac)
+        end
 
     elseif tabName == L("tabs","weapons") then
         local bgMatText = Material(NetricsaStyle.text, "noclamp smooth")
