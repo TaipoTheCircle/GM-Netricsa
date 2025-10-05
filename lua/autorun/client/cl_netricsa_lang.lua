@@ -7,6 +7,7 @@ if CLIENT then
                 weapons    = "WEAPONS",
                 enemies    = "ENEMIES",
                 statistics = "STATISTICS",
+                fractions  = "FRACTIONS",
             },
             ui = {
                 styles        = "STYLES",
@@ -28,6 +29,7 @@ if CLIENT then
                 weapons    = "ОРУЖИЕ",
                 enemies    = "ВРАГИ",
                 statistics = "СТАТИСТИКА",
+                fractions  = "ФРАКЦИИ",
             },
             ui = {
                 styles        = "СТИЛИ",

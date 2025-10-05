@@ -1,6 +1,7 @@
 if CLIENT then
 include("cl_netricsa_styles.lua")
 include("cl_netricsa_lang.lua")
+include("dr_ui_scrollstyle.lua")
 
 surface.CreateFont("NetricsaText", {
     font     = "Arial",
@@ -676,6 +677,89 @@ end
 
         OpenFirstUnread(L("tabs","enemies"), OpenEnemy)
 
+        elseif tabName == L("tabs","fractions") then
+    local bgMatText = Material(NetricsaStyle.text, "noclamp smooth")
+
+    -- Верх: список фракций
+    local fracListPanel = vgui.Create("DPanel", contentPanel)
+    NoBG(fracListPanel)
+    fracListPanel:Dock(TOP)
+    fracListPanel:SetTall(200)
+    fracListPanel.Paint = function(self, w, h)
+        surface.SetDrawColor(255,255,255,255)
+        surface.SetMaterial(bgMatText)
+        surface.DrawTexturedRect(0, 0, w, h)
+    end
+
+    local fracScroll = vgui.Create("DScrollPanel", fracListPanel)
+    fracScroll:Dock(FILL)
+
+    -- Низ: картинка + описание
+    local bottomPanel = vgui.Create("DPanel", contentPanel)
+    NoBG(bottomPanel)
+    bottomPanel:Dock(FILL)
+    bottomPanel:DockMargin(0, 10, 0, 0)
+
+    local imgPanel = vgui.Create("DPanel", bottomPanel)
+    imgPanel:Dock(LEFT)
+    imgPanel:SetWide(contentPanel:GetWide() * 0.4)
+    imgPanel.Paint = function(self, w, h)
+        local frac = bottomPanel.CurrentFrac
+        if frac then
+            local imgPath = "ssfractions/" .. frac .. ".png"
+            if file.Exists("materials/"..imgPath,"GAME") then
+                surface.SetDrawColor(255,255,255,255)
+                surface.SetMaterial(Material(imgPath,"noclamp smooth"))
+                surface.DrawTexturedRect(0,0,w,h)
+            else
+                draw.SimpleText("No Image", "NetricsaText", w/2, h/2, Color(255,0,0), TEXT_ALIGN_CENTER, TEXT_ALIGN_CENTER)
+            end
+        end
+    end
+
+    local textPanel = vgui.Create("DPanel", bottomPanel)
+    NoBG(textPanel)
+    textPanel:Dock(FILL)
+    textPanel:DockMargin(10,0,0,0)
+    textPanel.Paint = function(self, w, h)
+        surface.SetDrawColor(255,255,255,255)
+        surface.SetMaterial(bgMatText)
+        surface.DrawTexturedRect(0,0,w,h)
+    end
+
+    local descBox = vgui.Create("RichText", textPanel)
+    descBox:Dock(FILL)
+    descBox:SetVerticalScrollbarEnabled(true)
+    function descBox:PerformLayout()
+        self:SetFontInternal("NetricsaText")
+        self:SetFGColor(NetricsaStyle.color or Color(255,255,0))
+    end
+    descBox:SetText(L("ui","no_data"))
+
+    -- функция открытия
+    local function OpenFraction(name)
+        bottomPanel.CurrentFrac = name
+        local desc = LoadDescription(name) or "No data available."
+        SetAnimatedText(descBox, desc)
+    end
+
+    -- перебор файлов descriptions/<lang>/ssfrac_*.txt
+    local lang = CurrentLang or "en"
+    local files, _ = file.Find("lua/netricsa/descriptions/"..lang.."/ssfrac_*.txt","GAME")
+    for _, f in ipairs(files) do
+        local fracName = string.StripExtension(f)
+        local displayName = GetEnemyDisplayName(fracName) -- первая строка файла
+        local btn = vgui.Create("DButton", fracScroll)
+        btn:Dock(TOP)
+        btn:DockMargin(5,2,5,2)
+        btn:SetTall(30)
+        btn:SetText("")
+        btn.Paint = function(self,w,h)
+            draw.SimpleText(displayName or fracName,"NetricsaText",5,h/2,NetricsaStyle.color,TEXT_ALIGN_LEFT,TEXT_ALIGN_CENTER)
+        end
+        btn.DoClick = function() OpenFraction(fracName) end
+    end
+
     elseif tabName == L("tabs","weapons") then
         local bgMatText = Material(NetricsaStyle.text, "noclamp smooth")
 
@@ -920,6 +1004,7 @@ end)
     L("tabs","strategic"),
     L("tabs","weapons"),
     L("tabs","enemies"),
+    L("tabs","fractions"),
     L("tabs","statistics")
 }
 
@@ -978,10 +1063,12 @@ end
             menu:Open()
         end
 
-    local langBtn = vgui.Create("DButton", leftPanel)
+-- Кнопка выбора языка (внизу)
+local langBtn = vgui.Create("DButton", leftPanel)
+langBtn:Dock(BOTTOM)
+langBtn:DockMargin(10, 10, 10, 10)
+langBtn:SetTall(40)
 langBtn:SetText(L("ui","language"))
-langBtn:SetSize(230,40)
-langBtn:SetPos(10, (#tabs+2)*45) -- чуть ниже кнопки стилей
 langBtn:SetFont("NetricsaText")
 langBtn:SetTextColor(NetricsaStyle.color)
 
@@ -1009,6 +1096,7 @@ langBtn.DoClick = function()
     end
     menu:Open()
 end
+
 
 
         SwitchTab(L("tabs","strategic"))
