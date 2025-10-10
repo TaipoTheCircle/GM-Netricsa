@@ -46,7 +46,7 @@ if CLIENT then
         }
     }
 
-    local LANG_FILE = "netricsa_lang.txt"
+    local LANG_FILE = "netricsa_lang.lua"
     CurrentLang = "en"
 
     local function SaveLanguage(lang)

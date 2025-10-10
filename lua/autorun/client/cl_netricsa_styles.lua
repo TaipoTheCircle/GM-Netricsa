@@ -225,7 +225,7 @@ if CLIENT then
          },
     }
 
-    local STYLE_FILE = "netricsa_style.txt"
+    local STYLE_FILE = "netricsa_style.lua"
 
     -- сохраняем стиль
     local function SaveNetricsaStyle(name)

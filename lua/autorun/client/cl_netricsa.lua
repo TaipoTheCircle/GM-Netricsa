@@ -157,7 +157,7 @@ end)
 
 local function LoadDescription(name)
     local lang = CurrentLang or "en"
-    local path = "lua/netricsa/descriptions/" .. lang .. "/" .. name .. ".txt"
+    local path = "lua/netricsa/descriptions/" .. lang .. "/" .. name .. ".lua"
     if file.Exists(path, "GAME") then
         return file.Read(path, "GAME")
     end
@@ -166,7 +166,7 @@ end
 
 local function GetEnemyDisplayName(npcClass)
     local lang = CurrentLang or "en"
-    local path = "lua/netricsa/descriptions/" .. lang .. "/" .. npcClass .. ".txt"
+    local path = "lua/netricsa/descriptions/" .. lang .. "/" .. npcClass .. ".lua"
     if file.Exists(path, "GAME") then
         local content = file.Read(path, "GAME")
         if content and content ~= "" then
@@ -519,7 +519,7 @@ local function SwitchTab(tabName)
             SetAnimatedText(descBox, desc)
         end
 
-        -- список карт: стиль как у ENEMIES, название — первая строка из descriptions/<map>.txt
+        -- список карт: стиль как у ENEMIES, название — первая строка из descriptions/<map>.lua
         for mapName, _ in pairs(SAVED_MAPS) do
             local displayName = GetEnemyDisplayName(mapName) or mapName
 
@@ -743,9 +743,9 @@ end
         SetAnimatedText(descBox, desc)
     end
 
-    -- перебор файлов descriptions/<lang>/ssfrac_*.txt
+    -- перебор файлов descriptions/<lang>/ssfrac_*.lua
     local lang = CurrentLang or "en"
-    local files, _ = file.Find("lua/netricsa/descriptions/"..lang.."/ssfrac_*.txt","GAME")
+    local files, _ = file.Find("lua/netricsa/descriptions/"..lang.."/ssfrac_*.lua","GAME")
     for _, f in ipairs(files) do
         local fracName = string.StripExtension(f)
         local displayName = GetEnemyDisplayName(fracName) -- первая строка файла
@@ -866,7 +866,7 @@ end
         local style = NetricsaStyle or STYLES.Revolution
         local bgMatText = Material(style.text, "noclamp smooth")
 
-        -- ВЕРХ: панель с заголовком (имя карты из .txt)
+        -- ВЕРХ: панель с заголовком (имя карты из .lua)
         local headerPanel = vgui.Create("DPanel", contentPanel)
         NoBG(headerPanel)
         headerPanel:Dock(TOP)
@@ -1088,7 +1088,7 @@ langBtn.DoClick = function()
     for code,_ in pairs(LANGUAGES) do
         menu:AddOption(code:upper(), function()
             CurrentLang = code
-            file.Write("netricsa_lang.txt", code)
+            file.Write("netricsa_lang.lua", code)
             surface.PlaySound("netricsa/button_ssm_press.wav")
             if IsValid(NetricsaFrame) then
                 NetricsaFrame:Remove()
