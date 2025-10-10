@@ -19,7 +19,7 @@ if CLIENT then
                 select_enemy  = "Select enemy above.",
                 select_weapon = "Select weapon above.",
                 select_map    = "Select map above.",
-                no_data       = "No data available."
+                no_data       = "No data available. If you want to help and suggest your improvements or translations, you can contact us on our github: (https://github.com/TaipoTheCircle/GM-Netricsa)"
             }
         },
         ru = {
@@ -41,7 +41,7 @@ if CLIENT then
                 select_enemy  = "Выберите врага сверху.",
                 select_weapon = "Выберите оружие сверху.",
                 select_map    = "Выберите карту сверху.",
-                no_data       = "Нет данных."
+                no_data       = "Нет данных. Если вы хотите помочь и предложить свои улучшения или переводы, можете обратиться на наш github: (https://github.com/TaipoTheCircle/GM-Netricsa)"
             }
         }
     }
