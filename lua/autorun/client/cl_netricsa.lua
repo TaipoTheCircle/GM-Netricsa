@@ -221,17 +221,21 @@ local function SetAnimatedText(rt, text, step, speed)
 end
 
 
-    local function FitModel(ent, panel)
-        if not IsValid(ent) then return end
-        local mn, mx = ent:GetRenderBounds()
-        local size = math.max(mx.x - mn.x, mx.y - mn.y, mx.z - mn.z)
-        if size <= 0 then size = 50 end
-        local center = (mn + mx) * 0.5
-        local camPos = center + Vector(size * 1.2, size * 1.2, size * 0.8)
-        panel:SetCamPos(camPos)
-        panel:SetLookAt(center)
-        panel:SetFOV(40)
-    end
+local function FitModel(ent, panel)
+    if not IsValid(ent) then return end
+    local mn, mx = ent:GetRenderBounds()
+    local size = math.max(mx.x - mn.x, mx.y - mn.y, mx.z - mn.z)
+    if size <= 0 then size = 50 end
+
+    local center = (mn + mx) * 0.5
+
+    -- Чем больше модель, тем дальше отодвигаем камеру
+    local dist = math.Clamp(size * 2.5, 150, 5000)
+
+    panel:SetCamPos(center + Vector(dist, dist, dist * 0.6))
+    panel:SetLookAt(center)
+    panel:SetFOV(40)
+end
 
 -- Приведение аргумента таба к "внутреннему" ключу: "maps"/"enemies"/"weapons"/...
 -- Нормализует аргумент таба: принимает либо "maps"/"enemies"/"weapons", либо локализованный текст L("tabs",...)
