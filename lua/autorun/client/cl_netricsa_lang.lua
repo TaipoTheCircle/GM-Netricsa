@@ -7,7 +7,7 @@ if CLIENT then
                 weapons    = "WEAPONS",
                 enemies    = "ENEMIES",
                 statistics = "STATISTICS",
-                fractions  = "FRACTIONS",
+                fractions  = "FACTIONS",
             },
             ui = {
                 styles        = "STYLES",
@@ -46,10 +46,12 @@ if CLIENT then
         }
     }
 
-    local LANG_FILE = "netricsa_lang.lua"
+
+    -- путь к файлу, который переживает перезапуск
+    local LANG_FILE = "netricsa_lang.txt"
     CurrentLang = "en"
 
-    local function SaveLanguage(lang)
+    function SaveLanguage(lang)
         file.Write(LANG_FILE, lang)
     end
 
@@ -58,9 +60,11 @@ if CLIENT then
             local saved = file.Read(LANG_FILE, "DATA")
             if LANGUAGES[saved] then
                 CurrentLang = saved
+                print("[Netricsa] Loaded language: " .. saved)
                 return
             end
         end
+        print("[Netricsa] Using default language: EN")
         CurrentLang = "en"
     end
 

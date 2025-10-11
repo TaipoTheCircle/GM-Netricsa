@@ -223,19 +223,41 @@ end
 
 local function FitModel(ent, panel)
     if not IsValid(ent) then return end
+
     local mn, mx = ent:GetRenderBounds()
     local size = math.max(mx.x - mn.x, mx.y - mn.y, mx.z - mn.z)
     if size <= 0 then size = 50 end
 
-    local center = (mn + mx) * 0.5
+    -- 🔧 динамическое масштабирование
+    local scale
+    if size > 250 then
+        scale = 180 / size       -- крупные модели уменьшаем
+    elseif size > 100 then
+        scale = 1.2              -- обычные NPC — чуть крупнее
+    elseif size > 60 then
+        scale = 1.5              -- мелкие — побольше
+    else
+        scale = 80 / size        -- совсем крошечные — сильно увеличиваем
+    end
 
-    -- Чем больше модель, тем дальше отодвигаем камеру
-    local dist = math.Clamp(size * 2.5, 150, 5000)
+    scale = math.Clamp(scale, 0.05, 3)
+    ent:SetModelScale(scale, 0)
 
-    panel:SetCamPos(center + Vector(dist, dist, dist * 0.6))
+    -- ⚙️ пересчитываем центр после масштабирования
+    local mn2, mx2 = ent:GetRenderBounds()
+    local center = (mn2 + mx2) * 0.5
+    local height = mx2.z - mn2.z
+
+    -- 🔧 камера "сверху-сбоку" с учётом размера
+    local baseDist = math.max(height * 1.8, 180) -- ближе для обычных NPC
+    local camOffset = Vector(baseDist, baseDist * 0.5, baseDist * 0.35)
+    local camPos = center + camOffset
+
+    panel:SetCamPos(camPos)
     panel:SetLookAt(center)
-    panel:SetFOV(40)
+    panel:SetFOV(35)
 end
+
 
 -- Приведение аргумента таба к "внутреннему" ключу: "maps"/"enemies"/"weapons"/...
 -- Нормализует аргумент таба: принимает либо "maps"/"enemies"/"weapons", либо локализованный текст L("tabs",...)
@@ -1092,7 +1114,7 @@ langBtn.DoClick = function()
     for code,_ in pairs(LANGUAGES) do
         menu:AddOption(code:upper(), function()
             CurrentLang = code
-            file.Write("netricsa_lang.lua", code)
+            SaveLanguage(code)  
             surface.PlaySound("netricsa/button_ssm_press.wav")
             if IsValid(NetricsaFrame) then
                 NetricsaFrame:Remove()
@@ -1105,6 +1127,7 @@ langBtn.DoClick = function()
     end
     menu:Open()
 end
+
 
 
 
@@ -1202,6 +1225,7 @@ hook.Add("HUDPaint", "NetricsaMailIcon", function()
     draw.SimpleText(unread, "NetricsaTitle", cx,     cy,     Color(255, 0, 0, alpha),
         TEXT_ALIGN_CENTER, TEXT_ALIGN_CENTER)
 end)
+
 
 hook.Add("InitPostEntity", "NetricsaAutoOpen", function()
     timer.Simple(2, function()
