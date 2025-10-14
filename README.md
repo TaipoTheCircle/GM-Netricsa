@@ -9,3 +9,6 @@
 
 ![serious-sam.png](./docs/images/serious-sam.png)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TaipoTheCircle/GM-Netricsa&type=date&legend=bottom-right)](https://www.star-history.com/#TaipoTheCircle/GM-Netricsa&type=date&legend=bottom-right)
