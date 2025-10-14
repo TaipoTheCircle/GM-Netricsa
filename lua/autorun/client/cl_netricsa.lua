@@ -344,7 +344,7 @@ end
 
 
 
-    local function OpenNetricsa()
+    function OpenNetricsa()
         if IsValid(NetricsaFrame) then
             NetricsaFrame:SetVisible(true)
             return
@@ -1134,11 +1134,7 @@ end
         SwitchTab(L("tabs","strategic"))
     end
 
-    hook.Add("Think","NetricsaKey",function()
-        if input.IsKeyDown(KEY_N) and not vgui.CursorVisible() then
-            OpenNetricsa()
-        end
-    end)
+
 
     
 
@@ -1229,9 +1225,20 @@ end)
 
 hook.Add("InitPostEntity", "NetricsaAutoOpen", function()
     timer.Simple(2, function()
-        if IsValid(LocalPlayer()) then
-            OpenNetricsa()
-        end
+        if not IsValid(LocalPlayer()) then return end
+
+        -- ждём, пока все client convars загрузятся
+        timer.Simple(0.2, function()
+            local cvar = GetConVar("netricsa_auto_open")
+
+            -- если конвар отсутствует — считаем, что включено по умолчанию
+            local shouldOpen = (not cvar) or cvar:GetBool()
+
+            if shouldOpen then
+                OpenNetricsa()
+            end
+        end)
     end)
 end)
+
 end
