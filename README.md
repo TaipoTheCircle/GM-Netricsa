@@ -12,6 +12,14 @@
 
 ![main.png](./docs/images/main.png)
 
-## Star History
+## Скриншоты / Screenshots
+![1.jpg](./docs/images/screenshots/1.jpg)
+![1.jpg](./docs/images/screenshots/2.jpg)
+![1.jpg](./docs/images/screenshots/3.jpg)
+![1.jpg](./docs/images/screenshots/4.jpg)
+![1.jpg](./docs/images/screenshots/5.jpg)
+![1.jpg](./docs/images/screenshots/6.jpg)
+![1.jpg](./docs/images/screenshots/7.jpg)
 
+## История звёзд / Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=TaipoTheCircle/GM-Netricsa&type=date&legend=bottom-right)](https://www.star-history.com/#TaipoTheCircle/GM-Netricsa&type=date&legend=bottom-right)
