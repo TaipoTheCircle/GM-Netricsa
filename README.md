@@ -10,7 +10,7 @@
 - [РУССКИЙ](./docs/README-RUS.md)
 - [ENGLISH](./docs/README-ENG.md)
 
-![serious-sam.png](./docs/images/serious-sam.png)
+![main.png](./docs/images/main.png)
 
 ## Star History
 
