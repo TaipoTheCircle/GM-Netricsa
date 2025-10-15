@@ -179,24 +179,6 @@ local function GetEnemyDisplayName(npcClass)
     return npcClass
 end
 
-function utf8.sub(s, i, j)
-    local start = utf8.offset(s, i)
-    local finish
-
-    if j then
-        local offset = utf8.offset(s, j + 1)
-        if offset then
-            finish = offset - 1
-        else
-            finish = #s
-        end
-    else
-        finish = utf8.len(s)
-    end
-
-    return string.sub(s, start, finish)
-end
-
 local function SetAnimatedText(rt, text, step, speed)
     if not IsValid(rt) then return end
     rt:SetText("")
