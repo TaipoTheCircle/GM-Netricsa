@@ -355,6 +355,7 @@ end
         NetricsaFrame:SetPos(0, 0)
         NetricsaFrame:ShowCloseButton(false)
         NetricsaFrame:SetTitle("")
+        NetricsaFrame:SetDraggable(false)
         NetricsaFrame:MakePopup()
 
 local gridMat = Material(NetricsaStyle.grid or "netricsa/grid.png", "noclamp smooth")

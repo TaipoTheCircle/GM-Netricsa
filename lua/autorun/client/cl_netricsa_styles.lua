@@ -225,25 +225,23 @@ if CLIENT then
          },
     }
 
-    local STYLE_FILE = "netricsa_style.lua"
+local STYLE_FILE = "netricsa_style.txt"
 
-    -- сохраняем стиль
-    local function SaveNetricsaStyle(name)
-        file.Write(STYLE_FILE, name)
-    end
+local function SaveNetricsaStyle(name)
+    file.Write(STYLE_FILE, name)
+end
 
-    -- загружаем стиль
-    local function LoadNetricsaStyle()
-        if file.Exists(STYLE_FILE, "DATA") then
-            local saved = file.Read(STYLE_FILE, "DATA")
-            if STYLES[saved] then
-                NetricsaStyle = STYLES[saved]
-                return
-            end
+local function LoadNetricsaStyle()
+    if file.Exists(STYLE_FILE, "DATA") then
+        local saved = string.Trim(file.Read(STYLE_FILE, "DATA") or "")
+        if STYLES[saved] then
+            NetricsaStyle = STYLES[saved]
+            return
         end
-        -- если ничего нет, дефолт
-        NetricsaStyle = STYLES.Revolution
     end
+    NetricsaStyle = STYLES.Revolution
+end
+
 
     -- публичная функция смены стиля
 function SetNetricsaStyle(name)
