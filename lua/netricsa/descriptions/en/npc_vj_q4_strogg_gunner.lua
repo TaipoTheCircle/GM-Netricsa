@@ -1,4 +1,4 @@
-STROGG GUNNER
+STROGG GUNNER FROM STROGGOS
 
 
 CLASS:      Strogg Ranged Support / Mid-Level Combatant

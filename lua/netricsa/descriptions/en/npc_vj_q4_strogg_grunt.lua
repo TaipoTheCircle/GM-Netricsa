@@ -1,4 +1,4 @@
-STROGG GRUNT
+STROGG GRUNT FROM STROGGOS
 
 
 CLASS:      Strogg Melee Infantry

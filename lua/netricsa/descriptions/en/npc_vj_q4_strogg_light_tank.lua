@@ -1,4 +1,4 @@
-STROGG LIGHT TANK
+STROGG LIGHT TANK FROM STROGGOS
 
 
 CLASS:      Strogg Heavy Tank Variant
