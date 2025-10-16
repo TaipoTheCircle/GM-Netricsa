@@ -9,6 +9,11 @@
     "ignore": [
         "*.psd",
         "*.vcproj",
-        "*.svn"
+        "*.svn",
+        ".gitignore",
+        "LICENSE",
+        "README",
+        ".github/",
+        "docs/"
     ]
 }
