@@ -10,10 +10,12 @@
         "*.psd",
         "*.vcproj",
         "*.svn",
+        "*.git",
+        "*.github",
         ".gitignore",
         "LICENSE",
-        "README",
-        ".github/",
-        "docs/"
+        "README.md",
+        ".github",
+        "docs"
     ]
 }
