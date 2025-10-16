@@ -1,0 +1,21 @@
+name: Deploy to Workshop
+
+on:
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Upload to Workshop
+        uses: CFC-Servers/gmod-upload@master
+        with:
+          id: 3584451844
+          changelog: "${{ github.event.head_commit.message }}"
+        env:
+          STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }}
+          STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }}

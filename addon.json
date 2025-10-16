@@ -1,0 +1,14 @@
+{
+    "title": "GM-NETRICSA",
+    "type": "effects",
+    "tags": [
+        "fun",
+        "scenic"
+    ],
+    "description": "",
+    "ignore": [
+        "*.psd",
+        "*.vcproj",
+        "*.svn"
+    ]
+}
