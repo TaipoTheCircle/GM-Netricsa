@@ -23,3 +23,8 @@
 
 ## История звёзд / Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=TaipoTheCircle/GM-Netricsa&type=date&legend=bottom-right)](https://www.star-history.com/#TaipoTheCircle/GM-Netricsa&type=date&legend=bottom-right)
+
+## МЕГАКРУТЫЕ РЕБЯТА / Contributors
+<a href="https://github.com/TaipoTheCircle/GM-Netricsa/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TaipoTheCircle/GM-Netricsa" />
+</a>
