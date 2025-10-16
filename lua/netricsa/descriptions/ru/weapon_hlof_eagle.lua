@@ -1,4 +1,4 @@
-DESERT EAGLE
+ПИСТОЛЕТ DESERT EAGLE
 
 
 ОРУЖИЕ:     IMI Desert Eagle

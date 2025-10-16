@@ -285,6 +285,8 @@ local SpecialInstantEnemies = {
   ["obj_vj_hlr1_hornet"] = true,
   ["sent_vj_xen_crystal"] = true,
   ["npc_missiledefense"] = true,
+  ["npc_vj_ssc_devil"] = true,
+  ["npc_vj_ss2_mentalfestung"] = true,
 
 }
 

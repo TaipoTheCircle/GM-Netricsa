@@ -1,4 +1,4 @@
-DESERT EAGLE
+DESERT EAGLE PISTOL
 
 
 WEAPON:      IMI Desert Eagle
