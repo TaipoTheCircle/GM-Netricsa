@@ -1,7 +1,8 @@
 name: Deploy to Workshop
 
 on:
-  workflow_dispatch:
+  release:
+    types: [published]
 
 jobs:
   deploy:
@@ -16,6 +17,7 @@ jobs:
         with:
           id: 3584451844
           changelog: "${{ github.event.release.body }}"
+          steam_tfaseed: ${{ secrets.STEAM_TFASEED }}
         env:
           STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }}
           STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }}
