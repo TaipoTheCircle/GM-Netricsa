@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Upload to Workshop
-        uses: CFC-Servers/gmod-upload@master
+        uses: MagicFoxGames/gmod-addon-upload@main
         with:
           id: 3584451844
           changelog: "${{ github.event.release.body }}"
