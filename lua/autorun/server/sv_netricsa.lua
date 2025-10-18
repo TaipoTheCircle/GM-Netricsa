@@ -287,6 +287,10 @@ local SpecialInstantEnemies = {
   ["npc_missiledefense"] = true,
   ["npc_vj_ssc_devil"] = true,
   ["npc_vj_ss2_mentalfestung"] = true,
+  ["npc_vj_ssc_devil_question"] = true,
+  ["npc_vj_ssc_walker_female"] = true,
+  ["npc_vj_ssc_elementallava_large"] = true,
+  ["npc_vj_q4_strogg_harvester"] = true,
 
 }
 
