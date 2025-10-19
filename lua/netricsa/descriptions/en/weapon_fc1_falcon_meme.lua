@@ -1,7 +1,7 @@
-DESERT EAGLE PISTOL
+DESERT EAGLE PISTOL, MEME
 
 
-WEAPON:      IMI Desert Eagle
+WEAPON:      IMI Desert Eagle, meme
 AMMO:        357 Magnum rounds
 ROF:         Semi-automatic, ~30 rds/min
 

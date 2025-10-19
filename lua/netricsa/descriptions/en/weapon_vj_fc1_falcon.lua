@@ -7,7 +7,7 @@ ROF:         Semi-automatic, ~30 rds/min
 
 DESCRIPTION:
 
-High-caliber semi-automatic handgun issued to H.E.C.U. operatives. Features a built-in laser sight for increased precision. Packs heavy stopping power, making it one of the most effective sidearms in the field.
+High-caliber semi-automatic handgun. Features a built-in laser sight for increased precision. Packs heavy stopping power, making it one of the most effective sidearms in the field.
 
 NOTES:
 

@@ -1,4 +1,4 @@
-BERETTA 92
+BERETTA 92 PISTOL
 
 
 WEAPON:      Beretta 92 Pistol

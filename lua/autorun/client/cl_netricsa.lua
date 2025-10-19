@@ -364,9 +364,9 @@ exitBtn.Paint = function(self, w, h)
 end
 
 
-        local leftPanel = vgui.Create("DPanel", NetricsaFrame)
-        leftPanel:SetPos(20, 60)
-        leftPanel:SetSize(250, ScrH() - 80)
+local leftPanel = vgui.Create("DPanel", NetricsaFrame)
+leftPanel:SetPos(20, 60)
+leftPanel:SetSize(250, ScrH() - 80)
 leftPanel.Paint = function(self, w, h)
     surface.SetDrawColor(255, 255, 255, 255)
     local bg = Material(NetricsaStyle.text, "noclamp smooth")

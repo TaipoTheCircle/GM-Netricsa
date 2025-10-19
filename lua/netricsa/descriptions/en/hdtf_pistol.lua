@@ -1,7 +1,7 @@
-BERETTA 92 PISTOL
+M9 PISTOL
 
 
-WEAPON:      Beretta 92 Pistol
+WEAPON:      M9 Pistol
 AMMO:        9x19mm Parabellum rounds
 ROF:         Semi-automatic, ~15 rds/min effective
 
