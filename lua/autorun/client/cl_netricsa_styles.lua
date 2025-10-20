@@ -12,6 +12,8 @@ if CLIENT then
             content = "netricsa/content_bg.png",
             bg      = "netricsa/bg_netricsa.png",
             exit = "netricsa/exit_bg.png",
+            left     = "netricsa/left_bg.png",
+            up       = "netricsa/up_bg.png",
             color   = Color(209,171,88)
         },
 
@@ -23,6 +25,8 @@ if CLIENT then
             content = "netricsa/content_bg_alt1.png",
             bg      = "netricsa/bg_netricsa_alt1.png",
             exit = "netricsa/exit_bg_alt1.png",
+            left     = "netricsa/left_bg_alt1.png",
+            up       = "netricsa/up_bg_alt1.png",
             color   = Color(100, 200, 255)
         },
 
@@ -34,6 +38,8 @@ if CLIENT then
             content = "netricsa/content_bg_alt2.png",
             bg      = "netricsa/bg_netricsa_alt2.png",
             exit = "netricsa/exit_bg_alt2.png",
+            left     = "netricsa/left_bg_alt2.png",
+            up       = "netricsa/up_bg_alt2.png",
             color   = Color(0, 255, 0)
         },
 
@@ -45,6 +51,8 @@ if CLIENT then
             content = "netricsa/content_bg_alt3.png",
             bg      = "netricsa/bg_netricsa_alt3.png",
             exit = "netricsa/exit_bg_alt3.png",
+            left     = "netricsa/left_bg_alt3.png",
+            up       = "netricsa/up_bg_alt3.png",
             color   = Color(255, 80, 80)
         },
 
@@ -56,6 +64,8 @@ if CLIENT then
             content = "netricsa/content_bg_alt4.png",
             bg      = "netricsa/bg_netricsa_alt4.png",
             exit = "netricsa/exit_bg_alt4.png",
+            left     = "netricsa/left_bg_alt4.png",
+            up       = "netricsa/up_bg_alt4.png",
             color   = Color(255, 140, 0)
         },
 
@@ -67,6 +77,8 @@ if CLIENT then
             content = "netricsa/content_bg_alt5.png",
             bg      = "netricsa/bg_netricsa_alt5.png",
             exit = "netricsa/exit_bg_alt5.png",
+            left     = "netricsa/left_bg_alt5.png",
+            up       = "netricsa/up_bg_alt5.png",
             color   = Color(255, 255, 0)
         },
 
@@ -78,6 +90,8 @@ if CLIENT then
             content = "netricsa/content_bg_alt6.png",
             bg      = "netricsa/bg_netricsa_alt6.png",
             exit = "netricsa/exit_bg_alt6.png",
+            left     = "netricsa/left_bg_alt6.png",
+            up       = "netricsa/up_bg_alt6.png",
             color   = Color(255, 105, 180)
         },
 
@@ -89,6 +103,8 @@ if CLIENT then
             content = "netricsa/content_bg_alt7.png",
             bg      = "netricsa/bg_netricsa_alt7.png",
             exit = "netricsa/exit_bg_alt7.png",
+            left     = "netricsa/left_bg_alt7.png",
+            up       = "netricsa/up_bg_alt7.png",
             color   = Color(255, 255, 255)
         },
 
@@ -100,6 +116,8 @@ if CLIENT then
             content = "netricsa/content_bg_alt8.png",
             bg      = "netricsa/bg_netricsa_alt8.png",
             exit = "netricsa/exit_bg_alt8.png",
+            left     = "netricsa/left_bg_alt8.png",
+            up       = "netricsa/up_bg_alt8.png",
             color   = Color(65, 177, 255)
         },
 
@@ -111,6 +129,8 @@ if CLIENT then
             content = "netricsa/content_bg_alt9.png",
             bg      = "netricsa/bg_netricsa_alt9.png",
             exit = "netricsa/exit_bg_alt9.png",
+            left     = "netricsa/left_bg_alt9.png",
+            up       = "netricsa/up_bg_alt9.png",
             color   = Color(177, 105, 24)
         },
 
@@ -122,6 +142,8 @@ if CLIENT then
             content = "netricsa/content_bg_alt10.png",
             bg      = "netricsa/bg_netricsa_alt10.png",
             exit = "netricsa/exit_bg_alt10.png",
+            left     = "netricsa/left_bg_alt10.png",
+            up       = "netricsa/up_bg_alt10.png",
             color   = Color(248, 224, 0)
         },
 
@@ -133,6 +155,8 @@ if CLIENT then
             content = "netricsa/content_bg_alt11.png",
             bg      = "netricsa/bg_netricsa_alt11.png",
             exit = "netricsa/exit_bg_alt11.png",
+            left     = "netricsa/left_bg_alt11.png",
+            up       = "netricsa/up_bg_alt11.png",
             color   = Color(250, 250, 251)
         },
 
@@ -144,6 +168,8 @@ if CLIENT then
             content = "netricsa/content_bg_alt12.png",
             bg      = "netricsa/bg_netricsa_alt12.png",
             exit = "netricsa/exit_bg_alt12.png",
+            left     = "netricsa/left_bg_alt12.png",
+            up       = "netricsa/up_bg_alt12.png",
             color   = Color(0, 255, 169)
         },
 
@@ -155,6 +181,8 @@ if CLIENT then
             content = "netricsa/content_bg_alt13.png",
             bg      = "netricsa/bg_netricsa_alt13.png",
             exit = "netricsa/exit_bg_alt13.png",
+            left     = "netricsa/left_bg_alt13.png",
+            up       = "netricsa/up_bg_alt13.png",
             color   = Color(248, 156, 0)
         },
 
@@ -166,6 +194,8 @@ if CLIENT then
             content = "netricsa/content_bg_alt14.png",
             bg      = "netricsa/bg_netricsa_alt14.png",
             exit = "netricsa/exit_bg_alt14.png",
+            left     = "netricsa/left_bg_alt14.png",
+            up       = "netricsa/up_bg_alt14.png",
             color   = Color(58, 183, 35)
         },
 
@@ -177,6 +207,8 @@ if CLIENT then
             content = "netricsa/content_bg_alt15.png",
             bg      = "netricsa/bg_netricsa_alt15.png",
             exit = "netricsa/exit_bg_alt15.png",
+            left     = "netricsa/left_bg_alt15.png",
+            up       = "netricsa/up_bg_alt15.png",
             color   = Color(24, 52, 96)
         },
 
@@ -188,6 +220,8 @@ if CLIENT then
             content = "netricsa/content_bg_alt16.png",
             bg      = "netricsa/bg_netricsa_alt16.png",
             exit = "netricsa/exit_bg_alt16.png",
+            left     = "netricsa/left_bg_alt16.png",
+            up       = "netricsa/up_bg_alt16.png",
             color   = Color(213, 232, 208)
          },
 
@@ -199,6 +233,8 @@ if CLIENT then
             content = "netricsa/content_bg_alt17.png",
             bg      = "netricsa/bg_netricsa_alt17.png",
             exit = "netricsa/exit_bg_alt17.png",
+            left     = "netricsa/left_bg_alt17.png",
+            up       = "netricsa/up_bg_alt17.png",
             color   = Color(229,142,2)
          },
 
@@ -210,6 +246,8 @@ if CLIENT then
             content = "netricsa/content_bg_alt18.png",
             bg      = "netricsa/bg_netricsa_alt18.png",
             exit = "netricsa/exit_bg_alt18.png",
+            left     = "netricsa/left_bg_alt18.png",
+            up       = "netricsa/up_bg_alt18.png",
             color   = Color(191,172,26)
          },
 
@@ -221,6 +259,8 @@ if CLIENT then
             content = "netricsa/content_bg_alt19.png",
             bg      = "netricsa/bg_netricsa_alt19.png",
             exit = "netricsa/exit_bg_alt19.png",
+            left     = "netricsa/left_bg_alt19.png",
+            up       = "netricsa/up_bg_alt19.png",
             color   = Color(105,48,23)
          },
     }

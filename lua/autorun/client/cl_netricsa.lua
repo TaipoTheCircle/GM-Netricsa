@@ -367,9 +367,10 @@ end
 local leftPanel = vgui.Create("DPanel", NetricsaFrame)
 leftPanel:SetPos(20, 60)
 leftPanel:SetSize(250, ScrH() - 80)
+local leftMat = Material(NetricsaStyle.left or "netricsa/left_bg.png", "noclamp smooth")
 leftPanel.Paint = function(self, w, h)
     surface.SetDrawColor(255, 255, 255, 255)
-    local bg = Material(NetricsaStyle.text, "noclamp smooth")
+    local bg = leftMat
     surface.SetMaterial(bg)
     surface.DrawTexturedRect(0, 0, w, h)
 end
@@ -403,9 +404,10 @@ local function SwitchTab(tabName)
         NoBG(listPanel)
         listPanel:Dock(TOP)
         listPanel:SetTall(200)
+        local upMat = Material(NetricsaStyle.up or "netricsa/up_bg.png", "noclamp smooth")
         listPanel.Paint = function(self, w, h)
             surface.SetDrawColor(255, 255, 255, 255)
-            surface.SetMaterial(bgMatText)
+            surface.SetMaterial(upMat)
             surface.DrawTexturedRect(0, 0, w, h)
             draw.SimpleText("WELCOME TO NETRICSA!", "NetricsaTitle", 20, 10, style.color, TEXT_ALIGN_LEFT, TEXT_ALIGN_TOP)
         end
@@ -466,9 +468,10 @@ local function SwitchTab(tabName)
         NoBG(mapListPanel)
         mapListPanel:Dock(TOP)
         mapListPanel:SetTall(200)
+        local upMat = Material(NetricsaStyle.up or "netricsa/up_bg.png", "noclamp smooth")
         mapListPanel.Paint = function(self, w, h)
             surface.SetDrawColor(255, 255, 255, 255)
-            surface.SetMaterial(bgMatText)
+            surface.SetMaterial(upMat)
             surface.DrawTexturedRect(0, 0, w, h)
         end
 
@@ -586,9 +589,10 @@ end
         NoBG(enemyListPanel)
         enemyListPanel:Dock(TOP)
         enemyListPanel:SetTall(200)
+        local upMat = Material(NetricsaStyle.up or "netricsa/up_bg.png", "noclamp smooth")
         enemyListPanel.Paint = function(self, w, h)
             surface.SetDrawColor(255, 255, 255, 255)
-            surface.SetMaterial(bgMatText)
+            surface.SetMaterial(upMat)
             surface.DrawTexturedRect(0, 0, w, h)
         end
 
@@ -694,9 +698,10 @@ end
     NoBG(fracListPanel)
     fracListPanel:Dock(TOP)
     fracListPanel:SetTall(200)
+    local upMat = Material(NetricsaStyle.up or "netricsa/up_bg.png", "noclamp smooth")
     fracListPanel.Paint = function(self, w, h)
         surface.SetDrawColor(255,255,255,255)
-        surface.SetMaterial(bgMatText)
+        surface.SetMaterial(upMat)
         surface.DrawTexturedRect(0, 0, w, h)
     end
 
@@ -781,9 +786,10 @@ end
         NoBG(weaponListPanel)
         weaponListPanel:Dock(TOP)
         weaponListPanel:SetTall(200)
+        local upMat = Material(NetricsaStyle.up or "netricsa/up_bg.png", "noclamp smooth")
         weaponListPanel.Paint = function(self, w, h)
             surface.SetDrawColor(255, 255, 255, 255)
-            surface.SetMaterial(bgMatText)
+            surface.SetMaterial(upMat)
             surface.DrawTexturedRect(0, 0, w, h)
         end
 
@@ -880,9 +886,10 @@ end
         NoBG(headerPanel)
         headerPanel:Dock(TOP)
         headerPanel:SetTall(200) -- ← было 60
+        local upMat = Material(NetricsaStyle.up or "netricsa/up_bg.png", "noclamp smooth")
         headerPanel.Paint = function(self, w, h)
             surface.SetDrawColor(255,255,255,255)
-            surface.SetMaterial(bgMatText)
+            surface.SetMaterial(upMat)
             surface.DrawTexturedRect(0, 0, w, h)
 
             local mapName = game.GetMap()
