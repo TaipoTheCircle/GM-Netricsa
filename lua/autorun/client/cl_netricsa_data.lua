@@ -67,19 +67,22 @@ if CLIENT then
         end
     end
 
-    -- Сброс progress.json при перезапуске игры (CurTime() < 1)
-    print("[Netricsa Client] Checking for game restart - CurTime(): " .. CurTime())
-    if CurTime() < 1 then
-        print("[Netricsa Client] Game restart detected, resetting progress")
+    -- Сброс progress.json при перезапуске игры (простая логика на основе времени)
+    print("[Netricsa Client] SysTime(): " .. SysTime())
+
+    if SysTime() < 10 then  -- Если прошло меньше 10 секунд с запуска системы - это перезапуск игры
+        print("[Netricsa Client] Game restart detected (SysTime < 10), resetting progress")
         if file.Exists(PROGRESS_FILE, "DATA") then
             file.Delete(PROGRESS_FILE)
-            print("[Netricsa Client] Deleted old progress file")
+            print("[Netricsa Client] Deleted progress file")
         end
         SAVED_MAPS = {}
         ENEMIES = {}
         WEAPONS = {}
         READ_STATUS = { maps = {}, enemies = {}, weapons = {} }
     else
+        -- Это смена карты, загружаем прогресс
+        print("[Netricsa Client] Map change detected (SysTime >= 10), loading progress")
         LoadProgress()
     end
 
