@@ -252,11 +252,20 @@ if CLIENT then
             menu:Open()
         end
 
-        print("[Netricsa] Initializing default tab: strategic")
+        -- Determine the default tab: first with unread messages, or strategic if all read
+        local defaultTab = L("tabs","strategic")
+        for _, tabName in ipairs(tabs) do
+            if NetricsaData.GetUnreadCount(tabName) > 0 then
+                defaultTab = tabName
+                break
+            end
+        end
+
+        print("[Netricsa] Initializing default tab: " .. defaultTab)
         -- Initialize tab immediately since contentPanel is now set
         print("[Netricsa] Immediate SwitchTab call")
-        NetricsaTabs.SwitchTab(L("tabs","strategic"))
-        UpdateCurrentTab(L("tabs","strategic"))
+        NetricsaTabs.SwitchTab(defaultTab)
+        UpdateCurrentTab(defaultTab)
         print("[Netricsa] Default tab initialized")
     end
 
