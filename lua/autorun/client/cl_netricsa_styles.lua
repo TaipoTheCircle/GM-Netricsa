@@ -282,7 +282,6 @@ local function LoadNetricsaStyle()
     NetricsaStyle = STYLES.Revolution
 end
 
-
     -- публичная функция смены стиля
 function SetNetricsaStyle(name)
     if STYLES[name] then
@@ -291,8 +290,6 @@ function SetNetricsaStyle(name)
         surface.PlaySound("netricsa/button_ssm_press.wav")
     end
 end
-
-
 
     --  загружаем стиль сразу при старте
     LoadNetricsaStyle()
