@@ -69,6 +69,42 @@ local function BroadcastStats()
     net.Broadcast()
 end
 
+   -- Таблица известных NPC
+   TrackedEnemies = TrackedEnemies or {}
+
+   local TRACKED_ENEMIES_FILE = "netricsa_tracked_enemies.json"
+
+   local function SaveTrackedEnemies()
+       print("[Netricsa Server] Saving TrackedEnemies to file: " .. TRACKED_ENEMIES_FILE)
+       local json = util.TableToJSON(TrackedEnemies, true)
+       if json then
+           file.Write(TRACKED_ENEMIES_FILE, json)
+           print("[Netricsa Server] Successfully saved " .. table.Count(TrackedEnemies) .. " enemies")
+       else
+           print("[Netricsa Server] Failed to serialize TrackedEnemies")
+       end
+   end
+
+   local function LoadTrackedEnemies()
+       print("[Netricsa Server] Loading TrackedEnemies from file: " .. TRACKED_ENEMIES_FILE)
+       if file.Exists(TRACKED_ENEMIES_FILE, "DATA") then
+           local raw = file.Read(TRACKED_ENEMIES_FILE, "DATA")
+           if raw then
+               local data = util.JSONToTable(raw)
+               if data then
+                   TrackedEnemies = data
+                   print("[Netricsa Server] Successfully loaded " .. table.Count(TrackedEnemies) .. " enemies")
+               else
+                   print("[Netricsa Server] Failed to parse JSON data")
+               end
+           else
+               print("[Netricsa Server] Failed to read file")
+           end
+       else
+           print("[Netricsa Server] File does not exist")
+       end
+   end
+
 -- при старте карты
 hook.Add("InitPostEntity", "Netricsa_StatsInit", function()
     stats_kills = 0
@@ -76,6 +112,20 @@ hook.Add("InitPostEntity", "Netricsa_StatsInit", function()
     stats_startTime = CurTime()
     trackedNPCs = {}
     EnemyState = {} -- очистим состояние при рестарте карты
+
+    -- Загружаем TrackedEnemies из файла, если SysTime() > 1 (не перезапуск сервера)
+    print("[Netricsa Server] InitPostEntity - SysTime(): " .. SysTime())
+    if SysTime() > 1 then
+        LoadTrackedEnemies()
+    else
+        -- При перезапуске сервера сбрасываем файл
+        print("[Netricsa Server] Server restart detected, resetting TrackedEnemies")
+        TrackedEnemies = {}
+        if file.Exists(TRACKED_ENEMIES_FILE, "DATA") then
+            file.Delete(TRACKED_ENEMIES_FILE)
+            print("[Netricsa Server] Deleted old TrackedEnemies file")
+        end
+    end
 
     for _, ent in ipairs(ents.GetAll()) do
         if IsValid(ent) and ent:IsNPC() then
@@ -137,8 +187,6 @@ hook.Add("EntityRemoved", "Netricsa_StatsOnRemove", function(ent)
     EnemyState[id] = nil
 end)
 
-    -- Таблица известных NPC
-    TrackedEnemies = TrackedEnemies or {}
 
     -- Отслеживание NPC (отправляем данные при смерти, но используем сохранённое состояние если есть)
     hook.Add("OnNPCKilled", "NetricsaTrack", function(npc, attacker, inflictor)
@@ -168,6 +216,7 @@ end)
         end
 
         TrackedEnemies[npcClass] = true
+        SaveTrackedEnemies() -- сохраняем в файл при добавлении нового NPC
 
         net.Start("Netricsa_AddEnemy")
             net.WriteString(npcClass)
@@ -308,6 +357,7 @@ local function AnnounceSpecialNPC(ent)
     end
 
     TrackedEnemies[npcClass] = true
+    SaveTrackedEnemies() -- сохраняем в файл при добавлении специального NPC
 
     net.Start("Netricsa_AddEnemy")
         net.WriteString(npcClass)
