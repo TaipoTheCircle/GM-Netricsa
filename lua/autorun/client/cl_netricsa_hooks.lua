@@ -96,9 +96,14 @@ if CLIENT then
                 -- если конвар отсутствует — считаем, что включено по умолчанию
                 local shouldOpen = (not cvar) or cvar:GetBool()
 
-                if shouldOpen then
-                    print("[Netricsa] Auto-opening interface after InitPostEntity")
+                -- проверяем наличие новых уведомлений (непрочитанных элементов)
+                local unread = NetricsaData.GetUnreadCount("maps") + NetricsaData.GetUnreadCount(L("tabs","enemies")) + NetricsaData.GetUnreadCount(L("tabs","weapons"))
+
+                if shouldOpen and unread > 0 then
+                    print("[Netricsa] Auto-opening interface after InitPostEntity (unread: " .. unread .. ")")
                     NetricsaMain.OpenNetricsa()
+                elseif unread == 0 then
+                    print("[Netricsa] Skipping auto-open: no new notifications")
                 end
             end)
         end)
