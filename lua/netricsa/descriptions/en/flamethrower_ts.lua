@@ -1,7 +1,7 @@
-XOP FLAMETHROWER
+FLAMETHROWER
 
 
-WEAPON:    XOP Flamethrower
+WEAPON:    Flamethrower
 AMMO:      HV Napalm 
 ROF:       Continuous
 WEIGTH:    20 lbs (empty), 30 lbs (full reservoir)
