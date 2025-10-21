@@ -174,9 +174,6 @@ if CLIENT then
                 btn.DoClick = function() OpenMap(mapName) end
             end
 
-            -- сразу открываем первую непрочитанную карту или текущую
-            NetricsaData.OpenFirstUnread("maps", OpenMap)
-
             -- если список пустой, добавляем текущую карту
             if table.IsEmpty(NetricsaData.SAVED_MAPS) then
                 local currentMap = game.GetMap()
@@ -197,7 +194,17 @@ if CLIENT then
 
                 OpenMap(currentMap)
             else
-                NetricsaData.OpenFirstUnread("maps", OpenMap)
+                -- всегда открываем текущую карту
+                local currentMap = game.GetMap()
+                if NetricsaData.SAVED_MAPS[currentMap] then
+                    OpenMap(currentMap)
+                else
+                    -- если текущей карты нет в списке, открываем первую из списка
+                    for mapName, _ in pairs(NetricsaData.SAVED_MAPS) do
+                        OpenMap(mapName)
+                        break
+                    end
+                end
             end
 
         elseif tabName == L("tabs","enemies") then
