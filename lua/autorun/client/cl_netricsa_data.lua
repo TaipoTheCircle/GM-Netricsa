@@ -161,6 +161,16 @@ if CLIENT then
         end
     end
 
+    -- Автоматически добавляем текущую карту при загрузке
+    hook.Add("InitPostEntity", "Netricsa_AddCurrentMap", function()
+        local currentMap = game.GetMap()
+        if not SAVED_MAPS[currentMap] then
+            SAVED_MAPS[currentMap] = true
+            SaveProgress()
+            print("[Netricsa Client] Added current map to progress: " .. currentMap)
+        end
+    end)
+
     -- Expose data and functions
     NetricsaData = {
         ENEMIES = ENEMIES,
