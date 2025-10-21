@@ -28,59 +28,26 @@ if CLIENT then
     end)
 
     local function SaveProgress()
-        print("[Netricsa Client] Saving progress to file: " .. PROGRESS_FILE)
         local data = {
             maps = SAVED_MAPS,
             enemies = ENEMIES,
             weapons = WEAPONS,
             read = READ_STATUS
         }
-        local json = util.TableToJSON(data, true)
-        if json then
-            file.Write(PROGRESS_FILE, json)
-            print("[Netricsa Client] Successfully saved progress: " .. table.Count(SAVED_MAPS) .. " maps, " .. table.Count(ENEMIES) .. " enemies, " .. table.Count(WEAPONS) .. " weapons")
-        else
-            print("[Netricsa Client] Failed to serialize progress data")
-        end
+        file.Write(PROGRESS_FILE, util.TableToJSON(data, true))
     end
 
     local function LoadProgress()
-        print("[Netricsa Client] Loading progress from file: " .. PROGRESS_FILE)
         if file.Exists(PROGRESS_FILE, "DATA") then
             local raw = file.Read(PROGRESS_FILE, "DATA")
-            if raw then
-                local data = util.JSONToTable(raw)
-                if data then
-                    SAVED_MAPS = data.maps or {}
-                    ENEMIES = data.enemies or {}
-                    WEAPONS = data.weapons or {}
-                    READ_STATUS = data.read or { maps = {}, enemies = {}, weapons = {} }
-                    print("[Netricsa Client] Successfully loaded progress: " .. table.Count(SAVED_MAPS) .. " maps, " .. table.Count(ENEMIES) .. " enemies, " .. table.Count(WEAPONS) .. " weapons")
-                else
-                    print("[Netricsa Client] Failed to parse JSON data")
-                end
-            else
-                print("[Netricsa Client] Failed to read file")
+            local data = util.JSONToTable(raw)
+            if data then
+                SAVED_MAPS = data.maps or {}
+                ENEMIES = data.enemies or {}
+                WEAPONS = data.weapons or {}
+                READ_STATUS = data.read or { maps = {}, enemies = {}, weapons = {} }
             end
-        else
-            print("[Netricsa Client] Progress file does not exist")
         end
-    end
-
-    -- Сброс progress.json при перезапуске игры (CurTime() < 1)
-    print("[Netricsa Client] Checking for game restart - CurTime(): " .. CurTime())
-    if CurTime() < 1 then
-        print("[Netricsa Client] Game restart detected, resetting progress")
-        if file.Exists(PROGRESS_FILE, "DATA") then
-            file.Delete(PROGRESS_FILE)
-            print("[Netricsa Client] Deleted old progress file")
-        end
-        SAVED_MAPS = {}
-        ENEMIES = {}
-        WEAPONS = {}
-        READ_STATUS = { maps = {}, enemies = {}, weapons = {} }
-    else
-        LoadProgress()
     end
 
     local function LoadDescription(name)

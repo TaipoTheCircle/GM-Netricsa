@@ -7,13 +7,11 @@ if CLIENT then
         local bodygroups = {}
         for i=1,bgCount do bodygroups[i] = net.ReadUInt(8) end
 
-        print("[Netricsa Client] Received AddEnemy: " .. npcClass)
         local isNew = not NetricsaData.ENEMIES[npcClass] -- проверяем, есть ли уже
         NetricsaData.ENEMIES[npcClass] = { mdl = mdl, skin = skin, bodygroups = bodygroups }
         NetricsaData.SaveProgress()
 
         if isNew then
-            print("[Netricsa Client] New enemy discovered: " .. npcClass)
             NetricsaData.showScan = true
             timer.Simple(2, function() NetricsaData.showScan = false end)
             surface.PlaySound("netricsa/Info.wav")
@@ -24,13 +22,11 @@ if CLIENT then
         local class = net.ReadString()
         local mdl = net.ReadString()
 
-        print("[Netricsa Client] Received AddWeapon: " .. class)
         local isNew = not NetricsaData.WEAPONS[class]
         NetricsaData.WEAPONS[class] = { mdl = mdl }
         NetricsaData.SaveProgress()
 
         if isNew then
-            print("[Netricsa Client] New weapon discovered: " .. class)
             NetricsaData.showScan = true
             timer.Simple(2, function() NetricsaData.showScan = false end)
             surface.PlaySound("netricsa/Info.wav")
