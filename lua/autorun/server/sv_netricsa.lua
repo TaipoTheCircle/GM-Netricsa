@@ -113,9 +113,9 @@ hook.Add("InitPostEntity", "Netricsa_StatsInit", function()
     trackedNPCs = {}
     EnemyState = {} -- очистим состояние при рестарте карты
 
-    -- Загружаем TrackedEnemies из файла, если SysTime() > 1 (не перезапуск сервера)
-    print("[Netricsa Server] InitPostEntity - SysTime(): " .. SysTime())
-    if SysTime() > 1 then
+    -- Загружаем TrackedEnemies из файла, если CurTime() > 1 (не перезапуск сервера)
+    print("[Netricsa Server] InitPostEntity - CurTime(): " .. CurTime())
+    if CurTime() > 1 then
         LoadTrackedEnemies()
     else
         -- При перезапуске сервера сбрасываем файл
