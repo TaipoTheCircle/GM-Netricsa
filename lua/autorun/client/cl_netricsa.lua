@@ -347,9 +347,11 @@ if CLIENT then
         exitBtn:SetSize(40, 40)
         exitBtn:SetPos(ScrW() - 50, 10)
 
-        exitBtn.DoClick = function()
-            NetricsaFrame:Close()
-        end
+exitBtn.DoClick = function()
+    -- Воспроизводим звук Сэма при закрытии
+    hook.Run("OnNetricsaClosed")
+    NetricsaFrame:Close()
+end
 
         exitBtn.Paint = function(self, w, h)
             local style = NetricsaStyle or STYLES.Revolution
