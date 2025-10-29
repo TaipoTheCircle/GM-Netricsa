@@ -342,25 +342,24 @@ if CLIENT then
             draw.SimpleText("NETRISCA v2.01", "NetricsaTitle", 20, 10, style.color, TEXT_ALIGN_LEFT, TEXT_ALIGN_TOP)
         end
 
-local exitBtn = vgui.Create("DButton", NetricsaFrame)
-exitBtn:SetText("")
-exitBtn:SetSize(40, 40)
-exitBtn:SetPos(ScrW() - 50, 10)
+        local exitBtn = vgui.Create("DButton", NetricsaFrame)
+        exitBtn:SetText("")
+        exitBtn:SetSize(40, 40)
+        exitBtn:SetPos(ScrW() - 50, 10)
 
 exitBtn.DoClick = function()
-    -- 🔊 Воспроизводим голос Сэма при закрытии Нетриксы
+    -- Воспроизводим звук Сэма при закрытии
     hook.Run("OnNetricsaClosed")
     NetricsaFrame:Close()
 end
 
-exitBtn.Paint = function(self, w, h)
-    local style = NetricsaStyle or STYLES.Revolution
-    local mat = Material(style.exit or "netricsa/exit_bg.png", "noclamp smooth")
-    surface.SetDrawColor(255, 255, 255, 255)
-    surface.SetMaterial(mat)
-    surface.DrawTexturedRect(0, 0, w, h)
-end
-
+        exitBtn.Paint = function(self, w, h)
+            local style = NetricsaStyle or STYLES.Revolution
+            local mat = Material(style.exit or "netricsa/exit_bg.png", "noclamp smooth")
+            surface.SetDrawColor(255, 255, 255, 255)
+            surface.SetMaterial(mat)
+            surface.DrawTexturedRect(0, 0, w, h)
+        end
 
         local leftPanel = vgui.Create("DPanel", NetricsaFrame)
         leftPanel:SetPos(20, 60)
@@ -1225,28 +1224,4 @@ end
         end)
     end)
 
-if CLIENT then
-    local SamVoicePlayed = false  -- флаг, чтобы не повторялся звук
-
-    hook.Add("OnNetricsaClosed", "SAM_MAP_VOICES_ClientTrigger", function()
-        if SamVoicePlayed then
-            print("[Sam Map Voices] Звук уже был воспроизведён ранее — пропуск.")
-            return
-        end
-
-        local ply = LocalPlayer()
-        if not IsValid(ply) then return end
-
-        SamVoicePlayed = true  -- помечаем, что уже проиграли звук
-        RunConsoleCommand("sam_play_map_voice")
-
-        print("[Sam Map Voices] Клиент запросил воспроизведение звука при закрытии Нетриксы")
-    end)
-
-    -- сброс флага при загрузке новой карты
-    hook.Add("InitPostEntity", "SAM_MAP_VOICES_ResetAfterMapChange", function()
-        SamVoicePlayed = false
-        print("[Sam Map Voices] Флаг воспроизведения сброшен (новая карта)")
-    end)
-end
 end
