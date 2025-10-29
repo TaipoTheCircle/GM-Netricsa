@@ -22,6 +22,10 @@ if CLIENT then
 
     local continueCampaign = false --  Флаг для перехода по триггеру
 
+    -- ConVar для отслеживания первой загрузки карты в сессии
+    local FIRST_MAP_LOAD_CONVAR = "netricsa_first_map_load"
+    CreateConVar(FIRST_MAP_LOAD_CONVAR, "1", FCVAR_NONE)
+
     net.Receive("Netricsa_ContinueCampaign", function()
         -- пишем простой флаг, который переживёт загрузку новой карты
         file.Write(CONTINUE_FILE, tostring(os.time()))
@@ -67,22 +71,24 @@ if CLIENT then
         end
     end
 
-    -- Сброс progress.json при перезапуске игры (простая логика на основе времени)
-    print("[Netricsa Client] SysTime(): " .. SysTime())
-
-    if SysTime() < 10 then  -- Если прошло меньше 10 секунд с запуска системы - это перезапуск игры
-        print("[Netricsa Client] Game restart detected (SysTime < 10), resetting progress")
+    -- Загружаем прогресс при инициализации
+    print("[Netricsa Client] Initializing progress loading")
+    local convar = GetConVar(FIRST_MAP_LOAD_CONVAR)
+    local firstMapLoad = convar:GetBool()
+    print("[Netricsa Client] FIRST_MAP_LOAD_CONVAR value: " .. tostring(firstMapLoad))
+    if firstMapLoad then
+        -- Это первая загрузка карты в сессии - удаляем старый прогресс
+        print("[Netricsa Client] First map load detected, deleting old progress")
         if file.Exists(PROGRESS_FILE, "DATA") then
             file.Delete(PROGRESS_FILE)
-            print("[Netricsa Client] Deleted progress file")
+            print("[Netricsa Client] Deleted old progress file (first map load)")
         end
-        SAVED_MAPS = {}
-        ENEMIES = {}
-        WEAPONS = {}
-        READ_STATUS = { maps = {}, enemies = {}, weapons = {} }
+        -- Помечаем, что первая загрузка прошла
+        RunConsoleCommand(FIRST_MAP_LOAD_CONVAR, "0")
+        print("[Netricsa Client] Set FIRST_MAP_LOAD_CONVAR to 0")
     else
-        -- Это смена карты, загружаем прогресс
-        print("[Netricsa Client] Map change detected (SysTime >= 10), loading progress")
+        -- Это не первая загрузка - загружаем прогресс
+        print("[Netricsa Client] Not first map load, loading progress")
         LoadProgress()
     end
 
