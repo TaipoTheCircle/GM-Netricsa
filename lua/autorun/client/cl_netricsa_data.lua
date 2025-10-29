@@ -21,10 +21,12 @@ if CLIENT then
     local PROGRESS_FILE = "netricsa_progress.json"
 
     local continueCampaign = false --  Флаг для перехода по триггеру
-
-    -- ConVar для отслеживания первой загрузки карты в сессии
-    local FIRST_MAP_LOAD_CONVAR = "netricsa_first_map_load"
-    CreateConVar(FIRST_MAP_LOAD_CONVAR, "1", FCVAR_NONE)
+    
+    -- ConVar'ы для отслеживания сессии игры
+    local SESSION_MAP_CONVAR = "netricsa_session_map"
+    local SESSION_TIME_CONVAR = "netricsa_session_time"
+    CreateClientConVar(SESSION_MAP_CONVAR, "", FCVAR_ARCHIVE, "Current map in game session")
+    CreateClientConVar(SESSION_TIME_CONVAR, "0", FCVAR_ARCHIVE, "Last activity timestamp in game session")
 
     net.Receive("Netricsa_ContinueCampaign", function()
         -- пишем простой флаг, который переживёт загрузку новой карты
@@ -71,26 +73,23 @@ if CLIENT then
         end
     end
 
-    -- Загружаем прогресс при инициализации
-    print("[Netricsa Client] Initializing progress loading")
-    local convar = GetConVar(FIRST_MAP_LOAD_CONVAR)
-    local firstMapLoad = convar:GetBool()
-    print("[Netricsa Client] FIRST_MAP_LOAD_CONVAR value: " .. tostring(firstMapLoad))
-    if firstMapLoad then
-        -- Это первая загрузка карты в сессии - удаляем старый прогресс
-        print("[Netricsa Client] First map load detected, deleting old progress")
-        if file.Exists(PROGRESS_FILE, "DATA") then
-            file.Delete(PROGRESS_FILE)
-            print("[Netricsa Client] Deleted old progress file (first map load)")
+    hook.Add("InitPostEntity", "Netricsa_AddCurrentMap", function()
+        local currentMap = game.GetMap()
+
+        -- Автоматически добавляем текущую карту при загрузке
+        if not SAVED_MAPS[currentMap] then
+            SAVED_MAPS[currentMap] = true
+            SaveProgress()
+            print("[Netricsa Client] Added current map to progress: " .. currentMap)
         end
-        -- Помечаем, что первая загрузка прошла
-        RunConsoleCommand(FIRST_MAP_LOAD_CONVAR, "0")
-        print("[Netricsa Client] Set FIRST_MAP_LOAD_CONVAR to 0")
-    else
-        -- Это не первая загрузка - загружаем прогресс
-        print("[Netricsa Client] Not first map load, loading progress")
-        LoadProgress()
-    end
+    end)
+
+    -- Обновляем время активности при выгрузке карты
+    hook.Add("ShutDown", "Netricsa_SessionUpdate", function()
+        local currentTime = os.time()
+        RunConsoleCommand(SESSION_TIME_CONVAR, tostring(currentTime))
+        print("[Netricsa Client] Updated session time on shutdown: " .. currentTime)
+    end)
 
     local function LoadDescription(name)
         local lang = CurrentLang or "en"
@@ -167,15 +166,41 @@ if CLIENT then
         end
     end
 
-    -- Автоматически добавляем текущую карту при загрузке
-    hook.Add("InitPostEntity", "Netricsa_AddCurrentMap", function()
+    local function OnStart()
         local currentMap = game.GetMap()
-        if not SAVED_MAPS[currentMap] then
-            SAVED_MAPS[currentMap] = true
-            SaveProgress()
-            print("[Netricsa Client] Added current map to progress: " .. currentMap)
+            
+        -- Логика загрузки прогресса на основе сессии
+        local currentTime = os.time()
+        local sessionMap = GetConVar(SESSION_MAP_CONVAR):GetString()
+        local sessionTime = GetConVar(SESSION_TIME_CONVAR):GetInt()
+
+        print("[Netricsa OnStart] Session check - Current map: " .. currentMap .. ", Session map: " .. sessionMap)
+        print("[Netricsa OnStart] Session check - Current time: " .. currentTime .. ", Session time: " .. sessionTime)
+
+        -- Сохраняем текущую карту и время в ConVar
+        RunConsoleCommand(SESSION_MAP_CONVAR, currentMap)
+        RunConsoleCommand(SESSION_TIME_CONVAR, tostring(currentTime))
+
+        if sessionMap == currentMap then
+            -- Та же карта - сбрасываем прогресс
+            print("[Netricsa OnStart] Same map detected, resetting progress")
+            if file.Exists(PROGRESS_FILE, "DATA") then
+                file.Delete(PROGRESS_FILE)
+                print("[Netricsa OnStart] Deleted progress file (same map)")
+            end
+        elseif sessionTime > 0 and (currentTime - sessionTime) >= 300 then  -- 5 минут = 300 секунд
+            -- Прошло больше 5 минут - сбрасываем прогресс
+            print("[Netricsa OnStart] Time difference >= 5 minutes, resetting progress")
+            if file.Exists(PROGRESS_FILE, "DATA") then
+                file.Delete(PROGRESS_FILE)
+                print("[Netricsa OnStart] Deleted progress file (time expired)")
+            end
+        else
+            -- Продолжаем сессию - загружаем прогресс
+            print("[Netricsa OnStart] Continuing session, loading progress")
+            LoadProgress()
         end
-    end)
+    end
 
     -- Expose data and functions
     NetricsaData = {
@@ -185,6 +210,7 @@ if CLIENT then
         READ_STATUS = READ_STATUS,
         showScan = showScan,
         continueCampaign = continueCampaign,
+        OnStart = OnStart,
         SaveProgress = SaveProgress,
         LoadProgress = LoadProgress,
         LoadDescription = LoadDescription,

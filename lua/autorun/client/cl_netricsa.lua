@@ -8,6 +8,5 @@ if CLIENT then
     include("cl_netricsa_main.lua")
     include("cl_netricsa_hooks.lua")
 
-    -- Load progress on client init
-    NetricsaData.LoadProgress()
+    NetricsaData.OnStart()
 end
