@@ -7,6 +7,4 @@ if CLIENT then
     include("cl_netricsa_tabs.lua")
     include("cl_netricsa_main.lua")
     include("cl_netricsa_hooks.lua")
-
-    NetricsaData.OnStart()
 end
