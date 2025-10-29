@@ -15,6 +15,7 @@ if CLIENT then
     local SAVED_MAPS = {}
     local READ_STATUS = { maps = {}, enemies = {}, weapons = {} }
     local showScan = false
+    local is_loading_process = true
 
     local CONTINUE_FILE = "netricsa_continue_campaign.flag"
 
@@ -34,6 +35,10 @@ if CLIENT then
     end)
 
     local function SaveProgress()
+        if is_loading_process == true then
+            return
+        end
+
         print("[Netricsa Client] Saving progress to file: " .. PROGRESS_FILE)
         local data = {
             maps = SAVED_MAPS,
@@ -48,6 +53,11 @@ if CLIENT then
         else
             print("[Netricsa Client] Failed to serialize progress data")
         end
+        -- Принудительно обновляем глобальные переменные после сохранения
+        NetricsaData.SAVED_MAPS = SAVED_MAPS
+        NetricsaData.ENEMIES = ENEMIES
+        NetricsaData.WEAPONS = WEAPONS
+        NetricsaData.READ_STATUS = READ_STATUS
     end
 
     local function LoadProgress()
@@ -62,6 +72,11 @@ if CLIENT then
                     WEAPONS = data.weapons or {}
                     READ_STATUS = data.read or { maps = {}, enemies = {}, weapons = {} }
                     print("[Netricsa Client] Successfully loaded progress: " .. table.Count(SAVED_MAPS) .. " maps, " .. table.Count(ENEMIES) .. " enemies, " .. table.Count(WEAPONS) .. " weapons")
+                    -- Принудительно обновляем глобальные переменные после загрузки
+                    NetricsaData.SAVED_MAPS = SAVED_MAPS
+                    NetricsaData.ENEMIES = ENEMIES
+                    NetricsaData.WEAPONS = WEAPONS
+                    NetricsaData.READ_STATUS = READ_STATUS
                 else
                     print("[Netricsa Client] Failed to parse JSON data")
                 end
@@ -74,9 +89,11 @@ if CLIENT then
     end
 
     hook.Add("InitPostEntity", "Netricsa_AddCurrentMap", function()
-        local currentMap = game.GetMap()
+        -- Сначала загружаем прогресс на основе сессии
+        NetricsaData.OnStart()
 
-        -- Автоматически добавляем текущую карту при загрузке
+        -- Затем добавляем текущую карту, если её нет в загруженном прогрессе
+        local currentMap = game.GetMap()
         if not SAVED_MAPS[currentMap] then
             SAVED_MAPS[currentMap] = true
             SaveProgress()
@@ -200,6 +217,8 @@ if CLIENT then
             print("[Netricsa OnStart] Continuing session, loading progress")
             LoadProgress()
         end
+
+        is_loading_process = false
     end
 
     -- Expose data and functions
