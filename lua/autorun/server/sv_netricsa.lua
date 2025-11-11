@@ -340,6 +340,7 @@ local SpecialInstantEnemies = {
   ["npc_vj_ssc_walker_female"] = true,
   ["npc_vj_ssc_elementallava_large"] = true,
   ["npc_vj_q4_strogg_harvester"] = true,
+  ["npc_vj_ssc_exotechlarva"] = true,
 
 }
 
