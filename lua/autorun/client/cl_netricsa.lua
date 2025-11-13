@@ -658,9 +658,35 @@ if CLIENT then
                             ent:SetBodygroup(i-1, bg)
                         end
                     end
-                    local seq = ent:LookupSequence("walk")
-                    if seq <= 0 then seq = ent:SelectWeightedSequence(ACT_WALK) or 0 end
-                    if seq > 0 then ent:ResetSequence(seq) end
+-- Правильный выбор анимации: ACT_FLY → ACT_WALK → ACT_RUN → ACT_IDLE
+local seq = ent:SelectWeightedSequence(ACT_FLY) or ent:LookupSequence("fly")
+if seq <= 0 then
+    seq = ent:SelectWeightedSequence(ACT_WALK) or ent:LookupSequence("walk")
+end
+if seq <= 0 then
+    seq = ent:SelectWeightedSequence(ACT_RUN) or ent:LookupSequence("run")
+end
+if seq <= 0 then
+    seq = ent:SelectWeightedSequence(ACT_IDLE) or ent:LookupSequence("idle")
+end
+
+if seq > 0 then
+    ent:ResetSequence(seq)
+else
+    -- Если ничего не найдено, используем первую анимацию (кроме ragdoll и meltfly)
+    local ragdollSeq = ent:LookupSequence("ragdoll")
+    local meltflySeq = ent:LookupSequence("meltfly")
+    local sequenceCount = ent:GetSequenceCount() or 0
+    
+    for i = 0, sequenceCount - 1 do
+        if i ~= ragdollSeq and i ~= meltflySeq then
+            seq = i
+            break
+        end
+    end
+    ent:ResetSequence(seq)
+end
+
                 end
                 local desc = LoadDescription(npcClass) or "No data available."
                 SetAnimatedText(descBox, desc)
