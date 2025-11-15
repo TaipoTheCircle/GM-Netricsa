@@ -108,4 +108,29 @@ if CLIENT then
             end)
         end)
     end)
+
+    if CLIENT then
+        local SamVoicePlayed = false  -- флаг, чтобы не повторялся звук
+
+        hook.Add("OnNetricsaClosed", "SAM_MAP_VOICES_ClientTrigger", function()
+            if SamVoicePlayed then
+                print("[Sam Map Voices] Звук уже был воспроизведён ранее — пропуск.")
+                return
+            end
+
+            local ply = LocalPlayer()
+            if not IsValid(ply) then return end
+
+            SamVoicePlayed = true  -- помечаем, что уже проиграли звук
+            RunConsoleCommand("sam_play_map_voice")
+
+            print("[Sam Map Voices] Клиент запросил воспроизведение звука при закрытии Нетриксы")
+        end)
+
+        -- сброс флага при загрузке новой карты
+        hook.Add("InitPostEntity", "SAM_MAP_VOICES_ResetAfterMapChange", function()
+            SamVoicePlayed = false
+            print("[Sam Map Voices] Флаг воспроизведения сброшен (новая карта)")
+        end)
+    end
 end

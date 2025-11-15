@@ -31,6 +31,8 @@ if CLIENT then
         exitBtn:SetPos(ScrW() - 50, 10)
 
         exitBtn.DoClick = function()
+            -- Воспроизводим звук Сэма при закрытии
+            hook.Run("OnNetricsaClosed")
             NetricsaFrame:Close()
         end
 
