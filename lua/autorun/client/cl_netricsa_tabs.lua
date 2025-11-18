@@ -10,25 +10,25 @@ if CLIENT then
         print("[Netricsa] Clearing contentPanel")
         contentPanel:Clear()
 
-        if tabName == L("tabs","tactical") then
-            print("[Netricsa] Creating tactical tab content")
+if tabName == L("tabs","tactical") then
+    print("[Netricsa] Creating tactical tab content")
 
-            local style = NetricsaStyle or STYLES.Revolution
-            local bgMatText = Material(style.text, "noclamp smooth")
-            local bgMatTac = Material(style.bg or "netricsa/bg_netricsa.png", "noclamp smooth")
+    local style = NetricsaStyle or STYLES.Revolution
+    local bgMatText = Material(style.text, "noclamp smooth")
+    local bgMatTac = Material(style.bg or "netricsa/bg_netricsa.png", "noclamp smooth")
 
-            -- ВЕРХ: можно сделать список (как enemyListPanel)
-            local listPanel = vgui.Create("DPanel", contentPanel)
-            NetricsaUtils.NoBG(listPanel)
-            listPanel:Dock(TOP)
-            listPanel:SetTall(200)
-            local upMat = Material(NetricsaStyle.up or "netricsa/up_bg.png", "noclamp smooth")
-            listPanel.Paint = function(self, w, h)
-                surface.SetDrawColor(255, 255, 255, 255)
-                surface.SetMaterial(upMat)
-                surface.DrawTexturedRect(0, 0, w, h)
-                draw.SimpleText("WELCOME TO NETRICSA!", "NetricsaTitle", 20, 10, style.color, TEXT_ALIGN_LEFT, TEXT_ALIGN_TOP)
-            end
+    -- ВЕРХ: можно сделать список (как enemyListPanel)
+    local listPanel = vgui.Create("DPanel", contentPanel)
+    NetricsaUtils.NoBG(listPanel)
+    listPanel:Dock(TOP)
+    listPanel:SetTall(200)
+    local upMat = Material(NetricsaStyle.up or "netricsa/up_bg.png", "noclamp smooth")
+    listPanel.Paint = function(self, w, h)
+        surface.SetDrawColor(255, 255, 255, 255)
+        surface.SetMaterial(upMat)
+        surface.DrawTexturedRect(0, 0, w, h)
+        draw.SimpleText(L("ui","welcome"), "NetricsaTitle", 20, 10, style.color, TEXT_ALIGN_LEFT, TEXT_ALIGN_TOP)
+    end
 
             local scroll = vgui.Create("DScrollPanel", listPanel)
             scroll:Dock(FILL)

@@ -18,16 +18,19 @@ if CLIENT then
     local is_loading_process = true
 
     local CONTINUE_FILE = "netricsa_continue_campaign.flag"
-
     local PROGRESS_FILE = "netricsa_progress.json"
+    local BACKUP_FILE = "netricsa_progress_backup.json" -- 🔹 Бэкап файл
 
     local continueCampaign = false --  Флаг для перехода по триггеру
     
-    -- ConVar'ы для отслеживания сессии игры
-    local SESSION_MAP_CONVAR = "netricsa_session_map"
-    local SESSION_TIME_CONVAR = "netricsa_session_time"
-    CreateClientConVar(SESSION_MAP_CONVAR, "", FCVAR_ARCHIVE, "Current map in game session")
-    CreateClientConVar(SESSION_TIME_CONVAR, "0", FCVAR_ARCHIVE, "Last activity timestamp in game session")
+    -- ConVar'ы для отслеживания кампании
+    local CAMPAIGN_MAP_CONVAR = "netricsa_campaign_map"
+    local CAMPAIGN_TIME_CONVAR = "netricsa_campaign_time"
+    local CAMPAIGN_ACTIVE_CONVAR = "netricsa_campaign_active"
+    
+    CreateClientConVar(CAMPAIGN_MAP_CONVAR, "", FCVAR_ARCHIVE, "Current map in campaign")
+    CreateClientConVar(CAMPAIGN_TIME_CONVAR, "0", FCVAR_ARCHIVE, "Last activity timestamp in campaign")
+    CreateClientConVar(CAMPAIGN_ACTIVE_CONVAR, "0", FCVAR_ARCHIVE, "Is campaign active")
 
     net.Receive("Netricsa_ContinueCampaign", function()
         -- пишем простой флаг, который переживёт загрузку новой карты
@@ -44,11 +47,16 @@ if CLIENT then
             maps = SAVED_MAPS,
             enemies = ENEMIES,
             weapons = WEAPONS,
-            read = READ_STATUS
+            read = READ_STATUS,
+            version = "2.01" -- 🔹 Добавляем версию для совместимости
         }
         local json = util.TableToJSON(data, true)
         if json then
             file.Write(PROGRESS_FILE, json)
+            
+            -- 🔹 Создаем бэкап
+            file.Write(BACKUP_FILE, json)
+            
             print("[Netricsa Client] Successfully saved progress: " .. table.Count(SAVED_MAPS) .. " maps, " .. table.Count(ENEMIES) .. " enemies, " .. table.Count(WEAPONS) .. " weapons")
         else
             print("[Netricsa Client] Failed to serialize progress data")
@@ -62,6 +70,8 @@ if CLIENT then
 
     local function LoadProgress()
         print("[Netricsa Client] Loading progress from file: " .. PROGRESS_FILE)
+        
+        -- 🔹 Пытаемся загрузить основной файл
         if file.Exists(PROGRESS_FILE, "DATA") then
             local raw = file.Read(PROGRESS_FILE, "DATA")
             if raw then
@@ -72,24 +82,100 @@ if CLIENT then
                     WEAPONS = data.weapons or {}
                     READ_STATUS = data.read or { maps = {}, enemies = {}, weapons = {} }
                     print("[Netricsa Client] Successfully loaded progress: " .. table.Count(SAVED_MAPS) .. " maps, " .. table.Count(ENEMIES) .. " enemies, " .. table.Count(WEAPONS) .. " weapons")
-                    -- Принудительно обновляем глобальные переменные после загрузки
+                    
                     NetricsaData.SAVED_MAPS = SAVED_MAPS
                     NetricsaData.ENEMIES = ENEMIES
                     NetricsaData.WEAPONS = WEAPONS
                     NetricsaData.READ_STATUS = READ_STATUS
+                    return true
                 else
-                    print("[Netricsa Client] Failed to parse JSON data")
+                    print("[Netricsa Client] Failed to parse JSON data from main file")
                 end
             else
-                print("[Netricsa Client] Failed to read file")
+                print("[Netricsa Client] Failed to read main file")
+            end
+        end
+        
+        -- 🔹 Если основной файл не загрузился, пробуем бэкап
+        print("[Netricsa Client] Trying to load backup file: " .. BACKUP_FILE)
+        if file.Exists(BACKUP_FILE, "DATA") then
+            local raw = file.Read(BACKUP_FILE, "DATA")
+            if raw then
+                local data = util.JSONToTable(raw)
+                if data then
+                    SAVED_MAPS = data.maps or {}
+                    ENEMIES = data.enemies or {}
+                    WEAPONS = data.weapons or {}
+                    READ_STATUS = data.read or { maps = {}, enemies = {}, weapons = {} }
+                    print("[Netricsa Client] Successfully loaded progress from BACKUP: " .. table.Count(SAVED_MAPS) .. " maps, " .. table.Count(ENEMIES) .. " enemies, " .. table.Count(WEAPONS) .. " weapons")
+                    
+                    -- 🔹 Восстанавливаем основной файл из бэкапа
+                    SaveProgress()
+                    
+                    NetricsaData.SAVED_MAPS = SAVED_MAPS
+                    NetricsaData.ENEMIES = ENEMIES
+                    NetricsaData.WEAPONS = WEAPONS
+                    NetricsaData.READ_STATUS = READ_STATUS
+                    return true
+                else
+                    print("[Netricsa Client] Failed to parse JSON data from backup file")
+                end
+            else
+                print("[Netricsa Client] Failed to read backup file")
             end
         else
             print("[Netricsa Client] Progress file does not exist")
         end
+        
+        return false
+    end
+
+    local function ResetCampaign()
+        print("[Netricsa] Resetting campaign progress")
+        if file.Exists(PROGRESS_FILE, "DATA") then
+            file.Delete(PROGRESS_FILE)
+        end
+        
+        ENEMIES = {}
+        WEAPONS = {}
+        SAVED_MAPS = {}
+        READ_STATUS = { maps = {}, enemies = {}, weapons = {} }
+        
+        -- Добавляем текущую карту
+        local currentMap = game.GetMap()
+        SAVED_MAPS[currentMap] = true
+        
+        RunConsoleCommand(CAMPAIGN_ACTIVE_CONVAR, "0")
+        RunConsoleCommand(CAMPAIGN_MAP_CONVAR, "")
+        RunConsoleCommand(CAMPAIGN_TIME_CONVAR, "0")
+        
+        print("[Netricsa] Campaign reset complete")
+    end
+
+    -- 🔹 Функция для проверки целостности данных
+    local function ValidateData()
+        -- Проверяем, что все основные таблицы существуют
+        if not SAVED_MAPS then SAVED_MAPS = {} end
+        if not ENEMIES then ENEMIES = {} end
+        if not WEAPONS then WEAPONS = {} end
+        if not READ_STATUS then READ_STATUS = { maps = {}, enemies = {}, weapons = {} } end
+        
+        -- Проверяем подтаблицы READ_STATUS
+        if not READ_STATUS.maps then READ_STATUS.maps = {} end
+        if not READ_STATUS.enemies then READ_STATUS.enemies = {} end
+        if not READ_STATUS.weapons then READ_STATUS.weapons = {} end
+        
+        -- Убеждаемся, что текущая карта есть в списке
+        local currentMap = game.GetMap()
+        if not SAVED_MAPS[currentMap] then
+            SAVED_MAPS[currentMap] = true
+        end
+        
+        return true
     end
 
     hook.Add("InitPostEntity", "Netricsa_AddCurrentMap", function()
-        -- Сначала загружаем прогресс на основе сессии
+        -- Сначала загружаем прогресс на основе кампании
         NetricsaData.OnStart()
 
         -- Затем добавляем текущую карту, если её нет в загруженном прогрессе
@@ -102,10 +188,17 @@ if CLIENT then
     end)
 
     -- Обновляем время активности при выгрузке карты
-    hook.Add("ShutDown", "Netricsa_SessionUpdate", function()
+    hook.Add("ShutDown", "Netricsa_CampaignUpdate", function()
         local currentTime = os.time()
-        RunConsoleCommand(SESSION_TIME_CONVAR, tostring(currentTime))
-        print("[Netricsa Client] Updated session time on shutdown: " .. currentTime)
+        RunConsoleCommand(CAMPAIGN_TIME_CONVAR, tostring(currentTime))
+        SaveProgress() -- 🔹 Сохраняем прогресс при выходе
+        print("[Netricsa Client] Updated campaign time on shutdown: " .. currentTime)
+    end)
+
+    -- 🔹 Хук для защиты от сброса при ошибках
+    hook.Add("OnReloaded", "Netricsa_ReloadProtection", function()
+        print("[Netricsa] Addon reloaded, preserving data...")
+        -- Данные уже в памяти, они сохранятся
     end)
 
     local function LoadDescription(name)
@@ -185,37 +278,71 @@ if CLIENT then
 
     local function OnStart()
         local currentMap = game.GetMap()
-            
-        -- Логика загрузки прогресса на основе сессии
         local currentTime = os.time()
-        local sessionMap = GetConVar(SESSION_MAP_CONVAR):GetString()
-        local sessionTime = GetConVar(SESSION_TIME_CONVAR):GetInt()
+        
+        -- 🔹 Сначала проверяем целостность данных в памяти
+        ValidateData()
+        
+        -- Получаем данные кампании
+        local campaignMap = GetConVar(CAMPAIGN_MAP_CONVAR):GetString()
+        local campaignTime = GetConVar(CAMPAIGN_TIME_CONVAR):GetInt()
+        local campaignActive = GetConVar(CAMPAIGN_ACTIVE_CONVAR):GetBool()
 
-        print("[Netricsa OnStart] Session check - Current map: " .. currentMap .. ", Session map: " .. sessionMap)
-        print("[Netricsa OnStart] Session check - Current time: " .. currentTime .. ", Session time: " .. sessionTime)
+        print("[Netricsa OnStart] Campaign check:")
+        print("  Current map: " .. currentMap)
+        print("  Campaign map: " .. campaignMap)
+        print("  Campaign time: " .. campaignTime)
+        print("  Campaign active: " .. tostring(campaignActive))
+        if campaignTime > 0 then
+            print("  Time difference: " .. (currentTime - campaignTime) .. " seconds")
+        end
 
-        -- Сохраняем текущую карту и время в ConVar
-        RunConsoleCommand(SESSION_MAP_CONVAR, currentMap)
-        RunConsoleCommand(SESSION_TIME_CONVAR, tostring(currentTime))
-
-        if sessionMap == currentMap then
-            -- Та же карта - сбрасываем прогресс
-            print("[Netricsa OnStart] Same map detected, resetting progress")
-            if file.Exists(PROGRESS_FILE, "DATA") then
-                file.Delete(PROGRESS_FILE)
-                print("[Netricsa OnStart] Deleted progress file (same map)")
-            end
-        elseif sessionTime > 0 and (currentTime - sessionTime) >= 300 then  -- 5 минут = 300 секунд
-            -- Прошло больше 5 минут - сбрасываем прогресс
-            print("[Netricsa OnStart] Time difference >= 5 minutes, resetting progress")
-            if file.Exists(PROGRESS_FILE, "DATA") then
-                file.Delete(PROGRESS_FILE)
-                print("[Netricsa OnStart] Deleted progress file (time expired)")
-            end
-        else
-            -- Продолжаем сессию - загружаем прогресс
-            print("[Netricsa OnStart] Continuing session, loading progress")
+        -- Проверяем условия сброса кампании
+        local shouldReset = false
+        
+        if not campaignActive then
+            -- Кампания не активна - начинаем новую
+            print("[Netricsa] Starting new campaign")
+            shouldReset = true
+        elseif campaignTime > 0 and (currentTime - campaignTime) >= 600 then -- 10 минут = 600 секунд
+            -- Прошло больше 10 минут - сбрасываем
+            print("[Netricsa] Campaign expired (10+ minutes), resetting")
+            shouldReset = true
+        elseif campaignMap == currentMap then
+            -- Вернулись на ту же карту - продолжаем кампанию
+            print("[Netricsa] Continuing campaign on same map")
             LoadProgress()
+        else
+            -- Перешли на новую карту - продолжаем кампанию
+            print("[Netricsa] Continuing campaign on new map: " .. currentMap)
+            LoadProgress()
+            
+            -- Добавляем новую карту в прогресс
+            if not SAVED_MAPS[currentMap] then
+                SAVED_MAPS[currentMap] = true
+                SaveProgress()
+                print("[Netricsa] Added new map to campaign: " .. currentMap)
+            end
+        end
+
+        -- Сбрасываем кампанию если нужно
+        if shouldReset then
+            ResetCampaign()
+        else
+            -- 🔹 Всегда проверяем целостность после загрузки
+            ValidateData()
+        end
+
+        -- Обновляем данные кампании
+        RunConsoleCommand(CAMPAIGN_MAP_CONVAR, currentMap)
+        RunConsoleCommand(CAMPAIGN_TIME_CONVAR, tostring(currentTime))
+        RunConsoleCommand(CAMPAIGN_ACTIVE_CONVAR, "1")
+
+        -- Добавляем текущую карту если её нет
+        if not SAVED_MAPS[currentMap] then
+            SAVED_MAPS[currentMap] = true
+            SaveProgress()
+            print("[Netricsa] Added current map to progress: " .. currentMap)
         end
 
         is_loading_process = false
@@ -235,6 +362,15 @@ if CLIENT then
         LoadDescription = LoadDescription,
         GetEnemyDisplayName = GetEnemyDisplayName,
         GetUnreadCount = GetUnreadCount,
-        OpenFirstUnread = OpenFirstUnread
+        OpenFirstUnread = OpenFirstUnread,
+        ValidateData = ValidateData -- 🔹 Экспортируем для отладки
     }
+    
+    -- 🔹 Автоматическое сохранение каждые 2 минуты для защиты от сбоев
+    timer.Create("Netricsa_AutoSave", 120, 0, function()
+        if not is_loading_process and (table.Count(ENEMIES) > 0 or table.Count(WEAPONS) > 0) then
+            SaveProgress()
+            print("[Netricsa] Auto-save completed")
+        end
+    end)
 end

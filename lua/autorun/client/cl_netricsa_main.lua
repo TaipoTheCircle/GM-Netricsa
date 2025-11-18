@@ -8,6 +8,16 @@ if CLIENT then
             return
         end
 
+        -- 🔹 ПРОВЕРКА В НАЧАЛЕ ФУНКЦИИ
+        if not NetricsaTabs then
+            print("[Netricsa] ERROR: NetricsaTabs not loaded! Loading tabs first...")
+            include("cl_netricsa_tabs.lua")
+            if not NetricsaTabs then
+                print("[Netricsa] FATAL: Cannot load NetricsaTabs!")
+                return
+            end
+        end
+
         NetricsaFrame = vgui.Create("DFrame")
         NetricsaFrame:SetSize(ScrW(), ScrH())
         NetricsaFrame:SetPos(0, 0)
@@ -16,14 +26,14 @@ if CLIENT then
         NetricsaFrame:SetDraggable(false)
         NetricsaFrame:MakePopup()
 
-        local gridMat = Material(NetricsaStyle.grid or "netricsa/grid.png", "noclamp smooth")
-        NetricsaFrame.Paint = function(self, w, h)
-            surface.SetDrawColor(255, 255, 255, 255)
-            surface.SetMaterial(gridMat)
-            surface.DrawTexturedRect(0, 0, w, h)
-            local style = NetricsaStyle or STYLES.Revolution
-            draw.SimpleText("NETRISCA v2.01", "NetricsaTitle", 20, 10, style.color, TEXT_ALIGN_LEFT, TEXT_ALIGN_TOP)
-        end
+local gridMat = Material(NetricsaStyle.grid or "netricsa/grid.png", "noclamp smooth")
+NetricsaFrame.Paint = function(self, w, h)
+    surface.SetDrawColor(255, 255, 255, 255)
+    surface.SetMaterial(gridMat)
+    surface.DrawTexturedRect(0, 0, w, h)
+    local style = NetricsaStyle or STYLES.Revolution
+    draw.SimpleText(L("ui","version"), "NetricsaTitle", 20, 10, style.color, TEXT_ALIGN_LEFT, TEXT_ALIGN_TOP)
+end
 
         local exitBtn = vgui.Create("DButton", NetricsaFrame)
         exitBtn:SetText("")

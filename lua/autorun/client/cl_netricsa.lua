@@ -7,4 +7,6 @@ if CLIENT then
     include("cl_netricsa_tabs.lua")
     include("cl_netricsa_main.lua")
     include("cl_netricsa_hooks.lua")
+    include("cl_netricsa_scan.lua")
+    include("cl_netricsa_settings.lua")
 end

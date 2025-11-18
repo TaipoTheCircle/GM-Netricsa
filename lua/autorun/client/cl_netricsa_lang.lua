@@ -1,7 +1,7 @@
 if CLIENT then
     LANGUAGES = {
         en = {
-            tabs = {
+            tabs = { 
                 tactical   = "TACTICAL DATA",
                 strategic  = "STRATEGIC DATA",
                 weapons    = "WEAPONS",
@@ -30,7 +30,19 @@ if CLIENT then
                 settings_default    = "Default: N. Changes are saved automatically.",
 
                 -- 🔹 New line for auto-open checkbox
-                settings_auto_open  = "Open Netricsa automatically when the map starts"
+                settings_auto_open  = "Open Netricsa automatically when the map starts",
+
+                -- 🔹 SCAN SYSTEM TRANSLATIONS
+                scan_prompt         = "Press [%s] to scan", -- %s будет заменено на клавишу
+                scan_key_help       = "Choose the key to scan NPCs (default: E)",
+                scan_current        = "Current scan key: ",
+                scan_default        = "Default: E. Changes are saved automatically.",
+
+                -- 🔹 WELCOME MESSAGE
+                welcome             = "WELCOME TO NETRICSA!",
+
+                -- 🔹 VERSION
+                version             = "NETRICSA v2.01"
             }
         },
 
@@ -56,15 +68,21 @@ if CLIENT then
                 select_map    = "Выберите карту сверху.",
                 no_data       = "Нет данных. Если вы хотите помочь и предложить свои улучшения или переводы, можете обратиться на наш github: (https://github.com/TaipoTheCircle/GM-Netricsa)",
 
-                -- Settings
+                -- Настройки
                 settings_tab       = "НАСТРОЙКИ",
-                settings_help       = "Настройки интерфейса Netricsa",
-                settings_key_help   = "Выберите клавишу для открытия Netricsa (по умолчанию N)",
+                settings_help       = "Настройки интерфейса ИНЕРТАНА",
+                settings_key_help   = "Выберите клавишу для открытия ИНЕРТАНА (по умолчанию N)",
                 settings_current    = "Текущая клавиша: ",
                 settings_default    = "По умолчанию: N. Изменения сохраняются автоматически.",
+                settings_auto_open  = "Открывать ИНЕРТАН при запуске карты",
+                scan_prompt         = "Нажмите [%s] для сканирования", -- %s будет заменено на клавишу
+                scan_key_help       = "Выберите клавишу для сканирования NPC (по умолчанию E)",
+                scan_current        = "Текущая клавиша сканирования: ",
+                scan_default        = "По умолчанию: E. Изменения сохраняются автоматически.",
+                welcome             = "ДОБРО ПОЖАЛОВАТЬ В ИНЕРТАН!",
 
-                -- 🔹 Новый перевод для чекбокса
-                settings_auto_open  = "Открывать Netricsa при запуске карты"
+                -- 🔹 ПЕРЕВОД ВЕРСИИ
+                version             = "ИНЕРТАН v2.01"
             }
         }
     }
