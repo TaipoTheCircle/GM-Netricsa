@@ -6,9 +6,6 @@ if SERVER then
     util.AddNetworkString("Netricsa_ContinueCampaign")
     util.AddNetworkString("Netricsa_UpdateStats")
 
-    -- Таблица для сохранения состояния NPC до смерти
-    local EnemyState = {} -- entIndex -> { mdl = "", skin = 0, bodygroups = { ... } }
-
     -- 🔹 ТАБЛИЦА ДРУЖЕСТВЕННЫХ NPC
     local FRIENDLY_NPCS = {
         ["npc_citizen"] = true,
@@ -20,11 +17,36 @@ if SERVER then
         ["npc_breen"] = true,
         ["npc_vortigaunt"] = true,
         ["npc_eli"] = true,
+        ["generic_actor"] = true,
+        ["monster_generic"] = true,
+        ["cycler_actor"] = true,
+        ["#npc_sightgman"] = true,
+        ["npc_sightgman"] = true,
+        ["npc_vj_hlr1a_scientist"] = true,
+        ["npc_vj_hlr1a_securityguard"] = true,
+        ["npc_vj_hlrof_cleansuitsci"] = true,
+        ["npc_vj_hlrdc_keller"] = true,
+        ["npc_vj_hlrbs_rosenberg"] = true,
+        ["npc_vj_hlr1_gman"] = true,
+        ["npc_vj_hlrof_otis"] = true,
+        ["npc_vj_hlr1_scientist"] = true,
+        ["npc_vj_hlr1a_probedroid"] = true,
+        ["npc_vj_hlr1_rat"] = true,
+        ["npc_vj_hlr1_securityguard"] = true,
+        ["sent_vj_xen_spore_large"] = true,
+        ["sent_vj_xen_spore_medium"] = true,
+        ["sent_vj_xen_spore_small"] = true,
+        ["sent_vj_xen_plant_light"] = true,
+        ["sent_vj_xen_hair"] = true,
+        ["sent_vj_xen_crystal"] = true,
+        ["npc_vj_hlr1_xen_tree"] = true,
+        ["monster_cockroach"] = true,
         ["npc_mossman"] = true,
         ["monster_scientist"] = true,
         ["monster_barney"] = true,
         ["npc_fisherman"] = true,
         ["npc_kleiner"] = true,
+        ["monster_gman"] = true,
         ["npc_gman"] = true,
         ["monster_hgrunt_dead_2"] = true,
         ["monster_hgrunt_dead_1"] = true,
@@ -47,151 +69,51 @@ if SERVER then
         ["monster_scientist_dead_1"] = true,
         ["monster_scientist_dead_2"] = true,
         ["monster_scientist_dead_3"] = true,
-        
+        ["xen_hair"] = true,
+        ["xen_plantlight"] = true,
+        ["xen_spore_large"] = true,
+        ["xen_spore_medium"] = true,
+        ["xen_spore_small"] = true,
+        ["xen_tree"] = true,
+        ["npc_vj_hlr2_alyx"] = true,
+        ["npc_vj_hlr2_barney"] = true,
+        ["npc_vj_hlr2_citizen"] = true,
+        ["npc_vj_hlr2_father_grigori"] = true,
+        ["npc_vj_hlr2b_merkava"] = true,
+        ["npc_vj_hlr2_rebel"] = true,
+        ["npc_vj_hlr2_rebel_engineer"] = true,
+        ["npc_vj_hlr2_refugee"] = true,
+        ["npc_vortigaunt"] = true,
     }
 
-    -- 🔹 ТАБЛИЦА ОТНОШЕНИЙ NPC К ИГРОКАМ
-    local hostileRelations = {} -- npcID -> playerID -> true
-
-    local function CaptureEnemyState(ent)
-        if not IsValid(ent) or not ent:IsNPC() then return nil end
-        local t = {}
-        t.mdl = ent:GetModel() or ""
-        t.skin = ent:GetSkin() or 0
-        t.bodygroups = {}
-        local bgCount = ent:GetNumBodyGroups() or 0
-        for i = 0, math.max(0, bgCount - 1) do
-            t.bodygroups[i+1] = ent:GetBodygroup(i)
-        end
-        return t
-    end
-
-    local function SaveStateFor(ent)
-        if not IsValid(ent) or not ent:IsNPC() then return end
-        local id = ent:EntIndex()
-        local st = CaptureEnemyState(ent)
-        if st then
-            EnemyState[id] = st
-        end
-    end
-
-    local function RemoveStateFor(ent)
-        if not ent then return end
-        local id = ent:EntIndex()
-        EnemyState[id] = nil
-    end
-
-    local function GetSavedState(ent)
-        if not IsValid(ent) then return nil end
-        return EnemyState[ent:EntIndex()]
-    end
-
-    -- 🔹 ФУНКЦИЯ ПРОВЕРКИ - ВРАГ ЛИ NPC ДЛЯ ИГРОКА
-    local function IsEnemyForPlayer(npc, attacker)
-        if not IsValid(npc) or not IsValid(attacker) then return false end
+    -- 🔹 ПРОСТАЯ ФУНКЦИЯ ПРОВЕРКИ - ВРАГ ЛИ NPC
+    local function IsEnemy(npc)
+        if not IsValid(npc) then return false end
+        if not npc:IsNPC() then return false end
         
         local npcClass = npc:GetClass()
+        local isEnemy = not FRIENDLY_NPCS[npcClass]
         
-        -- Если NPC изначально враждебный (не в списке дружественных)
-        if not FRIENDLY_NPCS[npcClass] then
-            return true
-        end
-        
-        -- Проверяем отношения конкретного NPC к игроку
-        local npcID = npc:EntIndex()
-        local attackerID = attacker:EntIndex()
-        
-        -- Если NPC стал враждебным к этому игроку
-        if hostileRelations[npcID] and hostileRelations[npcID][attackerID] then
-            return true
-        end
-        
-        -- Проверяем текущие отношения через Disposition
-        local disposition = npc:Disposition(attacker)
-        if disposition == D_HT or disposition == D_FR then -- Ненависть или Страх
-            -- Помечаем как враждебного для этого игрока
-            if not hostileRelations[npcID] then
-                hostileRelations[npcID] = {}
-            end
-            hostileRelations[npcID][attackerID] = true
-            return true
-        end
-        
-        return false
-    end
-
-    -- 🔹 ПЕРЕДЕЛАННАЯ ФУНКЦИЯ ПОДСЧЕТА NPC
-    local function CountEnemyNPCs()
-        local enemyCount = 0
-        for _, ent in ipairs(ents.GetAll()) do
-            if IsValid(ent) and ent:IsNPC() and ent:Health() > 0 then
-                -- 🔹 СЧИТАЕМ ТОЛЬКО ВРАЖЕСКИХ NPC
-                local isEnemy = false
-                for _, ply in ipairs(player.GetAll()) do
-                    if IsValid(ply) and IsEnemyForPlayer(ent, ply) then
-                        isEnemy = true
-                        break
-                    end
-                end
-                
-                if isEnemy then
-                    enemyCount = enemyCount + 1
-                end
-            end
-        end
-        return enemyCount
+        return isEnemy
     end
 
     util.AddNetworkString("Netricsa_UpdateStats")
 
+    -- 🔹 ПЕРЕМЕННЫЕ
     local stats_kills = 0
     local stats_totalEnemies = 0
     local stats_startTime = CurTime()
-    local trackedNPCs = {} -- entIndex -> true (учтён в total)
+    local trackedNPCs = {}
 
-    local function BroadcastStats()
-        net.Start("Netricsa_UpdateStats")
-            net.WriteInt(stats_kills or 0, 16)
-            net.WriteInt(stats_totalEnemies or 0, 16) -- всего учтённых NPC
-            net.WriteFloat(stats_startTime or CurTime())
-        net.Broadcast()
-    end
-
-    -- Таблица известных NPC
-    TrackedEnemies = TrackedEnemies or {}
-
-    local TRACKED_ENEMIES_FILE = "netricsa_tracked_enemies.json"
-
-    local function SaveTrackedEnemies()
-        print("[Netricsa Server] Saving TrackedEnemies to file: " .. TRACKED_ENEMIES_FILE)
-        local json = util.TableToJSON(TrackedEnemies, true)
-        if json then
-            file.Write(TRACKED_ENEMIES_FILE, json)
-            print("[Netricsa Server] Successfully saved " .. table.Count(TrackedEnemies) .. " enemies")
-        else
-            print("[Netricsa Server] Failed to serialize TrackedEnemies")
-        end
-    end
-
-    local function LoadTrackedEnemies()
-        print("[Netricsa Server] Loading TrackedEnemies from file: " .. TRACKED_ENEMIES_FILE)
-        if file.Exists(TRACKED_ENEMIES_FILE, "DATA") then
-            local raw = file.Read(TRACKED_ENEMIES_FILE, "DATA")
-            if raw then
-                local data = util.JSONToTable(raw)
-                if data then
-                    TrackedEnemies = data
-                    print("[Netricsa Server] Successfully loaded " .. table.Count(TrackedEnemies) .. " enemies")
-                else
-                    print("[Netricsa Server] Failed to parse JSON data")
-                end
-            else
-                print("[Netricsa Server] Failed to read file")
-            end
-        else
-            print("[Netricsa Server] File does not exist")
-        end
-    end
+local function BroadcastStats()
+    net.Start("Netricsa_UpdateStats")
+        net.WriteUInt(math.min(stats_kills, 65535), 16)      -- Ограничиваем максимум 65535
+        net.WriteUInt(math.min(stats_totalEnemies, 65535), 16) -- Ограничиваем максимум 65535
+        net.WriteFloat(stats_startTime)
+    net.Broadcast()
+    
+    print("[Netricsa] Stats broadcast: " .. stats_kills .. "/" .. stats_totalEnemies .. " (tracked: " .. table.Count(trackedNPCs) .. ")")
+end
 
     -- при старте карты
     hook.Add("InitPostEntity", "Netricsa_StatsInit", function()
@@ -199,214 +121,158 @@ if SERVER then
         stats_totalEnemies = 0
         stats_startTime = CurTime()
         trackedNPCs = {}
-        EnemyState = {}
-        hostileRelations = {}
 
-        -- Загружаем TrackedEnemies
-        if SysTime() > 1 then
-            LoadTrackedEnemies()
-        else
-            TrackedEnemies = {}
-            if file.Exists(TRACKED_ENEMIES_FILE, "DATA") then
-                file.Delete(TRACKED_ENEMIES_FILE)
-            end
-        end
-
-        -- 🔹 СЧИТАЕМ ТОЛЬКО ВРАЖЕСКИХ NPC ПРИ СТАРТЕ
+        -- 🔹 ОТЛАДКА ПРИ СТАРТЕ
+        local totalNPCs = 0
+        local enemyNPCs = 0
+        local friendlyNPCs = 0
+        
+        print("[Netricsa] === SCANNING NPCs ===")
+        
         for _, ent in ipairs(ents.GetAll()) do
             if IsValid(ent) and ent:IsNPC() then
-                local id = ent:EntIndex()
-                if not trackedNPCs[id] then
-                    -- Проверяем является ли NPC врагом для любого игрока
-                    local isEnemy = false
-                    for _, ply in ipairs(player.GetAll()) do
-                        if IsValid(ply) and IsEnemyForPlayer(ent, ply) then
-                            isEnemy = true
-                            break
-                        end
-                    end
-                    
-                    if isEnemy then
+                totalNPCs = totalNPCs + 1
+                local npcClass = ent:GetClass()
+                
+                if IsEnemy(ent) then
+                    enemyNPCs = enemyNPCs + 1
+                    local id = ent:EntIndex()
+                    if not trackedNPCs[id] then
                         trackedNPCs[id] = true
                         stats_totalEnemies = stats_totalEnemies + 1
                     end
+                    print("[Netricsa] ENEMY: " .. npcClass)
+                else
+                    friendlyNPCs = friendlyNPCs + 1
+                    print("[Netricsa] FRIENDLY: " .. npcClass)
                 end
-                SaveStateFor(ent)
             end
         end
+        
+        print("[Netricsa] === SCAN RESULTS ===")
+        print("[Netricsa] Total NPCs: " .. totalNPCs)
+        print("[Netricsa] Enemies: " .. enemyNPCs)
+        print("[Netricsa] Friendly: " .. friendlyNPCs)
+        print("[Netricsa] Tracked: " .. stats_totalEnemies)
 
         BroadcastStats()
     end)
 
     -- NPC появился
     hook.Add("OnEntityCreated", "Netricsa_StatsOnSpawn", function(ent)
-        timer.Simple(0, function()
+        timer.Simple(0.1, function()
             if not IsValid(ent) or not ent:IsNPC() then return end
-            local id = ent:EntIndex()
-            if not trackedNPCs[id] then
-                -- 🔹 ПРОВЕРЯЕМ ЯВЛЯЕТСЯ ЛИ НОВЫЙ NPC ВРАГОМ
-                local isEnemy = false
-                for _, ply in ipairs(player.GetAll()) do
-                    if IsValid(ply) and IsEnemyForPlayer(ent, ply) then
-                        isEnemy = true
-                        break
-                    end
-                end
-                
-                if isEnemy then
+            
+            if IsEnemy(ent) then
+                local id = ent:EntIndex()
+                if not trackedNPCs[id] then
                     trackedNPCs[id] = true
                     stats_totalEnemies = stats_totalEnemies + 1
                     BroadcastStats()
+                    print("[Netricsa] SPAWNED ENEMY: " .. ent:GetClass() .. " -> " .. stats_totalEnemies)
                 end
+            else
+                print("[Netricsa] SPAWNED FRIENDLY: " .. ent:GetClass())
             end
-            SaveStateFor(ent)
         end)
     end)
 
-    -- 🔹 ПЕРЕДЕЛАННЫЙ ХУК НА УБИЙСТВО NPC
+    -- NPC убит
     hook.Add("OnNPCKilled", "Netricsa_StatsOnKill", function(npc, attacker, inflictor)
         if not IsValid(npc) then return end
         
-        local id = npc:EntIndex()
-        
-        -- 🔹 ПРОВЕРЯЕМ, ЯВЛЯЕТСЯ ЛИ NPC ВРАГОМ ДЛЯ ЭТОГО ИГРОКА
-        local isEnemy = IsEnemyForPlayer(npc, attacker)
-        
-        if isEnemy then
-            -- Считаем только вражеских NPC
+        if IsEnemy(npc) then
             stats_kills = stats_kills + 1
-            print("[Netricsa] Enemy killed: " .. npc:GetClass() .. " by " .. (IsValid(attacker) and attacker:GetName() or "unknown"))
-        else
-            print("[Netricsa] Friendly NPC killed: " .. npc:GetClass() .. " (not counted)")
-        end
-        
-        -- помечаем, что он именно убит (для статистики удаления)
-        npc._NetricsaKilled = true
-        BroadcastStats()
-    end)
-
-    -- NPC удалён (деспаун, remove) → уменьшаем total, НО только если он не убит
-    hook.Add("EntityRemoved", "Netricsa_StatsOnRemove", function(ent)
-        if not IsValid(ent) or not ent:IsNPC() then
-            -- даже если ent не валиден, попробуем очистить сохранённое состояние по индексу
-            if ent then 
-                RemoveStateFor(ent) 
-                -- 🔹 очищаем отношения при удалении NPC
-                local npcID = ent:EntIndex()
-                hostileRelations[npcID] = nil
-            end
-            return
-        end
-        local id = ent:EntIndex()
-        if trackedNPCs[id] then
-            -- если он не был убит, значит despawn/remove
-            if not ent._NetricsaKilled then
-                stats_totalEnemies = math.max(0, stats_totalEnemies - 1)
-            end
-            trackedNPCs[id] = nil
+            npc._NetricsaKilled = true
             BroadcastStats()
+            print("[Netricsa] KILLED ENEMY: " .. npc:GetClass() .. " -> " .. stats_kills)
+        else
+            print("[Netricsa] KILLED FRIENDLY: " .. npc:GetClass() .. " (ignored)")
         end
-        -- удаляем сохранённое состояние и отношения
-        EnemyState[id] = nil
-        hostileRelations[id] = nil
     end)
 
-    -- 🔹 ХУК ДЛЯ ОТСЛЕЖИВАНИЯ ИЗМЕНЕНИЯ ОТНОШЕНИЙ NPC (ОБНОВЛЕННЫЙ)
-    hook.Add("OnEntityRelationshipChange", "Netricsa_RelationshipTracker", function(npc, target, oldRel, newRel)
-        if not IsValid(npc) or not IsValid(target) or not target:IsPlayer() then return end
+    -- NPC удалён
+    hook.Add("EntityRemoved", "Netricsa_StatsOnRemove", function(ent)
+        if not IsValid(ent) or not ent:IsNPC() then return end
         
-        local npcID = npc:EntIndex()
-        local targetID = target:EntIndex()
-        
-        -- 🔹 ОБНОВЛЯЕМ СТАТИСТИКУ ПРИ ИЗМЕНЕНИИ ОТНОШЕНИЙ
-        timer.Simple(0.1, function()
-            if not IsValid(npc) then return end
-            
-            local wasTracked = trackedNPCs[npcID] or false
-            local isNowEnemy = IsEnemyForPlayer(npc, target)
-            
-            -- Если NPC стал врагом и не был в статистике
-            if isNowEnemy and not wasTracked then
-                trackedNPCs[npcID] = true
-                stats_totalEnemies = stats_totalEnemies + 1
-                print("[Netricsa] NPC became enemy: " .. npc:GetClass() .. " - added to stats")
-                BroadcastStats()
-            -- Если NPC перестал быть врагом и был в статистике
-            elseif not isNowEnemy and wasTracked then
-                -- Проверяем не является ли NPC врагом для других игроков
-                local isEnemyForAnyone = false
-                for _, ply in ipairs(player.GetAll()) do
-                    if IsValid(ply) and ply ~= target and IsEnemyForPlayer(npc, ply) then
-                        isEnemyForAnyone = true
-                        break
-                    end
-                end
-                
-                if not isEnemyForAnyone then
-                    trackedNPCs[npcID] = nil
+        if IsEnemy(ent) then
+            local id = ent:EntIndex()
+            if trackedNPCs[id] then
+                if not ent._NetricsaKilled then
                     stats_totalEnemies = math.max(0, stats_totalEnemies - 1)
-                    print("[Netricsa] NPC became friendly: " .. npc:GetClass() .. " - removed from stats")
                     BroadcastStats()
+                    print("[Netricsa] REMOVED ENEMY: " .. ent:GetClass() .. " -> " .. stats_totalEnemies)
                 end
+                trackedNPCs[id] = nil
             end
-        end)
-        
-        -- 🔹 СОХРАНЯЕМ ВРАЖДЕБНЫЕ ОТНОШЕНИЯ
-        if newRel == D_HT or newRel == D_FR then
-            if not hostileRelations[npcID] then
-                hostileRelations[npcID] = {}
-            end
-            hostileRelations[npcID][targetID] = true
-            print("[Netricsa] NPC became hostile: " .. npc:GetClass() .. " to " .. target:GetName())
-        elseif (newRel == D_LI or newRel == D_NU) and hostileRelations[npcID] then
-            -- Убираем из вражеских отношений если стал дружественным
-            hostileRelations[npcID][targetID] = nil
-            print("[Netricsa] NPC became friendly: " .. npc:GetClass() .. " to " .. target:GetName())
         end
     end)
 
-    -- Отслеживание NPC (отправляем данные при смерти, но используем сохранённое состояние если есть)
+    -- 🔹 КОМАНДА ДЛЯ ПРОВЕРКИ ТЕКУЩЕГО СОСТОЯНИЯ
+    concommand.Add("netricsa_check", function(ply)
+        local totalNPCs = 0
+        local enemyNPCs = 0
+        local friendlyNPCs = 0
+        
+        for _, ent in ipairs(ents.GetAll()) do
+            if IsValid(ent) and ent:IsNPC() then
+                totalNPCs = totalNPCs + 1
+                if IsEnemy(ent) then
+                    enemyNPCs = enemyNPCs + 1
+                else
+                    friendlyNPCs = friendlyNPCs + 1
+                end
+            end
+        end
+        
+        print("=== NETRICSA CHECK ===")
+        print("Stats: " .. stats_kills .. "/" .. stats_totalEnemies)
+        print("Current NPCs - Total: " .. totalNPCs)
+        print("Current NPCs - Enemies: " .. enemyNPCs) 
+        print("Current NPCs - Friendly: " .. friendlyNPCs)
+        print("Tracked NPCs: " .. table.Count(trackedNPCs))
+        print("======================")
+    end)
+
+    -- 🔹 КОМАНДА ДЛЯ ПОЛНОГО СБРОСА
+    concommand.Add("netricsa_hard_reset", function(ply)
+        if not ply:IsAdmin() then return end
+        print("[Netricsa] HARD RESET by admin")
+        ResetStats()
+    end)
+
+    -- Таблица известных NPC
+    TrackedEnemies = TrackedEnemies or {}
+
+    -- Отслеживание NPC
     hook.Add("OnNPCKilled", "NetricsaTrack", function(npc, attacker, inflictor)
         if not IsValid(npc) then return end
 
         local npcClass = npc:GetClass()
+        local mdl = npc:GetModel() or ""
+        local skin = npc:GetSkin() or 0
 
-        -- если уже отправляли этот класс — пропускаем
-        if TrackedEnemies[npcClass] then return end
-
-        -- берем сохранённое состояние (то, что было до смерти)
-        local saved = GetSavedState(npc)
-
-        local mdl, skin, bodygroups = "", 0, {}
-        if saved then
-            mdl = saved.mdl or ""
-            skin = saved.skin or 0
-            bodygroups = saved.bodygroups or {}
-        else
-            -- запасной вариант — всё ещё пытаемся прочитать с сущности (на случай, если не было сохранено)
-            mdl = npc:GetModel() or ""
-            skin = npc:GetSkin() or 0
-            bodygroups = {}
-            for i = 0, (npc:GetNumBodyGroups()-1) do
-                bodygroups[i+1] = npc:GetBodygroup(i)
-            end
+        local bodygroups = {}
+        for i = 0, (npc:GetNumBodyGroups()-1) do
+            bodygroups[i+1] = npc:GetBodygroup(i)
         end
 
-        TrackedEnemies[npcClass] = true
-        SaveTrackedEnemies() -- сохраняем в файл при добавлении нового NPC
+        if not TrackedEnemies[npcClass] then
+            TrackedEnemies[npcClass] = true
 
-        net.Start("Netricsa_AddEnemy")
-            net.WriteString(npcClass)
-            net.WriteString(mdl)
-            net.WriteUInt(skin, 8)
-            net.WriteUInt(#bodygroups, 8)
-            for i, bg in ipairs(bodygroups) do
-                net.WriteUInt(bg, 8)
-            end
-        net.Broadcast()
+            net.Start("Netricsa_AddEnemy")
+                net.WriteString(npcClass)
+                net.WriteString(mdl)
+                net.WriteUInt(skin, 8)
+                net.WriteUInt(#bodygroups, 8)
+                for i, bg in ipairs(bodygroups) do
+                    net.WriteUInt(bg, 8)
+                end
+            net.Broadcast()
 
-        net.Start("Netricsa_PlaySound")
-        net.Broadcast()
+            net.Start("Netricsa_PlaySound")
+            net.Broadcast()
+        end
     end)
 
     -- Отслеживание оружия
@@ -442,9 +308,6 @@ if SERVER then
                 for i = 0, bgCount-1 do
                     bodygroups[i+1] = ent:GetBodygroup(i)
                 end
-
-                -- Сохраняем состояние для этой сущности на всякий случай
-                SaveStateFor(ent)
 
                 net.Start("Netricsa_AddEnemy")
                     net.WriteString(npcClass)
@@ -534,7 +397,6 @@ if SERVER then
         end
 
         TrackedEnemies[npcClass] = true
-        SaveTrackedEnemies() -- сохраняем в файл при добавлении специального NPC
 
         net.Start("Netricsa_AddEnemy")
             net.WriteString(npcClass)
@@ -576,6 +438,7 @@ if SERVER then
             end)
         end
     end)
+
     util.AddNetworkString("Netricsa_ShowScanPrompt")
     util.AddNetworkString("Netricsa_HideScanPrompt") 
     util.AddNetworkString("Netricsa_ScanNPC")
@@ -714,7 +577,6 @@ if SERVER then
         -- Добавляем в Netricsa (если еще не добавлен)
         if not TrackedEnemies[npcClass] then
             TrackedEnemies[npcClass] = true
-            SaveTrackedEnemies()
             
             local mdl = targetNPC:GetModel() or ""
             local skin = targetNPC:GetSkin() or 0
@@ -769,19 +631,9 @@ if SERVER then
         trackedNPCs = {}
         
         for _, ent in ipairs(ents.GetAll()) do
-            if IsValid(ent) and ent:IsNPC() and ent:Health() > 0 then
+            if IsValid(ent) and ent:IsNPC() and IsEnemy(ent) then
                 local id = ent:EntIndex()
-                
-                -- Проверяем является ли NPC врагом для любого игрока
-                local isEnemy = false
-                for _, player in ipairs(player.GetAll()) do
-                    if IsValid(player) and IsEnemyForPlayer(ent, player) then
-                        isEnemy = true
-                        break
-                    end
-                end
-                
-                if isEnemy then
+                if not trackedNPCs[id] then
                     trackedNPCs[id] = true
                     newTotal = newTotal + 1
                 end
@@ -793,3 +645,25 @@ if SERVER then
         print("[Netricsa] Statistics refreshed. Total enemies: " .. newTotal)
     end)
 end
+
+-- ▼ флаг при входе/срабатывании триггера смены уровня
+hook.Add("AcceptInput", "Netricsa_ChangeLevelFlag", function(ent, input, activator, caller, data)
+    if not IsValid(ent) then return end
+    if ent:GetClass() ~= "trigger_changelevel" then return end
+    if input ~= "ChangeLevel" then return end
+
+    net.Start("Netricsa_ContinueCampaign")
+    if IsValid(activator) and activator:IsPlayer() then
+        net.Send(activator)
+    else
+        net.Broadcast()
+    end
+end)
+
+-- ▼ запасной вариант: если карта использует только касание триггера
+hook.Add("StartTouch", "Netricsa_ChangeLevelTouchFlag", function(ent, other)
+    if ent:GetClass() == "trigger_changelevel" and IsValid(other) and other:IsPlayer() then
+        net.Start("Netricsa_ContinueCampaign")
+        net.Send(other)
+    end
+end)

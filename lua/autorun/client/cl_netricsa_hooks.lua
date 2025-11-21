@@ -1,4 +1,11 @@
 if CLIENT then
+
+    if not NetricsaMain then
+        NetricsaMain = {}
+        print("[Netricsa] NetricsaMain initialized in hooks")
+    end
+    
+
     net.Receive("Netricsa_AddEnemy", function()
         local npcClass = net.ReadString()
         local mdl = net.ReadString()

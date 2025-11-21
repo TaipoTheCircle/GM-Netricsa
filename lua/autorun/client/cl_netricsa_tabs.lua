@@ -10,25 +10,25 @@ if CLIENT then
         print("[Netricsa] Clearing contentPanel")
         contentPanel:Clear()
 
-if tabName == L("tabs","tactical") then
-    print("[Netricsa] Creating tactical tab content")
+        if tabName == L("tabs","tactical") then
+            print("[Netricsa] Creating tactical tab content")
 
-    local style = NetricsaStyle or STYLES.Revolution
-    local bgMatText = Material(style.text, "noclamp smooth")
-    local bgMatTac = Material(style.bg or "netricsa/bg_netricsa.png", "noclamp smooth")
+            local style = NetricsaStyle or STYLES.Revolution
+            local bgMatText = Material(style.text, "noclamp smooth")
+            local bgMatTac = Material(style.bg or "netricsa/bg_netricsa.png", "noclamp smooth")
 
-    -- ВЕРХ: можно сделать список (как enemyListPanel)
-    local listPanel = vgui.Create("DPanel", contentPanel)
-    NetricsaUtils.NoBG(listPanel)
-    listPanel:Dock(TOP)
-    listPanel:SetTall(200)
-    local upMat = Material(NetricsaStyle.up or "netricsa/up_bg.png", "noclamp smooth")
-    listPanel.Paint = function(self, w, h)
-        surface.SetDrawColor(255, 255, 255, 255)
-        surface.SetMaterial(upMat)
-        surface.DrawTexturedRect(0, 0, w, h)
-        draw.SimpleText(L("ui","welcome"), "NetricsaTitle", 20, 10, style.color, TEXT_ALIGN_LEFT, TEXT_ALIGN_TOP)
-    end
+            -- ВЕРХ: можно сделать список (как enemyListPanel)
+            local listPanel = vgui.Create("DPanel", contentPanel)
+            NetricsaUtils.NoBG(listPanel)
+            listPanel:Dock(TOP)
+            listPanel:SetTall(200)
+            local upMat = Material(NetricsaStyle.up or "netricsa/up_bg.png", "noclamp smooth")
+            listPanel.Paint = function(self, w, h)
+                surface.SetDrawColor(255, 255, 255, 255)
+                surface.SetMaterial(upMat)
+                surface.DrawTexturedRect(0, 0, w, h)
+                draw.SimpleText(L("ui","welcome"), "NetricsaTitle", 20, 10, style.color, TEXT_ALIGN_LEFT, TEXT_ALIGN_TOP)
+            end
 
             local scroll = vgui.Create("DScrollPanel", listPanel)
             scroll:Dock(FILL)
@@ -532,11 +532,11 @@ if tabName == L("tabs","tactical") then
             local style = NetricsaStyle or STYLES.Revolution
             local bgMatText = Material(style.text, "noclamp smooth")
 
-            -- ВЕРХ: панель с заголовком (имя карты из .lua)
+            -- ВЕРХ: панель с заголовком
             local headerPanel = vgui.Create("DPanel", contentPanel)
             NetricsaUtils.NoBG(headerPanel)
             headerPanel:Dock(TOP)
-            headerPanel:SetTall(200) -- ← было 60
+            headerPanel:SetTall(200)
             local upMat = Material(NetricsaStyle.up or "netricsa/up_bg.png", "noclamp smooth")
             headerPanel.Paint = function(self, w, h)
                 surface.SetDrawColor(255,255,255,255)
@@ -556,7 +556,7 @@ if tabName == L("tabs","tactical") then
             bottomPanel:Dock(FILL)
             bottomPanel:DockMargin(0, 10, 0, 0)
 
-            -- слева картинка карты (40% ширины)
+            -- слева картинка карты
             local mapImagePanel = vgui.Create("DPanel", bottomPanel)
             mapImagePanel:Dock(LEFT)
             mapImagePanel:SetWide(math.floor(contentPanel:GetWide() * 0.4))
@@ -575,29 +575,42 @@ if tabName == L("tabs","tactical") then
                 end
             end
 
-            -- справа текст статистики
+            -- справа текст статистики (СДЕЛАЕМ ЕГО ОБНОВЛЯЕМЫМ)
             local statsPanel = vgui.Create("DPanel", bottomPanel)
             NetricsaUtils.NoBG(statsPanel)
             statsPanel:Dock(FILL)
             statsPanel:DockMargin(10, 0, 0, 0)
+            
+            -- 🔹 ДОБАВИМ ТАЙМЕР ДЛЯ ОБНОВЛЕНИЯ СТАТИСТИКИ В РЕАЛЬНОМ ВРЕМЕНИ
+            local statsThinkTimer = "NetricsaStatsThink_" .. tostring({})
+            timer.Create(statsThinkTimer, 0.5, 0, function()
+                if not IsValid(statsPanel) then
+                    timer.Remove(statsThinkTimer)
+                    return
+                end
+                statsPanel:InvalidateLayout() -- Принудительное обновление
+            end)
+            
             statsPanel.Paint = function(self, w, h)
                 surface.SetDrawColor(255,255,255,255)
                 surface.SetMaterial(bgMatText)
                 surface.DrawTexturedRect(0, 0, w, h)
 
-                -- здесь выводим статистику
-                local mapName = game.GetMap()
-
+                -- 🔹 СТАТИСТИКА БУДЕТ ОБНОВЛЯТЬСЯ АВТОМАТИЧЕСКИ
                 local killedEnemies = stats_kills or 0
-                local totalEnemies  = stats_totalEnemies or 0
-                local killsText = string.format("%s: %d/%d", L("ui","kills"), killedEnemies, totalEnemies)
-
+                local totalEnemiesOnMap = stats_maxEnemies or math.max(stats_totalEnemies or 0, stats_kills or 0)
+                
                 local foundSecrets = (stats_secrets or 0)
                 local totalSecrets = (stats_secrets_total or 0)
-                local secretsText = string.format("%s: %d/%d", L("ui","secrets"), foundSecrets, totalSecrets)
+                
+                local playTime = "00:00"
+                if stats_startTime and stats_startTime > 0 then
+                    playTime = string.ToMinutesSeconds(CurTime() - stats_startTime)
+                end
 
-                local playTime = string.ToMinutesSeconds(CurTime() - (stats_startTime or 0))
-                local timeText    = L("ui","game_time") .. ": " .. playTime
+                local killsText = string.format("%s: %d/%d", L("ui","kills"), killedEnemies, totalEnemiesOnMap)
+                local secretsText = string.format("%s: %d/%d", L("ui","secrets"), foundSecrets, totalSecrets)
+                local timeText = L("ui","game_time") .. ": " .. playTime
 
                 -- рисуем текст
                 draw.SimpleText("TOTAL", "NetricsaTitle", 20, 20, style.color, TEXT_ALIGN_LEFT)
@@ -605,6 +618,14 @@ if tabName == L("tabs","tactical") then
                 draw.SimpleText(secretsText, "NetricsaText", 20, 90, style.color, TEXT_ALIGN_LEFT)
                 draw.SimpleText(timeText, "NetricsaText", 20, 120, style.color, TEXT_ALIGN_LEFT)
             end
+            
+            -- 🔹 ПРИ СОЗДАНИИ ВКЛАДКИ СРАЗУ ЗАПРАШИВАЕМ АКТУАЛЬНУЮ СТАТИСТИКУ
+            timer.Simple(0.1, function()
+                if IsValid(contentPanel) then
+                    print("[Netricsa] Requesting fresh stats for statistics tab")
+                    RunConsoleCommand("netricsa_check")
+                end
+            end)
         end
     end
 

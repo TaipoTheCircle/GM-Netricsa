@@ -5,6 +5,20 @@ if CLIENT then
     function OpenNetricsa()
         if IsValid(NetricsaFrame) then
             NetricsaFrame:SetVisible(true)
+            
+            -- 🔹 ОБНОВЛЯЕМ СТАТИСТИКУ ПРИ ПОВТОРНОМ ОТКРЫТИИ
+            if _G.NetricsaCurrentTab == L("tabs","statistics") then
+                print("[Netricsa] Refreshing statistics tab on reopen")
+                NetricsaTabs.SwitchTab(L("tabs","statistics"))
+            end
+            
+            -- 🔹 ПРИНУДИТЕЛЬНО ОБНОВЛЯЕМ СТАТИСТИКУ ПРИ ОТКРЫТИИ
+            timer.Simple(0.5, function()
+                if stats_totalEnemies == 0 then
+                    print("[Netricsa] Requesting stats update on open")
+                    RunConsoleCommand("netricsa_check")
+                end
+            end)
             return
         end
 
@@ -26,14 +40,14 @@ if CLIENT then
         NetricsaFrame:SetDraggable(false)
         NetricsaFrame:MakePopup()
 
-local gridMat = Material(NetricsaStyle.grid or "netricsa/grid.png", "noclamp smooth")
-NetricsaFrame.Paint = function(self, w, h)
-    surface.SetDrawColor(255, 255, 255, 255)
-    surface.SetMaterial(gridMat)
-    surface.DrawTexturedRect(0, 0, w, h)
-    local style = NetricsaStyle or STYLES.Revolution
-    draw.SimpleText(L("ui","version"), "NetricsaTitle", 20, 10, style.color, TEXT_ALIGN_LEFT, TEXT_ALIGN_TOP)
-end
+        local gridMat = Material(NetricsaStyle.grid or "netricsa/grid.png", "noclamp smooth")
+        NetricsaFrame.Paint = function(self, w, h)
+            surface.SetDrawColor(255, 255, 255, 255)
+            surface.SetMaterial(gridMat)
+            surface.DrawTexturedRect(0, 0, w, h)
+            local style = NetricsaStyle or STYLES.Revolution
+            draw.SimpleText(L("ui","version"), "NetricsaTitle", 20, 10, style.color, TEXT_ALIGN_LEFT, TEXT_ALIGN_TOP)
+        end
 
         local exitBtn = vgui.Create("DButton", NetricsaFrame)
         exitBtn:SetText("")
@@ -210,7 +224,6 @@ end
             self:SetTextColor(NetricsaStyle.color)
         end
 
-
         styleBtn.DoClick = function()
             local menu = DermaMenu()
             for name, _ in pairs(STYLES) do
@@ -279,6 +292,12 @@ end
         NetricsaTabs.SwitchTab(defaultTab)
         UpdateCurrentTab(defaultTab)
         print("[Netricsa] Default tab initialized")
+        
+        -- 🔹 ЗАПРАШИВАЕМ СТАТИСТИКУ ПРИ ОТКРЫТИИ NETRICSA
+        timer.Simple(0.5, function()
+            print("[Netricsa] Requesting stats on interface open")
+            RunConsoleCommand("netricsa_check")
+        end)
     end
 
     -- Expose

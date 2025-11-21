@@ -1,14 +1,39 @@
 if CLIENT then
     -- переменные статистики
     stats_kills = 0
-    stats_totalEnemies = 0 -- здесь мы храним "живых сейчас", как шлёт сервер
+    stats_totalEnemies = 0
     stats_startTime = 0
+    stats_maxEnemies = 0
+    stats_secrets = 0
+    stats_secrets_total = 0
 
-    net.Receive("Netricsa_UpdateStats", function()
-        stats_kills        = net.ReadInt(16)
-        stats_totalEnemies = net.ReadInt(16)
-        stats_startTime    = net.ReadFloat()
-    end)
+net.Receive("Netricsa_UpdateStats", function()
+    local kills = net.ReadUInt(16) or 0
+    local total = net.ReadUInt(16) or 0
+    local startTime = net.ReadFloat() or CurTime()
+    
+    print("[Netricsa Client] Raw network data - kills: " .. kills .. ", total: " .. total)
+    
+    -- Обновляем переменные
+    stats_kills = kills
+    stats_totalEnemies = total
+    stats_startTime = startTime
+    
+    -- 🔹 ОБНОВЛЯЕМ МАКСИМАЛЬНОЕ КОЛИЧЕСТВО ВРАГОВ
+    stats_maxEnemies = math.max(stats_maxEnemies or 0, stats_totalEnemies)
+    
+    print("[Netricsa Client] Processed stats: " .. stats_kills .. "/" .. stats_totalEnemies .. " (max: " .. stats_maxEnemies .. ")")
+    
+    -- 🔹 ОБНОВЛЯЕМ СТАТИСТИКУ ЕСЛИ ОНА ОТКРЫТА
+    if IsValid(NetricsaFrame) and NetricsaFrame:IsVisible() then
+        local currentTab = _G.NetricsaCurrentTab or ""
+        if currentTab == L("tabs","statistics") then
+            print("[Netricsa] Refreshing statistics tab with new data")
+            -- Просто переключаем на ту же вкладку для обновления
+            NetricsaTabs.SwitchTab(currentTab)
+        end
+    end
+end)
 
     local ENEMIES = {}
     local WEAPONS = {}
@@ -332,7 +357,7 @@ if CLIENT then
             -- 🔹 Всегда проверяем целостность после загрузки
             ValidateData()
         end
-
+        
         -- Обновляем данные кампании
         RunConsoleCommand(CAMPAIGN_MAP_CONVAR, currentMap)
         RunConsoleCommand(CAMPAIGN_TIME_CONVAR, tostring(currentTime))
@@ -344,6 +369,15 @@ if CLIENT then
             SaveProgress()
             print("[Netricsa] Added current map to progress: " .. currentMap)
         end
+
+-- 🔹 ИНИЦИАЛИЗАЦИЯ СТАТИСТИКИ ПРИ СТАРТЕ
+timer.Simple(5, function()  -- Увеличьте с 3 до 5 секунд
+    print("[Netricsa] Initializing statistics...")
+    if stats_totalEnemies == 0 then
+        print("[Netricsa] Requesting initial stats from server")
+        RunConsoleCommand("netricsa_check")
+    end
+end)
 
         is_loading_process = false
     end
@@ -372,5 +406,21 @@ if CLIENT then
             SaveProgress()
             print("[Netricsa] Auto-save completed")
         end
+    end)
+
+    -- Команда для проверки клиентской статистики
+    concommand.Add("netricsa_client_stats", function()
+        print("=== NETRICSA CLIENT STATS ===")
+        print("Kills: " .. (stats_kills or 0))
+        print("Total Enemies (current): " .. (stats_totalEnemies or 0))
+        print("Max Enemies: " .. (stats_maxEnemies or 0))
+        print("Start Time: " .. (stats_startTime or 0))
+        print("Current Time: " .. CurTime())
+        if stats_startTime and stats_startTime > 0 then
+            print("Game Time: " .. string.ToMinutesSeconds(CurTime() - stats_startTime))
+        else
+            print("Game Time: N/A")
+        end
+        print("==============================")
     end)
 end
