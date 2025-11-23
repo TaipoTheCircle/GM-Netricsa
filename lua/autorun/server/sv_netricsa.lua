@@ -103,17 +103,31 @@ if SERVER then
     local stats_kills = 0
     local stats_totalEnemies = 0
     local stats_startTime = CurTime()
-    local trackedNPCs = {}
+    local trackedNPCs = {} -- 🔹 Отслеживаемые NPC: id -> {entity, killed}
 
 local function BroadcastStats()
     net.Start("Netricsa_UpdateStats")
-        net.WriteUInt(math.min(stats_kills, 65535), 16)      -- Ограничиваем максимум 65535
-        net.WriteUInt(math.min(stats_totalEnemies, 65535), 16) -- Ограничиваем максимум 65535
+        net.WriteUInt(math.min(stats_kills, 65535), 16)
+        net.WriteUInt(math.min(stats_totalEnemies, 65535), 16)
         net.WriteFloat(stats_startTime)
     net.Broadcast()
     
     print("[Netricsa] Stats broadcast: " .. stats_kills .. "/" .. stats_totalEnemies .. " (tracked: " .. table.Count(trackedNPCs) .. ")")
 end
+
+    -- 🔹 Функция для очистки невалидных NPC из трекинга
+    local function CleanupInvalidNPCs()
+        local removed = 0
+        for id, data in pairs(trackedNPCs) do
+            if not IsValid(data.entity) then
+                trackedNPCs[id] = nil
+                removed = removed + 1
+            end
+        end
+        if removed > 0 then
+            print("[Netricsa] Cleaned up " .. removed .. " invalid NPCs from tracking")
+        end
+    end
 
     -- при старте карты
     hook.Add("InitPostEntity", "Netricsa_StatsInit", function()
@@ -138,7 +152,10 @@ end
                     enemyNPCs = enemyNPCs + 1
                     local id = ent:EntIndex()
                     if not trackedNPCs[id] then
-                        trackedNPCs[id] = true
+                        trackedNPCs[id] = {
+                            entity = ent,
+                            killed = false
+                        }
                         stats_totalEnemies = stats_totalEnemies + 1
                     end
                     print("[Netricsa] ENEMY: " .. npcClass)
@@ -156,6 +173,9 @@ end
         print("[Netricsa] Tracked: " .. stats_totalEnemies)
 
         BroadcastStats()
+        
+        -- 🔹 Запускаем периодическую очистку невалидных NPC
+        timer.Create("Netricsa_Cleanup", 10, 0, CleanupInvalidNPCs)
     end)
 
     -- NPC появился
@@ -166,7 +186,10 @@ end
             if IsEnemy(ent) then
                 local id = ent:EntIndex()
                 if not trackedNPCs[id] then
-                    trackedNPCs[id] = true
+                    trackedNPCs[id] = {
+                        entity = ent,
+                        killed = false
+                    }
                     stats_totalEnemies = stats_totalEnemies + 1
                     BroadcastStats()
                     print("[Netricsa] SPAWNED ENEMY: " .. ent:GetClass() .. " -> " .. stats_totalEnemies)
@@ -182,10 +205,15 @@ end
         if not IsValid(npc) then return end
         
         if IsEnemy(npc) then
-            stats_kills = stats_kills + 1
-            npc._NetricsaKilled = true
-            BroadcastStats()
-            print("[Netricsa] KILLED ENEMY: " .. npc:GetClass() .. " -> " .. stats_kills)
+            local id = npc:EntIndex()
+            if trackedNPCs[id] and not trackedNPCs[id].killed then
+                trackedNPCs[id].killed = true
+                stats_kills = stats_kills + 1
+                BroadcastStats()
+                print("[Netricsa] KILLED ENEMY: " .. npc:GetClass() .. " -> " .. stats_kills)
+            else
+                print("[Netricsa] Enemy already killed or not tracked: " .. npc:GetClass())
+            end
         else
             print("[Netricsa] KILLED FRIENDLY: " .. npc:GetClass() .. " (ignored)")
         end
@@ -198,11 +226,17 @@ end
         if IsEnemy(ent) then
             local id = ent:EntIndex()
             if trackedNPCs[id] then
-                if not ent._NetricsaKilled then
+                local wasKilled = trackedNPCs[id].killed
+                
+                if not wasKilled then
+                    -- NPC удалён без убийства (деспавн) - уменьшаем общее количество
                     stats_totalEnemies = math.max(0, stats_totalEnemies - 1)
                     BroadcastStats()
-                    print("[Netricsa] REMOVED ENEMY: " .. ent:GetClass() .. " -> " .. stats_totalEnemies)
+                    print("[Netricsa] REMOVED ENEMY (despawn): " .. ent:GetClass() .. " -> " .. stats_totalEnemies)
+                else
+                    print("[Netricsa] REMOVED KILLED ENEMY: " .. ent:GetClass() .. " (no change)")
                 end
+                
                 trackedNPCs[id] = nil
             end
         end
@@ -213,6 +247,8 @@ end
         local totalNPCs = 0
         local enemyNPCs = 0
         local friendlyNPCs = 0
+        local trackedCount = 0
+        local killedCount = 0
         
         for _, ent in ipairs(ents.GetAll()) do
             if IsValid(ent) and ent:IsNPC() then
@@ -225,22 +261,88 @@ end
             end
         end
         
+        -- Считаем трекнутые NPC
+        for id, data in pairs(trackedNPCs) do
+            trackedCount = trackedCount + 1
+            if data.killed then
+                killedCount = killedCount + 1
+            end
+        end
+        
         print("=== NETRICSA CHECK ===")
         print("Stats: " .. stats_kills .. "/" .. stats_totalEnemies)
+        print("Tracked - Total: " .. trackedCount .. ", Killed: " .. killedCount)
         print("Current NPCs - Total: " .. totalNPCs)
         print("Current NPCs - Enemies: " .. enemyNPCs) 
         print("Current NPCs - Friendly: " .. friendlyNPCs)
-        print("Tracked NPCs: " .. table.Count(trackedNPCs))
-        print("======================")
+        print("==============================")
     end)
 
     -- 🔹 КОМАНДА ДЛЯ ПОЛНОГО СБРОСА
     concommand.Add("netricsa_hard_reset", function(ply)
         if not ply:IsAdmin() then return end
         print("[Netricsa] HARD RESET by admin")
-        ResetStats()
+        
+        stats_kills = 0
+        stats_totalEnemies = 0
+        stats_startTime = CurTime()
+        trackedNPCs = {}
+        
+        -- Пересчитываем текущих NPC
+        for _, ent in ipairs(ents.GetAll()) do
+            if IsValid(ent) and ent:IsNPC() and IsEnemy(ent) then
+                local id = ent:EntIndex()
+                if not trackedNPCs[id] then
+                    trackedNPCs[id] = {
+                        entity = ent,
+                        killed = false
+                    }
+                    stats_totalEnemies = stats_totalEnemies + 1
+                end
+            end
+        end
+        
+        BroadcastStats()
+        print("[Netricsa] Hard reset complete")
     end)
 
+    -- 🔹 КОМАНДА ДЛЯ СИНХРОНИЗАЦИИ С ТЕКУЩИМИ NPC
+    concommand.Add("netricsa_sync", function(ply)
+        if not ply:IsAdmin() then return end
+        
+        print("[Netricsa] Syncing with current NPCs...")
+        local newTotal = 0
+        local newTracked = {}
+        
+        -- Собираем текущих вражеских NPC
+        for _, ent in ipairs(ents.GetAll()) do
+            if IsValid(ent) and ent:IsNPC() and IsEnemy(ent) then
+                local id = ent:EntIndex()
+                local wasKilled = trackedNPCs[id] and trackedNPCs[id].killed or false
+                
+                newTracked[id] = {
+                    entity = ent,
+                    killed = wasKilled
+                }
+                newTotal = newTotal + 1
+                
+                if not wasKilled then
+                    print("[Netricsa] Added live enemy to sync: " .. ent:GetClass())
+                else
+                    print("[Netricsa] Added killed enemy to sync: " .. ent:GetClass())
+                end
+            end
+        end
+        
+        -- Обновляем статистику
+        trackedNPCs = newTracked
+        stats_totalEnemies = newTotal
+        
+        BroadcastStats()
+        print("[Netricsa] Sync complete. Total enemies: " .. newTotal)
+    end)
+
+    -- Остальной код для трекинга врагов и оружия...
     -- Таблица известных NPC
     TrackedEnemies = TrackedEnemies or {}
 
@@ -421,7 +523,6 @@ end
     end)
 
     hook.Add("InitPostEntity", "Netricsa_CheckSpecialInstant", function()
-        -- задержка чтобы все NPC на карте успели проинициализироваться
         timer.Simple(0.2, function()
             for _, ent in ipairs(ents.GetAll()) do
                 AnnounceSpecialNPC(ent)
