@@ -178,7 +178,10 @@ end)
         
         if file.Exists(PROGRESS_FILE, "DATA") then
             local backupName = "netricsa_progress_backup_" .. os.time() .. ".json"
-            file.Copy(PROGRESS_FILE, backupName)
+            local content = file.Read(PROGRESS_FILE, "DATA")
+if content then
+    file.Write(backupName, content)
+end
             print("[Netricsa] Created backup: " .. backupName)
         end
         
