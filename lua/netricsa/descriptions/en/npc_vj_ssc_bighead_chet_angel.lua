@@ -8,7 +8,7 @@ SIZE:       5.9 ft
 STAMINA:    Low
 HOSTILITY:  Neutral
 WEAPONS:    None (except on I Am Ugh-Zan difficulty)
-REWARD:     100
+REWARD:     100 FC
 THREAT:     Annoyance
 
 DESCRIPTION:
