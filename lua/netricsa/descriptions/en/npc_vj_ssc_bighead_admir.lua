@@ -2,7 +2,7 @@ BIG-HEAD, ADMIR ELEZOVIC
 
 
 CLASS:      Big-Head, Admir Elezovic
-METABOLISM: Humanoid
+METABOLISM: Humanoid, Male
 PERCEPTION: Enthusiastic Fanatic
 SIZE:       5.9 ft
 ENDURANCE:  Low

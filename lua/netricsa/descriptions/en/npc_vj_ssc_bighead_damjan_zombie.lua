@@ -2,7 +2,7 @@ BIG-HEAD ZOMBIE, DAMJAN MRAVUNAC
 
 
 CLASS:      Big-Head Zombie, Damjan Mravunac
-METABOLISM: Humanoid (99% pure music)
+METABOLISM: Humanoid, Male (99% pure music)
 PERCEPTION: Enthusiastic Fanatic / Music God
 SIZE:       5,9 ft
 ENDURANCE:  Low

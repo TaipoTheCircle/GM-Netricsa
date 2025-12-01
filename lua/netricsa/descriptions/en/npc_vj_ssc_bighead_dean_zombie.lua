@@ -2,7 +2,8 @@ BIG-HEAD ZOMBIE, DEAN SEKULIC
 
 
 CLASS:      Big-Head Zombie, Dean Sekulic
-PERCEPTION: Enthusiastic Fan
+METABOLISM: Humanoid, Male
+PERCEPTION: Enthusiastic Fanatic
 SIZE:       5,9 ft
 STAMINA:    Low
 HOSTILITY:  Neutral

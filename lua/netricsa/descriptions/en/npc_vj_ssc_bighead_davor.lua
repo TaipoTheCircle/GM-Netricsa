@@ -2,7 +2,7 @@ BIG-HEAD, DAVOR HANSKI
 
 
 CLASS:      Big-Head, Davor Hanski
-METABOLISM: Humanoid
+METABOLISM: Humanoid, Male
 PERCEPTION: Enthusiastic Fanatic
 SIZE:       5.9 ft
 ENDURANCE:  Low

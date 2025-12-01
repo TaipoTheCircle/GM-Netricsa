@@ -2,7 +2,7 @@ BIG-HEAD ZOMBIE, DARKO MARTINOVIC
 
 
 CLASS:      Big-Head Zombie, Darko Martinovic
-METABOLISM: Humanoid
+METABOLISM: Humanoid, Male
 PERCEPTION: Enthusiastic Fanatic
 SIZE:       5.9 ft
 ENDURANCE:  Low

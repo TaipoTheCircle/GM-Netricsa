@@ -2,7 +2,8 @@ BIG-HEAD, DINKO PAVICIC
 
 
 CLASS:       Big-Head, Dinko Pavicic
-PERCEPTION:  Enthusiastic Fan
+METABOLISM: Humanoid, Male
+PERCEPTION: Enthusiastic Fanatic
 SIZE:        5,9 ft
 STAMINA:     Low
 HOSTILITY:   Neutral

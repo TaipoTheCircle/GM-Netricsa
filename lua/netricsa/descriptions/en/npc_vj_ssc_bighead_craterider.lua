@@ -2,7 +2,7 @@ BIG-HEADS, CHET FALICEK AND ERIK WOLPAW
 
 
 CLASS:      Big-Heads, Erik Falisek and Chet Wolpaw
-METABOLISM: Humanoid
+METABOLISM: Humanoid, Male
 PERCEPTION: Legends of Games Journalism
 SIZE:       5,9 feet (each)
 ENDURANCE:  Low

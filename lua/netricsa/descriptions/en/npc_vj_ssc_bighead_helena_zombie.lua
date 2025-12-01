@@ -1,8 +1,8 @@
-BIG-HEAD, HELENA HUNSKI
+BIG-HEAD ZOMBIE, HELENA HUNSKI
 
 
-CLASS:      Big-Head, Helena Hunski
-METABOLISM: Humanoid
+CLASS:      Big-Head Zombie, Helena Hunski
+METABOLISM: Humanoid, Female
 PERCEPTION: Enthusiastic Fanatic
 SIZE:       5,9 ft
 STAMINA:    Low

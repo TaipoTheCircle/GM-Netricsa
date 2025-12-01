@@ -2,7 +2,7 @@ BIG-HEAD,  ERIK WOLPAW
 
 
 CLASS:      Big-Head, Erik Wolpaw
-METABOLISM: Humanoid (90% sarcasm and scripted)
+METABOLISM: Humanoid, Male (90% sarcasm and scripted)
 PERCEPTION: Enthusiastic Fanboy
 SIZE:       5,9 ft
 STAMINA:    Low

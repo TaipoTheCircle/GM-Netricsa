@@ -1,8 +1,8 @@
-BIG-HEAD, DAVOR HANSKI
+BIG-HEAD ZOMBIE, DAVOR HANSKI
 
 
-CLASS:      Big-Head, Davor Hanski
-METABOLISM: Humanoid
+CLASS:      Big-Head Zombie, Davor Hanski
+METABOLISM: Humanoid, Male
 PERCEPTION: Enthusiastic Fanatic
 SIZE:       5.9 ft
 ENDURANCE:  Low

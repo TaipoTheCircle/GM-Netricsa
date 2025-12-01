@@ -1,8 +1,8 @@
-BIG-HEAD, CHET FALISEK
+BIG-HEAD ANGEL, CHET FALISEK
 
 
-CLASS:      Big-Head, Chet Falisek
-METABOLISM: Humanoid
+CLASS:      Big-Head Angel, Chet Falisek
+METABOLISM: Humanoid, Male
 PERCEPTION: Enthusiastic Fanatic
 SIZE:       5.9 ft
 STAMINA:    Low

@@ -2,9 +2,9 @@ BIG-HEAD ZOMBIE, ALEN LADAVAC
 
 
 CLASS:      Big-Head Zombie, Alen Ladavac
-METABOLISM: Humanoid (70% code)
+METABOLISM: Humanoid, Male (70% code)
 PERCEPTION: Enthusiastic Fanatic
-SIZE:       5.9 ft
+SIZE:       5,9 ft
 ENDURANCE:  Low
 HOSTILITY:  Neutral
 WEAPONS:    None (except on I Am Ugh-Zan difficulty)
