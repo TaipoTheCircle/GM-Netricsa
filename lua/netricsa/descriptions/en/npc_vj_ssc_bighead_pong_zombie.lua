@@ -13,7 +13,7 @@ THREAT:     Annoyance
 
 DESCRIPTION:
 
-Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam developers. They wear the uniform of Cool Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Where are you going!?" They are completely harmless, but in the "I Am Ugh-Zan" difficulty they receive fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their sheer numbers.
+Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam developers. They wear the uniform of Serious Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Where are you going!?" They are completely harmless, but in the "I Am Ugh-Zan" difficulty they receive fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their sheer numbers.
 
 Tomislav Pongrac is a walking encyclopedia of game development and the embodiment of Croteam's "mad scientist" philosophy. His oversized cranium houses an incredible range of skills, applied over decades. He started out working with pixel art on Amiga and DOS, progressed through 3D art and level design for the classic Serious Sam: The First and The Second Encounter, and then became the lead level designer for Serious Sam II.
 

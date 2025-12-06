@@ -13,7 +13,7 @@ THREAT:     Annoyance
 
 DESCRIPTION:
 
-Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam developers. They wear the uniform of Cool Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Hey, Wait!" They are completely harmless, but on the "I Am Ugh-Zan" difficulty they gain fire and ice modifiers. They spontaneously appear in secret areas, blocking passages with their sheer numbers.
+Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam developers. They wear the uniform of Serious Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Hey, Wait!" They are completely harmless, but on the "I Am Ugh-Zan" difficulty they gain fire and ice modifiers. They spontaneously appear in secret areas, blocking passages with their sheer numbers.
 
 Darko Martinovic is one of the key programmers who pioneered the series' gameplay mechanics. His oversized skull is a direct result of his deep immersion in the code, creating that "serious" chaos onscreen. While the names of leading developers are often household names, it's specialists like Darko who form the foundation upon which the gameplay is built.
 

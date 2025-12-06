@@ -13,7 +13,7 @@ THREAT:     Annoyance
 
 DESCRIPTION:
 
-Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam developers. They wear the uniform of Cool Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Where are you going!?" They are completely harmless, but in the "I Am Ugh-Zan" difficulty they gain fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their numbers.
+Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam developers. They wear the uniform of Serious Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Where are you going!?" They are completely harmless, but in the "I Am Ugh-Zan" difficulty they gain fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their numbers.
 
 Nikola Mosettig is the living embodiment of "the other way." When he joined Croteam with his friend Ivan Mika, he dreamed of a career as a level designer, but fate decreed otherwise, sending him to the programming department. His exaggerated cranium contains 15 years of humility and professional growth – from a content programmer responsible for scripts, triggers, and interaction logic in games, to the Director of Information Technology. All this time, he watched with quiet sadness as Ivan created monumental landscapes, while he painstakingly wrote out what should happen when the player stepped on this or that tile.
 

@@ -13,7 +13,7 @@ THREAT:     Annoyance
 
 DESCRIPTION:
 
-Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam developers. They wear the uniform of Cool Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Where are you going!?" They are completely harmless, but on the "I Am Ugh-Zan" difficulty level they gain fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their sheer numbers.
+Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam developers. They wear the uniform of Serious Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Where are you going!?" They are completely harmless, but on the "I Am Ugh-Zan" difficulty level they gain fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their sheer numbers.
 
 Richard Bailey "Levelord" Gray is a true patriarch of game level design, whose oversized cranium contains decades of experience, sarcasm, and an incredible sense of fun. This Cold War veteran, former aerospace engineer, and Soviet submarine alumnus found his true calling in creating virtual spaces. It was he, along with Allen Bloom, who created the best levels of the iconic Duke Nukem 3D, forever etched in history the phrase "You're not supposed to be here."
 

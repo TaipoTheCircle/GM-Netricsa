@@ -13,7 +13,7 @@ THREAT:     Annoyance
 
 DESCRIPTION:
 
-Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam developers. They wear the uniform of Cool Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Where are you going!?" They are completely harmless, but on the "I Am Ugh-Zan" difficulty level they gain fire and ice modifiers. They spontaneously appear in secret areas, blocking passages with their sheer numbers.
+Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam developers. They wear the uniform of Serious Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Where are you going!?" They are completely harmless, but on the "I Am Ugh-Zan" difficulty level they gain fire and ice modifiers. They spontaneously appear in secret areas, blocking passages with their sheer numbers.
 
 Christopher "LanThief" Kroeger is the living embodiment of the spirit of the gaming community, rising to the level of an official developer. His exaggerated cranium is a testament to his deep understanding of online gameplay and the balance required for perfect Deathmatch. As part of the legendary modding team "A Few Screws Loose," he was a key contributor to the official Seriously Warped Deathmatch mod for Serious Sam: The Second Encounter (2002).
 
