@@ -5,7 +5,7 @@ CLASS:      Big-Head Angel, Ben Frech "Vinz"
 METABOLISM: Humanoid, Male
 PERCEPTION: Enthusiastic Fan
 SIZE:       5,9 ft
-STAMINA:    Low
+ENDURANCE:    Low
 HOSTILITY:  Neutral
 WEAPONS:    None (except on I Am Ugh-Zan difficulty)
 REWARD:     100 FC

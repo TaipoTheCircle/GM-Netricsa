@@ -5,7 +5,7 @@ CLASS:      Wild Boar
 METABOLISM: Herbivore/Omnivore
 PERCEPTION: Royalist
 SIZE:       3.5 ft.
-STAMINA:    Low
+ENDURANCE:    Low
 HOSTILITY:  Passive
 WEAPOON:    Tusks
 REWARD:     50 FC

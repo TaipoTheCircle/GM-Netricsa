@@ -5,7 +5,7 @@ CLASS:      Black Mesa Security Guard
 METABOLISM: Human, Male
 PERCEPTION: Standard visual (slow reflexes)
 SIZE:       ~5'10 (178 cm), overweight
-ENDURANCE:  Low–Medium (limited stamina, light armor)
+ENDURANCE:  Low–Medium (limited ENDURANCE, light armor)
 HOSTILITY:  Defensive / Allied
 WEAPONS:    Desert Eagle
 REWARD:     100 FC
@@ -19,6 +19,6 @@ Unlike standard guards, Otis is more of a comic-relief figure in the chaos of Bl
 
 TIPS:
 
-- Protect him - his Desert Eagle a punch, but his stamina is low.
+- Protect him - his Desert Eagle a punch, but his ENDURANCE is low.
 - Don't rely on him for long chases or heavy combat.
 - Keep enemies at a distance where he can safely shoot.
