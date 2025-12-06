@@ -13,7 +13,7 @@ THREAT:     Annoyance
 
 DESCRIPTION:
 
-Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam developers. They wear the uniform of Serious Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Where are you going!?" They are completely harmless, but in the "I Am Ugh-Zan" difficulty they gain fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their sheer numbers.
+Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam developers. They wear the uniform of Serious Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Hey, Wait!" They are completely harmless, but in the "I Am Ugh-Zan" difficulty they gain fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their sheer numbers.
 
 Peter Kleiner is an unrivaled master of one of the most subtle yet crucial disciplines in game graphics: skybox art. His exaggerated skull is a perfectly calibrated sphere within which entire skies, clouds, distant mountain ranges, and star clusters are born. It is his work that creates the epic backdrop that transforms the endless battlefields in The Second Encounter into part of a vast, living world, and not just a shooting arena.
 

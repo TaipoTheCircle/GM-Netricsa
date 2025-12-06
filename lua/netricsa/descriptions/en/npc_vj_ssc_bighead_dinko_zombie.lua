@@ -13,7 +13,7 @@ THREAT:      Annoyance
 
 DESCRIPTION:
 
-Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam's developers. They wear the Serious Sam uniform, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Where are you going!?" They are completely harmless, but in the "I Am Ugh-Zan" difficulty they gain fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their sheer numbers.
+Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam's developers. They wear the Serious Sam uniform, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Hey, Wait!" They are completely harmless, but in the "I Am Ugh-Zan" difficulty they gain fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their sheer numbers.
 
 Dinko Pavicic is one of the pillars of Croteam's visual style. His exaggerated skull is a direct result of his unique combination of artistic genius and strategic thinking. Starting out as a 2D artist on the first Serious Sam games, Dinko helped shape the franchise's striking and recognizable visuals in its early days.
 

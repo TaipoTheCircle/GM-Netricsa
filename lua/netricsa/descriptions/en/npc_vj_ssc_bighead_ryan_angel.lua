@@ -13,7 +13,7 @@ THREAT:     Annoyance
 
 DESCRIPTION:
 
-Big_Heads are thin humanoids with exaggerated skulls containing the brains of Croteam's developers. They wear the uniform of Serious Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Where are you going!?" They're completely harmless, but in the "I Am Ugh-Zan" difficulty, they gain fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their sheer numbers.
+Big_Heads are thin humanoids with exaggerated skulls containing the brains of Croteam's developers. They wear the uniform of Serious Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Hey, Wait!" They're completely harmless, but in the "I Am Ugh-Zan" difficulty, they gain fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their sheer numbers.
 
 Ryan is one of the most enigmatic "brains" in the Croteam pantheon. Unlike his colleagues with detailed credits, his contributions remain undecipherable, like a faded artifact on an ancient scroll. His oversized skull holds a secret: perhaps he fixed a critical bug on the last night before the Golden Master, wrote the script for a forgotten Easter egg, or simply delivered that very pizza that saved the team during crunch. His name is lost in the annals of development, but the fact that he's on the list is irrefutable proof that he contributed something.
 

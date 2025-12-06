@@ -13,7 +13,7 @@ THREAT:     Annoyance
 
 DESCRIPTION:
 
-Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam developers. They wear the uniform of Serious Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Where are you going!?" They are completely harmless, but in the "I Am Ugh-Zan" difficulty, they gain fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their sheer numbers.
+Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam developers. They wear the uniform of Serious Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Hey, Wait!" They are completely harmless, but in the "I Am Ugh-Zan" difficulty, they gain fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their sheer numbers.
 
 John J. Dick is the living embodiment of the spirit of Sam Stone. His oversized skull is a direct reference to that deep, raspy, and incredibly charismatic voice that has been the series' signature for decades. It's the voice that turned the character into an icon, whose cries of "Aaah, you're the one!" and "YEAH!" are familiar to millions of players.
 

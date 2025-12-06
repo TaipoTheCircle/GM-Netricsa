@@ -13,7 +13,7 @@ THREAT:     Annoyance
 
 DESCRIPTION:
 
-Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam developers. They wear the uniform of Serious Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Where are you going!?" They're completely harmless, but on the "I Am Ugh-Zan" difficulty level, they gain fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their sheer numbers.
+Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam developers. They wear the uniform of Serious Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Hey, Wait!" They're completely harmless, but on the "I Am Ugh-Zan" difficulty level, they gain fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their sheer numbers.
 
 Roman Ribaric isn't just the co-founder and longtime CEO of Croteam. He's the prime mover, the visionary, and the main instigator of all the madness you see onscreen. His oversized cranium is the source of the initial impulse: it was he who dreamed up the name "Serious Sam," which replaced the working title "In the Flesh." He not only developed business strategies but also personally breathed life into the series' most famous enemy, recording the legendary, heart-rending scream of the Headless Kamikaze.
 

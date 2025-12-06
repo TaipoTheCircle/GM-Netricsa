@@ -13,7 +13,7 @@ THREAT:     Annoyance
 
 DESCRIPTION:
 
-Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam developers. They wear the uniform of Serious Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Where are you going!?" They are completely harmless, but on the "I Am Ugh-Zan" difficulty level they gain fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their sheer numbers.
+Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam developers. They wear the uniform of Serious Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Hey, Wait!" They are completely harmless, but on the "I Am Ugh-Zan" difficulty level they gain fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their sheer numbers.
 
 Tom Baker is a living bridge connecting the world of Croteam with the vast universe of 2K Games and other major studios. His oversized cranium is an archive containing experience working on over 150 games, from cult hits like BioShock, Borderlands, XCOM, Civilization, and Mafia to niche projects and licensed children's games. In the context of Serious Sam, he was part of the Design Team for The Second Encounter and later worked on the publishing of Serious Sam II as part of Take-Two Interactive's European team.
 

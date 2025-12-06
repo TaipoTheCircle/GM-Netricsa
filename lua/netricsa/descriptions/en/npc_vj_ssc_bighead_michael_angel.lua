@@ -13,7 +13,7 @@ THREAT:     Annoyance
 
 DESCRIPTION:
 
-Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam developers. They wear the uniform of Serious Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Where are you going!?" They are completely harmless, but in the "I Am Ugh-Zan" difficulty they gain fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their sheer numbers.
+Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam developers. They wear the uniform of Serious Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Hey, Wait!" They are completely harmless, but in the "I Am Ugh-Zan" difficulty they gain fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their sheer numbers.
 
 Michael Harris (not to be confused with the criminal of the same name) is one of Croteam's key beta testers, having made significant contributions to the debugging and polishing of the series' most important games. His oversized cranium is a direct result of hundreds of hours spent finding tiny bugs, checking balance, and performing stability testing on The First Encounter, The Second Encounter, Serious Sam 2, and their HD remasters.
 

@@ -13,7 +13,7 @@ THREAT:     Annoyance
 
 DESCRIPTION:
 
-Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam developers. They wear the uniform of Serious Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Where are you going!?" They are completely harmless, but in the "I Am Ugh-Zan" difficulty they gain fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their sheer numbers.
+Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam developers. They wear the uniform of Serious Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Hey, Wait!" They are completely harmless, but in the "I Am Ugh-Zan" difficulty they gain fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their sheer numbers.
 
 Ben Frech, known as "Vinz," is a key member of the legendary modding team "A Few Screws Loose." His oversized cranium is a condensed knowledge of balance, cartography, and the pure, unfiltered joy of online carnage. Along with his teammates, he was one of the architects of the iconic Seriously Warped Deathmatch mod for Serious Sam: The Second Encounter, which didn't just add content but redefined the multiplayer experience for an entire generation of players.
 

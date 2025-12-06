@@ -13,7 +13,7 @@ THREAT:      Annoyance
 
 DESCRIPTION:
 
-Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam's developers. They wear the uniform of Serious Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Where are you going!?" They are completely harmless, but in the "I Am Ugh-Zan" difficulty they gain fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their sheer numbers.
+Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam's developers. They wear the uniform of Serious Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Hey, Wait!" They are completely harmless, but in the "I Am Ugh-Zan" difficulty they gain fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their sheer numbers.
 
 Sean "mwadaibe" Center is another key cog in the legendary modding collective A Few Screws Loose, whose work has been officially recognized and forever etched into the series' lore. His exaggerated cranium is a testament to his deep understanding of balance, flow design, and the pure, unbridled dynamics of online battles. Together with the team, he worked on the renowned Seriously Warped Deathmatch mod for The Second Encounter, creating and refining those 20 insane maps that inspired a whole generation of Serious Sam esports players.
 

@@ -13,7 +13,7 @@ THREAT:     Annoyance
 
 DESCRIPTION:
 
-Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam developers. They wear the uniform of Serious Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Where are you going!?" They are completely harmless, but in the "I Am Ugh-Zan" difficulty they receive fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their sheer numbers.
+Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam developers. They wear the uniform of Serious Sam, but have the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Hey, Wait!" They are completely harmless, but in the "I Am Ugh-Zan" difficulty they receive fire and ice modifiers. They appear spontaneously in secret areas, blocking passages with their sheer numbers.
 
 Damir Perovic is one of the four pillars on which the entire Croteam empire rests. His oversized skull contains not only the developer's brain, but also the very idea, the germ of the studio, which arose back in 1989 as part of a school team making the 2D side-scroller "Kids." Along with three classmates, he rose from students at Zagreb's Nikola Tesla School to co-founders of one of Croatia's most iconic game studios.
 

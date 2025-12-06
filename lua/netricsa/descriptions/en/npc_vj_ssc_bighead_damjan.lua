@@ -13,7 +13,7 @@ THREAT:     Annoyance Factor (with perfect pitch)
 
 DESCRIPTION:
 
-Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam's developers. They wear the Serious Sam uniform, but with the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Where are you going!?" They are completely harmless, but in the "I Am Ugh-Zan" difficulty level they gain fire and ice modifiers. They spontaneously appear in secret areas, blocking passages with their sheer numbers.
+Big-Heads are thin humanoids with exaggerated skulls containing the brains of Croteam's developers. They wear the Serious Sam uniform, but with the unique facial features of the development team. They display an obsessive enthusiasm, chasing you with cries of "Hello!" and "Hey, Wait!" They are completely harmless, but in the "I Am Ugh-Zan" difficulty level they gain fire and ice modifiers. They spontaneously appear in secret areas, blocking passages with their sheer numbers.
 
 Damjan Mravunac is the man whose music is the soundtrack to the chaos in the Serious Sam universe. His oversized skull is a direct result of his incredible musical talent, encompassing everything from epic orchestral arrangements to thunderous heavy metal riffs. A Croteam composer since 1999, Damjan is the architect of that "serious" sound that immerses everyone in the atmosphere of frantic action from the very first notes.
 
