@@ -8,7 +8,7 @@ SIZE:       7.5 ft
 ENDURANCE:  low
 HOSTILITY:  medium
 WEAPONS:    chainsaw
-REWARD:     1500
+REWARD:     1500 FC
 THREAT:     medium
 
 DESCRIPTION:
