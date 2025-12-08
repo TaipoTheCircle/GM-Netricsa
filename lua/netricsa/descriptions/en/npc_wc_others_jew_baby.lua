@@ -1,10 +1,10 @@
-JEWISH RESISTOR
+BABY JEWISH RESISTOR
 
 
-CLASS:      Human Rebel
+CLASS:      Human Rebel, Baby
 METABOLISM: Human, Male
 PERCEPTION: Survivor's instinct
-SIZE:       5.5-6 ft
+SIZE:       3 ft
 ENDURANCE:  Medium
 HOSTILITY:  Directed against German forces
 WEAPONS:    none

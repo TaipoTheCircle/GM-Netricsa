@@ -483,7 +483,12 @@ end
         ["npc_vj_ssc_elementallava_large"] = true,
         ["npc_vj_q4_strogg_harvester"] = true,
         ["npc_vj_ssc_exotechlarva"] = true,
-        ["npc_vj_ssc_summoner"] = true,
+        ["npc_wc_anime_saitama"] = true,
+        ["npc_wc_shaids_gand_battle_robot_boss"] = true,
+        ["npc_wc_tf2_headless_hatman"] = true,
+        ["npc_wc_others_jew_boxer"] = true,
+        ["npc_vj_mc_mzs_wroughtnaut"] = true,
+        ["npc_vj_ssc_gizmo_big_secret"] = true,
     }
 
     local function AnnounceSpecialNPC(ent)
