@@ -7,8 +7,8 @@ PERCEPTION: Tactical Cover Operator
 SIZE:       7,5 ft
 ENDURANCE:  Very high
 HOSTILITY:  Adaptive
-WEAPONALS:  Homing Missile Launcher, M249, Shotgun
-REWARD:     2004
+WEAPONS:    Homing Missile Launcher, M249, Shotgun
+REWARD:     2004 FC
 THREAT:     Critical
 
 DESCRIPTION:

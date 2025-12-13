@@ -7,7 +7,7 @@ PERCEPTION: Electroreception, olfactory sense, lateral line, vision
 SIZE:       16 ft
 ENDURANCE:  Very high
 HOSTILITY:  High (in water), absent (on land)
-WEAPONALS:  Jaws with multiple rows of serrated teeth
+WEAPONS:    Jaws with multiple rows of serrated teeth
 REWARD:     1100 FC
 THREAT:     Extreme (in water, when approached)
 

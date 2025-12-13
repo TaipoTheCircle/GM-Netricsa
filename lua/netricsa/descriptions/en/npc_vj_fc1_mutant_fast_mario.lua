@@ -1,20 +1,20 @@
-ПИСКУН (ПРЫГУН) САНТЕХНИК С АРХИПЕЛАГА КРИГЕРА
+JUMPER PLUMBER FROM THE KRIEGER ARCHIPELAGO
 
 
-КЛАСС:        Пискун-сантехник, Специализированная мутация
-МЕТАБОЛИЗМ:   Трайген-мутант с адаптированной физиологией
-PERCEPTION:   Тактический диверсант-инженер
-РАЗМЕР:       5,9 ft
-ВЫНОСЛИВОСТЬ: Высокая
-ВРАЖДЕБНОСТЬ: Высокая
-ОРУЖИЕ:       Прыжковые атаки с усилением, AG36
-НАГРАДА:      1200 FC
-УГРОЗА:       Высокая
+CLASS:      Jumper Plumber, Specialized Mutation
+METABOLISM: Trigen mutant with adapted physiology
+PERCEPTION: Tactical saboteur-engineer
+SIZE:       5,9 ft
+ENDURANCE:  High
+HOSTILITY:  High
+WEAPONS:    Boosted jump attacks, AG36
+REWARD:     1200 FC
+THREAT:     High
 
-ОПИСАНИЕ:
+DESCRIPTION:
 
-Уникальная мутация Пискуна, возникшая после случайного попадания в канализационные стоки лаборатории Кригера. Вместо деградации, мутаген и инженерные знания бывшего солдата слились, создав Пискуна-сантехника. Он носит заправленную в штаны синюю униформу с отличительным знаком "М" на кепке, которая странным образом выдержала мутацию. Его гипертрофированные конечности теперь идеально приспособлены для суперпрыжков с гидравлическим усилением, позволяющих ему взлетать на огромную высоту и приземляться с сокрушительным ударом.
+A unique Jumper mutation, created after accidentally falling into the sewers of Krieger's laboratory. Instead of degradation, the mutagen and the former soldier's engineering knowledge merged, creating the Squeaker Plumber. He wears a blue uniform tucked into his pants with a distinctive "M" insignia on his cap, which has somehow survived the mutation. His hypertrophied limbs are now perfectly adapted for hydraulically enhanced super-jumps, allowing him to soar to enormous heights and land with a devastating impact.
 
-СОВЕТЫ:
+TIPS:
 
-- Не говорите об этом Красной Японской Компании.
+- Don't tell the Red Japanese Company about this.
