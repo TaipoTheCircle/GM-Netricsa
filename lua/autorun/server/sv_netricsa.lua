@@ -15,7 +15,6 @@ if SERVER then
         ["npc_dog"] = true,
         ["npc_magnusson"] = true,
         ["npc_breen"] = true,
-        ["npc_vortigaunt"] = true,
         ["npc_eli"] = true,
         ["generic_actor"] = true,
         ["monster_generic"] = true,
@@ -489,6 +488,15 @@ end
         ["npc_wc_others_jew_boxer"] = true,
         ["npc_vj_mc_mzs_wroughtnaut"] = true,
         ["npc_vj_ssc_gizmo_big_secret"] = true,
+        ["npc_vj_fc1_stone_head_helicopter"] = true,
+        ["npc_vj_fc1_helicopter"] = true,
+        ["npc_vj_fc1_hell_nit_helicopter"] = true,
+        ["npc_vj_fc1_stone_head"] = true,
+        ["npc_vj_fc1_helicopter_cut"] = true,
+        ["npc_vj_fc1_security_helicopter"] = true,
+        ["npc_vj_fc1_mutant_krieger"] = true,
+        ["npc_vj_fc1_mutant_krieger_cut_eyes"] = true,
+
     }
 
     local function AnnounceSpecialNPC(ent)
