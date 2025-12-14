@@ -5,7 +5,7 @@ CLASS:      Big-Head, John J. Dick "Booger"
 METABOLISM: Humanoid, Male
 PERCEPTION: Enthusiastic Fanatic
 SIZE:       5,9 ft
-ENDURANCE:    Low
+ENDURANCE:  Low
 HOSTILITY:  Neutral
 WEAPONS:    None (except on I Am Ugh-Zan difficulty)
 REWARD:     100 FC
