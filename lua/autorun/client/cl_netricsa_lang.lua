@@ -42,7 +42,8 @@ if CLIENT then
                 welcome             = "WELCOME TO NETRICSA!",
 
                 -- 🔹 VERSION
-                version             = "NETRICSA v2.01"
+                version             = "NETRICSA v2.01",
+                score               = "SCORE"
             }
         },
 
@@ -82,7 +83,8 @@ if CLIENT then
                 welcome             = "ДОБРО ПОЖАЛОВАТЬ В ИНЕРТАН!",
 
                 -- 🔹 ПЕРЕВОД ВЕРСИИ
-                version             = "ИНЕРТАН v2.01"
+                version             = "ИНЕРТАН v2.01",
+                score               = "СЧЁТ"
             }
         }
     }

@@ -591,33 +591,41 @@ if CLIENT then
                 statsPanel:InvalidateLayout() -- Принудительное обновление
             end)
             
-            statsPanel.Paint = function(self, w, h)
-                surface.SetDrawColor(255,255,255,255)
-                surface.SetMaterial(bgMatText)
-                surface.DrawTexturedRect(0, 0, w, h)
+-- В разделе таба статистики (elseif tabName == L("tabs","statistics") then)
+-- Обновляем функцию отрисовки статистики:
 
-                -- 🔹 СТАТИСТИКА БУДЕТ ОБНОВЛЯТЬСЯ АВТОМАТИЧЕСКИ
-                local killedEnemies = stats_kills or 0
-                local totalEnemiesOnMap = stats_maxEnemies or math.max(stats_totalEnemies or 0, stats_kills or 0)
-                
-                local foundSecrets = (stats_secrets or 0)
-                local totalSecrets = (stats_secrets_total or 0)
-                
-                local playTime = "00:00"
-                if stats_startTime and stats_startTime > 0 then
-                    playTime = string.ToMinutesSeconds(CurTime() - stats_startTime)
-                end
+statsPanel.Paint = function(self, w, h)
+    surface.SetDrawColor(255,255,255,255)
+    surface.SetMaterial(bgMatText)
+    surface.DrawTexturedRect(0, 0, w, h)
 
-                local killsText = string.format("%s: %d/%d", L("ui","kills"), killedEnemies, totalEnemiesOnMap)
-                local secretsText = string.format("%s: %d/%d", L("ui","secrets"), foundSecrets, totalSecrets)
-                local timeText = L("ui","game_time") .. ": " .. playTime
+    -- СТАТИСТИКА
+    local killedEnemies = stats_kills or 0
+    local totalEnemiesOnMap = stats_maxEnemies or math.max(stats_totalEnemies or 0, stats_kills or 0)
+    
+    local foundSecrets = (stats_secrets or 0)
+    local totalSecrets = (stats_secrets_total or 0)
+    
+    local totalScore = NetricsaData.GetTotalScore() or 0 -- НОВОЕ: получаем очки
+    
+    local playTime = "00:00"
+    if stats_startTime and stats_startTime > 0 then
+        playTime = string.ToMinutesSeconds(CurTime() - stats_startTime)
+    end
 
-                -- рисуем текст
-                draw.SimpleText("TOTAL", "NetricsaTitle", 20, 20, style.color, TEXT_ALIGN_LEFT)
-                draw.SimpleText(killsText, "NetricsaText", 20, 60, style.color, TEXT_ALIGN_LEFT)
-                draw.SimpleText(secretsText, "NetricsaText", 20, 90, style.color, TEXT_ALIGN_LEFT)
-                draw.SimpleText(timeText, "NetricsaText", 20, 120, style.color, TEXT_ALIGN_LEFT)
-            end
+    -- НОВОЕ порядок: SCORE -> KILLS -> SECRETS -> TIME
+    local scoreText = string.format("%s: %d", L("ui", "score"), totalScore)
+    local killsText = string.format("%s: %d/%d", L("ui","kills"), killedEnemies, totalEnemiesOnMap)
+    local secretsText = string.format("%s: %d/%d", L("ui","secrets"), foundSecrets, totalSecrets)
+    local timeText = L("ui","game_time") .. ": " .. playTime
+
+    -- рисуем текст
+    draw.SimpleText("TOTAL", "NetricsaTitle", 20, 20, style.color, TEXT_ALIGN_LEFT)
+    draw.SimpleText(scoreText, "NetricsaText", 20, 60, style.color, TEXT_ALIGN_LEFT) -- ПЕРВЫЙ
+    draw.SimpleText(killsText, "NetricsaText", 20, 90, style.color, TEXT_ALIGN_LEFT)
+    draw.SimpleText(secretsText, "NetricsaText", 20, 120, style.color, TEXT_ALIGN_LEFT)
+    draw.SimpleText(timeText, "NetricsaText", 20, 150, style.color, TEXT_ALIGN_LEFT)
+end
             
             -- 🔹 ПРИ СОЗДАНИИ ВКЛАДКИ СРАЗУ ЗАПРАШИВАЕМ АКТУАЛЬНУЮ СТАТИСТИКУ
             timer.Simple(0.1, function()

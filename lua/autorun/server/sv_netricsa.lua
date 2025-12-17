@@ -5,6 +5,8 @@ if SERVER then
     util.AddNetworkString("Netricsa_PlaySound")
     util.AddNetworkString("Netricsa_ContinueCampaign")
     util.AddNetworkString("Netricsa_UpdateStats")
+    util.AddNetworkString("Netricsa_UpdateScore")
+    util.AddNetworkString("Netricsa_AddScoreForNPC")
 
     -- 🔹 ТАБЛИЦА ДРУЖЕСТВЕННЫХ NPC
     local FRIENDLY_NPCS = {
@@ -200,23 +202,45 @@ end
     end)
 
     -- NPC убит
-    hook.Add("OnNPCKilled", "Netricsa_StatsOnKill", function(npc, attacker, inflictor)
-        if not IsValid(npc) then return end
-        
-        if IsEnemy(npc) then
-            local id = npc:EntIndex()
-            if trackedNPCs[id] and not trackedNPCs[id].killed then
-                trackedNPCs[id].killed = true
-                stats_kills = stats_kills + 1
-                BroadcastStats()
-                print("[Netricsa] KILLED ENEMY: " .. npc:GetClass() .. " -> " .. stats_kills)
-            else
-                print("[Netricsa] Enemy already killed or not tracked: " .. npc:GetClass())
+-- Замените оба хука на один
+hook.Add("OnNPCKilled", "NetricsaTrackCombined", function(npc, attacker, inflictor)
+    if not IsValid(npc) then return end
+
+    local npcClass = npc:GetClass()
+    local mdl = npc:GetModel() or ""
+    local skin = npc:GetSkin() or 0
+
+    local bodygroups = {}
+    for i = 0, (npc:GetNumBodyGroups()-1) do
+        bodygroups[i+1] = npc:GetBodygroup(i)
+    end
+
+    -- Часть для добавления врага в Netricsa
+    if not TrackedEnemies[npcClass] then
+        TrackedEnemies[npcClass] = true
+
+        net.Start("Netricsa_AddEnemy")
+            net.WriteString(npcClass)
+            net.WriteString(mdl)
+            net.WriteUInt(skin, 8)
+            net.WriteUInt(#bodygroups, 8)
+            for i, bg in ipairs(bodygroups) do
+                net.WriteUInt(bg, 8)
             end
-        else
-            print("[Netricsa] KILLED FRIENDLY: " .. npc:GetClass() .. " (ignored)")
-        end
-    end)
+        net.Broadcast()
+
+        net.Start("Netricsa_PlaySound")
+        net.Broadcast()
+    end
+    
+    -- Часть для отправки очков
+    if IsValid(attacker) and attacker:IsPlayer() then
+        print("[Netricsa] Sending score for " .. npcClass .. " to " .. attacker:GetName())
+        net.Start("Netricsa_AddScoreForNPC")
+            net.WriteString(npcClass)
+        net.Send(attacker)
+    end
+end)
 
     -- NPC удалён
     hook.Add("EntityRemoved", "Netricsa_StatsOnRemove", function(ent)
@@ -344,37 +368,6 @@ end
     -- Остальной код для трекинга врагов и оружия...
     -- Таблица известных NPC
     TrackedEnemies = TrackedEnemies or {}
-
-    -- Отслеживание NPC
-    hook.Add("OnNPCKilled", "NetricsaTrack", function(npc, attacker, inflictor)
-        if not IsValid(npc) then return end
-
-        local npcClass = npc:GetClass()
-        local mdl = npc:GetModel() or ""
-        local skin = npc:GetSkin() or 0
-
-        local bodygroups = {}
-        for i = 0, (npc:GetNumBodyGroups()-1) do
-            bodygroups[i+1] = npc:GetBodygroup(i)
-        end
-
-        if not TrackedEnemies[npcClass] then
-            TrackedEnemies[npcClass] = true
-
-            net.Start("Netricsa_AddEnemy")
-                net.WriteString(npcClass)
-                net.WriteString(mdl)
-                net.WriteUInt(skin, 8)
-                net.WriteUInt(#bodygroups, 8)
-                for i, bg in ipairs(bodygroups) do
-                    net.WriteUInt(bg, 8)
-                end
-            net.Broadcast()
-
-            net.Start("Netricsa_PlaySound")
-            net.Broadcast()
-        end
-    end)
 
     -- Отслеживание оружия
     hook.Add("PlayerSpawnedSWEP", "NetricsaTrackWeapon", function(ply, wep)

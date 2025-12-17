@@ -5,6 +5,16 @@ if CLIENT then
         print("[Netricsa] NetricsaMain initialized in hooks")
     end
     
+        net.Receive("Netricsa_AddScoreForNPC", function()
+        local npcClass = net.ReadString()
+        local score = NetricsaData.GetNPCScore(npcClass)
+        
+        print("[Netricsa] Adding score for killing " .. npcClass .. ": +" .. score)
+        NetricsaData.AddScore(score)
+        
+        -- Воспроизводим звук получения очков (опционально)
+        surface.PlaySound("buttons/button15.wav")
+    end)
 
     net.Receive("Netricsa_AddEnemy", function()
         local npcClass = net.ReadString()
@@ -47,6 +57,45 @@ if CLIENT then
     -- =======================
     -- HUD L("ui","scanning")
     -- =======================
+
+ hook.Add("HUDPaint", "NetricsaScoreIcon", function()
+        if not NetricsaStyle or not NetricsaStyle.score then return end
+        
+        local totalScore = NetricsaData.GetTotalScore() or 0
+        
+        local iconMat = Material(NetricsaStyle.score, "noclamp smooth")
+        
+        local texW = iconMat and iconMat:Width() or 0
+        local texH = iconMat and iconMat:Height() or 0
+        if texW <= 0 or texH <= 0 then
+            texW, texH = 64, 64
+        end
+        
+        local maxSize = 160
+        local scale = math.min(maxSize / texW, maxSize / texH)
+        local drawW, drawH = math.floor(texW * scale), math.floor(texH * scale)
+        
+        -- Отображаем слева сверху
+        local x = 20
+        local y = 20
+        
+        -- Иконка очков (без мигания, всегда видна если есть очки)
+        surface.SetDrawColor(255, 255, 255, 255)
+        surface.SetMaterial(iconMat)
+        surface.DrawTexturedRect(x, y, drawW, drawH)
+        
+        -- Число очков (даже если 0)
+        local cx, cy = x + drawW / 2, y + drawH / 2
+        local scoreText = tostring(totalScore)
+        
+        -- Черная тень
+        draw.SimpleText(scoreText, "NetricsaTitle", cx + 1, cy + 1, 
+            Color(0, 0, 0, 180), TEXT_ALIGN_CENTER, TEXT_ALIGN_CENTER)
+        -- Основной текст (желтый как цвет стиля)
+        draw.SimpleText(scoreText, "NetricsaTitle", cx, cy, 
+            NetricsaStyle.color or Color(255, 255, 0), TEXT_ALIGN_CENTER, TEXT_ALIGN_CENTER)
+    end)
+
     hook.Add("HUDPaint","NetricsaScanText",function()
         if NetricsaData.showScan then
             local alpha = math.abs(math.sin(CurTime()*4))*255
