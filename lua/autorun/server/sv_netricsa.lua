@@ -131,53 +131,54 @@ end
     end
 
     -- при старте карты
-    hook.Add("InitPostEntity", "Netricsa_StatsInit", function()
-        stats_kills = 0
-        stats_totalEnemies = 0
-        stats_startTime = CurTime()
-        trackedNPCs = {}
+-- при старте карты
+hook.Add("InitPostEntity", "Netricsa_StatsInit", function()
+    stats_kills = 0
+    stats_totalEnemies = 0
+    stats_startTime = CurTime()
+    trackedNPCs = {}
 
-        -- 🔹 ОТЛАДКА ПРИ СТАРТЕ
-        local totalNPCs = 0
-        local enemyNPCs = 0
-        local friendlyNPCs = 0
-        
-        print("[Netricsa] === SCANNING NPCs ===")
-        
-        for _, ent in ipairs(ents.GetAll()) do
-            if IsValid(ent) and ent:IsNPC() then
-                totalNPCs = totalNPCs + 1
-                local npcClass = ent:GetClass()
-                
-                if IsEnemy(ent) then
-                    enemyNPCs = enemyNPCs + 1
-                    local id = ent:EntIndex()
-                    if not trackedNPCs[id] then
-                        trackedNPCs[id] = {
-                            entity = ent,
-                            killed = false
-                        }
-                        stats_totalEnemies = stats_totalEnemies + 1
-                    end
-                    print("[Netricsa] ENEMY: " .. npcClass)
-                else
-                    friendlyNPCs = friendlyNPCs + 1
-                    print("[Netricsa] FRIENDLY: " .. npcClass)
+    -- 🔹 ОТЛАДКА ПРИ СТАРТЕ
+    local totalNPCs = 0
+    local enemyNPCs = 0
+    local friendlyNPCs = 0
+    
+    print("[Netricsa] === SCANNING NPCs ===")
+    
+    for _, ent in ipairs(ents.GetAll()) do
+        if IsValid(ent) and ent:IsNPC() then
+            totalNPCs = totalNPCs + 1
+            local npcClass = ent:GetClass()
+            
+            if IsEnemy(ent) then
+                enemyNPCs = enemyNPCs + 1
+                local id = ent:EntIndex()
+                if not trackedNPCs[id] then
+                    trackedNPCs[id] = {
+                        entity = ent,
+                        killed = false
+                    }
+                    stats_totalEnemies = stats_totalEnemies + 1
                 end
+                print("[Netricsa] ENEMY: " .. npcClass)
+            else
+                friendlyNPCs = friendlyNPCs + 1
+                print("[Netricsa] FRIENDLY: " .. npcClass)
             end
         end
-        
-        print("[Netricsa] === SCAN RESULTS ===")
-        print("[Netricsa] Total NPCs: " .. totalNPCs)
-        print("[Netricsa] Enemies: " .. enemyNPCs)
-        print("[Netricsa] Friendly: " .. friendlyNPCs)
-        print("[Netricsa] Tracked: " .. stats_totalEnemies)
+    end
+    
+    print("[Netricsa] === SCAN RESULTS ===")
+    print("[Netricsa] Total NPCs: " .. totalNPCs)
+    print("[Netricsa] Enemies: " .. enemyNPCs)
+    print("[Netricsa] Friendly: " .. friendlyNPCs)
+    print("[Netricsa] Tracked: " .. stats_totalEnemies)
 
-        BroadcastStats()
-        
-        -- 🔹 Запускаем периодическую очистку невалидных NPC
-        timer.Create("Netricsa_Cleanup", 10, 0, CleanupInvalidNPCs)
-    end)
+    BroadcastStats()
+    
+    -- 🔹 Запускаем периодическую очистку невалидных NPC
+    timer.Create("Netricsa_Cleanup", 10, 0, CleanupInvalidNPCs)
+end)
 
     -- NPC появился
     hook.Add("OnEntityCreated", "Netricsa_StatsOnSpawn", function(ent)
@@ -203,6 +204,7 @@ end
 
     -- NPC убит
 -- Замените оба хука на один
+-- NPC убит
 hook.Add("OnNPCKilled", "NetricsaTrackCombined", function(npc, attacker, inflictor)
     if not IsValid(npc) then return end
 
@@ -239,6 +241,23 @@ hook.Add("OnNPCKilled", "NetricsaTrackCombined", function(npc, attacker, inflict
         net.Start("Netricsa_AddScoreForNPC")
             net.WriteString(npcClass)
         net.Send(attacker)
+    end
+    
+    -- 🔹 ВАЖНОЕ ИСПРАВЛЕНИЕ: Обновляем статистику убийств
+    if IsValid(npc) and IsValid(attacker) and attacker:IsPlayer() then
+        local id = npc:EntIndex()
+        
+        -- Проверяем, был ли этот NPC отслеживаемым врагом
+        if trackedNPCs and trackedNPCs[id] then
+            if not trackedNPCs[id].killed then
+                trackedNPCs[id].killed = true
+                stats_kills = stats_kills + 1
+                print("[Netricsa] Player " .. attacker:GetName() .. " killed enemy: " .. npcClass .. " (kills: " .. stats_kills .. ")")
+                
+                -- Отправляем обновленную статистику всем игрокам
+                BroadcastStats()
+            end
+        end
     end
 end)
 
