@@ -13,7 +13,7 @@ THREAT:     Negligibly low
 
 DESCRIPTION:
 
-A wild bird common in settlements and on the outskirts of Zenozoik. Unlike crows, chickens are distinguished by extremely low intelligence and a complete lack of fighting ability. Their behavior is chaotic flight at any threat. They are famous for being the object of a peculiar "ritual" or act of brute force in the world of Zenozoik - their heads are often torn off. They don't gather in aggressive flocks, but they can create panic by swarming around.
+A wild bird common in settlements and on the outskirts of Zenozoik. Unlike crows, chickens are characterized by extremely low intelligence and a complete lack of fighting ability. Their behavior is characterized by chaotic flight at any threat. They are famous for being the target of a peculiar act of brute force in the world of Zenozoik - their heads are often torn off. They do not gather in aggressive flocks, but can create panic by randomly getting in the way.
 
 TIPS:
 
