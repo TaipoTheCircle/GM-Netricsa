@@ -13,7 +13,7 @@ if CLIENT then
         NetricsaData.AddScore(score)
         
         -- Воспроизводим звук получения очков (опционально)
-        surface.PlaySound("buttons/button15.wav")
+        surface.PlaySound("")
     end)
 
     net.Receive("Netricsa_AddEnemy", function()

@@ -1,7 +1,7 @@
-JUVENILE ANTARES SPIDER FROM ANTARES PRIME
+JUVENILE ANTARESIAN SPIDER FROM ANTARES PRIME
 
 
-CLASS:      Juvenile Antares Spider
+CLASS:      Juvenile Antaresian Spider
 METABOLISM: Alien, arachnid
 PERCEPTION: Vibrational, vision, heat, chemical sense
 SIZE:       6,5 ft
@@ -13,7 +13,7 @@ THREAT:     Average
 
 DESCRIPTION:
 
-The juvenile stage of the Antares spider is larger, stronger, and more dangerous than its hatchling relatives. It has a developed exoskeleton that protects it from small arms fire, and more powerful jaws. Like the hatchling, it can climb walls and ceilings, setting ambushes. Retains the ability to spit acid (more powerful and with a longer range) and is also deadly in close combat. Often found in groups, he acts as a hybrid ranged/melee fighter, distracting and harassing enemies.
+The juvenile stage of the Antaresian spider is larger, stronger, and more dangerous than its hatchling relatives. It has a developed exoskeleton that protects it from small arms fire, and more powerful jaws. Like the hatchling, it can climb walls and ceilings, setting ambushes. Retains the ability to spit acid (more powerful and with a longer range) and is also deadly in close combat. Often found in groups, he acts as a hybrid ranged/melee fighter, distracting and harassing enemies.
 
 TIPS:
 

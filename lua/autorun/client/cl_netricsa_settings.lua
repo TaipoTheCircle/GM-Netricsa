@@ -72,7 +72,7 @@ if CLIENT then
                     if num and num > 0 then
                         local str = KeyToString(num)
                         RunConsoleCommand(cvar_name, str)
-                        surface.PlaySound("buttons/button14.wav")
+                        surface.PlaySound("")
                     end
                 end
                 panel:AddItem(binder)
@@ -93,7 +93,7 @@ if CLIENT then
                     if num and num > 0 then
                         local str = KeyToString(num)
                         RunConsoleCommand(scan_cvar_name, str)
-                        surface.PlaySound("buttons/button14.wav")
+                        surface.PlaySound("")
                     end
                 end
                 panel:AddItem(scanBinder)

@@ -508,6 +508,7 @@ end)
         ["npc_vj_fc1_security_helicopter"] = true,
         ["npc_vj_fc1_mutant_krieger"] = true,
         ["npc_vj_fc1_mutant_krieger_cut_eyes"] = true,
+        ["obj_ss3_spider_egg"] = true,
 
     }
 

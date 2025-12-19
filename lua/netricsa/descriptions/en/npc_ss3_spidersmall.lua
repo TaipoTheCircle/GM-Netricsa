@@ -1,7 +1,7 @@
-HATCHED ANTARES SPIDER FROM ANTARES PRIME
+HATCHED ANTARESIAN SPIDER FROM ANTARES PRIME
 
 
-CLASS:      Hatched Antares Spider
+CLASS:      Hatched Antaresian Spider
 METABOLISM: Alien, Arachnid
 PERCEPTION: Vibration Sensitivity, Vision
 SIZE:       1 ft
@@ -13,7 +13,7 @@ THREAT:     Low
 
 DESCRIPTION:
 
-The hatchling form of Antares Spiders - giant alien arachnids from the planet Antares Prime. An extremely weak opponent with a thin exoskeleton, but it compensates for its vulnerability with numbers and surprise. Most often hatches from noise-sensitive cocoons. They have the ability to crawl along walls and ceilings, attacking with poisoned acid from afar or clinging to their victims up close. Their acid balls can ricochet off surfaces. While they're not dangerous individually, a swarm of dozens of these spiders can quickly surround and exhaust even an experienced fighter.
+The hatchling form of Antaresian Spiders - giant alien arachnids from the planet Antares Prime. An extremely weak opponent with a thin exoskeleton, but it compensates for its vulnerability with numbers and surprise. Most often hatches from noise-sensitive cocoons. They have the ability to crawl along walls and ceilings, attacking with poisoned acid from afar or clinging to their victims up close. Their acid balls can ricochet off surfaces. While they're not dangerous individually, a swarm of dozens of these spiders can quickly surround and exhaust even an experienced fighter.
 
 TIPS:
 
