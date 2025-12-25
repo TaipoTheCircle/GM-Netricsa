@@ -1,15 +1,16 @@
-FLAMETHROWER
+A HOME-MADE FLAMETHROWER
 
 
-WEAPON:    Flamethrower
-AMMO:      HV Napalm 
-ROF:       Continuous
-WEIGTH:    20 lbs (empty), 30 lbs (full reservoir)
+WEAPON: Homemade Flamethrower
+AMMO:   Gasoline
+ROF:    Continuous Fire
+WEIGHT: 9 kg (empty),
+        14 kg (full)
 
 DESCRIPTION:
 
-This experimental weapon uses highly volatile napalm fuel to deliver a jet stream of flesh-penetrating flame.  It is very effective for use on large masses, since the stream will engulf even partially hidden enemies.  The fact that enemies will burn for a few moments after they've been hit makes this weapon even more effective.  One might say that it's a "FIRE and forget" type of thing.
+A homemade flamethrower. Created by combining a bicycle pump, a gasoline can, and flares. It consumes ammunition quickly, but proves very useful against monsters vulnerable to fire. This experimental weapon uses gasoline to create a powerful flame. The flamethrower is very effective against large concentrations of enemy troops (both living and non-living), with a stream of flame reaching even those hiding. The fact that they will continue to burn for a few seconds before dying only enhances the effect. Some call this type of weapon "set it and forget it."
 
 NOTES:
 
-- Clear large masses of enemies with this weapon.
+- Effective against large concentrations of enemy troops

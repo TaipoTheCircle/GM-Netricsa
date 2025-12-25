@@ -1,14 +1,15 @@
-SMITH & WESSON MODEL 26 TARGET REVOLVERS
+TWO SMITH & WESSON MODEL 28 REVOLVERS
 
 
-WEAPON: Smith & Wesson Model 26 target revolvers
-AMMO:   .45 AC
-ROF:    40 rpm
+GUN:         TWO SMITH & WESSON MODEL 28 REVOLVERS
+CALCULATION: .357 Magnum
+ROF:         40 RPM
 
 DESCRIPTION:
 
-It's long barrels provides an extended sight radius for precision shooting; blued finish and walnut grips give it a classic collector's appearance. The lot notes matching assembly / serial numbers and about 98% original blue finish, indicating a well-preserved example in excellent mechanical condition.
+The Smith & Wesson Model 28, or Highway Patrolman, pistol is the standard service sidearm for police officers in Abbott and many other Maryland law enforcement agencies. It fires the .357 Magnum cartridge and holds six rounds. This is an extremely deadly weapon. Those skilled in the use of such a weapon can be much more dangerous wielding two of them. Since firearms regulations in Abbott are quite lax, these pistols are found in abundance wherever officers store them. Ammunition is also quite easy to obtain. You can first obtain them from the lead officer, either by killing him as he leaves the bathroom or by electrocuting him in the electric chair room. A second revolver, for dual use, can be found in Chapter 2, "Descent," after encountering the island's three ghosts and exploring the madness and the creature, but before encountering the first snipers who execute the tied-up officer. Pull the lever to detonate the generator in the flooded room you pass, and the second revolver can be found hidden in the wall behind it.
 
 NOTES:
 
-- Target-oriented revolvers - excellent for precision shooting.
+- Target Revolvers - excellent for precision shooting.
+- I'M MAX PAYNE.
