@@ -1,7 +1,7 @@
-BULLSQUID, DREAMCAST FROM XEN
+DREAMCAST BULLSQUID FROM XEN
 
 
-CLASS:      Bullsquid
+CLASS:      Dreamcast Bullsquid
 METABOLISM: aggressive omnivore
 PERCEPTION: keen sight + smell
 SIZE:       7-8 ft

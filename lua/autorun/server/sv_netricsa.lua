@@ -85,6 +85,8 @@ if SERVER then
         ["npc_vj_hlr2_rebel_engineer"] = true,
         ["npc_vj_hlr2_refugee"] = true,
         ["npc_vortigaunt"] = true,
+        ["obj_ss3_spider_egg"] = true,
+        ["npc_vj_hlrdc_xen_tree"] = true,
     }
 
     -- 🔹 ПРОСТАЯ ФУНКЦИЯ ПРОВЕРКИ - ВРАГ ЛИ NPC
@@ -509,6 +511,7 @@ end)
         ["npc_vj_fc1_mutant_krieger"] = true,
         ["npc_vj_fc1_mutant_krieger_cut_eyes"] = true,
         ["obj_ss3_spider_egg"] = true,
+        ["npc_vj_hlrdc_xen_tree"] = true,
 
     }
 
