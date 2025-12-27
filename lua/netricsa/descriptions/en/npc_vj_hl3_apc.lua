@@ -4,7 +4,7 @@ ARCTIC COMBINE ARMY CARRIER (APC)
 CLASS:      Arctic Combine Armored Personnel Carrier
 METABOLISM: Transport Vehicle
 PERCEPTION: Targeting Sensors + Automatic Warhead
-SIZE:       26 ft.
+SIZE:       26 ft
 ENDURANCE:  Very High
 HOSTILITY:  High
 WEAPONS:    Pulse Launcher + Guided Missiles
