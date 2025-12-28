@@ -1,26 +1,26 @@
-DOG
+COMBINE DROID
 
 
-CLASS:      Robotic Companion / Resistance War Machine
-METABOLISM: Mechanical (powered by experimental energy core)
-PERCEPTION: Enhanced sensors + visual recognition
+CLASS:      Combine Heavy Robotic Combat Platform
+METABOLISM: Fully Synthetic (Combine Power Core)
+PERCEPTION: Multi-layered Sensors + Overwatch Targeting
 SIZE:       ~8-10 ft
-ENDURANCE:  Very High (heavy plating, resilient design)
-HOSTILITY:  Low (protective, aggressive only to threats)
-WEAPONS:    Sheer Strength, Scrap Projectiles, Improvised Weapons
-REWARD:     1000 FC
-THREAT:     High (when provoked)
+ENDURANCE:  Extremely High
+HOSTILITY:  Extreme
+WEAPONS:    Pure Mechanical Force, Heavy Object Throwing, Ramming
+REWARD:     1200 FC
+THREAT:     Very High
 
 DESCRIPTION:
 
-Dog is a massive, loyal robot built by Eli Vance and continually upgraded by his daughter Alyx. Originally intended as a mechanical "pet" and bodyguard, Dog has grown into a towering powerhouse of strength and resilience. Despite his intimidating frame, he shares a playful, almost childlike personality-he enjoys games of fetch, tossing around huge objects with ease.
+The Combine Droid is the Combine's direct, yet twisted, response to the Resistance Dog. Inspired by the Rebels, Overwatch engineers redesigned it, removing the "redundant" improvisation and emotional component, transforming the idea into a perfectly calibrated combat machine.
 
-In combat, however, Dog transforms into a wrecking machine: tearing apart Combine forces, tossing cars as projectiles, or smashing through fortified barriers. His unique blend of brute force and engineered precision makes him indispensable to the Resistance.
+Unlike the Dog, the Droid is perfectly proportioned: its body is symmetrical, its movements are measured, and its mechanics are devoid of any abrupt, "lively" gestures. Its head is turned in the opposite direction. Its exterior is painted a deep black with red and white accents, and the Combine logo is clearly visible on its body.
 
-Dog's loyalty to Alyx is absolute. He protects her at all costs, often charging into impossible situations with unstoppable momentum.
+Its purpose is simple: to break, crush, and destroy. It can throw cars, rip turrets from their mounts, and breach fortifications with the same ease as the Dog, but it does so methodically and accurately.
+
+The Droid is integrated into the Combine tactical network and often works in tandem with Overwatch soldiers, providing cover, clearing passages, or sowing panic among the enemy.
 
 TIPS:
 
-- Dog can lift and throw objects heavier than any human-use his strength to clear paths.
-- Resistant to most small-arms fire; best to let him draw enemy fire.
-- When Dog goes on a rampage, stay clear-friend or foe, his momentum can crush anything in his path.
+- Direct combat is highly discouraged - its armor can withstand enormous forces. - Use the environment: collapses, traps and powerful explosions.

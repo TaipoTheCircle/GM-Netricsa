@@ -4,7 +4,7 @@ RESISTANCE RECRUITER
 CLASS:      Resistance Recruiter
 METABOLISM: Human, Male
 PERCEPTION: Tactical assessment, potential detection, basic combat experience
-SIZE:       ~9 ft
+SIZE:       5,9 ft
 ENDURANCE:  Average
 HOSTILITY:  High
 WEAPONS:    AR2 Pulse Rifle

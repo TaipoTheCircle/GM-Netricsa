@@ -4,7 +4,7 @@ FAST HEADCRAB FROM XEN
 CLASS:      Headcrab, Fast
 METABOLISM: parasite
 PERCEPTION: enhanced reflexes
-SIZE:       1.3 ft
+SIZE:       1,3 ft
 ENDURANCE:  very low
 HOSTILITY:  high
 WEAPONS:    rapid leaps, slash bite
