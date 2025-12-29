@@ -1,4 +1,4 @@
-TOXICSQUID
+TOXICSQUID FROM XEN
 
 
 CLASS:      Bullsquid Mutant, Acid Type

@@ -1,4 +1,4 @@
-HYBRIDSQUID
+HYBRIDSQUID FROM XEN
 
 
 CLASS:      Bullsquid Hybrid, Psionic Mutation

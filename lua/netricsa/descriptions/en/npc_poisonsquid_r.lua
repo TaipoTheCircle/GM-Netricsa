@@ -1,4 +1,4 @@
-POISONSQUID
+POISONSQUID FROM XEN
 
 
 CLASS:      Bullsquid Mutant, Venom Type
