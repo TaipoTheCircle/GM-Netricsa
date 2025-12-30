@@ -13,7 +13,7 @@ THREAT:     Very high
 
 DESCRIPTION:
 
-The youngest of three murderous language teachers. In her normal form, she has snow-white skin, tousled black hair, three letter cubes on her head (in alphabetical order), and wears a tattered white dress. Her main weapon is her enormous, black, clawed hands, capable of cutting books, and likely students, in half. She possesses a hidden, more terrifying form—the Wendigo—in which antlers grow on her head, her body becomes covered in fur, and her clothing becomes even more tattered. This transformation hints at her mythical, insatiable, and predatory nature, extending beyond mere punishment for academic failure. Like her colleagues, she is cruel and merciless.
+The youngest of three murderous language teachers. In her normal form, she has snow-white skin, tousled black hair, three letter cubes on her head (in alphabetical order), and wears a tattered white dress. Her main weapon is her enormous, black, clawed hands, capable of cutting books, and likely students, in half. She possesses a hidden, more terrifying form-the Wendigo-in which antlers grow on her head, her body becomes covered in fur, and her clothing becomes even more tattered. This transformation hints at her mythical, insatiable, and predatory nature, extending beyond mere punishment for academic failure. Like her colleagues, she is cruel and merciless.
 
 TIPS:
 

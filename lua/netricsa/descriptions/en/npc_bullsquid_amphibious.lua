@@ -19,7 +19,7 @@ When provoked, the Amphibious Bullsquid attacks with vicious claws, tail strikes
 
 TIPS:
 
-- Avoid entering water when Amphibious Bullsquids are present—they ambush from below.
+- Avoid entering water when Amphibious Bullsquids are present-they ambush from below.
 - Toxic spit disperses quickly in water, so keep distance even when swimming.
 - Explosives and harpoon-like weapons are most effective underwater.
 - Land combat is safer, but their charging bite can crush bone in seconds.

@@ -13,7 +13,7 @@ THREAT:     Low
 
 DESCRIPTION:
 
-The Miniature Metrocop is an experimental Combine personnel unit, scaled down and housed within the MiniStrider hull. These operators perform maintenance, targeting, and control of the embedded pulse rifle, acting as a living part of the combat synth. Their bodies are subjected to extreme compression, biomechanical stabilization, and neural tethering to the MiniStrider system.
+The Mini Metrocop is an experimental Combine personnel unit, scaled down and housed within the MiniStrider hull. These operators perform maintenance, targeting, and control of the embedded pulse rifle, acting as a living part of the combat synth. Their bodies are subjected to extreme compression, biomechanical stabilization, and neural tethering to the MiniStrider system.
 
 Unlike fully autonomous synthetic platforms, MiniStriders with such operators exhibit more flexible tactical behavior. Human-like reflexes and the ability to improvise allow them to more quickly select targets, adjust fire, and respond to unconventional threats. Essentially, this is the Combine's attempt to combine a cold machine and a subservient human mind in a single body.
 

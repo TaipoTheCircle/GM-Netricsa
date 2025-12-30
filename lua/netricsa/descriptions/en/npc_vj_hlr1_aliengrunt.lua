@@ -19,5 +19,5 @@ Although individually not very smart, Grunts are terrifying in groups. They patr
 
 TIPS:
 
-- Hornet fire is fast and persistent — keep moving to avoid being overwhelmed.
+- Hornet fire is fast and persistent - keep moving to avoid being overwhelmed.
 - Explosives or concentrated fire work better than single shots.

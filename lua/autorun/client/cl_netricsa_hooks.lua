@@ -149,7 +149,7 @@ if CLIENT then
             timer.Simple(0.2, function()
                 local cvar = GetConVar("netricsa_auto_open")
 
-                -- если конвар отсутствует — считаем, что включено по умолчанию
+                -- если конвар отсутствует - считаем, что включено по умолчанию
                 local shouldOpen = (not cvar) or cvar:GetBool()
 
                 -- проверяем наличие новых уведомлений (непрочитанных элементов)
@@ -170,7 +170,7 @@ if CLIENT then
 
         hook.Add("OnNetricsaClosed", "SAM_MAP_VOICES_ClientTrigger", function()
             if SamVoicePlayed then
-                print("[Sam Map Voices] Звук уже был воспроизведён ранее — пропуск.")
+                print("[Sam Map Voices] Звук уже был воспроизведён ранее - пропуск.")
                 return
             end
 

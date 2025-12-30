@@ -23,4 +23,4 @@ TIPS:
 
 - Crystals can empower Nihilanth, making them more dangerous.
 - Destroy crystal nodes to disable psionic shields or disrupt portals.
-- Zenium remains highly unstable — handle fragments with extreme caution.
+- Zenium remains highly unstable - handle fragments with extreme caution.

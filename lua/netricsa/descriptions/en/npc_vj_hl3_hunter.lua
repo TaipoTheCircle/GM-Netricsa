@@ -21,6 +21,6 @@ The Ministerrider not only pursues its target but can also exploit its surroundi
 
 TIPS:
 
-- The Ministerrider's pulse volleys work at medium range—cover and repositioning reduce the danger.
+- The Ministerrider's pulse volleys work at medium range-cover and repositioning reduce the danger.
 - Its blades are deadly in close combat-avoid contact.
 - Unlike the Hunter, it possesses super-speed.

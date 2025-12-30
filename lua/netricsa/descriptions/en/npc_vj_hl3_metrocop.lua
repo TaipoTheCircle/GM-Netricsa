@@ -25,6 +25,6 @@ Interceptors act quickly, rarely engage in protracted combat, and prefer tactics
 
 TIPS:
 
-- Don't rely on cover in a snowstorm—its sensors are better than they appear.
+- Don't rely on cover in a snowstorm-its sensors are better than they appear.
 - The Manhack is often used to disorient before an attack.
 - The MP7 is deadly at close range due to its high rate of fire.

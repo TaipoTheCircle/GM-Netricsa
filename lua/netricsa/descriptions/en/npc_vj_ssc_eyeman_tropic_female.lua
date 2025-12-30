@@ -15,7 +15,7 @@ DESCRIPTION:
 
 A small bipedal animal with no head, one eye and a large mouth. Originating from Sirius, and trained by Mental to attack opposing forces. The Females are blue and yellow in color and are larger and stronger than males.
 
-The tropical variety is considered one of the most "primitive" branches of the Gnaar lineage—it is at this stage that their breeding development essentially stagnated. They haven't advanced beyond the most basic social structures and remain at the level of small clans, focused almost entirely on combat.
+The tropical variety is considered one of the most "primitive" branches of the Gnaar lineage-it is at this stage that their breeding development essentially stagnated. They haven't advanced beyond the most basic social structures and remain at the level of small clans, focused almost entirely on combat.
 
 TIPS:
 

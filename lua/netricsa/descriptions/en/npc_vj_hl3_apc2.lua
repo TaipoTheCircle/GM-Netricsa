@@ -13,7 +13,7 @@ THREAT:     Critical
 
 DESCRIPTION:
 
-The Combine APC CRAWLER is a modified version of the standard Combine APC, designed for operations in areas where wheeled vehicles are ineffective. Swamps, ruins, rubble, dense forests, and destroyed city blocks—these are the places where the Crawler replaces the standard APC.
+The Combine APC CRAWLER is a modified version of the standard Combine APC, designed for operations in areas where wheeled vehicles are ineffective. Swamps, ruins, rubble, dense forests, and destroyed city blocks-these are the places where the Crawler replaces the standard APC.
 
 The main design difference is the installation of track modules over the wheels, significantly increasing cross-country ability and stability on unstable surfaces. Due to the change in balance and tactical role, the vehicle's fenders have been completely removed, lowering the vehicle's silhouette and simplifying maintenance in the field.
 

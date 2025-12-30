@@ -17,8 +17,8 @@ The MetroCop Commander is a rare and dangerous member of the Civil Protection, a
 
 On the left sleeve is a red armband with a white circle and a black Combine symbol-a sign of authority and unconditional subordination to the highest hierarchy. This symbol doesn't so much denote rank as it warns: this is not a patrolman, but an order-follower with no right to question.
 
-The Commander holds an AR3—a heavy pulse weapon whose true purpose and official designation are known only to a limited number of Combine officers. This weapon is designed not for crowd dispersal, but for the complete suppression of resistance.
+The Commander holds an AR3-a heavy pulse weapon whose true purpose and official designation are known only to a limited number of Combine officers. This weapon is designed not for crowd dispersal, but for the complete suppression of resistance.
 
 TIPS:
 
-- Don't engage in direct combat without cover—the AR3 suppresses space, not the target.
+- Don't engage in direct combat without cover-the AR3 suppresses space, not the target.

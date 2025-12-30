@@ -13,7 +13,7 @@ THREAT:     Medium
 
 DESCRIPTION:
 
-An organic structure that serves as an incubator for a single Antaresian Spider. It consists of a network of strong, sinewy bioroots that anchor it to surfaces—most often ceilings, floors, or walls in places where the spiders feel safe (caves, basements, abandoned tunnels). The cocoon does not attack. When destroyed (by a shot, explosion, or impact), a spider bursts out and immediately attacks the intruder.
+An organic structure that serves as an incubator for a single Antaresian Spider. It consists of a network of strong, sinewy bioroots that anchor it to surfaces-most often ceilings, floors, or walls in places where the spiders feel safe (caves, basements, abandoned tunnels). The cocoon does not attack. When destroyed (by a shot, explosion, or impact), a spider bursts out and immediately attacks the intruder.
 
 TIPS:
 

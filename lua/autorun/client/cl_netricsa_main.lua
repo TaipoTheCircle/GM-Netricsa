@@ -230,7 +230,7 @@ if CLIENT then
                 menu:AddOption(name, function()
                     SetNetricsaStyle(name)
 
-                    -- если интерфейс открыт — пересоздаём его полностью, чтобы все материалы/панели взяли новый стиль
+                    -- если интерфейс открыт - пересоздаём его полностью, чтобы все материалы/панели взяли новый стиль
                     if IsValid(NetricsaFrame) then
                         NetricsaFrame:Remove()
                         NetricsaFrame = nil

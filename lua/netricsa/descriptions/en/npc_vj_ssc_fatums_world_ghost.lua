@@ -13,7 +13,7 @@ THREAT:     Average
 
 DESCRIPTION:
 
-Ghosts of the World of Fatum are green, translucent creatures cloaked in long robes reminiscent of the robes of high sorcerers. Their homeland is the Cemeteries of Fatum—distorted necropolises where the line between life and death has long since lost its meaning. There, they served as guardians.
+Ghosts of the World of Fatum are green, translucent creatures cloaked in long robes reminiscent of the robes of high sorcerers. Their homeland is the Cemeteries of Fatum-distorted necropolises where the line between life and death has long since lost its meaning. There, they served as guardians.
 
 These creatures unconditionally serve Fatum. And since Doom acts in Mental's interests, the wraiths are formally considered part of his Horde, though they themselves display neither individuality nor hesitation.
 

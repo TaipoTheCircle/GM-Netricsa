@@ -4,7 +4,7 @@
 local scrollbar_bg = Color(15, 15, 15, 180) -- общий фон позади ползунка
 
 local function GetStyleColor()
-    -- если стиль ещё не инициализирован — возвращаем дефолтный
+    -- если стиль ещё не инициализирован - возвращаем дефолтный
     if not NetricsaStyle or not NetricsaStyle.color then
         return Color(0, 255, 0)
     end
@@ -44,7 +44,7 @@ hook.Add("Think", "DR_StyleScrollbars_Dynamic", function()
     end
 end)
 
--- если стиль меняется во время работы — обновляем все панели
+-- если стиль меняется во время работы - обновляем все панели
 hook.Add("PostRenderVGUI", "DR_RefreshScrollbarColor", function()
     if not NetricsaStyle or not NetricsaStyle.color then return end
 

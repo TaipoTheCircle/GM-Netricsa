@@ -19,7 +19,7 @@ It patrols skies over critical Combine territories (Citadel, Nova Prospekt, key 
 
 TIPS:
 
-- Use explosive weapons (RPG, grenades) rather than small arms — it is mostly impervious to bullets. 
+- Use explosive weapons (RPG, grenades) rather than small arms - it is mostly impervious to bullets. 
 - Keep moving and use cover. Gunships prefer long-range attacks and height advantage.
 - Pay attention to its warning sound before it starts firing - gives you a brief chance to hide. 
 - Avoid exposing yourself in open areas, especially under flight paths.

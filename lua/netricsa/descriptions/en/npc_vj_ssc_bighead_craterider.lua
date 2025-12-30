@@ -19,5 +19,5 @@ This dynamic crew represents the ultimate Easter egg from the Croteam developers
 
 TIPS:
 
-- Don't attack the vehicle—it's a cultural treasure of the gaming industry.
+- Don't attack the vehicle-it's a cultural treasure of the gaming industry.
 - In "I Am Ugh-Zan" difficulty, the duo can develop a higher level of danger.

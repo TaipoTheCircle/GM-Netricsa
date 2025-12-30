@@ -14,4 +14,4 @@ NOTES:
 
 - Explosions deliver heavy splash damage and can harm the shooter if fired too close.
 - Great for crowd control and encounters, but less effective against agile small enemies.
-- Ammo conservation and precise shots are crucial — misses are costly.
+- Ammo conservation and precise shots are crucial - misses are costly.

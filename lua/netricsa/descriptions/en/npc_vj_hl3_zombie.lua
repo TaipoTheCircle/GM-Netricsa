@@ -19,4 +19,4 @@ The host's body is often wrapped in scraps of winter clothing, frozen uniforms, 
 
 TIPS:
 
-- Aim for the headcrab—the fur partially protects it, but accurate hits are still effective.
+- Aim for the headcrab-the fur partially protects it, but accurate hits are still effective.

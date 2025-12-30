@@ -110,11 +110,11 @@ if CLIENT then
         if size > 250 then
             scale = 180 / size       -- крупные модели уменьшаем
         elseif size > 100 then
-            scale = 1.2              -- обычные NPC — чуть крупнее
+            scale = 1.2              -- обычные NPC - чуть крупнее
         elseif size > 60 then
-            scale = 1.5              -- мелкие — побольше
+            scale = 1.5              -- мелкие - побольше
         else
-            scale = 80 / size        -- совсем крошечные — сильно увеличиваем
+            scale = 80 / size        -- совсем крошечные - сильно увеличиваем
         end
 
         scale = math.Clamp(scale, 0.05, 3)
@@ -141,7 +141,7 @@ if CLIENT then
         if not name then return nil end
         local s = tostring(name)
 
-        -- если уже внутренний ключ — возвращаем сразу
+        -- если уже внутренний ключ - возвращаем сразу
         if s == "maps" or s == "enemies" or s == "weapons" or s == "tactical" or s == "statistics" then
             return s
         end

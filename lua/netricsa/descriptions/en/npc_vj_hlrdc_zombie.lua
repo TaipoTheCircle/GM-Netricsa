@@ -21,4 +21,4 @@ TIPS:
 
 - Keep distance; melee attacks are dangerous if they connect.
 - Firearms work well due to their slow movement.
-- Don't underestimate groups — while individually slow, they can corner prey easily.
+- Don't underestimate groups - while individually slow, they can corner prey easily.

@@ -17,9 +17,9 @@ Big-Heads are thin humanoids with exaggerated skulls containing the brains of Cr
 
 Ivan Mika is a legendary level designer whose very first contribution to Serious Sam: The Second Encounter (TSE) made history and still haunts players to this day. His exaggerated skull is a direct result of the monumental scope of his imagination: inspired by Teotihuacan, he created a location of such epic proportions that it had to be split into three full levels, comprising a quarter of the game's total. It was he who gave the world the iconic (and hated) experiments with ramps and gravity, which became both a signature and a test of endurance for generations of fans.
 
-But Ivan is not only an artist, but also a brilliant self-taught optimizer. At the height of TSE's development, when the new particle system was killing performance, he single-handedly doubled the frame rate by finding and removing a single, ill-fated line of code that was causing the entire scene to render twice. Having worked at Croteam for over 15 years and risen to lead designer, he became the studio's "incurable" force—a tireless creator whose levels still make players admire and curse his genius in the same breath.
+But Ivan is not only an artist, but also a brilliant self-taught optimizer. At the height of TSE's development, when the new particle system was killing performance, he single-handedly doubled the frame rate by finding and removing a single, ill-fated line of code that was causing the entire scene to render twice. Having worked at Croteam for over 15 years and risen to lead designer, he became the studio's "incurable" force-a tireless creator whose levels still make players admire and curse his genius in the same breath.
 
-He was once alive, but after someone killed him, he rose from the dead—becoming a demonic Zombie.
+He was once alive, but after someone killed him, he rose from the dead-becoming a demonic Zombie.
 
 TIPS:
 

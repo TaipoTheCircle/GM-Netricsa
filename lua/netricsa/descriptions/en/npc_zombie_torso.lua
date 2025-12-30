@@ -18,5 +18,5 @@ The Zombie Torso is the mutilated remains of a human host, animated by a headcra
 TIPS:
 
 - A single well-placed hit is usually enough.
-- Don't let them distract you during larger battles—they’re often used as "noise" alongside stronger zombies.
+- Don't let them distract you during larger battles-they’re often used as "noise" alongside stronger zombies.
 - Watch your footing in dark areas; they tend to crawl out of debris suddenly.

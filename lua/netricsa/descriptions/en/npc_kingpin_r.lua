@@ -13,7 +13,7 @@ THREAT:     Extremely High
 
 DESCRIPTION:
 
-Known by the name ArchPsion of Xen, the Kingpin is one of the most terrifying psionic warlords of Xen. Its grotesque form - a massive exposed brain with four eyestalks and a worm-like tail for locomotion — is a living engine of psychic domination and elemental destruction.
+Known by the name ArchPsion of Xen, the Kingpin is one of the most terrifying psionic warlords of Xen. Its grotesque form - a massive exposed brain with four eyestalks and a worm-like tail for locomotion - is a living engine of psychic domination and elemental destruction.
 
 The creature is constantly surrounded by a psionic shield, making direct attacks nearly useless until its energy is disrupted. It hurls searing orange plasma bolts and summons arcs of lightning capable of reducing flesh and stone alike to cinders.
 

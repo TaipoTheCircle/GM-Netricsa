@@ -13,4 +13,4 @@ Highways and bridges for vehicle testing and large-scale battles.
 
 Rooftops and interiors that allow for creative traversal and ambushes.
 
-This is the city that never sleeps — but also never had any real citizens. Empty streets echo with the sound of your own footsteps, leaving the unsettling impression.
+This is the city that never sleeps - but also never had any real citizens. Empty streets echo with the sound of your own footsteps, leaving the unsettling impression.

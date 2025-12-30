@@ -17,9 +17,9 @@ Big-Heads are thin humanoids with exaggerated skulls containing the brains of Cr
 
 Richard Bailey "Levelord" Gray is a true patriarch of game level design, whose oversized cranium contains decades of experience, sarcasm, and an incredible sense of fun. This Cold War veteran, former aerospace engineer, and Soviet submarine alumnus found his true calling in creating virtual spaces. It was he, along with Allen Bloom, who created the best levels of the iconic Duke Nukem 3D, forever etched in history the phrase "You're not supposed to be here."
 
-While Levelord himself modestly denies direct involvement in the development of Serious Sam: The First Encounter, his spirit and principles are invisibly present in the game. Croteam, like the entire gaming world, was greatly influenced by his work. His philosophy—that a game should be fun first and foremost, and that a level should be thematically cohesive and balanced like a good restaurant—became the lynchpin for generations of designers, including the Croatian team. His subsequent life in Russia and work on the 20th anniversary of Duke Nukem only add to his aura as the most colorful and enduring "brain" in this gallery.
+While Levelord himself modestly denies direct involvement in the development of Serious Sam: The First Encounter, his spirit and principles are invisibly present in the game. Croteam, like the entire gaming world, was greatly influenced by his work. His philosophy-that a game should be fun first and foremost, and that a level should be thematically cohesive and balanced like a good restaurant-became the lynchpin for generations of designers, including the Croatian team. His subsequent life in Russia and work on the 20th anniversary of Duke Nukem only add to his aura as the most colorful and enduring "brain" in this gallery.
 
-He was once alive, but after you killed him in the Temple of Hatshepsut, he was resurrected—becoming an Angel.
+He was once alive, but after you killed him in the Temple of Hatshepsut, he was resurrected-becoming an Angel.
 
 TIPS:
 

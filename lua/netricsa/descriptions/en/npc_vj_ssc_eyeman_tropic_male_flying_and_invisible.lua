@@ -15,7 +15,7 @@ DESCRIPTION:
 
 A small bipedal animal with no head, one eye and a large mouth. Originating from Sirius, and trained by Mental to attack opposing forces. The males are smaller, purple and not as tough as females.
 
-The tropical variant is considered one of the most primitive branches of the gnaar species — their tribal development effectively stalled at this point. They never advanced beyond rudimentary clan structures and remain locked into simple, combat-oriented social behavior.
+The tropical variant is considered one of the most primitive branches of the gnaar species - their tribal development effectively stalled at this point. They never advanced beyond rudimentary clan structures and remain locked into simple, combat-oriented social behavior.
 
 TIPS:
 

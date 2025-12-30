@@ -17,7 +17,7 @@ Big-Heads are thin humanoids with exaggerated skulls containing the brains of Cr
 
 Michael Harris (not to be confused with the criminal of the same name) is one of Croteam's key beta testers, having made significant contributions to the debugging and polishing of the series' most important games. His oversized cranium is a direct result of hundreds of hours spent finding tiny bugs, checking balance, and performing stability testing on The First Encounter, The Second Encounter, Serious Sam 2, and their HD remasters.
 
-Unlike famous developers, testers' names often remain in the shadows, but their role is invaluable. It was specialists like Michael Harris who acted as the final line of defense between a rough build and the final product, catching collision errors, performance issues, and logical inconsistencies that could otherwise ruin the player experience. His many years of work are credited as "Additional Testing and Support"—a modest but vital feature, without which no Serious Sam game would be so polished and stable.
+Unlike famous developers, testers' names often remain in the shadows, but their role is invaluable. It was specialists like Michael Harris who acted as the final line of defense between a rough build and the final product, catching collision errors, performance issues, and logical inconsistencies that could otherwise ruin the player experience. His many years of work are credited as "Additional Testing and Support"-a modest but vital feature, without which no Serious Sam game would be so polished and stable.
 
 TIPS:
 

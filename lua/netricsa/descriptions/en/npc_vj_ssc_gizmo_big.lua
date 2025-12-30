@@ -19,7 +19,7 @@ Mental, inspired by his successes in size manipulation, watched with glee as thi
 
 TIPS:
 
-- Aim for any part of the body—damage will be critical due to its fragile nature.
+- Aim for any part of the body-damage will be critical due to its fragile nature.
 - Don't waste heavy weapons on it-it's a waste of ammo.
 - A single creature isn't dangerous, but a whole pack is best avoided.
 - Shoot from a distance.

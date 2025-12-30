@@ -18,4 +18,4 @@ Aggressive subterranean predators that inhabit the loose sands of desert dunes. 
 TIPS:
 
 - If you see a "hump" moving under the sand, it's a worm hunting.
-- Attack immediately after its lunge—at that moment, it's vulnerable to attacks.
+- Attack immediately after its lunge-at that moment, it's vulnerable to attacks.

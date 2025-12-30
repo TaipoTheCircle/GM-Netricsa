@@ -17,7 +17,7 @@ The Arctic variety of the ZEN Fast Headcrab is an even more alarming evolution o
 
 Its body remains lean and flexible, and its limbs are developed for rapid, repeated leaps, even on ice and snow. Thanks to its modified musculature, the Arctic Swift Headcrab is able to push off slippery surfaces, changing direction mid-flight, making its attacks particularly difficult to predict.
 
-When infecting a host, it creates an Arctic Swift Zombie—more resistant to cold and less sensitive to pain than its moderate counterpart. These zombies are capable of quickly traversing snowy areas and climbing icy structures where normal infected would lose traction.
+When infecting a host, it creates an Arctic Swift Zombie-more resistant to cold and less sensitive to pain than its moderate counterpart. These zombies are capable of quickly traversing snowy areas and climbing icy structures where normal infected would lose traction.
 
 TIPS:
 

@@ -17,6 +17,6 @@ This isn't any company's weapon. It's the archipelago itself, coming for what's 
 
 TIPS:
 
-- STAY OUT OF FIRE. One burst, one shell, one hit – guaranteed death. Cover, other than massive, indestructible rocks or underground bunkers, is useless—his shots burn through concrete and steel.
+- STAY OUT OF FIRE. One burst, one shell, one hit – guaranteed death. Cover, other than massive, indestructible rocks or underground bunkers, is useless-his shots burn through concrete and steel.
 - It's impossible to destroy him.
 - Lure him to mercenary bases or Trigen clusters. His rage is blind, and he'll attack everything, distracting him from you.

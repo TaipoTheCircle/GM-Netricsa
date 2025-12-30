@@ -17,9 +17,9 @@ Big-Heads are thin humanoids with exaggerated skulls containing the brains of Cr
 
 Roman Ribaric isn't just the co-founder and longtime CEO of Croteam. He's the prime mover, the visionary, and the main instigator of all the madness you see onscreen. His oversized cranium is the source of the initial impulse: it was he who dreamed up the name "Serious Sam," which replaced the working title "In the Flesh." He not only developed business strategies but also personally breathed life into the series' most famous enemy, recording the legendary, heart-rending scream of the Headless Kamikaze.
 
-His management philosophy—fanatical independence and creating games you want to play—has allowed Croteam to survive and thrive. His hidden genius as a designer manifested itself in the idea for the secret level "Sacred Yards" in The First Encounter, which can be completed without killing a single enemy—a secret players only discovered 14 years later. Roman is the brain that first generated the idea, and then created the conditions for that idea to evolve into chaos, creativity, and iconic games. Without his sleep and scream, nothing would exist.
+His management philosophy-fanatical independence and creating games you want to play-has allowed Croteam to survive and thrive. His hidden genius as a designer manifested itself in the idea for the secret level "Sacred Yards" in The First Encounter, which can be completed without killing a single enemy-a secret players only discovered 14 years later. Roman is the brain that first generated the idea, and then created the conditions for that idea to evolve into chaos, creativity, and iconic games. Without his sleep and scream, nothing would exist.
 
-He was once alive, but after you killed him in the Temple of Hatshepsut, he rose from the dead—becoming a demonic Zombie.
+He was once alive, but after you killed him in the Temple of Hatshepsut, he rose from the dead-becoming a demonic Zombie.
 
 TIPS:
 

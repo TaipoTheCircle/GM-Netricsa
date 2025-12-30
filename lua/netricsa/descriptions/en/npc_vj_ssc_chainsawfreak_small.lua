@@ -20,4 +20,4 @@ TIPS:
 - Very dumb, but if caught, extremely dangerous.
 - Move out of the attack's line of fire.
 - Area-of-effect weapons are effective against miniature versions.
-- Beware of swarms of miniature Cucurbitos—they can suddenly emerge from Trojan Jack-o'-lanterns.
+- Beware of swarms of miniature Cucurbitos-they can suddenly emerge from Trojan Jack-o'-lanterns.

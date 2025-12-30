@@ -20,5 +20,5 @@ They drift through the air with eerie grace, pelting intruders with crackling ps
 TIPS:
 
 - Target Controllers quickly - once destroyed, nearby Vortigaunts may break free.
-- Their energy bolts curve in flight — keep moving.
+- Their energy bolts curve in flight - keep moving.
 - Precision fire or explosives can down them fast.

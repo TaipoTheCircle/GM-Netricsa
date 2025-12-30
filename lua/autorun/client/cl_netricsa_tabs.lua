@@ -150,7 +150,7 @@ if CLIENT then
                 NetricsaUtils.SetAnimatedText(descBox, desc)
             end
 
-            -- список карт: стиль как у ENEMIES, название — первая строка из descriptions/<map>.lua
+            -- список карт: стиль как у ENEMIES, название - первая строка из descriptions/<map>.lua
             for mapName, _ in pairs(NetricsaData.SAVED_MAPS) do
                 local displayName = NetricsaData.GetEnemyDisplayName(mapName) or mapName
 

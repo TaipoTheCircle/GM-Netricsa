@@ -3,7 +3,7 @@ ACCURACY INTERNATIONAL AW50
 
 WEAPON:   AW50 
 AMMO:     .50 BMG (12.7×99 mm NATO)
-ROF:      Bolt-action — single shot
+ROF:      Bolt-action - single shot
 MAGAZINE: Detachable box magazine, 5 rounds
 WEIGHT:   15 kg
 LENGTH:   1,350 mm

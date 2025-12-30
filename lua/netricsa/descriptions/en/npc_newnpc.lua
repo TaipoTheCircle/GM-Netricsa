@@ -13,7 +13,7 @@ THREAT:     Very Low
 
 DESCRIPTION:
 
-New Npc is a template NPC included in the Source SDK—essentially a skeleton or placeholder for modders to build new AI characters from. 
+New Npc is a template NPC included in the Source SDK-essentially a skeleton or placeholder for modders to build new AI characters from. 
 
 On its own, it has very minimal functionality: a dummy model reference (“models/mymodel.mdl”) that often results in an “error” model if not replaced. 
 

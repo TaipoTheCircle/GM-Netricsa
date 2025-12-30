@@ -17,7 +17,7 @@ The Civil Protection Rebel is a rare but valuable traitor from the Metropolitan 
 
 TIPS:
 
-- Don't confuse him with enemy Metrocops—the lack of a mask is a key indicator.
+- Don't confuse him with enemy Metrocops-the lack of a mask is a key indicator.
 - Effective in urban combat and sabotaging Combine installations.
 - Works best in a group, providing cover for less-armed rebels.
 - Vulnerable to heavy Overwatch units without support.

@@ -19,5 +19,5 @@ Researchers believe their glow may be a form of communication or group cohesion,
 
 TIPS:
 
-- Do not harm them—they pose no threat.
+- Do not harm them-they pose no threat.
 - Watch their flocking patterns for clues about nearby environmental hazards.

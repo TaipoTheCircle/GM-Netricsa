@@ -17,7 +17,7 @@ Big-Heads are thin humanoids with exaggerated skulls containing the brains of Cr
 
 Dinko Pavicic is one of the pillars of Croteam's visual style. His exaggerated skull is a direct result of his unique combination of artistic genius and strategic thinking. Starting out as a 2D artist on the first Serious Sam games, Dinko helped shape the franchise's striking and recognizable visuals in its early days.
 
-However, his talent extended far beyond the gaming industry. In 2006, he was awarded an Emmy Award for Outstanding Title Sequence Design at the 78th Academy Awards, confirming his status as a world-class master of visual design. This unique experience—from creating pixel art for an iconic shooter to working on a major Hollywood event—makes him one of the most versatile and influential minds in the Krotimovtsy pantheon.
+However, his talent extended far beyond the gaming industry. In 2006, he was awarded an Emmy Award for Outstanding Title Sequence Design at the 78th Academy Awards, confirming his status as a world-class master of visual design. This unique experience-from creating pixel art for an iconic shooter to working on a major Hollywood event-makes him one of the most versatile and influential minds in the Krotimovtsy pantheon.
 
 TIPS:
 

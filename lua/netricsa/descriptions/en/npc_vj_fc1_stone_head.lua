@@ -19,4 +19,4 @@ TIPS:
 
 - Heavy fire from two high-caliber M4s and a devastating stomp attack that causes ground shaking and stuns make him a dangerous opponent.
 - Explosives (grenade launchers, C4) are effective against stone structures.
-- Potentially, he could be "pacified" by finding and returning his treasure—his "unpaid wages." But you don't have it.
+- Potentially, he could be "pacified" by finding and returning his treasure-his "unpaid wages." But you don't have it.
