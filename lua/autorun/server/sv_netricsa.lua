@@ -8,8 +8,9 @@ if SERVER then
     util.AddNetworkString("Netricsa_UpdateScore")
     util.AddNetworkString("Netricsa_AddScoreForNPC")
 
+ 
     -- 🔹 ТАБЛИЦА ДРУЖЕСТВЕННЫХ NPC
-    local FRIENDLY_NPCS = {
+    local FRIENDLY_NPCS = { 
         ["npc_citizen"] = true,
         ["npc_monk"] = true,
         ["npc_alyx"] = true,
@@ -206,62 +207,134 @@ end)
 
     -- NPC убит
 -- Замените оба хука на один
--- NPC убит
-hook.Add("OnNPCKilled", "NetricsaTrackCombined", function(npc, attacker, inflictor)
-    if not IsValid(npc) then return end
 
-    local npcClass = npc:GetClass()
-    local mdl = npc:GetModel() or ""
-    local skin = npc:GetSkin() or 0
+hook.Add("EntityTakeDamage", "Netricsa_SnapshotBeforeDeath", function(ent, dmg)
+    if not IsValid(ent) or not ent:IsNPC() then return end
+    if ent.NetricsaSnapshot then return end
 
-    local bodygroups = {}
-    for i = 0, (npc:GetNumBodyGroups()-1) do
-        bodygroups[i+1] = npc:GetBodygroup(i)
+    if dmg:GetDamage() >= ent:Health() then
+        -- 🔹 СОЗДАЕМ СНАПШОТ С ТЕКУЩИМИ ПАРАМЕТРАМИ
+        local colorData = ent:GetColor()
+        local colorTable
+        
+        -- 🔹 Проверяем, есть ли у NPC свой метод для получения цвета
+        if ent.GetRenderColor then
+            -- 🔹 Для VJ NPC или кастомных NPC
+            local r, g, b, a = ent:GetRenderColor()
+            colorTable = {
+                r = r or 255,
+                g = g or 255,
+                b = b or 255,
+                a = a or 255
+            }
+        elseif colorData and type(colorData) == "table" and colorData.r then
+            -- 🔹 Стандартный метод
+            colorTable = {
+                r = colorData.r,
+                g = colorData.g,
+                b = colorData.b,
+                a = colorData.a
+            }
+        else
+            -- 🔹 Цвет по умолчанию
+            colorTable = {r = 255, g = 255, b = 255, a = 255}
+        end
+        
+        ent.NetricsaSnapshot = {
+            class = ent:GetClass(),
+            mdl = ent:GetModel() or "",
+            skin = ent:GetSkin() or 0,
+
+            bodygroups = (function()
+                local t = {}
+                for i = 0, ent:GetNumBodyGroups() - 1 do
+                    t[i + 1] = ent:GetBodygroup(i)
+                end
+                return t
+            end)(),
+
+            -- 🔥 ВАЖНО: Получаем текущие значения ПРЯМО СЕЙЧАС
+            color = colorTable,
+            rendermode = ent:GetRenderMode() or 0,
+            renderfx = ent:GetRenderFX() or 0,
+            material = ent:GetMaterial() or "",
+            nodraw = ent:GetNoDraw() or false,
+            scale = ent:GetModelScale() or 1
+        }
+        
+        -- 🔹 ОТЛАДКА: Выводим информацию о цвете
+        print("[Netricsa] Snapshot for " .. ent:GetClass() .. 
+              " - RenderMode: " .. tostring(ent:GetRenderMode()) ..
+              " - Color: " .. colorTable.r .. "," .. colorTable.g .. "," .. colorTable.b .. "," .. colorTable.a ..
+              " - Material: " .. tostring(ent:GetMaterial()))
     end
+end)
 
-    -- Часть для добавления врага в Netricsa
+
+
+hook.Add("OnNPCKilled", "NetricsaTrackCombined", function(npc, attacker)
+    if not IsValid(npc) then return end
+    if not npc.NetricsaSnapshot then return end
+
+    local snap = npc.NetricsaSnapshot
+    local npcClass = snap.class
+
+    -- Добавление врага в Netricsa (берём данные ДО смерти)
     if not TrackedEnemies[npcClass] then
         TrackedEnemies[npcClass] = true
 
         net.Start("Netricsa_AddEnemy")
             net.WriteString(npcClass)
-            net.WriteString(mdl)
-            net.WriteUInt(skin, 8)
-            net.WriteUInt(#bodygroups, 8)
-            for i, bg in ipairs(bodygroups) do
+            net.WriteString(snap.mdl)
+            net.WriteUInt(snap.skin, 8)
+            net.WriteUInt(#snap.bodygroups, 8)
+            for _, bg in ipairs(snap.bodygroups) do
                 net.WriteUInt(bg, 8)
             end
+            
+            -- 🔥 ДОБАВЛЕННЫЕ СТРОКИ ЗДЕСЬ (после основных данных NPC)
+            net.WriteUInt(snap.color.r, 8)
+            net.WriteUInt(snap.color.g, 8)
+            net.WriteUInt(snap.color.b, 8)
+            net.WriteUInt(snap.color.a, 8)
+
+            net.WriteUInt(snap.rendermode or 0, 8)
+            net.WriteUInt(snap.renderfx or 0, 8)
+            net.WriteString(snap.material or "")
+            net.WriteBool(snap.nodraw or false)
+            net.WriteFloat(snap.scale or 1)
         net.Broadcast()
 
         net.Start("Netricsa_PlaySound")
         net.Broadcast()
     end
-    
-    -- Часть для отправки очков
+
+    -- Отправка очков игроку
     if IsValid(attacker) and attacker:IsPlayer() then
         print("[Netricsa] Sending score for " .. npcClass .. " to " .. attacker:GetName())
+
         net.Start("Netricsa_AddScoreForNPC")
             net.WriteString(npcClass)
         net.Send(attacker)
     end
-    
-    -- 🔹 ВАЖНОЕ ИСПРАВЛЕНИЕ: Обновляем статистику убийств
-    if IsValid(npc) and IsValid(attacker) and attacker:IsPlayer() then
+
+    -- Обновление статистики убийств
+    if IsValid(attacker) and attacker:IsPlayer() then
         local id = npc:EntIndex()
-        
-        -- Проверяем, был ли этот NPC отслеживаемым врагом
-        if trackedNPCs and trackedNPCs[id] then
-            if not trackedNPCs[id].killed then
-                trackedNPCs[id].killed = true
-                stats_kills = stats_kills + 1
-                print("[Netricsa] Player " .. attacker:GetName() .. " killed enemy: " .. npcClass .. " (kills: " .. stats_kills .. ")")
-                
-                -- Отправляем обновленную статистику всем игрокам
-                BroadcastStats()
-            end
+
+        if trackedNPCs[id] and not trackedNPCs[id].killed then
+            trackedNPCs[id].killed = true
+            stats_kills = stats_kills + 1
+
+            print("[Netricsa] Player " .. attacker:GetName() ..
+                  " killed enemy: " .. npcClass ..
+                  " (kills: " .. stats_kills .. ")")
+
+            BroadcastStats()
         end
     end
 end)
+
 
     -- NPC удалён
     hook.Add("EntityRemoved", "Netricsa_StatsOnRemove", function(ent)
