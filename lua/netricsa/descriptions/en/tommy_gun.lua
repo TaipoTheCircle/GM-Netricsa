@@ -1,16 +1,16 @@
-M1928 THOMPSON SUBMACHINE GUN
+THOMPSON M1928 SUBMACHINE GUN
 
 
-WEAPON:    M1928 Thompson Submachine Gun
-AMMO:      5.56mm bullets
-ROF:       600 bullets/min
-BARREL:    10"
+WEAPON: M1928 Thompson Submachine Gun
+AMMO:   .45APS
+RR:     600 RPM
+LENGTH: 25.4 cm
 
 DESCRIPTION:
 
-Originally invented by general Thompson, this submachine gun has survived two world wars, and with recent improvements, it is 
-back on the track. This old-timer was modified to accept 5.56mm ammo to be compatible with other standard infantry weapons, and its universal drum container can be filled from any standard ammo pack.
+The Thompson submachine gun (also known as the "Tommy Gun"), popularized in the 1930s by Al Capone and other gangsters, offers decent stopping power, reloads quickly, and is the island's go-to submachine gun. Less popular with officers than the revolver, it is nonetheless a common weapon. It is first found at the top of the stairs next to a small office in the WWII chronometer, where Tork recalls the Colonel yelling at a soldier.
 
 NOTES:
 
-- Provides both rapid fire mode and controlled short bursts.
+- Fire in long and short bursts.
+- Al Capone sends his regards.

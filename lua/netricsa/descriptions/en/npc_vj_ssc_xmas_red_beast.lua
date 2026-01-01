@@ -9,7 +9,7 @@ ENDURANCE:  Average
 HOSTILITY:  High
 WEAPONS:    Magic homing missiles (red fireballs)
 REWARD:     5500 FC
-DANGER:     Average
+THREAT:     Average
 
 DESCRIPTION:
 

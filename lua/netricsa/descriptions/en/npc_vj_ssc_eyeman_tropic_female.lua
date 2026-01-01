@@ -9,7 +9,7 @@ ENDURANCE:  Low
 HOSTILITY:  Low
 WEAPONS:    bites, punches
 REWARD:     400 FC
-DANGER:     Low
+THREAT:     Low
 
 DESCRIPTION:
 

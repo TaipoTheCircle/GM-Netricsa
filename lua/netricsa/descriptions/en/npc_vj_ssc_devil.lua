@@ -12,7 +12,7 @@ WEAPONS:    homing missiles
             rocket launcher
             pulse lasers
             beamgun
-REWARD:     1 million FC
+REWARD:     1000000 FC
 THREAT:     immeasurable
 
 DESCRIPTION:
