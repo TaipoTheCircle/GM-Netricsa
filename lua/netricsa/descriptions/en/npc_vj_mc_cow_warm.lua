@@ -23,4 +23,4 @@ TIPS:
 
 - Milking is safe and produces milk.
 - Red-and-red cow meat is nutritious, providing satiety and health.
-- They are excellent for keeping in paddocks in warm biomes – they are heat-tolerant and graze well.
+- They are excellent for keeping in paddocks in warm biomes - they are heat-tolerant and graze well.

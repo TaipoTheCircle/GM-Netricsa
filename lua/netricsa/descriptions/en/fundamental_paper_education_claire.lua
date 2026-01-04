@@ -22,4 +22,4 @@ TIPS:
 - Any serious attack from teachers is fatal for her.
 - When in danger, she relies on flight and evasion. She does not attack. She can be saved by the intervention of others.
 - She can accidentally unleash an even greater threat (∆lice).
-- In alternate versions, she may have a different appearance (hair color, clothing), but the essence of the character remains unchanged – a conscientious student trapped in a nightmare.
+- In alternate versions, she may have a different appearance (hair color, clothing), but the essence of the character remains unchanged - a conscientious student trapped in a nightmare.

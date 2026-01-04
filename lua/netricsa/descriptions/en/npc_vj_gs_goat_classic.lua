@@ -4,7 +4,7 @@ CLASSIC GOAT FROM GOATVILLE
 CLASS:      Mammal, Ungulate
 METABOLISM: Standard goat biology
 PERCEPTION: Normal animal senses
-SIZE:       ~2.5–3 ft at shoulders
+SIZE:       ~2.5-3 ft at shoulders
 ENDURANCE:  Normal, but strangely durable
 HOSTILITY:  Medium
 WEAPONS:    Headbutt, ragdoll physics, random destruction

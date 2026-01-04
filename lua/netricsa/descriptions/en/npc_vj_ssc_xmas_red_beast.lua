@@ -21,7 +21,7 @@ The Christmas Red Aludran Reptiloid is a rare and disturbingly grotesque mutatio
 
 They are easily recognizable in appearance: red magic balls instead of the usual green ones, red blood, and a bright red bow on their massive chests, secured with crude magic. Despite their comical appearance, they remain extremely dangerous in battle.
 
-The reptilians themselves sincerely believe that they are fighting for an eternal holiday. Ironically, the New Year truly is endless for them – but only until they die fighting for someone else's war.
+The reptilians themselves sincerely believe that they are fighting for an eternal holiday. Ironically, the New Year truly is endless for them - but only until they die fighting for someone else's war.
 
 TIPS:
 

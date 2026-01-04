@@ -11,4 +11,4 @@ Eight-barrel mechanically-indexing automatic shotgun. On each pull of the trigge
 
 NOTES:
 
-- Hitscan with low–medium spread depending on the build; effective at close to medium ranges.
+- Hitscan with low-medium spread depending on the build; effective at close to medium ranges.

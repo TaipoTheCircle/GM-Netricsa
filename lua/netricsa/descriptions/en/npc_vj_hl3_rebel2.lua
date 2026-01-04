@@ -20,6 +20,6 @@ The Rebels rely on teamwork and hit-and-run tactics rather than brute force. The
 
 TIPS:
 
-- Protect them – they are most effective in groups. - Supply them with ammunition and first aid kits to maintain pressure on the front lines.
+- Protect them - they are most effective in groups. - Supply them with ammunition and first aid kits to maintain pressure on the front lines.
 - Use them to scout the area and ambush Alliance patrols.
 - Rebel squads can crush even lightly armored Alliance units if they coordinate well.

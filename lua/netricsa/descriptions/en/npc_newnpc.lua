@@ -4,7 +4,7 @@ NEW NPC (Template NPC)
 CLASS:      Template / Base NPC
 METABOLISM: Synthetic (template entity, no real biology)
 PERCEPTION: Basic (stubbed AI)
-SIZE:       Human scale (~5.8–6 ft model)
+SIZE:       Human scale (~5.8-6 ft model)
 ENDURANCE:  Very Low (default, minimal health)
 HOSTILITY:  Neutral / None (does not attack by default)
 WEAPONS:    None (no offensive behavior by default)

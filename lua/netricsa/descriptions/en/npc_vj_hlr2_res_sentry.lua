@@ -23,5 +23,5 @@ Despite the change of allegiance, the turret remains an Combine machine by natur
 
 TIPS:
 
-- Place turrets in choke points and on the flanks – that's where they're most effective.
+- Place turrets in choke points and on the flanks - that's where they're most effective.
 - Watch the line of fire - the turret doesn't discriminate between allies if they get between it and the target.

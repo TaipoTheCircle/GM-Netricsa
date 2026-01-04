@@ -9,7 +9,7 @@ ENDURANCE:  Medium-Low
 HOSTILITY:  High
 WEAPONS:    Sharp bite (melee only)
 REWARD:     200 FC
-THREAT:     Low–Moderate
+THREAT:     Low-Moderate
 
 DESCRIPTION:
 

@@ -9,7 +9,7 @@ ENDURANCE:  Low
 HOSTILITY:  Low
 WEAPONS:    Bite
 REWARD:     20 FC
-THREAT:     Low–Medium
+THREAT:     Low-Medium
 
 DESCRIPTION:
 

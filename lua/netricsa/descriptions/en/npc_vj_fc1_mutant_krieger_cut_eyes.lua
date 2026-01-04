@@ -13,7 +13,7 @@ THREAT:     Maximum
 
 DESCRIPTION:
 
-The final form of Dr. George Krieger, achieved through the administration of an advanced Trigen serum. Unlike normal mutants, he retained full intelligence and reason, becoming the "perfect" Trigen – an apex predator. Combines technological weaponry (OICW, grenades) with phenomenal mutant abilities: leaping vast distances and enhanced survivability. It's the culmination of his insane philosophy about the superiority of strength and accelerated evolution.
+The final form of Dr. George Krieger, achieved through the administration of an advanced Trigen serum. Unlike normal mutants, he retained full intelligence and reason, becoming the "perfect" Trigen - an apex predator. Combines technological weaponry (OICW, grenades) with phenomenal mutant abilities: leaping vast distances and enhanced survivability. It's the culmination of his insane philosophy about the superiority of strength and accelerated evolution.
 
 TIPS:
 

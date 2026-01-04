@@ -13,7 +13,7 @@ THREAT:     Maximum
 
 DESCRIPTION:
 
-A forgotten guardian, imprisoned for centuries in the Forged Chambers. This is neither a man nor a statue – it is a piece of magically animated armor whose soul has long since faded, leaving only blind rage and an impossible duty. It has forgotten what it guards, who it waits for, and for whom it mourns. He remembers only one command: to destroy anyone who dares disturb the eternal peace of his halls. He is completely immune to all damage except for strikes to a specific vulnerable point-a wound on his back, which is only vulnerable during his most powerful attack, "Axe Strike," when he plunges his weapon into the ground. Outside of combat, his magical armor instantly heals any damage.
+A forgotten guardian, imprisoned for centuries in the Forged Chambers. This is neither a man nor a statue - it is a piece of magically animated armor whose soul has long since faded, leaving only blind rage and an impossible duty. It has forgotten what it guards, who it waits for, and for whom it mourns. He remembers only one command: to destroy anyone who dares disturb the eternal peace of his halls. He is completely immune to all damage except for strikes to a specific vulnerable point-a wound on his back, which is only vulnerable during his most powerful attack, "Axe Strike," when he plunges his weapon into the ground. Outside of combat, his magical armor instantly heals any damage.
 
 TIPS:
 

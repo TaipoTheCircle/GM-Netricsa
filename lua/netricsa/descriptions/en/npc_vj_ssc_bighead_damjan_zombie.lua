@@ -19,7 +19,7 @@ Damjan Mravunac is the man whose music is the soundtrack to the chaos in the Ser
 
 His style is a unique cocktail of powerful percussion, catchy melodies, ethnic motifs, and modern electronica. He doesn't just compose background music; he creates soundscapes that have become an integral part of gameplay. From the iconic themes of The First Encounter to the orchestral sweep of The Talos Principle 2, his work is as much a hallmark of the studio as Sam Stone himself.
 
-He was once alive, but after you killed him in the Temple of Hatshepsut, he rose from the dead – becoming a demonic Zombie.
+He was once alive, but after you killed him in the Temple of Hatshepsut, he rose from the dead - becoming a demonic Zombie.
 
 TIPS:
 

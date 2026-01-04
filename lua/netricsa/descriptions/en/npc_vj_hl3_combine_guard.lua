@@ -23,5 +23,5 @@ Guardsmen do not seek quick cleanups; their goal is suppression and holding, eve
 
 TIPS:
 
-- Don't engage them in a protracted battle – the guards have higher than average endurance.
+- Don't engage them in a protracted battle - the guards have higher than average endurance.
 _ Grenades and concentrated fire are the best way to break through their defenses.

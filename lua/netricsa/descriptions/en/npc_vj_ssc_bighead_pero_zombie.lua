@@ -19,7 +19,7 @@ Damir Perovic is one of the four pillars on which the entire Croteam empire rest
 
 While the other co-founders became the public faces of the company, Damir remained in the shadows, serving as a support artist and additional programmer in the early stages. His contribution is fundamental: he was there when Croteam was born in an ordinary apartment, establishing the principles of camaraderie and passion that have enabled the studio to survive decades and create the worlds of Serious Sam and The Talos Principle. His presence among the Croteamers is a tribute to their very origins, to the quiet genius whose work in the shadows laid the foundation for all the loud and insane chaos that followed.
 
-He was once alive, but after you killed him in the Temple of Hatshepsut, he rose from the dead – becoming a demonic Zombie.
+He was once alive, but after you killed him in the Temple of Hatshepsut, he rose from the dead - becoming a demonic Zombie.
 
 TIPS:
 

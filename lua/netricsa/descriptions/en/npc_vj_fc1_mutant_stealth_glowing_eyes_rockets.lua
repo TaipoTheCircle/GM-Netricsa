@@ -21,5 +21,5 @@ TIPS:
 
 - Use CryVision biothermal goggles for detection.
 - Listen carefully to the sounds of footsteps and weapon reloads.
-- Keep your distance – their grabs are deadly at close range.
+- Keep your distance - their grabs are deadly at close range.
 - Use shotguns or grenades at suspected hidden locations.

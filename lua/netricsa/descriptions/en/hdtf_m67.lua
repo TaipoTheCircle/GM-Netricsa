@@ -3,7 +3,7 @@ M67 FRAGMENTATION GRENADE
 
 WEAPON: M67 fragmentation hand grenade
 AMMO:   Explosive filling: Composition B (6.5 oz / ≈184 g)
-ROF:    4–5 s delay
+ROF:    4-5 s delay
 WEIGHT: 400 g
 
 DESCRIPTION:

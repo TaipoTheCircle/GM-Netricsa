@@ -17,6 +17,6 @@ The most resilient version of the trigen primate. Completely hairless, with a de
 
 TIPS:
 
-- Requires concentrated fire – due to their increased survivability, single shots are ineffective.
-- Use explosives – the area of ​​effect compensates for their high speed.
-- Don't let them get too close – even armor won't protect you from their claws.
+- Requires concentrated fire - due to their increased survivability, single shots are ineffective.
+- Use explosives - the area of ​​effect compensates for their high speed.
+- Don't let them get too close - even armor won't protect you from their claws.

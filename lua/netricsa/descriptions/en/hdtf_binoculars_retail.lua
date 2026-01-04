@@ -3,7 +3,7 @@ BINOCULARS
 
 ITEM: Binoculars (optical device)
 AMMO: None
-OPTICS: Typical magnification 4×–10×+ / objective diameter 25–50 mm
+OPTICS: Typical magnification 4×-10×+ / objective diameter 25-50 mm
 
 DESCRIPTION:
 

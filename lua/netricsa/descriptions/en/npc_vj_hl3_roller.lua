@@ -21,5 +21,5 @@ A distinctive design feature is the complete isolation of its internal systems. 
 
 TIPS:
 
-- Cover is ineffective – detonation occurs during a jump, above ground level.
+- Cover is ineffective - detonation occurs during a jump, above ground level.
 - It takes 3-4 Inferno missiles to defuse the mine.

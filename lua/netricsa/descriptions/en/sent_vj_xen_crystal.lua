@@ -4,7 +4,7 @@ XEN CRYSTAL, ZENIUM
 CLASS:      Alien Mineral Of Xen
 METABOLISM: Energy-conductive (non-organic)
 PERCEPTION: None (reactive to psionics)
-SIZE:       Varies (shards: ~2–5 ft; clusters: up to 20 ft)
+SIZE:       Varies (shards: ~2-5 ft; clusters: up to 20 ft)
 ENDURANCE:  Extremely High (dense crystalline lattice)
 HOSTILITY:  None (passive)
 WEAPONS:    None (but can emit psionic energy when linked)

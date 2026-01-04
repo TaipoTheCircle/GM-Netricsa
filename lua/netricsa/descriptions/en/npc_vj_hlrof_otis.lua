@@ -5,7 +5,7 @@ CLASS:      Black Mesa Security Guard
 METABOLISM: Human, Male
 PERCEPTION: Standard visual (slow reflexes)
 SIZE:       ~5'10 (178 cm), overweight
-ENDURANCE:  Low–Medium (limited ENDURANCE, light armor)
+ENDURANCE:  Low-Medium (limited ENDURANCE, light armor)
 HOSTILITY:  Defensive / Allied
 WEAPONS:    Desert Eagle
 REWARD:     100 FC

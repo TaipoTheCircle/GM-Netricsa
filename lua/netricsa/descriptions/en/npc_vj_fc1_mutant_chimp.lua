@@ -17,5 +17,5 @@ The most monstrously deformed of all primates, trigenes. Retaining only a vague 
 
 TIPS:
 
-- Critically vulnerable to headshots – despite their speed, precision shots are effective.
-- Keep your distance – at close range, their high-speed attacks are almost unstoppable.
+- Critically vulnerable to headshots - despite their speed, precision shots are effective.
+- Keep your distance - at close range, their high-speed attacks are almost unstoppable.
