@@ -585,6 +585,7 @@ end)
         ["npc_vj_fc1_mutant_krieger_cut_eyes"] = true,
         ["obj_ss3_spider_egg"] = true,
         ["npc_vj_hlrdc_xen_tree"] = true,
+        ["npc_vj_ssc_spaceship"] = true,
 
     }
 
