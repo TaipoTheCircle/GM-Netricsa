@@ -1,7 +1,7 @@
-SEALTEAM 6 OVERWATCH COMBINE SOLDIER
+SEAL TEAM 6 OVERWATCH COMBINE SOLDIER
 
 
-CLASS:      Overwatch Combine SEALTeam 6 Soldier
+CLASS:      Overwatch Combine SEAL Team 6 Soldier
 METABOLISM: Augmented Human, Male
 PERCEPTION: Elite Marine Special Forces
 SIZE:       5,9 ft

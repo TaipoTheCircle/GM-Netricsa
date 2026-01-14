@@ -1,7 +1,7 @@
-OVERWATCH COMBINE SEALTEAM 6 SHOTGUNNER
+OVERWATCH COMBINE SEAL TEAM 6 SHOTGUNNER
 
 
-CLASS:      Overwatch Combine SEALTeam 6 Shotgunner
+CLASS:      Overwatch Combine SEAL Team 6 Shotgunner
 METABOLISM: Augmented Human, Male
 PERCEPTION: Elite Marine Special Forces
 SIZE:       5,9 ft
@@ -17,7 +17,7 @@ These soldiers were once true US Navy SEALs, masters of surprise raids and rescu
 
 They operated as part of a team capable of bypassing any security and eliminating a target behind enemy lines, sometimes risking their lives for a few minutes of strategic advantage.
 
-This soldier was originally an assault expert for SEALTeam 6, responsible for clearing buildings, raiding fortified installations, and working in tight corridors.
+This soldier was originally an assault expert for SEAL Team 6, responsible for clearing buildings, raiding fortified installations, and working in tight corridors.
 
 He loved loud solutions-a shotgun was his best friend.
 

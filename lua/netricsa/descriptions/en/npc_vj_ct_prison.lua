@@ -1,7 +1,7 @@
-COMBINE SEALTEAM 6 OVERWATCH PRISON SOLDIER
+COMBINE SEAL TEAM 6 OVERWATCH PRISON SOLDIER
 
 
-CLASS:      Combine Overwatch SEALTeam 6 Prison Soldier
+CLASS:      Combine Overwatch SEAL Team 6 Prison Soldier
 METABOLISM: Augmented Human, Male
 PERCEPTION: Elite Combine Special Forces
 SIZE:       5,9 ft
