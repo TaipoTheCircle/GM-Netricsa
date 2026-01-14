@@ -19,7 +19,7 @@ GIGN troopers operate in small tactical groups, employing effective cover, assau
 
 Their equipment combines elements of ancient Terran tactics with Combine technology.
 
-Despite serving the Combine, some GIGN troopers remember their original purpose—protecting civilians.
+Despite serving the Combine, some GIGN troopers remember their original purpose-protecting civilians.
 
 TIPS:
 

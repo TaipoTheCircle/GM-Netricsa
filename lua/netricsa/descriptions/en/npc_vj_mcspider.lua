@@ -21,4 +21,4 @@ Sometimes spiders appear with additional "passengers"-skeletons-forming the famo
 
 TIPS:
 
-- During the day, the spider is neutral—you can attack first without risk.
+- During the day, the spider is neutral-you can attack first without risk.

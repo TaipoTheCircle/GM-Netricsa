@@ -26,4 +26,4 @@ TIPS:
 - When struck by lightning, transforms into a charged creeper, increasing the radius and power of the explosion
 - Keep your distance and use a bow.
 - A shield significantly reduces explosion damage.
-- Avoid fighting creepers near buildings—they don't appreciate architecture.
+- Avoid fighting creepers near buildings-they don't appreciate architecture.

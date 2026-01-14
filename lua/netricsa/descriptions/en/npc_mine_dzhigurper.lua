@@ -19,6 +19,6 @@ When Dzigurda Creeper explodes, its body disintegrates into a multitude of minia
 
 TIPS:
 
-- Don't stand too close—the explosion not only deals damage but can also stun.
+- Don't stand too close-the explosion not only deals damage but can also stun.
 - Trying to move too slowly will result in... Dzhigurda screaming.
 - If you have noise-canceling headphones, put them on immediately.

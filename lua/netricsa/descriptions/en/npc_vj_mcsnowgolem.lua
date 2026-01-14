@@ -15,7 +15,7 @@ DESCRIPTION:
 
 The Snow Golem is a passive, constructed mob created by a player or dispensary by placing two snow blocks with a carved pumpkin on top. It throws snowballs at nearby hostile mobs, attracting and repelling them, but snowballs rarely deal direct damage, with the exception of Blazes.
 
-The Snow Golem won't attack allies, but it reacts calmly to aggression from other creatures, pushing them with snowballs from up to 10 blocks away. When moving, it leaves a trail of snow layers if the climate and world rules allow. It is also vulnerable in humid or warm biomes—water, rain, and high temperatures will damage or slowly kill it.
+The Snow Golem won't attack allies, but it reacts calmly to aggression from other creatures, pushing them with snowballs from up to 10 blocks away. When moving, it leaves a trail of snow layers if the climate and world rules allow. It is also vulnerable in humid or warm biomes-water, rain, and high temperatures will damage or slowly kill it.
 
 If you cut off its pumpkin "head", it will drop the pumpkin, revealing its face underneath.
 

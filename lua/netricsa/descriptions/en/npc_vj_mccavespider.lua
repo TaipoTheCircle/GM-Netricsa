@@ -17,5 +17,5 @@ The Cave Spider is a compact, angry, and extremely disgruntled version of the co
 
 TIPS:
 
-- Don't underestimate its size—the venom doesn't care what you think.
+- Don't underestimate its size-the venom doesn't care what you think.
 - Swords are the best arguments when dealing with this creature.
