@@ -7,7 +7,7 @@ PERCEPTION: Tactical Sensors, Enhanced Reflexes, Direct Link to Command
 SIZE:       6,5 ft
 ENDURANCE:  Very High
 HOSTILITY:  Extreme
-WEAPOON:    SPAS-12 Heavy Shotgun, Grenades
+WEAPONS:    SPAS-12 Heavy Shotgun, Grenades
 REWARD:     600 FC
 THREAT:     Very High
 

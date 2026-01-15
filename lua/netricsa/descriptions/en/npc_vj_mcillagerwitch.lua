@@ -7,7 +7,7 @@ PERCEPTION: Enhanced, with tactical self-preservation
 SIZE:       6,2 ft
 ENDURANCE:  Very high
 HOSTILITY:  High
-WEAPOON:    Potions (damage, slow, poison, weakness)
+WEAPONS:    Potions (damage, slow, poison, weakness)
 REWARD:     400 FC
 THREAT:     High
 

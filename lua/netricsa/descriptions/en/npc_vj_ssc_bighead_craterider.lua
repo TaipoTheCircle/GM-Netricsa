@@ -7,7 +7,7 @@ PERCEPTION: Legends of Games Journalism
 SIZE:       5,9 feet (each)
 ENDURANCE:  Low
 HOSTILITY:  Ironic Neutral
-WEAPOON:    OMM-branded car (tactical vehicle)
+WEAPONS:    OMM-branded car (tactical vehicle)
 REWARD:     200 FC
 THREAT:     Cultural Phenomenon
 

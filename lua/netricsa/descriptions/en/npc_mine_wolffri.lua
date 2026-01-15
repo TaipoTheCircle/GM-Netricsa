@@ -7,7 +7,7 @@ PERCEPTION: Keen hearing, developed sense of smell
 SIZE:       2,9 ft
 ENDURANCE:  Average
 HOSTILITY:  Moderate
-WEAPOON:    Fangs
+WEAPONS:    Fangs
 REWARD:     60 FC
 THREAT:     Average
 

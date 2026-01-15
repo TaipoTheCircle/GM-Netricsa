@@ -21,4 +21,4 @@ TIPS:
 
 - At close range, a shotgun is deadly.
 - In narrow corridors, it's better to retreat than to test how many shots you can take.
-- The orange visor is highly visible in the dark – sometimes it's the only chance to see him first.
+- The orange visor is highly visible in the dark - sometimes it's the only chance to see him first.

@@ -7,7 +7,7 @@ PERCEPTION: Elite Marine Special Forces
 SIZE:       5,9 ft
 ENDURANCE:  Very High
 HOSTILITY:  Extreme
-WEAPOON:    AK-47, AR2, M4A1, SMG2
+WEAPONS:    AK-47, AR2, M4A1, SMG2
 REWARD:     950 FC
 THREAT:     Very High
 

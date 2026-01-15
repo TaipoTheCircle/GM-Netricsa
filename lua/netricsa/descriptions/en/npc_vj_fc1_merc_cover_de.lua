@@ -7,7 +7,7 @@ PERCEPTION: Standard vision, tactical training
 SIZE:       6 ft
 ENDURANCE:  High
 HOSTILITY:  High
-WEAPOON:    Desert Eagle
+WEAPONS:    Desert Eagle
 REWARD:     500 FC
 THREAT:     Medium-High
 

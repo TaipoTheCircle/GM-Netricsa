@@ -7,7 +7,7 @@ PERCEPTION: Royalist
 SIZE:       3.5 ft.
 ENDURANCE:    Low
 HOSTILITY:  Passive
-WEAPOON:    Tusks
+WEAPONS:    Tusks
 REWARD:     50 FC
 THREAT:     None
 

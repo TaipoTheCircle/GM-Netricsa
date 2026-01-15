@@ -7,7 +7,7 @@ PERCEPTION:  Elite Reconnaissance and Infiltration Unit
 SIZE:        5,9 ft
 ENDURANCE:   Very High
 HOSTILITY:   Extreme
-WEAPOON:     AR2 Pulse Rifle, MP40, SSG-08 Sniper Rifle
+WEAPONS:     AR2 Pulse Rifle, MP40, SSG-08 Sniper Rifle
 REWARD:      1100 FC
 THREAT:      Very High
 

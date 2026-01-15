@@ -1,7 +1,7 @@
 HARPOON
 
 
-WEAPOON: Harpoon
+WEAPONS: Harpoon
 AMMO:    None
 ROF:     ~1 throwing action/second
 WEIGHT:  3,5 kg

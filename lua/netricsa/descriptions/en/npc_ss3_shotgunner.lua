@@ -7,7 +7,7 @@ PERCEPTION: 5 red mechanical eyes, night vision, basic tactical algorithms
 SIZE:       6 ft
 ENDURANCE:  Low
 HOSTILITY:  Medium
-WEAPOON:    12-gauge Remington 870 MCS Tactical shotgun, kick
+WEAPONS:    12-gauge Remington 870 MCS Tactical shotgun, kick
 REWARD:     300 FC
 THREAT:     Low
 
