@@ -239,15 +239,93 @@ if CLIENT then
             end
 
             local modelPanel = vgui.Create("DModelPanel", modelBackground)
-            modelPanel:Dock(FILL)
-            modelPanel:SetFOV(40)
-            modelPanel:SetCamPos(Vector(100, 0, 60))
-            modelPanel:SetLookAt(Vector(0, 0, 40))
-            modelPanel.LayoutEntity = function(self, ent)
-                if not IsValid(ent) then return end
-                ent:SetAngles(Angle(0, RealTime() * 30 % 360, 0))
-                self:RunAnimation()
-            end
+modelPanel:Dock(FILL)
+modelPanel:SetFOV(40)
+modelPanel:SetCamPos(Vector(100, 0, 60))
+modelPanel:SetLookAt(Vector(0, 0, 40))
+
+-- Новые переменные для вращения мышью
+modelPanel.isDragging = false
+modelPanel.lastAngles = Angle(0, 0, 0)
+modelPanel.dragStartX = 0
+modelPanel.dragStartY = 0
+modelPanel.dragStartAngles = Angle(0, 0, 0)
+
+function modelPanel:LayoutEntity(ent)
+    if not IsValid(ent) then return end
+    
+    -- Вращаем только если не тащим мышкой
+    if not self.isDragging then
+        ent:SetAngles(Angle(0, RealTime() * 30 % 360, 0))
+    else
+        -- Сохраняем последние углы при перетаскивании
+        self.lastAngles = ent:GetAngles()
+    end
+    
+    self:RunAnimation()
+end
+
+-- Обработка мыши
+function modelPanel:OnMousePressed(mouseCode)
+    if mouseCode == MOUSE_LEFT then
+        self.isDragging = true
+        self.dragStartX, self.dragStartY = input.GetCursorPos()
+        
+        local ent = self:GetEntity()
+        if IsValid(ent) then
+            self.dragStartAngles = ent:GetAngles()
+        else
+            self.dragStartAngles = Angle(0, 0, 0)
+        end
+        
+        self:SetCursor("sizeall")
+        self:MouseCapture(true)
+        return true
+    end
+
+if mouseCode == MOUSE_WHEEL_UP or mouseCode == MOUSE_WHEEL_DOWN then
+    return true -- Блокируем прокрутку родительских панелей
+end
+
+
+function modelPanel:OnMouseWheeled(delta)
+    local curFOV = self:GetFOV()
+    local newFOV = curFOV - delta * 5 -- 5 - скорость зума
+    
+    -- Ограничиваем FOV разумными пределами
+    newFOV = math.Clamp(newFOV, 10, 80)
+    
+    self:SetFOV(newFOV)
+    return true
+end
+end
+
+function modelPanel:OnMouseReleased(mouseCode)
+    if mouseCode == MOUSE_LEFT and self.isDragging then
+        self.isDragging = false
+        self:SetCursor("arrow")
+        self:MouseCapture(false)
+        return true
+    end
+end
+
+function modelPanel:Think()
+    if self.isDragging then
+        local x, y = input.GetCursorPos()
+        local dx = x - self.dragStartX
+        local dy = y - self.dragStartY
+        
+        local ent = self:GetEntity()
+        if IsValid(ent) then
+            local newAng = Angle(
+                math.Clamp(self.dragStartAngles.p + dy * 0.5, -90, 90),  -- Изменено: + вместо -
+                self.dragStartAngles.y + dx * 0.5,
+                0
+            )
+            ent:SetAngles(newAng)
+        end
+    end
+end
 
             local textPanel = vgui.Create("DPanel", bottomPanel)
             NetricsaUtils.NoBG(textPanel)
@@ -461,16 +539,94 @@ if CLIENT then
                 surface.DrawTexturedRect(0, 0, w, h)
             end
 
-            local modelPanel = vgui.Create("DModelPanel", modelBackground)
-            modelPanel:Dock(FILL)
-            modelPanel:SetFOV(40)
-            modelPanel:SetCamPos(Vector(100, 0, 60))
-            modelPanel:SetLookAt(Vector(0, 0, 40))
-            modelPanel.LayoutEntity = function(self, ent)
-                if not IsValid(ent) then return end
-                ent:SetAngles(Angle(0, RealTime() * 30 % 360, 0))
-                self:RunAnimation()
-            end
+           local modelPanel = vgui.Create("DModelPanel", modelBackground)
+modelPanel:Dock(FILL)
+modelPanel:SetFOV(40)
+modelPanel:SetCamPos(Vector(100, 0, 60))
+modelPanel:SetLookAt(Vector(0, 0, 40))
+
+-- Новые переменные для вращения мышью
+modelPanel.isDragging = false
+modelPanel.lastAngles = Angle(0, 0, 0)
+modelPanel.dragStartX = 0
+modelPanel.dragStartY = 0
+modelPanel.dragStartAngles = Angle(0, 0, 0)
+
+function modelPanel:LayoutEntity(ent)
+    if not IsValid(ent) then return end
+    
+    -- Вращаем только если не тащим мышкой
+    if not self.isDragging then
+        ent:SetAngles(Angle(0, RealTime() * 30 % 360, 0))
+    else
+        -- Сохраняем последние углы при перетаскивании
+        self.lastAngles = ent:GetAngles()
+    end
+    
+    self:RunAnimation()
+end
+
+-- Обработка мыши
+function modelPanel:OnMousePressed(mouseCode)
+    if mouseCode == MOUSE_LEFT then
+        self.isDragging = true
+        self.dragStartX, self.dragStartY = input.GetCursorPos()
+        
+        local ent = self:GetEntity()
+        if IsValid(ent) then
+            self.dragStartAngles = ent:GetAngles()
+        else
+            self.dragStartAngles = Angle(0, 0, 0)
+        end
+        
+        self:SetCursor("sizeall")
+        self:MouseCapture(true)
+        return true
+    end
+
+if mouseCode == MOUSE_WHEEL_UP or mouseCode == MOUSE_WHEEL_DOWN then
+    return true -- Блокируем прокрутку родительских панелей
+end
+
+
+function modelPanel:OnMouseWheeled(delta)
+    local curFOV = self:GetFOV()
+    local newFOV = curFOV - delta * 5 -- 5 - скорость зума
+    
+    -- Ограничиваем FOV разумными пределами
+    newFOV = math.Clamp(newFOV, 10, 80)
+    
+    self:SetFOV(newFOV)
+    return true
+end
+end
+
+function modelPanel:OnMouseReleased(mouseCode)
+    if mouseCode == MOUSE_LEFT and self.isDragging then
+        self.isDragging = false
+        self:SetCursor("arrow")
+        self:MouseCapture(false)
+        return true
+    end
+end
+
+function modelPanel:Think()
+    if self.isDragging then
+        local x, y = input.GetCursorPos()
+        local dx = x - self.dragStartX
+        local dy = y - self.dragStartY
+        
+        local ent = self:GetEntity()
+        if IsValid(ent) then
+            local newAng = Angle(
+                math.Clamp(self.dragStartAngles.p + dy * 0.5, -90, 90),  -- Изменено: + вместо -
+                self.dragStartAngles.y + dx * 0.5,
+                0
+            )
+            ent:SetAngles(newAng)
+        end
+    end
+end
 
             local textPanel = vgui.Create("DPanel", bottomPanel)
             NetricsaUtils.NoBG(textPanel)
