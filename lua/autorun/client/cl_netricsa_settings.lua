@@ -16,6 +16,12 @@ if CLIENT then
         "netricsa_auto_open", "1", true, false,
         "Включать Netricsa автоматически при запуске карты (1 - вкл, 0 - выкл)"
     )
+    
+    -- 🔹 Настройка авто-вращения моделей
+    local auto_rotate_cvar = CreateClientConVar(
+        "netricsa_auto_rotate", "1", true, false,
+        "Автоматическое вращение моделей NPC/оружия (1 - вкл, 0 - выкл)"
+    )
 
     local function StringToKey(str)
         if not str or str == "" then return KEY_N end
@@ -52,11 +58,15 @@ if CLIENT then
     end)
 
     -- 🔹 Добавляем панель настроек
-    hook.Add("PopulateToolMenu", "Netricsa_AddSettingsPanel", function()
-        spawnmenu.AddToolMenuOption(
-            "Netricsa", "Settings", "NetricsaConfig", L("ui", "settings_tab"), "", "", function(panel)
-                panel:ClearControls()
-                panel:Help(L("ui", "settings_help"))
+hook.Add("PopulateToolMenu", "Netricsa_AddSettingsPanel", function()
+    spawnmenu.AddToolMenuOption(
+        "Netricsa", "Settings", "NetricsaConfig", L("ui", "settings_tab"), "", "", function(panel)
+            panel:ClearControls()
+            panel:Help(L("ui", "settings_help"))
+            
+            -- 🔹 Чекбокс для авто-вращения
+            panel:Help(L("ui", "auto_rotate_help"))
+            panel:CheckBox(L("ui", "auto_rotate_label"), "netricsa_auto_rotate")
 
                 -- Настройка клавиши открытия
                 panel:Help(L("ui", "settings_key_help"))

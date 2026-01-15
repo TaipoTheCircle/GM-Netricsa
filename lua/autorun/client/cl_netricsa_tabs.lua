@@ -238,7 +238,7 @@ if CLIENT then
                 surface.DrawTexturedRect(0, 0, w, h)
             end
 
-            local modelPanel = vgui.Create("DModelPanel", modelBackground)
+local modelPanel = vgui.Create("DModelPanel", modelBackground)
 modelPanel:Dock(FILL)
 modelPanel:SetFOV(40)
 modelPanel:SetCamPos(Vector(100, 0, 60))
@@ -246,20 +246,23 @@ modelPanel:SetLookAt(Vector(0, 0, 40))
 
 -- Новые переменные для вращения мышью
 modelPanel.isDragging = false
-modelPanel.lastAngles = Angle(0, 0, 0)
 modelPanel.dragStartX = 0
 modelPanel.dragStartY = 0
 modelPanel.dragStartAngles = Angle(0, 0, 0)
+modelPanel.baseAngle = Angle(0, -13, 0) -- Базовая позиция: 45 градусов влево
 
 function modelPanel:LayoutEntity(ent)
     if not IsValid(ent) then return end
     
-    -- Вращаем только если не тащим мышкой
-    if not self.isDragging then
+    -- Получаем значение конвара
+    local autoRotate = GetConVar("netricsa_auto_rotate"):GetBool()
+    
+    -- Вращаем только если включено авто-вращение и не тащим мышкой
+    if autoRotate and not self.isDragging then
         ent:SetAngles(Angle(0, RealTime() * 30 % 360, 0))
-    else
-        -- Сохраняем последние углы при перетаскивании
-        self.lastAngles = ent:GetAngles()
+    elseif not self.isDragging then
+        -- Если авто-вращение выключено, используем базовый угол
+        ent:SetAngles(self.baseAngle)
     end
     
     self:RunAnimation()
@@ -275,20 +278,41 @@ function modelPanel:OnMousePressed(mouseCode)
         if IsValid(ent) then
             self.dragStartAngles = ent:GetAngles()
         else
-            self.dragStartAngles = Angle(0, 0, 0)
+            self.dragStartAngles = self.baseAngle
         end
         
         self:SetCursor("sizeall")
         self:MouseCapture(true)
         return true
     end
-
-if mouseCode == MOUSE_WHEEL_UP or mouseCode == MOUSE_WHEEL_DOWN then
-    return true -- Блокируем прокрутку родительских панелей
+    
+    -- Блокируем прокрутку колесика в родительских панелях
+    if mouseCode == MOUSE_WHEEL_UP or mouseCode == MOUSE_WHEEL_DOWN then
+        return true
+    end
 end
 
+function modelPanel:OnMouseReleased(mouseCode)
+    if mouseCode == MOUSE_LEFT and self.isDragging then
+        self.isDragging = false
+        
+        -- Если авто-вращение выключено, возвращаем к базовому углу
+        local autoRotate = GetConVar("netricsa_auto_rotate"):GetBool()
+        if not autoRotate then
+            local ent = self:GetEntity()
+            if IsValid(ent) then
+                ent:SetAngles(self.baseAngle)
+            end
+        end
+        
+        self:SetCursor("arrow")
+        self:MouseCapture(false)
+        return true
+    end
+end
 
 function modelPanel:OnMouseWheeled(delta)
+    -- Приближение/отдаление колёсиком мыши
     local curFOV = self:GetFOV()
     local newFOV = curFOV - delta * 5 -- 5 - скорость зума
     
@@ -297,16 +321,6 @@ function modelPanel:OnMouseWheeled(delta)
     
     self:SetFOV(newFOV)
     return true
-end
-end
-
-function modelPanel:OnMouseReleased(mouseCode)
-    if mouseCode == MOUSE_LEFT and self.isDragging then
-        self.isDragging = false
-        self:SetCursor("arrow")
-        self:MouseCapture(false)
-        return true
-    end
 end
 
 function modelPanel:Think()
@@ -318,7 +332,7 @@ function modelPanel:Think()
         local ent = self:GetEntity()
         if IsValid(ent) then
             local newAng = Angle(
-                math.Clamp(self.dragStartAngles.p + dy * 0.5, -90, 90),  -- Изменено: + вместо -
+                math.Clamp(self.dragStartAngles.p + dy * 0.5, -90, 90),
                 self.dragStartAngles.y + dx * 0.5,
                 0
             )
@@ -539,7 +553,7 @@ end
                 surface.DrawTexturedRect(0, 0, w, h)
             end
 
-           local modelPanel = vgui.Create("DModelPanel", modelBackground)
+local modelPanel = vgui.Create("DModelPanel", modelBackground)
 modelPanel:Dock(FILL)
 modelPanel:SetFOV(40)
 modelPanel:SetCamPos(Vector(100, 0, 60))
@@ -547,20 +561,23 @@ modelPanel:SetLookAt(Vector(0, 0, 40))
 
 -- Новые переменные для вращения мышью
 modelPanel.isDragging = false
-modelPanel.lastAngles = Angle(0, 0, 0)
 modelPanel.dragStartX = 0
 modelPanel.dragStartY = 0
 modelPanel.dragStartAngles = Angle(0, 0, 0)
+modelPanel.baseAngle = Angle(0, 145, 0) -- Базовая позиция: 45 градусов влево
 
 function modelPanel:LayoutEntity(ent)
     if not IsValid(ent) then return end
     
-    -- Вращаем только если не тащим мышкой
-    if not self.isDragging then
+    -- Получаем значение конвара
+    local autoRotate = GetConVar("netricsa_auto_rotate"):GetBool()
+    
+    -- Вращаем только если включено авто-вращение и не тащим мышкой
+    if autoRotate and not self.isDragging then
         ent:SetAngles(Angle(0, RealTime() * 30 % 360, 0))
-    else
-        -- Сохраняем последние углы при перетаскивании
-        self.lastAngles = ent:GetAngles()
+    elseif not self.isDragging then
+        -- Если авто-вращение выключено, используем базовый угол
+        ent:SetAngles(self.baseAngle)
     end
     
     self:RunAnimation()
@@ -576,20 +593,41 @@ function modelPanel:OnMousePressed(mouseCode)
         if IsValid(ent) then
             self.dragStartAngles = ent:GetAngles()
         else
-            self.dragStartAngles = Angle(0, 0, 0)
+            self.dragStartAngles = self.baseAngle
         end
         
         self:SetCursor("sizeall")
         self:MouseCapture(true)
         return true
     end
-
-if mouseCode == MOUSE_WHEEL_UP or mouseCode == MOUSE_WHEEL_DOWN then
-    return true -- Блокируем прокрутку родительских панелей
+    
+    -- Блокируем прокрутку колесика в родительских панелях
+    if mouseCode == MOUSE_WHEEL_UP or mouseCode == MOUSE_WHEEL_DOWN then
+        return true
+    end
 end
 
+function modelPanel:OnMouseReleased(mouseCode)
+    if mouseCode == MOUSE_LEFT and self.isDragging then
+        self.isDragging = false
+        
+        -- Если авто-вращение выключено, возвращаем к базовому углу
+        local autoRotate = GetConVar("netricsa_auto_rotate"):GetBool()
+        if not autoRotate then
+            local ent = self:GetEntity()
+            if IsValid(ent) then
+                ent:SetAngles(self.baseAngle)
+            end
+        end
+        
+        self:SetCursor("arrow")
+        self:MouseCapture(false)
+        return true
+    end
+end
 
 function modelPanel:OnMouseWheeled(delta)
+    -- Приближение/отдаление колёсиком мыши
     local curFOV = self:GetFOV()
     local newFOV = curFOV - delta * 5 -- 5 - скорость зума
     
@@ -598,16 +636,6 @@ function modelPanel:OnMouseWheeled(delta)
     
     self:SetFOV(newFOV)
     return true
-end
-end
-
-function modelPanel:OnMouseReleased(mouseCode)
-    if mouseCode == MOUSE_LEFT and self.isDragging then
-        self.isDragging = false
-        self:SetCursor("arrow")
-        self:MouseCapture(false)
-        return true
-    end
 end
 
 function modelPanel:Think()
@@ -619,7 +647,7 @@ function modelPanel:Think()
         local ent = self:GetEntity()
         if IsValid(ent) then
             local newAng = Angle(
-                math.Clamp(self.dragStartAngles.p + dy * 0.5, -90, 90),  -- Изменено: + вместо -
+                math.Clamp(self.dragStartAngles.p + dy * 0.5, -90, 90),
                 self.dragStartAngles.y + dx * 0.5,
                 0
             )

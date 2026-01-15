@@ -43,7 +43,11 @@ if CLIENT then
 
                 -- 🔹 VERSION
                 version             = "NETRICSA v2.01",
-                score               = "SCORE"
+                score               = "SCORE",
+
+                -- НОВЫЕ ПЕРЕВОДЫ
+                auto_rotate_help    = "Automatic rotation of models",
+                auto_rotate_label   = "Auto-rotate NPC and weapon models"
             }
         },
 
@@ -84,7 +88,11 @@ if CLIENT then
 
                 -- 🔹 ПЕРЕВОД ВЕРСИИ
                 version             = "ИНЕРТАН v2.01",
-                score               = "СЧЁТ"
+                score               = "СЧЁТ",
+
+                -- НОВЫЕ ПЕРЕВОДЫ
+                auto_rotate_help    = "Автоматическое вращение моделей",
+                auto_rotate_label   = "Авто-вращение моделей NPC и оружия"
             }
         }
     }
