@@ -249,7 +249,7 @@ modelPanel.isDragging = false
 modelPanel.dragStartX = 0
 modelPanel.dragStartY = 0
 modelPanel.dragStartAngles = Angle(0, 0, 0)
-modelPanel.baseAngle = Angle(0, -13, 0) -- Базовая позиция: 45 градусов влево
+modelPanel.baseAngle = Angle(0, 50, 0) -- Базовая позиция: 45 градусов влево
 
 function modelPanel:LayoutEntity(ent)
     if not IsValid(ent) then return end
@@ -375,35 +375,46 @@ end
                             ent:SetBodygroup(i-1, bg)
                         end
                     end
-                    -- Правильный выбор анимации: ACT_FLY → ACT_WALK → ACT_RUN → ACT_IDLE
-                    local seq = ent:SelectWeightedSequence(ACT_FLY) or ent:LookupSequence("fly")
-                    if seq <= 0 then
-                        seq = ent:SelectWeightedSequence(ACT_WALK) or ent:LookupSequence("walk")
-                    end
-                    if seq <= 0 then
-                        seq = ent:SelectWeightedSequence(ACT_RUN) or ent:LookupSequence("run")
-                    end
-                    if seq <= 0 then
-                        seq = ent:SelectWeightedSequence(ACT_IDLE) or ent:LookupSequence("idle")
-                    end
 
-                    if seq > 0 then
-                        ent:ResetSequence(seq)
-                    else
-                        -- Если ничего не найдено, используем первую анимацию (кроме ragdoll и meltfly)
-                        local ragdollSeq = ent:LookupSequence("ragdoll")
-                        local meltflySeq = ent:LookupSequence("meltfly")
-                        local sequenceCount = ent:GetSequenceCount() or 0
+-- Проверка на особые анимации
+        local specialAnim = SPECIAL_ANIMATIONS[npcClass]
+        local seq = -1
+        
+        if specialAnim then
+            seq = ent:LookupSequence(specialAnim.sequence) or ent:LookupSequence(specialAnim.fallback)
+        end
+        
+        -- Если не нашли специальную анимацию, используем стандартную логику
+        if seq <= 0 then
+            seq = ent:SelectWeightedSequence(ACT_FLY) or ent:LookupSequence("fly")
+            if seq <= 0 then
+                seq = ent:SelectWeightedSequence(ACT_WALK) or ent:LookupSequence("walk")
+            end
+            if seq <= 0 then
+                seq = ent:SelectWeightedSequence(ACT_RUN) or ent:LookupSequence("run")
+            end
+            if seq <= 0 then
+                seq = ent:SelectWeightedSequence(ACT_IDLE) or ent:LookupSequence("idle")
+            end
+        end
+        
+        if seq > 0 then
+            ent:ResetSequence(seq)
+        else
+            -- Фолбэк логика
+            local ragdollSeq = ent:LookupSequence("ragdoll")
+            local meltflySeq = ent:LookupSequence("meltfly")
+            local sequenceCount = ent:GetSequenceCount() or 0
 
-                        for i = 0, sequenceCount - 1 do
-                            if i ~= ragdollSeq and i ~= meltflySeq then
-                                seq = i
-                                break
-                            end
-                        end
-                        ent:ResetSequence(seq)
-                    end
+            for i = 0, sequenceCount - 1 do
+                if i ~= ragdollSeq and i ~= meltflySeq then
+                    seq = i
+                    break
                 end
+            end
+            ent:ResetSequence(seq)
+        end
+    end
                 local desc = NetricsaData.LoadDescription(npcClass) or "No data available."
                 NetricsaUtils.SetAnimatedText(descBox, desc)
             end
@@ -561,23 +572,20 @@ modelPanel:SetLookAt(Vector(0, 0, 40))
 
 -- Новые переменные для вращения мышью
 modelPanel.isDragging = false
+modelPanel.lastAngles = Angle(0, 0, 0)
 modelPanel.dragStartX = 0
 modelPanel.dragStartY = 0
 modelPanel.dragStartAngles = Angle(0, 0, 0)
-modelPanel.baseAngle = Angle(0, 145, 0) -- Базовая позиция: 45 градусов влево
 
 function modelPanel:LayoutEntity(ent)
     if not IsValid(ent) then return end
     
-    -- Получаем значение конвара
-    local autoRotate = GetConVar("netricsa_auto_rotate"):GetBool()
-    
-    -- Вращаем только если включено авто-вращение и не тащим мышкой
-    if autoRotate and not self.isDragging then
+    -- Вращаем только если не тащим мышкой
+    if not self.isDragging then
         ent:SetAngles(Angle(0, RealTime() * 30 % 360, 0))
-    elseif not self.isDragging then
-        -- Если авто-вращение выключено, используем базовый угол
-        ent:SetAngles(self.baseAngle)
+    else
+        -- Сохраняем последние углы при перетаскивании
+        self.lastAngles = ent:GetAngles()
     end
     
     self:RunAnimation()
@@ -593,41 +601,20 @@ function modelPanel:OnMousePressed(mouseCode)
         if IsValid(ent) then
             self.dragStartAngles = ent:GetAngles()
         else
-            self.dragStartAngles = self.baseAngle
+            self.dragStartAngles = Angle(0, 0, 0)
         end
         
         self:SetCursor("sizeall")
         self:MouseCapture(true)
         return true
     end
-    
-    -- Блокируем прокрутку колесика в родительских панелях
-    if mouseCode == MOUSE_WHEEL_UP or mouseCode == MOUSE_WHEEL_DOWN then
-        return true
-    end
+
+if mouseCode == MOUSE_WHEEL_UP or mouseCode == MOUSE_WHEEL_DOWN then
+    return true -- Блокируем прокрутку родительских панелей
 end
 
-function modelPanel:OnMouseReleased(mouseCode)
-    if mouseCode == MOUSE_LEFT and self.isDragging then
-        self.isDragging = false
-        
-        -- Если авто-вращение выключено, возвращаем к базовому углу
-        local autoRotate = GetConVar("netricsa_auto_rotate"):GetBool()
-        if not autoRotate then
-            local ent = self:GetEntity()
-            if IsValid(ent) then
-                ent:SetAngles(self.baseAngle)
-            end
-        end
-        
-        self:SetCursor("arrow")
-        self:MouseCapture(false)
-        return true
-    end
-end
 
 function modelPanel:OnMouseWheeled(delta)
-    -- Приближение/отдаление колёсиком мыши
     local curFOV = self:GetFOV()
     local newFOV = curFOV - delta * 5 -- 5 - скорость зума
     
@@ -636,6 +623,16 @@ function modelPanel:OnMouseWheeled(delta)
     
     self:SetFOV(newFOV)
     return true
+end
+end
+
+function modelPanel:OnMouseReleased(mouseCode)
+    if mouseCode == MOUSE_LEFT and self.isDragging then
+        self.isDragging = false
+        self:SetCursor("arrow")
+        self:MouseCapture(false)
+        return true
+    end
 end
 
 function modelPanel:Think()
@@ -647,7 +644,7 @@ function modelPanel:Think()
         local ent = self:GetEntity()
         if IsValid(ent) then
             local newAng = Angle(
-                math.Clamp(self.dragStartAngles.p + dy * 0.5, -90, 90),
+                math.Clamp(self.dragStartAngles.p + dy * 0.5, -90, 90),  -- Изменено: + вместо -
                 self.dragStartAngles.y + dx * 0.5,
                 0
             )
@@ -655,7 +652,6 @@ function modelPanel:Think()
         end
     end
 end
-
             local textPanel = vgui.Create("DPanel", bottomPanel)
             NetricsaUtils.NoBG(textPanel)
             textPanel:Dock(FILL)

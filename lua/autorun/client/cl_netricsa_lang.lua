@@ -47,7 +47,7 @@ if CLIENT then
 
                 -- НОВЫЕ ПЕРЕВОДЫ
                 auto_rotate_help    = "Automatic rotation of models",
-                auto_rotate_label   = "Auto-rotate NPC and weapon models"
+                auto_rotate_label   = "Auto-rotate NPC models"
             }
         },
 
@@ -92,7 +92,7 @@ if CLIENT then
 
                 -- НОВЫЕ ПЕРЕВОДЫ
                 auto_rotate_help    = "Автоматическое вращение моделей",
-                auto_rotate_label   = "Авто-вращение моделей NPC и оружия"
+                auto_rotate_label   = "Авто-вращение моделей NPC"
             }
         }
     }

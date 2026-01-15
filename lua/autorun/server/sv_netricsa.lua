@@ -586,7 +586,7 @@ end)
         ["obj_ss3_spider_egg"] = true,
         ["npc_vj_hlrdc_xen_tree"] = true,
         ["npc_vj_ssc_spaceship"] = true,
-
+        ["npc_vj_ssc_summoner"] = true,
     }
 
     local function AnnounceSpecialNPC(ent)
