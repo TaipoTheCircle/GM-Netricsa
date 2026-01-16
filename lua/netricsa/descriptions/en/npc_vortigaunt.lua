@@ -13,7 +13,7 @@ THREAT:     high
 
 DESCRIPTION:
 
-After the fall of the Nihilanth, the Vortigaunts were freed from psychic enslavement. Many fled to Earth, where they joined humanity's Resistance against the Combine. Philosophical and deeply spiritual, they revere the "Vortessence," a shared psionic field that connects their kind. They appear as allies-healing the wounded and even wielding their lightning against Combine soldiers and antlions. Once enemies, they are now trusted companions.
+After the fall of the Nihilanth, the Vortigaunts were freed from psychic enslavement. Many fled to Earth, where they joined humanity's Resistance against the Combine. Philosophical and deeply spiritual, they revere the "Vortessence", a shared psionic field that connects their kind. They appear as allies-healing the wounded and even wielding their lightning against Combine soldiers and antlions. Once enemies, they are now trusted companions.
 
 TIPS:
 

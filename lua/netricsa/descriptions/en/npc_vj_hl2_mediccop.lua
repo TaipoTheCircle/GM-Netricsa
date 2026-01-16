@@ -7,7 +7,7 @@ PERCEPTION: Suppression Support Personnel
 SIZE:       5,9 ft
 ENDURANCE:  Medium
 HOSTILITY:  Low
-WEAPONS:    Pistol, stun baton, submachine gun, medical supplies.
+WEAPONS:    Pistol, stun Stun-Stick, submachine gun, medical supplies.
 REWARD:     450 FC
 THREAT:     Low
 

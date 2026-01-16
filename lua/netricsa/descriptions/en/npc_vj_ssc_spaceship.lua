@@ -19,7 +19,7 @@ Shortly after the Sirians learned of Mental's attack on Sirius, the survivors to
 
 The Sirians created another ship after you failed to live up to expectations and lost the first one, crashing it during a mission, but now it's aimed at eliminating you.
 
-For the Sirians, this wasn't just some "accident," but an insult to their technology.
+For the Sirians, this wasn't just some "accident", but an insult to their technology.
 
 TIPS:
 

@@ -17,7 +17,7 @@ The primary multi-role helicopter of the Krieger forces. Used for patrols, rapid
 
 The evil Stone Face has captured a Krieger mercenary UH-60 patrol helicopter. The Unpaid Moai's Wrath is at its height - this flying stone head is even more dangerous. It patrols key points across the archipelago, futilely demanding its wages, and attacks anyone in sight, be they mercenaries, Trigens, or Jack.
 
-The Moai's head is built into the machine gunner's position, its stone mass serving as armor and structural reinforcement. The M134 turret on the left side is controlled by the idol's magical "sight," firing with monstrous accuracy and speed. It is the embodiment of ancient wrath fused with modern military technology.
+The Moai's head is built into the machine gunner's position, its stone mass serving as armor and structural reinforcement. The M134 turret on the left side is controlled by the idol's magical "sight", firing with monstrous accuracy and speed. It is the embodiment of ancient wrath fused with modern military technology.
 
 TIPS:
 

@@ -17,7 +17,7 @@ Big-Heads are thin humanoids with exaggerated skulls containing the brains of Cr
 
 Dean Sekulic is one of those hidden titans whose technical genius made the world of Serious Sam shine and flow smoothly even during the most intense moments of battles with thousands of enemies. His exaggerated cranium is a direct result of his deep immersion in the renderer architecture and the endless battle for optimization. As the lead programmer and rendering designer at Croteam since the first game, he was key to the creation of Serious Engine 2 for Serious Sam 2 (2005), where his efforts included the implementation of cutting-edge technologies such as HDR, bloom, parallax mapping, and a complex shadow system based on shadow buffers.
 
-His pragmatic and witty approach to development - "I don't buy the PR bullshit that NVidia and ATI spew" - has become legendary among game tech enthusiasts. A master of optimization, Dean believed that players wanted a game that "runs and plays well," not a slow demo of the latest features. His contributions to the series, right up until his work on Serious Sam 4 (2020), ensured the series' signature, vibrant, and insanely dynamic visual style that has endured for years.
+His pragmatic and witty approach to development - "I don't buy the PR bullshit that NVidia and ATI spew" - has become legendary among game tech enthusiasts. A master of optimization, Dean believed that players wanted a game that "runs and plays well", not a slow demo of the latest features. His contributions to the series, right up until his work on Serious Sam 4 (2020), ensured the series' signature, vibrant, and insanely dynamic visual style that has endured for years.
 
 TIPS:
 

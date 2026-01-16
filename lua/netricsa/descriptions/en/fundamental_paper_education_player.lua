@@ -13,7 +13,7 @@ THREAT:     Catastrophic
 
 DESCRIPTION:
 
-Anomaly in the Paper School system - a student who has gained access to hidden console commands and a cheat menu. Upon "death," he does not die, but reboots or continues to act with full health. After activating cheats, his sole goal is the systematic destruction of the entire faculty and, possibly, the school itself. He has the ability to instantly kill and inflict any effects on himself. He is the embodiment of absolute chaos within the school's order.
+Anomaly in the Paper School system - a student who has gained access to hidden console commands and a cheat menu. Upon "death", he does not die, but reboots or continues to act with full health. After activating cheats, his sole goal is the systematic destruction of the entire faculty and, possibly, the school itself. He has the ability to instantly kill and inflict any effects on himself. He is the embodiment of absolute chaos within the school's order.
 
 TIPS:
 

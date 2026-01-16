@@ -7,7 +7,7 @@ PERCEPTION: Enhanced optics + encrypted comms
 SIZE:       6-6.3 ft
 ENDURANCE:  Medium-High
 HOSTILITY:  High
-WEAPONS:    Stun Baton, 9mm Pistol, SMG1, Explosive Barrels, Manhack
+WEAPONS:    Stun Stun-Stick, 9mm Pistol, SMG1, Explosive Barrels, Manhack
 REWARD:     350 FC
 THREAT:     Medium-High
 

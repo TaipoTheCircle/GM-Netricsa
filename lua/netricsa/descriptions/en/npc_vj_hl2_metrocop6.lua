@@ -7,7 +7,7 @@ PERCEPTION: Standard (mask visor + radio)
 SIZE:       9 ft
 ENDURANCE:  High
 HOSTILITY:  High
-WEAPONS:    Tactical shield, stun baton
+WEAPONS:    Tactical shield, stun Stun-Stick
 REWARD:     350 FC
 THREAT:     Medium
 

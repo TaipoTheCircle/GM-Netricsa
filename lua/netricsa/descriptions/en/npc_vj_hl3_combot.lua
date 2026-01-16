@@ -17,7 +17,7 @@ The Combot is an early experimental version of the Combine City Scanner, designe
 
 Combots resembled compact flying drones with a movable camera "EYE" and three deployable target spikes. These mechanical "stingers" could deploy when threatened, forming a weapon capable of emitting poisonous gas or fire from nozzles on the sides of the drone, protecting the drone itself or creating a barrier for other Combine units.
 
-They not only observe but also intervene when threats are detected, and even speak to citizens with prerecorded phrases such as "Hands on your head" or "Present your ID," reflecting the Combine's ambitions for population control.
+They not only observe but also intervene when threats are detected, and even speak to citizens with prerecorded phrases such as "Hands on your head" or "Present your ID", reflecting the Combine's ambitions for population control.
 
 TIPS:
 

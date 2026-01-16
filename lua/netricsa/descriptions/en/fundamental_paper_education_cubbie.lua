@@ -13,7 +13,7 @@ THREAT:     None
 
 DESCRIPTION:
 
-One of the most unusual students at Paper School, Cubby is an anthropomorphic black cat whose body is a large pencil sharpener. His tail is a long, curved shaving, and his head hovers above his "torso," on which rests an open book. He has large, expressive eyes. Personality-wise, he's a typical nerd: friendly but prefers to keep a low profile, immersed in his studies or his own thoughts. He's often found alongside his friend Kevin. He doesn't participate in conflicts, preferring to remain an observer. Like all paper creatures, he's extremely vulnerable to physical harm.
+One of the most unusual students at Paper School, Cubby is an anthropomorphic black cat whose body is a large pencil sharpener. His tail is a long, curved shaving, and his head hovers above his "torso", on which rests an open book. He has large, expressive eyes. Personality-wise, he's a typical nerd: friendly but prefers to keep a low profile, immersed in his studies or his own thoughts. He's often found alongside his friend Kevin. He doesn't participate in conflicts, preferring to remain an observer. Like all paper creatures, he's extremely vulnerable to physical harm.
 
 TIPS:
 

@@ -1,11 +1,53 @@
 if CLIENT then
 
+-- Глобальная переменная для курсора
+NetricsaCursorMaterial = nil
+
+-- Функция загрузки курсора
+local function LoadNetricsaCursor()
+    if not NetricsaStyle or not NetricsaStyle.cursor then 
+        NetricsaCursorMaterial = nil
+        print("[Netricsa] No cursor defined in current style")
+        return
+    end
+    
+    print("[Netricsa] Loading cursor: " .. NetricsaStyle.cursor)
+    NetricsaCursorMaterial = Material(NetricsaStyle.cursor)
+    
+    if not NetricsaCursorMaterial or NetricsaCursorMaterial:IsError() then
+        print("[Netricsa] FAILED to load cursor: " .. NetricsaStyle.cursor)
+        NetricsaCursorMaterial = nil
+    else
+        print("[Netricsa] Cursor loaded successfully: " .. 
+              NetricsaStyle.cursor .. " (" .. 
+              (NetricsaCursorMaterial:Width() or 0) .. "x" .. 
+              (NetricsaCursorMaterial:Height() or 0) .. ")")
+    end
+end
+
+-- Загружаем при старте
+hook.Add("InitPostEntity", "Netricsa_InitCursor", function()
+    timer.Simple(2, function()
+        LoadNetricsaCursor()
+    end)
+end)
+
+-- Перезагружаем при смене стиля
+local originalSetNetricsaStyle = SetNetricsaStyle
+function SetNetricsaStyle(name)
+    originalSetNetricsaStyle(name)
+    
+    timer.Simple(0.1, function()
+        LoadNetricsaCursor()
+    end)
+end
+
     if not NetricsaMain then
         NetricsaMain = {}
         print("[Netricsa] NetricsaMain initialized in hooks")
     end
     
-        net.Receive("Netricsa_AddScoreForNPC", function()
+    net.Receive("Netricsa_AddScoreForNPC", function()
         local npcClass = net.ReadString()
         local score = NetricsaData.GetNPCScore(npcClass)
         
@@ -58,7 +100,7 @@ if CLIENT then
     -- HUD L("ui","scanning")
     -- =======================
 
- hook.Add("HUDPaint", "NetricsaScoreIcon", function()
+    hook.Add("HUDPaint", "NetricsaScoreIcon", function()
         if not NetricsaStyle or not NetricsaStyle.score then return end
         
         local totalScore = NetricsaData.GetTotalScore() or 0
@@ -165,28 +207,28 @@ if CLIENT then
         end)
     end)
 
-    if CLIENT then
-        local SamVoicePlayed = false  -- флаг, чтобы не повторялся звук
+    local SamVoicePlayed = false  -- флаг, чтобы не повторялся звук
 
-        hook.Add("OnNetricsaClosed", "SAM_MAP_VOICES_ClientTrigger", function()
-            if SamVoicePlayed then
-                print("[Sam Map Voices] Звук уже был воспроизведён ранее - пропуск.")
-                return
-            end
+    hook.Add("OnNetricsaClosed", "SAM_MAP_VOICES_ClientTrigger", function()
+        if SamVoicePlayed then
+            print("[Sam Map Voices] Звук уже был воспроизведён ранее - пропуск.")
+            return
+        end
 
-            local ply = LocalPlayer()
-            if not IsValid(ply) then return end
+        local ply = LocalPlayer()
+        if not IsValid(ply) then return end
 
-            SamVoicePlayed = true  -- помечаем, что уже проиграли звук
-            RunConsoleCommand("sam_play_map_voice")
+        SamVoicePlayed = true  -- помечаем, что уже проиграли звук
+        RunConsoleCommand("sam_play_map_voice")
 
-            print("[Sam Map Voices] Клиент запросил воспроизведение звука при закрытии Нетриксы")
-        end)
+        print("[Sam Map Voices] Клиент запросил воспроизведение звука при закрытии Нетриксы")
+    end)
 
+    -- сброс флага при загрузке новой карты
         -- сброс флага при загрузке новой карты
-        hook.Add("InitPostEntity", "SAM_MAP_VOICES_ResetAfterMapChange", function()
-            SamVoicePlayed = false
-            print("[Sam Map Voices] Флаг воспроизведения сброшен (новая карта)")
-        end)
-    end
+    hook.Add("InitPostEntity", "SAM_MAP_VOICES_ResetAfterMapChange", function()
+        SamVoicePlayed = false
+        print("[Sam Map Voices] Флаг воспроизведения сброшен (новая карта)")
+    end)
+
 end
