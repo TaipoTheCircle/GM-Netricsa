@@ -21,7 +21,7 @@ After decapitation, his nervous system was crudely rewired via the LCU, and his 
 
 When a Chainsawer detects a target, it accelerates sharply, as if someone had just turned the throttle all the way to the floor, making it nearly impossible to escape.
 
-Groups of Chainsawer are especially dangerous. When grouped together, they transform into a moving tornado of blades, blood, and the screeching of engines—a veritable hurricane of death that crushes everything in its path, including cover and Mental's allies.
+Groups of Chainsawer are especially dangerous. When grouped together, they transform into a moving tornado of blades, blood, and the screeching of engines-a veritable hurricane of death that crushes everything in its path, including cover and Mental's allies.
 
 TIPS:
 

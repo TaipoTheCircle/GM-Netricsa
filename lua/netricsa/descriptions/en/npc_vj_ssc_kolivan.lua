@@ -13,9 +13,9 @@ THREAT:     Average
 
 DESCRIPTION:
 
-Kolyvan is a noble and wealthy merchant from the times of Kievan Rus, a man who managed to lose literally everything, including himself. In yet another gambling gamble, he put his own freedom on the line—and, of course, lost. His opponent was Mental. Thus, Kolyvan became part of Mental's Horde, the first merchant in history to sell his soul directly.
+Kolyvan is a noble and wealthy merchant from the times of Kievan Rus, a man who managed to lose literally everything, including himself. In yet another gambling gamble, he put his own freedom on the line-and, of course, lost. His opponent was Mental. Thus, Kolyvan became part of Mental's Horde, the first merchant in history to sell his soul directly.
 
-While retaining his outward appearance—his height, plumpness, long-sleeved green robes, red boots, and cap—Kolyvan's inner being changed little. Greed, cunning, and cowardice remained, but now reinforced by an alien power. As a reward for his service, Mental endowed him with rocket launchers and the ability to summon two Sirian werebulls. This ability is activated strictly by a voice command, pronounced with particular pathos:
+While retaining his outward appearance-his height, plumpness, long-sleeved green robes, red boots, and cap-Kolyvan's inner being changed little. Greed, cunning, and cowardice remained, but now reinforced by an alien power. As a reward for his service, Mental endowed him with rocket launchers and the ability to summon two Sirian werebulls. This ability is activated strictly by a voice command, pronounced with particular pathos:
 
 "And now, Hunchback!"
 
