@@ -16,6 +16,10 @@ SPECIAL_ANIMATIONS = {
         sequence = "Idle_Patrol", 
         fallback = "Idle"   
     },
+            ["npc_vj_ssc_grunt_improved"] = {
+        sequence = "Idle_Patrol", 
+        fallback = "Idle"   
+    },
         ["npc_vj_ssc_headman_bomberman_test1"] = {
         sequence = "Computer", 
         fallback = "Idle"   
@@ -85,7 +89,7 @@ SPECIAL_ANIMATIONS = {
         fallback = "Idle"    
     },
                                     ["npc_vj_ssc_kolivan"] = {
-        sequence = "Werebull_help", 
+        sequence = "computer", 
         fallback = "Idle"   
     },
                                     ["npc_vj_ssc_guffy"] = {
