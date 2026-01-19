@@ -13,8 +13,9 @@ THREAT:     low
 
 DESCRIPTION:
 
-An executed Sirian soldier, raised from the dead by Mental and remote controlled by Life Control Unit (LCU). 
-The Bomber carries his own head in one hand to receive audio/visual information and has a large supply of inflatable bombs in his pockets. 
+An executed Sirian soldier, raised from the dead by Mental and remote controlled by Life Control Unit (LCU).
+
+The Bomber carries his own head in one hand to receive audio / visual information and has a large supply of inflatable bombs in his pockets. 
 
 TIPS:
 

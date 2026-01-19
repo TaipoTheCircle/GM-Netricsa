@@ -587,6 +587,8 @@ end)
         ["npc_vj_hlrdc_xen_tree"] = true,
         ["npc_vj_ssc_spaceship"] = true,
         ["npc_vj_ssc_summoner"] = true,
+        ["npc_vj_ssc_airelemental"] = true,
+        ["npc_vj_tti_bigspongebob"] = true,
     }
 
     local function AnnounceSpecialNPC(ent)
