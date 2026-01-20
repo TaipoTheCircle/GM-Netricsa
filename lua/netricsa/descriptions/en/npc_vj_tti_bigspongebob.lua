@@ -8,7 +8,7 @@ SIZE:       ~2.5 m
 ENDURANCE:  Very high
 HOSTILITY:  Absolute
 WEAPONS:    Physical strength, grappling, meat grinder
-REWARD:     ??? FC
+REWARD:     100000 FC
 THREAT:     Critical
 
 DESCRIPTION:
