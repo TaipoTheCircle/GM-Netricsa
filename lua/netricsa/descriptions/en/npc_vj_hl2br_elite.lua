@@ -7,7 +7,7 @@ PERCEPTION: Combine Ground Operations
 SIZE:       5,9 ft
 ENDURANCE:  High
 HOSTILITY:  Extreme
-WEAPOON:    AR2 Pulse Rifle, Energy Grenades
+WEAPONS:    AR2 Pulse Rifle, Energy Grenades
 REWARD:     900 FC
 THREAT:     Very High
 
@@ -20,5 +20,5 @@ This soldier type is designed for medium and long range combat, combining accura
 TIPS:
 
 - Two red eyes make him highly visible in the dark, but also allow him to better react to player movement.
-- Energy grenades can knock you out of cover and incinerate you – don't stand still.
+- Energy grenades can knock you out of cover and incinerate you - don't stand still.
 - Stay behind cover and use long-range weapons to reduce the risk of close combat.

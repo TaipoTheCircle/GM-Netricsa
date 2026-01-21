@@ -19,7 +19,7 @@ Carries a large supply of grenades in his pockets.
 
 The woodland specimen constantly holds a second grenade in his off-hand, allowing him to explode upon death.
 
-He wears green, spotted camouflage, suitable for woodland environments. Judging by the condition of the uniform and the marks on the pants, the lower body was subjected to crude surgical treatment during resurrection – the reproductive organs are missing, indicating a complete loss of biological function and transformation into an expendable combat resource.
+He wears green, spotted camouflage, suitable for woodland environments. Judging by the condition of the uniform and the marks on the pants, the lower body was subjected to crude surgical treatment during resurrection - the reproductive organs are missing, indicating a complete loss of biological function and transformation into an expendable combat resource.
 
 They are actively used by Mental's forces in forests, thickets, and swampy areas, where the sudden appearance and explosive nature of their attacks are particularly effective.
 

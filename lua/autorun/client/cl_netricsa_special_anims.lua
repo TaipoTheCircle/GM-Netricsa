@@ -186,6 +186,10 @@ SPECIAL_ANIMATIONS = {
         sequence = "Kamikaze_attack2", 
         fallback = "Idle"   
     },
+                                                                            ["npc_vj_tti_skeleton"] = {
+        sequence = "skleton", 
+        fallback = "Idle"   
+    },
 }
 
 concommand.Add("netricsa_debug_anims", function(ply, cmd, args)
