@@ -186,7 +186,32 @@ SPECIAL_ANIMATIONS = {
         sequence = "Kamikaze_attack2", 
         fallback = "Idle"   
     },
-                                                                            ["npc_vj_tti_skeleton"] = {
+                                                                            ["npc_vj_tti_fish"] = {
+        sequence = "crazyfishr", 
+        fallback = "Idle"   
+    },
+                                                                                ["npc_vj_dragonguard"] = {
+        sequence = "pose_standing_02", 
+        fallback = "Idle"   
+    },
+                                                                                    ["npc_vj_imperial"] = {
+        sequence = "pose_standing_02", 
+        fallback = "Idle"   
+    },
+                                                                                    ["npc_vj_ob_guard"] = {
+        sequence = "pose_standing_02", 
+        fallback = "Idle"   
+    },
+                                                                                    ["npc_vj_palaceguardq"] = {
+        sequence = "pose_standing_02", 
+        fallback = "Idle"   
+    },
+
+                                                                                        ["npc_vj_royalguard"] = {
+        sequence = "pose_standing_02", 
+        fallback = "Idle"   
+    },
+                                                                                ["npc_vj_tti_skeleton"] = {
         sequence = "skleton", 
         fallback = "Idle"   
     },
