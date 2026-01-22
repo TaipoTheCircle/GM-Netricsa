@@ -17,7 +17,7 @@ The Combine Overwatch Heavy Elite Armored Soldier is a walking combat platform, 
 
 The suit completely covers the soldier's body, including the head. The helmet is sealed, leaving no vulnerable areas. The armor's structure clearly reveals mechanical components: servos, reinforced joints, armored plates, and power nodes.
 
-The exoskeleton significantly enhances the soldier's physical capabilities, allowing him to carry heavy weapons without sacrificing mobility. The AR2 is used for suppressive fire, while the OICW reduces cover and enemy concentrations to useless junk. This soldier doesn't seek advantageous positions—he creates them himself, advancing directly through the battlefield.
+The exoskeleton significantly enhances the soldier's physical capabilities, allowing him to carry heavy weapons without sacrificing mobility. The AR2 is used for suppressive fire, while the OICW reduces cover and enemy concentrations to useless junk. This soldier doesn't seek advantageous positions-he creates them himself, advancing directly through the battlefield.
 
 Despite its apparent invulnerability, the structure has a breaking point. A direct hit from an RPG destroys the exoskeleton, turning the elite vehicle into a pile of twisted metal.
 
