@@ -206,7 +206,10 @@ SPECIAL_ANIMATIONS = {
         sequence = "pose_standing_02", 
         fallback = "Idle"   
     },
-
+                                                                                    ["npc_vj_palaceguard"] = {
+        sequence = "pose_standing_02", 
+        fallback = "Idle"   
+    },
                                                                                         ["npc_vj_royalguard"] = {
         sequence = "pose_standing_02", 
         fallback = "Idle"   
