@@ -3,7 +3,7 @@ STROGG RAILGUN
 
 WEAPON: Strogg Railgun
 AMMO:   Slug rounds (depleted uranium)
-ROF:    ~37.5 rounds/min with cooldown between shots 
+ROF:    ~37.5 rounds / min with cooldown between shots 
 
 DESCRIPTION:
 

@@ -3,7 +3,7 @@ BERETTA M9 PISTOL
 
 Weapon:       Beretta M9
 Ammunition:   9x19 mm
-ROF:          15 rounds/min
+ROF:          15 rounds / min
 
 DESCRIPTION:
 

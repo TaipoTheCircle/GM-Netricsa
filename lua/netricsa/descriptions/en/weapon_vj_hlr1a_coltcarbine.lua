@@ -3,7 +3,7 @@ COLT M4A1 CARBINE
 
 WEAPON:      Colt M4A1 Carbine
 AMMO:        5.56x45mm NATO rounds + 40mm grenades
-ROF:         ~700 rounds/min
+ROF:         ~700 rounds / min
 
 DESCRIPTION:
 

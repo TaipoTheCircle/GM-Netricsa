@@ -3,7 +3,7 @@ AK-203 ASSAULT RIFLE
 
 WEAPON:      AK-203 assault rifle
 AMMUNITION:  7.62x39 mm
-ROF:         ~900 rounds/min
+ROF:         ~900 rounds / min
 
 DESCRIPTION:
 

@@ -3,7 +3,7 @@ AGS-30 AUTOMATIC GRENADE LAUNCHER
 
 WEAPON:      AGS-30
 AMMUNITION:  30 mm cartridges
-ROF:         ~400 rounds/min
+ROF:         ~400 rounds / min
 
 DESCRIPTION:
 

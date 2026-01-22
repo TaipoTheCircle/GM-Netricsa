@@ -3,7 +3,7 @@ OICW ASSAULT RIFLE
 
 WEAPON:      Objective Individual Combat Weapon (OICW)
 AMMO:        5.56x45mm rounds / 20mm grenades
-ROF:         ~650 rounds/min (primary), 1 grenade/2 sec (secondary)
+ROF:         ~650 rounds / min (primary), 1 grenade/2 sec (secondary)
 
 DESCRIPTION:
 

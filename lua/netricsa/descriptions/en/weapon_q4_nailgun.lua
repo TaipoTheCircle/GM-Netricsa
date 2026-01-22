@@ -3,7 +3,7 @@ NAILGUN
 
 WEAPON: Nailgun
 AMMO:   Nails
-ROF:    ~240 rounds/min
+ROF:    ~240 rounds / min
 
 DESCRIPTION:
 

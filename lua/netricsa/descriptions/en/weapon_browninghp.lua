@@ -3,7 +3,7 @@ BROWNING HI-POWER SELF-LOADING PISTOL
 
 WEAPON:     Browning Hi-Power
 AMMUNITION: .40 SW cartridges
-ROF:        ~30 rounds/min
+ROF:        ~30 rounds / min
 
 DESCRIPTION:
 

@@ -2,7 +2,7 @@ AKM
 
 WEAPON:     AKM
 AMMUNITION: 7.62x39
-ROF:        ~600 rounds/min
+ROF:        ~600 rounds / min
 
 Description:
 

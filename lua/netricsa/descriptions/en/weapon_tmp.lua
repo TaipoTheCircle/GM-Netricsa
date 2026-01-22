@@ -3,7 +3,7 @@ STEYR TMP SUBMACHINE GUN
 
 WEAPON:      Steyr TMP
 AMMUNITION   9x19 mm cartridges 
-ROF:         ~850 rounds/min
+ROF:         ~850 rounds / min
 
 DESCRIPTION:
 

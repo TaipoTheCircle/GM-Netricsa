@@ -3,7 +3,7 @@ COLT 9MM SMG SUBMACHINE GUN
 
 WEAPON:     Colt 9mm SMG
 AMMUNITION: 9x19 cartridges
-ROF:        ~20 rounds/min
+ROF:        ~20 rounds / min
 
 DESCRIPTION:
 

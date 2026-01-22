@@ -3,7 +3,7 @@ SLUG CAT
 
 WEAPON:      Slug Cat
 AMMUNITION   14.5x144mm cartridges
-ROF:         ~9999 rounds/min
+ROF:         ~9999 rounds / min
 
 DESCRIPTION:
 

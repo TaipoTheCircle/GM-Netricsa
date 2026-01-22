@@ -3,7 +3,7 @@ TEC-9 SELF-LOADING PISTOL
 
 WEAPON:      Intratec TEC-DC9
 AMMUNITION   9x19 cartridges
-ROF:         ~20 rounds/min
+ROF:         ~20 rounds / min
 
 DESCRIPTION:
 

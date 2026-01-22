@@ -3,7 +3,7 @@ AR-15 SEMI-AUTOMATIC RIFLE
 
 WEAPON:     AR-15
 AMMUNITION: 5.56x45 mm
-ROF:        ~950 rounds/min
+ROF:        ~950 rounds / min
 
 DESCRIPTION:
 

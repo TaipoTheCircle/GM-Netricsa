@@ -3,7 +3,7 @@ WALTHER P22 PISTOL
 
 WEAPON:           Walther P22
 AMMUNITION        .22 LR
-ROF:              15 rounds/min
+ROF:              15 rounds / min
 
 DESCRIPTION:
 

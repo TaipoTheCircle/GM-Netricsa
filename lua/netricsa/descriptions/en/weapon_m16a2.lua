@@ -3,7 +3,7 @@ M16A2 ASSAULT RIFLE
 
 WEAPON:     Colt M16A2
 AMMUNITION: 5.56x45 mm NATO cartridges 
-ROF:        ~700 rounds/min
+ROF:        ~700 rounds / min
 
 DESCRIPTION:
 

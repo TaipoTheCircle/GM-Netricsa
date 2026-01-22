@@ -3,7 +3,7 @@ SIX-SEVEN SELF-LOADING PISTOL
 
 WEAPON:      FN Five-seveN
 AMMUNITION:  9x19 cartridges 
-ROF:         ~15 rounds/min
+ROF:         ~15 rounds / min
 
 DESCRIPTION:
 

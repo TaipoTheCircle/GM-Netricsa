@@ -3,7 +3,7 @@ HK MP7 SUBMACHINE GUN
 
 WEAPON: HK MP7
 AMMO:   4.6x30 mm
-ROF:    950 rounds/min
+ROF:    950 rounds / min
 WEIGHT: 1.9 kg 
 LENGTH: 415 mm
 

@@ -3,7 +3,7 @@ IMI UZI SUBMACHINE GUN
 
 WEAPON:     IMI UZI
 AMMUNITION: 9×19 mm Parabellum cartridges
-ROF:        ~600 rounds/min
+ROF:        ~600 rounds / min
 
 DESCRIPTION:
 

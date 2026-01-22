@@ -3,7 +3,7 @@ SMG1 SUBMACHINE GUN (MP7)
 
 WEAPON:      SMG1
 AMMO:        9x19mm rounds + secondary grenades
-ROF:         ~750 rounds/min (primary), 1 grenade/sec (secondary)
+ROF:         ~750 rounds / min (primary), 1 grenade/sec (secondary)
 
 DESCRIPTION:
 

@@ -3,7 +3,7 @@ DESERT EAGLE LARGE-CALIBER SEMI-AUTOMATIC PISTOL
 
 WEAPON:      Desert Eagle
 AMMUNITION:  .50 Action Express cartridges
-ROF:         ~20 rounds/min
+ROF:         ~20 rounds / min
 
 DESCRIPTION:
 

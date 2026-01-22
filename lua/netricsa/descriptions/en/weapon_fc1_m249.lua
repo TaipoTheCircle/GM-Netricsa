@@ -3,7 +3,7 @@ M249 SAW
 
 WEAPON:      M249 SAW (Squad Automatic Weapon)
 AMMO:        5.56x45mm NATO belt-fed
-ROF:         ~750 rounds/min
+ROF:         ~750 rounds / min
 
 DESCRIPTION:
 

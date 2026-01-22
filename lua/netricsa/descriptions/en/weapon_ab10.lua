@@ -3,7 +3,7 @@ AB-10 SELF-LOADING PISTOL
 
 WEAPON:      AB-10
 AMMUNITION:  9x19 cartridges
-ROF:         ~20 rounds/min
+ROF:         ~20 rounds / min
 
 DESCRIPTION:
 

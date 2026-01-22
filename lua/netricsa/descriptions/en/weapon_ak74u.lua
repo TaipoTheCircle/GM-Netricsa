@@ -3,7 +3,7 @@ AKS-74U
 
 WEAPON:     AKS-74U
 AMMUNITION: 5.45x39 mm
-ROF:        700 rounds/min
+ROF:        700 rounds / min
 
 DESCRIPTION:
 

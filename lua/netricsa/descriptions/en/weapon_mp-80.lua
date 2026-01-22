@@ -3,7 +3,7 @@ MR-80-13T TRAUMATIC PISTOL
 
 WEAPON:     MR-80-13T
 AMMUNITION: .45 Rubber cartridges
-ROF:        ~20 rounds/min
+ROF:        ~20 rounds / min
 
 DESCRIPTION:
 

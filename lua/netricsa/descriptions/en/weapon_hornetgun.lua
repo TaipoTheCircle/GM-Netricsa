@@ -3,7 +3,7 @@ HIVEHAND
 
 WEAPON:      Hivehand (Alien Organic Weapon)
 AMMO:        Hornet larvae (self-replenishing)
-ROF:         Semi-automatic or full-auto, ~300 rounds/min
+ROF:         Semi-automatic or full-auto, ~300 rounds / min
 
 DESCRIPTION:
 

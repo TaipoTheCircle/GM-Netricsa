@@ -3,7 +3,7 @@ SCORPION VZ-61 SUBMACHINE GUN
 
 WEAPON:    Scorpion VZ-61
 AMMUNITION 7.65x17 MM
-ROF:       ~900 rounds/min
+ROF:       ~900 rounds / min
 
 DESCRIPTION:
 

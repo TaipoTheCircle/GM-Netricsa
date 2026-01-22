@@ -3,7 +3,7 @@ XL-808 PLASMA RIFLE
 
 WEAPON: XL-808 Plasma Rifle
 AMMO:   X8 Plasma Cells
-ROF:    ~400 rounds/min
+ROF:    ~400 rounds / min
 
 
 DESCRIPTION:

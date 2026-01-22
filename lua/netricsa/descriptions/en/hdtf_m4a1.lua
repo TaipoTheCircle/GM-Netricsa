@@ -3,7 +3,7 @@ M4A1 ASSAULT RIFLE
 
 WEAPON:      Colt M4A1
 AMMO:        5.56x45mm NATO rounds + 40mm grenades
-ROF:         ~700 rounds/min
+ROF:         ~700 rounds / min
 
 DESCRIPTION:
 

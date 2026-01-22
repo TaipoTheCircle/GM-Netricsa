@@ -3,7 +3,7 @@ SHPAGIN 41 SUBMACHINE GUN (PPSH-41)
 
 WEAPON:    PPSh-41
 AMMUNITION 7.62x25 rounds
-ROF:       ~1000 rounds/min
+ROF:       ~1000 rounds / min
 
 
 DESCRIPTION:

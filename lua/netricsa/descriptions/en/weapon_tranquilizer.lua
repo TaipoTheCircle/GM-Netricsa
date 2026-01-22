@@ -3,7 +3,7 @@ TRANQUILIZER GUN
 
 WEAPON:      Beretta M9
 AMMUNITION   Tranquilizer darts
-ROF:         ~10 rounds/min
+ROF:         ~10 rounds / min
 
 DESCRIPTION:
 

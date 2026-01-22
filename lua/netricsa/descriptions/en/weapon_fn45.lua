@@ -3,7 +3,7 @@ FNX45 SELF-LOADING PISTOL
 
 WEAPON:     FN FNX-45
 AMMUNITION: .45 ACP cartridges
-ROF:        ~30 rounds/min
+ROF:        ~30 rounds / min
 
 DESCRIPTION:
 

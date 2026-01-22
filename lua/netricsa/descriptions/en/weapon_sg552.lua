@@ -3,7 +3,7 @@ SG-552 ASSAULT RIFLE
 
 WEAPON:      SIG SG-552 
 AMMUNITION   5.56×45mm NATO cartridges
-ROF:         ~700 rounds/min
+ROF:         ~700 rounds / min
 
 DESCRIPTION:
 

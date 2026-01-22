@@ -3,7 +3,7 @@ OVERWATCH SNIPER RIFLE MK2
 
 WEAPON:      Overwatch Sniper Rifle MK2
 AMMO:        Combine high-velocity rounds
-ROF:         Bolt-action, ~20 rounds/min
+ROF:         Bolt-action, ~20 rounds / min
 
 DESCRIPTION:
 

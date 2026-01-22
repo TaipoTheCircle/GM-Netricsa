@@ -3,7 +3,7 @@ XL3 LASERGUN
 
 WEAPON:    XL3 Lasergun
 AMMO:      X7 Power Cells
-ROF:       600 rounds/min
+ROF:       600 rounds / min
 WEIGTH:    20 lbs
 
 DESCRIPTION:

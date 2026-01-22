@@ -3,7 +3,7 @@ CZ 75 SELF-LOADING PISTOL
 
 WEAPON:      CZ 75
 AMMUNITION:  9x19 cartridges
-ROF:         ~20 rounds/min
+ROF:         ~20 rounds / min
 
 DESCRIPTION:
 

@@ -3,7 +3,7 @@ REMINGTON 870 PUMP-ACTION SHOTGUN
 
 WEAPON:     Remington 870
 AMMUNITION  12/70 caliber cartridges
-ROF:        ~60 rounds/min
+ROF:        ~60 rounds / min
 
 DESCRIPTION:
 

@@ -3,7 +3,7 @@ XL2 LASERGUN
 
 WEAPON:    XL2 Lasergun
 AMMO:      X7 Power Cells
-ROF:       600 rounds/min
+ROF:       600 rounds / min
 WEIGTH:    20 lbs
 
 DESCRIPTION:

@@ -3,7 +3,7 @@ M1911 PISTOL
 
 WEAPON: M1911 Pistol
 AMMO:   .45 ACP (Automatic Colt Pistol)
-ROF:    ~40 rounds/min
+ROF:    ~40 rounds / min
 WEIGHT: 1.1 kg (loaded)
 LENGTH: 216 mm
 

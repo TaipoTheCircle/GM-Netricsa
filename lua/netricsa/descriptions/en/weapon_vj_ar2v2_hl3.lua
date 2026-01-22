@@ -3,7 +3,7 @@ AR2 PULSE RIFLE V2
 
 WEAPON:      AR2 Pulse Rifle V2
 AMMO:        Overwatch energy cells / Secondary: Combine electrical balls
-ROF:         ~600 rounds/min (primary), 1 grenade/sec (secondary)
+ROF:         ~600 rounds / min (primary), 1 grenade/sec (secondary)
 
 DESCRIPTION:
 

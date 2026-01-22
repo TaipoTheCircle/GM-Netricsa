@@ -3,7 +3,7 @@ COLT ANACONDA
 
 WEAPON: Colt Anaconda
 AMMO:   .44 Magnum
-ROF:    ~25-30 rounds/min
+ROF:    ~25-30 rounds / min
 
 DESCRIPTION:
 

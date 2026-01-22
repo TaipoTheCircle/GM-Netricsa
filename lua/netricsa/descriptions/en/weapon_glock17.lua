@@ -3,7 +3,7 @@ GLOCK 17 PISTOL
 
 WEAPON:     Glock 17
 AMMUNITION: 9X19
-ROF:        15 rounds/min
+ROF:        15 rounds / min
 
 DESCRIPTION:
 

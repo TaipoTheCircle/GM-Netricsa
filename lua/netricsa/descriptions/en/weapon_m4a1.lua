@@ -3,7 +3,7 @@ M4A1 CARBINE
 
 WEAPON:       M4A1
 AMMUNITION:   Ammunition: 5.56x45 MM
-ROF:          950 rounds/min
+ROF:          950 rounds / min
 
 DESCRIPTION:
 

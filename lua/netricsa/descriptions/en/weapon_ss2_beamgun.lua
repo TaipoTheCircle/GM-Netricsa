@@ -3,7 +3,7 @@ BEAM GUN
 
 WEAPON: Beam Gun
 AMMO:   Plasma cells
-ROF:    ~300 rounds/min
+ROF:    ~300 rounds / min
 
 DESCRIPTION:
 

@@ -3,7 +3,7 @@ BIG M4 ASSAULT RIFLE
 
 WEAPON:      Big Colt M4
 AMMO:        5.56x45mm NATO rounds + 40mm grenades
-ROF:         ~700 rounds/min
+ROF:         ~700 rounds / min
 
 DESCRIPTION:
 

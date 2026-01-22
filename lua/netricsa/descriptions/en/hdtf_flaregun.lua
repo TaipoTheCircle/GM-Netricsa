@@ -3,7 +3,7 @@ FLARE GUN
 
 WEAPON:      Flare Gun
 AMMO:        Signal flares
-ROF:         ~6 rounds/min
+ROF:         ~6 rounds / min
 
 DESCRIPTION:
 

@@ -3,7 +3,7 @@ GOLD-PLATED SEMI-AUTOMATIC PISTOL DRACO
 
 WEAPON:     Draco
 AMMUNITION: 7.62 × 39 mm cartridges
-ROF:        ~30 rounds/min
+ROF:        ~30 rounds / min
 
 DESCRIPTION:
 

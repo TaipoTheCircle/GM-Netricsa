@@ -3,7 +3,7 @@ M41A PULSE RIFLE
 
 WEAPON:      M41A Pulse Rifle
 AMMO:        10mm energy cells /
-ROF:         ~600 rounds/min (primary)
+ROF:         ~600 rounds / min (primary)
 
 DESCRIPTION:
 

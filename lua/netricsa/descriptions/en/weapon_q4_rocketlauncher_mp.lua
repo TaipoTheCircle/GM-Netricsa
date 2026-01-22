@@ -3,7 +3,7 @@ ROCKET LAUNCHER
 
 WEAPON: Rocket Launcher
 AMMO:   Rockets
-ROF:    ~40 rounds/min
+ROF:    ~40 rounds / min
 
 
 DESCRIPTION:

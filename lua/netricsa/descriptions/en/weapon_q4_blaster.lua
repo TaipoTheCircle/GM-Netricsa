@@ -3,7 +3,7 @@ MARINE BLASTER
 
 WEAPON: Blaster
 AMMO:   None (infinite energy)
-ROF:    ~360 rounds/min
+ROF:    ~360 rounds / min
 
 DESCRIPTION:
 

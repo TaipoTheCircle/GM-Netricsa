@@ -3,7 +3,7 @@ RUGER 10 / 22 SELF-LOADING CARBINE
 
 WEAPON:     RUGER 10/22
 AMMUNITION  .22 LR cartridges 
-ROF:        ~40-60 rounds/min 
+ROF:        ~40-60 rounds / min 
 
 DESCRIPTION:
 

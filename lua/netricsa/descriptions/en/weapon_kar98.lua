@@ -3,7 +3,7 @@ KARABINER 98K
 
 WEAPON:      Kar98k
 AMMUNITION:  7.92×57 mm
-ROF:         ~15 rounds/min (bolt action, manual reloading after each shot)
+ROF:         ~15 rounds / min (bolt action, manual reloading after each shot)
 
 DESCRIPTION:
 

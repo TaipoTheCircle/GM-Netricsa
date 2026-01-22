@@ -3,7 +3,7 @@ DRACO SEMI-AUTOMATIC PISTOL
 
 WEAPON:     Draco
 AMMUNITION: 7.62 × 39 mm cartridges
-ROF:        ~30 rounds/min
+ROF:        ~30 rounds / min
 
 DESCRIPTION:
 

@@ -3,7 +3,7 @@ UZI
 
 WEAPON: Uzi
 AMMO:   5.56mm rounds
-ROF:    600 rounds/min
+ROF:    600 rounds / min
 
 DESCRIPTION:
 

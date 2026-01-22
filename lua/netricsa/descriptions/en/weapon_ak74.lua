@@ -3,7 +3,7 @@ AK-74 ASSAULT RIFLE
 
 WEAPON:     AK-74
 AMMUNITION: 5.45x39 rifle, 40 mm underbarrel grenade launcher.
-ROF:        700 rounds/min
+ROF:        700 rounds / min
 
 DESCRIPTION:
 

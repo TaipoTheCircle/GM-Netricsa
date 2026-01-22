@@ -3,7 +3,7 @@ AR-15 SELF-LOADING PISTOL
 
 WEAPON:      AR-15
 AMMUNITION:  5.56x45 MM cartridges
-ROF:         ~20 rounds/min
+ROF:         ~20 rounds / min
 
 DESCRIPTION:
 

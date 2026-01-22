@@ -3,7 +3,7 @@ COLT KING COBRA REVOLVER
 
 WEAPON:    Colt King Cobra
 AMMUNITION .357 Magnum
-ROF:       15 rounds/min
+ROF:       15 rounds / min
 
 DESCRIPTION:
 

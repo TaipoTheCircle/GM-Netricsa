@@ -3,7 +3,7 @@ FN P90 SUBMACHINE GUN
 
 WEAPON:    FN P90 
 AMMUNITION 5.7x28 mm 
-ROF:       ~900 rounds/min
+ROF:       ~900 rounds / min
 
 DESCRIPTION:
 

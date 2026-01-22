@@ -3,7 +3,7 @@ G36 ASSAULT RIFLE WTCH AG36 UNDERBARREL GRENADE LAUNCHER
 
 WEAPON: G36 with AG36 module
 AMMO:   5.56x45 mm NATO (primary) / 40×46 mm low-velocity grenades (underbarrel)
-ROF:    ~750 rounds/min
+ROF:    ~750 rounds / min
 
 DESCRIPTION:
 

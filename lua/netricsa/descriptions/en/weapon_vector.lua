@@ -3,7 +3,7 @@ KRISS VECTOR SUBMACHINE GUN
 
 WEAPON:      KRISS Vector
 AMMUNITION   .45 ACP cartridges 
-ROF:         ~850 rounds/min
+ROF:         ~850 rounds / min
 
 DESCRIPTION:
 

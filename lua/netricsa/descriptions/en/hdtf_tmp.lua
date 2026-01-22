@@ -3,7 +3,7 @@ STEYR TMP  TACTICAL MACHINE PISTOL
 
 WEAPON: Steyr TMP Tactical Machine Pistol
 AMMO:   9×19 mm Parabellum
-ROF:    900 rounds/min. 
+ROF:    900 rounds / min. 
 WEIGHT: 1.3 kg
 LENGTH: 282 mm overall
 

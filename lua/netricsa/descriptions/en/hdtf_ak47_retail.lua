@@ -3,7 +3,7 @@ AKMS ASSAULT RIFLE
 
 WEAPON: AKMS
 AMMO:   7.62x39 mm
-ROF:    ~600 rounds/min
+ROF:    ~600 rounds / min
 
 DESCRIPTION:
 

@@ -3,7 +3,7 @@ SPORE LAUNCHER
 
 WEAPON:      Spore Launcher
 AMMO:        Explosive spores
-ROF:         ~6 rounds/min
+ROF:         ~6 rounds / min
 
 DESCRIPTION:
 

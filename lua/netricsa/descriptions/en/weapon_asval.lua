@@ -3,7 +3,7 @@ AS VAL
 
 WEAPON:          AS Val
 AMMUNITION:      9x39 mm
-ROF:             ~900-960 rounds/min
+ROF:             ~900-960 rounds / min
 
 DESCRIPTION:
 

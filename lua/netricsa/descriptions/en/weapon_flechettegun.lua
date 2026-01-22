@@ -3,7 +3,7 @@ FLECHETTE GUN
 
 WEAPON:      Flechette Gun
 AMMO:        Flechettes (small, high-velocity darts)
-ROF:        ~250 rounds/min
+ROF:        ~250 rounds / min
 
 DESCRIPTION:
 

@@ -3,7 +3,7 @@ GIAT FR F2 SNIPER RIFLE
 
 WEAPON: GIAT FR F2 Sniper Rifle
 AMMO:   7.62x51mm NATO
-ROF:    ~15 rounds/min
+ROF:    ~15 rounds / min
 WEIGHT: ~5.8 kg with optics
 LENGTH: ~1,200 mm
 

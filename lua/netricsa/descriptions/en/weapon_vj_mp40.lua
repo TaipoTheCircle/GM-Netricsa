@@ -3,7 +3,7 @@ MP-40
 
 WEAPON:      MP 40 Submachine Gun
 AMMO:        9×19mm Parabellum
-ROF:         500-550 rounds/min
+ROF:         500-550 rounds / min
 WEIGHT:      8.75 lbs
 
 DESCRIPTION:

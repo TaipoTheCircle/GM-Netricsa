@@ -3,7 +3,7 @@ LIGHTNING GUN
 
 WEAPON: Lightning Gun
 AMMO: Energy charges
-ROF: ~550 rounds/min
+ROF: ~550 rounds / min
 
 
 DESCRIPTION:

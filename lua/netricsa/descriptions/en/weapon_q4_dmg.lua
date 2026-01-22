@@ -3,7 +3,7 @@ DARK MATTER GUN
 
 WEAPON: Dark Matter Gun
 AMMO:   Dark Matter Slugs
-ROF:    ~30 rounds/min
+ROF:    ~30 rounds / min
 
 DESCRIPTION:
 

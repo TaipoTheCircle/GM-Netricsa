@@ -3,7 +3,7 @@ SKORPION SAMOPAL VZ.61
 
 WEAPON: Skorpion Samoral vz. 61
 AMMO:   .32 ACP (7.65×17 mm Browning SR).380 ACP and 9×19 mm
-ROF:    850 rounds/min
+ROF:    850 rounds / min
 WEIGHT: 1.59 kg empty
 LENGTH: 517 mm
 

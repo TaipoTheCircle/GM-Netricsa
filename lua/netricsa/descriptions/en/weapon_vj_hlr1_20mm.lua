@@ -3,7 +3,7 @@
 
 WEAPON:      20mm Cannon (Mounted Autocannon)
 AMMO:        20x102mm high-velocity shells
-ROF:         ~450 rounds/min
+ROF:         ~450 rounds / min
 
 DESCRIPTION:
 

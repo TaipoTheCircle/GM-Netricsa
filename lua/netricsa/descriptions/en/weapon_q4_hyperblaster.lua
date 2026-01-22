@@ -3,7 +3,7 @@ HYPERBLASTER
 
 WEAPON: Hyperblaster
 AMMO:   Energy cells
-ROF:    ~450 rounds/min
+ROF:    ~450 rounds / min
 
 DESCRIPTION:
 

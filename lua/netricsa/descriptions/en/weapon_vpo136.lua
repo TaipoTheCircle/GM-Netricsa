@@ -3,7 +3,7 @@ VPO-136 HUNTING CARABINE
 
 WEAPON:      VPO-136
 AMMUNITION   7.62×39 cartridges
-ROF:         ~15 rounds/min
+ROF:         ~15 rounds / min
 
 DESCRIPTION:
 

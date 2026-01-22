@@ -3,7 +3,7 @@ MARINE SHOTGUN
 
 WEAPON: Shotgun (Pump-Action Shotgun)
 AMMO: Shells
-ROF: ~48 rounds/min 
+ROF: ~48 rounds / min 
 
 DESCRIPTION:
 

@@ -3,7 +3,7 @@ AK-47
 
 WEAPON:      AK-47 Assault Rifle
 AMMO:        7.62x39mm rounds
-ROF:         ~600 rounds/min
+ROF:         ~600 rounds / min
 
 DESCRIPTION:
 

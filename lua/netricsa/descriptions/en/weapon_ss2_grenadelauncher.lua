@@ -3,7 +3,7 @@ MKIV GRENADE LAUNCHER
 
 WEAPON: MKIV Grenade Launcher
 AMMO:   Grenades
-ROF:    60-200 rounds/min depending on charge
+ROF:    60-200 rounds / min depending on charge
 
 
 DESCRIPTION:

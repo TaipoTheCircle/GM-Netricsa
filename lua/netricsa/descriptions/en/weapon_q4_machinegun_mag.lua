@@ -3,7 +3,7 @@ MARINE MACHINE GUN
 
 WEAPON: Machine Gun
 AMMO:   Bullets
-ROF:    ~600 rounds/min
+ROF:    ~600 rounds / min
 
 DESCRIPTION:
 

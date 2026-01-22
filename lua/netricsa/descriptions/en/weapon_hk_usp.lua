@@ -3,7 +3,7 @@ HK USP SELF-LOADING PISTOL
 
 WEAPON:     Heckler & Koch USP
 AMMUNITION: 9x19 cartridges
-ROF:        ~20 rounds/min
+ROF:        ~20 rounds / min
 
 DESCRIPTION:
 

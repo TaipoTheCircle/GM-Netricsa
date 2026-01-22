@@ -3,7 +3,7 @@ MANURHIN MR-96 REVOLVER
 
 WEAPON:    Manurhin MR-96
 AMMUNITION .38 Special
-ROF:       15 rounds/min
+ROF:       15 rounds / min
 
 DESCRIPTION:
 

@@ -3,7 +3,7 @@ MAC-11 SUBMACHINE GUN
 
 WEAPON:      MAC-11
 AMMUNITION:  9x19 mm cartridges 
-ROF:         ~1200 rounds/min
+ROF:         ~1200 rounds / min
 
 DESCRIPTION:
 
