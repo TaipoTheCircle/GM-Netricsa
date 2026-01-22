@@ -31,6 +31,6 @@ There's one more nuance. Mental has already made a deal with the organizers. His
 
 So here's my advice, Sam.
 
-They want suffering—give it to them.
+They want suffering-give it to them.
 
 But not your own.

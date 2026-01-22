@@ -17,7 +17,7 @@ The Overwatch Arctic Prison Soldat with Shotgun is an Combine trooper originally
 
 After reprocessing in the Nova Prospekt system, their psyche is almost completely suppressed, and obedience is ensured by constant monitoring and pain impulses. In combat, they act without hesitation or self-preservation.
 
-He wears arctic white-and-gray camouflage, modified over standard prison gear. The helmet's visor glows orange—a characteristic feature of prison soldiers, revealing their origin even in the snowy darkness. "Nova Prospekt" is clearly written on his back in blue, serving both as a marking and as a reminder of where the soldier will be returned if he disobeys.
+He wears arctic white-and-gray camouflage, modified over standard prison gear. The helmet's visor glows orange-a characteristic feature of prison soldiers, revealing their origin even in the snowy darkness. "Nova Prospekt" is clearly written on his back in blue, serving both as a marking and as a reminder of where the soldier will be returned if he disobeys.
 
 Like other Combine shotguns, this soldier is designed for close-quarters combat. In Arctic stations, ice tunnels, and abandoned polar complexes, it is used for brutal cleansing, riot suppression, and the elimination of targets where standard infantry is considered ineffective.
 

@@ -19,7 +19,7 @@ His dreams made him a laughingstock at pirate school. The ridicule and humiliati
 
 Having obtained his desire, he headed to dry land, where he began selling Krabby Patties from a Burgermobile. However, his plan was ruined after a protracted battle with SpongeBob and his friends, who had assumed the guises of superheroes. Plankton ultimately cast Burger Beard back to Bikini Atoll, where he was cursed.
 
-Even in death, Burger Beard has not found peace. His skeleton still sings "who lives in a pineapple under the sea?" at the start of each day, unable to stop. He wears red, ragged pants and a red pirate bandana—the last vestiges of his unfulfilled dream of becoming more than just a pirate jester.
+Even in death, Burger Beard has not found peace. His skeleton still sings "who lives in a pineapple under the sea?" at the start of each day, unable to stop. He wears red, ragged pants and a red pirate bandana-the last vestiges of his unfulfilled dream of becoming more than just a pirate jester.
 
 TIPS:
 

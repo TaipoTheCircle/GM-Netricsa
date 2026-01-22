@@ -589,6 +589,7 @@ end)
         ["npc_vj_ssc_summoner"] = true,
         ["npc_vj_ssc_airelemental"] = true,
         ["npc_vj_tti_bigspongebob"] = true,
+        ["npc_vj_meme_purpleguy"] = true,
     }
 
     local function AnnounceSpecialNPC(ent)
