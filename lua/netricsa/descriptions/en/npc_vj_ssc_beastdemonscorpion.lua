@@ -7,7 +7,7 @@ PERCEPTION:  Advanced vision, bioluminescent eyes
 SIZE:        3 m
 ENDURANCE:   High
 HOSTILITY:   Extreme
-WEAPONATURE: Scorpion-like tail sting
+WEAPONS: Scorpion-like tail sting
 REWARD:      6000 FC
 THREAT:      High
 
