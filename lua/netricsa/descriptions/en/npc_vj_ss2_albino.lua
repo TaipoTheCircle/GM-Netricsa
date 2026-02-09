@@ -1,7 +1,7 @@
 ALBINO CYCLOPS FROM MAGNOR
 
 
-CLASS:      Mental's Horde, Modified Wild Worm
+CLASS:      Albino Cyclops
 METABOLISM: Carnivorous
 PERCEPTION: Homing orb targeting + close-range melee
 SIZE:       ~22 ft
