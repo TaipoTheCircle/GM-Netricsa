@@ -7,7 +7,7 @@ PERCEPTION: Combine Assault Protective Infantry
 SIZE:       5,9 ft
 ENDURANCE:  Medium
 HOSTILITY:  High
-WEAPOON:    Combine Pistol, Tactical Shield
+WEAPONS:    Combine Pistol, Tactical Shield
 REWARD:     450 FC
 THREAT:     Medium
 
