@@ -590,6 +590,7 @@ end)
         ["npc_vj_ssc_airelemental"] = true,
         ["npc_vj_tti_bigspongebob"] = true,
         ["npc_vj_meme_purpleguy"] = true,
+        ["event_hlow_dropship"] = true,
     }
 
     local function AnnounceSpecialNPC(ent)
