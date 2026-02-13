@@ -22,5 +22,5 @@ Despite its appearance, inspired by a real pig, it's a cold war machine. It was 
 TIPS:
 
 - It's best to attack it from a distance or from above.
-- The bombs bounce—anticipate their trajectory and dodge.
+- The bombs bounce-anticipate their trajectory and dodge.
 - When destroyed, the Ball Pig often releases an animal hostage, like other Badniks.

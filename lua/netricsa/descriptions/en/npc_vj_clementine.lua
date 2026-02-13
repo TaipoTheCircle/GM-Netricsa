@@ -1,9 +1,9 @@
 CLEMENTINE
 
 
-CLASS:      Zombie Apocalypse Survivor
+CLASS:      Clementine
 METABOLISM: Human female, 17 years old.
-PERCEPTION: Normal (vision, hearing)
+PERCEPTION: Zombie Apocalypse Survivor
 HEIGHT:     160 cm
 ENDURANCE:  Low-medium
 HOSTILITY:  Low if you don't want to harm her, high towards zombies and bad guys.

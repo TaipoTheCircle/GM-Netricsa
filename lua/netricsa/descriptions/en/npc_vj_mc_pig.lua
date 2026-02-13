@@ -1,11 +1,11 @@
-PIG FROM THE MINECRAFT OVERWORLD
+PIG FROM THE MINECRAFT OVERWORLD 
 
 
 CLASS:      Pig
-METABOLISM: Warm-blooded Mammal
+METABOLISM: Warm-blooded mammal
 PERCEPTION: Wild / Domestic
 SIZE:       3 ft
-ENDURANCE:  Average
+ENDURANCE:  Medium
 HOSTILITY:  Low
 WEAPONS:    None
 REWARD:     25 FC

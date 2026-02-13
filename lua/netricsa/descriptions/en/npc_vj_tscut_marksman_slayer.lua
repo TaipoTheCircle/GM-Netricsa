@@ -3,7 +3,7 @@ MARKSMAN SLAYER FROM CARNATE ISLAND
 
 CLASS:      Marksman Slayer
 METABOLISM: Undead / Mutant
-PERCEPTION: Echolocation / Residual "vision" through bandage
+PERCEPTION: Four-legged Undead
 SIZE:       ~9 ft (at the shoulder)
 ENDURANCE:  High
 HOSTILITY:  Extreme

@@ -13,7 +13,7 @@ THREAT:     High
 
 DESCRIPTION:
 
-The Overwatch Anti-Vehicle Trooper is virtually indistinguishable from a standard Combine trooper. Almost the same armor, the same posture, the same cold blue visor. A huge mistake – mistake him for "ordinary." His true role is revealed only when vehicles appear on the field.
+The Overwatch Anti-Vehicle Trooper is virtually indistinguishable from a standard Combine trooper. Almost the same armor, the same posture, the same cold blue visor. A huge mistake - mistake him for "ordinary." His true role is revealed only when vehicles appear on the field.
 
 A rocket launcher is mounted on the soldier's back, and it can be retrieved instantly as soon as the system recognizes a target in a vehicle. Vehicles, armored vehicles, and improvised armored vehicles of the resistance are all his top priority.
 

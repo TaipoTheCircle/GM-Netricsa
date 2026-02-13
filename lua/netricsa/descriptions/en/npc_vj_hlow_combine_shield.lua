@@ -15,7 +15,7 @@ DESCRIPTION:
 
 The Overwatch Shieldier is a mobile wall of Combine fire, designed to advance under fire. He wears no heavy armor, relying on a massive black shield with CMB markings that covers almost his entire body. The shield is covered in a composite coating and can withstand automatic rifle fire and shrapnel.
 
-Blue visors identify the standard Overwatch variant, but this soldier's behavior is different. He doesn't seek cover—he becomes cover. The soldier advances slowly, covering his allies and allowing assault units to advance behind him.
+Blue visors identify the standard Overwatch variant, but this soldier's behavior is different. He doesn't seek cover-he becomes cover. The soldier advances slowly, covering his allies and allowing assault units to advance behind him.
 
 The pistol is used from behind the shield with one hand, most often for suppression at close range. In close combat, the soldier can ram the pistol, knocking enemies down and opening them up for finishing.
 

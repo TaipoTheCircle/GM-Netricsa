@@ -1,9 +1,9 @@
 PIG FROM THE MINECRAFT OVERWORLD
 
 
-CLASS:      Domestic / Wild Animal
+CLASS:      Pig
 METABOLISM: Warm-blooded Mammal
-PERCEPTION: Standard vision and smell
+PERCEPTION: Wild / Domestic
 SIZE:       3 ft
 ENDURANCE:  Average
 HOSTILITY:  Low

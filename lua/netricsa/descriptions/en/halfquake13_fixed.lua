@@ -17,6 +17,6 @@ The voice from the speakers thanks you. Politely. With the enthusiasm of a corpo
 
 Classic.
 
-Somewhere beyond the walls, screams, gunshots, and strange endings can be heard. Mental's forces are clearing out the show. Contestants, staff, security—everything is tangled up in one big, very expensive episode.
+Somewhere beyond the walls, screams, gunshots, and strange endings can be heard. Mental's forces are clearing out the show. Contestants, staff, security-everything is tangled up in one big, very expensive episode.
 
 And I'll go write my will in binary code... Thank you, Sam. Goodbye.
