@@ -3,7 +3,7 @@ BLACK MESA, CANYONS
 
 Escape to the surface didn't mean freedom - it meant walking straight into H.E.C.U. territory. The desert canyon ahead has been fortified into a kill-zone, with bunkers, sandbags, and mounted guns turning natural rock formations into an improvised battlefield.
 
-Intel confirms a disturbing trend: the fourth Apache wasn't the end. Another gunship is inbound, ETA minutes. They won’t stop until this entire sector is reduced to rubble.
+Intel confirms a disturbing trend: the fourth Apache wasn't the end. Another gunship is inbound, ETA minutes. They won't stop until this entire sector is reduced to rubble.
 
 Situational overview:
 

@@ -1,9 +1,9 @@
 STROGG GLADIATOR FROM STROGGOS
 
 
-CLASS:      Strogg Heavy Combatant
+CLASS:      Strogg Gladiator
 METABOLISM: Cybernetic organism (Strogg tech & bio-fusion)
-PERCEPTION: Enhanced vision + combat instinct
+PERCEPTION: Strogg Heavy Combatant
 SIZE:       ~7 ft tall (armor-plated)
 ENDURANCE:  Very High
 HOSTILITY:  Extreme

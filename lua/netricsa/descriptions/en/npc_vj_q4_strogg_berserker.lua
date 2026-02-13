@@ -1,9 +1,9 @@
 STROGG BERSERKER FROM STROGGOS
 
 
-CLASS:      Strogg Melee Brute
+CLASS:      Strogg Berserker
 METABOLISM: Cybernetic organism
-PERCEPTION: Enhanced vision + close-combat awareness
+PERCEPTION: Strogg Melee Brute
 SIZE:       ~7 ft tall 
 ENDURANCE:  High 
 HOSTILITY:  Extreme
@@ -21,5 +21,5 @@ It often charges directly at its target, ignoring ranged engagements unless nece
 
 TIPS:
 
-- Don't try to outrun it; it’s too fast. Best to keep distance. 
+- Don't try to outrun it; it's too fast. Best to keep distance. 
 - Use weapons with high fire rate or shotgun at close range. Aim for head hits to maximize damage. 

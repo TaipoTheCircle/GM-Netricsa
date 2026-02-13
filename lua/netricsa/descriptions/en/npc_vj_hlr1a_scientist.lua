@@ -15,7 +15,7 @@ DESCRIPTION:
 
 Scientists are the fragile, yet crucial, denizens of Black Mesa. They spend most of their time analyzing, measuring, and panicking appropriately when things go wrong - which, thanks to the resonance cascade, happens a lot. Despite their lack of combat ability, their knowledge can be invaluable: they might point you to important locations, provide health kits, or unlock doors.
 
-While harmless, their shrill screams and tendency to run in unpredictable patterns can sometimes make navigating the facility a chaotic experience. Some theorists joke that a single Scientist’s panic is capable of attracting more monsters than a full squad of security guards.
+While harmless, their shrill screams and tendency to run in unpredictable patterns can sometimes make navigating the facility a chaotic experience. Some theorists joke that a single Scientist's panic is capable of attracting more monsters than a full squad of security guards.
 
 TIPS:
 

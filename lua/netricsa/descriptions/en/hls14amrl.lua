@@ -9,7 +9,7 @@ Then the voice comes. Not spoken, not heard - implanted directly into your skull
 
 "IDIOT".
 
-It's Nihilanth. No translator needed. His tone is venom wrapped in exhaustion, telepathic thunder that makes the very rock tremble. He knows who you are. He knows why you’ve come. And he does not approve.
+It's Nihilanth. No translator needed. His tone is venom wrapped in exhaustion, telepathic thunder that makes the very rock tremble. He knows who you are. He knows why you've come. And he does not approve.
 
 Objective:
 

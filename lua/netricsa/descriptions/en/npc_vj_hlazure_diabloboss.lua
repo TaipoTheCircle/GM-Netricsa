@@ -17,7 +17,7 @@ The Diablo is a towering, artificially-engineered abomination created through ho
 
 Unlike its Pantereye cousins, the Diablo is not just a predator - it is a living weapon, designed to combine feral savagery with ranged crystal energy attacks. Its massive frame looms over lesser creatures, nearly twice the size of a Pantereye, with a broad, armored back crowned by a pulsating crystal crest that channels destructive projectiles.
 
-The Diablo’s presence on the battlefield is overwhelming: its sheer size, deep purple coloration, and crimson blood make it both awe-inspiring and horrifying. It is not a natural Xen beast, but a deliberate experiment in weaponizing evolution, a final stage predator with no natural rival.
+The Diablo's presence on the battlefield is overwhelming: its sheer size, deep purple coloration, and crimson blood make it both awe-inspiring and horrifying. It is not a natural Xen beast, but a deliberate experiment in weaponizing evolution, a final stage predator with no natural rival.
 
 TIPS:
 

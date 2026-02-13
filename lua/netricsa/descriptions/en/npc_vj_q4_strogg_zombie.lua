@@ -3,8 +3,8 @@ STROGG SLIMY TRANSFER ZOMBIE FROM STROGGOS
 
 CLASS:      Strogg Corrupted Zombie
 METABOLISM: Partially Stroggified Human (hybrid of flesh & mutation)
-PERCEPTION: Basic visual + smell / groan detection
-SIZE:       ~5.5 ft
+PERCEPTION: Walking Zombie
+SIZE:       ~5,5 ft
 ENDURANCE:  Medium-Low
 HOSTILITY:  High
 WEAPONS:    Slimy acid puke, Melee attacks

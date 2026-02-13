@@ -15,7 +15,7 @@ DESCRIPTION:
 
 The Player NPC, also known as the Mimic Player, is a highly unusual NPC that replicates all actions of the player. Whether jumping, shooting, or using items, this NPC mirrors the player's movements and interactions in real-time.
 
-It is designed as a sandbox experiment or gameplay challenge, creating unpredictable and often chaotic scenarios. In combat, the Mimic Player can become a deadly threat if it replicates the player’s offensive actions, effectively turning your own skills against you.
+It is designed as a sandbox experiment or gameplay challenge, creating unpredictable and often chaotic scenarios. In combat, the Mimic Player can become a deadly threat if it replicates the player's offensive actions, effectively turning your own skills against you.
 
 TIPS:
 

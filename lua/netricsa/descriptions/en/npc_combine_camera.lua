@@ -13,7 +13,7 @@ THREAT:     Low
 
 DESCRIPTION:
 
-The Hanging Combine Camera is a variant that hangs from ceilings or overhangs, giving it broad visual coverage. Because it's suspended, it can retract or swing slightly, making it harder to avoid its gaze. It often surveils large hallways, checkpoints, or high-value areas. It’s used by Combine to monitor movement, catch smugglers, and protect restricted zones.
+The Hanging Combine Camera is a variant that hangs from ceilings or overhangs, giving it broad visual coverage. Because it's suspended, it can retract or swing slightly, making it harder to avoid its gaze. It often surveils large hallways, checkpoints, or high-value areas. It's used by Combine to monitor movement, catch smugglers, and protect restricted zones.
 
 TIPS:
 

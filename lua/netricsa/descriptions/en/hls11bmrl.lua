@@ -7,4 +7,4 @@ But listen to this: while we were underground, I intercepted some encrypted chat
 
 Recommendation? Don't try to argue with them, because diplomacy usually doesn't work when the other side has 120mm cannons. Instead, do what you do best: run, shoot, dodge, and make them wonder why they ever signed up for this mission in the first place.
 
-But... (yes, there's always a but) - defeating this force isn't the real challenge. Surviving long enough to figure out where the next corridor leads is. And considering the size of the guns they’ve brought to stop you... well, let's just say this "surface" might be even deadlier than the underground.
+But... (yes, there's always a but) - defeating this force isn't the real challenge. Surviving long enough to figure out where the next corridor leads is. And considering the size of the guns they've brought to stop you... well, let's just say this "surface" might be even deadlier than the underground.

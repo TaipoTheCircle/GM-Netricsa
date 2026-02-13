@@ -7,7 +7,7 @@ ROF:    up to 600 RPM.
 
 DESCRIPTION:
 
-The EDF’s standard-issue assault rifle - a rugged, mass-produced hybrid design using a gas-operated, rotating-bolt mechanism. Fitted with an elongated barrel for extended range and a reflex sight for fast target acquisition. Hip-fire produces wide spread; aiming down sights yields high accuracy.
+The EDF's standard-issue assault rifle - a rugged, mass-produced hybrid design using a gas-operated, rotating-bolt mechanism. Fitted with an elongated barrel for extended range and a reflex sight for fast target acquisition. Hip-fire produces wide spread; aiming down sights yields high accuracy.
 
 NOTES:
 

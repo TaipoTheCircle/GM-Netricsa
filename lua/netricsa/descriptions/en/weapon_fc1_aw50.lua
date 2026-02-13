@@ -10,7 +10,7 @@ LENGTH:   1,350 mm
 
 DESCRIPTION:
 
-The AW50 is a large-caliber anti-materiel/sniper rifle built on the Arctic Warfare platform and chambered in .50 BMG. It’s intended to engage material targets, light armor and distant personnel; the design balances long-range accuracy with rugged field reliability. 
+The AW50 is a large-caliber anti-materiel/sniper rifle built on the Arctic Warfare platform and chambered in .50 BMG. It's intended to engage material targets, light armor and distant personnel; the design balances long-range accuracy with rugged field reliability. 
 
 NOTES:
 

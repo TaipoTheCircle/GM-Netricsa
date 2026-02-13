@@ -15,7 +15,7 @@ DESCRIPTION:
 
 H.E.C.U. Grunts from Shephard's squad are trained combat marines deployed to Xen and Black Mesa sites to contain alien incursions and secure sensitive research areas. They operate in coordinated squads under Shephard's command, balancing aggression with tactical discipline.
 
-These marines are proficient in ranged combat, capable of laying down suppressive fire, and using grenades to flush out hostile entities. Unlike their counterparts  H.E.C.U. squads, Shephard’s team demonstrates a higher degree of coordination and responsiveness to threats, reflecting their elite training and direct supervision.
+These marines are proficient in ranged combat, capable of laying down suppressive fire, and using grenades to flush out hostile entities. Unlike their counterparts  H.E.C.U. squads, Shephard's team demonstrates a higher degree of coordination and responsiveness to threats, reflecting their elite training and direct supervision.
 
 TIPS:
 

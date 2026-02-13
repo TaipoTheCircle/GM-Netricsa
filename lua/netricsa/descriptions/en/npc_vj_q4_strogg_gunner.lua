@@ -1,9 +1,9 @@
 STROGG GUNNER FROM STROGGOS
 
 
-CLASS:      Strogg Ranged Support / Mid-Level Combatant
+CLASS:      Strogg Gunner
 METABOLISM: Cybernetic organism (bio-augmented Strogg)
-PERCEPTION: Visual + sound cues + grenade warning
+PERCEPTION: Strogg Ranged Support / Mid-Level Combatant
 SIZE:       ~7 ft tall 
 ENDURANCE:  High (mid-tier durability) 
 HOSTILITY:  High

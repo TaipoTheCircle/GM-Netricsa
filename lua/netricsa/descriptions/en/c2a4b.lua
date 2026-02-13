@@ -7,4 +7,4 @@ Telemetry notes high accident frequency in this sector even before the resonance
 
 Hazards: slick platforms stained with blood and oil, moving gears that can crush anything caught between them, and unstable catwalks shaking with every rotation. Headcrabs scuttle freely among the remains, feeding without resistance.
 
-Recommendation: stay mobile on the belts, avoid the crushing presses, and do not fall into the waste stream. Whatever "process" this plant once served, it’s now just a monument to human error and expendability.
+Recommendation: stay mobile on the belts, avoid the crushing presses, and do not fall into the waste stream. Whatever "process" this plant once served, it's now just a monument to human error and expendability.

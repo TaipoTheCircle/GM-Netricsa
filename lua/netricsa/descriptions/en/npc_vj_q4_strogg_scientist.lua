@@ -3,8 +3,8 @@ STROGG SCIENTIST FROM STROGGOS
 
 CLASS:      Strogg Scientist
 METABOLISM: Cybernetic / Human-Strogg Hybrid
-PERCEPTION: Hovering sensors + visual tracking
-SIZE:       ~5.5 ft (hover-pad height)
+PERCEPTION: Strogg Scientific Staff
+SIZE:       ~5,5 ft (hover-pad height)
 ENDURANCE:  Medium
 HOSTILITY:  Medium (defensive / reluctant combat)
 WEAPONS:    Mechanical saw arm, needles on extra limbs, poison gas grenade

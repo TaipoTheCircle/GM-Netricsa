@@ -21,7 +21,7 @@ Though it appears plantlike and rooted, the trunk is articulated - the tree can 
 
 Xen Trees do not consume bodies or feed like animals - they simply attack intruders and then return to idle behavior.
 
-They are often found near Xen’s Light Stalk plants and in places where the Xen ecosystem is dense, acting as defensive flora in the alien environment.
+They are often found near Xen's Light Stalk plants and in places where the Xen ecosystem is dense, acting as defensive flora in the alien environment.
 .
 
 TIPS:

@@ -5,7 +5,7 @@ So, some "good news" from one of the surviving guard: apparently there is an exi
 
 The doors are sealed with high-level clearance. Only Black Mesa scientists have the codes, which means we can't just kick the door down and waltz out. We'll need to track them down if we want to see the sky again.
 
-Now for the bad news - H.E.C.U. forces are already crawling through this sector. They’re not here to save anyone. They've got orders to clean up, and in case you haven't noticed, we are part of the mess.
+Now for the bad news - H.E.C.U. forces are already crawling through this sector. They're not here to save anyone. They've got orders to clean up, and in case you haven't noticed, we are part of the mess.
 
 So, here's the plan:
 

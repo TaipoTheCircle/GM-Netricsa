@@ -22,5 +22,5 @@ TIPS:
 
 - Target the container, especially the pulse turret, for a chance to stop its deployment of troops.
 - Use RPGs or heavy explosives-regular weapons are nearly useless.
-- Keep moving-standing under a Dropship’s deployment zone is dangerous.
+- Keep moving-standing under a Dropship's deployment zone is dangerous.
 - Watch for mine drops (Rollermines) when it flies over vulnerable areas.

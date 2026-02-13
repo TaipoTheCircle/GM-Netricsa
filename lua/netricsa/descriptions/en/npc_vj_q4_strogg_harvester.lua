@@ -3,7 +3,7 @@ STROGG HARVESTER FROM STROGGOS
 
 CLASS:      Strogg Harvester
 METABOLISM: Cybernetic (bio-mechanical)
-PERCEPTION: Infrared + motion tracking
+PERCEPTION: Heavy armored vehicles for combat against vehicles
 SIZE:       20 ft
 ENDURANCE:  High
 HOSTILITY:  Extreme

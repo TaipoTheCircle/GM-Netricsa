@@ -1,10 +1,10 @@
 SMC MARINE
 
 
-CLASS:      Human / Terran Marine
+CLASS:      SMC Marine
 METABOLISM: Human, Male (military trained)
-PERCEPTION: Combat trained
-SIZE:       ~180 cm
+PERCEPTION: Terran Marine
+SIZE:       5,9 ft
 ENDURANCE:  High
 HOSTILITY:  High
 WEAPONS:    Machine Gun, Shotgun, Grenade Launcher, Rocket Launcher, Hyper Blaster

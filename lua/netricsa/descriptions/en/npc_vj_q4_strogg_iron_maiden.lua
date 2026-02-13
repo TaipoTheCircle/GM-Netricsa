@@ -1,7 +1,7 @@
 STROGG IRON MAIDEN OF STROGGOS
 
 
-CLASS:      Strogg IRON MAIDEN
+CLASS:      Strogg Iron Maiden
 METABOLISM: Cybernetic / Biomechanical Soldier
 PERCEPTION: Strogg Aerial Assault Unit
 SIZE:       7,5 ft
@@ -13,7 +13,7 @@ THREAT:     High
 
 DESCRIPTION:
 
-The Strogg IRON MAIDEN is a flying combat unit of the Strogg army, a semi-living cybernetic creature with an upper body resembling a female figure and floating energy ribbons in place of legs, allowing it to hover in the air.
+The Strogg Iron Maiden is a flying combat unit of the Strogg army, a semi-living cybernetic creature with an upper body resembling a female figure and floating energy ribbons in place of legs, allowing it to hover in the air.
 
 She is equipped with a powerful rocket launcher on her left arm and can fire a series of rockets with a significant blast radius. Her high maneuverability and ability to briefly teleport allow her to evade direct attacks, making her a dangerous opponent at medium and long range.
 

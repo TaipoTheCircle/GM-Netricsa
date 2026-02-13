@@ -1,9 +1,9 @@
 TACTICAL STROGG FROM STROGGOS
 
 
-CLASS:      Strogg Elite Infantry
+CLASS:      Tactical Strogg
 METABOLISM: Cybernetic Human Hybrid
-PERCEPTION: Advanced (combat training + Strogg sensor implants)
+PERCEPTION: Strogg Elite Infantry
 SIZE:       ~6 ft
 ENDURANCE:  High (armor + cybernetic enhancements)
 HOSTILITY:  Extreme

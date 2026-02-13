@@ -13,7 +13,7 @@ THREAT:     Medium-High (when in APC)
 
 DESCRIPTION:
 
-The Combine APC Driver is a specialized spherical drone, visually similar to a Combine  rollermine, that functions as an autopilot system for Armored Personnel Carriers when no human or transhuman pilot is available. Once connected, the sphere integrates itself into the APC’s systems, granting the vehicle autonomous control of its weaponry and movement.
+The Combine APC Driver is a specialized spherical drone, visually similar to a Combine  rollermine, that functions as an autopilot system for Armored Personnel Carriers when no human or transhuman pilot is available. Once connected, the sphere integrates itself into the APC's systems, granting the vehicle autonomous control of its weaponry and movement.
 
 Alone, the Driver is nearly harmless-fragile and unable to attack. Inside an APC, however, it becomes a dangerous extension of Combine power, controlling heavy cannons, mounted machine guns, and rocket launchers with machine precision. When destroyed or ejected, the APC ceases functioning and becomes immobile.
 

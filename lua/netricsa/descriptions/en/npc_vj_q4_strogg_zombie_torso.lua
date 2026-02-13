@@ -3,8 +3,8 @@ STROGG FAILED TRANSFER ZOMBIE TORSO FROM STROGGOS
 
 CLASS:      Strogg Cursed Zombie (Torso)
 METABOLISM: Cybernetic-Flesh Hybrid (Failed Stroggification)
-PERCEPTION: Limited vision and sound tracking
-SIZE:       ~2.5 ft
+PERCEPTION: Crawling Zombie
+SIZE:       ~2,5 ft
 ENDURANCE:  Low
 HOSTILITY:  High
 WEAPONS:    Clawed arms

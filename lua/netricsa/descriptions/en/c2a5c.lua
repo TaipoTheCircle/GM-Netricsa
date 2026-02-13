@@ -5,7 +5,7 @@ like things weren't already messy enough, the desert sky just had to add flair. 
 
 The ground? Forget it. The courtyard is mined, but whoever planted the charges was in a playful mood - no patterns, no markers, just invisible death waiting underfoot.
 
-And just when you think you’ve mapped every threat, there's movement in the upper windows. One frame is blacker than the rest, and inside that void perches something still, heavy, and wrong: a Stone Sniper. It hasn’t fired yet, but the weight of its gaze is enough to make even trained soldiers hesitate.
+And just when you think you've mapped every threat, there's movement in the upper windows. One frame is blacker than the rest, and inside that void perches something still, heavy, and wrong: a Stone Sniper. It hasn't fired yet, but the weight of its gaze is enough to make even trained soldiers hesitate.
 
 Threat summary:
 

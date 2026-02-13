@@ -13,7 +13,7 @@ THREAT:     Minimal
 
 DESCRIPTION:
 
-The Legionnaire is like Rome's off-brand sentry-armed with a spear and the unwavering belief that billing your enemy with pointy sticks solves everything. Clad in a green tunic and sandaled boots, he lumbers forward, almost mechanically. His charge-up time rivals snails on a coffee break-making him less a threat and more comedic relief... until he’s teamed up with tougher Romans, then he's suddenly less laughable and more shovel-to-the-face material.
+The Legionnaire is like Rome's off-brand sentry-armed with a spear and the unwavering belief that billing your enemy with pointy sticks solves everything. Clad in a green tunic and sandaled boots, he lumbers forward, almost mechanically. His charge-up time rivals snails on a coffee break-making him less a threat and more comedic relief... until he's teamed up with tougher Romans, then he's suddenly less laughable and more shovel-to-the-face material.
 
 TIPS:
 

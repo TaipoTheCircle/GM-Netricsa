@@ -13,4 +13,4 @@ NOTES:
 
 - Key specs are magnification and objective diameter; “10×40” = 10× magnification and 40 mm objective. 
 - Exit pupil = objective diameter ÷ magnification; important for low-light performance (typical useful exit pupil ≈4-7 mm depending on ambient light and viewer age). 
-- Twilight factor = √(magnification × objective diameter) - a rough indicator for dusk performance (doesn’t replace quality anti-reflection coatings).
+- Twilight factor = √(magnification × objective diameter) - a rough indicator for dusk performance (doesn't replace quality anti-reflection coatings).

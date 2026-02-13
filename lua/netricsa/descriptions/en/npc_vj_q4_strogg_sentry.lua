@@ -1,9 +1,9 @@
 STROGG SENTRY FROM STROGGOS
 
 
-CLASS:      Strogg, flying guard-gunner
+CLASS:      Strogg Sentry
 METABOLISM: Cybernetic organism, symbiosis
-PERCEPTION: Standard vision, precise target scanning
+PERCEPTION: flying guard-gunner
 SIZE:       ~5 ft
 ENDURANCE:  Low
 HOSTILITY:  Medium

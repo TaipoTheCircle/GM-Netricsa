@@ -1,10 +1,10 @@
 STROGG LIGHT GUARD FROM STROGGOS
 
 
-CLASS:      Strogg Guard Variant
+CLASS:      Strogg Light Guard
 METABOLISM: Cybernetic / Strogg-augmented human
-PERCEPTION: Visual + basic targeting
-SIZE:       ~5.8 ft tall
+PERCEPTION: Strogg Guard Variant
+SIZE:       ~5,8 ft tall
 ENDURANCE:  Low
 HOSTILITY:  High
 WEAPONS:    Blaster (right-arm arm-cannon), 5-round burst shot
@@ -21,4 +21,4 @@ TIPS:
 
 - Use any weapon - they are fragile.
 - Explosives and area effect weapons can clear groups efficiently.
-- Prioritize them early in fights so they don’t distract you while dealing with stronger Strogg.
+- Prioritize them early in fights so they don't distract you while dealing with stronger Strogg.

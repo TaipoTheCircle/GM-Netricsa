@@ -1,9 +1,9 @@
 STROGG STREAM PROTECTOR FROM STROGGOS
 
 
-CLASS:      Elite Strogg Combat Unit
+CLASS:      Strogg Stream Protector
 METABOLISM: Organic / Biomechanical Warrior
-PERCEPTION: Combat Vision System + Thermal and Vibrational Sensors
+PERCEPTION: Elite Strogg Combat Unit
 SIZE:       8,2 ft
 ENDURANCE:  Very High
 HOSTILITY:  Extreme

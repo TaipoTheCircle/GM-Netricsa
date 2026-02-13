@@ -13,4 +13,4 @@ Tentacles guard the verticals; they punish noise and poorly timed jumps.
 
 Active portal somewhere on the island - it links to the infantry-production halls.
 
-Vortigaunts are working, not immediately hostile if you don’t start a firefight.
+Vortigaunts are working, not immediately hostile if you don't start a firefight.

@@ -1,9 +1,9 @@
 STROGG GRUNT FROM STROGGOS
 
 
-CLASS:      Strogg Melee Infantry
+CLASS:      Strogg Grunt
 METABOLISM: Cybernetic / Bio-augmented organism
-PERCEPTION: Moderate (three eyes, close combat awareness)
+PERCEPTION: Strogg Melee Infantry
 SIZE:       ~6 ft tall
 ENDURANCE:  Medium
 HOSTILITY:  High
@@ -15,8 +15,7 @@ DESCRIPTION:
 
 Grunt is a humanoid Strogg, man-sized, with ape-like build, sharp teeth, three eyes, and green stroyent canisters along arms and back. 
 
-
-They prefer charging into melee-punching or pouncing at the enemy. They sometimes use a shoulder gun to fire from a distance, but that’s rare. When sufficiently damaged, they can “frenzy" - injecting stroyent from their canisters, boosting health and melee damage. While in frenzy, they roar and glow green.
+They prefer charging into melee-punching or pouncing at the enemy. They sometimes use a shoulder gun to fire from a distance, but that's rare. When sufficiently damaged, they can “frenzy" - injecting stroyent from their canisters, boosting health and melee damage. While in frenzy, they roar and glow green.
 
 
 

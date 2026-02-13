@@ -5,7 +5,7 @@ ITEM:      First Aid Kit
 
 DESCRIPTION:
 
-Portable medical kit used to restore the user’s health. Can recover a significant portion of health instantly, providing critical support during combat or after taking damage.
+Portable medical kit used to restore the user's health. Can recover a significant portion of health instantly, providing critical support during combat or after taking damage.
 
 NOTES:
 
