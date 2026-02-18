@@ -1,12 +1,12 @@
-FERROUS WROUGHTNAUT
+FERROUS WROUGHTNAUT FROM THE MINECRAFT OVERWORLD
 
 
 CLASS:      Ferrous Wroughtnaut
 METABOLISM: Enchanted Automaton
-PERCEPTION: Magical Life Sense, Seismic Sense
+PERCEPTION: Forgotten Guardian
 SIZE:       11 ft
-ENDURANCE:  Extremely high (magic armor)
-HOSTILITY:  Absolute (when disturbed)
+ENDURANCE:  Extremely high
+HOSTILITY:  Absolute
 WEAPONAUT:  Axe of a Thousand Metals, Magical Stomp
 REWARD:     10000 FC
 THREAT:     Maximum

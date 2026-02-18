@@ -1,14 +1,14 @@
 EVIL STONE FACE FROM THE KRIEGER ARCHIPELAGO
 
 
-CLASS:      Evil Stone Face, Unpaid Moai
-METABOLISM: Animated Stone
-PERCEPTION: Seismic, Vision
+CLASS:      Evil Stone Face
+METABOLISM: Living Stone
+PERCEPTION: Unpaid Moai
 SIZE:       ~14,7 ft
 ENDURANCE:  Extremely High
 HOSTILITY:  Extreme (due to unpaid wages)
 WEAPONS:    2 giant modified M4s, crushing head stomps
-REWARD:     0 FC (no wages)
+REWARD:     0 (no wages)
 THREAT:     Very High
 
 DESCRIPTION:
@@ -17,6 +17,7 @@ An ancient stone idol, Moai, brought to life through unknown circumstances and d
 
 TIPS:
 
-- Heavy fire from two high-caliber M4s and a devastating stomp attack that causes ground shaking and stuns make him a dangerous opponent.
+- Heavy fire from two high-caliber M4s and a devastating stomp attack that causes ground tremors and stuns make him a dangerous opponent.
 - Explosives (grenade launchers, C4) are effective against stone structures.
 - Potentially, he could be "pacified" by finding and returning his treasure-his "unpaid wages." But you don't have it.
+- You can appease him with Watermelons.

@@ -1,23 +1,23 @@
-COMPANION G-2 ROBOT FROM LOEK-III
+G-2 COMPANION ROBOT FROM THE LOEK-III
 
 
-CLASS:      Automated Defense Unit
-METABOLISM: Mechanical (Fusion Core Powered)
-PERCEPTION: Advanced Targeting Sensors + AI Coordination
+CLASS:      G-2 Companion Robot
+METABOLISM: Mechanical
+PERCEPTION: Automated Defense Robot
 SIZE:       ~3 ft
-ENDURANCE:  High (combat plating with layered shielding)
-HOSTILITY:  High (against enemies)
-WEAPONS:    kicks
-REWARD:     1200 FC
+ENDURANCE:  High
+HOSTILITY:  High
+WEAPONS:    Strikes
+REWARD:     1200
 THREAT:     High
 
 DESCRIPTION:
 
-The Companion G-2 Robot is a mechanized defender unit belonging to the Core Guardians Team, deployed during assaults against lums hordes. conflicts. it is covered with drawings by Sweet Autumn.
+The G-2 Companion Robot is a mechanized defender, part of the Core Guardian team, used during Lum horde attacks. Its body is painted by Sweet Autumn.
 
-Armed with hands capable of shredding aliens Lume creatures at melee. Its AI allows seamless coordination with Human Guardians, covering chokepoints and providing suppression where needed most.
+It is armed with arms capable of destroying Lum alien creatures in close combat. Its AI allows it to effectively cooperate with the Core Guardians, covering chokepoints and providing suppression where necessary.
 
 TIPS:
 
-- Keep G-2 near chokepoints for maximum efficiency.
-- Works best when supported by Human Guardians and tower structures.
+- Keep the G-2 near choke points for maximum effectiveness.
+- Works best with Core Guardians and turrets.

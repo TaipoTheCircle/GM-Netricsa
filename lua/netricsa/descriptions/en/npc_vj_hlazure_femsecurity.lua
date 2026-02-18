@@ -1,24 +1,24 @@
-BLACK MESA FEMALE SECURITY GUARD
+BARNIEL, BLACK MESA FEMALE SECURITY GUARD
 
 
-CLASS:      Security Personnel (Black Mesa)
+CLASS:      Barniel, Black Mesa Female Security Guard
 METABOLISM: Human, Female
-PERCEPTION: standard senses (sight, hearing)
-SIZE:       ~5'8"
-ENDURANCE:  medium (light armor vest)
-HOSTILITY:  neutral to staff, hostile to aliens
-WEAPONS:    Glock-17.
+PERCEPTION: Black Mesa Security Officer
+SIZE:       ~5,9 ft
+ENDURANCE:  Average
+HOSTILITY : Neutral toward personnel, hostile toward aliens
+WEAPONS:    Glock 17
 REWARD:     300 FC
-THREAT:     moderate
+THREAT:     Moderate
 
 DESCRIPTION:
 
-The Female Security Guard is part of Black Mesa's security team, tasked with protecting researchers, equipment, and sensitive areas of the facility. While similar in training and equipment to male security personnel, she often patrols corridors, labs, and maintenance areas that require flexibility and quick response.
+Security Guard Barniel is part of Black Mesa Security and is responsible for protecting researchers, equipment, and sensitive areas of the facility. Despite similar training and equipment to male security guards, she often patrols corridors, labs, and maintenance areas, requiring flexibility and quick response.
 
-During the Resonance Cascade, female security guards displayed adaptability and teamwork, helping to evacuate scientists, defend critical locations, and coordinate with other personnel. Though not heavily armored, they are trained to engage hostile Xen creatures and intruders, making them valuable in early containment and defense operations.
+During the Resonance Cascade, female security guards demonstrated adaptability and teamwork, helping evacuate scientists, protect critical facilities, and coordinate with other personnel. Despite their lack of heavy armor, they are trained to engage hostile Xen creatures and intruders, making them valuable in the early stages of containment and defense operations.
 
 TIPS:
 
-- Protect them when possible - they can assist with escort missions.
-- They are vulnerable to heavy attacks, so keeping them out of direct fire is crucial.
-- Observe their patrol patterns; they may indicate key points or safe routes.
+- Protect them whenever possible - they can assist in escort missions.
+- They are vulnerable to powerful attacks, so it's crucial to keep them out of direct fire.
+- Monitor their patrol routes; they can point out key points or safe routes.
