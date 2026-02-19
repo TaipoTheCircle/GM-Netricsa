@@ -591,6 +591,10 @@ end)
         ["npc_vj_tti_bigspongebob"] = true,
         ["npc_vj_meme_purpleguy"] = true,
         ["event_hlow_dropship"] = true,
+        ["ent_slender_source"] = true,
+        ["npc_sr_grossman"] = true,
+        ["npc_vj_slenderman"] = true,
+        ["npc_vj_rake"] = true
     }
 
     local function AnnounceSpecialNPC(ent)
