@@ -594,6 +594,7 @@ end)
         ["ent_slender_source"] = true,
         ["npc_sr_grossman"] = true,
         ["npc_vj_slenderman"] = true,
+        ["npc_vj_ss2_mental_institution"] = true,
         ["npc_vj_rake"] = true
     }
 

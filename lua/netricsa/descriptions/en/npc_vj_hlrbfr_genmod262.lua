@@ -1,9 +1,9 @@
 GENMOD 262 FROM UH-1
 
 
-CLASS:      Genetically Modified Xenian (Mini-Nihilanth variant)
+CLASS:      Genmod 262
 METABOLISM: Carnivorous / Parasitic
-PERCEPTION: Heightened sensory systems 
+PERCEPTION: Genetically Modified Xenian 
 SIZE:       Comparable to a small Nihilanth
 ENDURANCE:  High
 HOSTILITY:  Extreme

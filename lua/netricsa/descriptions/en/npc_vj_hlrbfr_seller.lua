@@ -1,12 +1,12 @@
 SELLER FROM BLACK ROCK
 
 
-CLASS:      Human (Trader)
+CLASS:      Seller From Black Rock
 METABOLISM: Human
-PERCEPTION: Average (trained observation, negotiation)
-SIZE:       ~5.9 ft
-ENDURANCE:  Low (civilian physique)
-HOSTILITY:  Low (neutral, avoids combat)
+PERCEPTION: Black Rock's Trader
+SIZE:       ~5,9 ft
+ENDURANCE:  Low
+HOSTILITY:  Low
 WEAPONS:    None
 REWARD:     40 FC
 THREAT:     Very Low

@@ -1,15 +1,15 @@
 GREEN BOID FROM UH-1
 
 
-CLASS: Alien, Subspecies of Xen
+CLASS:      Green Boid
 METABOLISM: unknown
-PERCEPTION: social flyer
-SIZE: ~3 ft wingspan
-ENDURANCE: Low
-HOSTILITY: None
-WEAPONS: None
-REWARD: 60 FC
-THREAT: None
+PERCEPTION: Subspecies of Xen
+SIZE:       ~3 ft wingspan
+ENDURANCE:  Low
+HOSTILITY:  None
+WEAPONS:    None
+REWARD:     60 FC
+THREAT:     None
 
 DESCRIPTION:
 

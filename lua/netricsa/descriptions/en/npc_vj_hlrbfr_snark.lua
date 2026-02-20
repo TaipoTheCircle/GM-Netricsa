@@ -1,15 +1,15 @@
 GENMOD-262'S SNARK FROM UH-1
 
 
-CLASS:      Xen Fauna
+CLASS:      Genmod-262's Snark
 METABOLISM: Aggressive Carnivore
-PERCEPTION: Sharp (fast reflexes, detects threats instantly)
+PERCEPTION: Xen Fauna
 SIZE:       ~1 ft
-ENDURANCE:  Low (fragile individually, but extremely hard to hit)
-HOSTILITY:  Extreme (attacks anything not allied)
+ENDURANCE:  Low
+HOSTILITY:  Extreme
 WEAPONS:    Bite, Claws, Explosive on Death
 REWARD:     150 FC
-THREAT:     High (due to speed and numbers)
+THREAT:     High
 
 DESCRIPTION:
 

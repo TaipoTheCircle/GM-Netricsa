@@ -222,10 +222,6 @@ SPECIAL_ANIMATIONS = {
         sequence = "standaim_gren_frag1", 
         fallback = "Idle"   
     },
-                                                                                        ["npc_vj_ss2_barbarian"] = {
-        sequence = "guard", 
-        fallback = "Idle"   
-    },
 }
 
 concommand.Add("netricsa_debug_anims", function(ply, cmd, args)
