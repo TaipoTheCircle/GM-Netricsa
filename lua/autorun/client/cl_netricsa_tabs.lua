@@ -533,6 +533,165 @@ end
                 OpenFraction(firstFrac)
             end
 
+elseif tabName == L("tabs","planets") then
+    local bgMatText = Material(NetricsaStyle.text, "noclamp smooth")
+
+    -- Верх: список планет
+    local planetListPanel = vgui.Create("DPanel", contentPanel)
+    NetricsaUtils.NoBG(planetListPanel)
+    planetListPanel:Dock(TOP)
+    planetListPanel:SetTall(200)
+    local upMat = Material(NetricsaStyle.up or "netricsa/up_bg.png", "noclamp smooth")
+    planetListPanel.Paint = function(self, w, h)
+        surface.SetDrawColor(255,255,255,255)
+        surface.SetMaterial(upMat)
+        surface.DrawTexturedRect(0, 0, w, h)
+    end
+
+    local planetScroll = vgui.Create("DScrollPanel", planetListPanel)
+    planetScroll:Dock(FILL)
+
+    -- Низ: картинка + описание
+    local bottomPanel = vgui.Create("DPanel", contentPanel)
+    NetricsaUtils.NoBG(bottomPanel)
+    bottomPanel:Dock(FILL)
+    bottomPanel:DockMargin(0, 10, 0, 0)
+
+    local imgPanel = vgui.Create("DPanel", bottomPanel)
+    imgPanel:Dock(LEFT)
+    imgPanel:SetWide(contentPanel:GetWide() * 0.4)
+    imgPanel.Paint = function(self, w, h)
+        local planet = bottomPanel.CurrentPlanet
+        if planet then
+            -- Используем полное имя файла (ss_planet_earth.png)
+            local imgPath = "ssplanets/" .. planet .. ".png"
+            
+            -- Проверяем существует ли файл
+            if file.Exists("materials/" .. imgPath, "GAME") then
+                -- Создаем материал если его еще нет
+                local mat = Material(imgPath, "noclamp smooth")
+                if mat and not mat:IsError() then
+                    surface.SetDrawColor(255,255,255,255)
+                    surface.SetMaterial(mat)
+                    surface.DrawTexturedRect(0,0,w,h)
+                else
+                    -- Заглушка если материал не создался
+                    surface.SetDrawColor(50,50,50,255)
+                    surface.DrawRect(0,0,w,h)
+                    draw.SimpleText("Material Error", "NetricsaText", w/2, h/2, 
+                        Color(255,0,0), TEXT_ALIGN_CENTER, TEXT_ALIGN_CENTER)
+                end
+            else
+                -- Заглушка если нет изображения
+                surface.SetDrawColor(50,50,50,255)
+                surface.DrawRect(0,0,w,h)
+                draw.SimpleText("No Image", "NetricsaText", w/2, h/2, 
+                    Color(255,0,0), TEXT_ALIGN_CENTER, TEXT_ALIGN_CENTER)
+            end
+        else
+            -- Если планета не выбрана - ничего не рисуем (пустой фон)
+            -- Это уберет мелькание "Select a planet"
+            surface.SetDrawColor(50,50,50,255)
+            surface.DrawRect(0,0,w,h)
+        end
+    end
+
+    local textPanel = vgui.Create("DPanel", bottomPanel)
+    NetricsaUtils.NoBG(textPanel)
+    textPanel:Dock(FILL)
+    textPanel:DockMargin(10,0,0,0)
+    textPanel.Paint = function(self, w, h)
+        surface.SetDrawColor(255,255,255,255)
+        surface.SetMaterial(bgMatText)
+        surface.DrawTexturedRect(0,0,w,h)
+    end
+
+    local descBox = vgui.Create("RichText", textPanel)
+    descBox:Dock(FILL)
+    descBox:SetVerticalScrollbarEnabled(true)
+    function descBox:PerformLayout()
+        self:SetFontInternal("NetricsaText")
+        self:SetFGColor(NetricsaStyle.color or Color(255,255,0))
+    end
+    descBox:SetText("") -- Пустой текст при создании
+
+    -- Функция открытия планеты
+    local function OpenPlanet(name)
+        print("[Netricsa] Opening planet: " .. name)
+        bottomPanel.CurrentPlanet = name
+        
+        -- Отмечаем как прочитанное (опционально)
+        if not NetricsaData.READ_STATUS.planets then
+            NetricsaData.READ_STATUS.planets = {}
+        end
+        NetricsaData.READ_STATUS.planets[name] = true
+        NetricsaData.SaveProgress()
+        
+        local desc = NetricsaData.LoadDescription(name) or "No data available."
+        NetricsaUtils.SetAnimatedText(descBox, desc)
+        
+        -- Принудительно обновляем панель с изображением
+        imgPanel:InvalidateLayout()
+    end
+
+    -- Поиск файлов описаний планет (с префиксом ss_planet_)
+    local lang = CurrentLang or "en"
+    local files, _ = file.Find("lua/netricsa/descriptions/"..lang.."/ss_planet_*.lua","GAME")
+    
+    if #files == 0 then
+        -- Если нет файлов, показываем заглушку
+        local btn = vgui.Create("DButton", planetScroll)
+        btn:Dock(TOP)
+        btn:DockMargin(5,2,5,2)
+        btn:SetTall(30)
+        btn:SetText("")
+        btn.Paint = function(self,w,h)
+            draw.SimpleText("No planets data found","NetricsaText",5,h/2,
+                Color(150,150,150), TEXT_ALIGN_LEFT, TEXT_ALIGN_CENTER)
+        end
+    else
+        -- Сортируем файлы для красоты
+        table.sort(files)
+        
+        -- Переменная для первой планеты
+        local firstPlanet = nil
+        
+        for _, f in ipairs(files) do
+            local planetName = string.StripExtension(f) -- полное имя файла (ss_planet_earth)
+            local displayName = NetricsaData.GetEnemyDisplayName(planetName) or planetName
+            
+            -- Запоминаем первую планету
+            if not firstPlanet then
+                firstPlanet = planetName
+            end
+            
+            local btn = vgui.Create("DButton", planetScroll)
+            btn:Dock(TOP)
+            btn:DockMargin(5,2,5,2)
+            btn:SetTall(30)
+            btn:SetText("")
+            btn.Paint = function(self,w,h)
+                local color
+                if bottomPanel.CurrentPlanet == planetName then
+                    color = Color(255,255,255)
+                elseif NetricsaData.READ_STATUS.planets and NetricsaData.READ_STATUS.planets[planetName] then
+                    color = Color(150,150,150)
+                else
+                    color = NetricsaStyle.color
+                end
+                draw.SimpleText(displayName,"NetricsaText",5,h/2,color,
+                    TEXT_ALIGN_LEFT, TEXT_ALIGN_CENTER)
+            end
+            btn.DoClick = function() OpenPlanet(planetName) end
+        end
+        
+        -- Открываем первую планету НЕМЕДЛЕННО (без timer.Simple)
+        if firstPlanet then
+            print("[Netricsa] Opening first planet immediately: " .. firstPlanet)
+            OpenPlanet(firstPlanet)
+        end
+    end
+
         elseif tabName == L("tabs","weapons") then
             local bgMatText = Material(NetricsaStyle.text, "noclamp smooth")
 

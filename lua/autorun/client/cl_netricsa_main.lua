@@ -183,6 +183,7 @@ if CLIENT then
             L("tabs","weapons"),
             L("tabs","enemies"),
             L("tabs","fractions"),
+            L("tabs","planets"),
             L("tabs","statistics")
         }
 

@@ -8,6 +8,7 @@ if CLIENT then
                 enemies    = "ENEMIES",
                 statistics = "STATISTICS",
                 fractions  = "FACTIONS",
+                planets    = "PLANETS",
                 settings   = "SETTINGS"   
             },
             ui = {
@@ -59,6 +60,7 @@ if CLIENT then
                 enemies    = "ВРАГИ",
                 statistics = "СТАТИСТИКА",
                 fractions  = "ФРАКЦИИ",
+                planets    = "ПЛАНЕТЫ",
                 settings   = "НАСТРОЙКИ"  
             },
             ui = {
