@@ -22,32 +22,31 @@ if CLIENT then
     end
 
     -- Отрисовка подсказки (только когда смотрим на NPC)
-    hook.Add("HUDPaint", "Netricsa_ScanPrompt", function()
-        -- 🔹 НЕ ПОКАЗЫВАТЬ ПОДСКАЗКУ ЕСЛИ ОТКРЫТ ИНТЕРФЕЙС NETRICSA
-        if IsValid(NetricsaFrame) and NetricsaFrame:IsVisible() then
-            return
-        end
-        
-        if not scanPromptNPC then return end
-        
-        local alpha = math.abs(math.sin(CurTime() * 3)) * 255
-        local style = NetricsaStyle or STYLES.Revolution
-        
-        -- 🔹 ИСПОЛЬЗУЕМ ЛОКАЛЬНУЮ ПЕРЕМЕННУЮ ДЛЯ ЦВЕТА, А НЕ МЕНЯЕМ ГЛОБАЛЬНЫЙ STYLE
-        local scanColor = Color(style.color.r, style.color.g, style.color.b, alpha)
-        
-        local keyName = GetConVar("netricsa_scan_key"):GetString()
-        if keyName == "" then keyName = "E" end
-        
-        local text = L("ui", "scan_prompt"):format(keyName:upper())
-        
-        -- Рисуем внизу экрана по центру
-        draw.SimpleText(text, "NetricsaBig", ScrW() / 2, ScrH() - 100, scanColor, TEXT_ALIGN_CENTER)
-        
-        -- Дополнительная подсказка - какой NPC сканируется
-        local displayName = NetricsaData.GetEnemyDisplayName(scanPromptNPC) or scanPromptNPC
-        draw.SimpleText(displayName, "NetricsaText", ScrW() / 2, ScrH() - 130, scanColor, TEXT_ALIGN_CENTER)
-    end)
+hook.Add("HUDPaint", "Netricsa_ScanPrompt", function()
+    if IsValid(NetricsaFrame) and NetricsaFrame:IsVisible() then
+        return
+    end
+    
+    if not scanPromptNPC then return end
+    
+    local alpha = math.abs(math.sin(CurTime() * 3)) * 255
+    local style = NetricsaStyle or STYLES.Revolution
+    
+    -- Используем цвет стиля
+    local scanColor = Color(style.color.r, style.color.g, style.color.b, alpha)
+    
+    local keyName = GetConVar("netricsa_scan_key"):GetString()
+    if keyName == "" then keyName = "E" end
+    
+    local text = L("ui", "scan_prompt"):format(keyName:upper())
+    
+    -- Рисуем внизу экрана по центру
+    draw.SimpleText(text, "NetricsaBig", ScrW() / 2, ScrH() - 100, scanColor, TEXT_ALIGN_CENTER)
+    
+    -- Дополнительная подсказка - какой NPC сканируется
+    local displayName = NetricsaData.GetEnemyDisplayName(scanPromptNPC) or scanPromptNPC
+    draw.SimpleText(displayName, "NetricsaText", ScrW() / 2, ScrH() - 130, scanColor, TEXT_ALIGN_CENTER)
+end)
 
     -- Обработка нажатия клавиши сканирования
     hook.Add("Think", "Netricsa_ScanInput", function()

@@ -147,7 +147,7 @@ if CLIENT then
                 NetricsaData.READ_STATUS.maps[mapName] = true
                 NetricsaData.SaveProgress()
                 local desc = NetricsaData.LoadDescription(mapName) or "No data available."
-                NetricsaUtils.SetAnimatedText(descBox, desc)
+                NetricsaUtils.SetAnimatedText(descBox, desc, 10, 0.005) -- быстрее печать
             end
 
             -- список карт: стиль как у ENEMIES, название - первая строка из descriptions/<map>.lua
@@ -416,7 +416,7 @@ end
         end
     end
                 local desc = NetricsaData.LoadDescription(npcClass) or "No data available."
-                NetricsaUtils.SetAnimatedText(descBox, desc)
+                NetricsaUtils.SetAnimatedText(descBox, desc, 10, 0.005) -- быстрее печать
             end
 
             for npcClass, data in pairs(NetricsaData.ENEMIES) do
@@ -507,7 +507,7 @@ end
             local function OpenFraction(name)
                 bottomPanel.CurrentFrac = name
                 local desc = NetricsaData.LoadDescription(name) or "No data available."
-                NetricsaUtils.SetAnimatedText(descBox, desc)
+                NetricsaUtils.SetAnimatedText(descBox, desc, 10, 0.005) -- быстрее печать
             end
 
             -- перебор файлов descriptions/<lang>/ssfrac_*.lua
@@ -628,7 +628,7 @@ elseif tabName == L("tabs","planets") then
         NetricsaData.SaveProgress()
         
         local desc = NetricsaData.LoadDescription(name) or "No data available."
-        NetricsaUtils.SetAnimatedText(descBox, desc)
+        NetricsaUtils.SetAnimatedText(descBox, desc, 10, 0.005) -- быстрее печать
         
         -- Принудительно обновляем панель с изображением
         imgPanel:InvalidateLayout()
@@ -841,7 +841,7 @@ end
                     NetricsaUtils.FitModel(ent, modelPanel)
                 end
                 local desc = NetricsaData.LoadDescription(class) or "No data available."
-                NetricsaUtils.SetAnimatedText(descBox, desc)
+                NetricsaUtils.SetAnimatedText(descBox, desc, 10, 0.005) -- быстрее печать
             end
 
             for class, data in pairs(NetricsaData.WEAPONS) do
@@ -959,7 +959,7 @@ statsPanel.Paint = function(self, w, h)
     local timeText = L("ui","game_time") .. ": " .. playTime
 
     -- рисуем текст
-    draw.SimpleText("TOTAL", "NetricsaTitle", 20, 20, style.color, TEXT_ALIGN_LEFT)
+    draw.SimpleText(L("ui","total"), "NetricsaTitle", 20, 20, style.color, TEXT_ALIGN_LEFT)
     draw.SimpleText(scoreText, "NetricsaText", 20, 60, style.color, TEXT_ALIGN_LEFT) -- ПЕРВЫЙ
     draw.SimpleText(killsText, "NetricsaText", 20, 90, style.color, TEXT_ALIGN_LEFT)
     draw.SimpleText(secretsText, "NetricsaText", 20, 120, style.color, TEXT_ALIGN_LEFT)

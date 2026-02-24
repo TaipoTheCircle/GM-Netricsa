@@ -138,12 +138,16 @@ end
             NetricsaStyle.color or Color(255, 255, 0), TEXT_ALIGN_CENTER, TEXT_ALIGN_CENTER)
     end)
 
-    hook.Add("HUDPaint","NetricsaScanText",function()
-        if NetricsaData.showScan then
-            local alpha = math.abs(math.sin(CurTime()*4))*255
-            draw.SimpleText(L("ui","scanning"),"NetricsaBig",ScrW()/2,100,Color(0,255,255,alpha),TEXT_ALIGN_CENTER)
-        end
-    end)
+hook.Add("HUDPaint","NetricsaScanText",function()
+    if NetricsaData.showScan then
+        local alpha = math.abs(math.sin(CurTime()*4))*255
+        local style = NetricsaStyle or STYLES.Revolution
+        local scanColor = Color(style.color.r, style.color.g, style.color.b, alpha)
+        
+        draw.SimpleText(L("ui","scanning"), "NetricsaBig", ScrW()/2, 170, 
+            scanColor, TEXT_ALIGN_CENTER, TEXT_ALIGN_CENTER)
+    end
+end)
 
     hook.Add("HUDPaint", "NetricsaMailIcon", function()
         if not NetricsaStyle or not NetricsaStyle.mail then return end

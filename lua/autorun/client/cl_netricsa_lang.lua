@@ -14,7 +14,7 @@ if CLIENT then
             ui = {
                 styles        = "STYLES",
                 language      = "LANGUAGE",
-                scanning      = "SCANNING...",
+                scanning      = "Analyzing...",
                 kills         = "KILLS",
                 secrets       = "SECRETS",
                 game_time     = "GAME TIME",
@@ -48,7 +48,10 @@ if CLIENT then
 
                 -- НОВЫЕ ПЕРЕВОДЫ
                 auto_rotate_help    = "Automatic rotation of models",
-                auto_rotate_label   = "Auto-rotate NPC models"
+                auto_rotate_label   = "Auto-rotate NPC models",
+
+                -- TOTAL
+                total               = "TOTAL", 
             }
         },
 
@@ -66,7 +69,7 @@ if CLIENT then
             ui = {
                 styles        = "СТИЛИ",
                 language      = "ЯЗЫК",
-                scanning      = "СКАНИРОВАНИЕ...",
+                scanning      = "Анализ Полученных Данных...",
                 kills         = "УБИЙСТВА",
                 secrets       = "СЕКРЕТЫ",
                 game_time     = "ВРЕМЯ В ИГРЕ",
@@ -94,7 +97,9 @@ if CLIENT then
 
                 -- НОВЫЕ ПЕРЕВОДЫ
                 auto_rotate_help    = "Автоматическое вращение моделей",
-                auto_rotate_label   = "Авто-вращение моделей NPC"
+                auto_rotate_label   = "Авто-вращение моделей NPC",
+
+                total               = "ВСЕГО",
             }
         }
     }

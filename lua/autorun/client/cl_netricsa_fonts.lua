@@ -1,21 +1,21 @@
 if CLIENT then
     surface.CreateFont("NetricsaText", {
-        font     = "Arial",
+        font     = "Lucida Console",
         size     = 16,
         weight   = 500,
         extended = true
     })
 
     surface.CreateFont("NetricsaTitle", {
-        font     = "Arial",
+        font     = "Lucida Console",
         size     = 22,
         weight   = 700,
         extended = true
     })
 
     surface.CreateFont("NetricsaBig", {
-        font     = "Arial",
-        size     = 48,
+        font     = "Lucida Console",
+        size     = 28,
         weight   = 800,
         extended = true
     })
