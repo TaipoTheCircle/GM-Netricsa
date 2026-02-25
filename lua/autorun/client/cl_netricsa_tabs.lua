@@ -266,7 +266,7 @@ function modelPanel:LayoutEntity(ent)
     -- Определяем целевой угол в зависимости от режима
     if autoRotate then
         -- При авто-вращении цель зависит от времени (только по горизонтали)
-        self.targetAngle = Angle(0, RealTime() * 15 % 360, 0) -- МЕДЛЕННЕЕ (было 30)
+        self.targetAngle = Angle(0, RealTime() * 30 % 360, 0) -- МЕДЛЕННЕЕ (было 30)
     else
         -- Без авто-вращения используем базовый угол
         self.targetAngle = self.baseAngle
@@ -798,28 +798,79 @@ modelPanel:SetFOV(40)
 modelPanel:SetCamPos(Vector(100, 0, 60))
 modelPanel:SetLookAt(Vector(0, 0, 40))
 
--- Новые переменные для вращения мышью
+-- Переменные для вращения мышью и плавного возврата
 modelPanel.isDragging = false
-modelPanel.lastAngles = Angle(0, 0, 0)
 modelPanel.dragStartX = 0
 modelPanel.dragStartY = 0
 modelPanel.dragStartAngles = Angle(0, 0, 0)
+modelPanel.targetAngle = Angle(0, 0, 0)  -- Целевой угол (куда возвращаемся)
+modelPanel.currentAngle = Angle(0, 0, 0)  -- Текущий угол модели
+modelPanel.returnSpeed = 2  -- Скорость возврата (градусов в секунду)
+modelPanel.lastDragTime = 0  -- Время последнего перетаскивания
+modelPanel.returnDelay = 1.0  -- Задержка перед возвратом (секунд)
+modelPanel.userAngle = nil  -- Запоминаем угол, который задал пользователь
 
 function modelPanel:LayoutEntity(ent)
     if not IsValid(ent) then return end
     
-    -- Вращаем только если не тащим мышкой
-    if not self.isDragging then
-        ent:SetAngles(Angle(0, RealTime() * 30 % 360, 0))
+    -- ДЛЯ ОРУЖИЯ АВТО-ВРАЩЕНИЕ ВСЕГДА ВКЛЮЧЕНО (игнорируем конвар)
+    -- При авто-вращении цель зависит от времени (только по горизонтали)
+    self.targetAngle = Angle(0, RealTime() *30 % 360, 0) -- МЕДЛЕННОЕ вращение
+    
+    -- Если сейчас перетаскивание, обновляем позицию и запоминаем время
+    if self.isDragging then
+        self.currentAngle = ent:GetAngles()
+        self.lastDragTime = CurTime()
+        self.userAngle = ent:GetAngles()  -- Запоминаем угол пользователя
     else
-        -- Сохраняем последние углы при перетаскивании
-        self.lastAngles = ent:GetAngles()
+        -- Если не перетаскиваем, плавно возвращаемся к целевому углу
+        
+        -- Проверяем, прошло ли достаточно времени после последнего перетаскивания
+        local timeSinceDrag = CurTime() - self.lastDragTime
+        
+        if timeSinceDrag > self.returnDelay and self.userAngle then
+            -- Плавно интерполируем от запомненного угла пользователя к целевому
+            
+            -- Скорость возврата зависит от времени (чем дольше, тем ближе к цели)
+            local progress = (timeSinceDrag - self.returnDelay) * self.returnSpeed
+            progress = math.min(progress, 1)  -- Не больше 1 (полный возврат)
+            
+            -- Интерполяция углов по всем осям
+            local startAngle = self.userAngle
+            local targetY = self.targetAngle.y
+            
+            -- Для вертикали возвращаемся к 0 (горизонтально)
+            local targetP = 0
+            
+            -- Находим кратчайший путь для горизонтали
+            local diffY = (targetY - startAngle.y + 540) % 360 - 180
+            local newY = startAngle.y + diffY * progress
+            
+            -- Вертикаль интерполируем к 0
+            local newP = startAngle.p * (1 - progress)
+            
+            self.currentAngle = Angle(newP, newY, 0)
+            
+            -- Если достигли цели, сбрасываем userAngle
+            if progress >= 1 then
+                self.userAngle = nil
+            end
+        elseif not self.userAngle then
+            -- Если нет пользовательского угла, используем целевой
+            self.currentAngle = self.targetAngle
+        else
+            -- Во время задержки держим угол пользователя
+            self.currentAngle = self.userAngle
+        end
     end
+    
+    -- Применяем текущий угол к модели
+    ent:SetAngles(self.currentAngle)
     
     self:RunAnimation()
 end
 
--- Обработка мыши
+-- Обработка мыши (та же, что и раньше)
 function modelPanel:OnMousePressed(mouseCode)
     if mouseCode == MOUSE_LEFT then
         self.isDragging = true
@@ -828,39 +879,42 @@ function modelPanel:OnMousePressed(mouseCode)
         local ent = self:GetEntity()
         if IsValid(ent) then
             self.dragStartAngles = ent:GetAngles()
-        else
-            self.dragStartAngles = Angle(0, 0, 0)
+            self.currentAngle = ent:GetAngles()
+            self.userAngle = ent:GetAngles()
         end
         
         self:SetCursor("sizeall")
         self:MouseCapture(true)
         return true
     end
-
-if mouseCode == MOUSE_WHEEL_UP or mouseCode == MOUSE_WHEEL_DOWN then
-    return true -- Блокируем прокрутку родительских панелей
-end
-
-
-function modelPanel:OnMouseWheeled(delta)
-    local curFOV = self:GetFOV()
-    local newFOV = curFOV - delta * 5 -- 5 - скорость зума
     
-    -- Ограничиваем FOV разумными пределами
-    newFOV = math.Clamp(newFOV, 10, 80)
-    
-    self:SetFOV(newFOV)
-    return true
-end
+    if mouseCode == MOUSE_WHEEL_UP or mouseCode == MOUSE_WHEEL_DOWN then
+        return true
+    end
 end
 
 function modelPanel:OnMouseReleased(mouseCode)
     if mouseCode == MOUSE_LEFT and self.isDragging then
         self.isDragging = false
+        self.lastDragTime = CurTime()
+        
+        local ent = self:GetEntity()
+        if IsValid(ent) then
+            self.userAngle = ent:GetAngles()
+        end
+        
         self:SetCursor("arrow")
         self:MouseCapture(false)
         return true
     end
+end
+
+function modelPanel:OnMouseWheeled(delta)
+    local curFOV = self:GetFOV()
+    local newFOV = curFOV - delta * 5
+    newFOV = math.Clamp(newFOV, 10, 80)
+    self:SetFOV(newFOV)
+    return true
 end
 
 function modelPanel:Think()
@@ -872,11 +926,13 @@ function modelPanel:Think()
         local ent = self:GetEntity()
         if IsValid(ent) then
             local newAng = Angle(
-                math.Clamp(self.dragStartAngles.p + dy * 0.5, -90, 90),  -- Изменено: + вместо -
+                math.Clamp(self.dragStartAngles.p + dy * 0.5, -90, 90),
                 self.dragStartAngles.y + dx * 0.5,
                 0
             )
             ent:SetAngles(newAng)
+            self.currentAngle = newAng
+            self.userAngle = newAng
         end
     end
 end
