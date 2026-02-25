@@ -244,12 +244,18 @@ modelPanel:SetFOV(40)
 modelPanel:SetCamPos(Vector(100, 0, 60))
 modelPanel:SetLookAt(Vector(0, 0, 40))
 
--- Новые переменные для вращения мышью
+-- Переменные для вращения мышью и плавного возврата
 modelPanel.isDragging = false
 modelPanel.dragStartX = 0
 modelPanel.dragStartY = 0
 modelPanel.dragStartAngles = Angle(0, 0, 0)
-modelPanel.baseAngle = Angle(0, 50, 0) -- Базовая позиция: 45 градусов влево
+modelPanel.targetAngle = Angle(0, 0, 0)  -- Целевой угол (куда возвращаемся)
+modelPanel.currentAngle = Angle(0, 0, 0)  -- Текущий угол модели
+modelPanel.returnSpeed = 2  -- Скорость возврата (градусов в секунду) - МЕДЛЕННЕЕ
+modelPanel.baseAngle = Angle(0, 50, 0) -- Базовая позиция: 50 градусов влево
+modelPanel.lastDragTime = 0  -- Время последнего перетаскивания
+modelPanel.returnDelay = 1.0  -- Задержка перед возвратом (секунд) - ДОЛЬШЕ
+modelPanel.userAngle = nil  -- Запоминаем угол, который задал пользователь
 
 function modelPanel:LayoutEntity(ent)
     if not IsValid(ent) then return end
@@ -257,13 +263,68 @@ function modelPanel:LayoutEntity(ent)
     -- Получаем значение конвара
     local autoRotate = GetConVar("netricsa_auto_rotate"):GetBool()
     
-    -- Вращаем только если включено авто-вращение и не тащим мышкой
-    if autoRotate and not self.isDragging then
-        ent:SetAngles(Angle(0, RealTime() * 30 % 360, 0))
-    elseif not self.isDragging then
-        -- Если авто-вращение выключено, используем базовый угол
-        ent:SetAngles(self.baseAngle)
+    -- Определяем целевой угол в зависимости от режима
+    if autoRotate then
+        -- При авто-вращении цель зависит от времени (только по горизонтали)
+        self.targetAngle = Angle(0, RealTime() * 15 % 360, 0) -- МЕДЛЕННЕЕ (было 30)
+    else
+        -- Без авто-вращения используем базовый угол
+        self.targetAngle = self.baseAngle
     end
+    
+    -- Если сейчас перетаскивание, обновляем позицию и запоминаем время
+    if self.isDragging then
+        self.currentAngle = ent:GetAngles()
+        self.lastDragTime = CurTime()
+        self.userAngle = ent:GetAngles()  -- Запоминаем угол пользователя
+    else
+        -- Если не перетаскиваем, плавно возвращаемся к целевому углу
+        
+        -- Проверяем, прошло ли достаточно времени после последнего перетаскивания
+        local timeSinceDrag = CurTime() - self.lastDragTime
+        
+        if timeSinceDrag > self.returnDelay and self.userAngle then
+            -- Плавно интерполируем от запомненного угла пользователя к целевому
+            
+            -- Скорость возврата зависит от времени (чем дольше, тем ближе к цели)
+            local progress = (timeSinceDrag - self.returnDelay) * self.returnSpeed
+            progress = math.min(progress, 1)  -- Не больше 1 (полный возврат)
+            
+            -- Интерполяция углов по всем осям
+            local startAngle = self.userAngle
+            local targetY = self.targetAngle.y
+            
+            -- Для вертикали возвращаемся к 0 (горизонтально)
+            local targetP = 0
+            
+            -- Находим кратчайший путь для горизонтали
+            local diffY = (targetY - startAngle.y + 540) % 360 - 180
+            local newY = startAngle.y + diffY * progress
+            
+            -- Вертикаль просто интерполируем к 0
+            local newP = startAngle.p * (1 - progress)
+            
+            self.currentAngle = Angle(newP, newY, 0)
+            
+            -- Если достигли цели, сбрасываем userAngle
+            if progress >= 1 then
+                self.userAngle = nil
+            end
+        elseif not self.userAngle then
+            -- Если нет пользовательского угла, используем целевой
+            if autoRotate then
+                self.currentAngle = self.targetAngle
+            else
+                self.currentAngle = self.baseAngle
+            end
+        else
+            -- Во время задержки держим угол пользователя
+            self.currentAngle = self.userAngle
+        end
+    end
+    
+    -- Применяем текущий угол к модели
+    ent:SetAngles(self.currentAngle)
     
     self:RunAnimation()
 end
@@ -277,8 +338,12 @@ function modelPanel:OnMousePressed(mouseCode)
         local ent = self:GetEntity()
         if IsValid(ent) then
             self.dragStartAngles = ent:GetAngles()
+            self.currentAngle = ent:GetAngles()
+            self.userAngle = ent:GetAngles()  -- Запоминаем угол пользователя
         else
             self.dragStartAngles = self.baseAngle
+            self.currentAngle = self.baseAngle
+            self.userAngle = self.baseAngle
         end
         
         self:SetCursor("sizeall")
@@ -286,7 +351,6 @@ function modelPanel:OnMousePressed(mouseCode)
         return true
     end
     
-    -- Блокируем прокрутку колесика в родительских панелях
     if mouseCode == MOUSE_WHEEL_UP or mouseCode == MOUSE_WHEEL_DOWN then
         return true
     end
@@ -295,14 +359,12 @@ end
 function modelPanel:OnMouseReleased(mouseCode)
     if mouseCode == MOUSE_LEFT and self.isDragging then
         self.isDragging = false
+        self.lastDragTime = CurTime()  -- Запоминаем время отпускания
         
-        -- Если авто-вращение выключено, возвращаем к базовому углу
-        local autoRotate = GetConVar("netricsa_auto_rotate"):GetBool()
-        if not autoRotate then
-            local ent = self:GetEntity()
-            if IsValid(ent) then
-                ent:SetAngles(self.baseAngle)
-            end
+        -- Обновляем userAngle последним положением
+        local ent = self:GetEntity()
+        if IsValid(ent) then
+            self.userAngle = ent:GetAngles()
         end
         
         self:SetCursor("arrow")
@@ -312,13 +374,9 @@ function modelPanel:OnMouseReleased(mouseCode)
 end
 
 function modelPanel:OnMouseWheeled(delta)
-    -- Приближение/отдаление колёсиком мыши
     local curFOV = self:GetFOV()
-    local newFOV = curFOV - delta * 5 -- 5 - скорость зума
-    
-    -- Ограничиваем FOV разумными пределами
+    local newFOV = curFOV - delta * 5
     newFOV = math.Clamp(newFOV, 10, 80)
-    
     self:SetFOV(newFOV)
     return true
 end
@@ -337,6 +395,8 @@ function modelPanel:Think()
                 0
             )
             ent:SetAngles(newAng)
+            self.currentAngle = newAng
+            self.userAngle = newAng  -- Обновляем угол пользователя
         end
     end
 end
