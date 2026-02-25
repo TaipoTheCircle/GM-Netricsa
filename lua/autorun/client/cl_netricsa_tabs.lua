@@ -360,23 +360,34 @@ end
             end
             descBox:SetText(L("ui","select_enemy"))
 
-            local function OpenEnemy(npcClass)
-                bottomPanel.CurrentEnemy = npcClass
-                NetricsaData.READ_STATUS.enemies[npcClass] = true
-                NetricsaData.SaveProgress()
-                local entData = NetricsaData.ENEMIES[npcClass]
-                modelPanel:SetModel(entData.mdl or "models/props_c17/oildrum001.mdl")
-                local ent = modelPanel:GetEntity()
-                if IsValid(ent) then
-                    NetricsaUtils.FitModel(ent, modelPanel)
-                    ent:SetSkin(entData.skin or 0)
-                    if entData.bodygroups then
-                        for i, bg in ipairs(entData.bodygroups) do
-                            ent:SetBodygroup(i-1, bg)
-                        end
-                    end
+local function OpenEnemy(npcClass)
+    bottomPanel.CurrentEnemy = npcClass
+    NetricsaData.READ_STATUS.enemies[npcClass] = true
+    NetricsaData.SaveProgress()
+    local entData = NetricsaData.ENEMIES[npcClass]
+    modelPanel:SetModel(entData.mdl or "models/props_c17/oildrum001.mdl")
+    local ent = modelPanel:GetEntity()
+    if IsValid(ent) then
+        NetricsaUtils.FitModel(ent, modelPanel)
+        ent:SetSkin(entData.skin or 0)
+        
+        -- Стандартные bodygroup из данных NPC
+        if entData.bodygroups then
+            for i, bg in ipairs(entData.bodygroups) do
+                ent:SetBodygroup(i-1, bg)
+            end
+        end
+        
+        -- ПРИМЕНЯЕМ СПЕЦИАЛЬНЫЕ BODYGROUP
+        if SPECIAL_BODYGROUPS and SPECIAL_BODYGROUPS[npcClass] then
+            for _, setting in ipairs(SPECIAL_BODYGROUPS[npcClass]) do
+                ent:SetBodygroup(setting.group, setting.value)
+                print("[Netricsa] Applied special bodygroup for " .. npcClass .. 
+                      ": group " .. setting.group .. " = " .. setting.value)
+            end
+        end
 
--- Проверка на особые анимации
+        -- Анимации (оставляем как есть)
         local specialAnim = SPECIAL_ANIMATIONS[npcClass]
         local seq = -1
         
@@ -384,7 +395,6 @@ end
             seq = ent:LookupSequence(specialAnim.sequence) or ent:LookupSequence(specialAnim.fallback)
         end
         
-        -- Если не нашли специальную анимацию, используем стандартную логику
         if seq <= 0 then
             seq = ent:SelectWeightedSequence(ACT_FLY) or ent:LookupSequence("fly")
             if seq <= 0 then
@@ -401,7 +411,6 @@ end
         if seq > 0 then
             ent:ResetSequence(seq)
         else
-            -- Фолбэк логика
             local ragdollSeq = ent:LookupSequence("ragdoll")
             local meltflySeq = ent:LookupSequence("meltfly")
             local sequenceCount = ent:GetSequenceCount() or 0
@@ -415,9 +424,9 @@ end
             ent:ResetSequence(seq)
         end
     end
-                local desc = NetricsaData.LoadDescription(npcClass) or "No data available."
-                NetricsaUtils.SetAnimatedText(descBox, desc, 10, 0.005) -- быстрее печать
-            end
+    local desc = NetricsaData.LoadDescription(npcClass) or "No data available."
+    NetricsaUtils.SetAnimatedText(descBox, desc, 10, 0.005)
+end
 
             for npcClass, data in pairs(NetricsaData.ENEMIES) do
                 local displayName = NetricsaData.GetEnemyDisplayName(npcClass)

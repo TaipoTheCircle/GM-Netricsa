@@ -222,6 +222,19 @@ SPECIAL_ANIMATIONS = {
         sequence = "standaim_gren_frag1", 
         fallback = "Idle"   
     },
+
+                                                                                        ["npc_vj_test_player"] = {
+        sequence = "idle_all_scared", 
+        fallback = "Idle"   
+    },
+
+    SPECIAL_BODYGROUPS = {
+    ["npc_vj_ss2_turret_machinegun"] = {
+        { group = 1, value = 0 } -- 2-й bodygroup (Rotate Mechanism) установить в 1
+    },
+    -- Можно добавить другие NPC по аналогии
+}
+
 }
 
 concommand.Add("netricsa_debug_anims", function(ply, cmd, args)
