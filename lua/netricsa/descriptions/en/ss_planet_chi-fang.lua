@@ -9,7 +9,7 @@ TERRAIN:      Cities
 LOCATION:     Unknown star system in the Milky Way.
 NATIVE RACES: Chi-Che, Formerly Mental Horde (All races)
 ALLIANCE:     Old Empire of Prince Chan and Chi-Fang (formerly), New Empire of Chi-Fang
-LOCATIONS:    City of Chi-Che, Palace of Chan
+LOCATIONS:    Chi Che Town, Chi Che Port, Chan Amusement Park, Chan Palace
 
 DESCRIPTION:
 
@@ -19,8 +19,6 @@ The planet was captured by Mental's forces through the subjugation of its ruler.
 
 KEY LOCATIONS:
 
-Port Chi-Che: A bustling transportation hub connecting the planet to the outside world.
-
-Chan Amusement Park: A complex built by order of Prince Chan, including three giant Ferris wheels.
-
-Prince Chan's Palace: The ruler's residence. The inner chambers include a garden surrounded by glass walls and a throne room. The outer area of ​​the palace is decorated with dragon statues and leads to a pagoda.
+- Port Chi-Che: A bustling transportation hub connecting the planet to the outside world.
+- Chan Amusement Park: A complex built by order of Prince Chan, including three giant Ferris wheels.
+- Prince Chan's Palace: The ruler's residence. The inner chambers include a garden surrounded by glass walls and a throne room. The outer area of ​​the palace is decorated with dragon statues and leads to a pagoda.
