@@ -44,6 +44,7 @@ if CLIENT then
 
                 -- 🔹 VERSION
                 version             = "NETRICSA v2.01",
+                version_personal    = "NETRICSA V2.01 - Personal Version For: %s",
                 score               = "SCORE",
 
                 -- НОВЫЕ ПЕРЕВОДЫ
@@ -93,6 +94,7 @@ if CLIENT then
 
                 -- 🔹 ПЕРЕВОД ВЕРСИИ
                 version             = "ИНЕРТАН v2.01",
+                version_personal    = "ИНЕРТАН, Версия 2.01: Настроена На Работу С %s",
                 score               = "СЧЁТ",
 
                 -- НОВЫЕ ПЕРЕВОДЫ

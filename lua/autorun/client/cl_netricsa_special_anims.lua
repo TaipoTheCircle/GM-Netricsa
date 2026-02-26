@@ -227,7 +227,23 @@ SPECIAL_ANIMATIONS = {
         sequence = "idle_all_scared", 
         fallback = "Idle"   
     },
+                                                                                            ["npc_drg_testhuman"] = {
+        sequence = "idle_all_scared", 
+        fallback = "Idle"   
+    },
+                                                                                            ["npc_drg_testnextbot"] = {
+        sequence = "walk_fist", 
+        fallback = "Idle"   
+    },  
+                                                                                             ["npc_zeno_bugbird"] = {
+        sequence = "walk_all", 
+        fallback = "Idle"   
+    },
+                                                                                        ["npc_desert_worm"] = {
+        sequence = "walk", 
+        fallback = "Idle"   
 
+    },
     SPECIAL_BODYGROUPS = {
     ["npc_vj_ss2_turret_machinegun"] = {
         { group = 1, value = 0 } -- 2-й bodygroup (Rotate Mechanism) установить в 1

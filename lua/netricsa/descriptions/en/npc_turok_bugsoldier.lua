@@ -8,7 +8,7 @@ SIZE:       Large
 ENDURANCE:  Average
 HOSTILITY:  Extremely high
 WEAPONSL:   Pincers, stinger, toxin
-REWARD:     300
+REWARD:     300 FC
 THREAT:     High
 
 DESCRIPTION:

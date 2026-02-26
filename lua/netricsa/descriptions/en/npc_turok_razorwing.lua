@@ -8,7 +8,7 @@ SIZE:       5,9 ft
 ENDURANCE:  Very low
 HOSTILITY:  Extremely high
 WEAPONS:    Acid spit, sting, speed
-REWARD:     150
+REWARD:     150 FC
 THREAT:     High
 
 DESCRIPTION:

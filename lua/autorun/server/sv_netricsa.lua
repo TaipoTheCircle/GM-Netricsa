@@ -638,6 +638,11 @@ end)
         ["npc_vj_ss2_rollerball_player"] = true,
         ["npc_bullseye"] = true,
         ["obj_vj_bullseye"] = true,
+        ["npc_drg_antlion"] = true,
+        ["npc_drg_headcrab"] = true,
+        ["npc_drg_testhuman"] = true,
+        ["npc_drg_testnextbot"] = true,
+        ["npc_drg_zombie"] = true,
     }
 
     local function AnnounceSpecialNPC(ent)

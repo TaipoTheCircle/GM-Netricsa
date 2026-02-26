@@ -8,7 +8,7 @@ SIZE:       ~15 ft (in perspective)
 ENDURANCE:  High
 HOSTILITY:  Extremely High
 WEAPONS:    Head spike, ram, mandibles, body mass
-REWARD:     600
+REWARD:     600 FC
 THREAT:     High
 
 DESCRIPTION:

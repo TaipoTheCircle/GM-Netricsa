@@ -46,7 +46,22 @@ if CLIENT then
             surface.SetMaterial(gridMat)
             surface.DrawTexturedRect(0, 0, w, h)
             local style = NetricsaStyle or STYLES.Revolution
-            draw.SimpleText(L("ui","version"), "NetricsaTitle", 20, 10, style.color, TEXT_ALIGN_LEFT, TEXT_ALIGN_TOP)
+            -- Получаем имя игрока
+local ply = LocalPlayer()
+local playerName = "Unknown"
+if IsValid(ply) then
+    playerName = ply:Name()
+end
+
+-- Выбираем нужный текст в зависимости от языка
+local versionText
+if CurrentLang == "ru" then
+    versionText = string.format(L("ui","version_personal"), playerName)
+else
+    versionText = string.format(L("ui","version_personal"), playerName)
+end
+
+draw.SimpleText(versionText, "NetricsaTitle", 20, 10, style.color, TEXT_ALIGN_LEFT, TEXT_ALIGN_TOP)
         end
 
         local exitBtn = vgui.Create("DButton", NetricsaFrame)
