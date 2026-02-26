@@ -1,13 +1,13 @@
-BESTIAL DEMON SCORPION, SOLDIER
+BESTIAL DEMON SCORPION, SOLDIER FROM THE DEAD TROPICAL PLANET
 
 
 CLASS:       Beastial Demon Scorpion, Soldier
 METABOLISM:  Exobiological, Arthropod
-PERCEPTION:  Advanced vision, bioluminescent eyes
-SIZE:        3 m
+PERCEPTION:  Combat Scorpion
+SIZE:        10 ft
 ENDURANCE:   High
 HOSTILITY:   Extreme
-WEAPONS: Scorpion-like tail sting
+WEAPONS:     Scorpion-like tail sting
 REWARD:      6000 FC
 THREAT:      High
 
