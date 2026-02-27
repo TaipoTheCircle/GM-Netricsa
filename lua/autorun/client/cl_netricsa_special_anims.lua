@@ -60,7 +60,11 @@ SPECIAL_ANIMATIONS = {
         sequence = "Idle", 
         fallback = "Idle"   
     },
-                        ["npc_vj_ssc_elementallava_big"] = {
+                        ["npc_vj_ssc_elementaloil"] = {
+        sequence = "Walkcomputer", 
+        fallback = "Idle"   
+    },
+                            ["npc_vj_ssc_elementallava_big"] = {
         sequence = "Walkcomputer", 
         fallback = "Idle"   
     },
@@ -73,6 +77,10 @@ SPECIAL_ANIMATIONS = {
         fallback = "Idle"   
     },
                                 ["npc_vj_ssc_elementallava_small_spawn"] = {
+        sequence = "Walkcomputer", 
+        fallback = "Idle"   
+    },
+                                    ["npc_vj_ssc_elementallava_big_spawn"] = {
         sequence = "Walkcomputer", 
         fallback = "Idle"   
     },
