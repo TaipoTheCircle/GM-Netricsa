@@ -8,7 +8,7 @@ SIZE:       3 ft
 ENDURANCE:  low
 HOSTILITY:  high
 WEAPONS:    bites
-REWARD:     75 FC
+REWARD:     50 FC
 THREAT:     low
 
 DESCRIPTION:
