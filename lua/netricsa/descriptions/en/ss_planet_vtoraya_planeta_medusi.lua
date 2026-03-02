@@ -21,7 +21,7 @@ These beings possess astonishing abilities: They are able to remember any images
 
 When the "Pegasus" landed on this planet, the passengers witnessed a series of ghostly apparitions: a procession of musketeers from "The Three Musketeers", then themselves, and later the space pirates they were chasing. All these images were illusions created by the locals.
 
-The mystery was solved when Professor Seleznev's daughter picked up one of the stones, the glow around which was slowly fading, and the stone transformed into a space captain—one of those who had previously suffered a disaster on this planet and been "recorded" in the stone's memory.
+The mystery was solved when Professor Seleznev's daughter picked up one of the stones, the glow around which was slowly fading, and the stone transformed into a space captain-one of those who had previously suffered a disaster on this planet and been "recorded" in the stone's memory.
 
 KEY LOCATIONS:
 

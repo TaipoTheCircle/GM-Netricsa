@@ -13,7 +13,7 @@ THREAT:     Extreme
 
 DESCRIPTION:
 
-When the Strogg needed a device capable of taking out both infantry and vehicles with equal effectiveness, they took a heavy infantryman and tore off his legs. They replaced them with an anti-gravity platform. The result is a Heavy Hover Tank—a flying fortress that doesn't run, but hovers.
+When the Strogg needed a device capable of taking out both infantry and vehicles with equal effectiveness, they took a heavy infantryman and tore off his legs. They replaced them with an anti-gravity platform. The result is a Heavy Hover Tank-a flying fortress that doesn't run, but hovers.
 
 The Guided Missile is the Heavy Hover Tank's primary attack. It's highly destructive, dealing heavy damage and knocking enemies back several dozen meters with explosive damage and sometimes fall damage.
 

@@ -21,11 +21,11 @@ After transferring ownership to HALF-QUAKE, the ">)" logo was stenciled onto the
 
 Mini Turrets can be mounted on the floor, wall, or ceiling. They can wait for hours in the dark, powered by a backup battery, and are activated only when motion sensors detect an approaching target.
 
-Thanks to its 360-degree rotation, it's impossible to hide behind it—it simply turns and continues firing.
+Thanks to its 360-degree rotation, it's impossible to hide behind it-it simply turns and continues firing.
 
 TIPS:
 
 - Explosives or precise shots can quickly disable it.
-- Check the space above and below you—even small turrets can cover unexpected angles.
+- Check the space above and below you-even small turrets can cover unexpected angles.
 - Avoid standing in corridors or narrow spaces where it can effectively target you.
 - Use cover in the environment to minimize the impact of her machine gun fire.

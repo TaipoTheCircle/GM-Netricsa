@@ -13,7 +13,7 @@ LOCATIONS:    Rainforests, Desert regions, Wetlands, Underground cave systems
 
 DESCRIPTION:
 
-From orbit, this planet resembles Earth—green continents surrounded by sparkling blue seas. However, its true nature lies in a catastrophic experiment. Originally, it was an unstable, desert world with raging volcanic activity, where molten lava lay just beneath a thin crust.
+From orbit, this planet resembles Earth-green continents surrounded by sparkling blue seas. However, its true nature lies in a catastrophic experiment. Originally, it was an unstable, desert world with raging volcanic activity, where molten lava lay just beneath a thin crust.
 
 The Mendel-Gruman Corporation, led by Roland Kane, subjected the planet to massive terraforming. But the process took an unexpected turn: it triggered an exponential surge in evolutionary activity. The result was the sudden appearance of dinosaurs and other prehistoric creatures, many of which possessed anomalous mutations.
 

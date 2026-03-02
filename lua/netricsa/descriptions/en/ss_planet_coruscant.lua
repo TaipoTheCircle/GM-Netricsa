@@ -15,7 +15,7 @@ DESCRIPTION:
 
 Coruscant is a glittering city-planet located at the heart of the galaxy. For millennia, it served as a political, cultural, and financial center, where decisions were made affecting the fates of trillions of sentient beings. The planet's name derives from the constant play of light on its surface when viewed from space, reminiscent of the sparkle of Coruscant's precious stones.
 
-Coruscant's surface is completely hidden beneath a vast, multi-level metropolis that has grown over thousands of generations. Gigantic buildings, some reaching 6 kilometers in height, cover every square meter of land, burying all natural landscapes—mountains, seas, and oceans. Water is stored in vast underground reservoirs, and the only open body of water remains the artificial Western Sea, home to floating islands for recreation.
+Coruscant's surface is completely hidden beneath a vast, multi-level metropolis that has grown over thousands of generations. Gigantic buildings, some reaching 6 kilometers in height, cover every square meter of land, burying all natural landscapes-mountains, seas, and oceans. Water is stored in vast underground reservoirs, and the only open body of water remains the artificial Western Sea, home to floating islands for recreation.
 
 The galactic city is divided into several thousand squares and sectors. The upper levels are occupied by government offices, financial centers, and the penthouses of the wealthiest elite. Here, the air undergoes multi-stage purification, and traffic is strictly regulated by automated highways.
 

@@ -24,5 +24,5 @@ Nightly visiting creatures occupy a special place in the legend. The Reik suppos
 TIPS:
 
 - If you're in the forest and see a pale figure on all fours, don't run. The Rake is faster.
-- In the sewers, stay away from the dark branches—the sewer subspecies are more aggressive than the forest ones.
+- In the sewers, stay away from the dark branches-the sewer subspecies are more aggressive than the forest ones.
 - After meeting the Rake, you'll likely have nightmares. This is normal. It will pass in a week. Or it won't.

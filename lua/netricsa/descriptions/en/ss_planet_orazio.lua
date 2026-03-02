@@ -13,11 +13,11 @@ LOCATIONS:    Orazio Deep Mines, Combat Vehicle Testing Facility
 
 DESCRIPTION:
 
-An inhospitable world with an extremely unstable ecology. The deep soil layers are dominated by an acidic and radioactive environment, making the planet unsuitable for normal life on the surface. The landscape is pockmarked with countless mines, quarries, and industrial terraces—remnants of large-scale mineral extraction.
+An inhospitable world with an extremely unstable ecology. The deep soil layers are dominated by an acidic and radioactive environment, making the planet unsuitable for normal life on the surface. The landscape is pockmarked with countless mines, quarries, and industrial terraces-remnants of large-scale mineral extraction.
 
 The planet became the new home of the orcs, exiled by the Zorg Empire after the banning of the mutagenic chemical pool. The exiles founded the Altani mining corpOrazion here, which quickly achieved success thanks to the rich deposits.
 
-Specialized machines—the PRIME-209 and Tech-X—were created to work in the deadly, radioactive depths.
+Specialized machines-the PRIME-209 and Tech-X-were created to work in the deadly, radioactive depths.
 
 When Mental learned of the thriving corpOrazion, he proposed an alliance with the orcs. As a result of the merger, the corpOrazion was renamed Mental-Altani, and its mining vehicles underwent the "Combat Vehicle Conversion Program", receiving heavy weaponry for service with the Horde.
 

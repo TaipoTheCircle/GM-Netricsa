@@ -23,5 +23,5 @@ The adult's tail is longer, thicker, and more deadly.
 
 TIPS:
 
-- Use explosives, lots of them. C4, grenades, rockets—whatever you have.
+- Use explosives, lots of them. C4, grenades, rockets-whatever you have.
 - Don't let it get too close, it'll kill you faster than you can shoot.

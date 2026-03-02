@@ -127,6 +127,8 @@ if SERVER then
         ["npc_vj_hl2_loyalist_f"] = true,
         ["monster_barney_hlaz"] = true,
         ["monster_scientist_hlaz"] = true,
+        ["npc_turok_brachiosaurus"] = true,
+        ["npc_turok_hadrosaur"] = true,
     }
 
     -- 🔹 ПРОСТАЯ ФУНКЦИЯ ПРОВЕРКИ - ВРАГ ЛИ NPC
@@ -643,6 +645,13 @@ end)
         ["npc_drg_testhuman"] = true,
         ["npc_drg_testnextbot"] = true,
         ["npc_drg_zombie"] = true,
+        ["npc_turok_brachiosaurus"] = true,
+        ["npc_turok_waterboss"] = true,
+        ["npc_turok_monolophosaurus"] = true,
+        ["npc_turok_giganotosaurus"] = true,
+        ["npc_turok_trex"] = true,
+        ["npc_turok_scarface"] = true,
+        ["npc_turok_dilophosaurus"] = true,
     }
 
     local function AnnounceSpecialNPC(ent)
