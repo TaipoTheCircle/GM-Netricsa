@@ -1,10 +1,10 @@
 SAITAMA, ONE PUNCH MAN
 
 
-CLASS:      Hero
+CLASS:      Saitama, One Punch Man
 METABOLISM: Normal Human (though limitless)
-PERCEPTION: Standard Human + Battle Instincts
-SIZE:       ~5'9 ft
+PERCEPTION: Hero
+SIZE:       ~5,9 ft
 ENDURANCE:  Infinite (immune to damage)
 HOSTILITY:  Neutral (only fights when bored or annoyed)
 WEAPONS:    His Fist (One Punch)

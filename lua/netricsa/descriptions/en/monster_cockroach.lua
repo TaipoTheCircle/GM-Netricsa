@@ -3,7 +3,7 @@ COCKROACH FROM XEN
 
 CLASS:      Cockroach
 METABOLISM: scavenger insectoid
-PERCEPTION: low (but excellent at finding snacks)
+PERCEPTION: Alien Insect
 SIZE:       2 in
 ENDURANCE:  legendary
 HOSTILITY:  none (unless you count startling scientists)

@@ -1,10 +1,10 @@
 ARCHER FROM XEN
 
 
-CLASS:      Aquatic Xen Creature (Predator)
+CLASS:      Archer
 METABOLISM: Alien amphibious carnivore
-PERCEPTION: Visual + vibration sensing in water
-SIZE:       ~4 ft (1.2 m) long
+PERCEPTION: Alien Underwater Predator
+SIZE:       ~4 ft long
 ENDURANCE:  Medium
 HOSTILITY : High
 WEAPONS:    Acidic spit (ranged), sharp bite (melee)

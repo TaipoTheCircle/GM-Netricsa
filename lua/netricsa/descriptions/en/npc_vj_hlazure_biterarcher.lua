@@ -3,8 +3,8 @@ BITER FROM XEN
 
 CLASS:      Aquatic Xen Creature (Predator)
 METABOLISM: Alien amphibious carnivore
-PERCEPTION: Visual + vibration sensing in water
-SIZE:       ~3.5 ft (1 m) long
+PERCEPTION: Alien Underwater Predator
+SIZE:       ~3,5 ft long
 ENDURANCE:  Medium-Low
 HOSTILITY:  High
 WEAPONS:    Sharp bite (melee only)

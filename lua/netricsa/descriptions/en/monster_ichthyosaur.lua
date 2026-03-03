@@ -3,7 +3,7 @@ ICHTHYOSAUR FROM XEN
 
 CLASS:      Ichthyosaur
 METABOLISM: aquatic predator
-PERCEPTION: echolocation + vibration detection
+PERCEPTION: Aquatic Alien Predator
 SIZE:       15-20 ft
 ENDURANCE:  high
 HOSTILITY:  extreme
