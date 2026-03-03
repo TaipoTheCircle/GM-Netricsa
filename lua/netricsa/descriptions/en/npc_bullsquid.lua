@@ -1,9 +1,9 @@
 BULLSQUID, EARTH
 
 
-CLASS:      Bullsquid (Earth-Adapted Subspecies)
+CLASS:      Bullsquid, Earth
 METABOLISM: Aggressive omnivore
-PERCEPTION: Enhanced smell + decent eyesight
+PERCEPTION: Land Predator
 SIZE:       6-7 ft
 ENDURANCE:  Medium
 HOSTILITY:  High

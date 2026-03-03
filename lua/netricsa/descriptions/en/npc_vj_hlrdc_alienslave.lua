@@ -1,9 +1,9 @@
 DREAMCAST VORTIGAUNT SLAVE FROM XEN
 
 
-CLASS:      Dreamcast Vortigaunt (Enslaved)
+CLASS:      Vortigaunt Slave, Dreamcast
 METABOLISM: intelligent mammal (Xen origin)
-PERCEPTION: high, psionic sensitivity
+PERCEPTION: Intelligent Alien Race
 SIZE:       6 ft
 ENDURANCE:  medium
 HOSTILITY:  forced (under Nihilanth)

@@ -3,7 +3,7 @@ TENTACLE FROM XEN
 
 CLASS:      Tentacle
 METABOLISM: carnivorous xenofauna
-PERCEPTION: vibration + sound
+PERCEPTION: Tentacle of the Enormous Creature
 SIZE:       30-40 ft (emerges from pit)
 ENDURANCE:  extremely high
 HOSTILITY:  extreme

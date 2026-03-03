@@ -1,9 +1,9 @@
 UGH-ZAN "?", THE PITIFUL SORCERER
 
 
-CLASS:      Hybrid Ug-Zan Clone III
+CLASS:      Ugh-Zan "?", the Pitiful Sorcerer
 METABOLISM: Synthetic-organic experiment
-PERCEPTION: Arcane + telekinetic
+PERCEPTION: Hybrid Ug-Zan Clone III
 SIZE:       150 ft
 ENDURANCE:  Low
 HOSTILITY:  Extreme

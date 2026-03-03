@@ -3,7 +3,7 @@ GENERIC ACTOR FROM ????
 
 CLASS:      Generic Actor
 METABOLISM: shapeshifting xenobiological mimic
-PERCEPTION: visual, auditory, behavioral scanning
+PERCEPTION: Mimic
 SIZE:       variable (mimics host)
 ENDURANCE:  medium
 HOSTILITY:  unpredictable

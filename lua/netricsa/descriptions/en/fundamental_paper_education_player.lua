@@ -1,7 +1,7 @@
 PLAYER FROM FUNDAMENTAL PAPER EDUCATION
 
 
-CLASS:      Player / Invulnerable Student
+CLASS:      Player
 METABOLISM: Unstable Paper Organism
 PERCEPTION: Dirty Hacker
 SIZE:       ~4 ft

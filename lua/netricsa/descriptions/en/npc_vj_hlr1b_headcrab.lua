@@ -3,8 +3,8 @@ PURPLE HEADCRAB FROM XEN
 
 CLASS:      Headcrab, Purple
 METABOLISM: Parasitic alien
-PERCEPTION: Limited, host-driven instinct
-SIZE:       ~1 ft (30 cm)
+PERCEPTION: Biological Weapon
+SIZE:       ~1 ft
 ENDURANCE:  Low
 HOSTILITY:  High (aggressive, fast)
 WEAPONS:    Bite (to infect host)

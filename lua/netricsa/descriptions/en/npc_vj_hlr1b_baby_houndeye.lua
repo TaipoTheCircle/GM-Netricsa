@@ -3,7 +3,7 @@ BABY HOUNDEYE FROM XEN
 
 CLASS:      Houndeye, Baby
 METABOLISM: Pack-hunting Xen fauna
-PERCEPTION: Acute hearing, echolocation
+PERCEPTION: Young Houndeye
 SIZE:       ~1.5 ft tall, 2 ft long
 ENDURANCE:  Low
 HOSTILITY:  Moderate in packs

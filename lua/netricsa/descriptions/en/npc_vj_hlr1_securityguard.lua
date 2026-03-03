@@ -1,9 +1,9 @@
 BLACK MESA SECURITY OFFICER
 
 
-CLASS:      Security Officer
+CLASS:      Black Mesa Security Officer
 METABOLISM: Human, Security Officer, Male
-PERCEPTION: visual, auditory, tactical awareness
+PERCEPTION: Black Mesa Security Warrior
 SIZE:       ~6 ft tall
 ENDURANCE:  medium
 HOSTILITY:  high toward intruders, friendly toward player

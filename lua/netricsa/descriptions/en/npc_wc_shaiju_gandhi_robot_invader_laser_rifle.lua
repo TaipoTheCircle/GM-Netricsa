@@ -1,9 +1,10 @@
-INVADER ROBOT, ASSAULT
+INVADER ROBOT, ASSAULT FROM SHAIJU GANDHI
 
 
-CLASS:      Machine Warrior
+
+CLASS:      Invander Robot, Assault
 METABOLISM: Artificial (mechanical core)
-PERCEPTION: Optical sensors + tactical AI
+PERCEPTION: Machine Warrior
 SIZE:       7-8 ft
 ENDURANCE:  Very High
 HOSTILITY:  Extreme

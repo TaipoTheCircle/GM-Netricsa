@@ -3,7 +3,7 @@ BLACK MESA SITTING SCIENTIST
 
 CLASS:      Black Mesa Scientist, Sitting
 METABOLISM: Human, Male
-PERCEPTION: visual, basic awareness of surroundings
+PERCEPTION: Black Mesa Scientific Staff
 SIZE:       ~6 ft (seated)
 ENDURANCE:  low
 HOSTILITY:  none

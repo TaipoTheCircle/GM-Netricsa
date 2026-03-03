@@ -1,9 +1,9 @@
 CLAIRE FROM FUNDAMENTAL PAPER EDUCATION
 
 
-CLASS:      Claire, Paper School Student
+CLASS:      Claire
 METABOLISM: Paper anthropomorphic organism
-PERCEPTION: Vision, survival instinct
+PERCEPTION: Paper School Student
 SIZE:       5,3 ft
 ENDURANCE:  Low
 HOSTILITY:  None

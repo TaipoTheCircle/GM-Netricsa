@@ -3,7 +3,7 @@ SNARK FROM XEN
 
 CLASS:      Snark
 METABOLISM: carnivorous insectoid (Xen origin)
-PERCEPTION: short-range, easily distracted
+PERCEPTION: Alien Insect
 SIZE:       6 in
 ENDURANCE:  extremely low
 HOSTILITY:  absurdly high
@@ -22,6 +22,6 @@ TIPS:
 - Don't panic. One Snark is just comic relief.
 - A dozen Snarks? Comedy turns into horror.
 
-Pro tip: 
+PRO TIP: 
 
 - Toss them into a crowd of enemies for maximum chaos.

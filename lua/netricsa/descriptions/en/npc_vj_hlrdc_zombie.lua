@@ -3,7 +3,7 @@ HEADCRAB ZOMBIE DREAMCAST
 
 CLASS:      Headcrab Zombie, Dreamcast
 METABOLISM: human host + parasitic common Headcrab
-PERCEPTION: limited, host-driven
+PERCEPTION: Zombified Entity
 SIZE:       ~6 ft tall
 ENDURANCE:  medium
 HOSTILITY:  high (slow but relentless)

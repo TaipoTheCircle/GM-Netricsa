@@ -1,9 +1,9 @@
 ALPHA BULLSQUID FROM XEN
 
 
-CLASS:      Alpha Bullsquid
+CLASS:      Bullsquid, Alpha
 METABOLISM: apex omnivore
-PERCEPTION: enhanced sight + smell
+PERCEPTION: Land Predator
 SIZE:       10-12 ft
 ENDURANCE:  very high
 HOSTILITY:  extreme

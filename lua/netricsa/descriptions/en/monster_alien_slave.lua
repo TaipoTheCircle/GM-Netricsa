@@ -1,9 +1,9 @@
 VORTIGAUNT SLAVE FROM XEN
 
 
-CLASS:      Vortigaunt (Enslaved)
+CLASS:      Vortigaunt Slave
 METABOLISM: intelligent mammal (Xen origin)
-PERCEPTION: high, psionic sensitivity
+PERCEPTION: Intelligent Alien Race
 SIZE:       6 ft
 ENDURANCE:  medium
 HOSTILITY:  forced (under Nihilanth)

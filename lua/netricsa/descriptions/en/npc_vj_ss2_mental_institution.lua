@@ -3,7 +3,7 @@ MENTAL INSTITUTION
 
 CLASS:      Mental Institution
 METABOLISM: Armored mechanical megastructure
-PERCEPTION: Autonomous combat sensors and artificial intelligence
+PERCEPTION: Mental's Mechanical Lair
 SIZE:       984 ft
 ENDURANCE:  Immense
 HOSTILITY:  Extreme

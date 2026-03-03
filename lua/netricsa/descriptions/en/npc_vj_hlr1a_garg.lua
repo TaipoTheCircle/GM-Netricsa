@@ -1,9 +1,9 @@
 FOUR-LEGGED GARGANTUA FROM XEN
 
 
-CLASS:      Proto-Titan of Xen (Gargantua subspecies)
+CLASS:      Four-legged Gargantua
 METABOLISM: Xen biomechanical juggernaut
-PERCEPTION: Infrared + seismic awareness
+PERCEPTION: Proto-Titan of Xen (Gargantua subspecies)
 SIZE:       ~14 ft tall (heavier build than classic Gargantua)
 ENDURANCE:  Very High (reinforced exoskeletal armor with yellow streaks)
 HOSTILITY:  Extreme

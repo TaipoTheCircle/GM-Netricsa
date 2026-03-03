@@ -1,10 +1,10 @@
 VILLAGER FROM THE MINECRAFT OVERWORLD
 
 
-CLASS:      Intelligent Passive Humanoid
+CLASS:      Villager
 METABOLISM: Warm-Blooded Humanoid
-PERCEPTION: Standard Vision and Hearing
-SIZE:       6,2
+PERCEPTION: Intelligent Passive Humanoid
+SIZE:       6,2 ft
 ENDURANCE:  Low
 HOSTILITY:  Very Low
 WEAPONS:    None

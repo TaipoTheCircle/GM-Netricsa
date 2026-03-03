@@ -3,7 +3,7 @@ BABY GARGANTUA FROM XEN
 
 CLASS:      Gargantua, Baby
 METABOLISM: miniature xenobiological predator
-PERCEPTION: curious + reactive
+PERCEPTION: Early Stage of Gargantua
 SIZE:       5-6 ft tall
 ENDURANCE:  medium
 HOSTILITY:  moderate

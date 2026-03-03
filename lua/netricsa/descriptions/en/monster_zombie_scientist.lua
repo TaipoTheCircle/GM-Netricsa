@@ -3,8 +3,8 @@ HEADCRAB ZOMBIE COMMON
 
 CLASS:      Headcrab Zombie, Common
 METABOLISM: human host + parasitic common Headcrab
-PERCEPTION: limited, host-driven
-SIZE:      ~6 ft tall
+PERCEPTION: Zombified entity
+SIZE:       ~6 ft tall
 ENDURANCE:  medium
 HOSTILITY:  high (slow but relentless)
 WEAPONS:    melee attacks (claws, swings), grappling

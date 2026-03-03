@@ -1,9 +1,9 @@
 CUBBIE FROM FUNDAMENTAL PAPER EDUCATION
 
 
-CLASS:      Cubby, Anthropomorphic Cat Apprentice
+CLASS:      Cubby
 METABOLISM: Paper organism, hybrid construction
-PERCEPTION: Vision, large eyes with large pupils
+PERCEPTION: Anthropomorphic Cat Apprentice
 SIZE:       4 ft
 ENDURANCE:  Low
 HOSTILITY:  None

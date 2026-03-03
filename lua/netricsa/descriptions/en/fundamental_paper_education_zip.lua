@@ -1,9 +1,9 @@
 ZIP FROM FUNDAMENTAL PAPER EDUCATION
 
 
-CLASS:      Zip, the Dragon Bully
+CLASS:      Zip
 METABOLISM: Paper anthropomorphic dragon organism
-PERCEPTION: Sight, Draconic nature
+PERCEPTION: Dragon Bully
 SIZE:       ~3,2 ft
 ENDURANCE:  High
 HOSTILITY:  Deceptive

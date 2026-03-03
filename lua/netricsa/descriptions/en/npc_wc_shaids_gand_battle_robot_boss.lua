@@ -1,9 +1,9 @@
-MARK 1 COMBAT ROBOT, UPGRADED
+MARK 1 COMBAT ROBOT, UPGRADED FROM SHAIJU GANDHI
 
 
-CLASS:      Upgraded Heavy War Machine
+CLASS:      MARK 1 Combat Robot, Upgraded
 METABOLISM: Artificial (reactor core)
-PERCEPTION: Thermal optics + motion sensors
+PERCEPTION: Upgraded Heavy War Machine
 SIZE:       10 ft
 ENDURANCE:  Very High
 HOSTILITY:  Extreme

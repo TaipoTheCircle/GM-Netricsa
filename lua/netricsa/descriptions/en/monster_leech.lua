@@ -3,7 +3,7 @@ LEECH FROM XEN
 
 CLASS:      Leech
 METABOLISM: parasitic xenofauna
-PERCEPTION: vibration-sensitive, heat detection
+PERCEPTION: Underwater Predator of the Xen
 SIZE:       1-2 ft long
 ENDURANCE:  low individually, medium in swarms
 HOSTILITY:  high when provoked or in groups

@@ -1,9 +1,9 @@
 BABY VOLTIGORE FROM THE X DIMENSION
 
 
-CLASS:      Race X, Juvenile Beast
+CLASS:      Baby Voltigore
 METABOLISM: Bio-electrical predator
-PERCEPTION: Moderate (developing senses)
+PERCEPTION: Juvenile Beast
 SIZE:       4-6 ft
 ENDURANCE:  Medium
 HOSTILITY:  High

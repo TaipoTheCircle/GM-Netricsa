@@ -1,9 +1,9 @@
 ABBIE FROM FUNDAMENTAL PAPER EDUCATION
 
 
-CLASS:      Abbie, Paper School Student
+CLASS:      Abbie
 METABOLISM: Paper anthropomorphic organism
-PERCEPTION: Vision, heightened alertness
+PERCEPTION: Paper School Student
 SIZE:       ~5 ft
 ENDURANCE:  Extremely low
 HOSTILITY:  None

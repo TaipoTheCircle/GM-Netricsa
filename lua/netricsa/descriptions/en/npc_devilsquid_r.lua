@@ -1,9 +1,9 @@
 DEVILSQUID FROM XEN
 
 
-CLASS:      Bullsquid Mutant, Fire Type
+CLASS:      Bullsquid Mutant, Fire
 METABOLISM: Carnivore (pyro-augmented)
-PERCEPTION: Heat-sensitive vision
+PERCEPTION: Land Predator Of Xen
 SIZE:       8 ft
 ENDURANCE:  High (fire-resistant hide)
 HOSTILITY:  Extreme

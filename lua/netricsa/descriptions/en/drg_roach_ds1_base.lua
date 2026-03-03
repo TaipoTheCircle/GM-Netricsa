@@ -1,9 +1,9 @@
 ANDRE OF ASTORA
 
 
-CLASS:      Human (Blacksmith)
+CLASS:      Andre
 METABOLISM: Human, Male
-PERCEPTION: High (Can sense when someone needs an ass-whooping)
+PERCEPTION: Master Blacksmith
 SIZE:       ~8 ft
 ENDURANCE:  High (Can tank most medieval weaponry)
 HOSTILITY:  Neutral 

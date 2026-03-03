@@ -1,9 +1,9 @@
 MISS BLOOMIE FROM FUNDAMENTAL PAPER EDUCATION
 
 
-CLASS:      Miss Bloomie, Science Teacher
+CLASS:      Miss Bloomie
 METABOLISM: Paper Organism (mutant teacher)
-PERCEPTION: Sight, Chemical Sense
+PERCEPTION: Science Teacher
 SIZE:       ~8,2 ft
 ENDURANCE:  High
 HOSTILITY:  Extreme

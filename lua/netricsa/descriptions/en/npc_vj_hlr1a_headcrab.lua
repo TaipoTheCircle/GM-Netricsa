@@ -3,8 +3,8 @@ ALPHA HEADCRAB FROM XEN
 
 CLASS:      Headcrab, Alpha
 METABOLISM: parasitic predator
-PERCEPTION: heat + movement
-SIZE:       3.5 ft
+PERCEPTION: Biological Weapon
+SIZE:       3,5 ft
 ENDURANCE:  medium
 HOSTILITY:  extreme
 WEAPONS:    powerful bite, ambush leap

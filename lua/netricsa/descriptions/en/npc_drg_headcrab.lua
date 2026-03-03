@@ -3,8 +3,8 @@ HEADCRAB FROM EARTH
 
 CLASS:      Headcrab, Earth
 METABOLISM: parasite
-PERCEPTION: heat + movement detection
-SIZE:       1.5 ft
+PERCEPTION: Biological Weapon
+SIZE:       1,5 ft
 ENDURANCE:  very low
 HOSTILITY:  high
 WEAPONS:    leap, bite, parasitic infection

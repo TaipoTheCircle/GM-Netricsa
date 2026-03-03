@@ -1,9 +1,9 @@
 DREAMCAST GARGANTUA FROM XEN
 
 
-CLASS:      Dreamcast Gargantua
+CLASS:      Gargantua, Dreamcast
 METABOLISM: massive xenobiological predator
-PERCEPTION: visual + thermal + motion detection
+PERCEPTION: Xen's Armored Tank
 SIZE:       ~15 ft tall, 30 ft long
 ENDURANCE:  extreme
 HOSTILITY:  very high

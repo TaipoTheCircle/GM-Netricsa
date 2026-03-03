@@ -3,7 +3,7 @@ EARTH HEADCRAB ZOMBIE, ARCTIC
 
 CLASS:      Zombie Headcrab, Earth (Arctic)
 METABOLISM: Parasitic host, adapted to cold
-PERCEPTION: Poor, relies on host instincts and warmth
+PERCEPTION: Zombified Entity
 SIZE:       ~6-7 ft
 ENDURANCE:  Average
 HOSTILITY:  High

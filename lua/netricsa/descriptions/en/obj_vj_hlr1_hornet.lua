@@ -1,10 +1,10 @@
 HORNET FROM XEN
 
 
-CLASS:      Xen Projectile Organism
+CLASS:      Hornet
 METABOLISM: Insectoid alien (hive-grown)
-PERCEPTION: Heat-seeking instinct, simple target-lock
-SIZE:       ~1 ft (30 cm)
+PERCEPTION: Xen Projectile Organism
+SIZE:       ~1 ft
 ENDURANCE:  Very low (fragile, easily destroyed mid-flight)
 HOSTILITY:  High (mindlessly attacks nearest target)
 WEAPONS:    Piercing sting (biological dart)

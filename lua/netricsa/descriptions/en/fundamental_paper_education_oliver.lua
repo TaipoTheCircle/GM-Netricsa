@@ -1,9 +1,9 @@
 OLIVER FROM FUNDAMENTAL PAPER EDUCATION
 
 
-CLASS:       Oliver, Chief Bully
+CLASS:       Oliver
 METABOLISM:  Paper anthropomorphic modified organism
-PERCEPTION:  Vision, snake tongue?
+PERCEPTION:  Chief Bully
 SIZE:        ~6 ft
 ENDURANCE:   High
 HOSTILITY:   Sadistic

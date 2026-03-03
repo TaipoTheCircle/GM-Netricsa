@@ -3,7 +3,7 @@ ALIEN CONTROLLER FROM XEN
 
 CLASS:      Alien Controller
 METABOLISM: psionic entity
-PERCEPTION: extrasensory (psionic link)
+PERCEPTION: Nihilanth's Psychic Elite
 SIZE:       ~8 ft (floating)
 ENDURANCE:  medium
 HOSTILITY:  high
@@ -13,9 +13,9 @@ THREAT:     high
 
 DESCRIPTION:
 
-The Alien Controller is a floating psionic overseer from Xen, acting as the enforcer of the Nihilanth`s will. While its own energy attacks are dangerous, its true power lies in remote domination: Controllers can subjugate Vortigaunts, forcing them into battle against their will. This is why Vortigaunts appear hostile within Xen despite their natural reluctance to fight - the Controllers act as psychic wardens, keeping the enslaved race in line.
+The Alien Controller is a floating psionic overseer from Xen, acting as the enforcer of the Nihilanth's will. While its own energy attacks are dangerous, its true power lies in remote domination: Controllers can subjugate Vortigaunts, forcing them into battle against their will. This is why Vortigaunts appear hostile within Xen despite their natural reluctance to fight - the Controllers act as psychic wardens, keeping the enslaved race in line.
 
-They drift through the air with eerie grace, pelting intruders with crackling psionic orbs while commanding troops below. Their distorted, echoing cries resonate through Xen caverns as a sign that the enemy is never truly alone.
+They drift through the air with eerie grace, pelting intruders with crackling psionic orbs while commanding troops below.
 
 TIPS:
 

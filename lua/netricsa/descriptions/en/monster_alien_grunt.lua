@@ -3,7 +3,7 @@ ALIEN GRUNT FROM XEN
 
 CLASS:      Alien Grunt
 METABOLISM: xenobiological infantry
-PERCEPTION: visual + thermal
+PERCEPTION: Artificially Grown Infantry
 SIZE:       ~6 ft tall
 ENDURANCE:  medium
 HOSTILITY:  high

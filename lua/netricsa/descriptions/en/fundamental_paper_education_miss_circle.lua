@@ -1,9 +1,9 @@
 MISS CIRCLE FROM FUNDAMENTAL PAPER EDUCATION
 
 
-CLASS:      Miss Circle, Math Teacher
+CLASS:      Miss Circle
 METABOLISM: Paper Organism (mutant teacher)
-PERCEPTION: Sight, hearing, sense of academic failure, sense of smell for Oreos
+PERCEPTION: Math Teacher
 SIZE:       9,7 ft
 ENDURANCE:  Very high
 HOSTILITY:  Extreme (towards underachieving students)

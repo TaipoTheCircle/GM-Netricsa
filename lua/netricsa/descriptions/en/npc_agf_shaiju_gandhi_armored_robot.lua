@@ -1,9 +1,9 @@
-ARMORED HEAVY WARFARE ROBOT
+ARMORED HEAVY WARFARE ROBOT FROM SHAIJU GANDHI
 
 
-CLASS:      Mechanical War Machine
+CLASS:      Armored Heavy Warfare Robot
 METABOLISM: Energy Core / Advanced Reactor
-PERCEPTION: Multi-Spectral Sensors (thermal, motion, targeting systems)
+PERCEPTION: Mechanical War Machine
 SIZE:       ~18 ft
 ENDURANCE:  Very High (thick composite armor, reinforced plating)
 HOSTILITY:  Extreme

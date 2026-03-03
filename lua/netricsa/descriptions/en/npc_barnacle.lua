@@ -3,7 +3,7 @@ EARTH BARNACLE
 
 CLASS:      Barnacle, Earth
 METABOLISM: carnivorous ambush predator
-PERCEPTION: vibration + contact sensitivity
+PERCEPTION: Ceiling predatory animal
 SIZE:       6-8 ft (tongue length up to 20 ft)
 ENDURANCE:  medium
 HOSTILITY:  passive-ambush

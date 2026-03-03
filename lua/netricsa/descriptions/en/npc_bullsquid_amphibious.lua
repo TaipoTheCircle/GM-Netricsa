@@ -1,9 +1,9 @@
 AMPHIBIOUS BULLSQUID FROM XEN
 
 
-CLASS:      Amphibious Bullsquid
+CLASS:      Bullsquid, Amphibious
 METABOLISM: Carnivorous amphibian
-PERCEPTION: Sharp smell + aquatic vibration sensing
+PERCEPTION: Underwater Predator
 SIZE:       8-9 ft
 ENDURANCE:  Medium-High
 HOSTILITY:  Extreme

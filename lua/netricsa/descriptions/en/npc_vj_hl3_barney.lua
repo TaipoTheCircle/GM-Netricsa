@@ -1,9 +1,9 @@
 BARNEY CALHOUN
 
 
-CLASS:      Human Resistance Operative / Former Security Guard
+CLASS:      Barney Calhoun
 METABOLISM: Human, Male
-PERCEPTION: Average (keen instincts, streetwise)
+PERCEPTION: Human Resistance Operative / Former Security Guard
 SIZE:       ~6 ft
 ENDURANCE:  Medium
 HOSTILITY:  Low (friendly to allies, hostile to Combine)

@@ -1,9 +1,9 @@
 TOR, THE XEN COMMANDER
 
 
-CLASS:      Xen, Elite Overlord
+CLASS:      Tor, The Xen Commander
 METABOLISM: unknown
-PERCEPTION: psionic
+PERCEPTION: Elite Overlord of Xen
 SIZE:       9-10 ft
 ENDURANCE:  high
 HOSTILITY:  extreme

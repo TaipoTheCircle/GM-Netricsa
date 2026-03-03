@@ -1,9 +1,9 @@
 BLACK MESA SCIENTIST
 
 
-CLASS:      Scientist
+CLASS:      Black Mesa Scientist
 METABOLISM: Human, Scientist, Male
-PERCEPTION: visual, auditory, situational awareness
+PERCEPTION: Black Mesa Scientific Staff
 SIZE:       ~6 ft tall
 ENDURANCE:  low
 HOSTILITY:  none (unless panicked)

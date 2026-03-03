@@ -1,9 +1,9 @@
 ∆LICE FROM FUNDAMENTAL PAPER EDUCATION
 
 
-CLASS:      ∆Lice, Imprisoned Entity
+CLASS:      ∆Lice
 METABOLISM: Imprisoned/Distorted Entity
-PERCEPTION: All-seeing perception within its room/school, sense of fear
+PERCEPTION: Imprisoned Entity
 SIZE:       ~5,5 ft (normal form), >11,4 ft (true form)
 ENDURANCE:  Absolute
 HOSTILITY:  Extreme (towards all but the chosen few)

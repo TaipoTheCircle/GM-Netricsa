@@ -1,9 +1,9 @@
 FROSTSQUID FROM XEN
 
 
-CLASS:      Bullsquid Mutant, Frost Type
+CLASS:      Bullsquid Mutant, Frost
 METABOLISM: Carnivore (cryogenic mutation)
-PERCEPTION: Cold-adapted vision
+PERCEPTION: Land Predator Of Xen
 SIZE:       8-9 ft
 ENDURANCE:  Medium (but resistant to cold damage)
 HOSTILITY:  High

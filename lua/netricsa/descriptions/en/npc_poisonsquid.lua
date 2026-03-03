@@ -1,9 +1,9 @@
 TOXICSQUID
 
 
-CLASS:      Bullsquid Mutant, Acid Type
+CLASS:      Bullsquid Mutant, Acid
 METABOLISM: Omnivore (acidic digestion)
-PERCEPTION: Smell + vibration sense
+PERCEPTION: Land Predator Of Xen
 SIZE:       8 ft
 ENDURANCE:  High
 HOSTILITY:  Very High

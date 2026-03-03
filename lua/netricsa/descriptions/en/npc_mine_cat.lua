@@ -1,9 +1,9 @@
 CAT FROM THE MINECRAFT OVERWORLD
 
 
-CLASS:      Domestic / Neutral Animal
+CLASS:      Cat
 METABOLISM: Warm-blooded Mammal
-PERCEPTION: Acute hearing and vision
+PERCEPTION: Domestic / Neutral Animal
 SIZE:       2,6 ft
 ENDURANCE:  Low
 HOSTILITY:  Low

@@ -3,13 +3,13 @@ BABY HEADCRAB FROM XEN
 
 CLASS:      Headcrab, Baby
 METABOLISM: parasitic xenofauna
-PERCEPTION: vibration-sensitive, instinct-driven
+PERCEPTION: Biological Weapon
 SIZE:       1-2 ft
-ENDURANCE: very low individually
-HOSTILITY: high toward nearby lifeforms
-WEAPONS:   bite, cling
-REWARD:    50-100 FC
-THREAT:    low individually, moderate in swarms
+ENDURANCE:  very low individually
+HOSTILITY:  high toward nearby lifeforms
+WEAPONS:    bite, cling
+REWARD:     50 FC
+THREAT:     low individually, moderate in swarms
 
 DESCRIPTION:
 

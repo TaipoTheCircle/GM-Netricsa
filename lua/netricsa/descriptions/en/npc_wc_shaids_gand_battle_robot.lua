@@ -1,9 +1,9 @@
-MARK 1 COMBAT ROBOT
+MARK 1 COMBAT ROBOT FROM SHAIJU GANDHI
 
 
-CLASS:      Heavy War Machine
+CLASS:      MARK 1 Combat Robot
 METABOLISM: Artificial (reactor core)
-PERCEPTION: Thermal optics + motion sensors
+PERCEPTION: Heavy War Machine
 SIZE:       10 ft
 ENDURANCE:  Very High
 HOSTILITY:  Extreme

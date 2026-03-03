@@ -1,9 +1,9 @@
 ALPHA SECURITY GUARD
 
 
-CLASS:      Security Guard (Alpha Division)
+CLASS:      Security Guard, Alpha
 METABOLISM: Human, Male
-PERCEPTION: standard senses (sight, hearing, combat training)
+PERCEPTION: Black Mesa Security Warrior
 SIZE        ~6 ft
 ENDURANCE:  medium (light armor vest)
 HOSTILITY:  neutral to Black Mesa staff, hostile to Xen creatures and external threats

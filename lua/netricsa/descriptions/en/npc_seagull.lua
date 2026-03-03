@@ -1,10 +1,10 @@
 SEAGULL
 
 
-CLASS:      Wild Avian
+CLASS:      Seagull
 METABOLISM: Bird
-PERCEPTION: Moderate (scavenger instincts, good eyesight)
-SIZE:       ~1.5-2 ft
+PERCEPTION: Wild Avian
+SIZE:       ~1,5-2 ft
 ENDURANCE:  Low
 HOSTILITY:  Low
 WEAPONS:    Beak, claws
@@ -18,4 +18,3 @@ Seagulls frequent coastlines, rivers, and waterways, scavenging for food near hu
 TIPS:
 
 - Observing seagulls may indicate nearby water or food sources.
-- Don't leave Buggy, Seagull will shit on him.

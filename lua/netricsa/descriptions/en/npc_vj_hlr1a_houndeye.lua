@@ -3,7 +3,7 @@ ALPHA HOUNDEYE FROM XEN
 
 CLASS:      Houndeye, Alpha
 METABOLISM: pack-hunting xenofauna
-PERCEPTION: acute hearing, echolocation
+PERCEPTION: Adult Houndeye
 SIZE:       ~3 ft tall, 4 ft long
 ENDURANCE:  medium
 HOSTILITY:  high in packs

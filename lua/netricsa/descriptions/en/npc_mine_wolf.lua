@@ -1,9 +1,9 @@
 WOLF FROM THE MINECRAFT OVERWORLD
 
 
-CLASS:      Neutral / Tamable
+CLASS:      Wolf
 METABOLISM: Warm-blooded mammal
-PERCEPTION: Keen hearing, developed sense of smell
+PERCEPTION: Neutral / Tamable animal
 SIZE:       2,9 ft
 ENDURANCE:  Average
 HOSTILITY:  Moderate

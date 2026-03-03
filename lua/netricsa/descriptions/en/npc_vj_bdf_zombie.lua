@@ -3,7 +3,7 @@ HEADCRAB ZOMBIE RUNNER
 
 CLASS:      Headcrab Zombie, Runner
 METABOLISM: human host + parasitic Xen Headcrab (enhanced)
-PERCEPTION: keen, motion-driven
+PERCEPTION: Zombified entity
 SIZE:       ~6 ft tall
 ENDURANCE:  medium-high
 HOSTILITY:  extreme

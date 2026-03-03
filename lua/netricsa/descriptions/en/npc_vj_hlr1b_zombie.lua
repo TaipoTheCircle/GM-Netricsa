@@ -3,8 +3,8 @@ PURPLE HEADCRAB ZOMBIE
 
 CLASS:      Headcrab Zombie, Purple
 METABOLISM: Human Host + Purple Headcrab
-PERCEPTION: Limited, host-driven
-SIZE:       ~6 ft (183 cm)
+PERCEPTION: Zombified entity
+SIZE:       ~6 ft
 ENDURANCE:  Medium-High
 HOSTILITY:  High (slow but relentless)
 WEAPONS:    Melee attacks (claws, grappling)

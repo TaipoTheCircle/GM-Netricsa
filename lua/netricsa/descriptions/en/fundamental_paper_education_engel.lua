@@ -1,9 +1,9 @@
 ENGEL FROM FUNDAMENTAL PAPER EDUCATION
 
 
-CLASS:      Engel, Student of the Paper School
+CLASS:      Engel
 METABOLISM: Paper anthropomorphic organism
-PERCEPTION: Vision, heightened awareness of friends
+PERCEPTION: Student of the Paper School
 SIZE:       5 ft
 ENDURANCE:  Average (stronger than standard students)
 HOSTILITY:  Low (only attacks in defense)

@@ -1,9 +1,9 @@
 CHICKEN FROM THE MINECRAFT OVERWORLD
 
 
-CLASS:      Domestic / Wild
+CLASS:      Chicken
 METABOLISM: Bird
-PERCEPTION: Standard Vision
+PERCEPTION: Domestic / Wild Animal
 SIZE:       2,2 ft
 ENDURANCE:  Low
 HOSTILITY:  Low

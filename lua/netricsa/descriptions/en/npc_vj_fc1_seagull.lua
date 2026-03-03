@@ -1,10 +1,10 @@
-SEAGULL
+SEAGULL FROM THE KRIEGER ARCHIPELAGO 
 
 
-CLASS:      Wild Avian
+CLASS:      Seagull
 METABOLISM: Bird
-PERCEPTION: Moderate (scavenger instincts, good eyesight)
-SIZE:       ~1.5-2 ft
+PERCEPTION: Wild Avian
+SIZE:       ~1,5-2 ft
 ENDURANCE:  Low
 HOSTILITY:  Low
 WEAPONS:    Beak, claws

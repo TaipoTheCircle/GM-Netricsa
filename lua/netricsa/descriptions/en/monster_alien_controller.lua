@@ -3,7 +3,7 @@ ALIEN CONTROLLER FROM XEN
 
 CLASS:      Alien Controller
 METABOLISM: psionic entity
-PERCEPTION: extrasensory (psionic link)
+PERCEPTION: Nihilanth's Psychic Elite
 SIZE:       ~8 ft (floating)
 ENDURANCE:  medium
 HOSTILITY:  high

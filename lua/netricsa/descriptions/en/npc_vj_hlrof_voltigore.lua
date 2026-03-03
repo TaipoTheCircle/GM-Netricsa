@@ -1,9 +1,9 @@
 VOLTIGORE FROM THE X DIMENSION
 
 
-CLASS:      Race X, Heavy Assault Beast
+CLASS:      Voltigore
 METABOLISM: Bio-electrical predator
-PERCEPTION: Acute hearing, motion tracking
+PERCEPTION: Heavy Assault Beast Of Race X
 SIZE:       10-12 ft
 ENDURANCE:  Very High
 HOSTILITY:  Extreme

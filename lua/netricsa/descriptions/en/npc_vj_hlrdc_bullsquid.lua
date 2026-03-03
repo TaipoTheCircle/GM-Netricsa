@@ -1,9 +1,9 @@
 DREAMCAST BULLSQUID FROM XEN
 
 
-CLASS:      Dreamcast Bullsquid
+CLASS:      Bullsquid, Dreamcast
 METABOLISM: aggressive omnivore
-PERCEPTION: keen sight + smell
+PERCEPTION: Land Predator
 SIZE:       7-8 ft
 ENDURANCE:  medium-high
 HOSTILITY:  extreme

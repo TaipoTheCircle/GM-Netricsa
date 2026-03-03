@@ -1,20 +1,20 @@
-SNARK NEST FROM XEN
+ГНЕЗДО СНАРКОВ С ЗЕНА
 
 
-CLASS:      Snark, Adult
-METABOLISM: parasitic predator
-PERCEPTION: sensitive to movement
-SIZE:       3 ft
-ENDURANCE:  medium
-HOSTILITY:  high
-WEAPONS:    bite, claw slash, explosive death
-REWARD:     500 FC
-THREAT:     high
+КЛАСС:         Снарк, взрослый
+МЕТАБОЛИЗМ:    паразитический хищник
+ВОСПРИЯТИЕ:    Инопланетное Насекомое
+РАЗМЕР:        3 фута
+ВЫНОСЛИВОСТЬ:  средняя
+ВРАЖДЕБНОСТЬ:  высокая
+ОРУЖИЕ:        укус, удар когтями, взрывная смерть
+НАГРАДА:       500
+УГРОЗА:        высокая
 
-DESCRIPTION:
+ОПИСАНИЕ:
 
-Snark Nest is the fully matured stage of the common Xen snark. Unlike its small, hyperactive offspring, the adult moves slowly on four insect-like legs, dragging its heavy body across the ground. Its skin takes on a sickly green tone, while its back swells with clusters of glowing red eggs - the next generation of snarks waiting to hatch. Upon death, the eggs on its back can rupture, releasing new larvae of snark
+Гнездо Снарка - это полностью созревшая стадия обычного Снарка из Зена. В отличие от своих маленьких, гиперактивных потомков, взрослый Снарк движется медленно на четырех насекомоподобных ногах, волоча свое тяжелое тело по земле. Его кожа приобретает болезненный зеленый оттенок, а на спине появляются скопления светящихся красных яиц - следующее поколение Снарков, ожидающих вылупления. После смерти яйца на его спине могут разорваться, выпустив новых личинок Снарка.
 
-TIPS:
+СОВЕТЫ:
 
-- Eggs on its back make it easier to spot, but don't underestimate the danger.
+- Яйца на спине делают его легче обнаружить, но не стоит недооценивать опасность.

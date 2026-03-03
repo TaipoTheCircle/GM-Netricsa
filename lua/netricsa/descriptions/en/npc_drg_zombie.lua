@@ -3,7 +3,7 @@ HEADCRAB ZOMBIE, EARTH
 
 CLASS:      HeadCrab Zombie, Earth
 METABOLISM: parasitic host
-PERCEPTION: poor, guided by host's senses
+PERCEPTION: Zombified entity
 SIZE:       6-7 ft
 ENDURANCE:  medium
 HOSTILITY:  high

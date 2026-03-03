@@ -1,9 +1,9 @@
 EDWARD FROM FUNDAMENTAL PAPER EDUCATION
 
 
-CLASS:      Edward, the Inventor-Bully
+CLASS:      Edward
 METABOLISM: Paper anthropomorphic organism
-PERCEPTION: Vision, tech savvy
+PERCEPTION: Inventor-Bully
 SIZE:       ~3,2 ft
 ENDURANCE:  Average
 HOSTILITY:  High

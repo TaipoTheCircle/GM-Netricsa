@@ -1,9 +1,9 @@
 H.E.C.U. AH-64 APACHE GUNSHIP
 
 
-CLASS:      Military Attack Helicopter
+CLASS:      H.E.C.U. AH-64 Apache Gunship
 METABOLISM: none (mechanical, human-piloted)
-PERCEPTION: radar, visual targeting systems
+PERCEPTION: Military Attack Helicopter
 SIZE:       ~58 ft long
 ENDURANCE:  very high (armored, evasive)
 HOSTILITY:  extreme (seek and destroy)

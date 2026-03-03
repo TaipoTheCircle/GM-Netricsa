@@ -1,10 +1,10 @@
 TREE FROM XEN
 
 
-CLASS:      Alien Flora Of Xen
+CLASS:      Xen Tree
 METABOLISM: Unknown / Semi-parasitic
-PERCEPTION: Vibration / motion sensing
-SIZE:       ~13-16 ft tall (примерно 13-16 ft) 
+PERCEPTION: Alien Flora Of Xen
+SIZE:       ~13-16 ft tall
 ENDURANCE:  Very High (indestructible by normal means)
 HOSTILITY:  High (attacks any creature that gets close)
 WEAPONS:    Hooked appendage stab (tentacle-like attack)

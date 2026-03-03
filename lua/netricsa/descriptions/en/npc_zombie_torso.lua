@@ -3,7 +3,7 @@ HEADCRAB ZOMBIE
 
 CLASS:      HeadCrab Zombie, Torso
 METABOLISM: parasitic host (severed remains)
-PERCEPTION: poor (guided by headcrab)
+PERCEPTION: Zombified Entity
 SIZE:       3 ft
 ENDURANCE:  very low
 HOSTILITY:  high

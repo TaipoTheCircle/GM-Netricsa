@@ -1,9 +1,9 @@
 MISS THAVEL OF FUNDAMENTAL PAPER EDUCATION
 
 
-CLASS:      Miss Thavel, Language Teacher
+CLASS:      Miss Thavel
 METABOLISM: Paper Organism / Mythical Entity
-PERCEPTION: Sight, hearing, possibly fear and language senses
+PERCEPTION: Language Teacher
 SIZE:       ~9 ft
 ENDURANCE:  high
 HOSTILITY:  Extreme

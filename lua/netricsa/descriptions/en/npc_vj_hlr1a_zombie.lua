@@ -1,10 +1,10 @@
 HEADCRAB ZOMBIE COMMON, ALPHA
 
 
-CLASS:      Common Headcrab Zombie, Alpha 
+CLASS:      Headcrab Zombie Common, Alpha 
 METABOLISM: Human host (Alpha Scientist) + Common parasitic Headcrab
-PERCEPTION: Limited, host-driven
-SIZE:       ~6 ft (183 cm)
+PERCEPTION: Zombified entity
+SIZE:       ~6 ft
 ENDURANCE:  High (alpha mutation, resilient tissue)
 HOSTILITY:  Extreme (aggressive, leads other zombies)
 WEAPONS:    Melee attacks (claws, swings), grappling

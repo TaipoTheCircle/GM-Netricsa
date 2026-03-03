@@ -3,7 +3,7 @@ ARCTIC HEADCRAB FROM EARTH
 
 CLASS:      Headcrab, Earth (Arctic)
 METABOLISM: Parasite adapted to low temperatures
-PERCEPTION: Thermal sense + motion detection
+PERCEPTION: Biological Weapon
 SIZE:       ~1,5 ft
 ENDURANCE:  Low
 HOSTILITY:  High

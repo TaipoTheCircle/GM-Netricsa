@@ -1,9 +1,9 @@
 NIHILANTH, THE LORD OF XEN
 
 
-CLASS:      Nihilanth (Lord of Xen)
+CLASS:      Nihilanth, The Lord Of Xen
 METABOLISM: Psionic Essence
-PERCEPTION: Extrasensory (Telepathy + Psionic Link)
+PERCEPTION: Ruler of Xen
 SIZE:       ~30 ft
 ENDURANCE:  Extremely High
 HOSTILITY:  Overwhelming

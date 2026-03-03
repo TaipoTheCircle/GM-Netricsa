@@ -2,8 +2,8 @@ BIG WHITE SHARK FROM THE KRIEGER ARCHIPELAGO
 
 
 CLASS:      Big White Shark
-METABOLISM: Cartilaginous fish (apex predator)
-PERCEPTION: Electroreception, olfactory sense, lateral line, vision
+METABOLISM: Cartilaginous fish
+PERCEPTION: Apex predator
 SIZE:       16 ft
 ENDURANCE:  Very high
 HOSTILITY:  High (in water), absent (on land)

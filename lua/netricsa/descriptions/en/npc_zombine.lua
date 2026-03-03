@@ -3,7 +3,7 @@ ZOMBINE
 
 CLASS:      Zombine
 METABOLISM: parasitic host (former Combine soldier)
-PERCEPTION: poor (headcrab-driven)
+PERCEPTION: Zombified entity
 SIZE:       6 ft
 ENDURANCE:  medium
 HOSTILITY:  extreme

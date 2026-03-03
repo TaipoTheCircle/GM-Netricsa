@@ -3,7 +3,7 @@ ALBINO CYCLOPS FROM MAGNOR
 
 CLASS:      Albino Cyclops
 METABOLISM: Carnivorous
-PERCEPTION: Homing orb targeting + close-range melee
+PERCEPTION: Worm-like Mutant
 SIZE:       ~22 ft
 ENDURANCE:  High
 HOSTILITY:  Extreme

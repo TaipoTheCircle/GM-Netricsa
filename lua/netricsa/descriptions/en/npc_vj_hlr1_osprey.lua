@@ -1,15 +1,15 @@
 H.E.C.U. V-22 OSPREY
 
 
-CLASS:      Military Tiltrotor Transport
-METABOLISM: none (mechanical, human-piloted)
-PERCEPTION: radar, visual targeting
+CLASS:      H.E.C.U. V-22 Osprey
+METABOLISM: none 
+PERCEPTION: Military Tiltrotor Transport
 SIZE:       ~57 ft long
-ENDURANCE:  high (armored troop carrier)
-HOSTILITY:  medium (drops enemies, limited offense)
-WEAPONS:    none (mainly transport role)
+ENDURANCE:  high
+HOSTILITY:  medium
+WEAPONS:    none 
 REWARD:     2500 FC
-THREAT:     high (due to reinforcements)
+THREAT:     high 
 
 DESCRIPTION:
 

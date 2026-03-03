@@ -1,10 +1,10 @@
 HEADCRAB ZOMBIE COMMON, H.E.C.U.
 
 
-CLASS:      Common Headcrab Zombie, H.E.C.U.
+CLASS:      Headcrab Zombie Common, H.E.C.U.
 METABOLISM: Human Host + Common Parasitic Headcrab
-PERCEPTION: Limited, host-driven
-SIZE:       ~6 ft (183 cm)
+PERCEPTION: Zombified entity
+SIZE:       ~6 ft
 ENDURANCE:  Medium
 HOSTILITY:  High (slow but relentless)
 WEAPONS:    Melee attacks (claws, swings), grappling

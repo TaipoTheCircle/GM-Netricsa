@@ -2,8 +2,8 @@ SPIDER-JOCKEY FROM THE MINECRAFT OVERWORLD
 
 
 CLASS:      Spider-Jockey
-PERCEPTION: Tactical Tandem
 METABOLISM: Arthropod + Undead
+PERCEPTION: Tactical Tandem
 SIZE:       11 ft
 ENDURANCE:  High
 HOSTILITY:  Very High

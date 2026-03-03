@@ -2,10 +2,10 @@ BLACK MESA H.E.V. SECURITY GUARD
 
 
 
-CLASS:      Black Mesa Security Officer
+CLASS:      Black Mesa H.E.V. Security Guard
 METABOLISM: Human, Male
-PERCEPTION: Standard visual + radio coordination
-SIZE:       ~6 ft (183 cm)
+PERCEPTION: Black Mesa Security Warrior
+SIZE:       ~6 ft
 ENDURANCE:  Medium (H.E.V. suit protection)
 HOSTILITY:  Variable (defensive, hostile when threatened)
 WEAPONS:    Glock 17 sidearm.

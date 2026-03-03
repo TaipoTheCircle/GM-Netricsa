@@ -1,9 +1,9 @@
 HYBRIDSQUID FROM XEN
 
 
-CLASS:      Bullsquid Hybrid, Psionic Mutation
+CLASS:      Bullsquid Hybrid, Psionic
 METABOLISM: Unknown (energy-based digestion)
-PERCEPTION: Superior sight and reflexes
+PERCEPTION: Land Predator Of Xen
 SIZE:       7 ft
 ENDURANCE:  Medium-low (but extremely fast)
 HOSTILITY:  Extreme

@@ -3,7 +3,7 @@ MONSTER GENERIC FROM ????
 
 CLASS:      Monster Generic
 METABOLISM: xenobiological or mutant template
-PERCEPTION: visual, auditory, environmental scanning
+PERCEPTION: Mimic
 SIZE:       variable 
 ENDURANCE:  medium
 HOSTILITY:  usually high

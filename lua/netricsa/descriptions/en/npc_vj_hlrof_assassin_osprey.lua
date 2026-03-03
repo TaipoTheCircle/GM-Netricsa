@@ -1,15 +1,15 @@
 BLACK OPS V-22 OSPREY
 
 
-CLASS:      Covert Tiltrotor Transport
-METABOLISM: none (mechanical, elite-piloted)
-PERCEPTION: radar, stealth modifications
+CLASS:      Black Ops V-22 Osprey
+METABOLISM: mechanical construction
+PERCEPTION: Covert Tiltrotor Transport
 SIZE:       ~57 ft long
-ENDURANCE:  very high (reinforced)
-HOSTILITY:  extreme (drops Black Ops units)
-WEAPONS:    side-mounted guns (light), troop deployment
+ENDURANCE:  very high 
+HOSTILITY:  extreme
+WEAPONS:    side-mounted guns, troop deployment
 REWARD:     4000 FC
-THREAT:     catastrophic (due to elite reinforcements)
+THREAT:     catastrophic
 
 DESCRIPTION:
 

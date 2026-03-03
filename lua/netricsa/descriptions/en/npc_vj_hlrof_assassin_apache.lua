@@ -1,9 +1,9 @@
-BLACK OPS AH-64 APACHE
+BLACK OPS AH-64 APACHE GUNSHIP
 
 
-CLASS:      Covert Attack Helicopter
+CLASS:      Black Ops AH-64 Apache Gunship
 METABOLISM: none (mechanical, elite-piloted)
-PERCEPTION: radar lock, infrared tracking
+PERCEPTION: Covert Attack Helicopter
 SIZE:       ~58 ft long
 ENDURANCE:  extremely high (heavily armored)
 HOSTILITY:  extreme

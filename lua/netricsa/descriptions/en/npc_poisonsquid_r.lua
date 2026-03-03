@@ -1,9 +1,9 @@
 POISONSQUID FROM XEN
 
 
-CLASS:      Bullsquid Mutant, Venom Type
+CLASS:      Bullsquid Mutant, Poison
 METABOLISM: Carnivore (venomous mutation)
-PERCEPTION: Enhanced scent for prey tracking
+PERCEPTION: Land Predator Of Xen
 SIZE:       7-8 ft
 ENDURANCE:  Medium
 HOSTILITY:  Extreme

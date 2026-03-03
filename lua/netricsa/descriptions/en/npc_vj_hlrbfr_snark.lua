@@ -3,7 +3,7 @@ GENMOD-262'S SNARK FROM UH-1
 
 CLASS:      Genmod-262's Snark
 METABOLISM: Aggressive Carnivore
-PERCEPTION: Xen Fauna
+PERCEPTION: Alien Insect
 SIZE:       ~1 ft
 ENDURANCE:  Low
 HOSTILITY:  Extreme
