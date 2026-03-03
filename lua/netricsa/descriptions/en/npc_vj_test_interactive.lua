@@ -1,10 +1,10 @@
 INTERACTIVE CITIZEN
 
 
-CLASS:      Human Civilian / Experimental
+CLASS:      Interactive Citizen
 METABOLISM: Human, Male
-PERCEPTION: Normal (basic awareness)
-SIZE:       ~5.8-6 ft
+PERCEPTION: Human Civilian / Experimental
+SIZE:       ~5,9 ft
 ENDURANCE:  Low (fragile, unarmed)
 HOSTILITY:  Very Low (non-combatant)
 WEAPONS:    None

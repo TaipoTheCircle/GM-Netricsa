@@ -4,7 +4,7 @@ SQUIRREL (JUMPER) FROM THE KRIEGER ARCHIPELAGO
 CLASS:      Squeaker (Jumper)
 METABOLISM: Trigen-mutated human
 PERCEPTION: Tactical saboteur
-SIZE:       5.9 ft
+SIZE:       5,9 ft
 ENDURANCE:  Medium
 HOSTILITY:  High
 WEAPONS:    AG36, P90 automatic rifles, jump attacks

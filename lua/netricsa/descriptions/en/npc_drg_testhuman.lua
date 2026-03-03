@@ -1,10 +1,10 @@
 PLAYER NPC, THE MIMIC PLAYER
 
 
-CLASS:      Human NPC / Mimic
+CLASS:      Player NPC, The Mimic Player
 METABOLISM: Humans
-PERCEPTION: High (replicates player actions perfectly)
-SIZE:       ~5.8-6 ft
+PERCEPTION: Human NPC / Mimic
+SIZE:       ~5,9 ft
 ENDURANCE:  Medium (same as standard player character)
 HOSTILITY:  Variable (copies player behavior; may attack if player attacks)
 WEAPONS:    Mirrors player inventory (guns, grenades, melee, etc.)

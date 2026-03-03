@@ -1,10 +1,10 @@
 DR. ISAAC KLEINER
 
 
-CLASS:      Human Scientist / Resistance Researcher
+CLASS:      Dr. Isaac Kleiner
 METABOLISM: Human, Male
-PERCEPTION: High (scientific genius, absent-minded)
-SIZE:       ~5.9 ft
+PERCEPTION: Human Scientist / Resistance Researcher
+SIZE:       ~5,9 ft
 ENDURANCE:  Low (physically frail, non-combatant)
 HOSTILITY:  Low (friendly, defensive only)
 WEAPONS:    Scientific knowledge, teleportation tech, occasional SPAS-12 shotgun

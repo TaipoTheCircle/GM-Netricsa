@@ -1,9 +1,9 @@
 HAIR FROM XEN
 
 
-CLASS:      Alien Flora / Xen Plant
+CLASS:      Xen Hair
 METABOLISM: Unknown / passive flora
-PERCEPTION: Wind / vibration (very minimal)
+PERCEPTION: Alien Flora / Xen Plant
 SIZE:       ~1-2 ft (resembles black mammal hair)
 ENDURANCE:  Low (delicate, fragile)
 HOSTILITY:  None

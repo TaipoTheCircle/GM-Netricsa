@@ -1,9 +1,9 @@
 COMBINE MORTAR SYNTH
 
 
-CLASS:      Artillery Synth
+CLASS:      Combine Mortar Synth
 METABOLISM: Bio-mechanical artillery organism (acidic core sustenance)
-PERCEPTION: Long-range targeting sensors + psionic uplink
+PERCEPTION: Artillery Synth
 SIZE:       ~18 ft tall (with cannon raised)
 ENDURANCE:  High (armored carapace, but less mobile)
 HOSTILITY:  Extreme
@@ -13,7 +13,7 @@ THREAT:     Catastrophic (siege-class unit)
 
 DESCRIPTION:
 
-The Mortar Synth is a  artillery organism engineered by the Combine to obliterate resistance strongholds from afar. Its grotesque form resembles a biomechanical insect fused with a siege cannon - the spine arched upward to launch explosive pods over great distances.
+The Combine Mortar Synth is a  artillery organism engineered by the Combine to obliterate resistance strongholds from afar. Its grotesque form resembles a biomechanical insect fused with a siege cannon - the spine arched upward to launch explosive pods over great distances.
 
 Each mortar shot is devastating: acidic bombardment pods burst into corrosive clouds upon impact, burning through armor, fortifications, and flesh alike. While devastating at range, Mortar Synths are slow-moving and less effective in close quarters, relying on their massive bulk to crush any enemy that gets too close.
 

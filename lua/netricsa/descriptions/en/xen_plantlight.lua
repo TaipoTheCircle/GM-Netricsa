@@ -1,10 +1,10 @@
 LIGHT STALK FROM XEN
 
 
-CLASS:      Alien Flora Of Xen
+CLASS:      Light Stalk
 METABOLISM: Unknown / photosynthetic + energy absorption
-PERCEPTION: Light sensing, vibration + proximity
-SIZE:       ~8-12 ft tall
+PERCEPTION: Alien Flora Of Xen
+SIZE:       ~0,3 ft tall
 ENDURANCE:  High (durable structure)
 HOSTILITY:  Medium (defensive)
 WEAPONS:    none

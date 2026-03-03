@@ -1,9 +1,9 @@
 DR. ARNE MAGNUSSON
 
 
-CLASS:      Human Scientist / Resistance Commander
+CLASS:      Dr. Arne Magnusson
 METABOLISM: Human, Male
-PERCEPTION: High (brilliant strategist, but impatient)
+PERCEPTION: Human Scientist / Resistance Commander
 SIZE:       ~6 ft
 ENDURANCE:  Medium (older, but tough-minded)
 HOSTILITY:  Low (to allies), High (to Combine)

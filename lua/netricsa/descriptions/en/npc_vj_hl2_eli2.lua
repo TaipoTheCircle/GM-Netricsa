@@ -1,9 +1,9 @@
-ELI VANCE
+DR. ELI VANCE
 
 
-CLASS:      Human Scientist / Resistance Leader
+CLASS:      Dr. Eli Vance
 METABOLISM: Human, Male
-PERCEPTION: High (scientific intellect, sharp intuition)
+PERCEPTION: Human Scientist / Resistance Leader
 SIZE:       ~6 ft
 ENDURANCE:  Low-Medium (physically limited, but resilient spirit)
 HOSTILITY:  Low (friendly, defensive when threatened)

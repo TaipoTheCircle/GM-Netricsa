@@ -1,10 +1,10 @@
 MAGENTA SLAVE
 
 
-CLASS:      Human-Chumtoad Vortigaunt Mutant
+CLASS:      Magenta Slave
 METABOLISM: Former human scientist fused with Xen-like entity (chumtoad)
-PERCEPTION: Psionic awareness, visual
-SIZE:       ~6 ft (183 cm)
+PERCEPTION: Human-Chumtoad Vortigaunt Mutant
+SIZE:       ~6 ft
 ENDURANCE:  Medium-High
 HOSTILITY:  High (aggressive)
 WEAPONS:    Magenta-colored energy blasts (psionic) 

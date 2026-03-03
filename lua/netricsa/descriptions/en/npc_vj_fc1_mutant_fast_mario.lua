@@ -1,7 +1,7 @@
 JUMPER PLUMBER FROM THE KRIEGER ARCHIPELAGO
 
 
-CLASS:      Jumper Plumber, Specialized Mutation
+CLASS:      Jumper Plumber
 METABOLISM: Trigen mutant with adapted physiology
 PERCEPTION: Tactical saboteur-engineer
 SIZE:       5,9 ft

@@ -1,10 +1,9 @@
-WALLACE BREEN
+DR. WALLACE BREEN
 
 
-CLASS:      Earth Administrator / Guy-in-a-Suit Villain
+CLASS:      Dr. Wallace Breen
 METABOLISM: Human, Male
-PERCEPTION: Media-savvy + public manipulation
-SIZE:       ~6 ft
+PERCEPTION: Earth Administrator / Guy-in-a-Suit Villain
 ENDURANCE:  Medium (physically vulnerable, but politically untouchable)
 HOSTILITY:  Extreme (as propaganda enforcer)
 WEAPONS:    Gravity Gun (brief flash use)
