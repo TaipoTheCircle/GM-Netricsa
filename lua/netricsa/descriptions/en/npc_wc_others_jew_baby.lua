@@ -1,10 +1,10 @@
 BABY JEWISH RESISTOR
 
 
-CLASS:      Human Rebel, Baby
+CLASS:      Jewish Resistor, Baby
 METABOLISM: Human, Male
-PERCEPTION: Survivor's instinct
-SIZE:       3 ft
+PERCEPTION: Human Rebel
+SIZE:       5,5-6 ft
 ENDURANCE:  Medium
 HOSTILITY:  Directed against German forces
 WEAPONS:    none
@@ -20,3 +20,4 @@ TIPS:
 - Individually weak, but can be dangerous in groups.
 - Their unpredictability makes them difficult to track.
 - Lacks armor - precision fire is effective.
+

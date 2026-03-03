@@ -1,9 +1,9 @@
 GONARCH FROM XEN
 
 
-CLASS:      Gonarch (Headcrab Matriarch)
+CLASS:      Gonarch
 METABOLISM: parasitic overlord
-PERCEPTION: heightened awareness, hive instinct
+PERCEPTION: Headcrab Matriarch
 SIZE:       ~20 ft tall
 ENDURANCE:  extremely high
 HOSTILITY:  extreme

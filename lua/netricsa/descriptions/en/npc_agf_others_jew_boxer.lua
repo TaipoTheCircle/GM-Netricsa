@@ -1,10 +1,10 @@
 JOHN JEEWICH, THE UNRIVALED BOXER
 
 
-CLASS:      Human, Champion Brawler
+CLASS:      John Jeewich, the Unrivaled Boxer
 METABOLISM: Human, Male, Anabolic Titan
-PERCEPTION: Reflexes of a predator
-SIZE:       6.4 ft
+PERCEPTION: Champion Brawler
+SIZE:       6,4 ft
 ENDURANCE:  Colossal
 HOSTILITY:  Extreme (in the ring - merciless)
 WEAPONS:    One-handed knockout, bone-crushing punches, clinch crush

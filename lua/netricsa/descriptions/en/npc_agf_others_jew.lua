@@ -1,10 +1,10 @@
 JEWISH RESISTOR
 
 
-CLASS:      Human Rebel
+CLASS:      Jewish Resistor
 METABOLISM: Human, Male
-PERCEPTION: Survivor's instinct
-SIZE:       5.5-6 ft
+PERCEPTION: Human Rebel
+SIZE:       5,5-6 ft
 ENDURANCE:  Medium
 HOSTILITY:  Directed against German forces
 WEAPONS:    none
