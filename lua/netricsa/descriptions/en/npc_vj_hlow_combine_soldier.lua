@@ -1,10 +1,10 @@
 COMBINE OVERWATCH SOLDIER
 
 
-CLASS:      Transhuman Soldier (Combine Infantry)
+CLASS:      Combine Overwatch Soldier
 METABOLISM: Augmented Human, Male / biomechanical enhancements
-PERCEPTION: Tactical sensors + enhanced reflexes
-SIZE:       6-6.5 ft
+PERCEPTION: Combine Infantry
+SIZE:       5,9 ft
 ENDURANCE:  High
 HOSTILITY:  Extreme
 WEAPONS:    Pulse Rifle AR2, Shotgun, Grenades

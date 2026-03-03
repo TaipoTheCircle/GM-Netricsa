@@ -1,9 +1,9 @@
 FIREFLY FROM THE KRIEGER ARCHIPELAGO
 
 
-CLASS:      Firefly, Bioluminescent Insect
+CLASS:      Firefly
 METABOLISM: Insect
-PERCEPTION: Photoreception, basic vision
+PERCEPTION: Bioluminescent Insect
 SIZE:       0,06 ft
 ENDURANCE:  Very low
 HOSTILITY:  None

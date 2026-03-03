@@ -1,15 +1,15 @@
 PENGUIN WITH GRENADE
 
 
-CLASS:      Bio-Weapon
-METABOLISM: avian carnivore
-PERCEPTION: keen sight
+CLASS:      Penguin With Grenade
+METABOLISM: Avian carnivore
+PERCEPTION: Bio-Weapon
 SIZE:       2 ft
-ENDURANCE:  low-medium
-HOSTILITY:  high
-WEAPONS:    strapped grenade, peck attack
+ENDURANCE:  Low-medium
+HOSTILITY:  High
+WEAPONS:    Strapped grenade, peck attack
 REWARD:     200 FC
-THREAT:     medium
+THREAT:     Medium
 
 DESCRIPTION:
 

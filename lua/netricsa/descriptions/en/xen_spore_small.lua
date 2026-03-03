@@ -1,15 +1,15 @@
 FUNGUS FROM XEN, SMALL
 
 
-CLASS: Alien Flora Of Xen
+CLASS:      Alien Flora Of Xen
 METABOLISM: Saprophytic / Parasitic
 PERCEPTION: Vibration + chemical sensing
-SIZE: ~2-4 ft tall
-ENDURANCE: Medium
-HOSTILITY: Low (defensive)
-WEAPONS: None
-REWARD: 0 FC
-THREAT: Low
+SIZE:       ~2 ft tall
+ENDURANCE:  Medium
+HOSTILITY:  Low (defensive)
+WEAPONS:    None
+REWARD:     0 FC
+THREAT:     Low
 
 DESCRIPTION:
 

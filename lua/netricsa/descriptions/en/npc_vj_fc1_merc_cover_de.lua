@@ -1,9 +1,9 @@
 DESERT EAGLE STORMTROOPER FROM THE KRIEGER ARCHIPELAGO
 
 
-CLASS:      Desert Eagle Trooper, Krieger Elite Mercenary
+CLASS:      Desert Eagle StormTrooper
 METABOLISM: Human, Male
-PERCEPTION: Standard vision, tactical training
+PERCEPTION: Krieger's Elite Mercenary
 SIZE:       6 ft
 ENDURANCE:  High
 HOSTILITY:  High

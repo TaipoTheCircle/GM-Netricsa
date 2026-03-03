@@ -3,7 +3,7 @@ COMMON HEADCRAB FROM XEN
 
 CLASS:      Headcrab, Common
 METABOLISM: parasitic xenofauna
-PERCEPTION: vibration-sensitive, host-driven
+PERCEPTION: Biological Weapon
 SIZE:       ~1-2 ft
 ENDURANCE:  medium individually
 HOSTILITY:  high (upon attachment)

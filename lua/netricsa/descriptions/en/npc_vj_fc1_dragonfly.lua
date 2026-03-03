@@ -1,10 +1,10 @@
 DRAGONFLY FROM THE KRIEGER ARCHIPELAGO
 
 
-CLASS:      Dragonfly, Predatory Insect
+CLASS:      Dragonfly
 METABOLISM: Insect, Predator
-PERCEPTION: Compound eyes, high reaction speed
-SIZE:       0.13 ft
+PERCEPTION: Predatory Insect
+SIZE:       0,13 ft
 ENDURANCE:  Low
 HOSTILITY:  None
 WEAPONS:    None

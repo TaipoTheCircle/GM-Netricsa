@@ -1,9 +1,9 @@
 HEADLESS HORSEMAN
 
 
-CLASS:      Cursed Rider
+CLASS:      Headless Horseman
 METABOLISM: Undead essence
-PERCEPTION: Supernatural senses
+PERCEPTION: Cursed Rider
 SIZE:       ~7 ft 
 ENDURANCE:  Very high
 HOSTILITY:  Extreme to enemies of the Reich

@@ -3,8 +3,8 @@ FROG FROM THE KRIEGER ARCHIPELAGO
 
 CLASS:      Frog
 METABOLISM: Amphibian
-PERCEPTION: Movement, vibrations
-SIZE:       0.6 ft
+PERCEPTION: Amphibian Animal
+SIZE:       0,6 ft
 ENDURANCE:  Very low
 HOSTILITY:  None
 WEAPONS:    None

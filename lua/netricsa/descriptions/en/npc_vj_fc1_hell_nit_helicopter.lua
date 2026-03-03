@@ -1,9 +1,9 @@
 HELL NIT UH-60 "BLACKHAWK" PATROL HELICOPTER FROM THE KRIEGER ARCHIPELAGO 
 
 
-CLASS:      Hell Nit Helicopter, Immortal Wrath of the Moai
+CLASS:      Hell Nit UH-60 "Blackhawk" Patrol Helicopter
 METABOLISM: Fiery Spirit, Immortal Essence
-PERCEPTION: All-seeing wrath of Stone, senses life and fear
+PERCEPTION: Immortal Wrath of the Moai
 SIZE:       ~16,7 ft
 ENDURANCE:  Absolute
 HOSTILITY:  Absolute

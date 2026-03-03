@@ -1,9 +1,9 @@
 M4 STORMTROOPER FROM THE KRIEGER ARCHIPELAGO
 
 
-CLASS:      M4 Trooper, Krieger Elite Mercenary
+CLASS:      M4 Trooper
 METABOLISM: Human, Male
-PERCEPTION: Standard vision, tactical training
+PERCEPTION: Krieger's Elite Mercenary
 SIZE:       6 ft
 ENDURANCE:  High
 HOSTILITY:  High

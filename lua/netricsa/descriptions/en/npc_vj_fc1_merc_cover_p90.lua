@@ -1,9 +1,9 @@
-P90 STORMTROOPER FROM THE KRIEGER ARCHIPELAGO
+P90 TROOPER FROM THE KRIEGER ARCHIPELAGO
 
 
-CLASS:      P90 Trooper, Krieger Elite Mercenary
+CLASS:      P90 Trooper
 METABOLISM: Human, Male
-PERCEPTION: Standard vision, tactical training
+PERCEPTION: Krieger Elite Mercenary
 SIZE:       6 ft
 ENDURANCE:  High
 HOSTILITY:  High

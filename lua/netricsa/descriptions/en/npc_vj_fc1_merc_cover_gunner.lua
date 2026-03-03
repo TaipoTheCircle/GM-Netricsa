@@ -1,9 +1,9 @@
 M134 ASSAULT TROOPER FROM THE KRIEGER ARCHIPELAGO
 
 
-CLASS:      M134 Assault Trooper, Krieger Elite Mercenary
+CLASS:      M134 Assault Trooper
 METABOLISM: Human, Male
-PERCEPTION: Standard Vision, Tactical Training
+PERCEPTION: Krieger's Elite Mercenary
 SIZE:       6 ft
 ENDURANCE:  High
 HOSTILITY:  High

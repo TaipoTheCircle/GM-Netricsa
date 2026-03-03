@@ -1,9 +1,9 @@
 DESERT EAGLE ASSAULT TROOPER FROM THE KRIEGER ARCHIPELAGO 
 
 
-CLASS:      Desert Eagle Assault Trooper, Basic Krieger Mercenary
+CLASS:      Desert Eagle Assault Trooper
 METABOLISM: Human, Male
-PERCEPTION: Standard vision, basic training
+PERCEPTION: Basic Krieger's Mercenary
 SIZE:       6 ft
 ENDURANCE:  Low
 HOSTILITY:  Average

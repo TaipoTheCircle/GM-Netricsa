@@ -1,9 +1,9 @@
 SNOWMAN PENGUIN NEST
 
 
-CLASS:      Hive Construct
+CLASS:      Snowman Penguin Nest
 METABOLISM: organic cluster
-PERCEPTION: passive unless attacked
+PERCEPTION: Hive Construct
 SIZE:       6 ft height
 ENDURANCE:  medium
 HOSTILITY:  none until provoked

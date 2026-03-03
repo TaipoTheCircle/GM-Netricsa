@@ -1,12 +1,12 @@
 DR. JUDITH MOSSMAN
 
 
-CLASS:      Human Scientist / Resistance Double Agent
+CLASS:      Dr. Judith Mossman
 METABOLISM: Human, Female
-PERCEPTION: High (manipulative, observant)
-SIZE:       ~5.8 ft
-ENDURANCE:  Medium (civilian, but resilient)
-HOSTILITY:  Variable (ally or betrayer)
+PERCEPTION: Human Scientist / Resistance Double Agent
+SIZE:       ~5,8 ft
+ENDURANCE:  Medium 
+HOSTILITY:  Variable
 WEAPONS:    Scientific expertise, political leverage
 REWARD:     1000 FC
 THREAT:     Medium-High (psychological, not physical)

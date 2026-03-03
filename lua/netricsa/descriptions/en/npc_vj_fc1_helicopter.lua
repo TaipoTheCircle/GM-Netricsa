@@ -1,8 +1,8 @@
 UH-60 "BLACKHAWK" PATROL HELICOPTER FROM THE KRIEGER ARCHIPELAGO
 
 
-CLASS:       Krieger Mercenary UH-60 "Blackhawk" Patrol Helicopter
-METABOLISM:  Aircraft (HP, Jet)
+CLASS:       UH-60 "Blackhawk" Patrol Helicopter
+METABOLISM:  Aircraft
 PERCEPTION:  Enemy Aircraft
 SIZE:        ~16,7 ft
 ENDURANCE:   High

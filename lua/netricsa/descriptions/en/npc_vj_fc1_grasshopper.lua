@@ -3,8 +3,8 @@ TROPICAL GRASSHOPPER FROM THE KRIEGER ARCHIPELAGO
 
 CLASS:      Tropical Grasshopper
 METABOLISM: Insect, Orthoptera
-PERCEPTION: Compound eyes, vibration sensitivity
-SIZE:       0.03 ft
+PERCEPTION: Insect of the Archipelago
+SIZE:       0,03 ft
 ENDURANCE:  Extremely low
 HOSTILITY:  None
 WEAPONS:    None
