@@ -652,6 +652,7 @@ end)
         ["npc_turok_trex"] = true,
         ["npc_turok_scarface"] = true,
         ["npc_turok_dilophosaurus"] = true,
+        ["npc_vj_ss2_kwongo"] = true,
     }
 
     local function AnnounceSpecialNPC(ent)
