@@ -3,7 +3,7 @@ DOMESTIC PIG FROM THE ZENOZOIK
 
 CLASS:      Domestic Pig
 METABOLISM: Mammal, Even-toed Ungulate
-PERCEPTION: Basic vision, olfactory
+PERCEPTION: Wild / Domestic Animal
 SIZE:       1,6 ft
 ENDURANCE:  Low
 HOSTILITY:  None

@@ -2,10 +2,10 @@ WILD BOAR FROM THE KRIEGER ARCHIPELAGO
 
 
 CLASS:      Wild Boar
-METABOLISM: Herbivore/Omnivore
+METABOLISM: Herbivore / Omnivore
 PERCEPTION: Royalist
-SIZE:       3.5 ft.
-ENDURANCE:    Low
+SIZE:       3,5 ft.
+ENDURANCE:  Low
 HOSTILITY:  Passive
 WEAPONS:    Tusks
 REWARD:     50 FC

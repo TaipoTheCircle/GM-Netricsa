@@ -2,12 +2,12 @@ FAST HEADCRAB ZOMBIE TORSO
 
 
 CLASS:      Headcrab Zombie, Fast Torso
-METABOLISM: parasitic host (severed remains)
-PERCEPTION: heightened reflexes (via headcrab)
-SIZE:       2.5-3 ft
-ENDURANCE:  very Fast
-HOSTILITY:  extreme
-WEAPONS:    claw swipes, frenzied leaps, bite
+METABOLISM: Parasitic host 
+PERCEPTION: Zombified Entity
+SIZE:       2,5 ft
+ENDURANCE:  Very Fast
+HOSTILITY:  Extreme
+WEAPONS:    Claw swipes, frenzied leaps, bite
 REWARD:     120 FC
 THREAT:     low-medium
 

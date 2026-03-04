@@ -3,7 +3,7 @@ ARCTIC FAST HEADCRAB FROM XEN
 
 CLASS:      Headcrab, Fast (Arctic)
 METABOLISM: Parasite resistant to extreme cold
-PERCEPTION: Enhanced reflexes + thermal sense
+PERCEPTION: Biological Weapon
 SIZE:       1,3 ft
 ENDURANCE:  Very low
 HOSTILITY:  High

@@ -1,9 +1,9 @@
 CHUM-TOAD FROM XEN
 
 
-CLASS:      Xen Amphibian
+CLASS:      Chum-Toad
 METABOLISM: Xen-based amphibious creature
-PERCEPTION: Poor eyesight, relies on vibrations and smell
+PERCEPTION: Xen Amphibian
 SIZE:       ~1 ft long, squat and round body
 ENDURANCE:  Low
 HOSTILITY:  Low (mostly passive)

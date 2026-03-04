@@ -1,11 +1,11 @@
 FIONA, THE BLACK OPS ASSASSIN COMMANDER
 
 
-CLASS:      Black Ops Assassin Leader
-METABOLISM: Human, Female (peak-trained operative)
-PERCEPTION: Enhanced reflexes, tactical awareness
-SIZE:       ~5'9 (175 cm)
-ENDURANCE:  High (elite conditioning, light armor)
+CLASS:      Fiona, The Black Ops Assassin Commander
+METABOLISM: Human, Female
+PERCEPTION: Black Ops Assassin Leader
+SIZE:       ~5,9 ft
+ENDURANCE:  High 
 HOSTILITY:  Extreme
 WEAPONS:    Beretta
 REWARD:     5000 FC

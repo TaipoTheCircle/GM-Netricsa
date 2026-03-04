@@ -1,9 +1,9 @@
 BUGBIRD FROM THE ZENOZOIK
 
 
-CLASS:      Bugbird, Trained Xenobiology
+CLASS:      Bugbird
 METABOLISM: Xenobiological
-PERCEPTION: Red eyes, hearing, movement
+PERCEPTION: Trained Xenobiology
 SIZE:       1,3 ft
 ENDURANCE:  Average
 HOSTILITY:  Average

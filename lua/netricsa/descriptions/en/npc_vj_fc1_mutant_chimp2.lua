@@ -1,10 +1,10 @@
 MUTATED CHIMPANZE FROM THE KRIEGER ARCHIPELAGO
 
 
-CLASS:      Trigene Primate, Chimpanzee
+CLASS:      Mutated Chimpanzee
 METABOLISM: Trigene - a mutant primate.
 PERCEPTION: Tactical Hunter
-SIZE:       4.1 ft
+SIZE:       4,1 ft
 ENDURANCE:  Average
 HOSTILITY:  High
 WEAPONS:    Claws, jumping attacks.

@@ -1,10 +1,10 @@
 COMBINE CITY SCANNER
 
 
-CLASS:      Reconnaissance Drone
+CLASS:      Combine City Scanner
 METABOLISM: Synthetic (Combine energy core, aerial frame)
-PERCEPTION: Optical zoom + motion sensors + tactical uplink
-SIZE:      ~2.5 ft length
+PERCEPTION: Reconnaissance Drone
+SIZE:       ~2,5 ft length
 ENDURANCE:  Low
 HOSTILITY:  Low 
 WEAPONS:    Flash unit (blinding light), minor shock discharge

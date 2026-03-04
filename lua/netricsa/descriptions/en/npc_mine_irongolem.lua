@@ -2,8 +2,8 @@ IRON GOLEM FROM THE MINECRAFT OVERWORLD
 
 
 CLASS:      Iron Golem
-PERCEPTION: Village guardian / defensive structure
-METABOLISM: Mechanical / artificially created
+PERCEPTION: Defensive Structure
+METABOLISM: Village guardian
 SIZE:       8,8 ft
 ENDURANCE:  Very high
 HOSTILITY:  Average

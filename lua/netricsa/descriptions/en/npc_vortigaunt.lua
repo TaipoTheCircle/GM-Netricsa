@@ -1,9 +1,9 @@
 VORTIGAUNT FROM XEN
 
 
-CLASS:      Vortigaunt (Freed)
+CLASS:      Vortigaunt
 METABOLISM: intelligent mammal (Xen refugee)
-PERCEPTION: very high, collective psionic link (“the Vortessence”)
+PERCEPTION: Intelligent Alien Race
 SIZE:       6 ft
 ENDURANCE:  medium-high
 HOSTILITY:  low (ally of Resistance)

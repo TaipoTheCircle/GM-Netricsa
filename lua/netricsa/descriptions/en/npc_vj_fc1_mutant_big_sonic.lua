@@ -1,9 +1,9 @@
 SUPER SANYA FROM THE KRIEGER ARCHIPELAGO
 
 
-CLASS:      Super Sanya, Supersonic Mutant Bruiser
+CLASS:      Super Sanya
 METABOLISM: Hyper-accelerated Trigen mutant
-PERCEPTION: Slowed time perception, motion stimuli
+PERCEPTION: Supersonic Mutant Bruiser
 SIZE:       7,2 ft
 ENDURANCE:  Very high, Extremely low
 HOSTILITY:  Hyper-aggressive
@@ -18,4 +18,5 @@ A unique, flawed byproduct of Dr. Egger's experiments to overcome hydrophobia in
 TIPS:
 
 - He wages a personal war with Dr. Egger, believing him to be responsible for his condition.
-- Like a regular Fat, he has a glowing implant on his chest, but it can only be hit when he stops moving. - Use a shotgun, heavy machine guns, or area-effect weapons (such as a flamethrower) to cover the area where he might be.
+- Like a regular Fat, he has a glowing implant on his chest, but it can only be hit when he stops moving.
+- Use a shotgun, heavy machine guns, or area-effect weapons (such as a flamethrower) to cover the area where he might be.

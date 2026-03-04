@@ -1,9 +1,10 @@
 RED-CUT MACAW FROM THE KRIEGER ARCHIPELAGO
 
-CLASS:      Parrot, Red-Cut Macaw
+
+CLASS:      Red-Cut Macaw
 METABOLISM: Bird
-PERCEPTION: Color vision, hearing
-SIZE:       ~0.9 m (including tail)
+PERCEPTION: Red Parrot
+SIZE:       ~3 ft (including tail)
 ENDURANCE:  Very low
 HOSTILITY:  None
 WEAPON:     Beak

@@ -1,13 +1,13 @@
 PROTO-PANTHEREYE FROM XEN
 
 
-CLASS:      Proto-Panthereye (Xen Predator, Early Subspecies)
+CLASS:      Proto-Panthereye
 METABOLISM: Incomplete hybridization of Xen beast DNA
-PERCEPTION: Sharp vision, basic predatory instincts
-SIZE:       ~5 ft tall (smaller than mature Panthereye)
+PERCEPTION: Xen Predator
+SIZE:       ~4 ft tall
 ENDURANCE:  Medium-Low
 HOSTILITY:  Moderate
-WEAPONS:    Leaping bite, Basic claw strikes, Limited energy discharge (unstable, short range)
+WEAPONS:    Leaping bite, Basic claw strikes, Limited energy discharge 
 REWARD:     500 FC
 THREAT:     Moderate
 

@@ -1,9 +1,9 @@
 BOB, NAZI SOLDIER
 
 
-CLASS:      Wehrmacht Infantry 
+CLASS:      Bob, Nazi Soldier
 METABOLISM: Human, Male
-PERCEPTION: Loyalty-bound
+PERCEPTION: Wehrmacht Infantry 
 SIZE:       6 ft
 ENDURANCE:  High
 HOSTILITY:  Low 

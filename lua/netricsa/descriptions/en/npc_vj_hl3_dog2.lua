@@ -1,9 +1,9 @@
 COMBINE DROID
 
 
-CLASS:      Combine Heavy Robotic Combat Platform
-METABOLISM: Fully Synthetic (Combine Power Core)
-PERCEPTION: Multi-layered Sensors + Overwatch Targeting
+CLASS:      Combine Droid
+METABOLISM: Fully Synthetic
+PERCEPTION: Combine Heavy Robotic Combat Platform
 SIZE:       ~8-10 ft
 ENDURANCE:  Extremely High
 HOSTILITY:  Extreme

@@ -4,7 +4,7 @@ FAT BOY FROM THE KRIEGER ARCHIPELAGO
 CLASS:      Fat Boy
 METABOLISM: Trigen Mutant
 PERCEPTION: Straightforward Fighter
-SIZE:       7.2 ft
+SIZE:       7,2 ft
 ENDURANCE:  Tall
 HOSTILITY:  Aggressive
 WEAPONS:    Missile Launcher (integrated), Claws

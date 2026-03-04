@@ -1,9 +1,9 @@
 COMBINE ELITE SUPER SOLDIER
 
 
-CLASS:      Synth Elite Heavy Assault Unit
+CLASS:      Combine Elite Super Soldier
 METABOLISM: Synth
-PERCEPTION: Tactical sensors + integrated tracking systems
+PERCEPTION: Synth Elite Heavy Assault Unit
 HEIGHT:     13 ft
 ENDURANCE:  Very high
 HOSTILITY:  Extreme

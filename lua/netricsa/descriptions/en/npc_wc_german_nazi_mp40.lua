@@ -1,10 +1,10 @@
 NAZI SOLDIER
 
 
-CLASS:      Wehrmacht Infantry
+CLASS:      Nazi Soldier
 METABOLISM: Human, Male
-PERCEPTION: Trained military discipline
-SIZE:       5.8-6 ft
+PERCEPTION: Wehrmacht Infantry
+SIZE:       5,9 ft
 ENDURANCE:  Medium
 HOSTILITY:  Extreme (towards enemies of the Reich)
 WEAPONS:    MP-40 submachine gun, grenades, combat knife

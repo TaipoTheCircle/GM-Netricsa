@@ -1,11 +1,11 @@
 COMBINE STRIDER
 
 
-CLASS:      Tripod Synth
+CLASS:      Combine Strider
 METABOLISM: Bio-mechanical artillery organism (acidic energy core)
-PERCEPTION: Multispectral optics + long-range acoustic sensors
+PERCEPTION: Tripod Synth
 SIZE:       ~60 ft tall
-ENDURANCE:  Extremely High (armored exoskeleton)
+ENDURANCE:  Extremely High
 HOSTILITY:  Overwhelming
 WEAPONS:    Heavy pulse canno, Warp-beam disintegrator, Stomp attack
 REWARD:     1500 FC

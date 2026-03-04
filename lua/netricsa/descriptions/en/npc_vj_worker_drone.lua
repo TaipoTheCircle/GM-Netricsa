@@ -1,12 +1,12 @@
 WORKER DRONE FROM COPPER 9
 
 
-CLASS:      Drone / Civilian Unit
+CLASS:      Worker Drone
 METABOLISM: Mechanical / Energy-Powered
-PERCEPTION: Standard (basic sensors, threat avoidance)
+PERCEPTION: Drone / Civilian Unit
 SIZE:       ~4 ft
-ENDURANCE:  Low (light chassis, fragile)
-HOSTILITY:  None (fleeing unless threatened by enemies)
+ENDURANCE:  Low 
+HOSTILITY:  None 
 WEAPONS:    None
 REWARD:     150 FC
 THREAT:     Very Low

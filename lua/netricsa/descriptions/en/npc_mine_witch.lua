@@ -1,9 +1,9 @@
 WITCH FROM THE MINECRAFT OVERWORLD
 
 
-CLASS:      Minecraft Witch
+CLASS:      Witch
 METABOLISM: Warm-blooded humanoid
-PERCEPTION: Enhanced, with tactical self-preservation
+PERCEPTION: Intelligent Wizard Humanoid
 SIZE:       6,2 ft
 ENDURANCE:  Very high
 HOSTILITY:  High

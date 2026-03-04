@@ -1,9 +1,10 @@
 GREEN-CUT MACAW FROM THE KRIEGER ARCHIPELAGO
 
-CLASS:      Parrot, Green-Cut Macaw
+
+CLASS:      Green-Cut Macaw
 METABOLISM: Bird
-PERCEPTION: Color vision, hearing
-SIZE:       ~0.9 m (including tail)
+PERCEPTION: Green Parrot
+SIZE:       ~3 ft  (including tail)
 ENDURANCE:  Very low
 HOSTILITY:  None
 WEAPON:     Beak

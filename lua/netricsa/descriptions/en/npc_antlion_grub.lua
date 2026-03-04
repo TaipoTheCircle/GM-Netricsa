@@ -1,10 +1,10 @@
 ANTLION GRUB FROM XEN
 
 
-CLASS:      Xen Larval Creature
-METABOLISM: Carnivorous (larval stage)
-PERCEPTION: Vibration + chemical sensing
-SIZE:       ~2 ft (length)
+CLASS:      Antlion, Grub
+METABOLISM: Carnivorous
+PERCEPTION: Xen Larval Creature
+SIZE:       ~2 ft
 ENDURANCE:  Low
 HOSTILITY:  Low
 WEAPONS:    Bite

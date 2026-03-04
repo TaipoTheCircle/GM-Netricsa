@@ -3,7 +3,7 @@ SCRAPJACK
 
 CLASS:      ScrapJack
 METABOLISM: Cybernetically modified stitched-together corpse
-PERCEPTION: Basic vision (3 head variants), vibrational
+PERCEPTION: Sewn Rocket Warrior
 SIZE:       8 ft
 ENDURANCE:  High
 HOSTILITY:  High

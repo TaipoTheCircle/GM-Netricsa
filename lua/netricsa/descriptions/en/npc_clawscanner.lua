@@ -1,12 +1,12 @@
 COMBINE CLAW BATTLE SCANNER
 
 
-CLASS:      Recon/Combat Synth, Scanner Type II
-METABOLISM: Synthetic (weaponized with shrapnel bombs)
-PERCEPTION: Optical systems with target acquisition + tactical uplink
-SIZE:       ~2.5 ft diameter (aerial observer)
-ENDURANCE:  Medium (armored plating)
-HOSTILITY:  High (area denial and suppression)
+CLASS:      Combine Claw Scanner
+METABOLISM: Synth
+PERCEPTION: Recon / Combat Synth, Scanner Type II
+SIZE:       ~2,5 ft diameter 
+ENDURANCE:  Medium 
+HOSTILITY:  High
 WEAPONS:    Hopper Mine deployment, blinding flash camera
 REWARD:     450 FC
 THREAT:     High

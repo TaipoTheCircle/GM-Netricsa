@@ -2,14 +2,14 @@ FAST HEADCRAB ZOMBIE
 
 
 CLASS:      Headcrab Zombie, Fast
-METABOLISM: parasitic host
-PERCEPTION: heightened reflexes
+METABOLISM: Parasitic host
+PERCEPTION: Zombified Entity
 SIZE:       6 ft
 ENDURANCE:  very fast
-HOSTILITY:  extreme
-WEAPONS:    claws, leaps, high speed
+HOSTILITY:  Extreme
+WEAPONS:    Claws, leaps, high speed
 REWARD:     250 FC
-THREAT:     medium-high
+THREAT:     Medium-high
 
 DESCRIPTION:
 

@@ -1,10 +1,10 @@
 THE FISHERMAN
 
 
-CLASS:      Human Local Guide (Coastal Resistance Ally)
+CLASS:      The Fisherman
 METABOLISM: Human, Male
-PERCEPTION: Sharp (local survival instincts)
-SIZE:       ~5.8 ft
+PERCEPTION: Human Local Guide, Coastal Resistance Ally
+SIZE:       ~5,8 ft
 ENDURANCE:  Medium (weather-worn but steady)
 HOSTILITY:  Low (friendly guide)
 WEAPONS:    Harpoon (defensive, rarely used)

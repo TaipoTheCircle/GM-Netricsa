@@ -1,15 +1,15 @@
 COMBINE APC DRIVER
 
 
-CLASS:      Synthetic Control Drone (Mine-Type AI)
+CLASS:      Combine APC Driver
 METABOLISM: Artificial / Mechanical
-PERCEPTION: Vehicle systems interface
-SIZE:       ~1.5 ft (sphere)
-ENDURANCE:  Low (fragile outside APC)
-HOSTILITY:  Medium (only through vehicle)
+PERCEPTION: Synthetic Control Drone (Mine-Type AI)
+SIZE:       ~1,5 ft
+ENDURANCE:  Low 
+HOSTILITY:  Medium 
 WEAPONS:    None directly; controls mounted APC cannons + rockets
 REWARD:     250 FC
-THREAT:     Medium-High (when in APC)
+THREAT:     Medium-High
 
 DESCRIPTION:
 

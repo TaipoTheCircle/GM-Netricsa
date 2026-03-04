@@ -1,12 +1,12 @@
 COMBINE ADVISOR
 
 
-CLASS:      Overseer Synth (Psionic Controller)
-METABOLISM: Parasitic psionic organism (sustained by biotech life-support)
-PERCEPTION: Telepathic + psionic sensory field
-SIZE:       ~12 ft (hovering)
-ENDURANCE:  Very High (protected by levitation field + armored skin)
-HOSTILITY:  Extreme (psychic domination)
+CLASS:      Combine Advisor
+METABOLISM: Parasitic psionic organism 
+PERCEPTION: Combine Overseer Psionic Controller
+SIZE:       ~12 ft
+ENDURANCE:  Very High
+HOSTILITY:  Extreme
 WEAPONS:    Psionic domination, Telekinetic grasp, Tentacle proboscis, Levitation slam
 REWARD:     2200 FC
 THREAT:     Catastrophic

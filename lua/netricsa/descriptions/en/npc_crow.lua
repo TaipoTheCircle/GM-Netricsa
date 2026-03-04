@@ -1,10 +1,10 @@
 CROW
 
 
-CLASS:      Wild Avian
+CLASS:      Crow
 METABOLISM: Bird
-PERCEPTION: High (keen eyesight, alert to threats)
-SIZE:       ~1.5 ft
+PERCEPTION: Wild Avian Bird
+SIZE:       ~1,5 ft
 ENDURANCE:  Low
 HOSTILITY:  Low (defensive if threatened)
 WEAPONS:    Beak, claws

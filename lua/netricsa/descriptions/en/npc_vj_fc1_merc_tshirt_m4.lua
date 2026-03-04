@@ -1,9 +1,9 @@
 ASSAULT TROOPER WITH M4 FROM THE KRIEGER ARCHIPELAGO 
 
 
-CLASS:      M4 Assault Trooper, Basic Krieger Mercenary
+CLASS:      Assault Trooper With M4
 METABOLISM: Human, Male
-PERCEPTION: Standard vision, basic training
+PERCEPTION: Basic Krieger's Mercenary
 SIZE:       6 ft
 ENDURANCE:  Low
 HOSTILITY:  Average

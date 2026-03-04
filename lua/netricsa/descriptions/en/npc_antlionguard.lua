@@ -2,14 +2,14 @@ ANTLION GUARD FROM XEN
 
 
 CLASS:      Antlion, Guard
-METABOLISM: insectoid
-PERCEPTION: heightened awareness, hive protector
+METABOLISM: Insectoid
+PERCEPTION: Heightened awareness, hive protector
 SIZE:       12-15 ft
-ENDURANCE:  very high
-HOSTILITY:  extreme
-WEAPONS:    brute force charge, claw strikes, debris hurling
+ENDURANCE:  Very high
+HOSTILITY:  Extreme
+WEAPONS:    Brute force charge, claw strikes, debris hurling
 REWARD:     800 FC
-THREAT:     very high
+THREAT:     Very high
 
 DESCRIPTION:
 

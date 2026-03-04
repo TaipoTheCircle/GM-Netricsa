@@ -1,7 +1,7 @@
 STEALTH TRIGEN (INVISIBLE) FROM THE KRIEGER ARCHIPELAGO
 
 
-CLASS:      Stealth Trigen
+CLASS:      Stealth Trigen (Invisible)
 METABOLISM: Failed Trigen Mutation
 PERCEPTION: Tactician-Saboteur
 SIZE:       5,8 ft

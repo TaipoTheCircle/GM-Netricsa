@@ -1,9 +1,9 @@
 STUKA-BAT FROM XEN
 
 
-CLASS:      Xen, Aerial Predator
+CLASS:      Stuka-Bat
 METABOLISM: carnivore
-PERCEPTION: acute vision, echolocation
+PERCEPTION: Xen's Aerial Predator
 SIZE:       4-5 ft wingspan
 ENDURANCE:  medium
 HOSTILITY:  medium
@@ -13,7 +13,7 @@ THREAT:     medium
 
 DESCRIPTION:
 
-The Stukabat is a bat-like creature from Xen, featuring six eyes and a unique anatomy that allows it to hang from ceilings or move on the ground using its wings and a single rear leg. Its would encountered in open spaces. The Stukabat attacks from the air with its claws and emits bird-of-prey-like noises. 
+The Stuka-Bat is a bat-like creature from Xen, featuring six eyes and a unique anatomy that allows it to hang from ceilings or move on the ground using its wings and a single rear leg. Its would encountered in open spaces. The Stukabat attacks from the air with its claws and emits bird-of-prey-like noises. 
 
 TIPS:
 

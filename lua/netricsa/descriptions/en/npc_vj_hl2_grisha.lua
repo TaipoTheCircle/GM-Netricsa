@@ -1,15 +1,15 @@
 FATHER GRIGORI
 
 
-CLASS:      Human (Psychotic Priest / Ravenholm Survivor)
-METABOLISM: Human, Male (headcrab poison-resistant)
-PERCEPTION: High (keen senses, expert marksman)
+CLASS:      Father Grigori
+METABOLISM: Human, Male 
+PERCEPTION: Psychotic Priest / Ravenholm Survivor
 SIZE:       ~6 ft
-ENDURANCE:  High (resilient to infection, hardened by years of combat)
-HOSTILITY:  Medium (friendly to allies, ruthless toward zombies)
+ENDURANCE:  High
+HOSTILITY:  Medium
 WEAPONS:    Shotgun Annabelle
 REWARD:     Safe passage through Ravenholm + ally fire support
-THREAT:     Moderate (lethal if opposed)
+THREAT:     Moderate
 
 DESCRIPTION:
 

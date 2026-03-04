@@ -1,9 +1,10 @@
-Antlion King
+ANTLION KING
+
 
 CLASS:      Antlion, King
 METABOLISM: Insectoid
-PERCEPTION: Hive Lord Awareness
-SIZE:       Colossal (~30-60 ft)
+PERCEPTION: Insectoid Alien Creature, Hive Lord
+SIZE:       60 ft
 ENDURANCE:  Extremely High
 HOSTILITY:  Extreme
 WEAPONS:    Devastating Claws, Call for Reinforcements
@@ -13,6 +14,7 @@ THREAT:     Catastrophic
 DESCRIPTION:
 
 The Antlion King was the pinnacle of Antlion society, a colossal hive lord called upon to command incursions into nests deep underground. Designed as a patriarchal figure.
+
 He dwells in the vast underground caverns between Eli Maxwell's Junkyard and the Coast.
 
 TIPS:

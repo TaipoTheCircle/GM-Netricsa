@@ -3,7 +3,7 @@ ANTLION WORKER FROM XEN
 
 CLASS:      Antlion, Worker
 METABOLISM: insectoid
-PERCEPTION: vibration + pheromone detection
+PERCEPTION: Insect-like Alien Creature
 SIZE:       3-4 ft
 ENDURANCE:  low-medium
 HOSTILITY:  medium (defensive)

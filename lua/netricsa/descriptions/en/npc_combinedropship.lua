@@ -1,12 +1,12 @@
 COMBINE DROPSHIP
 
 
-CLASS:      Support / Deployment Synth
-METABOLISM: Fully Synthetic (Combine energy-core powered)
-PERCEPTION: Basic sensors + pilot/gunner coordination
+CLASS:      Combine Dropship
+METABOLISM: Fully Synthetic
+PERCEPTION: Support / Deployment Synth
 SIZE:       ~60-70 ft (with Container)
-ENDURANCE:  High (armored container and synth body)
-HOSTILITY:  High (towards Resistance)
+ENDURANCE:  High
+HOSTILITY:  High
 WEAPONS:    Mounted pulse turret on its container, occasionally drops Rollermines
 REWARD:     3000 FC
 THREAT:     High

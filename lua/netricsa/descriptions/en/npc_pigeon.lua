@@ -1,10 +1,10 @@
 PIGEON
 
 
-CLASS:      Urban Avian
+CLASS:      Pigeon
 METABOLISM: Bird
-PERCEPTION: Moderate (basic awareness, flock coordination)
-SIZE:       ~1-1.5 ft
+PERCEPTION: Urban Avian Bird
+SIZE:       ~1,5 ft
 ENDURANCE:  Low
 HOSTILITY:  Low
 WEAPONS:    Beak, claws

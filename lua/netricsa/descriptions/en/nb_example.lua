@@ -1,13 +1,13 @@
 EXAMPLE NPC, MOSSMAN-SKIN
 
 
-CLASS:      Human-Like Test Entity
+CLASS:      Example Npc, Mossman-skin
 METABOLISM: Mammalian
-PERCEPTION: Basic AI (follows pathing, reacts to stimuli)
+PERCEPTION: Human-Like Test Entity
 SIZE:       5-6 ft
 ENDURANCE:  Low
 HOSTILITY:  Passive
-WEAPONS:    None (placeholder)
+WEAPONS:    None
 REWARD:     12 FC
 THREAT:     Minimal
 

@@ -1,15 +1,15 @@
 DOG
 
 
-CLASS:      Robotic Companion / Resistance War Machine
-METABOLISM: Mechanical (powered by experimental energy core)
-PERCEPTION: Enhanced sensors + visual recognition
+CLASS:      Dog
+METABOLISM: Mechanical 
+PERCEPTION: Resistance War Machine
 SIZE:       ~8-10 ft
-ENDURANCE:  Very High (heavy plating, resilient design)
-HOSTILITY:  Low (protective, aggressive only to threats)
+ENDURANCE:  Very High 
+HOSTILITY:  Low
 WEAPONS:    Sheer Strength, Scrap Projectiles, Improvised Weapons
 REWARD:     1000 FC
-THREAT:     High (when provoked)
+THREAT:     High
 
 DESCRIPTION:
 

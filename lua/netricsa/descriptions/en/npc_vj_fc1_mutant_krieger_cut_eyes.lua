@@ -1,9 +1,9 @@
-EARLY MUTANT KRIEGER FROM THE KRIEGER ARCHIPELAGO
+MUTANT KRIEGER FROM THE KRIEGER ARCHIPELAGO
 
 
-CLASS:      Early Mutant Krieger
+CLASS:      Mutant Krieger
 METABOLISM: Genetically modified human, Male
-PERCEPTION: Enhanced vision, retained intelligence
+PERCEPTION: The Perfect Mutant
 SIZE:       ~8,2 ft
 ENDURANCE:  High
 HOSTILITY:  Absolute

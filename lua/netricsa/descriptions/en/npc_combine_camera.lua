@@ -1,12 +1,12 @@
 HANGING COMBINE CAMERA
 
 
-CLASS:      Surveillance / Alert Device
-METABOLISM: Synthetic (Combine optical hardware)
-PERCEPTION: Heightened visual range (due to elevated position)
-SIZE:       ~1.5-2 ft
+CLASS:      Hanging Combine Camera
+METABOLISM: Combine optical hardware
+PERCEPTION: Surveillance / Alert Device
+SIZE:       ~1,5-2 ft
 ENDURANCE:  Low-Medium
-HOSTILITY:  Low (alarms / detection only)
+HOSTILITY:  Low
 WEAPONS:    None direct; acts as trigger for other units
 REWARD:     30 FC
 THREAT:     Low

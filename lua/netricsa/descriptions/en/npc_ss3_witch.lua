@@ -1,9 +1,9 @@
 WITCH-BRIDE OF ACHRIMAN
 
 
-CLASS:      Witch-Bride of Ahriman, Telekinetic Sorceress
+CLASS:      Witch-Bride of Ahriman
 METABOLISM: Semi-corporeal entity
-PERCEPTION: Extrasensory scanning, vision through obstacles
+PERCEPTION: Telekinetic Sorceress
 SIZE:       7,4 ft
 ENDURANCE:  Average
 HOSTILITY:  High

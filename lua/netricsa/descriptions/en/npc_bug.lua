@@ -1,9 +1,9 @@
 BRONZE BUG FROM ZENOZOIK
 
 
-CLASS:      Bronze Bug, Forest Predatory Bug
+CLASS:      Bronze Bug
 METABOLISM: Insect, giant xenomorph
-PERCEPTION: Faceted vision, sensitivity to vibrations and heat
+PERCEPTION: Forest Predatory Bug
 SIZE:       1,9 ft
 ENDURANCE:  Average
 HOSTILITY:  High

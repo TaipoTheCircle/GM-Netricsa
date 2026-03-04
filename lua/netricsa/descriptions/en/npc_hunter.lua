@@ -1,11 +1,11 @@
 COMBINE HUNTER
 
 
-CLASS:      Hunter Synth (Elite Support Unit)
-METABOLISM: Biomechanical synth (organics fused with machinery)
-PERCEPTION: Advanced optics + motion tracking + pack intelligence
-SIZE:       8 ft (at shoulder)
-ENDURANCE:  High (fast and armored)
+CLASS:      Combine Hunter
+METABOLISM: Biomechanical synth
+PERCEPTION: Elite Support Unit
+SIZE:       8 ft
+ENDURANCE:  High
 HOSTILITY:  Extreme
 WEAPONS:    Flechette launcher, Ramming charge, Bladed limbs
 REWARD:     600 FC

@@ -1,9 +1,9 @@
 SANDWORM FROM THE ZENOZOIK
 
 
-CLASS:      Sandworm, Predatory Coprolite
+CLASS:      Sandworm
 METABOLISM: Xenobiology, Organosilicon
-PERCEPTION: Vibrational, Chemical
+PERCEPTION: Predatory Coprolite
 SIZE:       3,9 ft
 ENDURANCE:  Average
 HOSTILITY:  Extreme (territorial)

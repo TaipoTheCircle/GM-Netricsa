@@ -1,9 +1,9 @@
 MANTA RAY FROM XEN
 
 
-CLASS:      Alien, Transporter
+CLASS:      Manta Ray
 METABOLISM: unknown
-PERCEPTION: aggressive hunter
+PERCEPTION: Alien Transporter
 SIZE:       25 ft wingspan
 ENDURANCE:  high
 HOSTILITY:  extreme

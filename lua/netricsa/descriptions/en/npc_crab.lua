@@ -3,7 +3,7 @@ CRAB FROM THE ZENOZOIK
 
 CLASS:      Crab
 METABOLISM: Arthropod, xenomorph
-PERCEPTION: Basic vision, chemoreception
+PERCEPTION: Arthropod
 SIZE:       ~1,3 ft
 ENDURANCE:  Low
 HOSTILITY:  Medium

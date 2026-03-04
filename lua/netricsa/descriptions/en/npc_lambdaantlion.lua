@@ -2,14 +2,14 @@ LAMBDA ANTLION FROM XEN
 
 
 CLASS:      Lambda Antlion
-METABOLISM: insectoid
-PERCEPTION: vibration + pheromone detection
+METABOLISM: Insectoid
+PERCEPTION: Insect-like Alien Creature
 SIZE:       4-5 ft
-ENDURANCE:  medium
-HOSTILITY:  high (unless pacified by pheromones)
-WEAPONS:    claws, wings (short bursts), swarm tactics
+ENDURANCE:  Medium
+HOSTILITY:  High
+WEAPONS:    Claws, wings (short bursts), swarm tactics
 REWARD:     250 FC
-THREAT:     medium
+THREAT:     Medium
 
 DESCRIPTION:
 

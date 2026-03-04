@@ -1,9 +1,9 @@
 CITIZEN
 
 
-CLASS:      Human Resistance / Civilian
+CLASS:      Citizen
 METABOLISM: Humans
-PERCEPTION: Normal (sight, hearing)
+PERCEPTION: Human Resistance / Civilian
 SIZE:       ~5-6 ft
 ENDURANCE:  Low-Medium
 HOSTILITY:  Low (unless armed against Combine)
