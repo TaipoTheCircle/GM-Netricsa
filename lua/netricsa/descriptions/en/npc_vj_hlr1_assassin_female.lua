@@ -1,15 +1,15 @@
 FEMALE BLACK OPS ASSASSIN
 
 
-CLASS:      Black Ops Assassin
-METABOLISM: Human, Female (special forces, enhanced training)
-PERCEPTION: acute visual + auditory (stealth optimized)
-SIZE:       ~5.5 ft tall
-ENDURANCE:  medium (high agility compensates low health)
+CLASS:      Female Black Ops Assassin
+METABOLISM: Human, Female
+PERCEPTION: The Stealthy Assassin of the Black Ops
+SIZE:       ~5,5 ft tall
+ENDURANCE:  medium 
 HOSTILITY:  extreme
 WEAPONS:    silenced SMG, grenades, martial arts, acrobatics
 REWARD:     1000 FC
-THREAT:     very high (especially in ambushes)
+THREAT:     very high 
 
 DESCRIPTION:
 

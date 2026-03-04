@@ -1,15 +1,15 @@
 H.E.C.U. MARINE
 
 
-CLASS:      Human Grunt (H.E.C.U. Marine)
-METABOLISM: Human, Male (trained military)
-PERCEPTION: visual, auditory, tactical awareness
+CLASS:      H.E.C.U. Marine
+METABOLISM: Human, Male
+PERCEPTION: Human Grunt
 SIZE:       ~6 ft tall
-ENDURANCE:  medium-high
-HOSTILITY:  extreme (toward Black Mesa staff & intruders)
+ENDURANCE:  Medium-high
+HOSTILITY:  Extreme (toward Black Mesa staff & intruders)
 WEAPONS:    MP5 with grenades, shotgun (variant), sidearm, tactical grenades
 REWARD:     600 FC
-THREAT:     high individually, catastrophic in squads
+THREAT:     High individually, catastrophic in squads
 
 DESCRIPTION:
 

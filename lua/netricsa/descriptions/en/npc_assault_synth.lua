@@ -1,11 +1,11 @@
 COMBINE ASSAULT SYNTH
 
 
-CLASS:      Small Assault Synth
-METABOLISM: Biomechanical synth (organic tissue integrated with mechanized enhancements)
-PERCEPTION: Basic visual sensors + proximity awareness
+CLASS:      Combine Assault Synth
+METABOLISM: Biomechanical synth
+PERCEPTION: Small Assault Synth
 SIZE:       ~5 ft 
-ENDURANCE:  Medium (light armor, designed for speed and group tactics)
+ENDURANCE:  Medium 
 HOSTILITY:  High 
 WEAPONS:    Integrated synth cannon
 REWARD:     300

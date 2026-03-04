@@ -1,9 +1,9 @@
 COMMON HEADCRAB ZOMBIE, GONOME
 
 
-CLASS:      Common Headcrab Zombie, Advanced Mutation
+CLASS:      Common Headcrab Zombie, Gonome
 METABOLISM: parasitic necrosis
-PERCEPTION: heightened senses (sight, vibration)
+PERCEPTION: Advanced Mutation
 SIZE:       7-8 ft
 ENDURANCE:  high
 HOSTILITY:  extreme

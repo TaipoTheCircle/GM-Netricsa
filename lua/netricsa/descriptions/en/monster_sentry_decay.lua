@@ -1,15 +1,15 @@
 H.E.C.U. HEAVY SENTRY TURRET
 
 
-CLASS:      Advanced Automated Defense Unit
-METABOLISM: none (mechanical)
-PERCEPTION: motion + thermal sensors
-SIZE:       ~5 ft (reinforced frame)
-ENDURANCE:  high (armored plating)
-HOSTILITY:  extreme (aggressive auto-targeting)
-WEAPONS:    high-caliber machine gun
+CLASS:      H.E.C.U. Heavy Sentry Turret
+METABOLISM: Advanced Mechanical Construction
+PERCEPTION: Advanced Automated Defense Unit
+SIZE:       ~5 ft 
+ENDURANCE:  High 
+HOSTILITY:  Extreme
+WEAPONS:    High-caliber machine gun
 REWARD:     600 FC
-THREAT:     high
+THREAT:     High
 
 DESCRIPTION:
 

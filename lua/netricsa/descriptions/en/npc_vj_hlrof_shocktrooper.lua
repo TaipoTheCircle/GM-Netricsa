@@ -1,9 +1,9 @@
 SHOCK TROOPER FROM THE X DIMENSION
 
 
-CLASS:      Race X, Heavy Infantry
+CLASS:      Shock Trooper
 METABOLISM: Carnivorous / Bio-electrical
-PERCEPTION: High (binocular vision, acute hearing)
+PERCEPTION: Heavy Infantry Of Race X
 SIZE:       7-8 ft
 ENDURANCE:  High
 HOSTILITY:  Extreme

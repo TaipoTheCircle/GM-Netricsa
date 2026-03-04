@@ -1,11 +1,11 @@
 BLACK MESA MINI TURRET
 
 
-CLASS:      Automated Defense Unit (Compact)
-METABOLISM: none (mechanical)
-PERCEPTION: motion sensors, sound detection
-SIZE:       ~2 ft (stationary)
-ENDURANCE:  low-medium (light armor)
+CLASS:      Black Mesa Mini Turret
+METABOLISM: Mechanical Constrtuction
+PERCEPTION: Compact Automated Defense Unit
+SIZE:       ~2 ft
+ENDURANCE:  low-medium
 HOSTILITY:  extreme
 WEAPONS:    small rapid-fire machine gun
 REWARD:     250 FC

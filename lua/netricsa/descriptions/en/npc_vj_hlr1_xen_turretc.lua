@@ -1,9 +1,9 @@
 XEN CEILING TURRET
 
 
-CLASS:      Xen, Techno-Organic Defense System
+CLASS:      Xen Ceiling Turret
 METABOLISM: Electromagnetic Energy
-PERCEPTION: Motion Detection
+PERCEPTION: Techno-Organic Defense System Of Xen
 SIZE:       Variable
 ENDURANCE:  Medium
 HOSTILITY:  High

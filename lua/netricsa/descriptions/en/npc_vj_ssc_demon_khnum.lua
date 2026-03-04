@@ -3,7 +3,7 @@ KHNUM FROM THE LAMBDA ARIES SYSTEM
 
 CLASS:      Khnum, Space Titan
 METABOLISM: Alien hypertrophied life form
-PERCEPTION: Excellent vision, tactical thinking
+PERCEPTION: Space Titan
 SIZE:       45 ft
 ENDURANCE:  Extremely high
 HOSTILITY:  High

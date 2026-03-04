@@ -1,9 +1,9 @@
 COMBINE ALIEN ASSASSIN
 
 
-CLASS:      Experimental Combine strike unit
+CLASS:      Combine Alien Assassi
 METABOLISM: Partially modified alien organism
-PERCEPTION: Enhanced motion sensors and tactical awareness
+PERCEPTION: Experimental Combine strike unit
 SIZE:       7,5 ft
 ENDURANCE:  Average
 HOSTILITY:  Extreme

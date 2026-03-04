@@ -1,19 +1,19 @@
 BLACK OPS ROBOT ASSASSIN
 
 
-CLASS:      Cybernetic Black Ops Unit
-METABOLISM: none (mechanized systems)
-PERCEPTION: advanced sensors (thermal + night vision + sound tracking)
-SIZE:       ~6 ft (humanoid frame)
-ENDURANCE:  extremely high (armored chassis)
-HOSTILITY:  extreme
+CLASS:      Black Ops Robot Assassin
+METABOLISM: Mechanized systems
+PERCEPTION: Cybernetic Black Ops Unit
+SIZE:       ~6 ft 
+ENDURANCE:  Extremely high
+HOSTILITY:  Extreme
 WEAPONS:    SMG, grenades, reinforced melee servos
 REWARD:     3000 FC
 THREAT:     lethal
 
 DESCRIPTION:
 
-The Robo Black Ops Assassin is an experimental mechanized soldier - a fusion of human combat tactics and robotic endurance. Unlike ordinary Black Ops operatives, these machines are designed for zero hesitation, zero fear, and absolute loyalty to mission parameters.
+The Black Ops Robot Assassin is an experimental mechanized soldier - a fusion of human combat tactics and robotic endurance. Unlike ordinary Black Ops operatives, these machines are designed for zero hesitation, zero fear, and absolute loyalty to mission parameters.
 
 Their sleek armored exoskeleton mimics the silhouette of a human assassin but conceals advanced targeting arrays and synthetic muscle fibers. They move with uncanny precision, combining the stealth of their human predecessors with the tireless efficiency of machines.
 

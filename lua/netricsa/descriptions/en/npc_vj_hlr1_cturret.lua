@@ -1,15 +1,15 @@
 BLACK MESA ARMORED TURRET
 
 
-CLASS:      Automated Defense Unit
-METABOLISM: none (mechanical)
-PERCEPTION: motion sensors, sound detection
-SIZE:       ~4 ft (stationary)
-ENDURANCE:  high (armored casing)
-HOSTILITY:  extreme (automatic engagement)
-WEAPONS:    rapid-fire heavy machine gun
+CLASS:      Black Mesa Armored Turret
+METABOLISM: Mechanical Construction
+PERCEPTION: Automated Defense Unit
+SIZE:       ~4 ft
+ENDURANCE:  High
+HOSTILITY:  Extreme
+WEAPONS:    Rapid-fire heavy machine gun
 REWARD:     600 FC
-THREAT:     high
+THREAT:     High
 
 DESCRIPTION:
 

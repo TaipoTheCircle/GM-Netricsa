@@ -1,9 +1,9 @@
 ANTARESIAN SPIDER COCOON FROM ANTARES PRIME
 
 
-CLASS:      Antaresian Spider Cocoon (Egg)
+CLASS:      Antaresian Spider Cocoon
 METABOLISM: Organic stationary capsule
-PERCEPTION: Acoustic, vibrational
+PERCEPTION: Protective Capsule
 SIZE:       1,6 ft
 ENDURANCE:  Low
 HOSTILITY:  Passive

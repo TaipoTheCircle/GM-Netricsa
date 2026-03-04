@@ -1,7 +1,7 @@
-SELLER FROM BLACK ROCK
+BLACK ROCK'S SELLER
 
 
-CLASS:      Seller From Black Rock
+CLASS:      Black Rock's Seller
 METABOLISM: Human
 PERCEPTION: Black Rock's Trader
 SIZE:       ~5,9 ft

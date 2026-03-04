@@ -1,10 +1,10 @@
 BOID FROM XEN
 
 
-CLASS:      Alien, Xen
+CLASS:      Boid
 METABOLISM: unknown
 PERCEPTION: social flyer
-SIZE:       2.5 ft wingspan
+SIZE:       2,5 ft wingspan
 ENDURANCE:  low
 HOSTILITY:  none
 WEAPONS:    none

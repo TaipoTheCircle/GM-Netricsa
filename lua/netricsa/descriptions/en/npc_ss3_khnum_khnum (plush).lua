@@ -3,7 +3,7 @@ BLIND KHNUM FROM THE LAMBDA ARIES SYSTEM
 
 CLASS:      Blind Khnum, Space Titan
 METABOLISM: Alien hypertrophied life form
-PERCEPTION: Poor vision, tactical thinking
+PERCEPTION: Space Titan
 SIZE:       45 ft
 ENDURANCE:  Extremely high
 HOSTILITY:  High

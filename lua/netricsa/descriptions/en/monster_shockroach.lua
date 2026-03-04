@@ -1,9 +1,9 @@
 SHOCK ROACH FROM THE X DIMENSION
 
 
-CLASS:      Race X, Bio-Weapon
+CLASS:      Shock Roach
 METABOLISM: Parasitic / Bio-electrical
-PERCEPTION: Responsive to host neural signals
+PERCEPTION: Bio-Weapon Of Race X
 SIZE:       ~2 ft
 ENDURANCE:  Low (detached), Medium (with host)
 HOSTILITY:  Medium-High

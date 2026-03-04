@@ -1,9 +1,9 @@
 GENE WORM FROM THE X DIMENSION
 
 
-CLASS:      Race X, Apex Overlord
+CLASS:      Gene Worm
 METABOLISM: Parasitic + Bio-construct hybrid
-PERCEPTION: Psionic + chemical sensing
+PERCEPTION: Apex Overlord Of Race X
 SIZE:       Over 100 ft (emerges from dimensional rift)
 ENDURANCE:  Extremely High
 HOSTILITY:  Total

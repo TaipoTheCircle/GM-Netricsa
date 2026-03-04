@@ -1,9 +1,9 @@
 PIT DRONE FROM THE X DIMENSION
 
 
-CLASS:      Race X, Light Infantry
+CLASS:      Pit Drone
 METABOLISM: Carnivorous
-PERCEPTION: Acute vision + sound tracking
+PERCEPTION: Light Infantry Of Race X
 SIZE:       5-6 ft
 ENDURANCE:  Medium
 HOSTILITY:  High
