@@ -1,12 +1,12 @@
 COMBINE OVERWATCH SOLDIER MEDIC
 
 
-CLASS:      Transhuman Infantry - Field Medic Unit
+CLASS:      Combine Overwatch Soldier Medic
 METABOLISM: Augmented Human, Male
-PERCEPTION: Enhanced HUD + Bioscanner
-SIZE:       6-6.4 ft
+PERCEPTION: Transhuman Infantry, Field Medic Unit
+SIZE:       5,9 ft
 ENDURANCE:  High
-HOSTILITY:  High (but prioritizes squad support)
+HOSTILITY:  High
 WEAPONS:    SMG1, Medical healthkit
 REWARD:     750 FC
 THREAT:     Medium-High

@@ -1,9 +1,9 @@
 CIVIL PROTECTION REBEL
 
 
-CLASS:      Rebel, former Civil Protection operative
+CLASS:      Civil Protection Rebel
 METABOLISM: Human, Male
-PERCEPTION: Standard human + patrol experience
+PERCEPTION: Rebel, former Civil Protection operative
 HEIGHT:     5,9 ft
 ENDURANCE:  Average
 HOSTILITY:  High

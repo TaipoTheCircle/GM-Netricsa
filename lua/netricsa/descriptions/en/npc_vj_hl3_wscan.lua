@@ -1,9 +1,9 @@
 COMBINE ARCTIC SCANNER
 
 
-CLASS:      Autonomous organic Combine reconnaissance drone
+CLASS:      Combine Arctic Scanner
 METABOLISM: Fully synthetic, battery-powered energy system
-PERCEPTION: Multi-range sensors: visual, thermal, Doppler
+PERCEPTION: Autonomous organic Combine reconnaissance drone
 SIZE:       1 ft
 ENDURANCE:  Medium
 HOSTILITY:  Medium-high

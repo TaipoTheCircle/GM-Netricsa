@@ -1,11 +1,11 @@
 KATE
 
 
-CLASS:      Security Guard (Level 3), Black Mesa Research Facility
+CLASS:      Kate
 METABOLISM: Human, Female
-PERCEPTION: Standard human senses
-SIZE:       Approximately 5'6"
-ENDURANCE:  Medium (equipped with light armor)
+PERCEPTION: Security Guard (Level 3), Black Mesa Research Facility
+SIZE:       5,6 ft
+ENDURANCE:  Medium
 HOSTILITY:  Neutral to Black Mesa personnel; hostile to Alien creatures and hostile forces
 WEAPONS:    Glock 17 pistol
 REWARD:     500 FC

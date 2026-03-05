@@ -1,13 +1,13 @@
 XEN SENTRY CANNON
 
 
-CLASS:      Xen, Autonomous Defense Platform
+CLASS:      Xen Sentry Cannon
 METABOLISM: Electromagnetic energy
-PERCEPTION: Motion detection
-SIZE:       Variable (mounted)
+PERCEPTION: Autonomous Defense Platform Of Xen
+SIZE:       Variable
 ENDURANCE:  Medium
 HOSTILITY:  High
-WEAPONS:    Pivoting energy beam (powerful blue energy discharge)
+WEAPONS:    Pivoting energy beam
 REWARD:     400 FC
 THREAT:     Medium-high
 

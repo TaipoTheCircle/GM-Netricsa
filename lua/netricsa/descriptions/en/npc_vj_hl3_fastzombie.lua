@@ -3,7 +3,7 @@ FAST ZOMBIE HEADCRAB, ARCTIC
 
 CLASS:      Zombie Headcrab, Fast (Arctic)
 METABOLISM: Parasitic host, resistant to cold
-PERCEPTION: Heightened reflexes + heat sensitivity
+PERCEPTION: Zombified Entity
 SIZE:       5,9 ft
 ENDURANCE:  Average
 HOSTILITY:  Extreme

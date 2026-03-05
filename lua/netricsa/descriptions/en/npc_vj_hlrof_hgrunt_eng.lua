@@ -2,18 +2,18 @@ H.E.C.U. COMBAT ENGINEER
 
 
 CLASS:      H.E.C.U. Combat Engineer
-METABOLISM: Human, Male (U.S. Marine Corps, engineering specialization)
-PERCEPTION: tactical awareness, environmental scanning
+METABOLISM: Human, Male
+PERCEPTION: Engineering Specialist
 SIZE:       ~6 ft
-ENDURANCE:  medium
-HOSTILITY:  high (toward intruders)
-WEAPONS:    pistol, combat knife, deployable explosives, welding torch (door manipulation)
+ENDURANCE:  Medium
+HOSTILITY:  High 
+WEAPONS:    Pistol, combat knife, deployable explosives, welding torch
 REWARD:     600 FC
-THREAT:     moderate individually, high in tactical situations
+THREAT:     Moderate individually, high in tactical situations
 
 DESCRIPTION:
 
-H.E.C.U. Engineers are combat-trained specialists who actively manipulate the environment to control access and trap intruders. Using welding torches and explosives, they can cut through locked doors to enter restricted areas or SEALexits, forcing enemies into confined spaces.
+It is a combat-trained specialists who actively manipulate the environment to control access and trap intruders. Using welding torches and explosives, they can cut through locked doors to enter restricted areas or SEALexits, forcing enemies into confined spaces.
 
 While not frontline fighters, they defend themselves aggressively with pistols and knives, and their ability to manipulate doors makes them unexpectedly dangerous in corridors and enclosed facilities. They often operate in pairs or small groups, securing choke points while the rest of the squad advances.
 

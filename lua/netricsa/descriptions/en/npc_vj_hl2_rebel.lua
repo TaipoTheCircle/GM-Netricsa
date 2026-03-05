@@ -1,12 +1,12 @@
 REBEL SOLDIER
 
 
-CLASS:      Human Resistance Fighter
+CLASS:      Rebel Soldier
 METABOLISM: Humans
-PERCEPTION: Average (trained in basic combat and tactics)
+PERCEPTION: Human Resistance Fighter
 SIZE:       5,9 ft
-ENDURANCE:  Medium (light armor or improvised protection)
-HOSTILITY:  High (against Combine forces)
+ENDURANCE:  Medium
+HOSTILITY:  High
 WEAPONS:    Pistol, SMG, Shotgun, Grenades
 REWARD:     200 FC
 THREAT:     Medium

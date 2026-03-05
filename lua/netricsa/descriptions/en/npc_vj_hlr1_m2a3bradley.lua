@@ -1,15 +1,15 @@
 H.E.C.U. M2A3 BRADLEY IFV
 
 
-CLASS:      Infantry Fighting Vehicle
-METABOLISM: none (mechanical, human-piloted)
-PERCEPTION: radar, visual targeting systems
-SIZE:       ~32 ft long
-ENDURANCE:  very high (armored chassis)
-HOSTILITY:  extreme
-WEAPONS:    main machine gun, rocket launcher, rear troop deployment hatch
+CLASS:      H.E.C.U. M2A3 Bradley IFV
+METABOLISM: Mechanical, human-piloted
+PERCEPTION: Infantry Fighting Vehicle
+SIZE:       ~32 ft
+ENDURANCE:  Very high
+HOSTILITY:  Extreme
+WEAPONS:    Main machine gun, rocket launcher, rear troop deployment hatch
 REWARD:     7000 FC
-THREAT:     catastrophic
+THREAT:     Catastrophic
 
 DESCRIPTION:
 

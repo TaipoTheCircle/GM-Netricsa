@@ -1,9 +1,9 @@
 COMBINE ROLLER BOLTER MINE
 
 
-CLASS:      Combine Active Explosive Mine
+CLASS:      Combine Roller Bolter Mine
 METABOLISM: Fully Synthetic
-PERCEPTION: Motion Sensors + Heat Seeking
+PERCEPTION: Combine Active Explosive Mine
 SIZE:       1 ft
 ENDURANCE:  Low
 HOSTILITY:  Very High

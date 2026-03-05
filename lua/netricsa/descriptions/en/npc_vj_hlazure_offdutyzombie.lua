@@ -3,11 +3,11 @@ HEADCRAB ZOMBIE COMMON, OFF-DUTY SECURITY GUARD
 
 CLASS:      Common Headcrab Zombie, Off-Duty Security Guard 
 METABOLISM: Human Host + Common Parasitic Headcrab
-PERCEPTION: Limited, host-driven
-SIZE:       ~6 ft (183 cm)
+PERCEPTION: Zombified Entity
+SIZE:       ~6 ft
 ENDURANCE:  Low-Medium
-HOSTILITY:  Moderate (slow, melee only)
-WEAPONS:    Melee attacks (claws, grappling)
+HOSTILITY:  Moderate 
+WEAPONS:    Claws, Grappling
 REWARD:     100 FC
 THREAT:     Low individually, moderate in groups
 

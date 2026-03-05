@@ -1,10 +1,10 @@
-SPECIAL FORCES GRUNT FROM SECTOR DELTA
+SPECIAL FORCES GRUNT FROM THE SECTOR DELTA
 
 
-CLASS:      Elite Special Operations Unit
-METABOLISM: Human, Male (highly trained)
-PERCEPTION: Tactical awareness, enhanced reflexes
-SIZE:       ~6 ft (183 cm)
+CLASS:      Special Forces Grunt
+METABOLISM: Human, Male
+PERCEPTION: Elite Special Operations Unit
+SIZE:       ~5,9 ft
 ENDURANCE:  High
 HOSTILITY:  Extreme
 WEAPONS:    Beretta 92FS, Armat M41A Pulse Rifle, Sentry Guns, experimental ordnance

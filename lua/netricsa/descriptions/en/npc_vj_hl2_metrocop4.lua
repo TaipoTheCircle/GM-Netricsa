@@ -1,13 +1,13 @@
 COMBINE CIVIL PROTECTION METROCOP COMMANDER
 
 
-CLASS:      Civil Protection, Unit Commander
-METABOLISM: Human, Male (transhuman training)
-PERCEPTION: Enhanced (tactical thinking, radio control)
+CLASS:      Combine Civil Protection Metrocop Commander
+METABOLISM: Human, Male
+PERCEPTION: Unit Commander Of Civil Protection
 SIZE:       9 ft
 ENDURANCE:  Average
 HOSTILITY:  Very high
-WEAPONS:    AR3 (mounted pulse machine gun)
+WEAPONS:    AR3
 REWARD:     600 FC
 THREAT:     High
 

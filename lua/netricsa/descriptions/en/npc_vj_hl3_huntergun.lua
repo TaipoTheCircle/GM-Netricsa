@@ -1,9 +1,9 @@
 COMBINE CIVIL PROTECTION MINI METROCOP
 
 
-CLASS:      Embedded Combat Synth Operator
-METABOLISM: Human, Male (high biomechanical compression)
-PERCEPTION: MiniStrider interface + limited vision
+CLASS:      Combine Civil Protection Mini Metrocop
+METABOLISM: Human, Male
+PERCEPTION: Embedded Combat Synth Operator
 SIZE:       0,9 ft
 ENDURANCE:  Low
 HOSTILITY:  High
@@ -19,7 +19,7 @@ Unlike fully autonomous synthetic platforms, MiniStriders with such operators ex
 
 In rare cases, when a MiniStrider is destroyed, the compression field partially destabilizes, and the operator can return to their normal size. However, this process is incompatible with life: overload of tissue, organs, and the nervous system leads to inevitable death, often simultaneously with the destruction of the synthetic itself.
 
-Such Metrocops are not considered full-fledged combatants and are officially listed as "expendable maintenance resources."
+Such Metrocops are not considered full-fledged combatants and are officially listed as "expendable maintenance resources".
 
 TIPS:
 

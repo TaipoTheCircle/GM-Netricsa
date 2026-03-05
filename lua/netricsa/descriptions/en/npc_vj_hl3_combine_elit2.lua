@@ -1,9 +1,9 @@
 COMBINE OVERWATCH ELITE ARCTIC COMMANDO
 
 
-CLASS:      Transhuman Infantry, Elite Assault Unit
+CLASS:      Combine Overwatch Elite Arctic Commando
 METABOLISM: Augmented Human, Male
-PERCEPTION: Tactical HUD + Infrared and Thermal Systems
+PERCEPTION: Transhuman Infantry, Elite Assault Unit
 SIZE:       5,9 ft
 ENDURANCE:  Very High
 HOSTILITY:  Extreme

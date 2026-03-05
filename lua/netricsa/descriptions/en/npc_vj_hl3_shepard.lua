@@ -1,9 +1,9 @@
 ADRIAN SHEPARD, CORPORAL, H.E.C.U.
 
 
-CLASS:      Corporal, US Marine Corps Special Operations Unit (H.E.C.U.)
+CLASS:      Adrian Shepard, Corporal, H.E.C.U.
 METABOLISM: Human, Male, trained combatant
-PERCEPTION: Tactical skills, vision + radio
+PERCEPTION: Corporal, US Marine Corps Special Operations Unit (H.E.C.U.)
 HEIGHT:     6,2 ft
 ENDURANCE:  High
 HOSTILITY:  Medium-high

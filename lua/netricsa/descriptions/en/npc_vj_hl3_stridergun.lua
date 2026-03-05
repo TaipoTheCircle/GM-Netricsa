@@ -1,9 +1,9 @@
 COMBINE CIVIL PROTECTION STRIDER MINI METROCOP
 
 
-CLASS:      Integrated Heavy Combat Synth Operator
-METABOLISM: Human, Male (critical biomechanical compression)
-PERCEPTION: Full Strider neural interface, sensory organs suppressed
+CLASS:      Combine Civil Protection Strider Mini Metrocop
+METABOLISM: Human, Male
+PERCEPTION: Integrated Heavy Combat Synth Operator
 SIZE:       0,9 ft
 ENDURANCE:  Very low
 HOSTILITY:  High

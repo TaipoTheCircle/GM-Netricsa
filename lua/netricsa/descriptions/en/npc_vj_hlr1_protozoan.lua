@@ -1,11 +1,11 @@
 THE PROTOZOAN FROM XEN
 
 
-CLASS:      Xen, Aerial Microbe
+CLASS:      The Protozoan
 METABOLISM: gaseous filter-feeder
-PERCEPTION: passive
+PERCEPTION: Aerial Microbe Of Xen
 SIZE:       3-4 ft diameter
-ENDURANCE:  indefinite (non-living)
+ENDURANCE:  indefinite
 HOSTILITY:  none
 WEAPONS:    none
 REWARD:     15 FC

@@ -1,9 +1,9 @@
 SSS CENTERPRICE FROM SIRIUS
 
 
-CLASS:      Mother Central Space Combat Transport Ship SSS Centerpice
+CLASS:      SSS Centerprice
 METABOLISM: Fully Technological Design
-PERCEPTION: Autopilot
+PERCEPTION: Mother Central Space Combat Transport Ship SSS Centerpice
 SIZE:       Very Large
 ENDURANCE:  Very High
 HOSTILITY:  Extreme

@@ -1,15 +1,15 @@
 QUIVER FROM XEN
 
 
-CLASS:      Alien, Friendly
-METABOLISM: unknown
-PERCEPTION: curious wanderer
+CLASS:      Quiver
+METABOLISM: Unknown
+PERCEPTION: Curious wanderer
 SIZE:       5 ft
-ENDURANCE:  low
-HOSTILITY:  none
-WEAPONS:    none
+ENDURANCE:  Low
+HOSTILITY:  None
+WEAPONS:    None
 REWARD:     150 FC
-THREAT:     none
+THREAT:     None
 
 DESCRIPTION:
 
@@ -18,5 +18,5 @@ These little Quivers were sent from Xen to... just chill, really. They wander ar
 TIPS:
 
 They're the friendliest creatures you'll meet: no combat, just curiosity.
-Listen to their alien noises - it's their way of saying "hello."
+Listen to their alien noises - it's their way of saying "hello".
 They can open doors, so don't be surprised if one helps you out.

@@ -1,9 +1,9 @@
 COMBINE APC-TRANSPORTER
 
 
-CLASS:      Combine Heavy Armored Personnel Carrier
+CLASS:      Combine APC-Transporter
 METABOLISM: Mechanized Combat Platform
-PERCEPTION: Tactical Sensors, Crew Vision Systems
+PERCEPTION: Combine Heavy Armored Personnel Carrier
 SIZE:       29,5 ft
 ENDURANCE:  Extremely High
 HOSTILITY:  Extreme

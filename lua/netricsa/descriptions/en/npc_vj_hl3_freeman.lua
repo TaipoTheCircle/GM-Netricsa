@@ -1,9 +1,9 @@
 GORDON FREEMAN
 
 
-CLASS:      Physicist-Resistance Warrior
+CLASS:      Gordon Freeman
 METABOLISM: Human, Male
-PERCEPTION: Standard Human + Scientific Intuition
+PERCEPTION: Physicist-Resistance Warrior
 SIZE:       5,9 ft
 ENDURANCE:  Very High
 HOSTILITY:  High

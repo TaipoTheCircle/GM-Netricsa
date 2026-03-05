@@ -1,9 +1,9 @@
 COMBINE CIVIL PROTECTION INTERCEPTOR
 
 
-CLASS:      Combine Civil Protection Unit, Interceptor
-METABOLISM: Human, Male (limited augmentations)
-PERCEPTION: Enhanced: Optical sensors in mask + radio channel
+CLASS:      Combine Civil Protection Interceptor
+METABOLISM: Human, Male
+PERCEPTION: Combine Arctic Civil Protection Unit, Interceptor
 SIZE:       6 ft
 ENDURANCE:  Medium
 HOSTILITY:  High

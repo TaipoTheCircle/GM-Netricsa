@@ -1,12 +1,12 @@
 REBEL ENGINEER
 
 
-CLASS:      Human Resistance Technician
+CLASS:      Rebel Engineer
 METABOLISM: Humans
-PERCEPTION: High (tactical awareness + engineering expertise)
+PERCEPTION: Human Resistance Technician
 SIZE:       5,9 ft
-ENDURANCE:  Medium (light armor, agile)
-HOSTILITY:  High (against Combine forces)
+ENDURANCE:  Medium
+HOSTILITY:  High
 WEAPONS:    Charge Bow, SPAS-12 Shotgun, Deployable Combine Turrets
 REWARD:     350 FC
 THREAT:     Medium-High

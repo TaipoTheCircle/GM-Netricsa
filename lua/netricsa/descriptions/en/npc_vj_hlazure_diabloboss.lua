@@ -1,11 +1,11 @@
 THE DIABLO
 
 
-CLASS:      Experimental Xen Chimera (Pantereye Hybrid)
+CLASS:      The Diablo
 METABOLISM: Artificial fusion (former scientists + Chumtoad tissue + Vortigaunt DNA + Xen crystal integration)
-PERCEPTION: Enhanced xen senses, psionic awareness
-SIZE:       ~9 ft tall (almost double the size of a Pantereye), ~14 ft long
-ENDURANCE:  Very high (mutated resilience + crystal shielding)
+PERCEPTION: Experimental Xen Chimera (Pantereye Hybrid)
+SIZE:       ~9 ft tall
+ENDURANCE:  Very high
 HOSTILITY:  Extreme
 WEAPONS:    Xen Crystal Projection: Fires concentrated crystal energy projectiles from its dorsal crest.
 REWARD:     5000 FC

@@ -2,10 +2,11 @@ ARCTIC RESISTANCE REBEL, FEMALE
 
 
 CLASS:      Arctic Resistance Fighter, Female
-METABOLISM: Human, Female (trained in basic combat and tactics)
+METABOLISM: Human, Female 
+PERCEPTION: Human Arctic Resistance Fighter
 SIZE:       5,9 ft
-ENDURANCE:  Medium (light armor or improvised protection)
-HOSTILITY:  High (towards Alliance forces)
+ENDURANCE:  Medium 
+HOSTILITY:  High
 WEAPONS:    Pistol, SMGs, SPAS-12 Shotgun, "Annabelle" Shotgun, Crossbow, Grenades, RPG V2, AR2, AR1
 REWARD:     200 FC
 THREAT:     Medium

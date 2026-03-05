@@ -2,7 +2,7 @@ SMC MARINE
 
 
 CLASS:      SMC Marine
-METABOLISM: Human, Male (military trained)
+METABOLISM: Human, Male
 PERCEPTION: Terran Marine
 SIZE:       5,9 ft
 ENDURANCE:  High

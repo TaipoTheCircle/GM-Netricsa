@@ -3,7 +3,7 @@ RESISTANCE RECRUITER
 
 CLASS:      Resistance Recruiter
 METABOLISM: Human, Male
-PERCEPTION: Tactical assessment, potential detection, basic combat experience
+PERCEPTION: Human Resistance Fighter
 SIZE:       5,9 ft
 ENDURANCE:  Average
 HOSTILITY:  High

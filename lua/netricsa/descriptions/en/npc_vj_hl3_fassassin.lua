@@ -1,9 +1,9 @@
-OVERWATCH FEMALE COMBINE ASSASSIN
+COMBINE OVERWATCH FEMALE ASSASSIN
 
 
-CLASS:      Elite Transhuman Operative, Assassin
+CLASS:      Combine Overwatch Female Assassin
 METABOLISM: Enhanced Human, Female / Biomechanical Augmentations
-PERCEPTION: Enhanced Sensors + Neuro-Reactive Target Recognition
+PERCEPTION: Elite Transhuman Operative, Assassin
 HEIGHT:     5,9 ft
 ENDURANCE:  High
 HOSTILITY:  Extreme

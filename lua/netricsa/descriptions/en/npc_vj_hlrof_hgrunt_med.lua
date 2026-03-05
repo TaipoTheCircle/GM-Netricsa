@@ -1,15 +1,15 @@
 H.E.C.U. MEDIC
 
 
-CLASS:      Combat Medic (Enemy)
-METABOLISM: Human, Male (U.S. Marine Corps, medical corps)
-PERCEPTION: heightened (trained to detect injuries and threats)
-SIZE:       ~6 ft
-ENDURANCE:  medium
-HOSTILITY:  high
-WEAPONS:    pistol, SMG, combat knife, medical kit (heals allies)
+CLASS:      H.E.C.U. Medic
+METABOLISM: Human, Male
+PERCEPTION: Combat Medic
+SIZE:       ~5,9 ft
+ENDURANCE:  Medium
+HOSTILITY:  High
+WEAPONS:    Pistol, SMG, combat knife, medical kit
 REWARD:     800 FC
-THREAT:     medium-high (dangerous in squads)
+THREAT:     Medium-High 
 
 DESCRIPTION:
 

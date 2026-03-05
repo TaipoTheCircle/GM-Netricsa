@@ -1,9 +1,9 @@
 BLACK MESA PROBE DROID
 
 
-CLASS:      Synthetic Drone
+CLASS:      Black Mesa Probe Droid
 METABOLISM: powered core
-PERCEPTION: optical + motion sensors
+PERCEPTION: Synthetic Drone
 SIZE:       4 ft
 ENDURANCE:  medium
 HOSTILITY:  moderate

@@ -1,13 +1,13 @@
 H.E.C.U. RECRUIT
 
 
-CLASS:      Human / Military Trainee
+CLASS:      H.E.C.U. Recruit
 METABOLISM: Human
-PERCEPTION: Basic military awareness
-SIZE:       ~5.9 ft
+PERCEPTION: Human / Military Trainee
+SIZE:       ~5,9 ft
 ENDURANCE:  Low
 HOSTILITY:  None
-WEAPONS:    None (unarmed)
+WEAPONS:    None
 REWARD:     70 FC
 THREAT:     Very Low
 

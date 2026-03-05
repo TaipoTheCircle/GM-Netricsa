@@ -1,9 +1,9 @@
 TED BARNEY
 
 
-CLASS:      Black Mesa Security Guard
+CLASS:      Ted Barney
 METABOLISM: Human, Male
-PERCEPTION: Standard visual + situational awareness
+PERCEPTION: Black Mesa Security Guard
 SIZE:       ~6 ft
 ENDURANCE:  Medium
 HOSTILITY:  Defensive / Allied

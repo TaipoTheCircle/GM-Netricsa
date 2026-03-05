@@ -1,10 +1,10 @@
 BLACK MESA SLEEPING ON BREAK SECURITY GUARD
 
 
-CLASS:      Black Mesa Security Guard (inactive)
+CLASS:      Black Mesa Sleeping On Break Security Guard
 METABOLISM: Human, Male
-PERCEPTION: None (asleep)
-SIZE:       ~6 ft (183 cm)
+PERCEPTION: Black Mesa Security Guard (inactive)
+SIZE:       ~5,9 ft
 ENDURANCE:  Low
 HOSTILITY:  None
 WEAPONS:    None

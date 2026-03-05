@@ -1,15 +1,15 @@
 KINGPIN FROM XEN
 
 
-CLASS:      Xen, Psionic Entity
-METABOLISM: unknown
-PERCEPTION: psionic
+CLASS:      Kingpin
+METABOLISM: Unknown
+PERCEPTION: Psionic Entity Of Xen
 SIZE:       12-15 ft
-ENDURANCE:  high
-HOSTILITY:  high
-WEAPONS:    psionic blasts, mind control
+ENDURANCE:  High
+HOSTILITY:  High
+WEAPONS:    Psionic blasts, mind control
 REWARD:     4000 FC
-THREAT:     high
+THREAT:     High
 
 DESCRIPTION:
 

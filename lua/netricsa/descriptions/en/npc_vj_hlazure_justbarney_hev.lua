@@ -1,11 +1,11 @@
 H.E.V. JUSTIN BARNS
 
 
-CLASS:      Black Mesa Security Officer (HEV-equipped)
+CLASS:      H.E.V. Justin Barns
 METABOLISM: Human, Male (enhanced survivability with HEV suit)
-PERCEPTION: Standard visual, improved situational awareness
-SIZE:       ~6 ft (183 cm)
-ENDURANCE:  High (HEV suit protection)
+PERCEPTION: Black Mesa Security Officer (HEV-equipped)
+SIZE:       ~5,9 ft
+ENDURANCE:  High
 HOSTILITY:  Defensive / Allied
 WEAPONS:    M41A Pulse Rifle
 REWARD:     600 FC

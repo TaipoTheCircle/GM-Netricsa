@@ -1,10 +1,10 @@
 COMBINE OVERWATCH SOLDIER ENGINEER
 
 
-CLASS:      Transhuman Infantry - Combat Engineer
+CLASS:      Combine Overwatch Soldier Engineer
 METABOLISM: Augmented Human, Male
-PERCEPTION: Enhanced HUD + Tactical Scanner
-SIZE:       6-6.4 ft
+PERCEPTION: Transhuman Infantry - Combat Engineer
+SIZE:       5,9 ft
 ENDURANCE:  High
 HOSTILITY:  Extreme
 WEAPONS:    Reager Rifle (electrical discharge weapon), Deployable Turrets

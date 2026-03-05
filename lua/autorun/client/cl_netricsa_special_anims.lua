@@ -20,6 +20,10 @@ SPECIAL_ANIMATIONS = {
         sequence = "Idle_Patrol", 
         fallback = "Idle"   
     },
+                ["npc_vj_ssc_custom_grunt_improved"] = {
+        sequence = "Idle_Patrol", 
+        fallback = "Idle"   
+    },
         ["npc_vj_ssc_headman_bomberman_test1"] = {
         sequence = "Computer", 
         fallback = "Idle"   
@@ -96,7 +100,12 @@ SPECIAL_ANIMATIONS = {
         sequence = "Kamikaze_attack", 
         fallback = "Idle"    
     },
-                                    ["npc_vj_ssc_kolivan"] = {
+                                    ["npc_vj_ssc_custom_kolivan"] = {
+        sequence = "computer", 
+        fallback = "Idle"   
+    },
+
+                                        ["npc_vj_ssc_kolivan"] = {
         sequence = "computer", 
         fallback = "Idle"   
     },
@@ -176,11 +185,14 @@ SPECIAL_ANIMATIONS = {
         sequence = "Idle", 
         fallback = "Idle"   
     },
-                                                            ["npc_vj_ssc_demon"] = {
+                                                            ["npc_vj_ssc_custom_demon_statue"] = {
         sequence = "Idle", 
         fallback = "Idle"   
     },
-
+                                                                ["npc_vj_ssc_demon"] = {
+        sequence = "Idle", 
+        fallback = "Idle"   
+    },
                                                                 ["npc_vj_ssc_demon_cannonball"] = {
         sequence = "Idle", 
         fallback = "Idle"   
@@ -190,7 +202,12 @@ SPECIAL_ANIMATIONS = {
         sequence = "Idle", 
         fallback = "Idle"   
     },
-                                                                        ["npc_vj_ssc_headman_chainsawer"] = {
+                                                                        ["npc_vj_ssc_custom_headman_chainsawer"] = {
+        sequence = "Kamikaze_attack2", 
+        fallback = "Idle"   
+    },
+
+                                                                            ["npc_vj_ssc_headman_chainsawer"] = {
         sequence = "Kamikaze_attack2", 
         fallback = "Idle"   
     },
@@ -251,6 +268,26 @@ SPECIAL_ANIMATIONS = {
         sequence = "walk", 
         fallback = "Idle"   
 
+    },
+                                                                                            ["npc_vj_ssc_spaceship"] = {
+        sequence = "open", 
+        fallback = "Idle"   
+
+    },
+                                                                                                ["npc_vj_ssc_custom_spaceship"] = {
+        sequence = "open", 
+        fallback = "Idle"   
+
+    },
+                                                                                                    ["npc_vj_skyrim_lurker"] = {
+        sequence = "idle01", 
+        fallback = "Idle"   
+
+    },
+
+                                                                                        ["npc_vj_kate"] = {
+        sequence = "standaim_gren_frag1", 
+        fallback = "Idle"   
     },
     SPECIAL_BODYGROUPS = {
     ["npc_vj_ss2_turret_machinegun"] = {

@@ -1,9 +1,9 @@
 H.E.C.U. MARINE (ADRIAN SHEPARD'S SQUAD)
 
 
-CLASS:      Standard Infantry
+CLASS:      H.E.C.U. Marine (adrian Shepard's Squad)
 METABOLISM: Human, Male (U.S. Marine Corps)
-PERCEPTION: visual, auditory, basic squad tactics
+PERCEPTION: Standard Infantry
 SIZE:       ~6 ft
 ENDURANCE:  medium
 HOSTILITY:  extreme toward aliens and hostile forces

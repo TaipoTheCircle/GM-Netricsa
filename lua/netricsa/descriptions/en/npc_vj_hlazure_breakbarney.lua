@@ -1,10 +1,10 @@
 BLACK MESA ON BREAK SECURITY GUARD
 
 
-CLASS:      Black Mesa Security Guard (unarmed)
+CLASS:      Black Mesa On Break Security Guard
 METABOLISM: Human, Male
-PERCEPTION: Standard visual
-SIZE:       ~6 ft (183 cm)
+PERCEPTION: Black Mesa Security Guard (unarmed)
+SIZE:       ~5,9 ft
 ENDURANCE:  Low
 HOSTILITY:  None
 WEAPONS:    None

@@ -1,13 +1,13 @@
 MERKAVA TANK
 
 
-CLASS:      Rebel Combat Vehicle
-METABOLISM: Mechanical (armored engine core)
-PERCEPTION: Optical targeting systems + human gunner
-SIZE:       ~26 ft long
-ENDURANCE:  Very High (heavy composite armor)
-HOSTILITY:  High (against Combine forces)
-WEAPONS:    Rocket Cannon, Mounted Machine Gun (operated by rebel)
+CLASS:      Merkava Tank
+METABOLISM: Mechanical Tank
+PERCEPTION: Rebel Combat Vehicle
+SIZE:       ~26 ft
+ENDURANCE:  Very High
+HOSTILITY:  High
+WEAPONS:    Rocket Cannon, Mounted Machine Gun
 REWARD:     2500 FC
 THREAT:     High
 

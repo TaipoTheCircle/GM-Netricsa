@@ -1,9 +1,9 @@
 COMBINE OVERWATCH ELITE ARCTIC GUARD
 
 
-CLASS:      Transhuman infantry, elite security and assault unit
-METABOLISM: Augmented human, male
-PERCEPTION: Tactical HUD + infrared and thermal systems
+CLASS:      Combine Overwatch Elite Arctic Guard
+METABOLISM: Augmented human, Male
+PERCEPTION: Transhuman infantry, elite security and assault unit
 SIZE:       5,9 ft
 ENDURANCE:  Very high
 HOSTILITY:  Extreme

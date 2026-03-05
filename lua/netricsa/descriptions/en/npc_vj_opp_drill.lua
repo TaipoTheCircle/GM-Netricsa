@@ -1,15 +1,15 @@
 DWIGHT T. BARNES
 
 
-CLASS:      Human / Military Drill Instructor
+CLASS:      Dwight T. Barnes
 METABOLISM: Human
-PERCEPTION: Trained soldier's awareness
+PERCEPTION: Human / Military Drill Instructor
 SIZE:       ~6 ft
 ENDURANCE:  Medium
-HOSTILITY:  Low (towards trainees; neutral outside combat)
-WEAPONS:    None (unarmed instructor)
+HOSTILITY:  Low 
+WEAPONS:    None
 REWARD:     350 FC
-THREAT:     Low (not a combatant)
+THREAT:     Low
 
 DESCRIPTION:
 

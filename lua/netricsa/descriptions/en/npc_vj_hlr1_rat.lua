@@ -1,10 +1,10 @@
 RAT FROM EARTH
 
 
-CLASS:      Hazardous Environment Rodent
+CLASS:      Rat
 METABOLISM: Mammalian
-PERCEPTION: Visual + smell
-SIZE:       ~1 ft (30 cm)
+PERCEPTION: Hazardous Environment Rodent
+SIZE:       ~1 ft
 ENDURANCE:  Low
 HOSTILITY:  Low
 WEAPONS:    none

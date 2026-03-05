@@ -1,9 +1,9 @@
 COMBINE HIDDEN ROLLER MINE
 
 
-CLASS:      Autonomous Hidden Interceptor Mine
+CLASS:      Combine Hidden Roller Mine
 METABOLISM: Synthetic Engine with Phase Cloaking
-PERCEPTION: Advanced Motion Sensors + Close-Range Target Scan
+PERCEPTION: Autonomous Hidden Interceptor Mine
 SIZE:       1 ft
 ENDURANCE:  Average
 HOSTILITY:  Extremely High

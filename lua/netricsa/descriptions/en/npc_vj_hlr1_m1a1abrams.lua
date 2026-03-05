@@ -1,15 +1,15 @@
 H.E.C.U. M1A1 ABRAMS
 
 
-CLASS:      Heavy Armored Vehicle
-METABOLISM: none (mechanical, human-piloted)
-PERCEPTION: visual targeting systems, motion sensors
-SIZE:       ~32 ft long
-ENDURANCE:  extremely high (reinforced armor)
-HOSTILITY:  extreme
-WEAPONS:    rocket launcher 
+CLASS:      H.E.C.U. M1A1 Abrams
+METABOLISM: Mechanical, human-piloted
+PERCEPTION: Heavy Armored Vehicle
+SIZE:       ~32 ft
+ENDURANCE:  Extremely high
+HOSTILITY:  Extreme
+WEAPONS:    Rocket launcher 
 REWARD:     8000 FC
-THREAT:     catastrophic
+THREAT:     Catastrophic
 
 DESCRIPTION:
 

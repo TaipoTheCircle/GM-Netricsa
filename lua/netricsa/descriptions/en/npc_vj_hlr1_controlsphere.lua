@@ -1,15 +1,15 @@
 CONTROL SPHERE FROM XEN
 
 
-CLASS:      Xen, Synthetic Organism
-METABOLISM: biomechanical core
-PERCEPTION: telepathic awareness
+CLASS:      Control Sphere
+METABOLISM: Biomechanical core
+PERCEPTION: Synthetic Organism Of Xen
 SIZE:       6 ft diameter
-ENDURANCE:  high
-HOSTILITY:  extreme
-WEAPONS:    energy bolts, psychic disruption
+ENDURANCE:  High
+HOSTILITY:  Extreme
+WEAPONS:    Energy bolts, psychic disruption
 REWARD:     1200 FC
-THREAT:     very high
+THREAT:     Very high
 
 DESCRIPTION:
 

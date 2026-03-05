@@ -1,9 +1,9 @@
 COMBINE CIVIL PROTECTION RECRUITER
 
 
-CLASS:      Transhuman Law Enforcement (Metropolice)
+CLASS:      Combine Civil Protection Recruiter
 METABOLISM: Human, Male
-PERCEPTION: Enhanced vision + radio communication
+PERCEPTION: Transhuman Law Enforcement (Metropolice)
 SIZE:       9 ft
 ENDURANCE:  Low-medium
 HOSTILITY:  High
@@ -13,7 +13,7 @@ THREAT:     Low-medium
 
 DESCRIPTION:
 
-Civil Protection Recruiters are specialized Combine personnel responsible for replenishing the ranks of the occupation forces from the local population. Unlike regular patrolmen, their job is not suppression, but selection. They identify suitable candidates using fear, pressure, and promises of stability in exchange for loyalty.
+Combine Civil Protection Recruiters are specialized Combine personnel responsible for replenishing the ranks of the occupation forces from the local population. Unlike regular patrolmen, their job is not suppression, but selection. They identify suitable candidates using fear, pressure, and promises of stability in exchange for loyalty.
 
 Their distinguishing feature is their bright blue, glowing eyes. These eyes enhance the effect of psychological dominance and allow the recruiter to maintain uninterrupted eye contact during "explanatory conversations."
 

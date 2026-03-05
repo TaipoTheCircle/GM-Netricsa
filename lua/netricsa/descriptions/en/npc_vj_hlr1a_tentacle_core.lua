@@ -2,14 +2,14 @@ TENTACLE CORE FROM XEN
 
 
 CLASS:      Tentacle Core
-METABOLISM: xenobiological neural cluster
-PERCEPTION: controls tentacles via vibration and psionic signals
+METABOLISM: Xenobiological neural cluster
+PERCEPTION: The Core of the Enormous Alien Creature
 SIZE:       5-10 ft 
-ENDURANCE:  medium
-HOSTILITY:  passive (indirect)
-WEAPONS:    none (coordinates tentacles)
+ENDURANCE:  Medium
+HOSTILITY:  Indirect
+WEAPONS:    Coordinates tentacles
 REWARD:     2500 FC
-THREAT:     catastrophic (while tentacles active)
+THREAT:     Catastrophic
 
 DESCRIPTION:
 
@@ -20,3 +20,4 @@ TIPS:
 - Focus fire or environmental hazards directly on the core.
 - Once destroyed, all active tentacles become useless.
 - Approach carefully: even though it looks helpless.
+

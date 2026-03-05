@@ -1,9 +1,9 @@
 COMBINE TRACK
 
 
-CLASS:      Combine Heavy Transport
+CLASS:      Combine Track
 METABOLISM: Mechanized platform with integrated controls
-PERCEPTION: External sensor units, panoramic tactical cameras, AI targeting
+PERCEPTION: Combine Heavy Transport
 SIZE:       29,5 ft
 ENDURANCE:  Extremely high
 HOSTILITY:  Extreme

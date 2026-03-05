@@ -1,9 +1,9 @@
 ODESSA CUBBAGE
 
 
-CLASS:      Resistance Field Coordinator
+CLASS:      Odessa Cubbage
 METABOLISM: Human, Male
-PERCEPTION: Resistance Leader
+PERCEPTION: Resistance Field Coordinator
 SIZE:       9,5 ft
 ENDURANCE:  Medium
 HOSTILITY:  Medium

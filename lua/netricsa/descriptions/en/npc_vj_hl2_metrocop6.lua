@@ -1,9 +1,9 @@
 COMBINE CIVIL PROTECTION METROCOP SHIELD GUARD
 
 
-CLASS:      Civil Protection, Assault Guard
+CLASS:      Combine Civil Protection Metrocop Shield Guard
 METABOLISM: Human, Male
-PERCEPTION: Standard (mask visor + radio)
+PERCEPTION: Assault Guard Of Civil Protection
 SIZE:       9 ft
 ENDURANCE:  High
 HOSTILITY:  High

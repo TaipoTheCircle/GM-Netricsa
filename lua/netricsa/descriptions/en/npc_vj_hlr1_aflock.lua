@@ -1,15 +1,15 @@
 AFLOCK FROM XEN
 
 
-CLASS:      Alien, Xen
-METABOLISM: unknown
-PERCEPTION: curious flyer
+CLASS:      Aflock
+METABOLISM: Unknown
+PERCEPTION: Curious flyer
 SIZE:       3 ft wingspan
-ENDURANCE:  low
-HOSTILITY:  none
-WEAPONS:    none
+ENDURANCE:  Low
+HOSTILITY:  None
+WEAPONS:    None
 REWARD:     50 FC
-THREAT:     none
+THREAT:     None
 
 DESCRIPTION:
 

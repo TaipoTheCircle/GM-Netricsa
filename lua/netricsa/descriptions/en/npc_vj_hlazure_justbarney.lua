@@ -1,10 +1,10 @@
 JUSTIN BARNS
 
 
-CLASS:      Black Mesa Security Guard
+CLASS:      Justin Barns
 METABOLISM: Human, Male
-PERCEPTION: Standard visual + situational awareness
-SIZE:       ~6 ft (183 cm)
+PERCEPTION: Black Mesa Security Guard
+SIZE:       ~5,9 ft
 ENDURANCE:  Medium
 HOSTILITY:  Defensive / Allied
 WEAPONS:    Glock 17

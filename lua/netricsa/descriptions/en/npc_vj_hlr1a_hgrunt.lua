@@ -1,15 +1,15 @@
 ALPHA H.E.C.U. MARINE
 
 
-CLASS:      H.E.C.U. Alpha Marine
-METABOLISM: Human, Male (U.S. Marine Corps, experimental detachment)
-PERCEPTION: basic squad tactics
+CLASS:      Alpha H.E.C.U. Marine
+METABOLISM: Human, Male
+PERCEPTION: USA Experimental Squad
 SIZE:       ~6 ft
-ENDURANCE:  medium (light protection)
-HOSTILITY:  extreme
-WEAPONS:    Colt M4 Carbine, grenades.
+ENDURANCE:  Medium
+HOSTILITY:  Extreme
+WEAPONS:    Colt M4 Carbine, Grenades.
 REWARD:     700 FC
-THREAT:     moderate (alone), high (in squads)
+THREAT:     Moderate (alone), high (in squads)
 
 DESCRIPTION:
 

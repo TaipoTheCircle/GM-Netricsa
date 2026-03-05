@@ -1,9 +1,9 @@
-GHOST FROM THE WORLD OF FATUM
+GHOST FROM THE FATUM'S WORLD
 
 
-CLASS:      Ethereal Creature, Guardian of the Cemeteries of Fatum
+CLASS:      Fatum's World Ghost
 METABOLISM: Supported by the energy of Fatum
-PERCEPTION: Astral vision, sensitivity to living energy
+PERCEPTION: Ethereal Creature, Guardian of the Cemeteries of Fatum
 SIZE:       8,2 ft
 ENDURANCE:  Average
 HOSTILITY:  High
@@ -13,7 +13,7 @@ THREAT:     Average
 
 DESCRIPTION:
 
-Ghosts of the World of Fatum are green, translucent creatures cloaked in long robes reminiscent of the robes of high sorcerers. Their homeland is the Cemeteries of Fatum-distorted necropolises where the line between life and death has long since lost its meaning. There, they served as guardians.
+Ghosts of the Fatum's World are green, translucent creatures cloaked in long robes reminiscent of the robes of high sorcerers. Their homeland is the Cemeteries of Fatum-distorted necropolises where the line between life and death has long since lost its meaning. There, they served as guardians.
 
 These creatures unconditionally serve Fatum. And since Doom acts in Mental's interests, the wraiths are formally considered part of his Horde, though they themselves display neither individuality nor hesitation.
 

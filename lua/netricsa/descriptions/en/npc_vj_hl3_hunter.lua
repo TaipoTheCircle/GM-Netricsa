@@ -1,9 +1,9 @@
 COMBINE MINISTRIDER
 
 
-CLASS:      Experimental Combine Combat Synth
+CLASS:      Combine Ministrider
 METABOLISM: Fully mechanical, autonomous frontline drone
-PERCEPTION: Advanced combat sensors, Combine communications link
+PERCEPTION: Experimental Combine Combat Synth
 SIZE:       9,8 ft
 ENDURANCE:  Medium
 HOSTILITY:  High

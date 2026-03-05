@@ -1,9 +1,9 @@
 FLOCKING FLOATER FROM XEN
 
 
-CLASS:      Xen, Floater
+CLASS:      Flocking Floater
 METABOLISM: aerial organism, gas-filled
-PERCEPTION: antennae, chemical sensing
+PERCEPTION: Floater Of Xen
 SIZE:       4-5 ft diameter
 ENDURANCE:  medium
 HOSTILITY:  reactive swarm behavior

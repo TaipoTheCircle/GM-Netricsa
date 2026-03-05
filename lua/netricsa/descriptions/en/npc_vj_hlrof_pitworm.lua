@@ -1,11 +1,11 @@
 PIT WORM FROM THE X DIMENSION
 
 
-CLASS:      Race X, Siege Guardian
+CLASS:      Pit Worm
 METABOLISM: Carnivorous, acidic secretion
-PERCEPTION: Keen sight + vibration sensitivity
-SIZE:       ~30 ft (visible portion)
-ENDURANCE:  Very High (effectively invincible to conventional weapons)
+PERCEPTION: Siege Guardian Of Race X
+SIZE:       ~30 ft
+ENDURANCE:  Very High
 HOSTILITY:  Extreme
 WEAPONS:    Eye energy beam, front claws
 REWARD:     1200 FC
@@ -22,4 +22,4 @@ TIPS:
 - Conventional weapons are ineffective-focus on triggering the environmental kill sequence.
 - First, activate the steam vent and valve via the control panels scattered around the chamber.
 - Use the emergency gearbox override to divert toxic waste into the basin.
-- Once the toxic sludge floods the area, the Pit Worm is finally defeated-then the bridge behind it provides your path forward. 
+- Once the toxic sludge floods the area, the Pit Worm is finally defeated-then the bridge behind it provides your path forward.
