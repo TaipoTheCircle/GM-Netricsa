@@ -1,10 +1,10 @@
-COMBINE OVERWATCH SHOTGUN PRISON SOLDIER
+COMBINE OVERWATCH PRISON SHOTGUNNER
 
 
-CLASS:      Transhuman Infantry (Penal Enforcement - Shotgun Unit)
+CLASS:      Combine Overwatch Prison Shotgunner
 METABOLISM: Augmented Human, Male
-PERCEPTION: Enhanced close-quarters vision + tactical comms
-SIZE:       6.2-6.4 ft
+PERCEPTION: Transhuman Infantry (Penal Enforcement - Shotgun Unit)
+SIZE:       5,9 ft
 ENDURANCE:  High
 HOSTILITY:  Extreme
 WEAPONS:    SPAS-12 Shotgun

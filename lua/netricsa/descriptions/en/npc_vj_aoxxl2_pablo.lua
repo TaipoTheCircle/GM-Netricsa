@@ -1,10 +1,10 @@
 MARIO ROMAN "PABLO"
 
 
-CLASS:      Roman Infantry, Pop-Culture Cameo
+CLASS:      Mario Roman "Pablo"
 METABOLISM: Meat-and-sandwich fueled
-PERCEPTION: Easily distracted by mustaches and power-up sounds
-SIZE:       Human-sized (~6 ft)
+PERCEPTION: Roman Infantry, Pop-Culture Cameo
+SIZE:       ~6 ft
 ENDURANCE:  Low-Medium
 HOSTILITY:  Mild (until attacked)
 WEAPONS:    FLUDD-like water cannon

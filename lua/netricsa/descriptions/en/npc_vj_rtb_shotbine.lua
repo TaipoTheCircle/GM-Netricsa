@@ -1,10 +1,10 @@
-RTB COMBINE OVERWATCH SHOTGUN SOLDIER
+RTB COMBINE OVERWATCH SHOTGUNNER
 
 
-CLASS:      Transhuman Infantry (Close-Quarters Specialist)
+CLASS:      RTB Combine Overwatch Shotgunner
 METABOLISM: Augmented Human, Male
-PERCEPTION: Enhanced auditory + tactical vision
-SIZE:       6.2 ft
+PERCEPTION: Transhuman Infantry (Close-Quarters Specialist)
+SIZE:       5,9 ft
 ENDURANCE:  High
 HOSTILITY:  Extreme
 WEAPONS:    SPAS-12 Shotgun, Frag Grenades

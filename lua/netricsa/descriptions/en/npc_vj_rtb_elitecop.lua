@@ -1,10 +1,10 @@
 RTB COMBINE CIVIL PROTECTION ELITE
 
 
-CLASS:      Transhuman Law Enforcement (Elite Unit)
+CLASS:      RTB Combine Civil Protection Elite
 METABOLISM: Heavily Conditioned Human, Male (pre-Overwatch stage)
-PERCEPTION: Enhanced optics + encrypted comms
-SIZE:       6-6.3 ft
+PERCEPTION: Transhuman Law Enforcement (Elite Unit)
+SIZE:       5,9 ft
 ENDURANCE:  Medium-High
 HOSTILITY:  High
 WEAPONS:    Stun Stun-Stick, 9mm Pistol, SMG1, Explosive Barrels, Manhack
@@ -13,7 +13,7 @@ THREAT:     Medium-High
 
 DESCRIPTION:
 
-RTB The Combine Civil Protection Elite represents the upper echelon of Metropolice forces, serving as the transition step between standard Civil Protection and full Overwatch soldiers. Outfitted with reinforced armor plating and more advanced comms gear, they are deployed in riot suppression, large-scale patrols, and high-priority raids against resistance cells.
+The RTB Combine Civil Protection Elite represents the upper echelon of Metropolice forces, serving as the transition step between standard Civil Protection and full Overwatch soldiers. Outfitted with reinforced armor plating and more advanced comms gear, they are deployed in riot suppression, large-scale patrols, and high-priority raids against resistance cells.
 
 Unlike common Metro Cops, these elites have undergone heavier conditioning and augmentation, making them stronger, more disciplined, and deadlier in combat. Their masks feature reinforced filters and darker tones, often with enhanced optics to give them an intimidating appearance.
 

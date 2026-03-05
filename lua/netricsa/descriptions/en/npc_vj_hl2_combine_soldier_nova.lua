@@ -1,10 +1,10 @@
 COMBINE OVERWATCH PRISON SOLDIER
 
 
-CLASS:      Transhuman Infantry (Penal Enforcement Unit)
+CLASS:      Combine Overwatch Prison Soldier
 METABOLISM: Augmented Human, Male
-PERCEPTION: Standard tactical vision + comms link
-SIZE:       6-6.3 ft
+PERCEPTION: Transhuman Infantry (Penal Enforcement Unit)
+SIZE:       5,9 ft
 ENDURANCE:  Medium-High
 HOSTILITY:  Extreme
 WEAPONS:    AR2, SMG1

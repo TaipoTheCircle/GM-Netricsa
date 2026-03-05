@@ -1,14 +1,14 @@
 MR. FRIENDLY FROM XEN
 
 
-CLASS:      Xen, Scavenger
+CLASS:      Mr. Friendly
 METABOLISM: carnivorous
-PERCEPTION: unknown
+PERCEPTION: Scavenger Of Xen
 SIZE:       4-5 ft
 ENDURANCE:  high
 HOSTILITY:  extreme
 WEAPONS:    tentacle grapple, vomit, fatal copulation
-REWARD:     unknown
+REWARD:     100 FC
 THREAT:     high
 
 DESCRIPTION:

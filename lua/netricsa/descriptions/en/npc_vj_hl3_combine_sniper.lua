@@ -1,9 +1,9 @@
 OVERWATCH COMBINE FEMALE SNIPER
 
 
-CLASS:      Transhuman Combine Sniper
+CLASS:      Overwatch Combine Female Sniper
 METABOLISM: Enhanced human, female / neuro-biomechanical implants
-PERCEPTION: Optical enhancements, ballistic computers, tactical telemetry
+PERCEPTION: Transhuman Combine Sniper
 HEIGHT:     5,9 ft
 ENDURANCE:  Average
 HOSTILITY:  Extreme

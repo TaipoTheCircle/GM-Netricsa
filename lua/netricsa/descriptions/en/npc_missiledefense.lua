@@ -1,12 +1,12 @@
 COMBINE MISSILE DEFENSE TURRET HK-707
 
 
-CLASS:      Anti-Missile Defense Turret
+CLASS:      Combine Missile Defense Turret HK-707
 METABOLISM: Fully synthetic
-PERCEPTION: Radar + missile tracking sensors
-SIZE:       ~4-5 ft tall (chassis)
-ENDURANCE:  Medium (single-use)
-HOSTILITY:  High (against artillery / rockets)
+PERCEPTION: Anti-Missile Defense Turret
+SIZE:       ~4-5 ft tall
+ENDURANCE:  Medium 
+HOSTILITY:  High
 WEAPONS:    Dual interceptor cannons
 REWARD:     800 FC
 THREAT:     Medium-High

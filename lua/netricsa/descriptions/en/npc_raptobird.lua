@@ -1,10 +1,10 @@
-RAPTOR-BIRD (RATH-BIRD, LIZARD-BIRD) FROM ZENOZOIC
+RAPTOR-BIRD (RATH-BIRD, LIZARD-BIRD) FROM ZENOZOIK
 
 
-CLASS:      Zenozoic Predator
+CLASS:      Zenozoik Predator
 METABOLISM: Reptilian, cold-blooded
 PERCEPTION: Enhanced vision, movement responsiveness
-SIZE:       5,9 ft.
+SIZE:       5,9 ft
 ENDURANCE:  Average
 HOSTILITY:  High
 WEAPONALS:  Claws, beak, leap attack
@@ -13,7 +13,7 @@ THREAT:     High
 
 DESCRIPTION:
 
-Raptor-Birds are among the most dangerous predators of the Zenozoic Forest, a dense and teeming region. This forest is known for its exotic trees and plants, which literally fill the entire space, creating ideal conditions for stealthy and swift hunters.
+Raptor-Birds are among the most dangerous predators of the Zenozoik Forest, a dense and teeming region. This forest is known for its exotic trees and plants, which literally fill the entire space, creating ideal conditions for stealthy and swift hunters.
 
 The creature resembles a cross between a chameleon, a bird, and a rodent. Its elongated head is covered in thick, scaly skin, similar in texture to that of a fish. Large eyes with round pupils allow it to instantly detect movement among foliage and shadows. Horn-like projections, curved in semicircles, extend above its head.
 

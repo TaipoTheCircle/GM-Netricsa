@@ -1,15 +1,15 @@
 ALYX VANCE
 
 
-CLASS:      Human Resistance Operative
+CLASS:      Alyx Vance
 METABOLISM: Human, Female
-PERCEPTION: Sharp (keen eyesight, quick reflexes, strong intuition)
-SIZE:       ~5.5 ft
-ENDURANCE:  Medium (athletic build, agile)
-HOSTILITY:  Low (friendly to allies, hostile to Combine)
+PERCEPTION: Human Resistance Operative
+SIZE:       ~5,5 ft
+ENDURANCE:  Medium
+HOSTILITY:  Low
 WEAPONS:    Alyxgun, Shotgun, occasional SMG, hacking tools
 REWARD:     1000 FC
-THREAT:     Medium-High (lethal against Combine squads)
+THREAT:     Medium-High
 
 DESCRIPTION:
 

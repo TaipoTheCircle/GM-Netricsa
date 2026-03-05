@@ -1,9 +1,9 @@
 COD FROM THE MINECRAFT OVERWORLD
 
 
-CLASS:      Fish
+CLASS:      Cod
 METABOLISM: Cold-blooded aquatic creature
-PERCEPTION: Primary vision + aquatic movement
+PERCEPTION: Fish
 SIZE:       1,6 ft
 ENDURANCE:  Low
 HOSTILITY:  Low

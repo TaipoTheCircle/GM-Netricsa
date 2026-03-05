@@ -3,7 +3,7 @@ CREEPER-DZIGURDA FROM THE MINECRAFT OVERWORLD
 
 CLASS:      Dzigurda Creeper
 METABOLISM: Plant-Chemical
-PERCEPTION: Detectable by Vision
+PERCEPTION: Plant-Gunpowder Creature
 SIZE:       5,5 ft
 ENDURANCE:  Low
 HOSTILITY:  Extreme

@@ -1,9 +1,9 @@
-RED-RED WARM COW FROM THE MINECRAFT OVERWORLD
+RED WARM COW FROM THE MINECRAFT OVERWORLD
 
 
-CLASS:      Wild / Domestic Animal
+CLASS:      Red Warm cow
 METABOLISM: Warm-blooded Mammal
-PERCEPTION: Standard vision and smell
+PERCEPTION: Wild / Domestic Animal
 SIZE:       5,2 ft
 ENDURANCE:  Average
 HOSTILITY:  Low

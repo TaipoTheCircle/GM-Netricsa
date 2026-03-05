@@ -1,9 +1,9 @@
 RIPPED GOAT FROM GOATVILLE
 
 
-CLASS:      Mammal, Ungulate, Mutant
+CLASS:      Ripped Goat
 METABOLISM: Protein-fueled powerhouse
-PERCEPTION: Keen, aggressive
+PERCEPTION: Ungulate Mammal Mutant
 SIZE:       ~4 ft at shoulders, heavily muscular
 ENDURANCE:  Very High
 HOSTILITY:  Extreme

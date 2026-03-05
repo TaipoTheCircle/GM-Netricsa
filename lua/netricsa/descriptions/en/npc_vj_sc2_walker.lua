@@ -1,14 +1,14 @@
 WALKER FROM LOEK-III
 
 
-CLASS:      Ground Lume
-METABOLISM: Alien creature (unknown specifics)
-PERCEPTION: Standard visual + line-of-sight detection
+CLASS:      Walker
+METABOLISM: Alien creature
+PERCEPTION: Ground Lume
 SIZE:       ~5-6 ft tall
 ENDURANCE:  Low-Medium
-HOSTILITY:  High (aggressive towards core guardians & core)
-WEAPONS:    Melee attacks (physical contact damage)
-REWARD:     ~300 FC
+HOSTILITY:  High
+WEAPONS:    Melee attacks 
+REWARD:     300 FC
 THREAT:     Medium
 
 DESCRIPTION:

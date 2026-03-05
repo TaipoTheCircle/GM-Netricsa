@@ -1,26 +1,21 @@
-CLASSIC COW FROM THE MINECRAFT OVERWORLD
+MOOSHROOM COW FROM THE MINECRAFT OVERWORLD
 
 
-CLASS:      Wild / Domestic Animal
+CLASS:      Mooshroom Cow
 METABOLISM: Warm-blooded Mammal
-PERCEPTION: Standard vision and smell
+PERCEPTION: Wild / Fungal Animal
 SIZE:       5,2 ft
 ENDURANCE:  Average
 HOSTILITY:  Low
 WEAPONS:    None
-REWARD:     50 FC
+REWARD:     150 FC
 THREAT:     Low
 
 DESCRIPTION:
 
-Cows are peaceful herbivores that inhabit the plains, meadows, and hills of the Minecraft world. They graze on green grass, never attack, and behave calmly.
-
-In the wild, cows are often found in groups. Their rhythmic mooing and massive bodies create the feeling of a stable and vibrant ecosystem.
-
-Cows can be milked from a bucket without causing harm, making them a reliable source of milk while traveling.
+The Mooshroom Cow is an unusual species of Mushroom Biome creature, a fusion of organic cow flesh and a fungal ecosystem. Red mushrooms with white spots grow on its back, and its body is covered in red and white spotted cowhide.
 
 TIPS:
 
-- Cow's milk is your best friend when poisoned or suffering from bad potion effects.
-- Beef provides health and satiety.
-- Place cows in a pen for a constant supply of resources.
+- Mushroom soups are a quick way to replenish health and satiety.
+- After cutting the Mushrooms, she will turn into an ordinary Cow.

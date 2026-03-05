@@ -2,8 +2,8 @@ SPIDER FROM THE MINECRAFT OVERWORLD
 
 
 CLASS:      Spider
-PERCEPTION: Hostile
 METABOLISM: Arthropod
+PERCEPTION: Hostile
 SIZE:       2,9 ft
 ENDURANCE:  Average
 HOSTILITY:  Variable

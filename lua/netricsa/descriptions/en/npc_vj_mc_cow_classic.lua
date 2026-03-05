@@ -1,9 +1,9 @@
-COW FROM THE MINECRAFT OVERWORLD
+CLASSIC COW FROM THE MINECRAFT OVERWORLD
 
 
-CLASS:      Wild / Domestic Animal
+CLASS:      Classic Cow
 METABOLISM: Warm-blooded Mammal
-PERCEPTION: Standard vision and smell
+PERCEPTION: Wild / Domestic Animal
 SIZE:       5,2 ft
 ENDURANCE:  Average
 HOSTILITY:  Low
@@ -13,7 +13,7 @@ THREAT:     Low
 
 DESCRIPTION:
 
-Cows are peaceful herbivores that inhabit the plains, meadows, and hills of the Minecraft world. They graze on green grass, never attack, and behave calmly.
+Classic Cows are peaceful herbivores that inhabit the plains, meadows, and hills of the Minecraft world. They graze on green grass, never attack, and behave calmly.
 
 In the wild, cows are often found in groups. Their rhythmic mooing and massive bodies create the feeling of a stable and vibrant ecosystem.
 

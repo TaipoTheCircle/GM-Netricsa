@@ -1,11 +1,11 @@
 SLAYER FROM CARNATE ISLAND
 
 
-CLASS:      Malefactor / Horror Entity
-METABOLISM: Unknown (supernatural)
-PERCEPTION: Enhanced senses + wall/ceiling traversal
+CLASS:      Slayer Of Carnate Island
+METABOLISM: Supernatural
+PERCEPTION: Malefactor / Horror Entity
 SIZE:       ~6 ft
-ENDURANCE:  High (regenerative, resilient)
+ENDURANCE:  High 
 HOSTILITY:  Extreme
 WEAPONS:    Blade limbs (arms and legs are long, sharp blades)
 REWARD:     1000 FC 

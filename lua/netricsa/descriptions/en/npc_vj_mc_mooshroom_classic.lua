@@ -1,9 +1,9 @@
-CLASSIC MOOSHROOM COW MINECRAFT OVERWORLD
+CLASSIC MOOSHROOM COW FROM THE MINECRAFT OVERWORLD
 
 
-CLASS:      Wild / Fungal Animal
+CLASS:      Classic Mooshroom Cow
 METABOLISM: Warm-blooded Mammal
-PERCEPTION: Standard Vision + Smell
+PERCEPTION: Wild / Fungal Animal
 SIZE:       5,2 ft
 ENDURANCE:  Average
 HOSTILITY:  Low
@@ -13,7 +13,7 @@ THREAT:     Low
 
 DESCRIPTION:
 
-The Mooshroom Cow is an unusual species of Mushroom Biome creature, a fusion of organic cow flesh and a fungal ecosystem. Red mushrooms with white spots grow on its back, and its body is covered in red and white spotted cowhide.
+The Classic Mooshroom Cow is an unusual species of Mushroom Biome creature, a fusion of organic cow flesh and a fungal ecosystem. Red mushrooms with white spots grow on its back, and its body is covered in red and white spotted cowhide.
 
 TIPS:
 

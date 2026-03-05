@@ -1,10 +1,10 @@
 LEGIONNAIRE
 
 
-CLASS:      Roman Infantry, Basic Foot Soldier
+CLASS:      Legionnaire
 METABOLISM: Meat-and-sandwich fueled
-PERCEPTION: Troop-following, hears the distant crackle of Gaulish laughter
-SIZE:       Human-sized (~6 ft)
+PERCEPTION: Roman Infantry, Basic Foot Soldier
+SIZE:       ~6 ft
 ENDURANCE:  Low
 HOSTILITY:  Mild-until you punch him in the helmet
 WEAPONS:    Pilum (pointy stick), battle charge

@@ -1,9 +1,9 @@
 MOOLIP COW FROM THE MINECRAFT OVERWORLD
 
 
-CLASS:      Passive Animal / Rare Cow
+CLASS:      Moolip Cow
 METABOLISM: Warm-blooded Mammal
-PERCEPTION: Standard Vision and Smell
+PERCEPTION: Passive Animal / Rare Cow
 SIZE:       5,2 ft
 ENDURANCE:  Average
 HOSTILITY:  Low

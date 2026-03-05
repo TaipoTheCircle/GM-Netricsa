@@ -1,9 +1,9 @@
-ODELL, ENGINEER, SCIENCE VESSEL BOREALIS
+ODELL, ENGINEER OF THE SCIENCE VESSEL BOREALIS
 
 
-CLASS:      Rebel, Resistance Engineer
+CLASS:      Odell, Engineer of the Science Vessel Borealis
 METABOLISM: Human, Male
-PERCEPTION: Normal Human + Practical Experience
+PERCEPTION: Rebel Resistance Engineer
 HEIGHT:     5,9 ft
 ENDURANCE:  Average
 HOSTILITY:  Average

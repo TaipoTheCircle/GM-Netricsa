@@ -3,10 +3,10 @@ HEN FROM ZENOZOIK
 
 CLASS:      Hen
 METABOLISM: Avian
-PERCEPTION: Basic vision, sensitivity to sudden movements
+PERCEPTION: Domestic / Wild Bird
 SIZE:       1,5 ft
 ENDURANCE:  Extremely low
-HOSTILITY:  Virtually absent (panicked flight)
+HOSTILITY:  Virtually absent
 WEAPONS:    Beak
 REWARD:     2 FC
 THREAT:     Negligibly low

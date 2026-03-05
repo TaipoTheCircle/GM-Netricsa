@@ -1,9 +1,9 @@
 COMBINE UNITED GUARD SOLDIER
 
 
-CLASS:      Transhuman Soldier, Combine Guard
+CLASS:      Combine United Guard soldier
 METABOLISM: Enhanced Human Male / Limited Biomechanical Augmentations
-PERCEPTION: Tactical Sensors, Enhanced Reflexes, Direct Link to Command
+PERCEPTION: Transhuman Soldier, Combine Guard
 SIZE:       6,5 ft
 ENDURANCE:  Very High
 HOSTILITY:  Extreme
@@ -13,7 +13,7 @@ THREAT:     Very High
 
 DESCRIPTION:
 
-Combine United Guard soldiers are an elite transhuman infantry force, serving between Overwatch's regular forces and specialized strike units. Unlike standard Combine soldiers, Guardsmen retain a greater degree of physiological autonomy, but are subject to deeper psychological conditioning and selective implant enhancements.
+The Combine United Guard soldiers are an elite transhuman infantry force, serving between Overwatch's regular forces and specialized strike units. Unlike standard Combine soldiers, Guardsmen retain a greater degree of physiological autonomy, but are subject to deeper psychological conditioning and selective implant enhancements.
 
 Their primary role is to hold key positions, protect strategic assets, and escort high-value transports such as the APC Transporter and Combine Track. Guardsmen are the first to deploy and the last to leave the operational zone.
 

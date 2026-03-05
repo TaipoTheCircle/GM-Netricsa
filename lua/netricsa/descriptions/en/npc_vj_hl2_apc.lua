@@ -1,10 +1,10 @@
 COMBINE ARMY CARRIER (APC)
 
 
-CLASS:      Combine Armored Personnel Carrier
+CLASS:      Combine Army Carrier (APC)
 METABOLISM: Transport Vehicle
-PERCEPTION: Targeting Sensors + Automatic Warhead
-SIZE:       26 ft.
+PERCEPTION: Combine Armored Personnel Carrier
+SIZE:       26 ft
 ENDURANCE:  Very High
 HOSTILITY:  High
 WEAPONS:    Pulse Launcher + Guided Missiles

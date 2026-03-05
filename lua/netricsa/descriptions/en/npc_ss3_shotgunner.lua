@@ -1,9 +1,9 @@
 CLONED SOLDIER REMINGTON 870 MCS TACTICAL SHOTGUNNER
 
 
-CLASS:      Cloned Soldier, Mental's Cyber ​​Infantry
+CLASS:      Cloned Soldier Remington 870 MCS Tactical shotgunner
 METABOLISM: Cybernetically modified human clone
-PERCEPTION: 5 red mechanical eyes, night vision, basic tactical algorithms
+PERCEPTION: Mental's Cyber Infantry
 SIZE:       6 ft
 ENDURANCE:  Low
 HOSTILITY:  Medium

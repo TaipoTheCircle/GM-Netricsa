@@ -1,10 +1,10 @@
 OLD GOAT (T-REX)
 
 
-CLASS:      Beast 
+CLASS:      Old Goat (T-rex)
 METABOLISM: Carnivore (but oddly feeds on loot and humans)
-PERCEPTION: Limited, but compensated by sheer rage
-SIZE:       Gigantic (~30 ft)
+PERCEPTION: Beast 
+SIZE:       ~30 ft
 ENDURANCE:  Very High
 HOSTILITY:  Comically-Extreme
 WEAPONS:    Massive jaws, tail strike, "Goat Roar"
@@ -19,4 +19,4 @@ It looks like a classic T-Rex and its fighting style mixes dinosaur fury.
 
 TIPS:
 
-If you see it on the toilet - run.
+- If you see it on the toilet - run.

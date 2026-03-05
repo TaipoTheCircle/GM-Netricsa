@@ -1,10 +1,10 @@
 REBEL MEDIC
 
 
-CLASS:      Resistance Fighter, Medic
+CLASS:      Rebel Medic
 METABOLISM: Human
-PERCEPTION: Medic
-SIZE:       ~1.7-1.8 m
+PERCEPTION: Resistance  Medic
+SIZE:       5,9 ft
 ENDURANCE:  Average
 HOSTILITY:  High
 WEAPONALS:  Pistol, SMG, First Aid Kits

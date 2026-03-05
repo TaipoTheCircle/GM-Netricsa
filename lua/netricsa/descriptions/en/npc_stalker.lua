@@ -1,12 +1,12 @@
 COMBINE STALKER
 
 
-CLASS:      Enslaved Transhuman Worker
-METABOLISM: Cyborg transhuman (sustained by implants)
-PERCEPTION: Limited (stripped vision + auditory implants)
-SIZE:       ~6.5 ft
-ENDURANCE:  Medium (partially armored, augmented body)
-HOSTILITY:  Low (unless directed)
+CLASS:      Combine Stalker
+METABOLISM: Cyborg transhuman 
+PERCEPTION: Enslaved Transhuman Worker
+SIZE:       ~6,5 ft
+ENDURANCE:  Medium 
+HOSTILITY:  Low
 WEAPONS:    Laser cutter, Hydraulic limbs, Obedience implants
 REWARD:     200 FC
 THREAT:     Low-Medium

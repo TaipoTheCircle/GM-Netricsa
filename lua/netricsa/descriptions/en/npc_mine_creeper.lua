@@ -3,7 +3,7 @@ CREEPER FROM THE MINECRAFT OVERWORLD
 
 CLASS:      Creeper
 METABOLISM: Plant-Chemical
-PERCEPTION: Detect by vision
+PERCEPTION: Plant-Gunpowder Creature
 SIZE:       5,5 ft
 ENDURANCE:  Low
 HOSTILITY:  High

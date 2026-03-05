@@ -1,10 +1,10 @@
 COMBINE OVERWATCH SOLDIER ELITE
 
 
-CLASS:      Transhuman Infantry (Elite Unit)
+CLASS:      Combine Overwatch Soldier Elite
 METABOLISM: Augmented Human, Male
-PERCEPTION: Tactical HUD + infrared/thermal systems
-SIZE:       6.2-6.6 ft
+PERCEPTION: Transhuman Infantry (Elite Unit)
+SIZE:       5,9 ft
 ENDURANCE:  Very High
 HOSTILITY:  Extreme
 WEAPONS:    AR2 Pulse Rifle, Energy Balls

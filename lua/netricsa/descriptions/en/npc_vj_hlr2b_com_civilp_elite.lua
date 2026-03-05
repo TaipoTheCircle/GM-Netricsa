@@ -1,10 +1,10 @@
 COMBINE CIVIL PROTECTION ELITE
 
 
-CLASS:      Transhuman Law Enforcement (Elite Unit)
+CLASS:      Combine Civil Protection Elite
 METABOLISM: Heavily Conditioned Human, Male (pre-Overwatch stage)
-PERCEPTION: Enhanced optics + encrypted comms
-SIZE:       6-6.3 ft
+PERCEPTION: Transhuman Law Enforcement (Elite Unit)
+SIZE:       5,9 ft
 ENDURANCE:  Medium-High
 HOSTILITY:  High
 WEAPONS:    Stun Stun-Stick, 9mm Pistol, SMG1, Explosive Barrels, Manhack

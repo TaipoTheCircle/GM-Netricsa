@@ -1,10 +1,10 @@
 COMBINE OVERWATCH SNIPER SOLDIER
 
 
-CLASS:      Transhuman Infantry (Long-Range Specialist)
+CLASS:      Combine Overwatch Sniper Soldier
 METABOLISM: Augmented Human, Male
-PERCEPTION: Enhanced optics + precision targeting
-SIZE:       6.2-6.4 ft
+PERCEPTION: Transhuman Infantry (Long-Range Specialist)
+SIZE:       5,9 ft
 ENDURANCE:  Medium
 HOSTILITY:  Extreme
 WEAPONS:    Combine Sniper Rifle MK2

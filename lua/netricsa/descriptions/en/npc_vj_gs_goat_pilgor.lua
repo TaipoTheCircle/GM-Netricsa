@@ -1,10 +1,10 @@
 PILGOR THE GOAT FROM GOATVILLE
 
 
-CLASS:      Mammal, Ungulate
+CLASS:      Pilgor The Goat
 METABOLISM: Standard goat biology
-PERCEPTION: Normal animal senses
-SIZE:       ~2.5-3 ft at shoulders
+PERCEPTION: Ungulate Mammal
+SIZE:       ~2,5-3 ft at shoulders
 ENDURANCE:  Normal, but strangely durable
 HOSTILITY:  Medium
 WEAPONS:    Headbutt, ragdoll physics, random destruction

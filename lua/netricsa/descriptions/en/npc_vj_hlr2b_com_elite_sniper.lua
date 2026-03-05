@@ -1,10 +1,10 @@
 COMBINE OVERWATCH SNIPER SOLDIER ELITE
 
 
-CLASS:      Transhuman Infantry (Elite Marksman)
+CLASS:      Combine Overwatch Sniper Soldier Elite
 METABOLISM: Heavily Augmented Human, Male
-PERCEPTION: Advanced optics + multi-spectrum targeting
-SIZE:       6.3-6.6 ft
+PERCEPTION: Transhuman Infantry (Elite Marksman)
+SIZE:       5,9 ft
 ENDURANCE:  High
 HOSTILITY:  Extreme
 WEAPONS:    Elite Combine Sniper Rifle MK1

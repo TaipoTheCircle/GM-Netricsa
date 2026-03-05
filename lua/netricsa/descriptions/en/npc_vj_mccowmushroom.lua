@@ -1,9 +1,9 @@
 MOOSHROOM COW MINECRAFT OVERWORLD
 
 
-CLASS:      Wild / Fungal Animal
+CLASS:      Mooshroom Cow
 METABOLISM: Warm-blooded Mammal
-PERCEPTION: Standard Vision + Smell
+PERCEPTION: Wild / Fungal Animal
 SIZE:       5,2 ft
 ENDURANCE:  Average
 HOSTILITY:  Low

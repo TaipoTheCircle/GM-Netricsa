@@ -1,9 +1,9 @@
 COW FROM THE MINECRAFT OVERWORLD
 
 
-CLASS:      Wild / Domestic Animal
+CLASS:      Cow
 METABOLISM: Warm-blooded Mammal
-PERCEPTION: Standard vision and smell
+PERCEPTION: Wild / Domestic Animal
 SIZE:       5,2 ft
 ENDURANCE:  Average
 HOSTILITY:  Low

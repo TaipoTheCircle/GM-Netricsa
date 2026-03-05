@@ -3,7 +3,7 @@ JUVENILE ANTARESIAN SPIDER FROM ANTARES PRIME
 
 CLASS:      Juvenile Antaresian Spider
 METABOLISM: Alien, arachnid
-PERCEPTION: Vibrational, vision, heat, chemical sense
+PERCEPTION: Arachnid Creature
 SIZE:       6,5 ft
 ENDURANCE:  Average
 HOSTILITY:  High

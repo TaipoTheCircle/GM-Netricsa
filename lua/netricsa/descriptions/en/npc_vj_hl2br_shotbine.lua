@@ -1,10 +1,10 @@
-COMBINE OVERWATCH SHOTGUN SOLDIER
+COMBINE OVERWATCH SHOTGUNNER
 
 
-CLASS:      Transhuman Infantry (Close-Quarters Specialist)
+CLASS:      Combine Overwatch Shotgunner
 METABOLISM: Augmented Human, Male
-PERCEPTION: Enhanced auditory + tactical vision
-SIZE:       6.2 ft
+PERCEPTION: Transhuman Infantry (Close-Quarters Specialist)
+SIZE:       5,9 ft
 ENDURANCE:  High
 HOSTILITY:  Extreme
 WEAPONS:    SPAS-12 Shotgun, Frag Grenades

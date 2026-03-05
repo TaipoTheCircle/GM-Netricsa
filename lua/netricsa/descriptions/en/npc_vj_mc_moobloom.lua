@@ -1,9 +1,9 @@
 MOOBLOOM COW FROM THE MINECRAFT OVERWORLD
 
 
-CLASS:      Passive Animal / Rare Cow
+CLASS:      Moobloom Cow
 METABOLISM: Warm-blooded Mammal
-PERCEPTION: Standard vision and smell
+PERCEPTION: Passive Animal / Rare Cow
 SIZE:       5,2 ft
 ENDURANCE:  Average
 HOSTILITY:  Low

@@ -1,10 +1,10 @@
 COMBINE CIVIL PROTECTION
 
 
-CLASS:      Transhuman Law Enforcement (CP / Metropolice)
-METABOLISM: Human, Male (lightly augmented)
-PERCEPTION: Standard vision + radio uplink
-SIZE:       5.9-6.2 ft
+CLASS:      Combine Civil Protection
+METABOLISM: Human, Male
+PERCEPTION: Transhuman Law Enforcement (CP / Metropolice)
+SIZE:       5,9 ft
 ENDURANCE:  Low-Medium
 HOSTILITY:  High
 WEAPONS:    Stun Stun-Stick, 9mm Pistol, SMG1, Explosive Barrels, Manhack
@@ -13,7 +13,7 @@ THREAT:     Low-Medium
 
 DESCRIPTION:
 
-Combine Civil Protection, often referred to as Metropolice or Metro Cops, serve as the first line of enforcement in Combine-occupied cities. They are ordinary human recruits, conditioned and loyal to the Combine hierarchy, granted limited augmentations and equipment to maintain control over the civilian population.
+The Combine Civil Protection, often referred to as Metropolice or Metro Cops, serve as the first line of enforcement in Combine-occupied cities. They are ordinary human recruits, conditioned and loyal to the Combine hierarchy, granted limited augmentations and equipment to maintain control over the civilian population.
 
 Their tasks include patrolling urban zones, enforcing curfews, conducting arrests, and suppressing resistance activity. CP units rely heavily on intimidation, brutality, and the use of their iconic stun Stun-Sticks to subdue citizens. In combat, they function as lightly armed infantry, more dangerous in numbers than as individuals.
 

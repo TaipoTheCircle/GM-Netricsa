@@ -3,7 +3,7 @@ HATCHED ANTARESIAN SPIDER FROM ANTARES PRIME
 
 CLASS:      Hatched Antaresian Spider
 METABOLISM: Alien, Arachnid
-PERCEPTION: Vibration Sensitivity, Vision
+PERCEPTION: Arachnid Creature
 SIZE:       1 ft
 ENDURANCE:  Very Low
 HOSTILITY:  Average

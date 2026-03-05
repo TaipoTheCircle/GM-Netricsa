@@ -1,10 +1,10 @@
-COMBINE OVERWATCH PRISON GUARD
+COMBINE OVERWATCH PRISON SOLDIER
 
 
-CLASS:      Transhuman Infantry (Penal Enforcement Unit)
+CLASS:      Combine Overwatch Prison Soldier
 METABOLISM: Augmented Human, Male
-PERCEPTION: Standard tactical vision + comms link
-SIZE:       6-6,3 ft
+PERCEPTION: Transhuman Infantry (Penal Enforcement Unit)
+SIZE:       5,9 ft
 ENDURANCE:  Medium-High
 HOSTILITY:  Extreme
 WEAPONS:    AR2, SMG1
@@ -13,7 +13,7 @@ THREAT:     Medium
 
 DESCRIPTION:
 
-The Combine Overwatch Prison Guard is a specialized unit assigned to enforce order within Combine-controlled detention facilities, most notably the infamous Nova Prospekt. Stripped of individuality and heavily conditioned for obedience, these soldiers patrol prison blocks, escort prisoners, and suppress riots with ruthless efficiency.
+The Combine Overwatch Prison Soldier is a specialized unit assigned to enforce order within Combine-controlled detention facilities, most notably the infamous Nova Prospekt. Stripped of individuality and heavily conditioned for obedience, these soldiers patrol prison blocks, escort prisoners, and suppress riots with ruthless efficiency.
 
 Their armor is lighter than that of frontline Overwatch units, optimized for maneuvering through corridors and confined spaces. Prison Soldiers are usually armed with AR2 or SMGs.
 

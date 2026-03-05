@@ -1,11 +1,11 @@
 KINGPIN R, ARCHPSION OF XEN
 
 
-CLASS:      Xen, Psionic Entity
-METABOLISM: Unknown (Psionic Essence)
-PERCEPTION: Advanced Psionic Awareness
+CLASS:      Kingpin R, Archpsion Of Xen
+METABOLISM: Psionic Essence
+PERCEPTION: Psionic Entity Of Xen
 SIZE:       12-15 ft
-ENDURANCE:  High (protected by psionic shield)
+ENDURANCE:  High
 HOSTILITY:  Very High
 WEAPONS:    Psionic Blasts, Mind Control, Orange Energy Projectiles, Lightning Strikes (incinerates targets to ash)
 REWARD:     10000 FC
@@ -13,7 +13,7 @@ THREAT:     Extremely High
 
 DESCRIPTION:
 
-Known by the name ArchPsion of Xen, the Kingpin is one of the most terrifying psionic warlords of Xen. Its grotesque form - a massive exposed brain with four eyestalks and a worm-like tail for locomotion - is a living engine of psychic domination and elemental destruction.
+Known by the name Archpsion of Xen, the Kingpin is one of the most terrifying psionic warlords of Xen. Its grotesque form - a massive exposed brain with four eyestalks and a worm-like tail for locomotion - is a living engine of psychic domination and elemental destruction.
 
 The creature is constantly surrounded by a psionic shield, making direct attacks nearly useless until its energy is disrupted. It hurls searing orange plasma bolts and summons arcs of lightning capable of reducing flesh and stone alike to cinders.
 

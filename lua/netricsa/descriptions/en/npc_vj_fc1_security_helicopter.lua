@@ -1,8 +1,8 @@
 UH-60 "BLACKHAWK" SECURITY HELICOPTER FROM THE KRIEGER ARCHIPELAGO
 
 
-CLASS:      Krieger Mercenary UH-60 "Blackhawk" Security Helicopter
-METABOLISM: Aircraft (HP, Jet)
+CLASS:      UH-60 "Blackhawk" Security Helicopter
+METABOLISM: Aircraft
 PERCEPTION: Enemy Aircraft
 SIZE:       ~16,7 ft
 ENDURANCE:  High

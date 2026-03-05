@@ -1,15 +1,15 @@
 ALPHA H.E.C.U. SERGEANT (MELEE SPECIALIST)
 
 
-CLASS:      Alpha Elite Close-Quarters Infantry
-METABOLISM: Human, Male (U.S. Marine Corps, enhanced conditioning)
-PERCEPTION: advanced combat awareness
-SIZE:       ~6.4 ft (heavily armored)
-ENDURANCE:  very high
-HOSTILITY:  extreme
-WEAPONS:    reinforced melee training, combat knives.
+CLASS:      Alpha H.E.C.U. Sergeant (Melee Specialist)
+METABOLISM: Human, Male
+PERCEPTION: Alpha Elite Close-Quarters Infantry
+SIZE:       ~5,9 ft
+ENDURANCE:  Very high
+HOSTILITY:  Extreme
+WEAPONS:    Reinforced melee training, combat knives.
 REWARD:     2200 FC
-THREAT:     severe
+THREAT:     Severe
 
 DESCRIPTION:
 

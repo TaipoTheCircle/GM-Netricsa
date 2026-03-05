@@ -13,7 +13,7 @@ THREAT:     Medium
 
 DESCRIPTION:
 
-The Combine Overwatch Pilot is a specialized combatant responsible for controlling Combine aircraft. Unlike standard soldiers, their primary value lies not in precision shooting, but in controlling airspace and quickly deploying forces.
+The Combine Overwatch Pilot is a specialized combatant responsible for controlling Combine aircraft Unlike standard soldiers, their primary value lies not in precision shooting, but in controlling airspace and quickly deploying forces.
 
 They wear a pilot helmet with an integrated respirator and integrated blue pilot goggles, directly linked to Combine navigation systems. The goggles display altitude, speed, targets, and air defense zones, allowing the pilot to operate even in snowstorms, radio jamming, and complete darkness.
 

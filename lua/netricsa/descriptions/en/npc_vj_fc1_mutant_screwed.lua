@@ -4,7 +4,7 @@ MUTANT BERSERKER (SCREWED) FROM THE KRIEGER ARCHIPELAGO
 CLASS:      Mutant Berserker (Screwed)
 METABOLISM: Intermediate Trigen Mutation
 PERCEPTION: Unstoppable Fighter
-SIZE:       8,1 ft.
+SIZE:       8,1 ft
 ENDURANCE:  Very High
 HOSTILITY:  Absolute
 WEAPONATAL: Bone Blade (Right Hand)

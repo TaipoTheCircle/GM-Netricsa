@@ -1,9 +1,9 @@
 GOAT FROM GOATVILLE
 
 
-CLASS:       Mammal, Ungulate
+CLASS:       Goat
 METABOLISM:  Herbivore (but acts like chaos incarnate)
-PERCEPTION:  Low, unpredictable
+PERCEPTION:  Ungulate Mammal
 SIZE:        ~3 ft at shoulders
 ENDURANCE:   High (immune to most physics damage)
 HOSTILITY:   Chaotic Neutral

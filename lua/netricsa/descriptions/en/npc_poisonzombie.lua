@@ -3,7 +3,7 @@ POISON HEADCRAB ZOMBIE
 
 CLASS:      Headcrab Zombie, Poison
 METABOLISM: parasitic host (multiple headcrabs)
-PERCEPTION: low
+PERCEPTION: Zombified Entity
 SIZE:       7-8 ft
 ENDURANCE:  very high
 HOSTILITY:  very high
