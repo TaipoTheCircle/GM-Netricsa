@@ -5,8 +5,8 @@ CLASS:      Orc Soldier, Gunner
 METABOLISM: Mammal
 PERCEPTION: Primitive warrior race, former Zorgs
 HEIGHT:     6,3 ft
-ENDURANCE:  Very low
-HOSTILITY:  Very low
+ENDURANCE:  Low
+HOSTILITY:  Low
 WEAPONS:    Rocket Laucher GVR-57 MK.4
 REWARD:     20 FC
 THREAT:     Low
