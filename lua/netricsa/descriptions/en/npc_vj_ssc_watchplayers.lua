@@ -1,13 +1,13 @@
 GNAAREYE
 
 
-CLASS:      Mutated Gnaar (Mental Experiment)
+CLASS:      Gnaareye
 METABOLISM: Bio-engineered mutant
-PERCEPTION: Visual (giant central eye with full 180° awareness)
+PERCEPTION: Mutated Gnaar (Mental Experiment)
 SIZE:       ~5 ft diameter
 ENDURANCE:  Medium
 HOSTILITY:  Extreme
-WEAPONS:    Eye-bite (close-range devouring)
+WEAPONS:    Eye-bite 
 REWARD:     700 FC
 THREAT:     High
 
