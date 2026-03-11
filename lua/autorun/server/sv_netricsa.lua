@@ -654,6 +654,10 @@ end)
         ["npc_turok_dilophosaurus"] = true,
         ["npc_vj_ss2_kwongo"] = true,
         ["npc_vj_ssc_custom_spaceship"] = true,
+        ["npc_furnace"] = true,
+        ["npc_preysonic"] = true,
+        ["npc_starved"] = true,
+        ["grenade_helicopter"] = true,
     }
 
     local function AnnounceSpecialNPC(ent)
