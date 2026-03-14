@@ -332,6 +332,20 @@ STYLES = {
         cursor  = "netricsa/cursor_bg_alt21.png",
         color   = Color(250, 250, 251)
      },
+                  Q4CW = {
+        grid    = "netricsa/grid_alt22.png",
+        model   = "netricsa/model_bg_alt22.png",
+        text    = "netricsa/text_bg_alt22.png",
+        mail    = "netricsa/mail_bg_alt22.png",
+        content = "netricsa/content_bg_alt22.png",
+        bg      = "netricsa/bg_netricsa_alt22.png",
+        exit = "netricsa/exit_bg_alt22.png",
+        left     = "netricsa/left_bg_alt22.png",
+        up       = "netricsa/up_bg_alt22.png",
+        score   = "netricsa/score_bg_alt22.png",
+        cursor  = "netricsa/cursor_bg_alt22.png",
+        color   = Color(250, 250, 251)
+     },
 }
 
 local STYLE_FILE = "netricsa_style.txt"
