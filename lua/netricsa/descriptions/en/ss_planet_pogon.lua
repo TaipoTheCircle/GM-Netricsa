@@ -8,7 +8,7 @@ MOONS:        Unknown
 TERRAIN:      High mountain ranges, snowy plains, icy plateaus
 LOCATION:     Somewhere between the planets Stroggos and Earth
 NATIVE RACES: Strogg (garrison)
-ALLEGIANCE:   Strogg Empire
+ALLIANCE:     Strogg Empire
 LOCATIONS:    General Faron's Base, Mountain Passes, Snowy Plains
 
 DESCRIPTION:
