@@ -2,7 +2,7 @@ PRIMITIVE BRUTE FROM M'DIGBO
 
 
 CLASS:      Primitive Brute
-METABOLISM: Mammal primitive being
+METABOLISM: Mammal
 PERCEPTION: Primitive being
 SIZE:       6,8 ft
 ENDURANCE:  Medium
