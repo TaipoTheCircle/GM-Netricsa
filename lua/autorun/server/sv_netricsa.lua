@@ -129,6 +129,7 @@ if SERVER then
         ["monster_scientist_hlaz"] = true,
         ["npc_turok_brachiosaurus"] = true,
         ["npc_turok_hadrosaur"] = true,
+        ["npc_vj_ssc_custom_bighead_"] = true,
     }
 
     -- 🔹 ПРОСТАЯ ФУНКЦИЯ ПРОВЕРКИ - ВРАГ ЛИ NPC
@@ -658,6 +659,7 @@ end)
         ["npc_preysonic"] = true,
         ["npc_starved"] = true,
         ["grenade_helicopter"] = true,
+        ["npc_vj_ssc_custom_bighead_"] = true,
     }
 
     local function AnnounceSpecialNPC(ent)
