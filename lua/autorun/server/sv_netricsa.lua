@@ -660,6 +660,7 @@ end)
         ["npc_starved"] = true,
         ["grenade_helicopter"] = true,
         ["npc_vj_ssc_custom_bighead_"] = true,
+        ["npc_vj_ss_xbox_devil"] = true,
     }
 
     local function AnnounceSpecialNPC(ent)
