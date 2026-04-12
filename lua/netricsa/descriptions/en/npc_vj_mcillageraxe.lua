@@ -23,7 +23,7 @@ The Vindicator's main characteristic is incredible aggression and speed. He runs
 
 Unlike their Forsworn relatives, Vindicators can break down wooden doors during raids on normal and hard difficulties (like zombies, only faster).
 
-Survival tips:
+TIPS:
 
 - If you're unarmored, don't approach. One axe strike can be fatal.
 - Use a bow or crossbow. Keeping your distance against a Vindicator is the best strategy.
