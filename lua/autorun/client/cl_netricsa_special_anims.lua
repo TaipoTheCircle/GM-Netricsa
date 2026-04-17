@@ -292,6 +292,12 @@ SPECIAL_ANIMATIONS = {
                                                                                             ["npc_vj_ssc_mancubus"] = {
         sequence = "Idle", 
         fallback = "Idle"   
+        
+    },
+                                                                                                    ["npc_vj_ssc_mancubus_retro_scrapjack"] = {
+        sequence = "Idle", 
+        fallback = "Idle"   
+        
     },
     SPECIAL_BODYGROUPS = {
     ["npc_vj_ss2_turret_machinegun"] = {

@@ -9,7 +9,7 @@ ENDURANCE:  Medium
 HOSTILITY:  Medium
 WEAPONS:    Two Flamethrowers
 REWARD:     3000 FC
-DANGER:     Medium
+THREAT:     Medium
 
 DESCRIPTION:
 
