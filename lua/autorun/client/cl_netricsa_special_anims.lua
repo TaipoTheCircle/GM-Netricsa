@@ -289,6 +289,10 @@ SPECIAL_ANIMATIONS = {
         sequence = "standaim_gren_frag1", 
         fallback = "Idle"   
     },
+                                                                                            ["npc_vj_ssc_mancubus"] = {
+        sequence = "Idle", 
+        fallback = "Idle"   
+    },
     SPECIAL_BODYGROUPS = {
     ["npc_vj_ss2_turret_machinegun"] = {
         { group = 1, value = 0 } -- 2-й bodygroup (Rotate Mechanism) установить в 1
