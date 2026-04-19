@@ -22,4 +22,4 @@ Destroyers are equipped with plasma cannons that fire energy blasts with primiti
 TIPS:
 
 - Unlike most of Mental's minions, they will try to keep a distance when close to you.
-- Their projectiles have minor homing capabilities - stay away from them.
+- Their plasma rifle shots have little homing ability, stay away from their projectiles.

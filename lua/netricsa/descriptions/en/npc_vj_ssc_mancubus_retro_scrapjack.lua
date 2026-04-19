@@ -13,7 +13,7 @@ THREAT:     High
 
 DESCRIPTION:
 
-A demon personifying human imperfection and greed, gluttony, and idleness. It has incredibly thick skin, massive elephantine legs, and a small head. For the purpose of destroying and roasting its victims, the Mancubus has two flamethrowers implanted in its forearms, firing fireballs.
+A demon personifying human imperfection and greed, gluttony, and idleness. It has incredibly thick skin, massive elephantine legs, and a small head. In order to destroy and explode victims, two RPGs that fire Rockets are implanted in the forearms of the mancubus.
 
 Those Mancubuses killed in the most horrific ways were re-fused, turning scarlet. Their skin takes on the color of dried blood, and their essence changes. Mental, always looking for ways to strengthen his Horde, bought several dozen of these creatures from the Lord of Hell (along with Zombie Soldiers and other undead) and sent them for repurposing.
 

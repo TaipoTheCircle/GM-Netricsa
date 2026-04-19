@@ -21,7 +21,7 @@ But after the new animal was born, unexpected problems arose: the brain in each 
 
 Ultimately, the dog posed no danger, merely a treasured "beanbag" in Mental's life, as the conflict between the heads interfered with his primary goal—pain and anger. Therefore, the cunning creator chose to remove the brains from all the heads altogether.
 
-And to ensure the little beast wouldn't go to waste, it was instinctively instilled with a simple task: attack anything that moves (note, "anything" is n).
+And to ensure the little beast wouldn't go to waste, it was instinctively instilled with a simple task: attack anything that moves (note, "anything" is You).
 
 Cerberus, like a small bull, rams the enemy. And when the enemy, repelled by the dog, comes to its senses, all three of the creature's heads try to tear off a tasty morsel.
 

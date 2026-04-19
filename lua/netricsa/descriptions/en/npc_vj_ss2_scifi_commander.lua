@@ -21,7 +21,7 @@ Mental recruited orcs into his armies; most ended up in Mental's military factor
 
 Orcs who graduated with honors from the academy were promoted to commanders. They wear composite armor, which provides greater protection than standard orc armor, and use two types of weapons: a plasma rifle and pulse grenades.
 
-They usually lead groups of other orcs and are rarely seen alone. Some commanders also use gyrocopters, which allow them to fly, increasing their mobility.
+They typically lead groups of other orcs and are rarely alone. Some commanders also use gyrocopters, which allow them to fly, as well as lizard-like mounts, which increase their mobility.
 
 TIPS:
 
