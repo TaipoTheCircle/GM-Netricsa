@@ -176,6 +176,10 @@ SPECIAL_ANIMATIONS = {
         sequence = "Idle", 
         fallback = "Idle"   
     },
+                                                                ["npc_vj_ssc_chainsawfreakw"] = {
+        sequence = "Idle", 
+        fallback = "Idle"   
+    },
                                                                 ["npc_vj_ssc_chainsawfreak_small"] = {
         sequence = "Idle", 
         fallback = "Idle"   
@@ -301,6 +305,11 @@ SPECIAL_ANIMATIONS = {
     },
                                                                                                         ["npc_vj_ssc_mancubus_behemoth"] = {
         sequence = "Idle", 
+        fallback = "Idle"   
+        
+    },
+                                                                                                            ["npc_vj_ss2_dropship_mental"] = {
+        sequence = "doors_opening", 
         fallback = "Idle"   
         
     },
