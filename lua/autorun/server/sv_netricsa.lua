@@ -661,6 +661,8 @@ end)
         ["grenade_helicopter"] = true,
         ["npc_vj_ssc_custom_bighead_"] = true,
         ["npc_vj_ss_xbox_devil"] = true,
+        ["npc_vj_sw64_cryptid"] = true,
+        ["npc_vj_sw64_blotspider"] = true,
     }
 
     local function AnnounceSpecialNPC(ent)
