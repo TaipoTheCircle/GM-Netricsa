@@ -23,5 +23,5 @@ TIPS:
 
 - The spotted pig's main asset is her exceptional cuteness.
 - Breed these pigs to obtain offspring with the same cheerful coloring.
-- The spotted pig looks great in a pen on a grassy plain—her natural habitat.
+- The spotted pig looks great in a pen on a grassy plain-her natural habitat.
 - If you're searching for sweets across the plains in the company of spotted pigs, you've already reached Zen.

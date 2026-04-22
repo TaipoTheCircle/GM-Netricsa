@@ -3,7 +3,7 @@ DAY TRAIN TRIP, TIME TO GO
 
 Sam, we're incredibly lucky to be here at all. This train is a godsend, even though it's hanging on, as the local engineers say, "by strings and prayers." Hop on, let's go see what's here.
 
-The train is everything. It pulls a bunch of cars: three compartment cars, six reserved seats, and one empty one, for variety. Inside, you can open the doors, turn on the lights, and even climb on the roof—ladders included.
+The train is everything. It pulls a bunch of cars: three compartment cars, six reserved seats, and one empty one, for variety. Inside, you can open the doors, turn on the lights, and even climb on the roof-ladders included.
 
 The main lever in the driver's cabin is the stop/start switch, so you decide when to go and when to get out and explore the surroundings. By the way, there's more than one route: there are three interchangeable loops, so the scenery will change.
 

@@ -19,7 +19,7 @@ To perpetuate the memory of these famous captains, the planet was specially equi
 
 The planet's main attraction and symbol is a colossal sixty-meter-tall stone statue depicting the Three Captains. This monument is visible from afar and serves as a landmark for all those arriving on the planet.
 
-Next to the statue is the Cosmonautics Museum—a unique collection of artifacts, documents, and evidence from the era of great space exploration. The museum was built with voluntary donations collected from eighty planets in the star system, making it a truly galactic landmark.
+Next to the statue is the Cosmonautics Museum-a unique collection of artifacts, documents, and evidence from the era of great space exploration. The museum was built with voluntary donations collected from eighty planets in the star system, making it a truly galactic landmark.
 
 KEY LOCATIONS:
 

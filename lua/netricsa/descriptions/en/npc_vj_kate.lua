@@ -17,7 +17,7 @@ She was once an ordinary girl, exploring the woods behind her house with her fri
 
 As children, Kate and Carl encountered Slenderman in the woods. Carl repressed the horror, but Kate, apparently, always remembered.
 
-Years later, they returned to the woods to confirm or deny their childhood fears. Carl experienced severe hallucinations, and Kate disappeared. She was found unconscious in the woods, with a broken camera and a stack of strange drawings. Two weeks in the hospital—and then a return home that wasn't a return to normal life.
+Years later, they returned to the woods to confirm or deny their childhood fears. Carl experienced severe hallucinations, and Kate disappeared. She was found unconscious in the woods, with a broken camera and a stack of strange drawings. Two weeks in the hospital-and then a return home that wasn't a return to normal life.
 
 Then came her mother's death. She tried to sell the house and leave.
 

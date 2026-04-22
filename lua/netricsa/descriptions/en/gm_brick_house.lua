@@ -23,15 +23,15 @@ On the right wall is a clock. Does it work? Is it ticking? Does it ever tell tim
 
 There's also a cabinet with two guns. But don't worry, Sam. They're nailed down. Someone came, hung the guns, and secured them so you can't move them. As a warning. Or as a taunt.
 
-Supplies—that's where the gold is:
+Supplies-that's where the gold is:
 
 And here's where the fun begins. Someone has taken a very careful approach to survival:
 
-"Sweet potatoes"—a staple of the diet.
+"Sweet potatoes"-a staple of the diet.
 
-"Apples—the world's finest." The best apples in the world. It says so.
+"Apples-the world's finest." The best apples in the world. It says so.
 
-"Sofia's microwave ovens"—112 count. Sofia's Microwave Meals. 112 pieces. Sofia is either a logistics genius or just a real cook.
+"Sofia's microwave ovens"-112 count. Sofia's Microwave Meals. 112 pieces. Sofia is either a logistics genius or just a real cook.
 
 "Jabber's Assorted Snacks" - assorted snacks from Jabber. Something for every taste.
 

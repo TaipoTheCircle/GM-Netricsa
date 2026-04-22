@@ -21,6 +21,6 @@ If you put a giant in a minecart, he will float above it like a ghost, never tou
 
 TIPS:
 
-- To kill him, you need a long-range weapon. Only shoot at the legs—hits to the body and above don't count.
+- To kill him, you need a long-range weapon. Only shoot at the legs-hits to the body and above don't count.
 - The giant doesn't burn in the sun, doesn't drown, and doesn't respond to zombie summons.
 - Don't try to leash him. It won't work.

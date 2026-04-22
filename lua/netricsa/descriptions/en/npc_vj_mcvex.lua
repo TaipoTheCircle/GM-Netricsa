@@ -19,7 +19,7 @@ The Vex appears as a small, gray, winged wraith armed with an iron sword. When i
 
 The Vex has three key features that make it one of the most dangerous mobs:
 
-The Vex can fly through any block—dirt, stone, obsidian, and even bedrock. You can't hide from it behind cover.
+The Vex can fly through any block-dirt, stone, obsidian, and even bedrock. You can't hide from it behind cover.
 
 When the Vex attacks, it emits a piercing sound, its body glows red, and it lunges at its target.
 

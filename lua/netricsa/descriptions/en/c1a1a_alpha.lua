@@ -1,7 +1,7 @@
 BLACK MESA ALIEN CHAMBERS, A FIERCE ZOO
 
 
-Sam, remember what I said about "maybe it'll be okay"? Forget it. The resonance cascade is already here. We're too late. Or maybe we arrived on time—it depends on how you feel about a situation where there's ruins all around and an alien hissing coming from the vents.
+Sam, remember what I said about "maybe it'll be okay"? Forget it. The resonance cascade is already here. We're too late. Or maybe we arrived on time-it depends on how you feel about a situation where there's ruins all around and an alien hissing coming from the vents.
 
 We took the elevator down and found ourselves in a sector the locals apparently called the "zoo". This is where they kept aliens. In cells. For study, for analysis, for a tick in the report. And now the cells are open. And the scientists who were poking headcrabs with chopsticks yesterday are locking themselves in these same cages today, hoping the concrete walls and bars will save them from what they unleashed.
 

@@ -13,7 +13,7 @@ LOCATIONS:    Lowland swamps, Abandoned base, Vetvetia city, Giant cartoon-like 
 
 DESCRIPTION:
 
-A unique planet where all life has reached colossal proportions. Gigantic swamps with putrid water, forests with trees soaring to the sky and obscuring the light with their crowns, grass as tall as multi-story buildings, enormous mushrooms and insects—every landscape element here is overwhelming in its scale.
+A unique planet where all life has reached colossal proportions. Gigantic swamps with putrid water, forests with trees soaring to the sky and obscuring the light with their crowns, grass as tall as multi-story buildings, enormous mushrooms and insects-every landscape element here is overwhelming in its scale.
 
 The planet is believed to be a partially formed gas giant, but natural terraforming has made it habitable. The climate is similar to Earth's, but the air density is lower, allowing giant life forms to exist without being crushed by their own weight.
 

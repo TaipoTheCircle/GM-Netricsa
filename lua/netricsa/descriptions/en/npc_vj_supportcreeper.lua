@@ -27,7 +27,7 @@ If its target dies, it searches for another. If there are no targets left, it si
 
 Despite its neutral nature, the Support Creeper can be dangerous.
 
-If it drops below half health, it stops running and begins behaving like a normal creeper—hissing and exploding.
+If it drops below half health, it stops running and begins behaving like a normal creeper-hissing and exploding.
 
 Like a normal creeper, it can become charged if struck by lightning. This increases all its effects to level II, making it and its allies even more deadly.
 

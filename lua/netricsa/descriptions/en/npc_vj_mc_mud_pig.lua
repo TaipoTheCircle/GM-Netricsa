@@ -17,7 +17,7 @@ This is not a separate species, but a state of mind. Any ordinary pig can become
 
 After the procedure, almost her entire body is covered in dirt, especially her legs, and a flower sits on her head, mocking cleanliness.
 
-Dirt can be washed off a pig in two ways: lure her into a lake or other body of water, or simply douse her with a bucket of water. After this, the pig returns to its normal, pink, and clean appearance—but not for long. If there's dirt nearby, she'll definitely return and repeat the procedure. Apparently, they enjoy it.
+Dirt can be washed off a pig in two ways: lure her into a lake or other body of water, or simply douse her with a bucket of water. After this, the pig returns to its normal, pink, and clean appearance-but not for long. If there's dirt nearby, she'll definitely return and repeat the procedure. Apparently, they enjoy it.
 
 TIPS:
 

@@ -19,7 +19,7 @@ Mental bought them from the Lord of Hell, along with Zombie Soldiers and other u
 
 The Behemoth's eyes aren't green like those of regular Mancubuses, but bright red, burning with the fire of hatred.
 
-His skin has a blue tint, but instead of red blood, a toxic green substance flows from his veins—a sure sign of a failed ritual.
+His skin has a blue tint, but instead of red blood, a toxic green substance flows from his veins-a sure sign of a failed ritual.
 
 Instead of built-in flamethrowers, the Behemoth has rocket launchers attached to its elbows, replacing its limbs. Unlike the regular Mancubus, which fires fireballs, the Behemoth fires two rockets at a time. These rockets fly until the target is destroyed.
 

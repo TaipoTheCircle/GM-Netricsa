@@ -21,7 +21,7 @@ Appearance: A crossbowman differs from a swordsman only in their weapons and tac
 
 Unlike the Vindicator bandits, crossbowmen don't preload their weapons; they reload only after they enter combat.
 
-Crossbowmen live in the same places as other folk—in crimson forests, Nether wastelands, and especially in bastions, where they guard treasures from any intruders. They fear the blue fire of souls, zombified brethren, and zoglins, but this cowardice instantly vanishes as soon as they spot an enemy.
+Crossbowmen live in the same places as other folk-in crimson forests, Nether wastelands, and especially in bastions, where they guard treasures from any intruders. They fear the blue fire of souls, zombified brethren, and zoglins, but this cowardice instantly vanishes as soon as they spot an enemy.
 
 If a group of crossbowmen manages to bring down a large target, they gather at the scene of the kill and hold a small celebration with characteristic grunting cries. They especially love to dance after a successful hoglin hunt.
 

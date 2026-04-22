@@ -19,6 +19,6 @@ The Harem of Xerxes is twenty-two small rooms where women and children could hav
 
 The Tomb of Darius III is the unfinished and naturally devastated tomb of the last king of the dynasty, who fled from Alexander and was killed by his own people.
 
-This city was not just a capital, but a symbol of an empire stretching from Egypt to India. Craftsmen from all over the world—Babylonians, Egyptians, Ionians, and Assyrians—built it. However, slave labor was not used here, a rarity at the time. The city had a complex water supply and sewerage system. Alexander burned it to the ground—either in a drunken stupor, incited by the Athenian courtesan Thais, or deliberately, as an act of revenge for the burning of the Acropolis.
+This city was not just a capital, but a symbol of an empire stretching from Egypt to India. Craftsmen from all over the world-Babylonians, Egyptians, Ionians, and Assyrians-built it. However, slave labor was not used here, a rarity at the time. The city had a complex water supply and sewerage system. Alexander burned it to the ground-either in a drunken stupor, incited by the Athenian courtesan Thais, or deliberately, as an act of revenge for the burning of the Acropolis.
 
 Priceless copies of the Avesta, written in gold ink on ox hides, perished in the fire. After this, the city lost its significance, and Istakhr, the spiritual center of Zoroastrianism, grew up nearby. The ruins of Persepolis are now a UNESCO World Heritage Site.

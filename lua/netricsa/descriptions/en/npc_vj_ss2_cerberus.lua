@@ -19,7 +19,7 @@ Cerberus was created thanks to Mental's unhealthy interest in Greek mythology. A
 
 But after the new animal was born, unexpected problems arose: the brain in each head ordered different tasks from the rest of the body.
 
-Ultimately, the dog posed no danger, merely a treasured "beanbag" in Mental's life, as the conflict between the heads interfered with his primary goal—pain and anger. Therefore, the cunning creator chose to remove the brains from all the heads altogether.
+Ultimately, the dog posed no danger, merely a treasured "beanbag" in Mental's life, as the conflict between the heads interfered with his primary goal-pain and anger. Therefore, the cunning creator chose to remove the brains from all the heads altogether.
 
 And to ensure the little beast wouldn't go to waste, it was instinctively instilled with a simple task: attack anything that moves (note, "anything" is You).
 

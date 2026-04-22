@@ -15,7 +15,7 @@ DESCRIPTION:
 
 A harsh, rocky desert world located in the Ferra sector of the Outer Rim Territories. During the Clone Wars, the planet was the site of a fierce battle between the Galactic Republic and the Confederacy of Independent Systems, when the Republic fleet fell into a trap set by General Grievous. The wreckage of Republic ships, including Acclamator-class cruisers, still litter the surface, a reminder of that battle.
 
-During the Jedi Wars, it became the last stronghold of the Alliance—the resistance formed by Queen Mothma after the fall of Yavin IV. Hypori is home to the last Alliance city, sheltering surviving Jedi, refugees, and resistance forces. It houses Queen Mothma's chambers, the Grand Ballroom, and a planetary defense system designed by Jaden Korr himself.
+During the Jedi Wars, it became the last stronghold of the Alliance-the resistance formed by Queen Mothma after the fall of Yavin IV. Hypori is home to the last Alliance city, sheltering surviving Jedi, refugees, and resistance forces. It houses Queen Mothma's chambers, the Grand Ballroom, and a planetary defense system designed by Jaden Korr himself.
 
 The city was built with a potential siege in mind, but its defenses were not prepared for a full-scale invasion. When a Sith fleet, commanded by a Sith Lord of the Kel Dor species, reaches Hypori's orbit, the battle for the Alliance's last stronghold begins. The crash of a Sith command ship causes catastrophic damage to the city, but this event proves to be a turning point in the war.
 

@@ -9,7 +9,7 @@ The landscape has undergone significant changes. Civilization is advancing:
 
 A fourth car. Now there are four. It also has no wheels, but the group has become more crowded. They park as best they can.
 
-Brick garage. A full-fledged garage of the same red brick has sprung up behind the house. There's no door—a family tradition, apparently.
+Brick garage. A full-fledged garage of the same red brick has sprung up behind the house. There's no door-a family tradition, apparently.
 
 Inside is a mechanic's sacred place: a wrench and an engine lie neatly on a wooden table. Not nailed down, not screwed down. Just lying there.
 

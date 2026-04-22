@@ -15,7 +15,7 @@ DESCRIPTION:
 
 No one knows where they came from, what their name is, or why they burn. All we know is that they are black boars engulfed in flames, and they want to kill you.
 
-In appearance, these creatures resemble Sirian Were-Bulls—massive bodies, the same frantic movements, the same uncontrollable rage.
+In appearance, these creatures resemble Sirian Were-Bulls-massive bodies, the same frantic movements, the same uncontrollable rage.
 
 Destroying ??? is possible, but it takes effort. They are very resilient, run fast, and do not react to normal attacks.
 

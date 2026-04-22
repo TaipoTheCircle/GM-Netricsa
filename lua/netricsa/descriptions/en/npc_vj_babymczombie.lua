@@ -17,9 +17,9 @@ This is proof that it's not about size, but how you use it. Small, fast, and utt
 
 In appearance, the Baby Zombie looks like a miniature version of a regular zombie, but with a couple of differences: it doesn't mature over time, never grows, and remains in this tiny body forever. So small that it can squeeze through any crack: fences, half-blocks, bars, holes in walls that even a resident couldn't fit through. Zombie Babies can ride on a chicken, forming the famous "Chicken Jockey."
 
-It runs faster than adults, doesn't slow down when walking, and attacks continuously. During the day, unlike adults, it doesn't burn in the sun—its small body somehow manages to withstand sunlight. It doesn't sink in water, although it can't swim or turn into a drowned creature.
+It runs faster than adults, doesn't slow down when walking, and attacks continuously. During the day, unlike adults, it doesn't burn in the sun-its small body somehow manages to withstand sunlight. It doesn't sink in water, although it can't swim or turn into a drowned creature.
 
-In combat, Zombie Babies exploit their small size and speed. They jump, circle around their targets, flank them, and attack from behind. Hitting them is difficult—sword strikes often go overhead, while arrows miss. If armed with a sword, the damage is even greater, and their size prevents standard distance-keeping tactics.
+In combat, Zombie Babies exploit their small size and speed. They jump, circle around their targets, flank them, and attack from behind. Hitting them is difficult-sword strikes often go overhead, while arrows miss. If armed with a sword, the damage is even greater, and their size prevents standard distance-keeping tactics.
 
 Unlike adult zombies, the hatchling never shows interest in villagers and doesn't try to break down doors. Its only goal is prey.
 

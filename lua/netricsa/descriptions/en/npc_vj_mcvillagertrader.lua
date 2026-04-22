@@ -17,9 +17,9 @@ A mysterious figure in a blue hooded robe, whose origins remain a mystery even t
 
 The Trader's appearance is noticeably different from that of ordinary villagers. Instead of traditional clothing, he wears a long blue robe with a hood that conceals his face, and a cape of the same color.
 
-On every journey, the Trader is accompanied by two Trader llamas, tethered to him by leashes. These hardy animals not only carry the load but also protect their master: if the Trader is hit, the llamas immediately begin spitting at the offender. The llamas themselves can be tamed after their master's death—just wait until they calm down.
+On every journey, the Trader is accompanied by two Trader llamas, tethered to him by leashes. These hardy animals not only carry the load but also protect their master: if the Trader is hit, the llamas immediately begin spitting at the offender. The llamas themselves can be tamed after their master's death-just wait until they calm down.
 
-Unlike villagers, the Trader doesn't buy items—he only sells them. His inventory is random and includes rare goods that are difficult to obtain.
+Unlike villagers, the Trader doesn't buy items-he only sells them. His inventory is random and includes rare goods that are difficult to obtain.
 
 The Trader's main trick is survival. At nightfall or upon seeing a hostile mob, he drinks an invisibility potion, becoming almost invisible, although the llama leashes are still visible. At dawn, he washes off the effect with milk. If a zombie kills the Trader, he will not turn into a zombie villager.
 

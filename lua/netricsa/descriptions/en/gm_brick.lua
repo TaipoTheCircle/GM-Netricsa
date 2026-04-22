@@ -5,7 +5,7 @@ Sam, we found it. The place where the architect finally stopped being shy and ju
 
 While previous versions were about horizontal expansion (houses, garages, swimming pools), here everything has gone vertical. Seriously.
 
-It's all jumbled into a vertical structure. It's not a house, not a tower, but more like a brick labyrinth. Walls, platforms, walkways—all made of brick. And stairs everywhere. Lots of stairs.
+It's all jumbled into a vertical structure. It's not a house, not a tower, but more like a brick labyrinth. Walls, platforms, walkways-all made of brick. And stairs everywhere. Lots of stairs.
 
 Main Mechanics:
 

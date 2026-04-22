@@ -23,5 +23,5 @@ TIPS:
 
 - This pig's value lies in its appearance.
 - Breed these pigs to obtain offspring with the same unusual coloring.
-- Riding a saddle, this pig looks especially striking—its pink legs contrast with its dark body.
+- Riding a saddle, this pig looks especially striking-its pink legs contrast with its dark body.
 - If you encounter one in the wild, consider yourself lucky.

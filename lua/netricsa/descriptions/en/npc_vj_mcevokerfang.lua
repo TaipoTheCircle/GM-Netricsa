@@ -17,11 +17,11 @@ This is not a weapon, not a tool, and not a living creature in the traditional s
 
 When the Evoker prepares to attack, their hands begin to glow purple. A low, trumpet-like sound is heard, and a split second later, a row of spiked fangs emerges from the ground right in front of you. They close in, deal damage, and then vanish as if they were never there.
 
-There are two types of fangs. If you're far from the Evoker, he'll summon 16 fangs in a line that extends directly toward your position. If you dare get closer than three blocks, the Sorcerer will change tactics: two rings of fangs will appear around him—an inner ring of five and an outer ring of eight. This attack leaves you no room to maneuver if you're within the attack radius.
+There are two types of fangs. If you're far from the Evoker, he'll summon 16 fangs in a line that extends directly toward your position. If you dare get closer than three blocks, the Sorcerer will change tactics: two rings of fangs will appear around him-an inner ring of five and an outer ring of eight. This attack leaves you no room to maneuver if you're within the attack radius.
 
 The fangs deal 6 magic damage on any difficulty, meaning they completely ignore your armor. Your only defense is the "Protection" enchantment, which can absorb some of the magic. The fangs don't damage other Illagers, so the Evoker can swing through a crowd of minions without fear of hitting them.
 
-If you're fighting in a narrow corridor or cave, the fangs may not appear—they require a solid surface to generate. However, in an open field, they'll hit you anywhere.
+If you're fighting in a narrow corridor or cave, the fangs may not appear-they require a solid surface to generate. However, in an open field, they'll hit you anywhere.
 
 TIPS:
 

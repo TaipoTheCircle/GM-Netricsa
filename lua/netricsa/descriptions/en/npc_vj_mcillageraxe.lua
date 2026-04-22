@@ -19,7 +19,7 @@ These dark figures first appeared as guards of the Forest Mansions, where they s
 
 The Vindicator wears a dark jacket, pants, and boots. He has a serious and angry expression, reminiscent of his kinship with the villagers. When idle, he stands with his arms crossed over his chest, just like his peace-loving cousin. But as soon as he spots an enemy (you or a villager), he draws his iron axe and charges.
 
-The Vindicator's main characteristic is incredible aggression and speed. He runs toward his target faster than the player's walking speed, delivering devastating blows with his axe. This axe isn't just dangerous—it can penetrate shields, disabling them for 5 seconds.
+The Vindicator's main characteristic is incredible aggression and speed. He runs toward his target faster than the player's walking speed, delivering devastating blows with his axe. This axe isn't just dangerous-it can penetrate shields, disabling them for 5 seconds.
 
 Unlike their Forsworn relatives, Vindicators can break down wooden doors during raids on normal and hard difficulties (like zombies, only faster).
 

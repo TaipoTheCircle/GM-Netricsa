@@ -15,7 +15,7 @@ DESCRIPTION:
 
 The Imperial Palace in the heart of Cyrodiil is guarded by the elite of the elite - the Paladins of the Imperial Guard. While ordinary guards patrol the streets of the Imperial City, these warriors in ceremonial armor protect the residence of the Emperor himself and the halls of the Elders.
 
-Their appearance commands respect. A full set of armor, including a helmet, boots, greaves, and bracers, creates the image of a steadfast guardian of the law. They invariably wield high-quality weapons—a longsword of fine steel and a sturdy Imperial Guard shield.
+Their appearance commands respect. A full set of armor, including a helmet, boots, greaves, and bracers, creates the image of a steadfast guardian of the law. They invariably wield high-quality weapons-a longsword of fine steel and a sturdy Imperial Guard shield.
 
 These guards are generally friendly and greet visitors, reminding them of the rules of etiquette: "Please behave quietly out of respect for the Imperial Palace" or "Remember, trespassing into the Imperial Palace is a serious offense. Do not go beyond the first and second floors." They are willing to provide directions to various parts of the city and point out guilds and taverns.
 

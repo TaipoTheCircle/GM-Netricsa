@@ -27,4 +27,4 @@ TIPS:
 - Don't let yourself be surrounded. The Mother Spider and her brood will try to pin you down.
 - Use weapons of mass destruction. One well-aimed sword strike with the Blast Wave spell or a well-placed Harm Potion can destroy several hatchlings at once.
 - Be careful at night. The Mother Spider is only found at night and always with her brood.
-- The reward for killing the Mother Spider is small—a few threads and a rare spider eye—but the safety of the cleared area is worth it.
+- The reward for killing the Mother Spider is small-a few threads and a rare spider eye-but the safety of the cleared area is worth it.

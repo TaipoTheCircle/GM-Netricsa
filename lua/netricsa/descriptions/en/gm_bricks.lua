@@ -5,7 +5,7 @@ Sam, we've ended up in a place that can hardly be called a location.
 
 It's more like a glitch in the matrix, a geometric paradox, or just someone's really weird joke.
 
-Imagine a single red brick room. Roofless, windowless, doorless. The walls rise, but there's no sky above them—just gray infinity.
+Imagine a single red brick room. Roofless, windowless, doorless. The walls rise, but there's no sky above them-just gray infinity.
 
 The room is surrounded by emptiness. Not darkness, but emptiness. No sound, no meaning.
 
@@ -13,11 +13,11 @@ What's here:
 
 Brick walls are the only object in this universe. Red, rough, real. You can touch them, knock on them, even try to break them. But why? There's nothing behind them.
 
-An open ceiling—or rather, the absence of one. The walls drop off, and beyond lies endless darkness. No source, no direction. It just is.
+An open ceiling-or rather, the absence of one. The walls drop off, and beyond lies endless darkness. No source, no direction. It just is.
 
 The floor is ordinary brick. You can stand there.
 
-The void beyond the walls—if you somehow manage to escape (and you can, Sam), there's nothing there. Nothing at all. Just you and an endless void.
+The void beyond the walls-if you somehow manage to escape (and you can, Sam), there's nothing there. Nothing at all. Just you and an endless void.
 
 And what's down there?
 
@@ -25,7 +25,7 @@ And here's where it gets interesting.
 
 If you jump down (and you definitely will, I know you), infinity begins.
 
-You fall, fall, fall. The walls of the room have long since disappeared from view. Only black light surrounds. A minute, an hour, a day—nothing changes.
+You fall, fall, fall. The walls of the room have long since disappeared from view. Only black light surrounds. A minute, an hour, a day-nothing changes.
 
 Just falling. To nowhere. Without stopping. Without a bottom. Without hope of ever touching a solid surface.
 

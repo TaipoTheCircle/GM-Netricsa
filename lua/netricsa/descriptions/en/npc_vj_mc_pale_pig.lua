@@ -19,7 +19,7 @@ Pale pigs behave no differently from regular pigs: they wander across snowy plai
 
 TIPS:
 
-- Look for Pale pigs in snowy biomes—they feel right at home there.
+- Look for Pale pigs in snowy biomes-they feel right at home there.
 - Their lack of pigment doesn't affect their usefulness: they can be bred, mounted, and used as a food source.
-- Pale pigs are excellent camouflage in the snow—be careful not to miss them.
+- Pale pigs are excellent camouflage in the snow-be careful not to miss them.
 - If you breed a Pale pig with other varieties, the piglets can have any color from the parents.

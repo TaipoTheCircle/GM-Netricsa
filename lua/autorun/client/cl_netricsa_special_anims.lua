@@ -314,6 +314,11 @@ SPECIAL_ANIMATIONS = {
         
     },
 
+                                                                                                                ["npc_vj_ss2_fido"] = {
+        sequence = "run", 
+        fallback = "Idle"   
+        
+    },
     SPECIAL_BODYGROUPS = {
     ["npc_vj_ss2_turret_machinegun"] = {
         { group = 1, value = 0 } -- 2-й bodygroup (Rotate Mechanism) установить в 1
