@@ -130,6 +130,8 @@ if SERVER then
         ["npc_turok_brachiosaurus"] = true,
         ["npc_turok_hadrosaur"] = true,
         ["npc_vj_ssc_custom_bighead_"] = true,
+        ["npc_vj_ss2_dino_s"] = true,
+        ["npc_vj_ss2_turret_plasma"] = true,
     }
 
     -- 🔹 ПРОСТАЯ ФУНКЦИЯ ПРОВЕРКИ - ВРАГ ЛИ NPC
@@ -663,6 +665,8 @@ end)
         ["npc_vj_ss_xbox_devil"] = true,
         ["npc_vj_sw64_cryptid"] = true,
         ["npc_vj_sw64_blotspider"] = true,
+        ["npc_vj_ss2_dino_s"] = true,
+        ["npc_vj_ss2_turret_plasma"] = true,
     }
 
     local function AnnounceSpecialNPC(ent)
