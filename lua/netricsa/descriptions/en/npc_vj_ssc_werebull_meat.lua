@@ -7,7 +7,7 @@ DEFINITION: Draft, Meat animal
 SIZE:       9 ft
 ENDURANCE:  Medium
 HOSTILITY:  High
-WEAPONATAL: Horns
+WEAPONS: Horns
 REWARD:     3500 FC
 THREAT:     High
 

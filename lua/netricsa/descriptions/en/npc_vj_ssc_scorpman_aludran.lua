@@ -7,7 +7,7 @@ PERCEPTION: Primitive Sapient Race
 SIZE:       10 ft
 ENDURANCE:  Average
 HOSTILITY:  Extreme
-WEAPONATAL: Magical Flame Machine Gun, Stinger Tail
+WEAPONS: Magical Flame Machine Gun, Stinger Tail
 REWARD:     2000 FC
 THREAT:     High
 

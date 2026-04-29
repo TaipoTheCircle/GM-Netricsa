@@ -7,7 +7,7 @@ PERCEPTION: Enemy Aircraft
 SIZE:       ~16,7 ft
 ENDURANCE:  High
 HOSTILITY:  Jackal-like
-WEAPONATAL: Onboard minigun operated by a gunner
+WEAPONS: Onboard minigun operated by a gunner
 REWARD:     99999999 FC (if you find a way)
 THREAT:     High
 

@@ -7,7 +7,7 @@ PERCEPTION: Mother Central Space Combat Transport Ship SSS Centerpice
 SIZE:       Very Large
 ENDURANCE:  Very High
 HOSTILITY:  Extreme
-WEAPONATAL: Large Laser Cannon
+WEAPONS: Large Laser Cannon
 REWARD:     2000000 FC
 THREAT:     Extreme
 

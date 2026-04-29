@@ -7,7 +7,7 @@ PERCEPTION:     Trained Attack Animal
 SIZE:           3,5 ft
 ENDURANCE:      Medium
 HOSTILITY:      High
-WEAPONATAL:     Bite
+WEAPONS:     Bite
 REWARD:         150 FC
 THREAT:         Medium
 

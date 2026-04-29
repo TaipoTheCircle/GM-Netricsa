@@ -7,7 +7,7 @@ PERCEPTION: Math Teacher
 SIZE:       9,7 ft
 ENDURANCE:  Very high
 HOSTILITY:  Extreme (towards underachieving students)
-WEAPONATAL: Giant prosthetic Circle, sharp claws
+WEAPONS: Giant prosthetic Circle, sharp claws
 REWARD:     10000 FC
 THREAT:     Very high
 

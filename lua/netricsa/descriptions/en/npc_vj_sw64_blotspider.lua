@@ -7,7 +7,7 @@ PERCEPTION: Predator-Stalker
 SIZE:       19,7 ft
 ENDURANCE:  Infinite
 HOSTILITY:  Absolute (presumably)
-WEAPONATAL: Teeth
+WEAPONS: Teeth
 REWARD:     Life or Death
 THREAT:     Very High
 

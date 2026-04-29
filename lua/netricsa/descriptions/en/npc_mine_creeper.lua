@@ -7,7 +7,7 @@ PERCEPTION: Plant-Gunpowder Creature
 SIZE:       5,5 ft
 ENDURANCE:  Low
 HOSTILITY:  High
-WEAPON:     Self-Detonation
+WEAPONS:    Self-Detonation
 REWARD:     100 FC
 THREAT:     Medium-High
 

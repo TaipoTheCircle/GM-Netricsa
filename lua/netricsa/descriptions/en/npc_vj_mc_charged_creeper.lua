@@ -7,8 +7,8 @@ PERCEPTION: A beefed-up version of the standard Creeper
 SIZE:       5,5 ft
 ENDURANCE:  Medium
 HOSTILITY:  Extreme
-WEAPONATAL: Larger Electric Blast
-REWARD:     700
+WEAPONS:    Larger Electric Blast
+REWARD:     700 FC
 THREAT:     Medium-High
 
 DESCRIPTION:

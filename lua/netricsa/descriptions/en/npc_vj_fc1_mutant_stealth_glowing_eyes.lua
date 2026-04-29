@@ -7,7 +7,7 @@ PERCEPTION: Tactician-Saboteur
 SIZE:       5,8 ft
 ENDURANCE:  Average
 HOSTILITY:  High
-WEAPONATAL: Silent MP5, grappling hooks
+WEAPONS: Silent MP5, grappling hooks
 REWARD:     1000 FC
 THREAT:     High
 

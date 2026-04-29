@@ -7,7 +7,7 @@ PERCEPTION: Unstoppable Fighter
 SIZE:       8,1 ft
 ENDURANCE:  Very High
 HOSTILITY:  Absolute
-WEAPONATAL: Bone Blade (Right Hand)
+WEAPONS: Bone Blade (Right Hand)
 REWARD:     1200 FC
 THREAT:     Critical
 

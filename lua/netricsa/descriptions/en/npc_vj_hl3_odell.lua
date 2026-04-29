@@ -7,7 +7,7 @@ PERCEPTION: Rebel Resistance Engineer
 HEIGHT:     5,9 ft
 ENDURANCE:  Average
 HOSTILITY:  Average
-WEAPONATAL: AR1
+WEAPONS: AR1
 REWARD:     150 FC
 THREAT:     Low
 
