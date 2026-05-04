@@ -5,7 +5,7 @@ CLASS:      Sirian Tatto Werebull
 PERCEPTION: Domesticated Draft Beast
 METABOLISM: Mammal
 SIZE:       9 ft
-STAMINA:    Low
+ENDURANCE:  Low
 HOSTILITY:  Average
 WEAPONS:    Horns, intimidating gaze
 REWARD:     2500 FC

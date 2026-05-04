@@ -5,7 +5,7 @@ CLASS:      Giovanni the Goose
 METABOLISM: Anthropomorphic Bird, Canada Goose
 PERCEPTION: Famous Chef / Broadside Animation Cartoon Star
 SIZE:       5 ft
-STAMINA:    Average
+ENDURANCE:  Average
 HOSTILITY:  Low
 WEAPONS:    Culinary skills, sarcastic comments
 REWARD:     100 FC

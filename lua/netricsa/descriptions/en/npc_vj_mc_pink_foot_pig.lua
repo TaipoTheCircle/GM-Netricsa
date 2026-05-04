@@ -5,7 +5,7 @@ CLASS:      Pink Footed Pig
 METABOLISM: Warm-blooded Mammal
 PERCEPTION: Friendly Wild / Domestic
 SIZE:       3 ft
-STAMINA:    Average
+ENDURANCE:  Average
 HOSTILITY:  Low
 WEAPONS:    None
 REWARD:     35 FC
