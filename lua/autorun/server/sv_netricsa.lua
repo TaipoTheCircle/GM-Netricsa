@@ -667,9 +667,10 @@ end)
         ["npc_vj_sw64_blotspider"] = true,
         ["npc_vj_ss2_dino_s"] = true,
         ["npc_vj_ss2_turret_plasma"] = true,
+        ["npc_vj_reorc_nemesis"] = true,
     }
 
-    local function AnnounceSpecialNPC(ent)
+        local function AnnounceSpecialNPC(ent)
         if not IsValid(ent) or not SpecialInstantEnemies[ent:GetClass()] then return end
         local npcClass = ent:GetClass()
         if TrackedEnemies[npcClass] then return end
