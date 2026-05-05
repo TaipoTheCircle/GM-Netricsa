@@ -7,7 +7,7 @@ PERCEPTION:  Trained War Animal
 SIZE:        6,5 ft
 ENDURANCE:   Medium
 HOSTILITY:   Extreme 
-WEAPONS:     Charging 
+WEAPONS:     Horns
 REWARD:      300 FC
 THREAT:      High
 
