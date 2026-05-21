@@ -9,7 +9,7 @@ Black Mesa took advantage of this. Captured the cyclers, stuffed them into displ
 
 When they're hit, they suddenly shift position. Then they freeze again. I don't know if they feel pain. Probably not. Or maybe they do. But what difference does it make? They're not people anymore. Not Vortigaunts. Not soldiers. They're exhibits. And Black Mesa is proud of its collection.
 
-The museum exit leads to a lobby. A real lobby, with columns and a reception area. It's not quiet there now. There, security is battling Mental's horde. Shots, screams, plasma melting marble. Scientists who didn't have time to hide huddle against the walls. Some are crying. Some are praying. Some are simply staring into space—like those cyclers behind the glass.
+The museum exit leads to a lobby. A real lobby, with columns and a reception area. It's not quiet there now. There, security is battling Mental's horde. Shots, screams, plasma melting marble. Scientists who didn't have time to hide huddle against the walls. Some are crying. Some are praying. Some are simply staring into space-like those cyclers behind the glass.
 
 And those who know are terrified. Because buried beneath the complex, deep in the silos, is a missile. And it could explode at any moment. The important thing is that if it explodes, Black Mesa will be gone. Along with us, the security, Mental, and the Cyclers, who won't even realize they're dead.
 

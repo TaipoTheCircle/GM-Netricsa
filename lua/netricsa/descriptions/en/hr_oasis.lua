@@ -1,11 +1,11 @@
 THE TEMPLE OF HA AND ASH, THE OASIS
 
 
-An ancient temple, carved into the rock, stares at us with empty window sockets. These are not just ruins—it is the place the Sirians have chosen for their refuge. A hidden base. A repository of data on weapons capable of changing the course of war. And all this—under the noses of the desert gods.
+An ancient temple, carved into the rock, stares at us with empty window sockets. These are not just ruins-it is the place the Sirians have chosen for their refuge. A hidden base. A repository of data on weapons capable of changing the course of war. And all this-under the noses of the desert gods.
 
 Kha and Ash. Gods of Egypt's western borders, patrons of the 7th nome. Their names have been almost erased by time, but here, in this temple, they still rule.
 
-Kha—red as sand. Protector of Egypt from enemies from the west. To him we owe the very existence of oases. Ash is his companion, equally ancient, equally forgotten. Together, they guard the boundaries of life and death. And, perhaps, the very chamber where the Sirians hid their secrets.
+Kha-red as sand. Protector of Egypt from enemies from the west. To him we owe the very existence of oases. Ash is his companion, equally ancient, equally forgotten. Together, they guard the boundaries of life and death. And, perhaps, the very chamber where the Sirians hid their secrets.
 
 But simply entering the temple isn't enough. The Sirians are smart. They didn't rely on locks and bolts. They created a labyrinth of buttons, levers, and hidden mechanisms. Only the one who found and pressed all the buttons could open the hidden passage.
 
