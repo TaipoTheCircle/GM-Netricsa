@@ -329,6 +329,11 @@ SPECIAL_ANIMATIONS = {
         fallback = "Idle"   
         
     },
+                                                                                                                ["npc_vj_hlrdp_hgrunt"] = {
+        sequence = "walk1", 
+        fallback = "Idle"   
+        
+    },
     SPECIAL_BODYGROUPS = {
     ["npc_vj_ss2_turret_machinegun"] = {
         { group = 1, value = 0 } -- 2-й bodygroup (Rotate Mechanism) установить в 1

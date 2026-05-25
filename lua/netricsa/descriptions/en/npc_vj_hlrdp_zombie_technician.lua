@@ -1,7 +1,7 @@
-ZOMBIE HEADCRAB DELTA BASE TECHNICALLY, COMMON
+DELTA BASE ZOMBIE HEADCRAB TECHNICIAN, COMMON
 
 
-CLASS:      Zombie Headcrab Delta Base Technician, Common
+CLASS:      Delta Base Zombie Headcrab Technician, Common
 METABOLISM: Human Host + Parasitic Headcrab Of Xen
 PERCEPTION: Zombified Entity, Former Tech Specialist
 SIZE:       5,9 ft
