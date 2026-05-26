@@ -131,7 +131,14 @@ if SERVER then
         ["npc_turok_hadrosaur"] = true,
         ["npc_vj_ssc_custom_bighead_"] = true,
         ["npc_vj_ss2_dino_s"] = true,
+        ["npc_vj_dragonguard"] = true,
+        ["npc_vj_imperial"] = true,
+        ["npc_vj_ob_guard"] = true,
+        ["npc_vj_palaceguard"] = true,
+        ["npc_vj_royalguard"] = true,
         ["npc_vj_ss2_turret_plasma"] = true,
+        ["npc_vj_ss2_jackoverse_barbarian"] = true,
+        ["npc_vj_ss2_jackoverse_neanderthal"] = true,
     }
 
     -- 🔹 ПРОСТАЯ ФУНКЦИЯ ПРОВЕРКИ - ВРАГ ЛИ NPC
@@ -668,6 +675,25 @@ end)
         ["npc_vj_ss2_dino_s"] = true,
         ["npc_vj_ss2_turret_plasma"] = true,
         ["npc_vj_reorc_nemesis"] = true,
+        ["npc_vj_hlrof_assassin_osprey"] = true,
+        ["npc_vj_hlrof_assassin_apache"] = true,
+        ["npc_vj_hlr1_apache"] = true,
+        ["npc_vj_hlr1_m1a1abrams"] = true,
+        ["npc_vj_hlr1_garg"] = true,
+        ["npc_vj_hlrdc_garg"] = true,
+        ["monster_gargantua"] = true,
+        ["npc_vj_hlr1_osprey"] = true,
+        ["npc_vj_hlrsv_tor"] = true,
+        ["npc_vj_hlr1_m2a3bradley"] = true,
+        ["resort_purevessel"] = true,
+        ["npc_vj_fc1_mutant_omega"] = true,
+        ["npc_vj_hlrdp_hmmwv_black"] = true,
+        ["npc_vj_hlrdp_hmmwv_yellow"] = true,
+        ["npc_vj_hlrdp_m1abrams"] = true,
+        ["npc_vj_hlrdp_apache"] = true,
+        ["npc_vj_hlrdp_apache_preview"] = true,
+        ["npc_vj_shrek_tank"] = true,
+        
     }
 
         local function AnnounceSpecialNPC(ent)

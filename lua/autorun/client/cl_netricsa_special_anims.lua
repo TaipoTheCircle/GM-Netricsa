@@ -119,11 +119,11 @@ SPECIAL_ANIMATIONS = {
     },
 
                                     ["npc_vj_ssc_beast_early"] = {
-        sequence = "Idlecomputer", 
+        sequence = "Idle_early", 
         fallback = "Idle"   
     },
                                         ["npc_vj_ssc_beast_big_early"] = {
-        sequence = "Idlecomputer", 
+        sequence = "Idle_early", 
         fallback = "Idle"   
     },
                                         ["npc_vj_ssc_beast"] = {
@@ -335,6 +335,11 @@ SPECIAL_ANIMATIONS = {
     },
                                                                                                                 ["npc_vj_hlrdp_hgrunt"] = {
         sequence = "walk1", 
+        fallback = "Idle"   
+        
+    },
+                                                                                                                    ["resort_purevessel"] = {
+        sequence = "Idle", 
         fallback = "Idle"   
         
     },
