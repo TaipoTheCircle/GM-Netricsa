@@ -8,7 +8,7 @@ SIZE:       2 ft
 ENDURANCE:  Very Low
 HOSTILITY:  Medium
 WEAPONS:    Lasergun
-REWARD:     200 FC
+REWARD:     50 FC
 THREAT:     Low
 
 DESCRIPTION:

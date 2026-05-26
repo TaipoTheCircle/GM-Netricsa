@@ -60,6 +60,10 @@ SPECIAL_ANIMATIONS = {
         sequence = "Idle", 
         fallback = "Idle"   
     },
+                        ["npc_vj_sscr_gizmo_spawner"] = {
+        sequence = "Idle", 
+        fallback = "Idle"   
+    },
                     ["npc_vj_ssc_gizmo_big_secret"] = {
         sequence = "Idle", 
         fallback = "Idle"   
