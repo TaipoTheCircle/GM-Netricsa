@@ -15,7 +15,7 @@ DESCRIPTION:
 
 This is an automated guard that Mental assigned to patrol the lower levels of Siriuspolis to ensure no one wanders where they shouldn't.
 
-It has a gray body with bright red accents-so the enemy can spot it from afar and have time to shit themselves. The red treads it rides on make a distinctive metallic clanking sound that can make an unprepared fighter's teeth chatter.
+It has a gray body with bright red accents-so the enemy can spot it from afar and have time to shit themselves. The gray treads it rides on make a distinctive metallic clanking sound that can make an unprepared fighter's teeth chatter.
 
 The robot's head is oval, the same gray as its main body, but with red sensor eyes that scan the space for living creatures. On top of its head is an antenna and a crest of sharp spikes-purely for intimidation, as the robot can't pierce anyone with its head. Its neck is segmented, almost like a spring, allowing it to turn its head anywhere.
 
@@ -26,4 +26,3 @@ TIPS:
 - Extremely Dangerous.
 - Don't stand in its line of fire when it fires.
 - Unlike many of Mental's allies, this one isn't a pile of bricks.
-
