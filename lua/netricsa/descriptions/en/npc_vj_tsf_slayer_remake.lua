@@ -21,7 +21,7 @@ I first witnessed these creatures jumping out of the ground itself, their heads 
 
 To my eyes, they appear to be a manifestation of decapitation, yet it seems improbable anyone ever had their head chopped off in Abbott. I suppose on carnage anything is possible.
 
-I have dubbed these monstrosities slavers.
+I have dubbed these monstrosities slayers.
 
 TIPS:
 

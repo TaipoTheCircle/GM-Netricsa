@@ -693,6 +693,7 @@ end)
         ["npc_vj_hlrdp_apache"] = true,
         ["npc_vj_hlrdp_apache_preview"] = true,
         ["npc_vj_shrek_tank"] = true,
+        ["npc_vj_ss2_transformer"] = true,
         
     }
 
