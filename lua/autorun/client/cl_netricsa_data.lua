@@ -187,34 +187,32 @@ end
         AddScore(points)
     end)
 
-    net.Receive("Netricsa_UpdateStats", function()
-        local kills = net.ReadUInt(16) or 0
-        local total = net.ReadUInt(16) or 0
-        local startTime = net.ReadFloat() or CurTime()
+net.Receive("Netricsa_UpdateStats", function()
+    local kills = net.ReadUInt(16) or 0
+    local total = net.ReadUInt(16) or 0
+    local startTime = net.ReadFloat() or CurTime()
+    local maxEnemies = net.ReadUInt(16) or total  -- 🔹 НОВОЕ: читаем максимальное количество
 
-        print("[Netricsa Client] Raw network data - kills: " .. kills .. ", total: " .. total)
+    print("[Netricsa Client] Raw network data - kills: " .. kills .. ", total: " .. total .. ", max: " .. maxEnemies)
 
-        -- Обновляем переменные
-        stats_kills = kills
-        stats_totalEnemies = total
-        stats_startTime = startTime
+    -- Обновляем переменные
+    stats_kills = kills
+    stats_totalEnemies = total
+    stats_startTime = startTime
+    stats_maxEnemies = maxEnemies  -- 🔹 ИСПОЛЬЗУЕМ полученное значение
 
-        -- 🔹 ОБНОВЛЯЕМ МАКСИМАЛЬНОЕ КОЛИЧЕСТВО ВРАГОВ
-        stats_maxEnemies = math.max(stats_maxEnemies or 0, stats_totalEnemies)
+    print("[Netricsa Client] Processed stats: " ..
+    stats_kills .. "/" .. stats_totalEnemies .. " (max: " .. stats_maxEnemies .. ")")
 
-        print("[Netricsa Client] Processed stats: " ..
-        stats_kills .. "/" .. stats_totalEnemies .. " (max: " .. stats_maxEnemies .. ")")
-
-        -- 🔹 ОБНОВЛЯЕМ СТАТИСТИКУ ЕСЛИ ОНА ОТКРЫТА
-        if IsValid(NetricsaFrame) and NetricsaFrame:IsVisible() then
-            local currentTab = _G.NetricsaCurrentTab or ""
-            if currentTab == L("tabs", "statistics") then
-                print("[Netricsa] Refreshing statistics tab with new data")
-                -- Просто переключаем на ту же вкладку для обновления
-                NetricsaTabs.SwitchTab(currentTab)
-            end
+    -- Обновляем статистику если она открыта
+    if IsValid(NetricsaFrame) and NetricsaFrame:IsVisible() then
+        local currentTab = _G.NetricsaCurrentTab or ""
+        if currentTab == L("tabs", "statistics") then
+            print("[Netricsa] Refreshing statistics tab with new data")
+            NetricsaTabs.SwitchTab(currentTab)
         end
-    end)
+    end
+end)
 
 
     -- ConVar'ы для отслеживания кампании
@@ -399,43 +397,72 @@ end
 
 local function LoadDescription(name)
     local lang = CurrentLang or "en"
-    -- Исправленный путь
-    local path = "netricsa/descriptions/" .. lang .. "/" .. name .. ".lua"
-    if file.Exists(path, "GAME") then
-        return file.Read(path, "GAME")
+    
+    -- 🔹 ПРАВИЛЬНЫЙ ПУТЬ С УЧЁТОМ ЯЗЫКА
+    local paths = {
+        "netricsa/descriptions/" .. lang .. "/" .. name .. ".lua",
+        "lua/netricsa/descriptions/" .. lang .. "/" .. name .. ".lua",
+        -- Для карт и планет
+        "netricsa/descriptions/" .. lang .. "/ssfrac_" .. name .. ".lua",
+        "netricsa/descriptions/" .. lang .. "/ss_planet_" .. name .. ".lua",
+    }
+    
+    for _, path in ipairs(paths) do
+        if file.Exists(path, "GAME") then
+            local content = file.Read(path, "GAME")
+            if content and content ~= "" then
+                return content
+            end
+        end
     end
-    -- Попробуем старый путь на всякий случай
-    local altPath = "lua/netricsa/descriptions/" .. lang .. "/" .. name .. ".lua"
-    if file.Exists(altPath, "GAME") then
-        return file.Read(altPath, "GAME")
-    end
+    
     return L("ui", "no_data")
 end
 
 local function GetEnemyDisplayName(npcClass)
     local lang = CurrentLang or "en"
-    -- Исправленный путь
-    local path = "netricsa/descriptions/" .. lang .. "/" .. npcClass .. ".lua"
-    if file.Exists(path, "GAME") then
-        local content = file.Read(path, "GAME")
-        if content and content ~= "" then
-            local firstLine = string.match(content, "([^\n\r]+)")
-            if firstLine and firstLine ~= "" then
-                return firstLine
+    
+    local paths = {
+        "netricsa/descriptions/" .. lang .. "/" .. npcClass .. ".lua",
+        "lua/netricsa/descriptions/" .. lang .. "/" .. npcClass .. ".lua",
+    }
+    
+    for _, path in ipairs(paths) do
+        if file.Exists(path, "GAME") then
+            local content = file.Read(path, "GAME")
+            if content and content ~= "" then
+                -- 🔹 БЕЗОПАСНОЕ ПОЛУЧЕНИЕ ПЕРВОЙ СТРОКИ
+                local firstLine = ""
+                local i = 1
+                while i <= #content do
+                    local char = string.sub(content, i, i)
+                    if char == "\n" or char == "\r" then
+                        break
+                    end
+                    firstLine = firstLine .. char
+                    i = i + 1
+                end
+                
+                -- Убираем только BOM если есть (специальные символы в начале файла)
+                if string.byte(firstLine, 1) == 239 and string.byte(firstLine, 2) == 187 and string.byte(firstLine, 3) == 191 then
+                    firstLine = string.sub(firstLine, 4)
+                end
+                
+                -- 🔹 НЕ УБИРАЕМ ЗНАКИ ПРЕПИНАНИЯ И ДРУГИЕ СИМВОЛЫ!
+                -- Просто обрезаем пробелы в начале и конце
+                firstLine = string.Trim(firstLine)
+                
+                -- Проверяем, что строка не пустая и не слишком длинная
+                if firstLine ~= "" and #firstLine < 200 then
+                    print("[Netricsa] Display name for " .. npcClass .. ": " .. firstLine)
+                    return firstLine
+                end
             end
         end
     end
-    -- Попробуем старый путь
-    local altPath = "lua/netricsa/descriptions/" .. lang .. "/" .. npcClass .. ".lua"
-    if file.Exists(altPath, "GAME") then
-        local content = file.Read(altPath, "GAME")
-        if content and content ~= "" then
-            local firstLine = string.match(content, "([^\n\r]+)")
-            if firstLine and firstLine ~= "" then
-                return firstLine
-            end
-        end
-    end
+    
+    -- Если файл не найден, возвращаем имя класса
+    print("[Netricsa] No display name found for " .. npcClass .. ", using class name")
     return npcClass
 end
 

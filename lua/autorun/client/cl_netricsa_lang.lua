@@ -30,28 +30,17 @@ if CLIENT then
                 settings_current    = "Current key: ",
                 settings_default    = "Default: N. Changes are saved automatically.",
 
-                -- 🔹 New line for auto-open checkbox
                 settings_auto_open  = "Open Netricsa automatically when the map starts",
-
-                -- 🔹 SCAN SYSTEM TRANSLATIONS
-                scan_prompt         = "Press [%s] to scan", -- %s будет заменено на клавишу
+                scan_prompt         = "Press [%s] to scan",
                 scan_key_help       = "Choose the key to scan NPCs (default: E)",
                 scan_current        = "Current scan key: ",
                 scan_default        = "Default: E. Changes are saved automatically.",
-
-                -- 🔹 WELCOME MESSAGE
                 welcome             = "WELCOME TO NETRICSA!",
-
-                -- 🔹 VERSION
                 version             = "NETRICSA v2.01",
                 version_personal    = "NETRICSA V2.01 - Personal Version For: %s",
                 score               = "SCORE",
-
-                -- НОВЫЕ ПЕРЕВОДЫ
                 auto_rotate_help    = "Automatic rotation of models",
                 auto_rotate_label   = "Auto-rotate NPC models",
-
-                -- TOTAL
                 total               = "TOTAL", 
             }
         },
@@ -79,29 +68,70 @@ if CLIENT then
                 select_map    = "Выберите карту сверху.",
                 no_data       = "Нет данных. Если вы хотите помочь и предложить свои улучшения или переводы, можете обратиться на наш github: (https://github.com/TaipoTheCircle/GM-Netricsa)",
 
-                -- Настройки
                 settings_tab       = "НАСТРОЙКИ",
                 settings_help       = "Настройки интерфейса ИНЕРТАНА",
                 settings_key_help   = "Выберите клавишу для открытия ИНЕРТАНА (по умолчанию N)",
                 settings_current    = "Текущая клавиша: ",
                 settings_default    = "По умолчанию: N. Изменения сохраняются автоматически.",
                 settings_auto_open  = "Открывать ИНЕРТАН при запуске карты",
-                scan_prompt         = "Нажмите [%s] для сканирования", -- %s будет заменено на клавишу
+                scan_prompt         = "Нажмите [%s] для сканирования",
                 scan_key_help       = "Выберите клавишу для сканирования NPC (по умолчанию E)",
                 scan_current        = "Текущая клавиша сканирования: ",
                 scan_default        = "По умолчанию: E. Изменения сохраняются автоматически.",
                 welcome             = "ДОБРО ПОЖАЛОВАТЬ В ИНЕРТАН!",
-
-                -- 🔹 ПЕРЕВОД ВЕРСИИ
                 version             = "ИНЕРТАН v2.01",
                 version_personal    = "ИНЕРТАН, Версия 2.01: Настроена На Работу С %s",
                 score               = "СЧЁТ",
-
-                -- НОВЫЕ ПЕРЕВОДЫ
                 auto_rotate_help    = "Автоматическое вращение моделей",
                 auto_rotate_label   = "Авто-вращение моделей NPC",
-
                 total               = "ВСЕГО",
+            }
+        },
+
+        -- =====================================================
+        -- 🔹 НОВЫЙ ФРАНЦУЗСКИЙ ПЕРЕВОД
+        -- =====================================================
+        fr = {
+            tabs = {
+                tactical   = "DONNÉES TACTIQUES",
+                strategic  = "DONNÉES STRATÉGIQUES",
+                weapons    = "ARMES",
+                enemies    = "ENNEMIS",
+                statistics = "STATISTIQUES",
+                fractions  = "FACTIONS",
+                planets    = "PLANÈTES",
+                settings   = "PARAMÈTRES"
+            },
+            ui = {
+                styles        = "STYLES",
+                language      = "LANGUE",
+                scanning      = "Analyse en cours...",
+                kills         = "TUER",
+                secrets       = "SECRETS",
+                game_time     = "TEMPS DE JEU",
+                select_enemy  = "Sélectionnez un ennemi ci-dessus.",
+                select_weapon = "Sélectionnez une arme ci-dessus.",
+                select_map    = "Sélectionnez une carte ci-dessus.",
+                no_data       = "Aucune donnée disponible. Si vous souhaitez nous aider et suggérer vos améliorations ou traductions, vous pouvez nous contacter sur notre github: (https://github.com/TaipoTheCircle/GM-Netricsa)",
+
+                -- Paramètres
+                settings_tab       = "PARAMÈTRES",
+                settings_help       = "Paramètres de l'interface Netricsa",
+                settings_key_help   = "Choisissez la touche pour ouvrir Netricsa (par défaut: N)",
+                settings_current    = "Touche actuelle: ",
+                settings_default    = "Par défaut: N. Les modifications sont sauvegardées automatiquement.",
+                settings_auto_open  = "Ouvrir Netricsa automatiquement au démarrage de la carte",
+                scan_prompt         = "Appuyez sur [%s] pour scanner",
+                scan_key_help       = "Choisissez la touche pour scanner les PNJ (par défaut: E)",
+                scan_current        = "Touche de scan actuelle: ",
+                scan_default        = "Par défaut: E. Les modifications sont sauvegardées automatiquement.",
+                welcome             = "BIENVENUE DANS NETRICSA!",
+                version             = "NETRICSA v2.01",
+                version_personal    = "NETRICSA V2.01 - Version Personnelle Pour: %s",
+                score               = "SCORE",
+                auto_rotate_help    = "Rotation automatique des modèles",
+                auto_rotate_label   = "Rotation auto des modèles PNJ",
+                total               = "TOTAL",
             }
         }
     }

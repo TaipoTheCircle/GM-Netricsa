@@ -141,16 +141,140 @@ if SERVER then
         ["npc_vj_ss2_jackoverse_neanderthal"] = true,
     }
 
-    -- 🔹 ПРОСТАЯ ФУНКЦИЯ ПРОВЕРКИ - ВРАГ ЛИ NPC
-    local function IsEnemy(npc)
-        if not IsValid(npc) then return false end
-        if not npc:IsNPC() then return false end
-        
-        local npcClass = npc:GetClass()
-        local isEnemy = not FRIENDLY_NPCS[npcClass]
-        
-        return isEnemy
+-- 🔹 НОВАЯ ФУНКЦИЯ ДЛЯ ПРОВЕРКИ DRGBASE NPC
+local function IsDrGBaseNPC(npc)
+    if not IsValid(npc) then return false end
+    
+    local npcClass = npc:GetClass()
+    
+    -- Проверяем по префиксам DrGBase
+    local drgPrefixes = {
+        "drg_",      -- Стандартный префикс DrGBase
+        "drgbase_",  -- Альтернативный префикс
+        "npc_drg_",  -- Префикс из ваших файлов
+    }
+    
+    for _, prefix in ipairs(drgPrefixes) do
+        if string.find(npcClass, prefix) then
+            return true
+        end
     end
+    
+    -- 🔹 ДОПОЛНИТЕЛЬНАЯ ПРОВЕРКА: некоторые DrGBase NPC могут не иметь префикса
+    -- Проверяем наличие характерных для DrGBase методов
+    if npc.DrGBase or npc.drg then
+        return true
+    end
+    
+    return false
+end
+
+-- 🔹 ФУНКЦИЯ ДЛЯ ПОЛУЧЕНИЯ КАСТОМНЫХ ПАРАМЕТРОВ DRGBASE NPC
+local function GetDrGBaseData(npc)
+    if not IsValid(npc) then return nil end
+    
+    local data = {}
+    
+    -- Безопасное получение модели
+    data.mdl = npc:GetModel() or ""
+    
+    -- Безопасное получение скина
+    pcall(function()
+        data.skin = npc:GetSkin() or 0
+    end)
+    
+    -- Безопасное получение bodygroups
+    data.bodygroups = {}
+    pcall(function()
+        local numBodygroups = npc:GetNumBodyGroups() or 0
+        for i = 0, numBodygroups - 1 do
+            data.bodygroups[i+1] = npc:GetBodygroup(i)
+        end
+    end)
+    
+    -- Безопасное получение цвета
+    data.color = {r = 255, g = 255, b = 255, a = 255}
+    pcall(function()
+        if npc.GetRenderColor then
+            local r, g, b, a = npc:GetRenderColor()
+            data.color = {r = r or 255, g = g or 255, b = b or 255, a = a or 255}
+        else
+            local col = npc:GetColor()
+            if col and type(col) == "table" and col.r then
+                data.color = {r = col.r, g = col.g, b = col.b, a = col.a}
+            end
+        end
+    end)
+    
+    -- Остальные параметры с защитой
+    pcall(function()
+        data.rendermode = npc:GetRenderMode() or 0
+        data.renderfx = npc:GetRenderFX() or 0
+        data.material = npc:GetMaterial() or ""
+        data.nodraw = npc:GetNoDraw() or false
+        data.scale = npc:GetModelScale() or 1
+    end)
+    
+    return data
+end
+
+-- 🔹 ОБНОВЛЁННАЯ ФУНКЦИЯ ДЛЯ ОПРЕДЕЛЕНИЯ ВРАГА (С УЧЁТОМ DRGBASE)
+-- 🔹 ФУНКЦИЯ ДЛЯ ПРОВЕРКИ, ЯВЛЯЕТСЯ ЛИ СУЩНОСТЬ NEXTBOT'ОМ
+local function IsNextBot(ent)
+    if not IsValid(ent) then return false end
+    -- Проверяем наличие методов Nextbot
+    return ent.IsNextBot and ent:IsNextBot() or false
+end
+
+-- 🔹 ОБНОВЛЁННАЯ ФУНКЦИЯ IsEnemy (С УЧЁТОМ NEXTBOT'ОВ)
+local function IsEnemy(npc)
+    if not IsValid(npc) then return false end
+    
+    -- Проверка на Nextbot
+    local isNextBot = IsNextBot(npc)
+    local npcClass = npc:GetClass()
+    
+    -- Если это DrGBase или Nextbot
+    if IsDrGBaseNPC(npc) or isNextBot then
+        -- Проверяем, не в дружественных ли
+        if FRIENDLY_NPCS[npcClass] then
+            return false
+        end
+        -- По умолчанию DrGBase и Nextbot'ы - враги
+        return true
+    end
+    
+    -- Стандартная проверка для обычных NPC
+    if not npc:IsNPC() then return false end
+    
+    return not FRIENDLY_NPCS[npcClass]
+end
+
+-- 🔹 ФУНКЦИЯ ДЛЯ ОТПРАВКИ DRGBASE NPC В КЛИЕНТ
+local function SendDrGBaseNPCToClient(ply, npc, npcClass)
+    local data = GetDrGBaseData(npc)
+    if not data then return end
+    
+    net.Start("Netricsa_AddEnemy")
+        net.WriteString(npcClass)
+        net.WriteString(data.mdl)
+        net.WriteUInt(data.skin, 8)
+        net.WriteUInt(#data.bodygroups, 8)
+        for _, bg in ipairs(data.bodygroups) do
+            net.WriteUInt(bg, 8)
+        end
+        -- Отправляем визуальные данные
+        net.WriteUInt(data.color.r, 8)
+        net.WriteUInt(data.color.g, 8)
+        net.WriteUInt(data.color.b, 8)
+        net.WriteUInt(data.color.a, 8)
+        net.WriteUInt(data.rendermode, 8)
+        net.WriteUInt(data.renderfx, 8)
+        net.WriteString(data.material)
+        net.WriteBool(data.nodraw)
+        net.WriteFloat(data.scale)
+    net.Send(ply)
+end
 
     util.AddNetworkString("Netricsa_UpdateStats")
 
@@ -161,13 +285,24 @@ if SERVER then
     local trackedNPCs = {} -- 🔹 Отслеживаемые NPC: id -> {entity, killed}
 
 local function BroadcastStats()
+    -- Вычисляем максимальное количество врагов на карте (для клиента)
+    local currentMaxEnemies = 0
+    for _, data in pairs(trackedNPCs) do
+        if not data.killed then
+            currentMaxEnemies = currentMaxEnemies + 1
+        end
+    end
+    -- Добавляем уже убитых к текущим живым для общего максимума
+    local totalMaxEnemies = currentMaxEnemies + stats_kills
+    
     net.Start("Netricsa_UpdateStats")
         net.WriteUInt(math.min(stats_kills, 65535), 16)
         net.WriteUInt(math.min(stats_totalEnemies, 65535), 16)
         net.WriteFloat(stats_startTime)
+        net.WriteUInt(math.min(totalMaxEnemies, 65535), 16)  -- 🔹 НОВОЕ: отправляем максимальное количество
     net.Broadcast()
     
-    print("[Netricsa] Stats broadcast: " .. stats_kills .. "/" .. stats_totalEnemies .. " (tracked: " .. table.Count(trackedNPCs) .. ")")
+    print("[Netricsa] Stats broadcast: " .. stats_kills .. "/" .. stats_totalEnemies .. " (max: " .. totalMaxEnemies .. ", tracked: " .. table.Count(trackedNPCs) .. ")")
 end
 
     -- 🔹 Функция для очистки невалидных NPC из трекинга
@@ -184,15 +319,12 @@ end
         end
     end
 
-    -- при старте карты
--- при старте карты
 hook.Add("InitPostEntity", "Netricsa_StatsInit", function()
     stats_kills = 0
     stats_totalEnemies = 0
     stats_startTime = CurTime()
     trackedNPCs = {}
 
-    -- 🔹 ОТЛАДКА ПРИ СТАРТЕ
     local totalNPCs = 0
     local enemyNPCs = 0
     local friendlyNPCs = 0
@@ -200,7 +332,7 @@ hook.Add("InitPostEntity", "Netricsa_StatsInit", function()
     print("[Netricsa] === SCANNING NPCs ===")
     
     for _, ent in ipairs(ents.GetAll()) do
-        if IsValid(ent) and ent:IsNPC() then
+        if IsValid(ent) and (ent:IsNPC() or IsDrGBaseNPC(ent) or IsNextBot(ent)) then
             totalNPCs = totalNPCs + 1
             local npcClass = ent:GetClass()
             
@@ -222,15 +354,18 @@ hook.Add("InitPostEntity", "Netricsa_StatsInit", function()
         end
     end
     
+    -- 🔹 Устанавливаем максимальное количество врагов
+    stats_maxEnemies = stats_totalEnemies
+    
     print("[Netricsa] === SCAN RESULTS ===")
     print("[Netricsa] Total NPCs: " .. totalNPCs)
     print("[Netricsa] Enemies: " .. enemyNPCs)
     print("[Netricsa] Friendly: " .. friendlyNPCs)
     print("[Netricsa] Tracked: " .. stats_totalEnemies)
+    print("[Netricsa] Max Enemies: " .. stats_maxEnemies)
 
     BroadcastStats()
     
-    -- 🔹 Запускаем периодическую очистку невалидных NPC
     timer.Create("Netricsa_Cleanup", 10, 0, CleanupInvalidNPCs)
 end)
 
@@ -325,90 +460,158 @@ end)
 
 hook.Add("OnNPCKilled", "NetricsaTrackCombined", function(npc, attacker)
     if not IsValid(npc) then return end
-    if not npc.NetricsaSnapshot then return end
-
+    
+    -- Поддержка DrGBase: создаём снапшот если его нет
+    if not npc.NetricsaSnapshot then
+        if IsDrGBaseNPC(npc) or IsNextBot(npc) then
+            npc.NetricsaSnapshot = GetDrGBaseData(npc)
+            npc.NetricsaSnapshot.class = npc:GetClass()
+        else
+            return
+        end
+    end
+    
     local snap = npc.NetricsaSnapshot
-    local npcClass = snap.class
-
-    -- Добавление врага в Netricsa (берём данные ДО смерти)
+    local npcClass = snap.class or npc:GetClass()
+    
+    -- Добавление врага в Netricsa
     if not TrackedEnemies[npcClass] then
         TrackedEnemies[npcClass] = true
-
+        
+        -- 🔹 ОТПРАВЛЯЕМ ДАННЫЕ ВСЕМ ИГРОКАМ
         net.Start("Netricsa_AddEnemy")
             net.WriteString(npcClass)
-            net.WriteString(snap.mdl)
-            net.WriteUInt(snap.skin, 8)
-            net.WriteUInt(#snap.bodygroups, 8)
-            for _, bg in ipairs(snap.bodygroups) do
-                net.WriteUInt(bg, 8)
+            net.WriteString(snap.mdl or "")
+            net.WriteUInt(snap.skin or 0, 8)
+            net.WriteUInt(#(snap.bodygroups or {}), 8)
+            for _, bg in ipairs(snap.bodygroups or {}) do
+                net.WriteUInt(bg or 0, 8)
             end
-            
-            -- 🔥 ДОБАВЛЕННЫЕ СТРОКИ ЗДЕСЬ (после основных данных NPC)
-            net.WriteUInt(snap.color.r, 8)
-            net.WriteUInt(snap.color.g, 8)
-            net.WriteUInt(snap.color.b, 8)
-            net.WriteUInt(snap.color.a, 8)
-
+            -- Визуальные данные
+            net.WriteUInt((snap.color or {}).r or 255, 8)
+            net.WriteUInt((snap.color or {}).g or 255, 8)
+            net.WriteUInt((snap.color or {}).b or 255, 8)
+            net.WriteUInt((snap.color or {}).a or 255, 8)
             net.WriteUInt(snap.rendermode or 0, 8)
             net.WriteUInt(snap.renderfx or 0, 8)
             net.WriteString(snap.material or "")
             net.WriteBool(snap.nodraw or false)
             net.WriteFloat(snap.scale or 1)
         net.Broadcast()
-
+        
         net.Start("Netricsa_PlaySound")
         net.Broadcast()
     end
-
-    -- Отправка очков игроку
+    
+    -- Отправка очков атакующему
     if IsValid(attacker) and attacker:IsPlayer() then
-        print("[Netricsa] Sending score for " .. npcClass .. " to " .. attacker:GetName())
-
         net.Start("Netricsa_AddScoreForNPC")
             net.WriteString(npcClass)
         net.Send(attacker)
     end
-
-    -- Обновление статистики убийств
+    
+    -- Обновление статистики
     if IsValid(attacker) and attacker:IsPlayer() then
         local id = npc:EntIndex()
-
         if trackedNPCs[id] and not trackedNPCs[id].killed then
             trackedNPCs[id].killed = true
             stats_kills = stats_kills + 1
-
-            print("[Netricsa] Player " .. attacker:GetName() ..
-                  " killed enemy: " .. npcClass ..
-                  " (kills: " .. stats_kills .. ")")
-
             BroadcastStats()
         end
     end
 end)
 
 
-    -- NPC удалён
-    hook.Add("EntityRemoved", "Netricsa_StatsOnRemove", function(ent)
-        if not IsValid(ent) or not ent:IsNPC() then return end
-        
-        if IsEnemy(ent) then
-            local id = ent:EntIndex()
-            if trackedNPCs[id] then
-                local wasKilled = trackedNPCs[id].killed
-                
-                if not wasKilled then
-                    -- NPC удалён без убийства (деспавн) - уменьшаем общее количество
-                    stats_totalEnemies = math.max(0, stats_totalEnemies - 1)
-                    BroadcastStats()
-                    print("[Netricsa] REMOVED ENEMY (despawn): " .. ent:GetClass() .. " -> " .. stats_totalEnemies)
-                else
-                    print("[Netricsa] REMOVED KILLED ENEMY: " .. ent:GetClass() .. " (no change)")
+concommand.Add("netricsa_scan_drgbase", function(ply, cmd, args)
+    if not IsValid(ply) then return end
+    
+    local scanned = 0
+    for _, ent in ipairs(ents.GetAll()) do
+        if IsValid(ent) and IsDrGBaseNPC(ent) and not TrackedEnemies[ent:GetClass()] then
+            local data = GetDrGBaseData(ent)
+            data.class = ent:GetClass()
+            ent.NetricsaSnapshot = data
+            
+            TrackedEnemies[ent:GetClass()] = true
+            
+            net.Start("Netricsa_AddEnemy")
+                net.WriteString(data.class)
+                net.WriteString(data.mdl)
+                net.WriteUInt(data.skin, 8)
+                net.WriteUInt(#data.bodygroups, 8)
+                for _, bg in ipairs(data.bodygroups) do
+                    net.WriteUInt(bg, 8)
                 end
+                net.WriteUInt(data.color.r, 8)
+                net.WriteUInt(data.color.g, 8)
+                net.WriteUInt(data.color.b, 8)
+                net.WriteUInt(data.color.a, 8)
+                net.WriteUInt(data.rendermode, 8)
+                net.WriteUInt(data.renderfx, 8)
+                net.WriteString(data.material)
+                net.WriteBool(data.nodraw)
+                net.WriteFloat(data.scale)
+            net.Send(ply)
+            
+            scanned = scanned + 1
+        end
+    end
+    
+    print(string.format("[Netricsa] Scanned %d DrGBase NPCs for %s", scanned, ply:GetName()))
+end)
+
+-- 5. Отладка для DrGBase
+concommand.Add("netricsa_debug_drgbase", function(ply)
+    print("=== DRGBASE NPC DEBUG ===")
+    local drgCount = 0
+    for _, ent in ipairs(ents.GetAll()) do
+        if IsDrGBaseNPC(ent) then
+            drgCount = drgCount + 1
+            print(string.format("  DrGBase: %s - Health: %d", ent:GetClass(), ent:Health()))
+        end
+    end
+    print(string.format("Total DrGBase NPCs: %d", drgCount))
+    print("=========================")
+end)
+
+
+    -- NPC удалён
+-- NPC удалён
+hook.Add("EntityRemoved", "Netricsa_StatsOnRemove", function(ent)
+    if not IsValid(ent) then return end
+    
+    -- Проверяем, является ли энтити NPC или DrGBase/Nextbot'ом
+    local isNPC = ent:IsNPC() or IsDrGBaseNPC(ent) or IsNextBot(ent)
+    if not isNPC then return end
+    
+    if IsEnemy(ent) then
+        local id = ent:EntIndex()
+        if trackedNPCs[id] then
+            local wasKilled = trackedNPCs[id].killed
+            
+            if not wasKilled then
+                -- NPC удалён без убийства (деспавн)
+                stats_totalEnemies = math.max(0, stats_totalEnemies - 1)
                 
-                trackedNPCs[id] = nil
+                -- 🔹 ВАЖНО: Отправляем обновлённую статистику ВСЕМ клиентам
+                BroadcastStats()
+                
+                print("[Netricsa] REMOVED ENEMY (despawn): " .. ent:GetClass() .. " -> " .. stats_totalEnemies)
+            else
+                print("[Netricsa] REMOVED KILLED ENEMY: " .. ent:GetClass() .. " (no change)")
+            end
+            
+            trackedNPCs[id] = nil
+        else
+            -- Если NPC не был в трекинге, но должен быть врагом
+            if IsEnemy(ent) then
+                stats_totalEnemies = math.max(0, stats_totalEnemies - 1)
+                BroadcastStats()
+                print("[Netricsa] REMOVED UNTRACKED ENEMY (despawn): " .. ent:GetClass() .. " -> " .. stats_totalEnemies)
             end
         end
-    end)
+    end
+end)
 
     -- 🔹 КОМАНДА ДЛЯ ПРОВЕРКИ ТЕКУЩЕГО СОСТОЯНИЯ
     concommand.Add("netricsa_check", function(ply)
@@ -733,6 +936,35 @@ end)
         end)
     end)
 
+    hook.Add("OnEntityCreated", "Netricsa_TrackDrGBaseNPCs", function(ent)
+    timer.Simple(0.1, function()
+        if not IsValid(ent) then return end
+        
+        -- Проверяем, является ли энтити DrGBase NPC или Nextbot'ом
+        local isDrGBase = IsDrGBaseNPC(ent)
+        local isNextBot = ent.IsNextBot and ent:IsNextBot()
+        
+        if (isDrGBase or isNextBot) and IsEnemy(ent) then
+            local id = ent:EntIndex()
+            if not trackedNPCs[id] then
+                -- Создаём снапшот для DrGBase NPC
+                if isDrGBase then
+                    ent.NetricsaSnapshot = GetDrGBaseData(ent)
+                    ent.NetricsaSnapshot.class = ent:GetClass()
+                end
+                
+                trackedNPCs[id] = {
+                    entity = ent,
+                    killed = false
+                }
+                stats_totalEnemies = stats_totalEnemies + 1
+                BroadcastStats()
+                print("[Netricsa] Tracked DrGBase NPC: " .. ent:GetClass())
+            end
+        end
+    end)
+end)
+
     hook.Add("InitPostEntity", "Netricsa_CheckSpecialInstant", function()
         timer.Simple(0.2, function()
             for _, ent in ipairs(ents.GetAll()) do
@@ -764,7 +996,11 @@ end)
 
     -- Функция проверки может ли NPC быть отсканирован
     local function CanScanNPC(ply, npc)
-        if not IsValid(ply) or not IsValid(npc) or not npc:IsNPC() then return false end
+    if not IsValid(ply) or not IsValid(npc) then return false end
+    
+    -- Проверяем, является ли NPC DrGBase или Nextbot'ом
+    local isValidTarget = npc:IsNPC() or IsDrGBaseNPC(npc) or IsNextBot(npc)
+    if not isValidTarget then return false end
         
         -- 🔹 УМЕНЬШЕН РАДИУС С 200 ДО 100
         local distance = ply:GetPos():Distance(npc:GetPos())

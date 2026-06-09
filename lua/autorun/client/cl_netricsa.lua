@@ -1,17 +1,25 @@
 if CLIENT then
-    include("cl_netricsa_styles.lua")
-    include("cl_netricsa_lang.lua")
+    -- 🔹 СНАЧАЛА САМЫЕ БАЗОВЫЕ МОДУЛИ (без зависимостей)
     include("cl_netricsa_fonts.lua")
-    include("cl_netricsa_utils.lua")
+    include("cl_netricsa_lang.lua")      -- L() функция
+    include("cl_netricsa_styles.lua")    -- STYLES таблица
+    
+    -- 🔹 ПОТОМ DATA (должен быть ДО hooks!)
     include("cl_netricsa_data.lua")
+    
+    -- 🔹 ПОТОМ МОДУЛИ С ЗАВИСИМОСТЯМИ
+    include("cl_netricsa_utils.lua")
     include("cl_netricsa_special_anims.lua")
+    
+    -- 🔹 ПОТОМ ВСЁ ОСТАЛЬНОЕ
     include("cl_netricsa_tabs.lua")
     include("cl_netricsa_main.lua")
-    include("cl_netricsa_hooks.lua")
+    include("cl_netricsa_hooks.lua")     -- hooks должен быть ПОСЛЕ data!
     include("cl_netricsa_scan.lua")
     include("cl_netricsa_settings.lua")
 end
 
+-- Серверные сети
 net.Receive("Netricsa_AddEnemy", function()
     local npcClass = net.ReadString()
     local mdl = net.ReadString()
@@ -23,7 +31,6 @@ net.Receive("Netricsa_AddEnemy", function()
         bodygroups[i] = net.ReadUInt(8)
     end
 
-    -- 🔹 Новое: визуальные свойства
     local col = Color(
         net.ReadUInt(8),
         net.ReadUInt(8),
@@ -36,7 +43,6 @@ net.Receive("Netricsa_AddEnemy", function()
     local nodraw = net.ReadBool()
     local scale = net.ReadFloat()
 
-    -- Здесь можно создать локальный объект NPC для UI или визуализации
     local data = {
         class = npcClass,
         model = mdl,
@@ -50,7 +56,6 @@ net.Receive("Netricsa_AddEnemy", function()
         scale = scale
     }
 
-    -- Например, добавить в глобальную таблицу для Netricsa UI
     Netricsa_TrackedEnemies = Netricsa_TrackedEnemies or {}
     Netricsa_TrackedEnemies[npcClass] = data
 
