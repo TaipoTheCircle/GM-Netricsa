@@ -363,6 +363,11 @@ SPECIAL_ANIMATIONS = {
         fallback = "Idle"   
         
     },
+                                                                                                                                    ["npc_vj_ss2_chicken_ninja"] = {
+        sequence = "ninjachicken_runsword", 
+        fallback = "Idle"   
+        
+    },
     
     SPECIAL_BODYGROUPS = {
     ["npc_vj_ss2_turret_machinegun"] = {
