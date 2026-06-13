@@ -13,7 +13,7 @@ LOCATIONS: Tipoca City (capitale), centres de clonage, installations de recherch
 
 DESCRIPTION: 
 
-Kamino is a world completely covered by a vast ocean—water covers 100% of the planet's surface. Millennia ago, Kamino's climate was glacial, but global warming melted the continental ice caps, submerging the land beneath the waves. Kamino's atmosphere is perpetually humid and stormy: des averses sans fin, des orages puissants, des éclairs et une couverture nuageuse dense. La visibilité depuis l'orbite est obscurcie par une couche nuageuse dense.
+Kamino is a world completely covered by a vast ocean -water covers 100% of the planet's surface. Millennia ago, Kamino's climate was glacial, but global warming melted the continental ice caps, submerging the land beneath the waves. Kamino's atmosphere is perpetually humid and stormy: des averses sans fin, des orages puissants, des éclairs et une couverture nuageuse dense. La visibilité depuis l'orbite est obscurcie par une couche nuageuse dense.
 
 The ancient landlocked past is reflected in Kaminoan culture: leurs membres longs et minces et leurs doigts palmés sont un héritage du passé. Les Kaminoans voient en ultraviolet, donc pour les humains, les intérieurs blancs de leurs villes sont remplis de teintes invisibles.
 

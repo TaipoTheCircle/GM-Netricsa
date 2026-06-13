@@ -13,7 +13,7 @@ THREAT:     Zero
 
 DESCRIPTION:
 
-A typical teenager in bright clothes: an orange hoodie, blue jeans, white sneakers, and a backwards baseball cap. He has dark hair, dark eyes, and a distinctive smile—he clearly enjoys every run.
+A typical teenager in bright clothes: an orange hoodie, blue jeans, white sneakers, and a backwards baseball cap. He has dark hair, dark eyes, and a distinctive smile -he clearly enjoys every run.
 
 HE is a graffiti artist who, along with his friend Tricky and other kids, decorates subway cars in cities around the world. His favorite theme is pandas, which often appear in his drawings.
 

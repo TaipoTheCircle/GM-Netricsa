@@ -23,7 +23,7 @@ Now Kit and Kaboodle's task is to travel through different worlds and prevent th
 
 Kit is distinguished by her courage, optimism, and resourcefulness. The destruction of her homeworld left her with deep psychological trauma: any world resembling her homeworld evokes memories of her village's destruction, sometimes pushing her to act rashly. She blames herself for her inability to control her emotions, but this very same emotion gives her the energy to save those who can still be saved.
 
-In battle, Kit uses a blaster, a PDA to change her appearance, and in a critical situation, she combines with Kaboodle to form the "Kibble Star" armor, becoming lightning fast and gaining access to the Kibble Star Star Cannon—a beam of destructive power.
+In battle, Kit uses a blaster, a PDA to change her appearance, and in a critical situation, she combines with Kaboodle to form the "Kibble Star" armor, becoming lightning fast and gaining access to the Kibble Star Star Cannon -a beam of destructive power.
 
 TIPS:
 

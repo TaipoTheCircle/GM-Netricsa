@@ -17,7 +17,7 @@ This is the version of the Vessel (Hollow Knight) as it was many years ago - at 
 
 Outwardly, the Pure Vessel is strikingly different from its broken, "adult" self. He is taller, more toned, and moves smoothly, yet with an unnatural, mechanical grace. His cloak is intact and almost floating, and the movements of his Nail are lightning-fast.
 
-The Pure Vessel demonstrates the Pale King's original plan for containing the Radiance. The Vessel was to become an "empty" body, devoid of mind, voice, and will. But even the Pure Vessel shows signs of "impurity" in combat—he breathes, and his movements, though lightning-fast, sometimes contain hints of barely restrained rage.
+The Pure Vessel demonstrates the Pale King's original plan for containing the Radiance. The Vessel was to become an "empty" body, devoid of mind, voice, and will. But even the Pure Vessel shows signs of "impurity" in combat -he breathes, and his movements, though lightning-fast, sometimes contain hints of barely restrained rage.
 
 He is very fast and aggressive, and uses a variety of moves:
 

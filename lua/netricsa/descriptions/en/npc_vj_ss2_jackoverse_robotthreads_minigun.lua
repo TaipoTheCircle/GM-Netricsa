@@ -17,7 +17,7 @@ This is an advanced tracked autonomous combat platform, created by Mental engine
 
 The Guardian's appearance is appropriate: a gray body, but instead of red, green parts are larger, and the treads are wider and more massive. Instead of a blue camera gun, two 7.62mm M134 Minigun multi-barreled machine guns from Mental Electric are mounted on each side of the head, firing at up to 6,000 rounds per minute. Each.
 
-The head is oval, with green sensor eyes, an antenna, and a crest of spikes on the crown. The neck is segmented, almost like a spring, allowing the head to rotate 360 ​​degrees. However, this is no longer necessary for aiming—the machine guns are already mounted on both sides, so simply rotating the body is sufficient.
+The head is oval, with green sensor eyes, an antenna, and a crest of spikes on the crown. The neck is segmented, almost like a spring, allowing the head to rotate 360 ​​degrees. However, this is no longer necessary for aiming -the machine guns are already mounted on both sides, so simply rotating the body is sufficient.
 
 The Guardian is widely used outside of Mental's main army. It's supplied to allies: the Galactic Empire, various PMCs, and even some planetary governments that can afford such luxury. The concept is based on the T-1 Terminator, but unlike that liquid-metal killer from the future, it's purely mechanical, without a drop of organic matter.
 

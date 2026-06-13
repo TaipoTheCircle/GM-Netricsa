@@ -27,5 +27,5 @@ TIPS:
 - Don't be afraid of its explosion. It won't destroy your house or kill you, but your entire yard will turn into a white field.
 - Keep it away from lava sources or valuable water structures. Freezing your tropical fish tank would be a sad experience.
 - It's easily recognizable by its white color, especially against the normal grass and rock in caves.
-- Killing it with regular weapons is pointless if you're specifically hunting for snow—you need to trigger an explosion.
+- Killing it with regular weapons is pointless if you're specifically hunting for snow -you need to trigger an explosion.
 - Frozen lava turns into obsidian. This can be useful if you've fallen into the netherworld and a creeper like this happens to be nearby.

@@ -28,6 +28,6 @@ When sheared with shears, they drop Cloud Wool, a special material of this dimen
 TIPS:
 
 - To get a lot of Cloud Wool, herd sheep into a pen with grass and shear them every few minutes.
-- Once a sheep is shaved, it cannot fly—this is the perfect time to herd it to safety.
+- Once a sheep is shaved, it cannot fly -this is the perfect time to herd it to safety.
 - Unlike regular sheep, this species can be a valuable source of resources for crafting items from the Ethereal Dimension.
 - Don't try to use them for transport. They're uncontrollable.

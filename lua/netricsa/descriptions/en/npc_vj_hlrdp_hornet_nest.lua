@@ -13,7 +13,7 @@ THREAT:     High
 
 DESCRIPTION:
 
-This is a huge organic growth found on walls, floors, and ceilings (and likely other places where Xen's creatures have reached). It resembles a cone. Inside this growth, small but extremely nasty creatures—Hornets—swarm.
+This is a huge organic growth found on walls, floors, and ceilings (and likely other places where Xen's creatures have reached). It resembles a cone. Inside this growth, small but extremely nasty creatures -Hornets -swarm.
 
 The Nest's mechanism is simple and terrifying. As soon as any living target approaches the Nest, it activates. One of the suicide Hornets bursts out of the growth and flies straight at the target.
 

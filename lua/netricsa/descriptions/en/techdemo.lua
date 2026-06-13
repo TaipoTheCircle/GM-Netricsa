@@ -7,7 +7,7 @@ We walk down the corridor. A door on the left. A door on the right. At the end, 
 
 What's behind the doors?
 
-Colored light. A laboratory where they studied the effects of different wavelengths on the psyche. The results are probably in safes somewhere. Or on the walls—in the form of stains left by those who stared too long.
+Colored light. A laboratory where they studied the effects of different wavelengths on the psyche. The results are probably in safes somewhere. Or on the walls -in the form of stains left by those who stared too long.
 
 Droid samples. Robot test units. Some are just blanks. Some are powered.
 
