@@ -894,7 +894,10 @@ end)
         ["npc_vj_hlrdp_apache_preview"] = true,
         ["npc_vj_shrek_tank"] = true,
         ["npc_vj_ss2_transformer"] = true,
-        
+        ["npc_vj_annihiliator_tank"] = true,
+        ["npc_vj_gunship"] = true,
+        ["npc_vj_shredder_tank"] = true,
+        ["npc_vj_as_queenb"] = true,
     }
 
         local function AnnounceSpecialNPC(ent)
