@@ -1,10 +1,11 @@
 FIRE SNARK FROM THE XEN
 
+
 CLASS:      Fire Snark
 METABOLISM: Carnivorous Insect (Fire Mutation)
 PERCEPTION: Alien Insect, Living Embers
 SIZE:       6 inches
-STAMINA:    Low
+ENDURANCE   Low
 HOSTILITY:  Absurdly High
 WEAPONS:    Fire Bite
 REWARD:     100 FC

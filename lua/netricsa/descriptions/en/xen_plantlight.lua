@@ -5,15 +5,15 @@ CLASS:      Light Stalk
 METABOLISM: Unknown / photosynthetic + energy absorption
 PERCEPTION: Alien Flora Of Xen
 SIZE:       ~0,3 ft tall
-ENDURANCE:  High (durable structure)
-HOSTILITY:  Medium (defensive)
+ENDURANCE:  High
+HOSTILITY:  Medium
 WEAPONS:    none
 REWARD:     0 FC
 THREAT:     None
 
 DESCRIPTION:
 
-The Light Stalk is one of the characteristic organisms of Xen -  stalks with radiant cores that glow in the dark. These plants provide ambient light across the floating islands of Xen. 
+The Light Stalk is one of the characteristic organisms of Xen - stalks with radiant cores that glow in the dark. These plants provide ambient light across the floating islands of Xen. 
 
 While primarily passive, these stems can defend themselves: when attacked, they hide out. They seem intertwined with Xen's ecosystem, often found near Xen Trees and other alien flora, forming natural landmarks in the hostile terrain.
 
