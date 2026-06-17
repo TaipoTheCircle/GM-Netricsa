@@ -15,7 +15,7 @@ DESCRIPTION:
 
 They form the backbone of any Swarm army. They are most frequently encountered amidst colony ruins, in ventilation shafts, tunnels, and other places where it is already too late for a sentient being to be.
 
-Despite a relatively fragile physique, the Drone is capable of high speeds and striking with four long claws—claws that can tear open a light exosuit faster than its wearer can complain about their working conditions.
+Despite a relatively fragile physique, the Drone is capable of high speeds and striking with four long claws-claws that can tear open a light exosuit faster than its wearer can complain about their working conditions.
 
 The exact biology of Drones remains a subject of debate. Some scientists consider them adult worker specimens of the Swarm. Others hypothesize that they are merely an intermediate developmental stage of larger creatures. The Drones themselves do not participate in the discussion, preferring to use their claws instead of arguments.
 

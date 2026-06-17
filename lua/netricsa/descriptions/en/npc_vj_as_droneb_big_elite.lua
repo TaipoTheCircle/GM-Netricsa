@@ -15,7 +15,7 @@ DESCRIPTION:
 
 The Large Elite Drone is considered one of the most dangerous variants of the "Beta" Swarm. It combines the sheer size of a large specimen with the resilience of an elite drone, creating a creature that many colonial garrisons would prefer never to encounter.
 
-It differs from its kin only by its coal-black coloration and imposing size. Three eyes scan the surroundings, while its massive body is encased in dense chitin capable of withstanding damage that would prove fatal to an ordinary drone. Some eyewitnesses have mistaken these creatures for young Hive Guards—only to quickly lose interest in matters of classification thereafter.
+It differs from its kin only by its coal-black coloration and imposing size. Three eyes scan the surroundings, while its massive body is encased in dense chitin capable of withstanding damage that would prove fatal to an ordinary drone. Some eyewitnesses have mistaken these creatures for young Hive Guards-only to quickly lose interest in matters of classification thereafter.
 
 The appearance of such a specimen within a hive usually indicates that the colony has existed for a considerable time and possesses significant resources. Simply put, if the Swarm has managed to produce a monster like this, it is thriving. The same cannot be said for its neighbors.
 

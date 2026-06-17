@@ -898,6 +898,10 @@ end)
         ["npc_vj_gunship"] = true,
         ["npc_vj_shredder_tank"] = true,
         ["npc_vj_as_queenb"] = true,
+        ["asw_queen"] = true,
+        ["npc_vj_asrd_queen"] = true,
+        ["npc_vj_ss2_jackoverse_soldier_sergeant"] = true,
+        ["obj_vj_ss2_jackoverse_soldier_sergeant_drone"] = true,
     }
 
         local function AnnounceSpecialNPC(ent)
