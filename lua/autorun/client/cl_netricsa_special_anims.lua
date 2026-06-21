@@ -368,6 +368,11 @@ SPECIAL_ANIMATIONS = {
         fallback = "Idle"   
         
     },
+                                                                                                                                        ["npc_vj_as_buzzer_beta"] = {
+        sequence = "run", 
+        fallback = "Idle"   
+        
+    },
     
     SPECIAL_BODYGROUPS = {
     ["npc_vj_ss2_turret_machinegun"] = {
