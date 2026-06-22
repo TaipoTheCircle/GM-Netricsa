@@ -139,6 +139,8 @@ if SERVER then
         ["npc_vj_ss2_turret_plasma"] = true,
         ["npc_vj_ss2_jackoverse_barbarian"] = true,
         ["npc_vj_ss2_jackoverse_neanderthal"] = true,
+        ["npc_vj_ss2_jackoverse_dropship_alliance"] = true,
+        ["npc_vj_ss2_jackoverse_albino"] = true,
     }
 
 -- 🔹 НОВАЯ ФУНКЦИЯ ДЛЯ ПРОВЕРКИ DRGBASE NPC
@@ -902,6 +904,7 @@ end)
         ["npc_vj_asrd_queen"] = true,
         ["npc_vj_ss2_jackoverse_soldier_sergeant"] = true,
         ["obj_vj_ss2_jackoverse_soldier_sergeant_drone"] = true,
+        ["npc_vj_ssc_concept_airelemental"] = true,
     }
 
         local function AnnounceSpecialNPC(ent)

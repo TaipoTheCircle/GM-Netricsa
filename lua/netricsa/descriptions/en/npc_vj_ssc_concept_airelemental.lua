@@ -1,7 +1,7 @@
-KUKULKÁN, THE WIND GOD
+KUKULKÁN, THE WIND GOD (CONCEPT)
 
 
-CLASS:      Kukulkán, The Wind God
+CLASS:      Kukulkán, The Wind God (Concept)
 METABOLISM: inorganic
 PERCEPTION: ancient deity
 SIZE:       variable
