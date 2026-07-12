@@ -905,7 +905,8 @@ end)
         ["npc_vj_ss2_jackoverse_soldier_sergeant"] = true,
         ["obj_vj_ss2_jackoverse_soldier_sergeant_drone"] = true,
         ["npc_vj_ssc_concept_airelemental"] = true,
-        ["asw_queen"] = true,
+        ["npc_vj_ss2_jackoverse_bone_thing"] = true,
+        ["npc_vj_ss2_jackoverse_mental"] = true,
     }
 
         local function AnnounceSpecialNPC(ent)
