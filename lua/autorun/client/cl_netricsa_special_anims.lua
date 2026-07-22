@@ -126,7 +126,12 @@ SPECIAL_ANIMATIONS = {
         sequence = "Idle_early", 
         fallback = "Idle"   
     },
-                                        ["npc_vj_ssc_beast"] = {
+                                        ["npc_vj_ssc_beastelectric"] = {
+        sequence = "Idlecomputer", 
+        fallback = "Idle"   
+    },
+    
+                                            ["npc_vj_ssc_beast"] = {
         sequence = "Idlecomputer", 
         fallback = "Idle"   
     },
@@ -201,7 +206,11 @@ SPECIAL_ANIMATIONS = {
         sequence = "Idle", 
         fallback = "Idle"   
     },
-                                                                ["npc_vj_ssc_demon_cannonball"] = {
+                                                                ["npc_vj_ssc_demon_storm"] = {
+        sequence = "Idle", 
+        fallback = "Idle"   
+    },
+                                                                    ["npc_vj_ssc_demon_cannonball"] = {
         sequence = "Idle", 
         fallback = "Idle"   
     },
