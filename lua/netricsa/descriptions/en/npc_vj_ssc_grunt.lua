@@ -2,14 +2,14 @@ ZORG MERCENARY FROM BEELMEZ IV
 
 
 CLASS:      Zorg Mercenary
-METABOLISM: mammal
-PERCEPTION: warrior race
-SIZE:       6.5 ft
-ENDURANCE:  low
-HOSTILITY:  low
-WEAPONS:    burst laser
+METABOLISM: Mammal
+PERCEPTION: Warrior Race
+SIZE:       6,5 ft
+ENDURANCE:  Low
+HOSTILITY:  Low
+WEAPONS:    Burst Laser
 REWARD:     500 FC
-THREAT:     low
+THREAT:     Low
 
 DESCRIPTION:
 

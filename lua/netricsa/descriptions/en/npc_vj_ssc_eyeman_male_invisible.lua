@@ -1,15 +1,15 @@
 MALE GNAAR
 
 
-CLASS:      Gnaar, male
-METABOLISM: mammal
-PERCEPTION: trained war animal
+CLASS:      Gnaar, Male
+METABOLISM: Mammal
+PERCEPTION: Trained War Animal
 SIZE:       4 ft
-ENDURANCE:  low
-HOSTILITY:  low
-WEAPONS:    bites, punches
+ENDURANCE:  Low
+HOSTILITY:  Low
+WEAPONS:    Bites, Punches
 REWARD:     500 FC
-THREAT:     very low
+THREAT:     Very Low
 
 DESCRIPTION:
 

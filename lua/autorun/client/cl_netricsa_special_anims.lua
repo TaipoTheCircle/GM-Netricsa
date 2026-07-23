@@ -20,6 +20,10 @@ SPECIAL_ANIMATIONS = {
         sequence = "Idle_Patrol", 
         fallback = "Idle"   
     },
+                ["npc_vj_ssc_rotten_grunt"] = {
+        sequence = "Idle_Patrol", 
+        fallback = "Idle"   
+    },
                 ["npc_vj_ssc_custom_grunt_improved"] = {
         sequence = "Idle_Patrol", 
         fallback = "Idle"   
