@@ -1,4 +1,4 @@
-Armé de son fusil de chasse Annabelle, Grigori chasse les zombies avec un zèle presque joyeux, riant pendant qu'il les brûle, les piège et les fait exploser. Bien qu'apparemment fou, il fait preuve d'une véritable gentillesse envers Gordon Freeman, l'aidant à traverser les horreurs de Ravenholm.
+PIGEON
 
 
 CLASS: Pigeon
