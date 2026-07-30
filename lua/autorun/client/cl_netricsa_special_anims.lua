@@ -126,6 +126,10 @@ SPECIAL_ANIMATIONS = {
         sequence = "Idle_early", 
         fallback = "Idle"   
     },
+                                        ["npc_vj_ssc_beast_huge_early"] = {
+        sequence = "Idle_early", 
+        fallback = "Idle"   
+    },
                                         ["npc_vj_ssc_beast_big_early"] = {
         sequence = "Idle_early", 
         fallback = "Idle"   
@@ -143,7 +147,10 @@ SPECIAL_ANIMATIONS = {
         sequence = "Idlecomputer", 
         fallback = "Idle"   
     },
-
+                                        ["npc_vj_ssc_beast_smallest"] = {
+        sequence = "Idlecomputer", 
+        fallback = "Idle"   
+    },
                                                 ["npc_vj_ssc_xmas_red_beast"] = {
         sequence = "Idlecomputer", 
         fallback = "Idle"   
