@@ -421,34 +421,61 @@ end
             descBox:SetText(L("ui","select_enemy"))
 
 local function OpenEnemy(npcClass)
-    bottomPanel.CurrentEnemy = npcClass
-    NetricsaData.READ_STATUS.enemies[npcClass] = true
+    local aliasKey = NetricsaData.GetNPCAliasKey(npcClass)
+    local keyToCheck = aliasKey or npcClass
+    
+    bottomPanel.CurrentEnemy = keyToCheck
+    NetricsaData.READ_STATUS.enemies[keyToCheck] = true
     NetricsaData.SaveProgress()
-    local entData = NetricsaData.ENEMIES[npcClass]
+    
+    local entData = NetricsaData.ENEMIES[keyToCheck]
+    
+    if not entData then
+        print("[Netricsa] ERROR: No data for enemy: " .. keyToCheck)
+        return
+    end
+    
+    -- 🔹 ПРОВЕРЯЕМ, ЧТО BODYGROUPS - ЭТО ТАБЛИЦА
+    if entData.bodygroups and type(entData.bodygroups) ~= "table" then
+        print("[Netricsa] WARNING: bodygroups is not a table for " .. keyToCheck .. ", fixing...")
+        entData.bodygroups = {}
+    end
+    
     modelPanel:SetModel(entData.mdl or "models/props_c17/oildrum001.mdl")
     local ent = modelPanel:GetEntity()
     if IsValid(ent) then
         NetricsaUtils.FitModel(ent, modelPanel)
         ent:SetSkin(entData.skin or 0)
         
-        -- Стандартные bodygroup из данных NPC
-        if entData.bodygroups then
-            for i, bg in ipairs(entData.bodygroups) do
-                ent:SetBodygroup(i-1, bg)
+        -- 🔹 ДЛЯ ТУРЕЛЕЙ - ПРИНУДИТЕЛЬНО ПОКАЗЫВАЕМ
+        if keyToCheck == "npc_vj_ss2_turret_machinegun" or keyToCheck == "npc_vj_ss2_turret_plasma" then
+            ent:SetNoDraw(false)
+            ent:SetRenderMode(RENDERMODE_NORMAL)
+            ent:SetColor(Color(255, 255, 255, 255))
+            for i = 0, 6 do
+                ent:SetBodygroup(i, 0)
+            end
+            print("[Netricsa] Turret forced to be visible: " .. keyToCheck)
+        else
+            -- 🔹 БЕЗОПАСНАЯ УСТАНОВКА BODYGROUP
+            if entData.bodygroups and type(entData.bodygroups) == "table" then
+                for i, bg in ipairs(entData.bodygroups) do
+                    ent:SetBodygroup(i-1, bg)
+                end
             end
         end
         
         -- ПРИМЕНЯЕМ СПЕЦИАЛЬНЫЕ BODYGROUP
-        if SPECIAL_BODYGROUPS and SPECIAL_BODYGROUPS[npcClass] then
-            for _, setting in ipairs(SPECIAL_BODYGROUPS[npcClass]) do
+        if SPECIAL_BODYGROUP_OVERRIDES and SPECIAL_BODYGROUP_OVERRIDES[keyToCheck] then
+            for _, setting in ipairs(SPECIAL_BODYGROUP_OVERRIDES[keyToCheck]) do
                 ent:SetBodygroup(setting.group, setting.value)
-                print("[Netricsa] Applied special bodygroup for " .. npcClass .. 
+                print("[Netricsa] Applied special bodygroup for " .. keyToCheck .. 
                       ": group " .. setting.group .. " = " .. setting.value)
             end
         end
 
-        -- Анимации (оставляем как есть)
-        local specialAnim = SPECIAL_ANIMATIONS[npcClass]
+        -- Анимации
+        local specialAnim = SPECIAL_ANIMATIONS[keyToCheck]
         local seq = -1
         
         if specialAnim then
@@ -484,7 +511,8 @@ local function OpenEnemy(npcClass)
             ent:ResetSequence(seq)
         end
     end
-    local desc = NetricsaData.LoadDescription(npcClass) or "No data available."
+    
+    local desc = NetricsaData.LoadDescription(keyToCheck) or "No data available."
     NetricsaUtils.SetAnimatedText(descBox, desc, 10, 0.005)
 end
 
@@ -1071,6 +1099,7 @@ statsPanel.Paint = function(self, w, h)
     local totalSecrets = (stats_secrets_total or 0)
     
     local totalScore = NetricsaData.GetTotalScore() or 0 -- НОВОЕ: получаем очки
+    NetricsaData.GetNPCAliasKey = GetNPCAliasKey
     
     local playTime = "00:00"
     if stats_startTime and stats_startTime > 0 then

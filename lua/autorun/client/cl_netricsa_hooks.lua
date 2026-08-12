@@ -61,32 +61,8 @@ net.Receive("Netricsa_AddScoreForNPC", function()
     end
 end)
 
-net.Receive("Netricsa_AddEnemy", function()
-    if not NetricsaData then 
-        print("[Netricsa] NetricsaData not ready yet")
-        return 
-    end
-    local npcClass = net.ReadString()
-    local mdl = net.ReadString()
-    local skin = net.ReadUInt(8)
-    local bgCount = net.ReadUInt(8)
-    local bodygroups = {}
-    for i=1,bgCount do bodygroups[i] = net.ReadUInt(8) end
-
-    print("[Netricsa Client] Received AddEnemy: " .. npcClass)
-    local isNew = not NetricsaData.ENEMIES[npcClass]
-    NetricsaData.ENEMIES[npcClass] = { mdl = mdl, skin = skin, bodygroups = bodygroups }
-    NetricsaData.SaveProgress()
-
-    if isNew then
-        print("[Netricsa Client] New enemy discovered: " .. npcClass)
-        NetricsaData.showScan = true
-        timer.Simple(2, function() 
-            if NetricsaData then NetricsaData.showScan = false end
-        end)
-        surface.PlaySound("netricsa/Info.wav")
-    end
-end)
+-- 🔹 УДАЛЕН СТАРЫЙ ОБРАБОТЧИК Netricsa_AddEnemy
+-- Теперь используется только обработчик из cl_netricsa_data.lua
 
 net.Receive("Netricsa_AddWeapon", function()
     if not NetricsaData then 
