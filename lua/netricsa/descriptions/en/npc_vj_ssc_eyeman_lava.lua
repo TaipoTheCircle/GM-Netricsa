@@ -23,6 +23,6 @@ Despite their primitive intelligence, they will not hesitate to pounce on their 
 
 TIPS:
 
-- They have no ranged weapons—just keep your distance.
+- They have no ranged weapons-just keep your distance.
 - Some specimens can fly.
 - There are reports of invisible Gnaars.

@@ -5,7 +5,7 @@ Sam... Run. Just run. Don't stop. Don't look back. But if you want to know what'
 
 Yes, the sadists turned on some sad music. Apparently, they want us to remember this moment.
 
-There are boxes ahead. Push them. Quickly. Some have holes—miss them and you'll get stuck. In some places, there's simply no floor. And, of course, at the end, two gray Vortigaunts are waiting to greet you.
+There are boxes ahead. Push them. Quickly. Some have holes-miss them and you'll get stuck. In some places, there's simply no floor. And, of course, at the end, two gray Vortigaunts are waiting to greet you.
 
 We have time before the hand starts squeezing. Just don't think about what will happen when it catches up. Run, Sam. Run faster than ever. This is no joke.
 

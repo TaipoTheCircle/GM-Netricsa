@@ -3,7 +3,7 @@ HALF-QUAKE 2, LIFE AND DEATH BOOTH
 
 Sam, wait! Look what we have here... Another "gift" from our sadistic friends.
 
-These are booths. Just two buttons: "Life" and "Death". Press "Life", and you'll be completely healed. Fractures, wounds, even your eternal fatigue—all will pass. Press "Death"... well, you get the idea. A fatal outcome. No options.
+These are booths. Just two buttons: "Life" and "Death". Press "Life", and you'll be completely healed. Fractures, wounds, even your eternal fatigue-all will pass. Press "Death"... well, you get the idea. A fatal outcome. No options.
 
 ...
 
