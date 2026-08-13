@@ -18,7 +18,31 @@ if CLIENT then
     stats_total_score = 0
 
     -- ============================================================
-    -- 2. АЛИАСЫ NPC
+    -- 2. ФУНКЦИИ РАБОТЫ С ВРЕМЕНЕМ (ДОБАВИТЬ!)
+    -- ============================================================
+    local function SaveExitTime()
+        local exitTime = os.time()
+        file.Write(NetricsaData.EXIT_TIME_FILE, tostring(exitTime))
+        print("[Netricsa] Saved exit time: " .. exitTime)
+    end
+
+    local function LoadExitTime()
+        if file.Exists(NetricsaData.EXIT_TIME_FILE, "DATA") then
+            local raw = file.Read(NetricsaData.EXIT_TIME_FILE, "DATA")
+            if raw then
+                local time = tonumber(raw)
+                if time then
+                    print("[Netricsa] Loaded exit time: " .. time)
+                    return time
+                end
+            end
+        end
+        print("[Netricsa] No exit time file found")
+        return 0
+    end
+
+    -- ============================================================
+    -- 3. АЛИАСЫ NPC
     -- ============================================================
     NetricsaData.NPC_ALIASES = {
         ["npc_vj_ssc_eyeman_female"] = "npc_vj_ssc_eyeman_female",
@@ -468,42 +492,94 @@ if CLIENT then
         return true
     end
 
-    local function OnStart()
-        if hasStarted then return end
-        hasStarted = true
+local function OnStart()
+    if hasStarted then return end
+    hasStarted = true
 
-        local currentMap = game.GetMap()
-        print("[Netricsa] STARTING CAMPAIGN LOAD on map:", currentMap)
+    local currentMap = game.GetMap()
+    print("[Netricsa] ==================================================")
+    print("[Netricsa] STARTING CAMPAIGN LOAD on map:", currentMap)
 
-        local loaded = LoadProgress()
-
-        if not loaded then
-            print("[Netricsa] No valid save found, initializing empty campaign")
-            ENEMIES = {}
-            WEAPONS = {}
-            SAVED_MAPS = {}
-            READ_STATUS = { maps = {}, enemies = {}, weapons = {} }
-            stats_total_score = 0
-        end
-
-        if currentMap and currentMap ~= "" then
-            SAVED_MAPS[currentMap] = true
-        end
-
-        is_loading_process = false
-        SaveProgress()
-
-        print("[Netricsa] ✅ FINAL LOADED STATE:")
-        print("  Maps:", table.Count(SAVED_MAPS))
-        print("  Enemies:", table.Count(ENEMIES))
-        print("  Weapons:", table.Count(WEAPONS))
-        print("  Score:", stats_total_score or 0)
-
-        timer.Simple(3, function()
-            RunConsoleCommand("netricsa_check")
-        end)
+    -- 🔹 [ГЛАВНОЕ] ПРОВЕРЯЕМ ВРЕМЯ ВЫХОДА
+    local exitTime = LoadExitTime()
+    local currentTime = os.time()
+    local timeDiff = exitTime > 0 and (currentTime - exitTime) or 0
+    
+    print("[Netricsa] === TIMEOUT CHECK ===")
+    print("[Netricsa] Exit time:", exitTime)
+    print("[Netricsa] Current time:", currentTime)
+    print("[Netricsa] Time difference:", timeDiff, "seconds (" .. math.Round(timeDiff / 60, 1) .. " minutes)")
+    print("[Netricsa] Threshold: 600 seconds (10 minutes)")
+    
+    local shouldReset = false
+    if exitTime > 0 and timeDiff >= 600 then
+        shouldReset = true
+        print("[Netricsa] 🔥 TIMEOUT! Resetting campaign...")
+    else
+        print("[Netricsa] No timeout, loading progress...")
     end
 
+    -- 🔥 ЕСЛИ ТАЙМАУТ - СБРАСЫВАЕМ!
+    if shouldReset then
+        print("[Netricsa] ⚠️ RESETTING ALL PROGRESS!")
+        
+        ENEMIES = {}
+        WEAPONS = {}
+        SAVED_MAPS = {}
+        READ_STATUS = { maps = {}, enemies = {}, weapons = {} }
+        stats_total_score = 0
+        stats_kills = 0
+        stats_totalEnemies = 0
+        
+        -- Добавляем текущую карту
+        SAVED_MAPS[currentMap] = true
+        
+        -- Сохраняем пустоту
+        is_loading_process = false
+        SaveProgress()
+        
+        -- Удаляем файл времени выхода (чтобы не сбросить дважды)
+        if file.Exists(NetricsaData.EXIT_TIME_FILE, "DATA") then
+            file.Delete(NetricsaData.EXIT_TIME_FILE)
+            print("[Netricsa] Deleted exit time file")
+        end
+        
+        print("[Netricsa] ✅ CAMPAIGN RESET COMPLETE!")
+        print("[Netricsa] ==================================================")
+        return
+    end
+
+    -- 🔹 ЗАГРУЖАЕМ СОХРАНЕНИЕ (если нет таймаута)
+    local loaded = LoadProgress()
+
+    if not loaded then
+        print("[Netricsa] No valid save found, initializing empty campaign")
+        ENEMIES = {}
+        WEAPONS = {}
+        SAVED_MAPS = {}
+        READ_STATUS = { maps = {}, enemies = {}, weapons = {} }
+        stats_total_score = 0
+    end
+
+    -- Всегда добавляем текущую карту
+    if currentMap and currentMap ~= "" and not SAVED_MAPS[currentMap] then
+        SAVED_MAPS[currentMap] = true
+    end
+
+    is_loading_process = false
+    SaveProgress()
+
+    print("[Netricsa] ✅ FINAL LOADED STATE:")
+    print("  Maps:", table.Count(SAVED_MAPS))
+    print("  Enemies:", table.Count(ENEMIES))
+    print("  Weapons:", table.Count(WEAPONS))
+    print("  Score:", stats_total_score or 0)
+    print("[Netricsa] ==================================================")
+
+    timer.Simple(3, function()
+        RunConsoleCommand("netricsa_check")
+    end)
+end
     -- ============================================================
     -- 8. КОМАНДЫ И ХУКИ
     -- ============================================================
