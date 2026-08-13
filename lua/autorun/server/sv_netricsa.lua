@@ -282,6 +282,49 @@ end
         return data
     end
 
+-- 🔹 [ДОБАВИТЬ] Функция получения данных DrGBase NPC
+local function GetDrGBaseData(ent)
+    if not IsValid(ent) then return nil end
+    
+    local data = {
+        class = ent:GetClass(),
+        mdl = ent:GetModel() or "",
+        skin = ent:GetSkin() or 0,
+        bodygroups = {},
+        color = {r = 255, g = 255, b = 255, a = 255},
+        rendermode = 0,
+        renderfx = 0,
+        material = "",
+        nodraw = false,
+        scale = 1
+    }
+    
+    -- Получаем bodygroup
+    local numBGs = ent:GetNumBodyGroups() or 0
+    for i = 0, numBGs - 1 do
+        data.bodygroups[i+1] = ent:GetBodygroup(i) or 0
+    end
+    
+    -- Получаем цвет
+    if ent.GetRenderColor then
+        local r, g, b, a = ent:GetRenderColor()
+        data.color = {r = r or 255, g = g or 255, b = b or 255, a = a or 255}
+    else
+        local col = ent:GetColor()
+        if col and type(col) == "table" and col.r then
+            data.color = {r = col.r, g = col.g, b = col.b, a = col.a}
+        end
+    end
+    
+    data.rendermode = ent:GetRenderMode() or 0
+    data.renderfx = ent:GetRenderFX() or 0
+    data.material = ent:GetMaterial() or ""
+    data.nodraw = ent:GetNoDraw() or false
+    data.scale = ent:GetModelScale() or 1
+    
+    return data
+end
+
 concommand.Add("netricsa_debug_send", function(ply, cmd, args)
     if not args or #args == 0 then
         print("Usage: netricsa_debug_send <npc_class>")
