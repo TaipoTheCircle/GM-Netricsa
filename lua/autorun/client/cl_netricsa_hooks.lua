@@ -61,31 +61,6 @@ net.Receive("Netricsa_AddScoreForNPC", function()
     end
 end)
 
--- 🔹 УДАЛЕН СТАРЫЙ ОБРАБОТЧИК Netricsa_AddEnemy
--- Теперь используется только обработчик из cl_netricsa_data.lua
-
-net.Receive("Netricsa_AddWeapon", function()
-    if not NetricsaData then 
-        print("[Netricsa] NetricsaData not ready yet")
-        return 
-    end
-    local class = net.ReadString()
-    local mdl = net.ReadString()
-
-    print("[Netricsa Client] Received AddWeapon: " .. class)
-    local isNew = not NetricsaData.WEAPONS[class]
-    NetricsaData.WEAPONS[class] = { mdl = mdl }
-    NetricsaData.SaveProgress()
-
-    if isNew then
-        print("[Netricsa Client] New weapon discovered: " .. class)
-        NetricsaData.showScan = true
-        timer.Simple(2, function() 
-            if NetricsaData then NetricsaData.showScan = false end
-        end)
-        surface.PlaySound("netricsa/Info.wav")
-    end
-end)
 
 -- HUD отрисовка
 hook.Add("HUDPaint", "NetricsaScoreIcon", function()

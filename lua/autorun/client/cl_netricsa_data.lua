@@ -300,17 +300,37 @@ if CLIENT then
         SaveProgress()
     end)
 
-    net.Receive("Netricsa_AddWeapon", function()
-        local class = net.ReadString()
-        local mdl = net.ReadString()
+net.Receive("Netricsa_AddWeapon", function()
+    local class = net.ReadString()
+    
+    -- 🔹 [ИСПРАВЛЕНО] Читаем mdl, но если его нет — используем стандартное
+    local mdl = net.ReadString()
+    if mdl == "" then
+        mdl = "models/weapons/w_pistol.mdl"
+    end
+    
+    print("[Netricsa DEBUG] AddWeapon received! Class:", class, "MDL:", mdl)
 
-        if not WEAPONS[class] then
-            WEAPONS[class] = { mdl = mdl }
-            NetricsaData.WEAPONS = WEAPONS
-            SaveProgress()
-            print("[Netricsa Client] New weapon discovered: " .. class)
-        end
-    end)
+    if not WEAPONS[class] then
+        WEAPONS[class] = { mdl = mdl }
+        NetricsaData.WEAPONS = WEAPONS
+        SaveProgress()
+        
+        print("[Netricsa Client] ✅ New weapon discovered: " .. class)
+        
+        -- 🔹 [ДОБАВЛЕНО] Показываем уведомление и звук
+        NetricsaData.showScan = true
+        surface.PlaySound("netricsa/Info.wav")  -- Используем существующий звук
+        
+        timer.Simple(2, function() 
+            if NetricsaData then 
+                NetricsaData.showScan = false 
+            end
+        end)
+    else
+        print("[Netricsa Client] Weapon already known: " .. class)
+    end
+end)
 
     net.Receive("Netricsa_UpdateScore", function()
         local points = net.ReadUInt(16) or 0
