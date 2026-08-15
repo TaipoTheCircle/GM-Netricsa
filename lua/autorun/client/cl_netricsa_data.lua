@@ -92,7 +92,8 @@ if CLIENT then
     -- ============================================================
     -- 3. ВСПОМОГАТЕЛЬНЫЕ ФУНКЦИИ
     -- ============================================================
-    local function GetNPCAliasKey(npcClass)
+
+    function GetNPCAliasKey(npcClass)
         if not npcClass then return npcClass end
         return NetricsaData.NPC_ALIASES[npcClass] or npcClass
     end
@@ -340,6 +341,7 @@ if CLIENT then
     -- ============================================================
     -- 7. ОСТАЛЬНЫЕ ФУНКЦИИ
     -- ============================================================
+
     local function LoadDescription(name)
         local lang = CurrentLang or "en"
         name = GetNPCAliasKey(name)
@@ -492,6 +494,10 @@ if CLIENT then
         return true
     end
 
+local function GetTotalScore()
+        return stats_total_score or 0
+    end
+
 local function OnStart()
     if hasStarted then return end
     hasStarted = true
@@ -638,6 +644,8 @@ end
     NetricsaData.GetNPCAliasKey = GetNPCAliasKey
     NetricsaData.IsNPCAlias = IsNPCAlias
     NetricsaData.GetNPCsByAlias = GetNPCsByAlias
+    NetricsaData.GetTotalScore = GetTotalScore
+    
 
     -- ============================================================
     -- 10. ТАЙМЕРЫ
