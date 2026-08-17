@@ -386,6 +386,44 @@ end)
     end
 
     local function LoadProgress()
+    -- 🔹 [ГЛАВНОЕ] Проверяем таймаут ПРИ ЛЮБОЙ ЗАГРУЗКЕ!
+    local exitTime = LoadExitTime()
+    local currentTime = os.time()
+    local timeDiff = exitTime > 0 and (currentTime - exitTime) or 0
+    
+    print("[Netricsa] === TIMEOUT CHECK IN LoadProgress ===")
+    print("[Netricsa] Exit time:", exitTime)
+    print("[Netricsa] Current time:", currentTime)
+    print("[Netricsa] Time difference:", timeDiff, "seconds")
+    
+    if exitTime > 0 and timeDiff >= 600 then
+        print("[Netricsa] 🔥 TIMEOUT! Resetting campaign in LoadProgress!")
+        
+        -- СБРАСЫВАЕМ ВСЁ!
+        ENEMIES = {}
+        WEAPONS = {}
+        SAVED_MAPS = {}
+        READ_STATUS = { maps = {}, enemies = {}, weapons = {} }
+        stats_total_score = 0
+        stats_kills = 0
+        stats_totalEnemies = 0
+        
+        local currentMap = game.GetMap()
+        if currentMap and currentMap ~= "" then
+            SAVED_MAPS[currentMap] = true
+        end
+        
+        is_loading_process = false
+        SaveProgress()
+        
+        if file.Exists(NetricsaData.EXIT_TIME_FILE, "DATA") then
+            file.Delete(NetricsaData.EXIT_TIME_FILE)
+            print("[Netricsa] Deleted exit time file")
+        end
+        
+        print("[Netricsa] ✅ CAMPAIGN RESET IN LoadProgress!")
+        return false  -- Возвращаем false, чтобы не загружать старые данные
+    end
         print("[Netricsa Client] Loading progress from file: " .. NetricsaData.PROGRESS_FILE)
 
         if not file.Exists(NetricsaData.PROGRESS_FILE, "DATA") then
@@ -643,6 +681,12 @@ end
         SaveProgress()
     end)
 
+    -- 🔹 [НОВОЕ] Проверка таймаута при загрузке клиента
+hook.Add("Initialize", "Netricsa_CheckTimeoutOnStart", function()
+    print("[Netricsa] Checking timeout on client initialize...")
+    NetricsaData.OnStart()
+end)
+
     -- ============================================================
     -- 9. ЭКСПОРТ В NetricsaData
     -- ============================================================
@@ -681,5 +725,17 @@ end
             RunConsoleCommand("netricsa_campaign_time", tostring(os.time()))
         end
     end)
-
+timer.Simple(0.5, function()
+    print("[Netricsa] Running startup timeout check...")
+    local exitTime = LoadExitTime()
+    local timeDiff = exitTime > 0 and (os.time() - exitTime) or 0
+    
+    if exitTime > 0 and timeDiff >= 600 then
+        print("[Netricsa] 🔥 TIMEOUT detected on startup! Resetting...")
+        NetricsaData.OnStart()
+    else
+        print("[Netricsa] No timeout on startup, loading progress...")
+        NetricsaData.OnStart()
+    end
+end)
 end
