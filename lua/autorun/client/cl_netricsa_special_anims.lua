@@ -398,6 +398,19 @@ SPECIAL_ANIMATIONS = {
         fallback = "Idle"   
         
     },
+                                                                                                                                                ["npc_vj_ss2_footballer"] = {
+        sequence = "loadingscreen", 
+        fallback = "Idle"   
+        
+    },
+                                        ["npc_vj_ssc_headman_kamikaze_arch"] = {
+        sequence = "Kamikaze_attack", 
+        fallback = "Idle"    
+    },
+                                            ["npc_vj_ssc_headman_kamikaze_arabian"] = {
+        sequence = "Kamikaze_attack", 
+        fallback = "Idle"    
+    },
     
     SPECIAL_BODYGROUPS = {
     ["npc_vj_ss2_turret_machinegun"] = {
