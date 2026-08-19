@@ -1,10 +1,10 @@
-M24 GRENADE
+M24 HAND GRENADE
 
 
-WEAPON:      M24 hand granade
-AMMO:        Standard TNT charge (high explosive)
-ROF:         Single-use / thrown
-WEIGHT:      1.3 lbs
+WEAPON:  M24 Hand Grenade
+AMMO:    Standard TNT charge (High Explosive)
+ROF:     Single-Use / Thrown
+WEIGHT:  1,3 lbs
 
 DESCRIPTION:
 

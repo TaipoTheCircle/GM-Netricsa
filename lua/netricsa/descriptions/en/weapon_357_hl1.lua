@@ -1,7 +1,7 @@
-357 MAGNUM REVOLVER
+PYTHON 357 MAGNUM REVOLVER
 
 
-WEAPON:      Colt Python 357 Magnum
+WEAPON:      Python 357 Magnum Revolver
 AMMO:        357 Magnum rounds
 ROF:         Double-action revolver, ~30 rds/min
 

@@ -1,9 +1,9 @@
-REVOLVER MAGNUM 357
+PYTHON REVOLVER MAGNUM 357
 
 
-WEAPON: Colt Python 357 Magnum
-AMMO: 357 cartouches Magnum
-ROF: Revolver double action, ~30 coups/min
+WEAPON: Python 357 Magnum
+AMMO:   357 cartouches Magnum
+ROF:    Revolver double action, ~30 coups / min
 
 DESCRIPTION: 
 

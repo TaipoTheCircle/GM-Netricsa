@@ -1,0 +1,10 @@
+ENTREPRISE DE WHISKY
+
+
+Whiskey Company était une unité d'élite du Corps des Marines créée pour mener des opérations très dangereuses. L'une des principales missions de l'unité était de capturer le criminel de guerre Roland Kane, qui se cachait sur une planète terraformée isolée. L'unité comprenait Joseph Turok, un ancien membre de l'unité d'élite Wolf Pack et une proche connaissance de Kane lui-même.
+
+L'unité était une équipe de combat bien armée, capable d'opérer dans les conditions les plus difficiles. Whiskey Company était équipée de fusils d'assaut et à impulsions, de fusils de chasse, de mitrailleuses, d'armes de tireur d'élite, de lance-grenades, de lance-flammes, d'explosifs et de couteaux de combat. L'unité comprenait du personnel de commandement, des médecins, de l'infanterie lourde, du génie et des pilotes, ce qui leur permettait de mener des opérations indépendantes, loin des forces principales.
+
+Cependant, l’opération contre Kane a mal tourné dès le début. Alors qu'il approchait de la planète, le navire de la Whiskey Company fut abattu par un système anti-aérien Mendel-Gruman et s'écrasa à la surface, se brisant en plusieurs morceaux. Les survivants se sont retrouvés dispersés dans une jungle peuplée de dinosaures génétiquement modifiés, d'insectes géants et d'autres prédateurs. Les soldats de Mendel-Gruman commencèrent simultanément à les chasser.
+
+Malgré le désastre, les restes de la Whiskey Company ont pu se regrouper et établir un camp temporaire. Mais s'échapper de la planète s'est avéré presque impossible : les uns après les autres, les soldats ont péri à cause des tirs de Mendel-Gruman, des attaques de dinosaures et d'autres créatures. Seules quelques unités de l'unité originale ont survécu au carnage et ont échappé à la planète. Pour Whiskey Company, la mission de capturer Kane est devenue une lutte pour la survie, où l'ennemi peut être n'importe qui : un soldat, un prédateur ou la planète elle-même.

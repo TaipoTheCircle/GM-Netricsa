@@ -1,7 +1,7 @@
-HALF-QUAKE 357 MAGNUM REVOLVER
+PYTHON HALF-QUAKE 357 MAGNUM REVOLVER
 
 
-WEAPON:   Colt Python HALF-QUAKE 357 Magnum
+WEAPON:   Python HALF-QUAKE 357 Magnum Revolver
 AMMO:     357 Magnum
 ROF:      Double-action revolver, ~30 rds/min.
 

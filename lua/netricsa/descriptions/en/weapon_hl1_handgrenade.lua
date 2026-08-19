@@ -1,9 +1,9 @@
-HAND GRENADE
+MK2 HAND GRENADE
 
 
-WEAPON:      Hand Grenade
+WEAPON:      Mk2 Hand Grenade
 AMMO:        Fragmentation grenades
-ROF:         Manual throw, ~12 throws/min
+ROF:         Manual throw, ~12 throws / min
 
 DESCRIPTION:
 
