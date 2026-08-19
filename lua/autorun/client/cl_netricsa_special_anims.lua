@@ -403,12 +403,54 @@ SPECIAL_ANIMATIONS = {
         fallback = "Idle"   
         
     },
+                                                                                                                                                    ["npc_vj_ss2_scorp"] = {
+        sequence = "loadingscreen", 
+        fallback = "Idle"   
+        
+    },
+                                                                                                                                                        ["npc_vj_ss2_scorp_big"] = {
+        sequence = "loadingscreen", 
+        fallback = "Idle"   
+        
+    },
                                         ["npc_vj_ssc_headman_kamikaze_arch"] = {
         sequence = "Kamikaze_attack", 
         fallback = "Idle"    
     },
                                             ["npc_vj_ssc_headman_kamikaze_arabian"] = {
         sequence = "Kamikaze_attack", 
+        fallback = "Idle"    
+    },
+                                                ["npc_vj_turok_kein_solder_heavy"] = {
+        sequence = "idle_all_angry", 
+        fallback = "Idle"    
+    },
+                                                    ["npc_vj_turok_kein_solder_officer"] = {
+        sequence = "idle_all_angry", 
+        fallback = "Idle"    
+    },
+                                                    ["npc_vj_turok_kein_solder_plasma_rifle"] = {
+        sequence = "idle_all_angry", 
+        fallback = "Idle"    
+    },
+                                                    ["npc_vj_turok_kein_solder_rpg"] = {
+        sequence = "idle_all_angry", 
+        fallback = "Idle"    
+    },
+                                                    ["npc_vj_turok_kein_solder_shotgun"] = {
+        sequence = "idle_all_angry", 
+        fallback = "Idle"    
+    },
+                                                        ["npc_vj_turok_kein_solder_smg"] = {
+        sequence = "idle_all_angry", 
+        fallback = "Idle"    
+    },
+                                                        ["npc_vj_turok_kein_solder_sniper"] = {
+        sequence = "idle_all_angry", 
+        fallback = "Idle"    
+    },
+                                                            ["npc_cyclop"] = {
+        sequence = "idle", 
         fallback = "Idle"    
     },
     

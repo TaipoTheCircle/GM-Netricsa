@@ -1193,6 +1193,7 @@ end)
         ["npc_vj_ssc_concept_airelemental"] = true,
         ["npc_vj_ss2_jackoverse_bone_thing"] = true,
         ["npc_vj_ss2_jackoverse_mental"] = true,
+        ["npc_cyclop"] = true,
     }
 
 local function AnnounceSpecialNPC(ent)
