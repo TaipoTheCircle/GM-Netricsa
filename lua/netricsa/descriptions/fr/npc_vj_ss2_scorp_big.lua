@@ -13,7 +13,7 @@ MENACE : Très élevée
 
 DESCRIPTIF :
 
-Ces arachnides ont été surnommés « soldats scorpions » par les humains, bien que la base de données officielle de l'ADF les appelle « soldats arachnides ». Cependant, "Scorpion Soldier" semble plus cool.
+Ces arachnides ont été surnommés « soldats scorpions » par les humains, bien que la base de données officielle de l'EDF les appelle « soldats arachnides ». Cependant, "Scorpion Soldier" semble plus cool.
 
 Ces arachnides extraterrestres sont originaires d’une planète lointaine et hostile, où ils constituaient l’espèce dominante. Ils ont même réussi à former une société avancée – du moins dans la mesure où cela est possible pour les insectes géants.
 

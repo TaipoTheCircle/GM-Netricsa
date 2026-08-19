@@ -13,7 +13,7 @@ THREAT:     Very High
 
 DESCRIPTION:
 
-These arachnids were dubbed "Scorpion Soldiers" by humans, though the official ADF database calls them "Arachnid Soldiers". However, "Scorpion Soldier" sounds cooler.
+These arachnids were dubbed "Scorpion Soldiers" by humans, though the official EDF database calls them "Arachnid Soldiers". However, "Scorpion Soldier" sounds cooler.
 
 These alien arachnids originate from a distant, harsh planet, where they were the dominant species. They even managed to form an advanced society—at least as far as that's possible for giant insects.
 
