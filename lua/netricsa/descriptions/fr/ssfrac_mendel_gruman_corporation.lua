@@ -1,0 +1,8 @@
+CORPORATION MENDEL-GRUMAN
+
+
+Mendel-Gruman Corporation est une mégacorporation transnationale futuriste qui a fusionné la recherche scientifique, la terraformation et la puissance militaire en une seule entité. L'entreprise a fourni un soutien financier et militaire à Roland Kane et a réussi à créer une biosphère entièrement terraformée sur une planète sans vie. Mais derrière ces réalisations scientifiques se cache un objectif bien plus sinistre : utiliser l’écosystème local et ses habitants comme base pour créer des armes biologiques.
+
+La principale force de Mendel-Gruman réside dans ses unités militaires : les soldats MG, une armée privée bien équipée. Les soldats réguliers, les vétérans, les tireurs d'élite et les lanceurs de missiles constituent le noyau de la force, tandis que les unités d'élite utilisent des fusils à impulsion, des lance-flammes et des armes automatiques lourdes. Derrière ces unités de combat se trouvent les scientifiques de la société, engagés dans la recherche et l'expérimentation, transformant des complexes planétaires entiers en bases scientifiques et militaires fermées.
+
+C'est sur cette planète que Mendel-Gruman a commencé à étudier les insectes souterrains locaux. Les scientifiques ont découvert que leurs organismes étaient capables de produire une toxine extrêmement efficace qui tuait tous les êtres vivants à proximité en quelques secondes. La recherche a rapidement évolué vers le développement d'armes biologiques et la surface de la planète s'est transformée en un réseau fortifié de complexes dotés de systèmes de défense, de transports et de garnisons militaires.
