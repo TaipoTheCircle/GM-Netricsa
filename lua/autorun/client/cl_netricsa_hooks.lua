@@ -61,9 +61,17 @@ net.Receive("Netricsa_AddScoreForNPC", function()
     end
 end)
 
-
+-- 🔹 Проверка, открыт ли интерфейс Netricsa или скрыт HUD
+local function IsNetricsaHidden()
+    -- Скрываем, если:
+    -- 1. Открыт интерфейс Netricsa
+    -- 2. Или отключён стандартный HUD (cl_drawhud 0)
+    return (IsValid(NetricsaFrame) and NetricsaFrame:IsVisible()) 
+           or not GetConVar("cl_drawhud"):GetBool()
+end
 -- HUD отрисовка
 hook.Add("HUDPaint", "NetricsaScoreIcon", function()
+    if IsNetricsaHidden() then return end  -- 🔹 Скрываем, если интерфейс открыт
     if not NetricsaData or not NetricsaStyle or not NetricsaStyle.score then return end
     
     local totalScore = NetricsaData.GetTotalScore and NetricsaData.GetTotalScore() or 0
@@ -97,6 +105,7 @@ hook.Add("HUDPaint", "NetricsaScoreIcon", function()
 end)
 
 hook.Add("HUDPaint","NetricsaScanText",function()
+    if IsNetricsaHidden() then return end
     if not NetricsaData then return end
     if NetricsaData.showScan then
         local alpha = math.abs(math.sin(CurTime()*4))*255
@@ -109,6 +118,7 @@ hook.Add("HUDPaint","NetricsaScanText",function()
 end)
 
 hook.Add("HUDPaint", "NetricsaMailIcon", function()
+    if IsNetricsaHidden() then return end
     if not NetricsaData or not NetricsaStyle or not NetricsaStyle.mail then return end
 
     local unread = 0
