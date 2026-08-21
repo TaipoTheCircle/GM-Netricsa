@@ -32,41 +32,42 @@ if CLIENT then
         return btn
     end
 
-    local function EnhanceButton(btn)
-        if not IsValid(btn) then
-            return
-        end
+    -- 🔹 [ИСПРАВЛЕНО] Только ОДНА функция EnhanceButton!
+function EnhanceButton(btn)
+    if not IsValid(btn) then return end
 
-        -- звук при наведении
-        btn.OnCursorEntered = function(self)
-            surface.PlaySound("netricsa/button_ssm.wav")
-            self._hovered = true
-        end
+    -- Звук при наведении
+    local oldEnter = btn.OnCursorEntered
+    btn.OnCursorEntered = function(self, ...)
+        surface.PlaySound("netricsa/button_ssm.wav")
+        if oldEnter then oldEnter(self, ...) end
+        self._hovered = true
+    end
 
-        btn.OnCursorExited = function(self)
-            self._hovered = false
-        end
+    btn.OnCursorExited = function(self)
+        self._hovered = false
+    end
 
-        -- оборачиваем DoClick, чтобы всегда играл press
-        local oldClick = btn.DoClick
-        btn.DoClick = function(self, ...)
-            surface.PlaySound("netricsa/button_ssm_press.wav")
-            if oldClick then oldClick(self, ...) end
-        end
+    -- Звук при клике (сохраняем старый DoClick)
+    local oldClick = btn.DoClick
+    btn.DoClick = function(self, ...)
+        surface.PlaySound("netricsa/button_ssm_press.wav")
+        if oldClick then oldClick(self, ...) end
+    end
 
-        -- добавляем универсальную подсветку текста (только если нет кастомного Paint)
-        if not btn._customPaint then
-            local oldPaint = btn.Paint
-            btn.Paint = function(self, w, h)
-                local style = NetricsaStyle or STYLES.Revolution
-                local col = self._hovered and Color(255,255,255) or style.color
-                draw.SimpleText(self:GetText(), "NetricsaText", w/2, h/2, col, TEXT_ALIGN_CENTER, TEXT_ALIGN_CENTER)
-                if oldPaint and oldPaint ~= DButton.Paint then
-                    oldPaint(self, w, h)
-                end
+    -- Подсветка текста (если нет кастомного Paint)
+    if not btn._customPaint then
+        local oldPaint = btn.Paint
+        btn.Paint = function(self, w, h)
+            local style = NetricsaStyle or STYLES.Revolution
+            local col = self._hovered and Color(255,255,255) or style.color
+            draw.SimpleText(self:GetText(), "NetricsaText", w/2, h/2, col, TEXT_ALIGN_CENTER, TEXT_ALIGN_CENTER)
+            if oldPaint and oldPaint ~= DButton.Paint then
+                oldPaint(self, w, h)
             end
         end
     end
+end
 
     local function NoBG(p)
         if not IsValid(p) then return end
@@ -105,28 +106,25 @@ if CLIENT then
         local size = math.max(mx.x - mn.x, mx.y - mn.y, mx.z - mn.z)
         if size <= 0 then size = 50 end
 
-        -- 🔧 динамическое масштабирование
         local scale
         if size > 250 then
-            scale = 180 / size       -- крупные модели уменьшаем
+            scale = 180 / size
         elseif size > 100 then
-            scale = 1.2              -- обычные NPC - чуть крупнее
+            scale = 1.2
         elseif size > 60 then
-            scale = 1.5              -- мелкие - побольше
+            scale = 1.5
         else
-            scale = 80 / size        -- совсем крошечные - сильно увеличиваем
+            scale = 80 / size
         end
 
         scale = math.Clamp(scale, 0.05, 3)
         ent:SetModelScale(scale, 0)
 
-        -- ⚙️ пересчитываем центр после масштабирования
         local mn2, mx2 = ent:GetRenderBounds()
         local center = (mn2 + mx2) * 0.5
         local height = mx2.z - mn2.z
 
-        -- 🔧 камера "сверху-сбоку" с учётом размера
-        local baseDist = math.max(height * 1.8, 180) -- ближе для обычных NPC
+        local baseDist = math.max(height * 1.8, 180)
         local camOffset = Vector(baseDist, baseDist * 0.5, baseDist * 0.35)
         local camPos = center + camOffset
 
@@ -135,20 +133,16 @@ if CLIENT then
         panel:SetFOV(35)
     end
 
-    -- Приведение аргумента таба к "внутреннему" ключу: "maps"/"enemies"/"weapons"/...
-    -- Нормализует аргумент таба: принимает либо "maps"/"enemies"/"weapons", либо локализованный текст L("tabs",...)
     local function TabKeyFromName(name)
         if not name then return nil end
         local s = tostring(name)
 
-        -- если уже внутренний ключ - возвращаем сразу
         if s == "maps" or s == "enemies" or s == "weapons" or s == "tactical" or s == "statistics" then
             return s
         end
 
-        -- соответствие локализованных названий → внутренние ключи
         local mapping = {}
-        mapping[L("tabs","strategic")]  = "maps"      -- стратегические данные = карты
+        mapping[L("tabs","strategic")]  = "maps"
         mapping[L("tabs","enemies")]    = "enemies"
         mapping[L("tabs","weapons")]    = "weapons"
         mapping[L("tabs","tactical")]   = "tactical"
@@ -156,7 +150,6 @@ if CLIENT then
 
         if mapping[s] then return mapping[s] end
 
-        -- попытка по "вхождению" (на всякий случай, англ/рус)
         local low = string.lower(s)
         if low:find("map") or low:find("карта") or low:find("стратег") then return "maps" end
         if low:find("enemy") or low:find("враг") or low:find("враги") then return "enemies" end

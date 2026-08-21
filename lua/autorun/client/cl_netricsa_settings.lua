@@ -23,6 +23,10 @@ if CLIENT then
         "Автоматическое вращение моделей NPC/оружия (1 - вкл, 0 - выкл)"
     )
 
+    -- 🔹 Настройка звука "Анализ из Серьёзного Кирилла"
+    CreateClientConVar("netricsa_sound_kirill", "0", true, false,
+        "Использовать звук Анализа из Серьёзного Кирилла вместо стандартного (1 - вкл, 0 - выкл)")
+
     local function StringToKey(str)
         if not str or str == "" then return KEY_N end
         str = tostring(str):upper()
@@ -58,15 +62,19 @@ if CLIENT then
     end)
 
     -- 🔹 Добавляем панель настроек
-hook.Add("PopulateToolMenu", "Netricsa_AddSettingsPanel", function()
-    spawnmenu.AddToolMenuOption(
-        "Netricsa", "Settings", "NetricsaConfig", L("ui", "settings_tab"), "", "", function(panel)
-            panel:ClearControls()
-            panel:Help(L("ui", "settings_help"))
-            
-            -- 🔹 Чекбокс для авто-вращения
-            panel:Help(L("ui", "auto_rotate_help"))
-            panel:CheckBox(L("ui", "auto_rotate_label"), "netricsa_auto_rotate")
+    hook.Add("PopulateToolMenu", "Netricsa_AddSettingsPanel", function()
+        spawnmenu.AddToolMenuOption(
+            "Netricsa", "Settings", "NetricsaConfig", L("ui", "settings_tab"), "", "", function(panel)
+                panel:ClearControls()
+                panel:Help(L("ui", "settings_help"))
+                
+                -- 🔹 Чекбокс для авто-вращения
+                panel:Help(L("ui", "auto_rotate_help"))
+                panel:CheckBox(L("ui", "auto_rotate_label"), "netricsa_auto_rotate")
+
+                -- 🔹 Чекбокс для звука "Анализ из Серьёзного Кирилла"
+                panel:Help("Включить звук 'Анализ' из Серьёзного Кирилла\nвместо стандартного звука при обнаружении новых врагов/оружия.")
+                panel:CheckBox("🎵 Звук Анализа из Серьёзного Кирилла", "netricsa_sound_kirill")
 
                 -- Настройка клавиши открытия
                 panel:Help(L("ui", "settings_key_help"))

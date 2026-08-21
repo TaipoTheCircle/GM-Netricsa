@@ -2,43 +2,50 @@ if CLIENT then
     local NetricsaFrame
     local contentPanel
 
-    function OpenNetricsa()
-        if IsValid(NetricsaFrame) then
-            NetricsaFrame:SetVisible(true)
-            
-            -- 🔹 ОБНОВЛЯЕМ СТАТИСТИКУ ПРИ ПОВТОРНОМ ОТКРЫТИИ
-            if _G.NetricsaCurrentTab == L("tabs","statistics") then
-                print("[Netricsa] Refreshing statistics tab on reopen")
-                NetricsaTabs.SwitchTab(L("tabs","statistics"))
+function OpenNetricsa()
+    if IsValid(NetricsaFrame) then
+        NetricsaFrame:SetVisible(true)
+        
+        -- 🔹 Скрываем системный курсор
+        gui.EnableScreenClicker(true)
+        
+        -- 🔹 ОБНОВЛЯЕМ СТАТИСТИКУ ПРИ ПОВТОРНОМ ОТКРЫТИИ
+        if _G.NetricsaCurrentTab == L("tabs","statistics") then
+            print("[Netricsa] Refreshing statistics tab on reopen")
+            NetricsaTabs.SwitchTab(L("tabs","statistics"))
+        end
+        
+        -- 🔹 ПРИНУДИТЕЛЬНО ОБНОВЛЯЕМ СТАТИСТИКУ ПРИ ОТКРЫТИИ
+        timer.Simple(0.5, function()
+            if stats_totalEnemies == 0 then
+                print("[Netricsa] Requesting stats update on open")
+                RunConsoleCommand("netricsa_check")
             end
-            
-            -- 🔹 ПРИНУДИТЕЛЬНО ОБНОВЛЯЕМ СТАТИСТИКУ ПРИ ОТКРЫТИИ
-            timer.Simple(0.5, function()
-                if stats_totalEnemies == 0 then
-                    print("[Netricsa] Requesting stats update on open")
-                    RunConsoleCommand("netricsa_check")
-                end
-            end)
+        end)
+        return
+    end
+
+    -- 🔹 ПРОВЕРКА В НАЧАЛЕ ФУНКЦИИ
+    if not NetricsaTabs then
+        print("[Netricsa] ERROR: NetricsaTabs not loaded! Loading tabs first...")
+        include("cl_netricsa_tabs.lua")
+        if not NetricsaTabs then
+            print("[Netricsa] FATAL: Cannot load NetricsaTabs!")
             return
         end
+    end
 
-        -- 🔹 ПРОВЕРКА В НАЧАЛЕ ФУНКЦИИ
-        if not NetricsaTabs then
-            print("[Netricsa] ERROR: NetricsaTabs not loaded! Loading tabs first...")
-            include("cl_netricsa_tabs.lua")
-            if not NetricsaTabs then
-                print("[Netricsa] FATAL: Cannot load NetricsaTabs!")
-                return
-            end
-        end
+    NetricsaFrame = vgui.Create("DFrame")
+    NetricsaFrame:SetSize(ScrW(), ScrH())
+    NetricsaFrame:SetPos(0, 0)
+    NetricsaFrame:ShowCloseButton(false)
+    NetricsaFrame:SetTitle("")
+    NetricsaFrame:SetDraggable(false)
+    NetricsaFrame:MakePopup()
+    
+    -- 🔹 СКРЫВАЕМ СИСТЕМНЫЙ КУРСОР
+    gui.EnableScreenClicker(true)
 
-        NetricsaFrame = vgui.Create("DFrame")
-        NetricsaFrame:SetSize(ScrW(), ScrH())
-        NetricsaFrame:SetPos(0, 0)
-        NetricsaFrame:ShowCloseButton(false)
-        NetricsaFrame:SetTitle("")
-        NetricsaFrame:SetDraggable(false)
-        NetricsaFrame:MakePopup()
 
         local gridMat = Material(NetricsaStyle.grid or "netricsa/grid.png", "noclamp smooth")
         NetricsaFrame.Paint = function(self, w, h)
@@ -64,16 +71,17 @@ end
 draw.SimpleText(versionText, "NetricsaTitle", 20, 10, style.color, TEXT_ALIGN_LEFT, TEXT_ALIGN_TOP)
         end
 
-        local exitBtn = vgui.Create("DButton", NetricsaFrame)
-        exitBtn:SetText("")
-        exitBtn:SetSize(40, 40)
-        exitBtn:SetPos(ScrW() - 50, 10)
+    local exitBtn = vgui.Create("DButton", NetricsaFrame)
+    exitBtn:SetText("")
+    exitBtn:SetSize(40, 40)
+    exitBtn:SetPos(ScrW() - 50, 10)
 
-        exitBtn.DoClick = function()
-            -- Воспроизводим звук Сэма при закрытии
-            hook.Run("OnNetricsaClosed")
-            NetricsaFrame:Close()
-        end
+    exitBtn.DoClick = function()
+        hook.Run("OnNetricsaClosed")
+        -- 🔹 ВОЗВРАЩАЕМ СИСТЕМНЫЙ КУРСОР
+        gui.EnableScreenClicker(false)
+        NetricsaFrame:Close()
+    end
 
         exitBtn.Paint = function(self, w, h)
             local style = NetricsaStyle or STYLES.Revolution
@@ -115,8 +123,7 @@ draw.SimpleText(versionText, "NetricsaTitle", 20, 10, style.color, TEXT_ALIGN_LE
 
         -- вспомогательные функции
         local currentTab = L("tabs","strategic")
-
-        local function OpenStatistics()
+    local function OpenStatistics()
             NetricsaTabs.SwitchTab(L("tabs","statistics"))
             currentTab = L("tabs","statistics")
             _G.NetricsaCurrentTab = currentTab
@@ -202,26 +209,37 @@ draw.SimpleText(versionText, "NetricsaTitle", 20, 10, style.color, TEXT_ALIGN_LE
             L("tabs","statistics")
         }
 
-        for i, name in ipairs(tabs) do
-            local btn = NetricsaUtils.CreateButton(leftPanel, name)
-            btn:SetText(name)
-            btn:SetSize(230,40)
-            btn:SetPos(10, (i-1)*45 + 10)
-            btn:SetFont("NetricsaText")
-            btn.Paint = function(self, w, h)
-                self:SetTextColor(NetricsaStyle.color)
-                local unread = NetricsaData.GetUnreadCount(name) -- уже умеет нормализовать
-                if unread > 0 then
-                    draw.SimpleText("("..unread..")", "NetricsaText", w-10, h/2, Color(255,0,0), TEXT_ALIGN_RIGHT, TEXT_ALIGN_CENTER)
-                end
-            end
-            btn.DoClick = function()
-                print("[Netricsa] Switching to tab:", name)
-                NetricsaTabs.SwitchTab(name)
-                UpdateCurrentTab(name)
-                print("[Netricsa] Tab switched to:", name)
-            end
+for i, name in ipairs(tabs) do
+    local btn = vgui.Create("DButton", leftPanel)
+    btn:SetText(name)
+    btn:SetSize(230,40)
+    btn:SetPos(10, (i-1)*45 + 10)
+    btn:SetFont("NetricsaText")
+    btn.Paint = function(self, w, h)
+        self:SetTextColor(NetricsaStyle.color)
+        local unread = NetricsaData.GetUnreadCount(name)
+        if unread > 0 then
+            draw.SimpleText("("..unread..")", "NetricsaText", w-10, h/2, Color(255,0,0), TEXT_ALIGN_RIGHT, TEXT_ALIGN_CENTER)
         end
+    end
+    
+    local function OnClick()
+        print("[Netricsa] Switching to tab:", name)
+        NetricsaTabs.SwitchTab(name)
+        UpdateCurrentTab(name)
+        print("[Netricsa] Tab switched to:", name)
+    end
+    
+    -- 🔹 ДОБАВЛЯЕМ ЗВУКИ
+    btn.OnCursorEntered = function(self)
+        surface.PlaySound("netricsa/button_ssm.wav")
+    end
+    
+    btn.DoClick = function()
+        surface.PlaySound("netricsa/button_ssm_press.wav")
+        OnClick()
+    end
+end
 
         -- Кнопка стилей
         local styleBtn = vgui.Create("DButton", leftPanel)
@@ -258,6 +276,7 @@ draw.SimpleText(versionText, "NetricsaTitle", 20, 10, style.color, TEXT_ALIGN_LE
             end
             menu:Open()
         end
+        NetricsaUtils.EnhanceButton(styleBtn)
 
         -- Кнопка выбора языка (внизу)
         local langBtn = vgui.Create("DButton", leftPanel)
@@ -292,6 +311,7 @@ draw.SimpleText(versionText, "NetricsaTitle", 20, 10, style.color, TEXT_ALIGN_LE
             end
             menu:Open()
         end
+        NetricsaUtils.EnhanceButton(langBtn)
 
         -- Determine the default tab: first with unread messages, or strategic if all read
         local defaultTab = L("tabs","strategic")

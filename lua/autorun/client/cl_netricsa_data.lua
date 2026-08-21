@@ -152,6 +152,16 @@ if CLIENT then
         return npcClass
     end
 
+    -- 🔹 Функция воспроизведения звука с учётом настройки
+    function PlayNetricsaSound()
+        local useKirill = GetConVar("netricsa_sound_kirill"):GetBool()
+        local soundName = useKirill and "netricsa/Info2.wav" or "netricsa/Info.wav"
+        surface.PlaySound(soundName)
+        if useKirill then
+            print("[Netricsa] 🎵 Playing Kirill sound: " .. soundName)
+        end
+    end
+
     local function GetScoreForNPC(npcClass)
         npcClass = GetNPCAliasKey(npcClass)
         local lang = CurrentLang or "en"
@@ -294,7 +304,7 @@ if CLIENT then
         if isNew then
             NetricsaData.showScan = true
             timer.Simple(2, function() if NetricsaData then NetricsaData.showScan = false end end)
-            surface.PlaySound("netricsa/Info.wav")
+            PlayNetricsaSound()
         end
         
         SaveProgress()
@@ -320,7 +330,7 @@ net.Receive("Netricsa_AddWeapon", function()
         
         -- 🔹 [ДОБАВЛЕНО] Показываем уведомление и звук
         NetricsaData.showScan = true
-        surface.PlaySound("netricsa/Info.wav")  -- Используем существующий звук
+        PlayNetricsaSound()  -- Используем существующий звук
         
         timer.Simple(2, function() 
             if NetricsaData then 
@@ -384,7 +394,7 @@ end)
         
         return L("ui", "no_data")
     end
-
+    
     local function LoadProgress()
     -- 🔹 [ГЛАВНОЕ] Проверяем таймаут ПРИ ЛЮБОЙ ЗАГРУЗКЕ!
     local exitTime = LoadExitTime()
@@ -556,6 +566,14 @@ local function GetTotalScore()
         return stats_total_score or 0
     end
 
+    -- 🔹 [ДОБАВИТЬ] Функция добавления очков
+    function AddScore(points)
+        if not points or points <= 0 then return end
+        stats_total_score = (stats_total_score or 0) + points
+        SaveProgress()
+        print("[Netricsa] Added " .. points .. " points. Total: " .. stats_total_score)
+    end
+
 local function OnStart()
     if hasStarted then return end
     hasStarted = true
@@ -709,7 +727,8 @@ end)
     NetricsaData.IsNPCAlias = IsNPCAlias
     NetricsaData.GetNPCsByAlias = GetNPCsByAlias
     NetricsaData.GetTotalScore = GetTotalScore
-    
+    NetricsaData.AddScore = AddScore
+    NetricsaData.PlayNetricsaSound = PlayNetricsaSound
 
     -- ============================================================
     -- 10. ТАЙМЕРЫ

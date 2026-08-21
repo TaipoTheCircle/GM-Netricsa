@@ -1,4 +1,20 @@
 if CLIENT then
+
+function AddSounds(btn)
+    if not IsValid(btn) then return end
+    
+    -- Звук при наведении
+    btn.OnCursorEntered = function(self)
+        surface.PlaySound("netricsa/button_ssm.wav")
+    end
+    
+    -- Звук при клике (сохраняем старый DoClick)
+    local oldClick = btn.DoClick
+    btn.DoClick = function(self, ...)
+        surface.PlaySound("netricsa/button_ssm_press.wav")
+        if oldClick then oldClick(self, ...) end
+    end
+end
     local function SwitchTab(tabName)
         print("[Netricsa] SwitchTab called with:", tabName)
         local contentPanel = NetricsaMain.contentPanel or _G.NetricsaContentPanel
@@ -172,6 +188,7 @@ if CLIENT then
                         TEXT_ALIGN_LEFT, TEXT_ALIGN_CENTER)
                 end
                 btn.DoClick = function() OpenMap(mapName) end
+                AddSounds(btn)
             end
 
             -- если список пустой, добавляем текущую карту
@@ -191,6 +208,7 @@ if CLIENT then
                         TEXT_ALIGN_LEFT, TEXT_ALIGN_CENTER)
                 end
                 btn.DoClick = function() OpenMap(currentMap) end
+                AddSounds(btn)
 
                 OpenMap(currentMap)
             else
@@ -536,6 +554,7 @@ end
                         TEXT_ALIGN_LEFT, TEXT_ALIGN_CENTER)
                 end
                 btn.DoClick = function() OpenEnemy(npcClass) end
+                AddSounds(btn)
             end
 
             NetricsaData.OpenFirstUnread(L("tabs","enemies"), OpenEnemy)
@@ -622,6 +641,7 @@ end
                     draw.SimpleText(displayName or fracName,"NetricsaText",5,h/2,NetricsaStyle.color,TEXT_ALIGN_LEFT,TEXT_ALIGN_CENTER)
                 end
                 btn.DoClick = function() OpenFraction(fracName) end
+                AddSounds(btn)
             end
 
             -- открыть первую фракцию по умолчанию
@@ -780,6 +800,7 @@ elseif tabName == L("tabs","planets") then
                     TEXT_ALIGN_LEFT, TEXT_ALIGN_CENTER)
             end
             btn.DoClick = function() OpenPlanet(planetName) end
+            AddSounds(btn)
         end
         
         -- Открываем первую планету НЕМЕДЛЕННО (без timer.Simple)
@@ -1016,6 +1037,7 @@ end
                     draw.SimpleText(displayName, "NetricsaText", 5, h/2, color, TEXT_ALIGN_LEFT, TEXT_ALIGN_CENTER)
                 end
                 btn.DoClick = function() OpenWeapon(class) end
+                AddSounds(btn)
             end
 
             NetricsaData.OpenFirstUnread(L("tabs","weapons"), OpenWeapon)

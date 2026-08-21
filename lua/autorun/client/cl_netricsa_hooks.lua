@@ -1,9 +1,9 @@
 if CLIENT then
 
--- Глобальная переменная для курсора
 NetricsaCursorMaterial = nil
+NetricsaCursorSize = 32
 
--- Функция загрузки курсора
+-- 🔹 Функция загрузки курсора
 local function LoadNetricsaCursor()
     if not NetricsaStyle or not NetricsaStyle.cursor then 
         NetricsaCursorMaterial = nil
@@ -12,7 +12,7 @@ local function LoadNetricsaCursor()
     end
     
     print("[Netricsa] Loading cursor: " .. NetricsaStyle.cursor)
-    NetricsaCursorMaterial = Material(NetricsaStyle.cursor)
+    NetricsaCursorMaterial = Material(NetricsaStyle.cursor, "noclamp smooth")
     
     if not NetricsaCursorMaterial or NetricsaCursorMaterial:IsError() then
         print("[Netricsa] FAILED to load cursor: " .. NetricsaStyle.cursor)
@@ -24,6 +24,21 @@ local function LoadNetricsaCursor()
               (NetricsaCursorMaterial:Height() or 0) .. ")")
     end
 end
+
+-- 🔹 Рисуем кастомный курсор поверх VGUI
+hook.Add("DrawOverlay", "Netricsa_CustomCursor", function()
+    if not IsValid(NetricsaFrame) or not NetricsaFrame:IsVisible() then return end
+    if not NetricsaCursorMaterial then return end
+    if NetricsaCursorMaterial:IsError() then return end
+    
+    local x, y = input.GetCursorPos()
+    local size = NetricsaCursorSize
+    local half = size / 2
+    
+    surface.SetMaterial(NetricsaCursorMaterial)
+    surface.SetDrawColor(255, 255, 255, 255)
+    surface.DrawTexturedRect(x - half, y - half, size, size)
+end)
 
 -- Загружаем при старте
 hook.Add("InitPostEntity", "Netricsa_InitCursor", function()
@@ -41,6 +56,23 @@ function SetNetricsaStyle(name)
         LoadNetricsaCursor()
     end)
 end
+
+-- Отладка: рисуем большой красный квадрат, чтобы проверить, работает ли DrawOverlay
+hook.Add("DrawOverlay", "Netricsa_DebugOverlay", function()
+    if not IsValid(NetricsaFrame) or not NetricsaFrame:IsVisible() then return end
+    
+    -- Красный квадрат в левом верхнем углу - если видите его, значит DrawOverlay работает
+    surface.SetDrawColor(255, 0, 0, 255)
+    surface.DrawRect(10, 10, 50, 50)
+    
+    -- Информация о курсоре
+    if NetricsaCursorMaterial then
+        draw.SimpleText("Cursor LOADED", "NetricsaText", 70, 20, Color(0, 255, 0))
+        draw.SimpleText("Size: " .. NetricsaCursorSize, "NetricsaText", 70, 45, Color(0, 255, 0))
+    else
+        draw.SimpleText("Cursor NOT LOADED", "NetricsaText", 70, 20, Color(255, 0, 0))
+    end
+end)
 
 if not NetricsaMain then
     NetricsaMain = {}
@@ -63,15 +95,13 @@ end)
 
 -- 🔹 Проверка, открыт ли интерфейс Netricsa или скрыт HUD
 local function IsNetricsaHidden()
-    -- Скрываем, если:
-    -- 1. Открыт интерфейс Netricsa
-    -- 2. Или отключён стандартный HUD (cl_drawhud 0)
     return (IsValid(NetricsaFrame) and NetricsaFrame:IsVisible()) 
            or not GetConVar("cl_drawhud"):GetBool()
 end
--- HUD отрисовка
+
+-- HUD отрисовка (Score, Mail, Scan Text)
 hook.Add("HUDPaint", "NetricsaScoreIcon", function()
-    if IsNetricsaHidden() then return end  -- 🔹 Скрываем, если интерфейс открыт
+    if IsNetricsaHidden() then return end
     if not NetricsaData or not NetricsaStyle or not NetricsaStyle.score then return end
     
     local totalScore = NetricsaData.GetTotalScore and NetricsaData.GetTotalScore() or 0
@@ -199,6 +229,34 @@ end)
 hook.Add("InitPostEntity", "SAM_MAP_VOICES_ResetAfterMapChange", function()
     SamVoicePlayed = false
     print("[Sam Map Voices] Флаг воспроизведения сброшен (новая карта)")
+end)
+
+-- Автоматическое добавление звуков для всех кнопок Netricsa
+hook.Add("OnButtonCreated", "Netricsa_AutoAddSounds", function(btn)
+    if not IsValid(btn) then return end
+    
+    local checkParent = btn
+    while IsValid(checkParent) do
+        if checkParent == NetricsaFrame then
+            if not btn._hasNetricsaSounds then
+                btn._hasNetricsaSounds = true
+                
+                local oldEnter = btn.OnCursorEntered
+                btn.OnCursorEntered = function(self, ...)
+                    surface.PlaySound("netricsa/button_ssm.wav")
+                    if oldEnter then oldEnter(self, ...) end
+                end
+                
+                local oldClick = btn.DoClick
+                btn.DoClick = function(self, ...)
+                    surface.PlaySound("netricsa/button_ssm_press.wav")
+                    if oldClick then oldClick(self, ...) end
+                end
+            end
+            break
+        end
+        checkParent = checkParent:GetParent()
+    end
 end)
 
 end
