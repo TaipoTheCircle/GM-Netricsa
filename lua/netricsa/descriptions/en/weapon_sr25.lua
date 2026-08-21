@@ -2,7 +2,7 @@ SR-25 SELF-LOADING SNIPER RIFLE
 
 
 WEAPON:      SR-25
-AMMUNITION   7.62×51 NATO cartridges
+AMMO:        7.62×51 NATO cartridges
 ROF:         ~20 rounds / min
 
 DESCRIPTION:

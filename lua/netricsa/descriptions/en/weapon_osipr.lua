@@ -2,7 +2,7 @@ OSIPR PULSE RIFLE
 
 
 WEAPON:      OSIPR Pulse Rifle
-AMMUNITION  verwatch Energy Cells / Secondary: Alliance Electric Balls
+AMMO:       verwatch Energy Cells / Secondary: Alliance Electric Balls
 ROF:         ~600 rounds / min (primary), 1 grenade/sec (secondary)
 
 DESCRIPTION:

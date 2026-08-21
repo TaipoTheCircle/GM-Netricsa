@@ -2,7 +2,7 @@ BERRETA PX4 STORM PISTOL
 
 
 WEAPON:      Beretta Px4 Storm 
-AMMUNITION   9x19 mm cartridges
+AMMO:        9x19 mm cartridges
 ROF:         Semi-automatic, ~15 rounds / min
 
 DESCRIPTION:

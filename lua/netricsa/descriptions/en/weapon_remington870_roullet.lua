@@ -1,8 +1,8 @@
 REMINGTON 870 PUMP-ACTION SHOTGUN, WITH RANDOM AMMUNITION
 
 
-WEAPON:     Remington 870
-AMMUNITION  12/70 caliber cartridges and empty shells 
+WEAPON:     Remington 870 Pump-Action Shotgun, With Random Ammunition
+AMMO:       12/70 caliber cartridges and empty shells 
 ROF:        ~60 rounds / min
 
 DESCRIPTION:
@@ -12,6 +12,3 @@ American pump-action shotgun. Designed for self-defense, hunting, sport shooting
 NOTES:
 
 - Hope for the best when playing.
-
-
-

@@ -2,7 +2,7 @@ ZORAKI STALKER M906 SIGNAL PISTOL
 
 
 WEAPON:      Zoraki Stalker M906
-AMMUNITION   9MM PAK cartridges 
+AMMO:        9MM PAK cartridges 
 ROF:         ~15 rounds / min
 
 DESCRIPTION:

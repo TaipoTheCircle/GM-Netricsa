@@ -2,7 +2,7 @@ FUSIL À IMPULSIONS OSIPR
 
 
 WEAPON: Fusil à impulsion OSIPR
-AMMUNITION  verwatch Energy Cells / Secondary: Boules Électriques Alliance
+AMMO:       verwatch Energy Cells / Secondary: Boules Électriques Alliance
 ROF: ~600 coups/min (primaire), 1 grenade/sec (secondaire)
 
 DESCRIPTION: 

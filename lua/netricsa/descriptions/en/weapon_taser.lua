@@ -2,7 +2,7 @@ TASER STUN GUN
 
 
 WEAPON:          Taser
-AMMUNITION       lectric cartridges
+AMMO:            lectric cartridges
 ROF:             1 shot/min
 
 DESCRIPTION:
