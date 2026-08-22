@@ -1,7 +1,7 @@
-WINCHESTER MODEL 1894
+WINCHESTER MODEL 1894 PUMP-ACTION SHOTGUN
 
 
-WEAPON:  Winchester Model 1894
+WEAPON:  Winchester Model 1894 Pump-Action Shotgun
 AMMO:    .30-30 Winchester
 ROF:     Lever-action, ~30 rounds / min
 WEIGHT:  3,1 kg

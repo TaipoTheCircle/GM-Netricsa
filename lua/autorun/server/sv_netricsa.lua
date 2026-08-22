@@ -1194,6 +1194,7 @@ end)
         ["npc_vj_ss2_jackoverse_bone_thing"] = true,
         ["npc_vj_ss2_jackoverse_mental"] = true,
         ["npc_cyclop"] = true,
+        ["npc_vj_ss2_worm"] = true,
     }
 
 local function AnnounceSpecialNPC(ent)
