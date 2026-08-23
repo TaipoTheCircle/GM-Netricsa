@@ -1,22 +1,21 @@
-MODÈLE THOMPSON 1921
+MODÈLE THOMPSON M1A1
 
 
-ARME : Thompson modèle 1921
+ARME : Thompson modèle M1A1
 MUNITIONS : .45 ACP
-ROF : Automatique, ~800 tr/min
+CC : Automatique, ~700-750 tours/min
 POIDS : ~4,9 kg
 
 DESCRIPTIF :
 
-Le modèle Thompson 1921, également connu sous le nom de « Tommy Gun », est une première version de la célèbre mitraillette américaine conçue par John Taliaferro Thompson. Le modèle 1921 se distinguait par sa haute qualité de fabrication, sa cadence de tir élevée et sa puissante cartouche .45 ACP.
+Le Thompson M1A1, également connu sous le nom de « Tommy Gun », est une mitraillette américaine développée comme une version militaire simplifiée des modèles Thompson précédents. Le M1A1 a été introduit en 1942 et sa production s'est poursuivie jusqu'en 1944. Il a été conçu pour un usage militaire de masse et présentait une conception plus simple et moins coûteuse que les modèles précédents.
 
-L'arme utilise une action de retour de flamme retardée et est capable de tirer automatiquement et à un seul coup. Il est alimenté par un chargeur boîte de 20 ou 30 cartouches ou par un chargeur à tambour de 50 ou 100 cartouches.
+Contrairement au premier Thompson, le M1A1 présentait un mécanisme considérablement simplifié. Au lieu d'un système complexe de culasse retardée, il utilisait une action de retour de flamme et le percuteur était fixé au boulon. Un percuteur fixe a également été installé et un compensateur de bouche simplifié a été omis.
 
-Grâce à sa cartouche lourde et à sa cadence de tir élevée, le Thompson est particulièrement efficace à courte portée, où il peut rapidement supprimer plusieurs cibles.
+Le M1A1 utilise la cartouche .45 ACP et est capable de tirer uniquement automatiquement. Il est alimenté par des chargeurs de 20 ou 30 cartouches. Grâce à sa balle lourde et à sa cadence de tir relativement modérée, l'arme reste relativement contrôlable sur de courtes rafales.
 
 REMARQUES :
 
-- Pouvoir d'arrêt élevé à courte portée.
-- Efficace principalement à courte et moyenne portée.
-- Son poids élevé et sa cadence de tir élevée rendent difficile le contrôle de l'arme lors d'un tir continu.
-- Le modèle 1921 se distingue par son savoir-faire méticuleux et ses coûts de production plus élevés par rapport aux versions simplifiées ultérieures du Thompson.
+- La puissante cartouche .45 ACP rend le M1A1 particulièrement efficace à courte portée.
+- Idéal pour les combats rapprochés et moyens, en particulier lors de tirs en rafales courtes.
+- Le M1A1 est nettement plus simple que les mitraillettes Thompson précédentes, ce qui lui permet d'être produit plus rapidement et à moindre coût pour l'armée.

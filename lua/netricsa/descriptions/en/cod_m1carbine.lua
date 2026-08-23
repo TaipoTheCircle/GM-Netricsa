@@ -1,22 +1,21 @@
-M1 CARBINE
+M1A1 CARBINE
 
 
-WEAPON: M1 Carbine
-AMMO:   .30 Carbine (7.62x33mm)
-RR:     ~40-50 rounds / min
-WEIGHT: ~2,36 kg
+WEAPON: M1A1 Carbine
+AMMO:  .30 Carbine (7.62x33mm)
+ROF:    ~40-50 rounds / min
+WEIGHT: ~2,5 kg
 
 DESCRIPTION:
 
-This lightweight American semi-automatic carbine from World War II was designed as a more compact and convenient alternative to a full-size rifle for second-line soldiers, vehicle crews, and other soldiers who needed a lightweight weapon with more power than a pistol.
+This American World War II-era semi-automatic carbine, based on the M1 Carbine, was designed specifically for paratroopers and soldiers who needed a compact and lightweight weapon. The M1A1's main distinguishing feature was its folding metal stock, which significantly reduced its size for transportation.
 
-The carbine uses a gas-operated action and is chambered for the .30 Carbine cartridge. Its light weight, soft recoil, and compact size make the M1 Carbine particularly suitable for close combat and rapid movement. Its effective range is approximately 275 meters.
+The carbine uses a gas-operated action and the .30 Carbine cartridge. Its light weight, compact size, and soft recoil make the M1A1 particularly suitable for close- and medium-range combat, as well as for rapid movement. Its effective range is approximately 275 meters.
 
-Unlike the later M2, the standard M1 Carbine fires only in single-shot mode. The M2 variant now features automatic fire at a rate of approximately 750 rounds per minute.
+Unlike the later M2, the standard M1A1 fires only in single bursts. The fully automatic version of the M2 was introduced later and gained the ability to fire in bursts.
 
 NOTES:
 
-- Excellent for close-to-medium ranges, especially where a full-sized rifle would be too cumbersome.
-- The very lightweight carbine allows for quick movement and is minimally tiring for the shooter.
-- The M1 Carbine looks like a scaled-down rifle, but handles more like a serious carbine.
-- Soft recoil makes rapid follow-up shots quite comfortable.
+- The folding stock makes the M1A1 particularly convenient for paratroopers and saves space when carrying.
+- Excellent for close and medium ranges, especially where a full-power rifle would be too cumbersome.
+- Its light weight and soft recoil allow for quick movement and comfortable follow-up shots.

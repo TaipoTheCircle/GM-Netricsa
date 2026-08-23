@@ -1,16 +1,21 @@
-SMITH & WESSON MODÈLE 28
+REVOLVER SMITH & WESSON MODÈLE 1917
 
 
-ARME : Smith & Wesson modèle 28
-Munitions : .357 Magnum
-ROF: 40 tr/min
+ARME : Revolver Smith & Wesson modèle 1917
+MUNITIONS : .45 ACP
+ROF : ~40 tours/min
+POIDS : ~1,1 kg
 
 DESCRIPTIF :
 
-Le revolver Smith & Wesson modèle 28 Highway Patrolman est l'arme de poing standard des policiers d'Abbott et de nombreux autres organismes d'application de la loi du Maryland. Il tire des cartouches .357 Magnum et contient six cartouches. C'est une arme extrêmement meurtrière. Ceux qui sont experts dans l'utilisation d'une telle arme peuvent être beaucoup plus dangereux avec deux d'entre eux. Étant donné que la réglementation sur les armes à feu à Abbott est assez laxiste, ces revolvers se trouvent en abondance partout où les policiers les gardent. Les munitions sont également assez faciles à obtenir. Le premier peut être obtenu auprès de l'officier supérieur, soit en le tuant alors qu'il sort des toilettes, soit en le laissant mourir sur la chaise électrique de la pièce électrocutée. Le deuxième revolver, à double usage, se trouve au chapitre 2, "Descente", après avoir rencontré les trois fantômes de l'île et s'être familiarisé avec la folie et la créature, mais avant de rencontrer les premiers tireurs d'élite qui exécutent l'officier ligoté. Tirez sur le levier pour faire exploser le générateur dans la pièce inondée que vous traversez, et le deuxième revolver se trouve caché dans le mur derrière lui.
+Ce revolver militaire américain a été développé pendant la Première Guerre mondiale en raison d'une pénurie de pistolets à chargement automatique standards. Il a été adopté par l'armée américaine en 1917 et a été fabriqué par Smith & Wesson et Colt.
+
+Le revolver utilise la puissante cartouche .45 ACP et possède un cylindre à six cartouches. Étant donné que le .45 ACP était initialement destiné aux pistolets à chargement automatique, des clips semi-circulaires spéciaux ont été utilisés pour contenir trois cartouches, permettant un chargement et une extraction simultanés.
+
+Le modèle 1917 se distingue par sa conception large et robuste, son bon pouvoir de freinage et sa fiabilité relativement élevée. Après la Première Guerre mondiale, ces revolvers ont continué à être utilisés par les soldats et la police américains, et certains sont restés en demande pendant de nombreuses années.
 
 REMARQUES :
 
-- Revolver orienté cible - excellent pour le tir de précision.
-
-- " Restez immobile ou mourez ! Me comprenez-vous ? "
+- Le puissant .45 ACP le rend bien adapté aux tirs précis à courte et moyenne distance.
+- La grosse cartouche offre une puissance d'arrêt élevée malgré sa cadence de tir relativement faible.
+- L'utilisation de clips semi-circulaires permet un chargement rapide de trois cartouches à la fois.

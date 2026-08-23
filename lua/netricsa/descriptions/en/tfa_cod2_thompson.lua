@@ -1,22 +1,21 @@
-THOMPSON MODEL 1921
+THOMPSON MODEL M1A1
 
 
-WEAPON: Thompson Model 1921
+WEAPON: Thompson Model M1A1
 AMMO:   .45 ACP
-ROF:    Automatic, ~800 RPM
+CC:     Automatic, ~700-750 rounds / min
 WEIGHT: ~4,9 kg
 
 DESCRIPTION:
 
-The Thompson Model 1921, also known as the "Tommy Gun", is an early version of the famous American submachine gun designed by John Taliaferro Thompson. The Model 1921 was distinguished by its high build quality, high rate of fire, and powerful .45 ACP cartridge.
+The Thompson M1A1, also known as the "Tommy Gun", is an American submachine gun developed as a simplified military version of earlier Thompson models. The M1A1 was introduced in 1942 and continued in production until 1944. It was designed for mass military use and featured a simpler and less expensive design compared to earlier models.
 
-The weapon uses a delayed blowback action and is capable of automatic and single-shot fire. It is fed from a 20- or 30-round box magazine or a 50- or 100-round drum magazine.
+Unlike the early Thompson, the M1A1 featured a significantly simplified mechanism. Instead of a complex delayed-breech system, it used a blowback action, and the firing pin was fixed to the bolt. A fixed firing pin was also installed, and a simplified muzzle compensator was omitted.
 
-Thanks to its heavy cartridge and high fire rate, the Thompson is particularly effective at close range, where it can quickly suppress multiple targets.
+The M1A1 uses the .45 ACP cartridge and is capable of automatic fire only. It is fed from 20- or 30-round box magazines. Thanks to its heavy bullet and relatively moderate rate of fire, the weapon remains relatively controllable in short bursts.
 
 NOTES:
 
-- High stopping power at close range.
-- Effective primarily at close and medium ranges.
-- Its heavy weight and high rate of fire make it difficult to control the weapon during continuous fire.
-- The Model 1921 is distinguished by its meticulous craftsmanship and higher production costs compared to subsequent simplified versions of the Thompson.
+- The powerful .45 ACP cartridge makes the M1A1 particularly effective at close range.
+- Best suited for close- and medium-range combat, especially when firing in short bursts.
+- The M1A1 is significantly simpler than earlier Thompson submachine guns, allowing it to be produced more quickly and affordably for the military.

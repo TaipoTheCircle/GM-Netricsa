@@ -1,10 +1,10 @@
-SKORPION SAMOPAL VZ.61
+ПИСТОЛЕТ ПУЛЕМЁТ SKORPION SAMOPAL VZ.61
 
 
-ОРУЖИЕ:  Skorpion Samoral vz. 61
-ПАТРОНЫ: .32 ACP (7,65×17 мм Browning SR).380 ACP и 9×19 мм
+ОРУЖИЕ:  Пистолет-Пулемёт Skorpion Samoral vz. 61
+ПАТРОНЫ: .32 ACP (7,65x17 мм Browning SR).380 ACP и 9x19 мм
 СС:      850 выстр./в минуту
-ВЕС:     1,59 кг. без патронов
+ВЕС:     1,59 кг.
 ДЛИНА:   517 мм
 
 ОПИСАНИЕ:

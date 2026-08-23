@@ -1,16 +1,21 @@
-SMITH & WESSON MODEL 28
+SMITH & WESSON MODEL 1917 REVOLVER
 
 
-WEAPON: Smith & Wesson Model 28
-AMMO:   .357 Magnum
-ROF:    40 rpm
+WEAPON: Smith & Wesson Model 1917 Revolver
+AMMO:   .45 ACP
+ROF:    ~40 rounds / min
+WEIGHT: ~1,1 kg
 
 DESCRIPTION:
 
-The Smith & Wesson Model 28 Highway Patrolman revolver is the standard service sidearm for police officers in Abbott and many other Maryland law enforcement agencies. It fires .357 Magnum cartridges and holds six rounds. This is an extremely deadly weapon. Those skilled in the use of such a weapon can be much more dangerous with two of them. Since firearms regulations in Abbott are quite lax, these revolvers are found in abundance wherever police officers keep them. Ammunition is also quite easy to obtain. The first can be obtained from the senior officer, either by killing him as he emerges from the restroom or by allowing him to die in the electric chair in the electrocuted room. The second revolver, for dual use, can be found in Chapter 2, "Descent", after encountering the island's three ghosts and becoming familiar with madness and the creature, but before encountering the first snipers who execute the tied-up officer. Pull the lever to detonate the generator in the flooded room you pass, and the second revolver can be found hidden in the wall behind it.
+This American military revolver was developed during World War I due to a shortage of standard self-loading pistols. It was adopted by the US Army in 1917 and was manufactured by both Smith & Wesson and Colt.
+
+The revolver uses the powerful .45 ACP cartridge and has a six-round cylinder. Since the .45 ACP was originally intended for self-loading pistols, special semi-circular clips were used to hold three cartridges, allowing for simultaneous loading and extraction.
+
+The Model 1917 is distinguished by its large, robust design, good stopping power, and relatively high reliability. After World War I, these revolvers continued to be used by American soldiers and police, and some remained in demand for many years.
 
 NOTES:
 
-- Target-oriented revolver - excellent for precision shooting.
-
-- "Stand still, or die! Do you understand me?"
+- The powerful .45 ACP makes it well-suited for accurate shooting at close and medium ranges.
+- The large cartridge provides high stopping power despite its relatively low rate of fire.
+- The use of semi-circular clips allows for quick loading of three rounds at a time.
