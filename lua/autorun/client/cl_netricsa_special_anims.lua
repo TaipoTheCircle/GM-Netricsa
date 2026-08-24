@@ -453,6 +453,14 @@ SPECIAL_ANIMATIONS = {
         sequence = "idle", 
         fallback = "Idle"    
     },
+                                                                ["npc_vj_ss2_jackoverse_robo_cyborg"] = {
+        sequence = "walk_eyelookaround", 
+        fallback = "Idle"    
+    },
+                                                                    ["npc_vj_ss2_jackoverse_longju_ironclad"] = {
+        sequence = "idle_angry", 
+        fallback = "Idle"    
+    },
     
     SPECIAL_BODYGROUPS = {
     ["npc_vj_ss2_turret_machinegun"] = {

@@ -14,6 +14,7 @@ THREAT:     none
 DESCRIPTION:
 
 An executed Sirian soldier, raised from the dead by Mental and remote controlled by Life Control Unit (LCU). 
+
 The Rocketeer carries his own head in one hand to receive audio/visual information and fires one magic missile at a time from a low-power hand-held launcher. They're immune to their own missiles.
 
 TIPS:
