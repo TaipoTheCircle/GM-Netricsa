@@ -1,16 +1,22 @@
 FUSIL D'ASSAUT M16A1
 
 
-WEAPON: Colt M16A1
-AMMO: Obus OTAN 5,56x45 mm + grenades 40 mm
-ROF: ~700 tours/min
+ARME : Fusil d'assaut M16A1
+MUNITIONS : 5,56x45 mm OTAN (M193)
+ROF : Automatique, 650-750 tours/minute
+POIDS 2,97kg
 
-DESCRIPTION: 
+DESCRIPTIF :
 
-Fusil d'assaut fiable de fabrication américaine, largement distribué à H.E.C.U. forces. Fournit un tir automatique soutenu avec une précision décente. Équipé d'un lance-grenades sous le canon, permettant à la fois un tir de suppression et un soutien explosif sur une seule plate-forme.
+Ce fusil d'assaut américain chambré pour 5,56x45 mm est conçu pour un tir précis et concentré à moyenne portée. Le fusil se caractérise par son poids relativement léger, son faible recul et sa bonne précision, ce qui le rend adapté aussi bien au tir à un coup qu'au tir automatique.
 
-NOTES: 
+L'arme utilise un chargeur de 20 ou 30 cartouches et fonctionne au gaz avec un verrou rotatif. Le M16A1 est capable d'une cadence de tir élevée, avec une portée effective d'environ 450 mètres.
 
-- Arme d'infanterie standard avec de solides performances.
-- Lance-grenades efficace pour le contrôle des foules et les ennemis retranchés.
-- La précision souffre en cas de rafales prolongées.
+REMARQUES :
+
+- Haute précision et recul relativement faible.
+- Capable de tir unique et automatique.
+- Utilise des chargeurs de 20 ou 30 coups.
+- Efficace principalement à moyenne et longue portée.
+- Son poids léger rend le fusil confortable pour un transport prolongé.
+- La cartouche 5,56x45 mm permet une bonne pénétration contre les cibles lumineuses.

@@ -8,7 +8,7 @@ MOONS:        Unknown
 TERRAIN:      Vast shifting deserts, unstable rock outcrops
 LOCATION:     Between the planets Ando and Kothlis, far from major hyperspace routes
 NATIVE RACES: Sandburst miners (giant worm-like creatures)
-ALLEGIANCE:   Neutral territory, listed in New Republic databases as a dangerous planet
+ALLIANCE:     Neutral territory, listed in New Republic databases as a dangerous planet
 LOCATIONS:    Merchant ship crash site, Yavin Runner II shuttle crash site
 
 DESCRIPTION:

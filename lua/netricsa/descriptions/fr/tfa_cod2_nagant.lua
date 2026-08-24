@@ -1,21 +1,21 @@
-РЕВОЛЬВЕР СИСТЕМЫ НАГАНА М1895
+REVOLVER NAGANT M1895
 
 
-OBJET: Système de revolver Nagana M1895
-PAT: 7,62x38 мм Наган
-СС: ~14-20 выстрелов / min.
-ВЕС: ~0,88 kg. (avec les patrons)
+ARME : Revolver Nagant M1895
+MUNITIONS : 7,62x38 mm Nagant
+ROF : ~14-20 tours/min
+Poids : ~0,88 kg (avec cartouches)
 
-À PROPOS :
+DESCRIPTIF :
 
-Le revolver semi-semizarienne légendaire a été utilisé par les forces armées belges pour l'empire russe. Nesmoтря на почтенный возраст, он стал одним из символов советского солдата и массово использовался в Красной ARMиии наряду с более современными пистолетами.
+Ce légendaire revolver à sept coups a été développé par les armuriers belges, les frères Nagant, pour l'Empire russe. Malgré son âge vénérable, il est devenu un symbole du soldat soviétique et a été largement utilisé dans l'Armée rouge aux côtés de pistolets plus modernes.
 
-Le système technique unique met en œuvre le système d'alimentation en carburant unique. Lors de la visite de Kurka Barban à l'école, deux filles entrent dans la chambre d'hôtel. Cela signifie généralement que les gaz peuvent être utilisés par mon propriétaire et mon hôtel, ce qui ne permet pas de trouver un endroit pour le faire, mais je peux le faire. Utilisez efficacement le revolver avec les gants.
+La principale caractéristique technique du Nagant est son système unique d'étanchéité aux gaz. Lorsque le chien est armé, le barillet glisse sur le canon et le col de la douille pénètre dans la culasse. Cela élimine complètement les fuites de gaz entre le cylindre et le canon, ce qui non seulement augmente la vitesse initiale, mais permet également d'utiliser efficacement le revolver avec un silencieux.
 
-Оружие обладает феноменальной надежностью и неприхотLIвостью к загрязнениям. En ce qui concerne les nouveautés liées à la préparation des repas et aux spécifications techniques du baraban, разведчиков и офицеров.
+L’arme possède une fiabilité et une résistance à la contamination phénoménales. En raison de l'impossibilité de déchargement accidentel en cas de chute et de la serrure à cylindre rigide, il était très respecté parmi les équipages de chars, les éclaireurs et les officiers.
 
-AVERTISSEMENT :
+REMARQUES :
 
-- Vous avez besoin d'un pistolet, mais vous n'avez pas besoin de le faire pour que votre mari soit à l'aise.
-- Le constructeur unique peut installer le pistolet "Брамит", en prévoyant le revolver dans l'instrument de nettoyage approprié.
-- Настоящее "Оружие Последнего Шанса", которое продолжит стрелять, даже если его поднять со дна болота.
+- Très précis pour un pistolet, mais se fait au prix d'une forte pression sur la gâchette lors de l'armement.
+- La conception unique permet l'installation d'un suppresseur Bramit, transformant le revolver en un outil d'assassinat silencieux.
+- Une véritable "Arme de la Dernière Chance" qui continuera à tirer même si elle est récupérée au fond d'un marais.

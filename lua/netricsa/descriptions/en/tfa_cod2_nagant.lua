@@ -1,21 +1,21 @@
-РЕВОЛЬВЕР СИСТЕМЫ НАГАНА М1895
+NAGANT M1895 REVOLVER
 
 
-ОРУЖИЕ:  Револьвер системы Нагана М1895
-ПАТРОНЫ: 7,62x38 мм Наган
-СС:      ~14-20 выстрелов / мин.
-ВЕС:     ~0,88 кг. (с патронами)
+WEAPON: Nagant M1895 Revolver
+AMMO:   7.62x38mm Nagant
+ROF:    ~14-20 rounds / min
+Weight: ~0,88 kg (with cartridges)
 
-ОПИСАНИЕ:
+DESCRIPTION:
 
-Легендарный семизарядный револьвер, разработанный бельгийскими оружейниками братьями Наган для Российской империи. Несмотря на почтенный возраст, он стал одним из символов советского солдата и массово использовался в Красной армии наряду с более современными пистолетами.
+This legendary seven-shot revolver was developed by the Belgian gunsmiths, the Nagant brothers, for the Russian Empire. Despite its venerable age, it became a symbol of the Soviet soldier and was widely used in the Red Army alongside more modern pistols.
 
-Главная техническая особенность Нагана - уникальная система обтюрации пороховых газов. При взводе курка барабан надвигается на ствол, а дульце гильзы входит в казенную часть. Это полностью исключает прорыв газов между барабаном и стволом, что не только повышает начальную скорость пули, но и позволяет эффективно использовать револьвер с глушителем.
+The Nagant's main technical feature is its unique gas sealing system. When the hammer is cocked, the cylinder slides onto the barrel, and the cartridge case neck enters the breech. This completely eliminates gas leakage between the cylinder and the barrel, which not only increases the muzzle velocity but also allows the revolver to be effectively used with a silencer.
 
-Оружие обладает феноменальной надежностью и неприхотливостью к загрязнениям. Из-за невозможности случайного выстрела при падении и жесткой фиксации барабана он пользовался огромным уважением среди танкистов, разведчиков и офицеров.
+The weapon boasts phenomenal reliability and resistance to contamination. Due to the impossibility of accidental discharge if dropped and the rigid cylinder lock, it was highly respected among tank crews, scouts, and officers.
 
-ПРИМЕЧАНИЯ:
+NOTES:
 
-- Обладает высокой точностью для пистолета, но заставляет платить за это тугим спуском при самовзводе.
-- Уникальная конструкция позволяет установить глушитель "Брамит", превращая револьвер в инструмент бесшумной ликвидации.
-- Настоящее "Оружие Последнего Шанса", которое продолжит стрелять, даже если его поднять со дна болота.
+- Highly accurate for a pistol, but comes at the cost of a stiff trigger pull when cocking.
+- The unique design allows for the installation of a Bramit suppressor, turning the revolver into a silent assassination tool.
+- A true "Last Chance Weapon" that will continue firing even if recovered from the bottom of a swamp.

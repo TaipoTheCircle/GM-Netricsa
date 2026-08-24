@@ -8,7 +8,7 @@ MOONS:        Unknown
 TERRAIN:      Red sands radiating light, blue skies, urban agglomerations
 LOCATION:     Bluk star system, Sector 8 of the Milky Way Galaxy
 NATIVE RACES: Ushan (natives), The Speaking Birds (intelligent birds), numerous visitors from across the galaxy
-AFFILIATION:  Independent world, active participant in intergalactic trade
+ALLIANCE:     Independent world, active participant in intergalactic trade
 LOCATIONS:    Palaputra City, Palaputra Spaceport, Philatelic Market, Main The Speaking Bird Nursery
 
 DESCRIPTION:

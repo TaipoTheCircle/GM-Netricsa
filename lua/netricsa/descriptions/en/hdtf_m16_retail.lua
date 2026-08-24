@@ -1,16 +1,22 @@
 M16A1 ASSAULT RIFLE
 
 
-WEAPON:      Colt M16A1
-AMMO:        5.56x45mm NATO rounds + 40mm grenades
-ROF:         ~700 rounds / min
+WEAPON: M16A1 Assault Rifle
+AMMO:   5.56x45mm NATO (M193)
+ROF:    Automatic, 650-750 rounds / minute
+WEIGHT  2,97 kg
 
 DESCRIPTION:
 
-Reliable American-made assault rifle, widely issued to H.E.C.U. forces. Delivers sustained automatic fire with decent accuracy. Equipped with an underbarrel grenade launcher, enabling both suppressive fire and explosive support in one platform.
+This American assault rifle chambered for 5.56x45mm is designed for accurate and concentrated fire at medium ranges. The rifle is characterized by its relatively light weight, low recoil, and good accuracy, making it suitable for both single-shot and automatic fire.
+
+The weapon uses a 20- or 30-round magazine and is gas-operated with a rotating bolt. The M16A1 is capable of a high rate of fire, with an effective range of approximately 450 meters.
 
 NOTES:
 
-- Standard infantry weapon with solid performance.
-- Grenade launcher effective for crowd control and entrenched enemies.
-- Accuracy suffers under prolonged bursts.
+- High accuracy and relatively low recoil.
+- Capable of single-shot and automatic fire.
+- Uses 20- or 30-round magazines.
+- Effective primarily at medium and long ranges.
+- Light weight makes the rifle comfortable for extended carry.
+- The 5.56x45mm cartridge provides good penetration against light targets.
