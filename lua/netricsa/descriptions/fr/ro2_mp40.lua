@@ -1,19 +1,19 @@
-PISTOLET-MACHINE MP-40
+MP-40 SUBMACHINE GUN
 
 
-ARME : Mitraillette MP 40
-MUNITIONS : Parabellum 9x19 mm
-ROF : 500-550 tr/min
+ARME : Mitraillette MP 40
+MUNITIONS : 9x19mm Parabellum
+ROF : 500-550 RPM
 POIDS : 8,75 lbs
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Le MP 40 est une mitraillette allemande classique, largement utilisée pendant la Seconde Guerre mondiale. Compact, fiable et facile à manipuler, il est devenu l'arme standard des parachutistes, des équipages de chars et des commandants de peloton d'infanterie. Sa crosse métallique pliable et sa forme profilée permettaient un transport efficace, et sa cadence de tir modérée le rendait maniable en combat rapproché.
+The MP 40 is a classic German submachine gun, widely used during World War II. Compact, reliable, and easy to handle, it became the standard weapon of paratroopers, tank crews, and infantry platoon commanders. Its folding metal stock and streamlined shape allowed for efficient carry, and its moderate rate of fire made it manageable in close combat.
 
-Même si le MP 40 était moins puissant qu'un fusil à longue portée, il était supérieur dans les combats urbains, les embuscades et les espaces confinés, où la mobilité et les tirs de suppression étaient primordiaux. Connue pour son profil emblématique et son son distinctif, elle reste l'une des armes à feu les plus reconnaissables de l'histoire.
+While the MP 40 was less powerful than a rifle at long range, it was superior in urban combat, ambushes, and confined spaces, where mobility and suppressive fire were paramount. Known for its iconic profile and distinctive sound, it remains one of the most recognizable firearms in history.
 
-REMARQUES :
+REMARQUES :
 
 - Très efficace en combat rapproché.
-- Capacité du chargeur limitée (32 cartouches) - rechargez fréquemment.
-- La précision diminue rapidement à longue portée.
+- Limited magazine capacity (32 rounds) - reload frequently.
+- Accuracy drops off quickly at long ranges.

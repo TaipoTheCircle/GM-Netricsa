@@ -1,12 +1,12 @@
 FUSIL ANTICHAR PTRS-41
 
 
-ARME : Fusil antichar PTRS-41
-MUNITIONS : 14,5x114 mm
-ROF : ~15 tours/min
+ARME : Fusil antichar PTRS-41
+MUNITIONS : 14,5x114mm
+ROF : ~15 tours/min
 POIDS : ~20,9 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
 Ce fusil antichar à chargement automatique Simonov, modèle 1941, est une arme antichar soviétique conçue pour combattre les chars légers et moyens, les véhicules blindés et les positions de tir fortifiées. Il fut adopté par l’Armée rouge en 1941.
 
@@ -14,7 +14,7 @@ Le fusil utilise un système fonctionnant au gaz et tire une puissante cartouche
 
 Malgré son poids énorme de près de 21 kg, le PTRS a été conçu pour une utilisation antichar relativement mobile. Les meilleurs résultats ont été obtenus à des distances d'environ 300 à 400 mètres, et le fusil pouvait également être utilisé contre des postes de tir blindés.
 
-REMARQUES :
+REMARQUES :
 
 - À courte et moyenne portée, il peut endommager gravement les véhicules blindés légers et les cibles blindées.
 - Il fonctionne mieux à environ 300-400 mètres, où il combine une puissance énorme avec une précision acceptable.

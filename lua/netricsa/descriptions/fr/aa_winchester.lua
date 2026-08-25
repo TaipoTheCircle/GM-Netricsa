@@ -1,23 +1,23 @@
-MODÈLE WINCHESTER 1894
+FUSIL À POMPE WINCHESTER MODÈLE 1894
 
 
-ARME : Winchester modèle 1894
-MUNITIONS : .30-30 Winchester
-ROF : Action à levier, ~30 tours/min
+ARME : Winchester Model 1894 Pump-Action Shotgun
+MUNITIONS : .30-30 Winchester
+ROF : Lever-action, ~30 rounds / min
 POIDS : 3,1 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Un fusil à levier classique conçu par John Browning en 1894. L'arme présente une conception simple et fiable et est principalement destinée au tir précis à moyenne distance. La cartouche principale de ce modèle est la .30-30 Winchester.
+A classic lever-action rifle designed by John Browning in 1894. The weapon features a simple and reliable design and is primarily intended for accurate shooting at medium ranges. The primary cartridge for this model is the .30-30 Winchester.
 
-Après chaque tir, le tireur abaisse le levier et le ramène, éjectant la cartouche usagée et chambrant une nouvelle cartouche. La version standard dispose d'un chargeur tubulaire de 10 coups.
+After each shot, the shooter lowers the lever and returns it, ejecting the spent cartridge and chambering a fresh round. The standard version has a 10-round tubular magazine.
 
-REMARQUES :
+REMARQUES :
 
-- Bonne précision à moyenne portée.
-- Levier de rechargement manuel après chaque tir.
-- Chargeur tubulaire de 10 coups.
-- La cartouche .30-30 Winchester offre une bonne puissance contre les cibles légères et moyennes.
-- Efficace à moyenne portée, où il allie précision et puissance relativement élevée.
-- Cadence de tir lente par rapport aux fusils semi-automatiques.
-- Pesant environ 3,1 kg, il est relativement confortable pour un transport prolongé.
+- Good accuracy at medium ranges.
+- Manual reloading lever after each shot.
+- 10-round tubular magazine.
+- The .30-30 Winchester cartridge offers good power against light and medium targets.
+- Effective at medium ranges, where it combines accuracy with relatively high power.
+- Slow rate of fire compared to semi-automatic rifles.
+- Weighing approximately 3.1 kg, it is relatively comfortable for extended carry.

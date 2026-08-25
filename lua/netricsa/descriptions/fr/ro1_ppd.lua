@@ -1,23 +1,23 @@
-MITRAILLEUSE MACHINE DEGTYAREV PPD-40
+DEGTYAREV PPD-40 SUBMACHINE GUN
 
 
-ARME : mitraillette Degtyarev PPD-40
-MUNITIONS : 7,62x25 mm TT
-ROF : ~1000 tours/min
-POIDS : ~3,63 kg sans chargeur
+ARME : Degtyarev PPD-40 submachine gun
+MUNITIONS : 7,62x25mm TT
+ROF : ~1000 tours/min
+POIDS : ~3,63 kg without magazine
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Le PPD-40, une mitraillette Degtyarev modèle 1940, est une mitraillette soviétique conçue par Vasily Degtyarev. Il a évolué à partir de variantes antérieures du PPD et a été largement utilisé pendant la guerre soviéto-finlandaise et au début de la Seconde Guerre mondiale. Le PPD fut la première mitraillette officiellement adoptée par l'Armée rouge.
+The PPD-40, a Degtyarev submachine gun model 1940, is a Soviet submachine gun designed by Vasily Degtyarev. It evolved from earlier PPD variants and saw widespread use during the Soviet-Finnish War and the early stages of World War II. The PPD was the first submachine gun officially adopted by the Red Army.
 
-Le PPD-40 utilise une action de retour de flamme et tire la cartouche TT de 7,62 x 25 mm. L'arme était capable de tirer automatiquement à une cadence d'environ 1 000 coups par minute. Il était alimenté par des chargeurs à boîte de 25 cartouches et des chargeurs à tambour de grande capacité, initialement 73 cartouches, puis 71.
+The PPD-40 uses a blowback action and fires the 7.62x25mm TT cartridge. The weapon was capable of automatic fire at a rate of approximately 1,000 rounds per minute. It was fed from 25-round box magazines and high-capacity drum magazines, initially 73 rounds, later 71.
 
-Contrairement aux PPD précédents, la variante de 1940 a été considérablement simplifiée pour accélérer et réduire les coûts de production. Cependant, la conception restait assez complexe et coûteuse par rapport aux derniers PPSh et PPS.
+Unlike earlier PPDs, the 1940 variant was significantly simplified to speed up and reduce production costs. However, the design remained quite complex and expensive compared to the later PPSh and PPS.
 
-Le PPD-40 avait une crosse en bois et une enveloppe de canon perforée distinctive. Le grand chargeur à tambour permettait un tir très dense à courte portée, bien que sa conception puisse être moins fiable lors de l'alimentation en cartouches.
+The PPD-40 had a wooden stock and a distinctive perforated barrel jacket. The large drum magazine allowed for very dense fire at close range, although its design could be less reliable when feeding rounds.
 
-REMARQUES :
+REMARQUES :
 
-- Une cadence de tir très élevée permet un barrage de tirs dévastateur à courte portée.
-- Mieux utilisé en combat rapproché, en particulier lors de l'utilisation d'un chargeur à tambour.
-- Le chargeur à tambour pour 71 à 73 cartouches est impressionnant, mais augmente le poids de l'arme et ne se distingue pas par une fiabilité idéale.
+- Very high rate of fire allows for a devastating barrage of fire at close range.
+- Best used in close combat, especially when using a drum magazine.
+- The drum magazine for 71-73 rounds looks impressive, but increases the weight of the weapon and was not distinguished by ideal reliability.

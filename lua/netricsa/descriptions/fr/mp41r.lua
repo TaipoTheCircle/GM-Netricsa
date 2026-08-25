@@ -1,21 +1,21 @@
-MITRAILLEUSE MP-41(R)
+MP-41(R) SUBMACHINE GUN
 
 
-ARME : MITRAILLEUSE MP-41(R)
-MUNITIONS : Parabellum 9x19 mm
-ROF : ~1000 tours/min
+ARME : MP-41(R) SUBMACHINE GUN
+MUNITIONS : 9x19mm Parabellum
+ROF : ~1000 rounds / min
 POIDS : ~3,8-4,5 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Le MP-41(R) était une variante allemande du PPSh-41 soviétique capturé, chambré pour la cartouche de pistolet Parabellum allemande de 9 x 19 mm. Cette conversion a été introduite en 1944 en raison d'une pénurie de munitions pour les PPSh capturés, que les Allemands désignaient MP-717(R). Pour utiliser des munitions allemandes, des modifications ont été apportées à la conception, permettant l'utilisation de chargeurs MP-40 standard.
+The MP-41(R) was a German variant of the captured Soviet PPSh-41, chambered for the German 9x19mm Parabellum pistol cartridge. This conversion was introduced in 1944 due to a shortage of ammunition for captured PPShs, which the Germans designated MP-717(R). To use German ammunition, modifications were made to the design, allowing the use of standard MP-40 magazines.
 
-Essentiellement, le MP-41(R) a conservé la conception de base du PPSh-41, y compris sa disposition distinctive et ses composants en bois, mais a adopté un système d'alimentation allemand et la cartouche 9x19 mm. L'arme pouvait tirer à la fois des tirs simples et automatiques. Sa cadence de tir était d'environ 1 000 coups par minute et sa portée effective était estimée à environ 200 à 300 mètres.
+Essentially, the MP-41(R) retained the basic design of the PPSh-41, including its distinctive layout and wooden components, but adopted a German feed system and the 9x19mm cartridge. The weapon could fire both single and automatic fire. Its rate of fire was approximately 1,000 rounds per minute, and its effective range was estimated at approximately 200-300 meters.
 
-Plus de 10 000 de ces mitraillettes converties ont été fabriquées. Le résultat fut un hybride plutôt inhabituel : le modèle soviétique PPSh, une cartouche allemande et un chargeur MP-40.
+Over 10,000 of these converted submachine guns were manufactured. The result was a rather unusual hybrid: the Soviet PPSh design, a German cartridge, and an MP-40 magazine.
 
-REMARQUES :
+REMARQUES :
 
-- Une cadence de tir très élevée permet des tirs concentrés à courte et moyenne portée.
-- La principale caractéristique du MP-41(R) est la combinaison de la conception soviétique PPSh avec les munitions allemandes de 9 mm et le chargeur MP-40.
-- Grâce à sa capacité de tir en un seul coup, l'arme peut être utilisée de manière plus économique, sans transformer chaque engagement en rafale continue. Le PPSh a enfilé un uniforme allemand, s'est emparé d'un chargeur MP-40 et est retourné au front. L’histoire des armes bénéficie parfois de tels croisements.
+- A very high rate of fire allows for concentrated fire at close and medium ranges.
+- The main feature of the MP-41(R) is the combination of the Soviet PPSh design with the German 9mm ammunition and MP-40 magazine.
+- Thanks to its single-shot fire capability, the weapon can be used more economically, without turning every engagement into a continuous burst. The PPSh donned a German uniform, grabbed an MP-40 magazine, and headed back to the front. Weapons history sometimes enjoys such crossovers.

@@ -2,31 +2,31 @@ VER SOUTERRAIN DU MAGNOR
 
 
 CLASSE : Ver souterrain
-MÉTABOLISME : Insecte
+METABOLISM: Insect
 PERCEPTION : Créature souterraine stationnaire
 TAILLE : 8,2 pieds
 ENDURANCE : Invulnérable
-HOSTILITÉ : Élevée
+HOSTILITY:  High
 ARMES : Vomir
-RÉCOMPENSE : 100 FC
-MENACE : Moyenne
+REWARD:     100 FC
+THREAT:     Medium
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Un spécimen extrêmement inhabituel des créatures insectoïdes de Magnor. Le Ver a abandonné son cycle de vie normal et s'est transformé en une sorte d'unité d'artillerie vivante, habitant dans les murs, les grottes et autres zones souterraines.
+An extremely unusual specimen of Magnor's insectoid creatures. The Worm has abandoned its normal life cycle and transformed into a kind of living artillery unit, dwelling within walls, caves, and other underground areas.
 
 La créature ne quitte presque jamais sa cachette. Son énorme bouche émerge périodiquement du rocher environnant, après quoi le ver crache une grande quantité de vomi vert sur l'ennemi. Un coup inflige des dégâts importants et peut rapidement neutraliser un ennemi imprudent.
 
-L'attaque est cyclique. Après chaque éruption, le ver fait une pause un moment avant d'ouvrir à nouveau la bouche et de lancer une nouvelle attaque. Par conséquent, lorsque vous traversez une zone infestée, vous pouvez essayer d’utiliser les intervalles entre les attaques de crachats pour vous mettre rapidement en sécurité.
+The attack is cyclical. After each eruption, the Worm pauses for a while before opening its mouth again and launching a new attack. Therefore, when passing through an infested area, you can try to use the gaps between spitting attacks to quickly move to safety.
 
-Le principal problème est que le ver est pratiquement impossible à tuer. Son organisme est si résistant que les armes conventionnelles ne lui font aucun mal. Sauf pour le canon SBC.
+The main problem is that the Worm is practically impossible to kill. Its organism is so highly resilient that conventional weapons do no harm to it. Except for the SBC Cannon.
 
-Mental les utilise personnellement pour créer Albino Cyclops.
+Mental personally uses them to create Albino Cyclops.
 
-CONSEILS :
+TIPS:
 
-- Le Canon SBC est votre meilleur ami contre ces rots absurdes.
-- Surveillez le moment où sa bouche s'ouvre. C'est le signal principal pour une esquive immédiate.
-- Après avoir craché, une courte fenêtre apparaît pendant laquelle le ver est inactif. Utilisez-le pour avancer.
-- Ne restez pas devant sa couverture et attendez la prochaine attaque.
-- Si le passage le permet, passez-la simplement en courant.
+- The SBC Cannon is your best friend against this burping nonsense.
+- Watch for the moment when its mouth opens. This is the main signal for immediate dodge.
+- After spitting, a short window appears during which the Worm is inactive. Use this to move forward.
+- Don't stand in front of her cover and wait for the next attack.
+- If the passage allows, just run past her.

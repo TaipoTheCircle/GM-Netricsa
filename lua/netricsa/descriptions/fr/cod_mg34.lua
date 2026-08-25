@@ -1,22 +1,22 @@
-MITRAILLEUSE À USAGE GÉNÉRAL MG 34
+MG 34 GENERAL-PURPOSE MACHINE GUN
 
 
-ARME : Mitrailleuse polyvalente MG 34
-MUNITIONS : 7,92x57mm Mauser
-ROF : ~800-900 tours/min
+ARME : MG 34 General-Purpose Machine Gun
+MUNITIONS : 7,92x57mm Mauser
+ROF : ~800-900 rounds / min
 POIDS : ~12 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Mitrailleuse polyvalente allemande développée pendant l'entre-deux-guerres et adoptée en 1934. Elle a été conçue comme une arme polyvalente, capable de servir de mitrailleuse légère légère, de mitrailleuse lourde ou de mitrailleuse de char, selon l'équipement installé.
+A German general-purpose machine gun developed during the interwar period and adopted in 1934. It was designed as a versatile weapon, capable of serving as a light light machine gun, a heavy machine gun, or a tank machine gun, depending on the installed equipment.
 
-La mitrailleuse utilise un recul court et possède une cadence de tir très élevée pour l'époque. Il est alimenté essentiellement par des courroies ; des variantes avec des magasins à tambour existent également. Grâce à la possibilité de changer rapidement de canon, la MG 34 est capable d'effectuer un tir soutenu, même si un tir intense réchauffe rapidement le canon.
+The machine gun uses a short-recoil action and boasts a very high rate of fire for its time. It is fed primarily by belts; variants with drum magazines also exist. Thanks to the ability to quickly change barrels, the MG 34 is capable of sustained fire, although intense firing quickly heats up the barrel.
 
-La principale caractéristique de la MG 34 est sa polyvalence : la même mitrailleuse peut être utilisée par l'infanterie sur un bipied, montée sur un trépied, ou utilisée comme armement pour des véhicules blindés.
+The MG 34's main feature is its versatility: the same machine gun could be used by infantry on a bipod, mounted on a tripod, or used as an armament for armored vehicles.
 
-REMARQUES :
+REMARQUES :
 
-- Sa cadence de tir extrêmement élevée rend la MG 34 particulièrement efficace pour supprimer les ennemis à courte et moyenne portée.
-- Montée sur un trépied, la mitrailleuse est capable de délivrer des tirs précis sur des cibles distantes et groupées.
-- Le canon chauffe rapidement lors d'un tir intense, ce qui fait de la possibilité de le remplacer une véritable bouée de sauvetage.
-- Une mitrailleuse, trois rôles : infanterie, trépied et char. Une polyvalence perfectionnée à la minutie allemande.
+- Its extremely high rate of fire makes the MG 34 particularly effective at suppressing enemies at close and medium ranges.
+- Mounted on a tripod, the machine gun is capable of delivering accurate fire at distant and grouped targets.
+- The barrel heats up quickly during intense fire, making the ability to replace it a real lifesaver.
+- One machine gun, three roles: infantry, tripod, and tank. Versatility perfected to German meticulousness.

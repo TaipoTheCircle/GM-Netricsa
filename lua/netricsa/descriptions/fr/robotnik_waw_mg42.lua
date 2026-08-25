@@ -1,22 +1,22 @@
 MITRAILLEUSE À USAGE GÉNÉRAL MG 42
 
 
-ARME : Mitrailleuse polyvalente MG 42
-MUNITIONS : Mauser 7,92x57 mm
-ROF : ~900-1 500 tours/min.
+ARME : Mitrailleuse polyvalente MG 42
+MUNITIONS : 7.92x57mm Mauser
+ROF : ~900-1500 tours/min.
 POIDS : ~11,57 kg.
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Mitrailleuse polyvalente allemande de la Seconde Guerre mondiale, développée en 1942 pour succéder à la MG 34, plus simple et moins chère à produire. Elle a été conçue en mettant l'accent sur une grande fiabilité, le progrès technologique et une immense puissance de feu.
+A German general-purpose machine gun from World War II, developed in 1942 as a simpler and cheaper-to-produce successor to the MG 34. It was designed with an emphasis on high reliability, technological advancement, and immense firepower.
 
-La mitrailleuse utilise une action de recul court avec un boulon verrouillé à rouleau. Il est alimenté par une ceinture métallique et l'arme tire en continu. Sa cadence de tir élevée est l'une de ses principales caractéristiques.
+The machine gun uses a short-recoil action with a roller-locked bolt. It is fed by a metal belt, and the weapon fires continuously. Its high rate of fire is one of its key features.
 
-Le canon chauffe rapidement lors d'un tir prolongé, sa conception permet donc un remplacement rapide. La MG 42 pouvait être utilisée comme mitrailleuse légère sur bipied ou montée sur trépied. Après la guerre, le design a été développé en de nombreuses variantes, dont la MG3.
+The barrel heats up quickly during prolonged firing, so the design allows for quick replacement. The MG 42 could be used as a light machine gun on a bipod or mounted on a tripod. After the war, the design was further developed into numerous variants, including the MG3.
 
-REMARQUES :
+REMARQUES :
 
-- Sa cadence de tir élevée permet un tir extrêmement dense et une suppression efficace de l'ennemi.
-- Le canon rapidement détachable permet un tir intensif continu malgré une chaleur intense.
-- Une fois montée, la mitrailleuse est particulièrement efficace contre des cibles lointaines et groupées.
-- Les soldats américains et britanniques la surnommaient « la scie d'Hitler ».
+- Its high rate of fire allows for extremely dense fire and effective suppression of the enemy.
+- The quick-detachable barrel allows for continued intensive firing despite intense heat.
+- When mounted, the machine gun is particularly effective against distant and grouped targets.
+- American and British soldiers nicknamed it "Hitler's Saw".

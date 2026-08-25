@@ -1,22 +1,22 @@
-CARABINE M1
+M1 CARBINE
 
 
-ARME : Carabine M1
-MUNITIONS : Carabine .30 (7,62x33 mm)
-RR : ~40-50 tours/min
+ARME : M1 Carbine
+MUNITIONS : .30 Carbine (7.62x33mm)
+RR:     ~40-50 rounds / min
 POIDS : ~2,36 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Cette carabine semi-automatique américaine légère de la Seconde Guerre mondiale a été conçue comme une alternative plus compacte et plus pratique à un fusil pleine grandeur pour les soldats de deuxième ligne, les équipages de véhicules et les autres soldats qui avaient besoin d'une arme légère avec plus de puissance qu'un pistolet.
+This lightweight American semi-automatic carbine from World War II was designed as a more compact and convenient alternative to a full-size rifle for second-line soldiers, vehicle crews, and other soldiers who needed a lightweight weapon with more power than a pistol.
 
-La carabine utilise une action fonctionnant au gaz et est chambrée pour la cartouche .30 Carbine. Son poids léger, son recul doux et sa taille compacte rendent la carabine M1 particulièrement adaptée au combat rapproché et aux mouvements rapides. Sa portée effective est d'environ 275 mètres.
+The carbine uses a gas-operated action and is chambered for the .30 Carbine cartridge. Its light weight, soft recoil, and compact size make the M1 Carbine particularly suitable for close combat and rapid movement. Its effective range is approximately 275 meters.
 
-Contrairement au M2 ultérieur, la carabine M1 standard ne tire qu'en mode coup unique. La variante M2 propose désormais un tir automatique à une cadence d'environ 750 coups par minute.
+Unlike the later M2, the standard M1 Carbine fires only in single-shot mode. The M2 variant now features automatic fire at a rate of approximately 750 rounds per minute.
 
-REMARQUES :
+REMARQUES :
 
-- Excellent pour les portées proches à moyennes, en particulier là où un fusil de grande taille serait trop encombrant.
-- La carabine très légère permet des mouvements rapides et est peu fatigante pour le tireur.
-- La carabine M1 ressemble à un fusil à échelle réduite, mais se manipule plutôt comme une carabine sérieuse.
-- Le recul doux rend les tirs de suivi rapides assez confortables.
+- Excellent for close-to-medium ranges, especially where a full-sized rifle would be too cumbersome.
+- The very lightweight carbine allows for quick movement and is minimally tiring for the shooter.
+- The M1 Carbine looks like a scaled-down rifle, but handles more like a serious carbine.
+- Soft recoil makes rapid follow-up shots quite comfortable.

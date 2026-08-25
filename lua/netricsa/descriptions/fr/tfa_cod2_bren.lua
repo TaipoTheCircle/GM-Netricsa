@@ -1,27 +1,27 @@
-MITRAILLEUSE LÉGÈRE BREN
+BREN LIGHT MACHINE GUN
 
 
-ARME : Mitrailleuse légère Bren
-MUNITIONS : .303 britanniques (7,7 × 56 mm R)
-ROF : ~500-520 tours/min
+ARME : Mitrailleuse légère Bren
+MUNITIONS : .303 British (7.7×56 mm R)
+ROF : ~500-520 rounds / min
 POIDS : ~10 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Une mitrailleuse légère britannique basée sur le ZB vz. 26 et adopté par l'armée britannique dans les années 1930. L'arme était réputée pour sa grande fiabilité, sa bonne précision et sa cadence de tir relativement faible, ce qui permettait au tireur de mieux contrôler le tir.
+A British light machine gun based on the Czechoslovakian ZB vz. 26 and adopted by the British Army in the 1930s. The weapon was noted for its high reliability, good accuracy, and relatively low rate of fire, which allowed the gunner better control over fire.
 
 Le Bren utilise un système fonctionnant au gaz et est alimenté par un chargeur de boîte monté sur le dessus. Le chargeur standard contient 30 cartouches. La position inhabituelle du chargeur supérieur permettait également un chemin d'alimentation droit et simplifiait le mécanisme.
 
 Le canon est équipé d'un énorme cache-flamme et le canon lui-même peut être rapidement remplacé s'il surchauffe. L'arme était généralement utilisée avec un bipied pour un tir soutenu sur l'ennemi.
 
-REMARQUES :
+REMARQUES :
 
-- Efficace à moyenne et longue portée.
-- Une faible cadence de tir permet de maintenir le contrôle des armes et d'économiser les munitions.
-- Le chargeur est monté sur le dessus, ce qui nécessite une conception particulière lors de l'utilisation d'un viseur optique.
-- Le bipied permet un tir précis et cohérent depuis une position couchée.
-- Le canon peut être rapidement remplacé s'il devient trop chaud.
-- Son poids élevé rend le pistolet Bren difficile à transporter.
-- La cartouche britannique .303 est très puissante et permet un engagement efficace de cibles à des distances importantes.
-- Pour un tir soutenu, mieux vaut utiliser des rafales courtes plutôt que de tenter de transformer le Bren en aspirateur à munitions.
-- Sa fiabilité et sa précision en ont fait l'une des mitrailleuses légères britanniques les plus célèbres de la Seconde Guerre mondiale.
+- Effective at medium and long ranges.
+- Low rate of fire helps maintain weapon control and conserve ammunition.
+- The magazine is mounted on top, requiring a special design when using an optical sight.
+- The bipod allows for accurate and consistent fire from a prone position.
+- The barrel can be quickly replaced if it gets too hot.
+- Its heavy weight makes the Bren gun awkward to carry.
+- The .303 British cartridge is highly powerful and allows for effective engagement of targets at significant distances.
+- For sustained fire, it's better to use short bursts rather than trying to turn the Bren into an ammunition vacuum cleaner.
+- Its reliability and accuracy made it one of the most famous British light machine guns of World War II.

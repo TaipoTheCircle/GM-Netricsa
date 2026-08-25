@@ -1,22 +1,22 @@
-ARCHÉOLOGUE DÉCAPÉ, PÉTARD DE L'ÎLE MYSTÉRIEUSE
+BEHEADED ARCHAEOLOGIST, FIRECRACKER FROM THE MYSTERIOUS ISLAND
 
 
-CLASSE : Archéologue décapité, Pétard
-MÉTABOLISME : Cyber-Zombie
-PERCEPTION : Insensible, contrôlé par LCU
-TAILLE : 6 pieds
-ENDURANCE : Très faible
-HOSTILITÉ : Très faible
-ARMES : Lanceur de missiles magiques
-RÉCOMPENSE : 200 FC
-MENACE : Aucune
+CLASS:      Beheaded Archaeologist, Firecracker
+METABOLISM: Cyber-Zombie
+PERCEPTION: Insentient, LCU Controlled
+SIZE:       6 ft
+ENDURANCE:  Very Low
+HOSTILITY:  Very Low
+WEAPONS:    Magic-Missile Launcher
+REWARD:     200 FC
+THREAT:     None
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-L'archéologue décapité de l'île mystérieuse, ressuscité des morts par Mental et télécommandé par Life Control Unit (LCU).
+The Beheaded Archaeologist from the Mysterious Island, raised from the dead by Mental and remote controlled by Life Control Unit (LCU).
 
-Un pétard porte sa propre tête dans une main pour recevoir des informations audiovisuelles. Il tire successivement cinq missiles magiques à partir d'un lanceur de faible puissance implanté dans la tête. Ils sont immunisés contre leurs propres missiles.
+A Firecracker carries his own head in one hand to receive audio/visual information. He fires five magic missiles in succession from a low-power launcher implanted in the head. They're immune to their own missiles.
 
-CONSEILS :
+TIPS:
 
-- Aucun problème connu.
+- No known problems.

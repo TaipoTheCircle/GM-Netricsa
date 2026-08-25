@@ -1,21 +1,21 @@
-MITRAILLEUSE STEN OR
+STEN SUBMACHINE GUN GOLD
 
 
-ARME : Mitraillette STEN OR
-MUNITIONS : Parabellum 9x19 mm
-ROF : Automatique, ~500 tours/min
+ARME : STEN Submachine Gun GOLD
+MUNITIONS : 9x19mm Parabellum
+ROF : Automatic, ~500 rounds / min
 POIDS : ~3,18 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Mitraillette britannique développée en 1941 comme arme simple, peu coûteuse et technologiquement avancée pour la production de masse. Sa conception est extrêmement simplifiée et se compose d'un petit nombre de pièces, permettant au STEN d'être produit rapidement même dans des conditions de guerre.
+A British submachine gun developed in 1941 as a simple, inexpensive, and technologically advanced weapon for mass production. Its design is extremely simplified and consists of a small number of parts, allowing the STEN to be quickly produced even under wartime conditions.
 
-L'arme est actionnée par retour de flamme et alimentée par un chargeur latéral de 32 cartouches. Le STEN est capable de tirer à la fois à un coup et automatique. Le principal avantage de cette arme réside dans sa simplicité et sa grande efficacité à courte portée.
+The weapon is blowback-operated and fed from a side-mounted 32-round box magazine. The STEN is capable of both single-shot and automatic fire. The weapon's main advantage is its simplicity and high effectiveness at close range.
 
-REMARQUES :
+REMARQUES :
 
-- Capable de tir unique et automatique. - Efficace principalement à courte et moyenne portée.
-- Une conception simple facilite la maintenance et la production.
-- Portée effective d'environ 100 mètres.
-- Les viseurs primitifs et un mauvais équilibre limitent la précision.
-- Une surcharge du chargeur peut entraîner des retards lors du tir.
+- Capable of single-shot and automatic fire. - Effective primarily at close and medium ranges.
+- Simple design facilitates maintenance and production.
+- Effective range of approximately 100 meters.
+- Primitive sights and poor balance limit accuracy.
+- Overloading the magazine can cause delays when firing.

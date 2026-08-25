@@ -1,21 +1,21 @@
-PISTOLET ARMES MALORIENNES 3516
+PISTOL MALORIAN ARMS 3516
 
 
-ARME : Pistolet Malorian Arms 3516
-MUNITIONS : munitions spéciales de gros calibre
-ROF : ~200 tirs/min
+ARME : Pistol Malorian Arms 3516
+MUNITIONS : Special Large-Caliber Ammunition
+ROF : ~200 shots / min
 POIDS : ~4,3 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Un pistolet lourd emblématique fabriqué par Malorian Arms spécialement pour le rocker Johnny Silverhand. Il s'agit d'un pistolet unique, conçu pour tirer avec une puissance extrêmement puissante et conçu comme l'arme personnelle de Johnny.
+An iconic heavy pistol manufactured by Malorian Arms specifically for rockerboy Johnny Silverhand. This is a unique pistol, designed to fire extremely powerfully and designed as Johnny's personal weapon.
 
-La version 3516 est un pistolet semi-automatique doté d'un chargeur de 10 cartouches. L'arme appartient à la classe Power et est capable d'utiliser des ricochets. Sa particularité est la capacité de pénétrer à couvert, et son attaque spéciale permet de transformer un tir en une véritable surprise enflammée pour l'ennemi.
+The 3516 version is a semi-automatic pistol with a 10-round magazine. The weapon belongs to the Power class and is capable of using ricochets. Its peculiarity is the ability to penetrate cover, and its special attack allows you to turn a shot into a real fiery surprise for the enemy.
 
-Le Malorian Arms 3516 se distingue par sa taille énorme pour un pistolet et son poids d'environ 4,3 kg. Les versions précédentes de l'arme étaient encore plus extrêmes : il existait une version 14 mm, et l'histoire la plus récente du 3516 est liée aux munitions de niveau .577 Nitro Express.
+The Malorian Arms 3516 is distinguished by its enormous size for a pistol and a weight of about 4.3 kg. Previous versions of the weapon were even more extreme: there was a 14mm version, and the 3516's more recent history is tied to .577 Nitro Express-level ammunition.
 
-REMARQUES :
+REMARQUES :
 
-- Peut transformer une attaque de mêlée en attaque de feu, en utilisant les munitions restantes.
-- Capable d'utiliser des ricochets et de franchir les obstacles.
-- Créé pour Johnny Silverhand, il est donc assez difficile de l'appeler un pistolet ordinaire.
+- Can turn a melee attack into a fire attack, using up the remaining ammo.
+- Able to use ricochets and break through obstacles.
+- Created for Johnny Silverhand, so it's quite difficult to call it an ordinary pistol.

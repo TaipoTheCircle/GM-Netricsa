@@ -1,22 +1,22 @@
-FUSIL D'ASSAUT M16
+M16 ASSAULT RIFLE
 
 
-ARME : Fusil d'assaut M16
-MUNITIONS : 5,56x45 mm OTAN
-ROF : ~650-750 tours/min
+ARME : M16 Assault Rifle
+MUNITIONS : 5.56x45mm NATO
+ROF : ~650-750 rounds / min
 POIDS : ~2,88 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Ce fusil d'assaut américain, développé à partir de l'AR-15 par le designer Eugene Stoner, a été adopté pour la première fois en 1964 et a été largement utilisé pendant la guerre du Vietnam. Le M16 est devenu l’un des fusils d’assaut les plus produits au monde et diverses modifications sont encore utilisées aujourd’hui.
+This American assault rifle, developed from the AR-15 by designer Eugene Stoner, was first adopted in 1964 and saw widespread use during the Vietnam War. The M16 became one of the most widely produced assault rifles in the world, and various modifications are still in use today.
 
-Le fusil utilise un mécanisme à verrou rotatif à gaz et est chambré pour la cartouche de 5,56 x 45 mm. Les premiers modèles M16 et M16A1 utilisaient les munitions M193. Il est alimenté par des chargeurs de 20 ou 30 cartouches.
+The rifle uses a gas-operated, rotating bolt action and is chambered for the 5.56x45mm cartridge. Early M16 and M16A1 models used the M193 ammunition. It is fed from 20- or 30-round box magazines.
 
-L'une des principales caractéristiques du M16 était son poids extrêmement léger pour un fusil d'assaut. Sa conception légère, son faible recul et sa cadence de tir élevée le rendaient bien adapté aux tirs intenses. De nombreuses variantes sont apparues plus tard, notamment les M16A1, M16A2, M16A3 et M16A4.
+One of the M16's key features was its extremely light weight for an assault rifle. Its lightweight design, low recoil, and high rate of fire made it well-suited for heavy fire. Numerous variants later appeared, including the M16A1, M16A2, M16A3, and M16A4.
 
-REMARQUES :
+REMARQUES :
 
-- Fusil léger avec une cadence de tir élevée, particulièrement adapté au tir automatique.
-- Le faible recul permet un bon contrôle de l'arme lors des tirs en rafale.
-- Le M16 pèse moins de trois kilos sans chargeur. Pour un fusil, c'est pratiquement un régime.
-- Le fusil qui a remplacé le M14 et a finalement acquis toute une famille de proches.
+- Lightweight rifle with a high rate of fire, especially suitable for automatic fire.
+- Low recoil allows for good control of the weapon during burst fire.
+- The M16 weighs less than three kilograms without a magazine. For a rifle, that's practically a diet.
+- The rifle that replaced the M14 and eventually acquired a whole family of relatives of its own.

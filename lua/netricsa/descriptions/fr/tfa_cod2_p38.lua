@@ -1,22 +1,22 @@
-PISTOLET WALTHER P38
+WALTHER P38 PISTOL
 
 
-ARME : Pistolet Walther P38
-MUNITIONS : Parabellum 9x19 mm
-ROF : ~40-50 tours/min
+ARME : Walther P38 Pistol
+MUNITIONS : 9x19mm Parabellum
+ROF : ~40-50 rounds / min
 POIDS : ~0,88 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Pistolet semi-automatique allemand développé par Carl Walther et adopté par l'armée allemande en 1938. Il a été créé pour remplacer le pistolet Luger P08 plus moderne et technologiquement avancé et est devenu l'un des principaux pistolets militaires allemands de la Seconde Guerre mondiale. Environ 1,2 millions ont été produits.
+A German semi-automatic pistol developed by Carl Walther and adopted by the German army in 1938. It was created as a more modern and technologically advanced replacement for the Luger P08 pistol and became one of the main German military pistols of World War II. Approximately 1,2 million were produced.
 
-Le pistolet utilise une action à court recul et un verrouillage à levier unique. Le mécanisme de déclenchement du marteau à double action permet de tirer le premier coup soit par simple action, soit par armement manuel. Il est alimenté par un chargeur à 8 coups.
+The pistol uses a short-recoil action and a unique lever lock. The double-action hammer trigger mechanism allows the first shot to be fired either by single-action or manually cocked. It is fed from an 8-round magazine.
 
-L'une des caractéristiques distinctives du P38 est la sécurité coulissante, qui permet également un déclenchement sécurisé de la gâchette. Le pistolet a acquis une réputation d'arme de poing militaire fiable et a continué à servir dans divers pays après la guerre, notamment en Allemagne de l'Ouest, où son développement a été désigné P1.
+One of the P38's distinctive features is the slide safety, which also allows for safe trigger release. The pistol earned a reputation as a reliable military sidearm and continued to serve in various countries after the war, including West Germany, where its development was designated the P1.
 
-REMARQUES :
+REMARQUES :
 
-- Après que le Luger soit déjà devenu une légende, les Allemands ont décidé de créer un successeur plus moderne.
-- Il est bien adapté à la prise de vue à courte portée et son poids relativement léger le rend pratique pour un transport continu.
-- Le système double action permet un premier coup rapide sans armer au préalable le chien.
-- Le verrou à levier est devenu l'une des caractéristiques techniques clés du P38 et le distingue de nombreux pistolets contemporains.
+- After the Luger had already become a legend, the Germans decided to create a more modern successor.
+- It is well-suited for close-range shooting, and its relatively light weight makes it convenient for continuous carry.
+- The double-action system allows for a quick first shot without first cocking the hammer.
+- The lever lock became one of the P38's key technical features and distinguished it from many contemporary pistols.

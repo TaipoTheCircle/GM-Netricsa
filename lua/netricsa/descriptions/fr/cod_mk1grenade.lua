@@ -1,22 +1,22 @@
-GRENADE À FRAGMENTATION À MAIN MK 1
+MK 1 HAND FRAGMENTATION GRENADE
 
 
-ARME : Grenade à fragmentation manuelle MK 1
-MUNITIONS : Explosive
-ROF : à usage unique
-POIDS : ~0,45kg
+ARME : MK 1 Hand Fragmentation Grenade
+MUNITIONS : Explosive
+ROF : Single Use
+POIDS : ~0,45 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Grenade à main américaine à fragmentation de la Première Guerre mondiale, développée en 1917. Il s'agissait de l'une des premières tentatives américaines de créer une grenade à fragmentation standard et a été conçue comme un moyen simple et fiable de vaincre l'infanterie.
+An American fragmentation hand grenade from World War I, developed in 1917. It was one of the first American attempts to create a standard fragmentation grenade and was designed as a simple and reliable means of defeating infantry.
 
-La grenade avait un corps nervuré distinctif avec 32 encoches et utilisait un fusible à friction temporisé. Pour activer le mécanisme, il fallait retirer la goupille de sécurité, retirer le top cap, et activer le levier avant de lancer.
+The grenade had a distinctive ribbed body with 32 notches and used a timed friction fuse. To activate the mechanism, it was necessary to remove the safety pin, remove the top cap, and activate the lever before throwing.
 
-Cependant, dans la pratique, le Mk 1 s’est avéré bien plus complexe que ce que ses concepteurs avaient espéré. Des problèmes avec l'allumage du fusible ont conduit à la mise hors service rapide de la grenade et à son remplacement par la Mk 2 améliorée en 1918.
+However, in practice, the Mk 1 turned out to be far more complex than its designers had hoped. Problems with the fuse ignition led to the grenade being quickly removed from service and replaced by the improved Mk 2 in 1918.
 
-REMARQUES :
+REMARQUES :
 
-- Conçu pour détruire l'ennemi avec des fragments du boîtier lors de la détonation.
-- Le mécanisme s'est révélé trop complexe dans des conditions de combat réelles, c'est pourquoi la grenade a rapidement acquis la réputation d'être une mauvaise solution.
-- Ce n'est pas parce qu'une grenade ne marche pas qu'on peut se détendre. L'histoire du Mk 1 illustre pourquoi.
-- Utilisé par les troupes américaines pendant la Première Guerre mondiale, mais n'a pas servi longtemps.
+- Designed to destroy the enemy with fragments from the casing upon detonation.
+- The mechanism proved too complex in real combat conditions, which is why the grenade quickly gained a reputation as a poor solution.
+- Just because a grenade doesn't work doesn't mean you can relax. The history of the Mk 1 illustrates why.
+- Used by American troops in World War I, but didn't serve for long.

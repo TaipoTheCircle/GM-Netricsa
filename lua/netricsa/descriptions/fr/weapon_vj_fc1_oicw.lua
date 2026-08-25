@@ -1,14 +1,14 @@
-FUSIL D'ASSAUT OICW
+OICW ASSAULT RIFLE
 
 
-ARME : Arme de Combat Individuelle Objectif (OICW)
-Munitions : cartouches de 5,56 x 45 mm
-ROF : ~650 tr/min
+ARME : Objective Individual Combat Weapon (OICW)
+MUNITIONS : 5.56x45mm Cartridges
+ROF : ~650 RPM
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Un fusil d'assaut utilisant des cartouches balistiques à tir rapide. Conçu comme une arme de combat de nouvelle génération. Fournit un tir automatique précis, permettant une suppression instantanée de l'ennemi.
+An assault rifle that uses rapid-fire ballistic cartridges. Designed as a next-generation combat weapon. Provides accurate automatic fire, allowing for instant suppression of the enemy.
 
-REMARQUES :
+REMARQUES :
 
 - Conçu comme une arme d'infanterie polyvalente.

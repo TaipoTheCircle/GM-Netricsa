@@ -1,22 +1,22 @@
-CARABINE COMMANDO DE LISLE
+DE LISLE COMMANDO CARBINE
 
 
-ARME : CARABINE COMMANDO DE LISLE
-MUNITIONS : .45 ACP (11,43x23 mm)
-ROF : ~15-25 tours/min
-POIDS : ~3,74 kg
+ARME : DE LISLE COMMANDO CARBINE
+MUNITIONS : .45 ACP (11.43x23 mm)
+ROF : ~15-25 rounds / min
+POIDS : ~3.74 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Une carabine silencieuse britannique datant de la Seconde Guerre mondiale, conçue spécifiquement pour les forces spéciales. Il est basé sur la conception du fusil Lee-Enfield, converti pour tirer la cartouche de pistolet .45 ACP. La principale caractéristique de l'arme est son grand suppresseur intégré, qui occupe une partie importante de la longueur du canon.
+A British World War II-era silenced carbine designed specifically for special forces. It is based on the Lee-Enfield rifle design, converted to fire the .45 ACP pistol cartridge. The weapon's main feature is its large integrated suppressor, which takes up a significant portion of the barrel's length.
 
-L'utilisation de la cartouche subsonique .45 ACP et du suppresseur intégré a considérablement réduit le souffle initial. Le tireur actionnait manuellement le verrou après chaque tir, éliminant ainsi le bruit inutile du rechargement automatique.
+The use of the subsonic .45 ACP cartridge and the integrated suppressor significantly reduced the muzzle blast. The shooter manually operated the bolt after each shot, eliminating the unnecessary noise of the automatic reloading.
 
-Le De Lisle a été produit en très petit nombre, car il était principalement destiné aux commandos britanniques et autres forces spéciales. Seulement 129 exemplaires furent produits. La carabine a été utilisée pendant la Seconde Guerre mondiale, puis pendant la guerre de Corée et l'urgence malaise.
+The De Lisle was produced in extremely small numbers, as it was intended primarily for British commandos and other special forces. Only 129 were produced. The carbine saw service in World War II and later saw action in the Korean War and the Malayan Emergency.
 
-REMARQUES :
+REMARQUES :
 
-- L'une des armes à feu les plus silencieuses de son époque, avec le silencieux intégré à la carabine.
-- Sa portée effective était d'environ 185 mètres, ce qui le rend nettement plus pratique que les pistolets silencieux pour les cibles à plus longue portée.
-- L'action manuelle du verrou permettait au tireur d'éviter de chambrer le coup suivant immédiatement après le tir, en maintenant une dissimulation maximale.
+- One of the quietest firearms of its time, with the suppressor built right into the carbine.
+- Its effective range was approximately 185 meters, making it significantly more practical than silent pistols for longer-range targets.
+- The manual bolt action allowed the shooter to avoid chambering the next round immediately after firing, maintaining maximum concealment.
 - De Lisle : quand le Lee-Enfield standard a décidé d'être plus silencieux, plus court, et du coup équipé d'un énorme silencieux.

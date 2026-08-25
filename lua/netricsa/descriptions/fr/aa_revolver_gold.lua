@@ -1,16 +1,16 @@
-REVOLVER PYTHON 357 MAGNUM OR
+PYTHON 357 MAGNUM REVOLVER GOLD
 
 
-ARME : Revolver Python 357 Magnum OR
-Munitions : 357 cartouches Magnum
-ROF : Revolver double action, ~30 coups/min
+ARME : Python 357 Magnum Revolver GOLD
+MUNITIONS : 357 Magnum rounds
+ROF : Double-action revolver, ~30 rds/min
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Revolver de gros calibre offrant une puissance d'arrêt extrême et une excellente précision. Equipé d'une lunette pour des tirs de précision à longue distance. Idéal pour éliminer rapidement des adversaires coriaces.
+Heavy-caliber revolver delivering extreme stopping power and excellent accuracy. Equipped with a scope for precision shots at long range. Ideal for eliminating tough opponents quickly.
 
-REMARQUES :
+REMARQUES :
 
-- Des coups simples extrêmement puissants.
-- Très précis, efficace pour le tir à longue distance.
-- Les réserves de munitions limitées limitent une utilisation fréquente.
+- Extremely powerful single shots.
+- Highly accurate, effective for long-range sniping.
+- Limited ammo reserves restrict frequent use.

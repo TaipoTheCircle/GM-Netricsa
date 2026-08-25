@@ -1,24 +1,24 @@
-MITRAILLEUSE SUDAYEV PPS-42
+SUDAYEV PPS-42 SUBMACHINE GUN
 
 
-ARME : Mitraillette Sudaev PPS-42
-MUNITIONS : 7,62x25 mm TT
-ROF : ~600-700 tours/min
+ARME : Sudaev PPS-42 Submachine Gun
+MUNITIONS : 7.62x25mm TT
+ROF : ~600-700 rounds / min
 POIDS : ~3,63 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Le PPS-42, une mitraillette Sudaev modèle 1942, est une arme soviétique développée pendant la Seconde Guerre mondiale. Il a été conçu comme une alternative plus légère, plus compacte et moins coûteuse au PPSh-41, particulièrement adaptée au combat dans les tranchées, aux espaces confinés, ainsi qu'aux éclaireurs, parachutistes et équipages de véhicules de combat.
+The PPS-42, a Sudaev model 1942 submachine gun, is a Soviet weapon developed during World War II. It was designed as a lighter, more compact, and less expensive alternative to the PPSh-41, particularly suitable for combat in trenches, confined spaces, and for scouts, paratroopers, and combat vehicle crews.
 
-Le PPS-42 utilise une action de retour de flamme et tire uniquement en mode automatique. Grâce à la course relativement longue des pièces mobiles, la cadence de tir est inférieure à celle de nombreuses autres mitraillettes, ce qui rend l'arme plus contrôlable lors du tir en rafale.
+The PPS-42 uses a blowback action and fires only in automatic mode. Thanks to the relatively long stroke of the moving parts, the rate of fire is lower than that of many other submachine guns, making the weapon more controllable when firing in bursts.
 
-Il est alimenté par un chargeur de 35 cartouches. L'arme est dotée d'une crosse métallique pliable et la majeure partie de la structure est en acier embouti, soudé et riveté. Cette facilité de production était l’une des principales caractéristiques du PPS.
+It is fed from a 35-round box magazine. The weapon has a folding metal stock, and most of the structure is made of stamped steel, welded, and riveted. This ease of production was one of the main features of the PPS.
 
-Le PPS-42 fut la première version produite en série du modèle de Soudayev. En 1943, il fut remplacé par le PPS-43 amélioré, doté d'un canon raccourci et d'un certain nombre de modifications de conception.
+The PPS-42 was the first mass-produced version of Sudayev's design. In 1943, it was replaced by the improved PPS-43, which featured a shortened barrel and a number of design changes.
 
-REMARQUES :
+REMARQUES :
 
-- Particulièrement efficace à courte et moyenne portée, où de courtes rafales permettent un contrôle de tir assez précis.
-- La conception est conçue pour une production militaire de masse : nombreuses pièces embouties, usinage complexe minimal.
-- La crosse pliable rend le PPS-42 plus pratique pour les éclaireurs, les parachutistes et les équipages de véhicules.
-- Le PPSh était-il trop gros ? Sudaev l'a simplement rendu plus compact, plus léger et plus avancé technologiquement.
+- Particularly effective at close and medium ranges, where short bursts allow for fairly accurate fire control.
+- The design is designed for mass military production: many stamped parts, minimal complex machining.
+- The folding stock makes the PPS-42 more convenient for scouts, paratroopers, and vehicle crews.
+- Was the PPSh too big? Sudaev simply made it more compact, lighter and more technologically advanced.

@@ -1,20 +1,20 @@
-FUSIL LEE-ENFIELD
+LEE-ENFIELD RIFLE
 
 
-ARME : Fusil Lee-Enfield
-MUNITIONS : .303 britanniques (7,7 × 56 mm R)
-ROF : ~20-30 tours/min
-POIDS : ~3,96 kg
+ARME : Lee-Enfield Rifle
+MUNITIONS : .303 British (7.7×56mm R)
+ROF : ~20-30 tours/min
+POIDS : ~3,96 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
 Ce fusil à verrou britannique a servi de fusil standard des forces armées britanniques et du Commonwealth au cours de la première moitié du 20e siècle. Il fut officiellement en service britannique de 1895 à 1957.
 
-Le fusil utilise un chargeur de 10 cartouches qui peut être rapidement rechargé avec des clips à cinq cartouches. Grâce à la conception sophistiquée du verrou, le tireur peut tirer rapidement des coups répétés sans perdre la visée. Cette vitesse de boulon élevée est l’une des caractéristiques clés du Lee-Enfield.
+The rifle uses a 10-round magazine that can be quickly reloaded with five-round clips. Thanks to the bolt's sophisticated design, the shooter can quickly fire repeat shots without losing aim. This high bolt speed is one of the key features of the Lee-Enfield.
 
 La munition principale est la .303 British. Selon le modèle, la carabine pèse environ 4 kg. La portée effective est d'environ 500 mètres.
 
-REMARQUES :
+REMARQUES :
 
 - Efficace à moyenne et longue portée.
 - L'action rapide du verrou permet des tirs de suivi très rapides.

@@ -1,34 +1,34 @@
-VOLER DU MAGNOR
+FLY FROM THE MAGNOR
 
 
-CLASSE : Voler
-MÉTABOLISME : Insecte
-PERCEPTION : Neutre
-TAILLE : 8,2 pieds
-ENDURANCE : Très faible
-HOSTILITÉ : Neutre
-ARMES : Aucune
-RÉCOMPENSE : 100 FC
+CLASS:      Fly
+METABOLISM: Insect
+PERCEPTION: Neutral
+SIZE:       8,2 ft
+ENDURANCE:  Very Low
+HOSTILITY:  Neutral
+WEAPONS:    None
+REWARD:     100 FC
 MENACE : Aucune
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-La mouche est un gigantesque insecte volant, capable de dépasser largement la taille d’un humain.
+The fly is a gigantic flying insect, capable of significantly exceeding the size of a human.
 
-À première vue, on pourrait la confondre avec une grosse mouche normale, mais en y regardant de plus près, il devient clair qu'il s'agit d'un chasseur volant à part entière, avec des excréments presque de la taille d'une petite voiture.
+At first glance, it might be mistaken for a normal, large fly, but upon closer inspection, it becomes clear that it is a fully-fledged flying hunter, with feces almost the size of a small car.
 
-Contrairement à la plupart des créatures rencontrées, les mouches ne sont pas hostiles et ne manifestent aucune agressivité. Ils vaquent simplement à leurs occupations d'insectes, planant à proximité, complètement indifférents à ce qui se passe.
+Unlike most creatures encountered, flies are not hostile and do not display any aggression. They simply go about their insect business, hovering nearby, completely uninterested in what's going on.
 
-Ils peuvent généralement être vus en groupe à proximité de divers déchets organiques et d’autres endroits désagréables.
+They can usually be seen in groups near various organic waste and other unpleasant places.
 
-Une mouche peut être détruite avec presque n'importe quelle arme. Son corps a une durabilité si faible qu'un seul coup suffit à le tuer instantanément.
+A fly can be destroyed with almost any weapon. Its body has such low durability that one hit is enough to kill it instantly.
 
-Après leur mort, ils laissent derrière eux une petite quantité d’armure. C'est un plan étrange, mais assez efficace : la mouche ne vous a rien fait, vous l'avez tuée, et elle a même laissé derrière elle une armure.
+After death, they leave behind a small amount of armor. It's a strange, but quite effective, scheme: the fly didn't do anything to you, you killed it, and it even left behind armor.
 
-CONSEILS :
+TIPS:
 
-- Frappez-le avec un journal. Si vous n'avez pas de journal, n'importe quelle arme à longue portée fera l'affaire.
-- Si vous décidez de le détruire, un seul coup suffit.
-- Si vous le tuez, n'oubliez pas de prendre l'armure.
-- S'il y a de vrais ennemis à proximité, affrontez-les d'abord. La mouche peut attendre.
-- Ils aiment énormément la merde.
+- Smack it with a newspaper. If you don't have a newspaper, any long-range weapon will do.
+- If you decide to destroy it, one hit is enough.
+- If you kill it, don't forget to take the armor.
+- If there are real enemies nearby, deal with them first. The fly can wait.
+- They Extremely Love Shit.

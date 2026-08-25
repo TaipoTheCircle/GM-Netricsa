@@ -1,23 +1,23 @@
-ARCHÉOLOGUE DÉCAPÉ, VAPORWAVE DE L'ÎLE MYSTÉRIEUSE
+BEHEADED ARCHAEOLOGIST, VAPORWAVE FROM THE MYSTERIOUS ISLAND
 
 
-CLASSE : Archéologue décapité, Vaporwave
-MÉTABOLISME : Cyber-Zombie
-PERCEPTION : Insensible, contrôlé par LCU
-TAILLE : 6 pieds
-ENDURANCE : Faible
-HOSTILITÉ : Moyenne
-ARMES : Lanceur multiple polyvalent
-RÉCOMPENSE : 400 FC
-MENACE : Élevée
+CLASS:      Beheaded Archaeologist, Vaporwave
+METABOLISM: Cyber-Zombie
+PERCEPTION: Insentient, LCU controlled
+SIZE:       6 ft
+ENDURANCE:  Low
+HOSTILITY:  Medium
+WEAPONS:    All-Round Multiple Launcher
+REWARD:     400 FC
+THREAT:     High
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-L'archéologue décapité de l'île mystérieuse, ressuscité des morts par Mental et télécommandé par Life Control Unit (LCU). 
+The Beheaded Archaeologist from the Mysterious Island, raised from the dead by Mental and remote controlled by Life Control Unit (LCU). 
 
-Un Vaporwave porte sa propre tête dans une main pour recevoir des informations audiovisuelles. Variante hautement expérimentale du Firecracker, le Vaporwave est doté d'un système d'arme unique qui tire un cercle complet de divers projectiles magiques autour de lui, essayant d'inonder la zone environnante de dégâts. Pour pouvoir supporter le poids de cette arme, sa peau a été alliée à une sorte de biométal, ce qui la rend un peu plus résistante que ses frères ordinaires.
+A Vaporwave carries his own head in one hand to receive audio/visual information. A highly experimental variant of the Firecracker, the Vaporwave carries a unique weapon system that fires a full circle of various magical projectiles around itself, trying to flood the surrounding area with hurt. To be able to withstand the weight of this weaponry, its skin was alloyed with a sort of bio-metal, making it a bit more tough than its regular brethren.
 
-CONSEILS :
+TIPS:
 
-- Peut attaquer dans toutes les directions à la fois.
-- Possède plusieurs options d'attaque qui semblent être choisies sans considération.
+- Can attack in all directions at once.
+- Has multiple attack options which appears to be chosen without consideration.

@@ -1,19 +1,19 @@
-POMME DE TERRE
+POTATO
 
 
-ARME : Pomme de terre
-MUNITIONS : Pomme de terre
-ROF : ~10-15 lancers/min.
-POIDS : ~150-250g
+ARME : Potato
+MUNITIONS : Potato
+ROF : ~10-15 throws / min.
+POIDS : ~150-250 g
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-La pomme de terre, également connue simplement sous le nom de pomme de terre, est utilisée à la place d'une grenade pour les lancers d'entraînement des soldats de l'Armée rouge soviétique. Le lanceur reçoit quatre pommes de terre et doit les lancer sur des cibles d'entraînement. Les pommes de terre ne font aucun dégât et sont incapables de tuer l'ennemi.
+The potato, also known as simply a potato, is used instead of a grenade for training throws by Soviet Red Army soldiers. The thrower receives four potatoes and must throw them at training targets. The potatoes do no damage and are incapable of killing the enemy.
 
-Malgré ses origines tout à fait pacifiques, la pomme de terre ressemble et est utilisée comme objet de lancer improvisé.
+Despite their completely peaceful origins, the potato looks and is used as an improvised throwing object.
 
-REMARQUES :
+REMARQUES :
 
-- Utilisation principale : entraînement aux lancers sur cible. L'efficacité du combat est pratiquement inexistante.
-- "Camarade commissaire, pourquoi avons-nous des pommes de terre au lieu de grenades ?"
-- La fourniture standard est de quatre pommes de terre.
+- Primary use: training throws at a target. Combat effectiveness is practically nonexistent.
+- "Comrade Commissar, why do we have potatoes instead of grenades?"
+- The standard supply is four potatoes.

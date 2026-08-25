@@ -1,29 +1,29 @@
-FUSIL AUTOMATIQUE FG-42
+FG-42 AUTOMATIC RIFLE
 
 
-ARME : Fusil automatique FG-42
-MUNITIONS : Mauser 7,92x57 mm
-ROF : Automatique, ~750-900 tours/min
+ARME : FG-42 Automatic Rifle
+MUNITIONS : 7.92x57mm Mauser
+ROF : Automatic, ~750-900 rounds / min
 POIDS : ~4,2-4,95 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Le FG-42, ou « Fallschirmjägergewehr 42 », est un fusil automatique conçu spécifiquement pour les parachutistes allemands. L'objectif était de créer une arme unique capable de remplacer plusieurs types d'armes : un fusil, une mitraillette et une mitrailleuse légère.
+The FG-42, or "Fallschirmjägergewehr 42", is an automatic rifle designed specifically for German paratroopers. The goal was to create a single weapon capable of replacing several types of weapons: a rifle, a submachine gun, and a light machine gun.
 
-Le fusil utilise la puissante cartouche de fusil de 7,92 x 57 mm et est capable de tirer à la fois à un coup et automatique. Une caractéristique inhabituelle du FG-42 est son fonctionnement en mode double : des coups simples sont tirés avec le verrou fermé, tandis que le tir automatique est effectué avec le verrou ouvert.
+The rifle uses the powerful 7.92x57mm rifle cartridge and is capable of both single-shot and automatic fire. An unusual feature of the FG-42 is its dual-mode operation: single shots are fired with the bolt closed, while automatic fire is conducted with the bolt open.
 
-La taille compacte et le poids relativement léger du FG-42 lui permettent d'être utilisé dans des combats maniables tout en conservant la puissance d'un fusil à part entière. Le fusil peut être équipé d'un viseur optique, d'un bipied et de grenades à fusil.
+The FG-42's compact size and relatively light weight allow it to be used in maneuverable combat while retaining the power of a full-fledged rifle. The rifle can be equipped with an optical sight, a bipod, and rifle grenades.
 
-REMARQUES :
+REMARQUES :
 
-- Comprend des modes de tir unique et automatique.
-- Convient à la fois au tir de précision et au tir en rafale de suppression.
-- Peut être équipé d'un viseur optique et utilisé comme fusil de sniper.
-- Equipé d'un bipied pliable pour une prise de vue stable.
-- La puissante cartouche 7,92x57 mm offre une grande efficacité à moyenne et longue portée.
-- Le tir automatique épuise rapidement le petit chargeur et crée un recul important.
-- La portée effective est d'environ 500 m, avec une portée maximale indiquée d'environ 1 000 m.
-- La conception permet l'utilisation d'une baïonnette.
-- A moyenne portée, vous pouvez utiliser des rafales courtes, mais à longue portée, il est préférable de passer au tir unique.
-- Il a été créé pour les parachutistes qui avaient besoin d'une arme capable de leur fournir une puissance de feu importante immédiatement après l'atterrissage.
-- Lorsqu'un seul fusil essaie d'être à la fois un fusil, une mitrailleuse et un fusil de sniper, le FG-42 dit simplement « Oui ».
+- Features single-shot and automatic fire modes.
+- Suitable for both precision shooting and suppressive burst fire.
+- Can be equipped with an optical sight and used as a sniper rifle.
+- Equipped with a folding bipod for stable shooting.
+- The powerful 7.92x57mm cartridge provides high effectiveness at medium and long ranges.
+- Automatic fire quickly depletes the small magazine and creates significant recoil.
+- The effective range is approximately 500 m, with a maximum stated range of approximately 1000 m.
+- The design allows for the use of a bayonet.
+- At medium range, you can use short bursts, but at long range, it's better to switch to single fire.
+- It was created for paratroopers who needed a weapon capable of providing them with serious firepower immediately after landing.
+- When a single rifle tries to be a rifle, a machine gun, and a sniper rifle all at once, the FG-42 simply says, "Yes".

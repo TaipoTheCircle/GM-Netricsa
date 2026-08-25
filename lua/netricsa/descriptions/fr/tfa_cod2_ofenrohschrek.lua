@@ -1,22 +1,22 @@
-LANCE-GRENADE ANTICHAR RPzB.43 "OFENROHR"
+RPzB.43 "OFENROHR" ANTI-TANK GRENADE LAUNCHER
 
 
-ARME : Lance-grenades antichar RPzB.43 "Ofenrohr"
-MUNITIONS : Grenade antichar propulsée par fusée de 88 mm
-ROF : ~4-6 tours/min
+ARME : RPzB.43 "Ofenrohr" Anti-Tank Grenade Launcher
+MUNITIONS : 88mm Rocket-Propelled Anti-Tank Grenade
+ROF : ~4-6 rounds / min
 POIDS : ~9,5 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Un lance-grenades antichar allemand de la Seconde Guerre mondiale. Il a été développé en 1943 comme développement du « Bazooka » américain et était destiné à combattre les chars et autres véhicules blindés.
+A German hand-held anti-tank grenade launcher from World War II. It was developed in 1943 as a development of the American "Bazooka" and was intended to combat tanks and other armored vehicles.
 
-La grenade est lancée depuis un tube métallique ouvert à l'aide d'un moteur-fusée. Contrairement au Panzerschreck ultérieur, le RPzB.43 n'avait pas de bouclier de protection, obligeant le tireur à porter une protection spéciale du visage et des yeux. Lors du tir, un puissant jet de gaz chauds est généré derrière le tube, ce qui rend extrêmement dangereux de se tenir directement derrière le lance-grenades.
+The grenade is launched from an open metal tube using a rocket motor. Unlike the later Panzerschreck, the RPzB.43 did not have a protective shield, requiring the shooter to wear special face and eye protection. When fired, a powerful jet of hot gases is generated behind the tube, making it extremely dangerous to stand directly behind the grenade launcher.
 
-La grenade HEAT de 88 mm avait une pénétration de blindage élevée et était capable de détruire la plupart des chars de l'époque. La portée de tir effective était d'environ 150 mètres.
+The 88mm HEAT grenade had high armor penetration and was capable of destroying most tanks of the period. The effective firing range was approximately 150 meters.
 
-REMARQUES :
+REMARQUES :
 
-- Conçu principalement pour détruire les chars et autres cibles blindées.
-- Le jet stream sort directement par l'arrière du tube, ce qui oblige le tireur à faire preuve d'une extrême prudence.
-- Contrairement au Panzerschreck, il n'y a pas de bouclier de protection. Son introduction ultérieure a constitué une amélioration majeure de la conception.
-- "Ofenrohr" se traduit par "tuyau de poêle". Mais après le Panzerschreck, la situation est devenue encore plus ridicule : il y a d'abord eu le tuyau de poêle, puis est venu le Shrek. Apparemment, l’industrie antichar allemande a réellement adopté une approche « de conte de fées ».
+- Designed primarily to destroy tanks and other armored targets.
+- The jet stream exits directly from the rear of the tube, requiring the gunner to exercise extreme caution.
+- Unlike the Panzerschreck, there is no protective shield. Its later introduction was a major design improvement.
+- "Ofenrohr" translates as "stovepipe". But after the Panzerschreck, the situation became even more ridiculous: first there was the stovepipe, then came the Shrek. Apparently, the German anti-tank industry really did take a "fairytale" approach.

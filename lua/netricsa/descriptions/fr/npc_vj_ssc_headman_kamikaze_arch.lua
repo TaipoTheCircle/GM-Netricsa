@@ -1,22 +1,22 @@
-ARCHÉOLOGUE DÉCAPÉ, KAMIKAZE DE L'ÎLE MYSTÉRIEUSE
+BEHEADED ARCHAEOLOGIST, KAMIKAZE FROM THE MYSTERIOUS ISLAND
 
 
-CLASSE : Archéologue décapité, Kamikaze
-MÉTABOLISME : Cyber-Zombie
-PERCEPTION : Insensible, contrôlé par LCU
-TAILLE : 6 pieds
-ENDURANCE : Très faible
-HOSTILITÉ : Extrême
-ARMES : Grenades à main
-RÉCOMPENSE : 2500 FC
-MENACE : Élevée
+CLASS:      Beheaded Archaeologist, Kamikaze
+METABOLISM: Cyber-Zombie
+PERCEPTION: Insentient, LCU controlled
+SIZE:       6 ft
+ENDURANCE:  Very Low
+HOSTILITY:  Extreme
+WEAPONS:    Hand Grenades
+REWARD:     2500 FC
+THREAT:     High
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-L'archéologue décapité de l'île mystérieuse, ressuscité des morts par Mental et télécommandé par Life Control Unit (LCU).
+The Beheaded Archaeologist from the Mysterious Island, raised from the dead by Mental and remote controlled by Life Control Unit (LCU).
 
-Le chef des Kamikaze est ruiné, il est donc employé pour des attentats suicidaires. Transporte deux bombes dans ses mains et les active lorsqu'elles sont suffisamment proches de la cible. 
+The head of the Kamikaze has been ruined, so he is employed for suicidal attacks. Carries two bombs in his hands and activates them when close enough to the target. 
 
-CONSEILS :
+TIPS:
 
-- Explose lorsqu'il est tué.
+- Explodes when killed.

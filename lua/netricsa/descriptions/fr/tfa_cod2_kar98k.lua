@@ -1,16 +1,16 @@
-MOUSQUETON 98K
+KARABINER 98K
 
 
-ARME : Mousqueton 98k
-MUNITIONS : 7,92×57 mm
-ROF : ~15 tours/min
+ARME : Karabiner 98k
+AMMUNITION:  7.92×57 mm
+ROF : ~15 rounds / min
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-La carabine Mauser 98k est un fusil à verrou allemand de la Seconde Guerre mondiale, officiellement adopté par l'armée allemande en 1935. Le Kar98k était le fusil le plus courant dans l'armée allemande pendant la Seconde Guerre mondiale. Il était principalement utilisé par les soldats réguliers et les tireurs d'élite. Il dispose d'un chargeur de 5 cartouches et était chargé soit avec des clips de 5 cartouches, soit un cartouche à la fois à la main (si aucun chargeur n'était disponible). Ce fusil est également équipé d'une lunette de visée ZF 39, qui est montée au-dessus du verrou, bloquant ainsi le rechargement avec des clips, laissant les soldats charger le fusil un coup à la fois. Ce fusil possède également un couteau à baïonnette SG 84/98. Cette baïonnette avait une lame de 25 cm et une longueur totale de 38,5 cm. Les combats à grande échelle à la baïonnette n'étaient pas typiques de la Seconde Guerre mondiale, c'est pourquoi, afin d'économiser de l'argent, à partir de la fin de 1944, les fusils n'étaient plus équipés de couteaux à baïonnette et n'avaient même pas de monture à baïonnette ni de baguette. En plus de la baïonnette standard, le modèle SG 42 a été adopté pour le service, bien qu'il ne soit pas entré en production. Le SG 42 mesurait 30 cm de long avec une longueur de lame de 17,6 cm.
+The Mauser 98k carbine is a German bolt-action rifle from World War II, officially adopted by the German army in 1935. The Kar98k was the most common rifle in the German army during World War II. It was mainly used by regular soldiers and snipers. It has a 5-round magazine and was loaded either with 5-round clips or one round at a time by hand (if no clip was available). This rifle also has a ZF 39 sniper scope, which is mounted above the bolt, thereby blocking reloading with clips, leaving soldiers to load the rifle one round at a time. This rifle also has an SG 84/98 bayonet knife. This bayonet had a 25 cm blade and a total length of 38.5 cm. Large-scale bayonet fighting was not typical of World War II, so in order to save money, from the end of 1944, rifles were no longer equipped with bayonet knives, and they did not even have a bayonet mount or ramrod. In addition to the standard bayonet, the SG 42 model was adopted for service, although it did not go into production. The SG 42 was 30 cm long with a blade length of 17.6 cm.
 
-REMARQUES :
+REMARQUES :
 
-- Essayez de tirer à distance, car il peut être très difficile de tuer un ennemi à bout portant avec ce fusil. Il est préférable d'utiliser un couteau à baïonnette ou votre arme de secours.
-- Chargez le fusil avec des clips, c'est beaucoup plus rapide que de charger une cartouche à la fois à la main.
-- Changez souvent de position après le tir pour que l'ennemi ne vous remarque pas.
+- Try to shoot from a distance, because it can be very difficult to kill an enemy with this rifle at close range. It is better to use a bayonet knife or your backup weapon.
+- Load the rifle with clips, it's much faster than loading one cartridge at a time by hand.
+- Change your position often after firing so that the enemy doesn't notice you.

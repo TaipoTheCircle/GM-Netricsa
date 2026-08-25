@@ -1,22 +1,22 @@
-MITRAILLEUSE LABORA FONTBERNAT M-1938
+LABORA FONTBERNAT M-1938 SUBMACHINE GUN
 
 
-ARME : Mitraillette Labora Fontbernat M-1938
-MUNITIONS : 9x23 mm de grande taille
-ROF : ~750 tours/min
+ARME : Labora Fontbernat M-1938 Submachine Gun
+MUNITIONS : 9x23mm Largo
+ROF : ~750 rounds / min
 POIDS : ~4,38 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-La Labora Fontbernat M-1938, également connue sous le nom de Labora, est une mitraillette espagnole d'origine catalane, développée en 1936 et produite de 1936 à 1938 à l'usine n° 15. Elle a été utilisée par les deux camps pendant la guerre civile espagnole, et un petit nombre d'armes ont continué à servir après la guerre. Environ 1 000 à 2 000 exemplaires ont été fabriqués.
+The Labora Fontbernat M-1938, also known as the Labora, is a Spanish submachine gun of Catalan origin, developed in 1936 and produced from 1936 to 1938 at Factory No. 15. It was used by both sides in the Spanish Civil War, and a small number of weapons continued to serve after the war. Approximately 1,000-2,000 were manufactured.
 
-La mitraillette est principalement fabriquée en acier traité et utilise une action de retour de flamme. L'arme est chambrée pour la puissante cartouche espagnole Largo 9x23 mm et se nourrit d'un chargeur de 36 cartouches. Avec une cadence de tir d'environ 750 coups par minute, le Labora est capable de délivrer une puissance de feu assez dense à courte portée.
+The submachine gun is made primarily of treated steel and uses a blowback action. The weapon is chambered for the powerful Spanish 9x23mm Largo cartridge and feeds from a 36-round box magazine. With a rate of fire of approximately 750 rounds per minute, the Labora is capable of delivering a fairly dense firepower at close range.
 
-La conception du M-1938 est assez massive pour une mitraillette : avec un chargeur vide, l'arme pèse environ 4,38 kg. Cependant, sa production était relativement limitée, de sorte qu'aujourd'hui la Labora Fontbernat est un exemple beaucoup moins connu d'armes de la guerre civile espagnole.
+The M-1938's design is quite massive for a submachine gun: with an empty magazine, the weapon weighs approximately 4.38 kg. However, its production was relatively limited, so today the Labora Fontbernat is a much lesser-known example of Spanish Civil War weaponry.
 
-REMARQUES :
+REMARQUES :
 
-- Seulement quelques milliers d'unités environ ont été produites, mais elle a été utilisée par pratiquement toutes les parties au conflit espagnol.
-- Une cadence de tir d'environ 750 coups par minute permet une puissance de feu très dense à courte portée.
-- L'arme a été utilisée à la fois par les républicains et les nationalistes pendant la guerre civile espagnole.
-- La cartouche Largo 9x23 mm est plus puissante que la Parabellum 9x19 mm commune, mais cela rend l'arme assez spécifique.
+- Only about a couple thousand units were produced, but it saw action with virtually all sides in the Spanish conflict.
+- A rate of fire of approximately 750 rounds per minute allows for very dense firepower at close range.
+- The weapon was used by both Republicans and Nationalists during the Spanish Civil War.
+- The 9x23mm Largo cartridge is more powerful than the common 9x19mm Parabellum, but this makes the weapon quite specific.

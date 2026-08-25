@@ -1,20 +1,20 @@
-FUSIL D'ASSAUT TW-201-S MORITA I
+TW-201-S MORITA I ASSAULT RIFLE
 
 
-ARME : Fusil d'assaut TW-201-S Morita I
-MUNITIONS : munitions de 7,62 mm
-ROF : ~600 tr/min
+ARME : TW-201-S Morita I Assault Rifle
+MUNITIONS : 7.62mm Ammo
+ROF : ~600 RPM
 POIDS : ~4 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Le fusil d'assaut standard de l'infanterie mobile. Il s'agit de la principale arme individuelle des soldats, conçue pour combattre les insectes et autres ennemis à différentes distances.
+The standard assault rifle of the mobile infantry. It is the primary individual weapon of soldiers, designed to combat bugs and other enemies at various ranges.
 
-Il s’agit d’un gros fusil futuriste doté d’une puissance de feu élevée. Il combine la compacité d’une arme d’infanterie avec la capacité de délivrer un tir automatique intense.
+It is a large, futuristic rifle with high firepower. It combines the compactness of an infantry weapon with the ability to deliver heavy automatic fire.
 
-Le fusil est particulièrement reconnaissable grâce à son corps massif et à son design inhabituel, combinant des éléments d'un fusil et d'une arme de gros calibre.
+The rifle is particularly recognizable due to its massive body and unusual design, combining elements of a rifle and a large-caliber weapon.
 
-REMARQUES :
+REMARQUES :
 
-- Objectif principal : affronter les bugs face à face et leur expliquer qui est l'infanterie mobile.
-- Bien adapté au combat rapproché et à moyenne portée grâce à sa haute densité de tir automatique.
+- Primary purpose: facing bugs face to face and explaining to them who the mobile infantry are.
+- Well suited for close and medium range combat due to its high density of automatic fire.

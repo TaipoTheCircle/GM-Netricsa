@@ -1,21 +1,21 @@
-PISTOLET ASTRA 400
+ASTRA 400 PISTOL
 
 
-ARME : Pistolet ASTRA 400
-MUNITIONS : 9x23 mm de grande taille
-ROF : ~30-40 tours/min
+ARME : Pistolet ASTRA 400
+MUNITIONS : 9x23mm Largo
+ROF : ~30-40 rounds / min
 POIDS : ~1,14 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Ce pistolet semi-automatique espagnol a été développé par Astra-Unceta y Cia et adopté par l'armée espagnole en 1921. Il a été créé pour remplacer l'ancien Campo-Giro et a été largement utilisé pendant la guerre civile espagnole.
+This Spanish semi-automatic pistol was developed by Astra-Unceta y Cia and adopted by the Spanish Army in 1921. It was created as a replacement for the older Campo-Giro and saw widespread use during the Spanish Civil War.
 
-Le pistolet utilise une action de retour de flamme, ce qui est assez inhabituel pour une arme chambrée pour la puissante cartouche Largo de 9x23 mm. Malgré cette conception, l'Astra 400 était réputé pour sa bonne fiabilité, sa précision et son recul relativement faible.
+The pistol uses a blowback action, which is quite unusual for a weapon chambered for the powerful 9x23mm Largo cartridge. Despite this design, the Astra 400 was noted for its good reliability, accuracy, and relatively low recoil.
 
-Une caractéristique de conception intéressante est la capacité de l'Astra 400 à utiliser non seulement la munition standard Largo 9x23 mm, mais également plusieurs autres munitions de 9 mm, notamment la Parabellum 9x19 mm et la Browning Long 9x22 mm.
+An interesting design feature is the Astra 400's ability to use not only the standard 9x23mm Largo but also several other 9mm ammunition, including 9x19mm Parabellum and 9x22mm Browning Long.
 
-REMARQUES :
+REMARQUES :
 
-- Bien adapté au combat rapproché et raisonnablement précis pour sa classe.
-- L'action de retour de flamme pour une cartouche aussi puissante fait de l'Astra 400 un pistolet semi-automatique plutôt inhabituel.
-- Le pistolet est resté en service en Espagne pendant plusieurs décennies et, pendant la Seconde Guerre mondiale, il a également été fourni à l'Allemagne sous la désignation Pistole 642(f).
+- Well-suited for close-quarters combat and reasonably accurate for its class.
+- The blowback action for such a powerful cartridge makes the Astra 400 a rather unusual semi-automatic pistol.
+- The pistol remained in service in Spain for several decades, and during World War II was also supplied to Germany under the designation Pistole 642(f).

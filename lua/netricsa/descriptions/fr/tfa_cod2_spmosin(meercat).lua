@@ -1,22 +1,22 @@
-FUSIL MOSIN MODÈLE 1891/30
+MOSIN RIFLE MODEL 1891/30
 
 
-ARME : Fusil Mosin-Nagant modèle 1891/30
-MUNITIONS : 7,62x54 mm R
-ROF : ~10 tours/min
+ARME : Mosin-Nagant Rifle Model 1891/30
+MUNITIONS : 7.62x54mm R
+ROF : ~10 rounds / min
 POIDS : ~4,5 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Le fusil Mosin-Nagant, mieux connu sous le nom de « trois lignes » ou « Mosinka », est un fusil à verrou et à répétition adopté par l'Empire russe en 1891. L'arme a survécu à de nombreuses guerres et modernisations, restant en service dans divers pays pendant de nombreuses décennies.
+The Mosin-Nagant rifle, better known as the "Three-Line" or "Mosinka," is a bolt-action, repeating rifle adopted by the Russian Empire in 1891. The weapon survived many wars and modernizations, remaining in service with various countries for many decades.
 
-Le fusil tire la puissante cartouche R de 7,62 x 54 mm et dispose d'un chargeur fixe. Après chaque tir, le tireur actionne manuellement le verrou, éjectant la cartouche usagée et chambrant le coup suivant. Le chargeur est chargé de clips à cinq cartouches.
+The rifle fires the powerful 7.62x54mm R cartridge and has a fixed magazine. After each shot, the shooter manually operates the bolt, ejecting the spent cartridge and chambering the next round. The magazine is loaded with five-round clips.
 
-Le Mosinka se distingue par sa conception simple et robuste, sa bonne autonomie et sa puissance relativement élevée. Des variantes d'infanterie, de dragons, de carabines et de tireurs d'élite existaient, de sorte que l'arme était utilisée dans une grande variété de conditions.
+The Mosinka is distinguished by its simple and robust design, good range, and relatively high power. Infantry, dragoon, carbine, and sniper variants existed, so the weapon was used in a wide variety of conditions.
 
-REMARQUES :
+REMARQUES :
 
-- Particulièrement efficace à moyenne et longue portée, là où la puissante cartouche de fusil brille vraiment.
-- Sa conception simple rend le fusil adapté à une utilisation dans des conditions difficiles.
-- Un tireur expérimenté peut actionner le verrou assez rapidement, malgré le rechargement manuel.
-- Le "Mosinka" a survécu à tant d'époques que certains adversaires peuvent être plus jeunes que le fusil lui-même.
+- Particularly effective at medium and long ranges, where the powerful rifle cartridge truly shines.
+- Its simple design makes the rifle suitable for use in harsh conditions.
+- An experienced shooter can operate the bolt quite quickly, despite the manual reloading.
+- The "Mosinka" has survived so many eras that some opponents may be younger than the rifle itself.

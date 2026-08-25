@@ -1,19 +1,19 @@
-MP-40
+MP-40 SUBMACHINE GUN
 
 
-ARME : Mitraillette MP 40
-MUNITIONS : Parabellum 9 × 19 mm
-ROF : 500-550 tours/min
-POIDS : 8,75 livres
+ARME : MP 40 Submachine Gun
+MUNITIONS : 9x19mm Parabellum
+ROF : 500-550 RPM
+POIDS : 8,75 lbs
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Le MP 40 est une mitraillette allemande classique, largement déployée pendant la Seconde Guerre mondiale. Compact, fiable et facile à manipuler, il est devenu l'arme standard des parachutistes, des équipages de chars et des chefs d'escouade d'infanterie. Sa crosse métallique pliable et sa conception simplifiée lui permettaient d'être transporté efficacement, tandis que sa cadence de tir modérée le rendait contrôlable lors d'engagements rapprochés.
+The MP 40 is a classic German submachine gun, widely used during World War II. Compact, reliable, and easy to handle, it became the standard weapon of paratroopers, tank crews, and infantry platoon commanders. Its folding metal stock and streamlined shape allowed for efficient carry, and its moderate rate of fire made it manageable in close combat.
 
-Bien que moins puissant qu'un fusil à distance, le MP 40 excellait dans les combats urbains, les embuscades et les espaces confinés, où la mobilité et les tirs de suppression étaient les plus importants. Connue pour son profil emblématique et son son distinctif, elle reste l'une des armes à feu les plus reconnues de l'histoire.
+While the MP 40 was less powerful than a rifle at long range, it was superior in urban combat, ambushes, and confined spaces, where mobility and suppressive fire were paramount. Known for its iconic profile and distinctive sound, it remains one of the most recognizable firearms in history.
 
-REMARQUES :
+REMARQUES :
 
-- Très efficace en combat rapproché.
-- Capacité du chargeur limitée (32 cartouches) - rechargez souvent.
-- La précision chute rapidement à des distances plus longues.
+- Highly effective in close combat.
+- Limited magazine capacity (32 rounds) - reload frequently.
+- Accuracy drops off quickly at long ranges.

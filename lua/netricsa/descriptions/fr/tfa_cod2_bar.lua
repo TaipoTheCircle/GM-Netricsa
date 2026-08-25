@@ -1,24 +1,24 @@
-CARABINE AUTOMATIQUE BROWNING M1918 (BAR)
+BROWNING AUTOMATIC RIFLE M1918 (BAR)
 
 
-ARME : Fusil automatique Browning M1918 (BAR)
-MUNITIONS : .30-06 Springfield (7,62 × 63 mm)
-ROF : ~500-650 tours/min
-POIDS : ~7,25 kg
+ARME : Browning Automatic Rifle M1918 (BAR)
+MUNITIONS : .30-06 Springfield (7.62×63mm)
+ROF : ~500-650 rounds / min
+POIDS : ~7.25 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Le Browning Automatic Rifle, mieux connu sous le nom de BAR, est une mitrailleuse légère américaine conçue par John Moses Browning. Développé pendant la Première Guerre mondiale, il combine la puissance du fusil de la cartouche .30-06 avec la capacité de tirer de manière entièrement automatique.
+The Browning Automatic Rifle, better known as the BAR, is an American light machine gun designed by John Moses Browning. Developed during World War I, it combines the rifle power of the .30-06 cartridge with the ability to fire fully automatic.
 
-Le BAR est alimenté par un chargeur de 20 cartouches. L'arme est très puissante et précise, mais son poids considérable et son petit chargeur rendent les tirs prolongés et soutenus moins pratiques. Au combat, le BAR peut être utilisé aussi bien pour des tirs uniques précis que pour de courtes rafales contre des groupes d'ennemis.
+The BAR feeds from a 20-round box magazine. The weapon is highly powerful and accurate, but its considerable weight and small magazine make prolonged, sustained fire less convenient. In combat, the BAR can be used for both precise single shots and short bursts against groups of enemies.
 
-REMARQUES :
+REMARQUES :
 
-- Efficace à moyenne et longue portée grâce à sa puissante cartouche de fusil.
-- Sa grande précision lui permet d'être utilisé non seulement pour la suppression mais également pour engager des cibles individuelles.
-- Le chargeur standard contient 20 cartouches.
-- La puissante cartouche .30-06 est capable d'engager efficacement des cibles bien protégées et éloignées.
-- Son poids élevé le rend inconfortable lors de tirs prolongés à main levée.
-- Lors d'un tir entièrement automatique, il est préférable d'utiliser des rafales courtes pour contrôler le recul et éviter de vider le chargeur en quelques secondes.
-- Il s'agit plus d'un fusil automatique lourd que d'une mitrailleuse légère moderne.
-- Si l'ennemi s'attend à ce qu'un fusil tire lentement, le BAR peut le décevoir.
+- Effective at medium and long ranges thanks to its powerful rifle cartridge.
+- High accuracy allows it to be used not only for suppression but also for engaging individual targets.
+- The standard magazine holds 20 rounds.
+- The powerful .30-06 cartridge is capable of effectively engaging well-protected and distant targets.
+- Its heavy weight makes it uncomfortable for prolonged off-hand firing.
+- When firing fully automatic, it's best to use short bursts to control recoil and avoid emptying the magazine in seconds.
+- It's more of a heavy automatic rifle than a modern light machine gun.
+- If the enemy expects a rifle to fire slowly, the BAR may disappoint them.

@@ -1,21 +1,21 @@
-CARABINE D'ASSAUT LÉGÈRE ORO FP9
+ORO FP9 LIGHT ASSAULT CARBINE
 
 
-ARME : Carabine d'assaut légère ORO FP9
-CAMULATION : Parabellum 9x19mm
-ROF : 90 coups par minute
+ARME : ORO FP9 Light Assault Carbine
+CAMULATION: 9x19mm Parabellum
+ROF : 90 rounds per minute
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Cette arme compacte a été développée par ORO Defence dans le cadre d'un programme de standardisation des armes légères pour les entreprises militaires privées. Le FP9 est basé sur les conceptions MP5 existantes, mais en mettant l'accent sur la réduction des coûts de fabrication : estampage au lieu de fraisage et composants standardisés.
+This compact weapon was developed by ORO Defense as part of a program to standardize small arms for private military companies. The FP9 is based on legacy MP5 designs, but with an emphasis on reducing manufacturing costs: stamping instead of milling, and standardized components.
 
 Il est fabriqué selon la même conception qu'une carabine automatique chambrée pour les cartouches de pistolet. Le cadre est en acier embouti d'une seule pièce avec une finition mate pour réduire la signature IR. Le mécanisme de déclenchement de type marteau permet un tir unique et continu. Il est alimenté par des chargeurs de 30 cartouches, situés devant la poignée pistolet.
 
-Les viseurs ouverts ne sont pas réglables et conçus pour une portée standard de 100 mètres. Ils sont largement utilisés par les unités de la Whiskey Company et les forces Mendel-Gruman.
+The open sights are non-adjustable and designed for a standard range of 100 meters. They are widely used by Whiskey Company units and Mendel-Gruman forces.
 
-Le principal client était Whiskey Company, qui a reçu le premier lot pour le contrôle anti-émeute sur les mondes ressources. Plus tard, une utilisation intensive des forces Mendel-Gruman sur une planète terraformée a été notée.
+The primary customer was Whiskey Company, which received the first batch for riot control on resource worlds. Later, extensive use by Mendel-Gruman forces on a terraformed planet was noted.
 
-REMARQUES :
+REMARQUES :
 
-- Une rafale de 3 à 5 rounds est garantie pour neutraliser une cible.
-- La cadence de tir élevée permet de supprimer un groupe de trois personnes maximum avant qu'elles ne puissent se mettre à couvert.
+- A burst of 3-5 rounds is guaranteed to incapacitate a target.
+- The high rate of fire allows for suppression of a group of up to three people before they can take cover.

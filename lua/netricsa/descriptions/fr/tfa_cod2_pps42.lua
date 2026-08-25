@@ -1,12 +1,12 @@
 MITRAILLEUSE SUDAYEV PPS-42
 
 
-ARME : Mitraillette Sudaev PPS-42
-MUNITIONS : 7,62x25 mm TT
-ROF : ~600-700 tours/min
-POIDS : ~3,63kg
+ARME : Mitraillette Sudaev PPS-42
+MUNITIONS : 7,62x25mm TT
+ROF : ~600-700 tours/min
+POIDS : ~3,63 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
 Le PPS-42, une mitraillette Sudaev modèle 1942, est une arme soviétique développée pendant la Seconde Guerre mondiale. Il a été conçu comme une alternative plus légère, plus compacte et moins coûteuse au PPSh-41, particulièrement adaptée au combat dans les tranchées, aux espaces confinés, ainsi qu'aux éclaireurs, parachutistes et équipages de véhicules de combat.
 
@@ -16,9 +16,9 @@ Il est alimenté par un chargeur de 35 cartouches. L'arme est dotée d'une cross
 
 Le PPS-42 fut la première version produite en série du modèle de Soudayev. En 1943, il fut remplacé par le PPS-43 amélioré, doté d'un canon raccourci et d'un certain nombre de modifications de conception.
 
-REMARQUES :
+REMARQUES :
 
 - Particulièrement efficace à courte et moyenne portée, où de courtes rafales permettent un contrôle de tir assez précis.
 - La conception est conçue pour une production militaire de masse : nombreuses pièces embouties, usinage complexe minimal.
-- La crosse pliable rend le PPS-42 plus pratique pour les éclaireurs, les parachutistes et les équipages de véhicules.
-- Le PPSh était-il trop gros ? Sudaev l'a simplement rendu plus compact, plus léger et plus avancé technologiquement.
+- The folding stock makes the PPS-42 more convenient for scouts, paratroopers, and vehicle crews.
+- Was the PPSh too big? Sudaev simply made it more compact, lighter and more technologically advanced.

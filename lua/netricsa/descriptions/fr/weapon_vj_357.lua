@@ -1,15 +1,15 @@
-PYTHON REVOLVER MAGNUM 357
+PYTHON 357 MAGNUM REVOLVER
 
 
-WEAPON: Python 357 Magnum
-AMMO:   357 cartouches Magnum
-ROF:    Revolver double action, ~30 coups / min
+ARME : Python 357 Magnum Revolver
+MUNITIONS : 357 Magnum rounds
+ROF : Revolver double action, ~30 coups/min
 
-DESCRIPTION: 
+DESCRIPTIF :
 
 Revolver de gros calibre offrant une puissance d'arrêt extrême et une excellente précision. Equipé d'une lunette pour des tirs de précision à longue distance. Idéal pour éliminer rapidement des adversaires coriaces.
 
-NOTES: 
+REMARQUES :
 
 - Des coups simples extrêmement puissants.
 - Très précis, efficace pour le tir à longue distance.

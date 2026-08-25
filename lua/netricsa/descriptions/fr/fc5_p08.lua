@@ -1,22 +1,22 @@
 PISTOLET LUGER P08 "PARABELLUM"
 
 
-ARME : Pistolet Luger P08 "Parabellum"
-MUNITIONS : Parabellum 9x19 mm
-ROF : ~32 tours/min
+ARME : Luger P08 "Parabellum" Pistol
+MUNITIONS : Parabellum 9x19mm
+ROF : ~32 rounds / min
 POIDS : ~0,88 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Un pistolet semi-automatique allemand développé par Georg Luger sur la base du modèle Borchardt. Il est devenu l’un des pistolets les plus reconnaissables du début du XXe siècle et a été utilisé par les forces armées allemandes ainsi que par plusieurs autres pays.
+A German semi-automatic pistol developed by Georg Luger based on the Borchardt design. It became one of the most recognizable pistols of the early 20th century and was used by the German armed forces, as well as several other countries.
 
-Le pistolet utilise un système de verrouillage inhabituel avec un mécanisme à bascule. Après le tir, le canon et la culasse reculent légèrement, après quoi le système de levier se replie, ouvrant la culasse et permettant le rechargement. La poignée inhabituellement inclinée facilite une prise confortable et une prise de vue précise.
+The pistol uses an unusual locking system with a toggle mechanism. After firing, the barrel and slide move back slightly, after which the lever system folds, opening the slide and allowing for reloading. The unusually angled grip facilitates a comfortable hold and accurate shooting.
 
-Le P08 est particulièrement apprécié pour sa précision et sa facilité de visée. La version standard utilise le Parabellum 9x19mm, mais des versions chambrées pour 7,65x21mm étaient également disponibles.
+The P08 is particularly prized for its accuracy and easy aiming. The standard version uses the 9x19mm Parabellum, but versions chambered for 7.65x21mm were also available.
 
-REMARQUES :
+REMARQUES :
 
-- Un pistolet très précis pour l'époque, particulièrement efficace à courte et moyenne portée.
-- La glissière articulée distinctive fait du P08 l'un des pistolets les plus reconnaissables de l'histoire.
-- Sa prise en main inhabituelle n'est pas seulement esthétique ; cela contribue en fait à une prise en main confortable et à une visée précise.
-- "Parabellum" signifie littéralement : "Si tu veux la paix, prépare la guerre.". Le nom parle de lui-même.
+- A very accurate pistol for its time, especially effective at close and medium ranges.
+- The distinctive hinged slide makes the P08 one of the most recognizable pistols in history.
+- Its unusual grip isn't just for aesthetics; it actually contributes to a comfortable grip and accurate aiming.
+- "Parabellum" literally means: "If you want peace, prepare for war.". The name speaks for itself.

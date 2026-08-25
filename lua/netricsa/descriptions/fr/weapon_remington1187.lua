@@ -1,12 +1,12 @@
-REMINGTON MODÈLE 11-87 FUSIL À SEMI-CHARGEMENT
+REMINGTON MODEL 11-87 SEMI-LOADING SHOTGUN
 
 
-ARME : Fusil semi-automatique Remington modèle 11-87
-Munitions : calibre 12
-ROF : ~60-80 tours/min
+ARME : Remington Model 11-87 semi-automatic shotgun
+MUNITIONS : 12-gauge
+ROF : ~60-80 rounds / min
 POIDS : ~3,7 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
 Ce fusil de chasse semi-automatique américain a été introduit en 1987. Basé sur le célèbre Remington 1100, il est disponible en différents modèles, notamment des modèles de chasse, de police et tactiques.
 
@@ -14,10 +14,10 @@ Le fusil de chasse fonctionne à gaz et est chambré pour les cartouches de cali
 
 Le système semi-automatique élimine le besoin de recharger manuellement le boulon après chaque tir, permettant ainsi des tirs de suivi rapides. Le modèle 11-87 est devenu populaire non seulement comme arme de chasse, mais également dans les versions policières et tactiques.
 
-REMARQUES :
+REMARQUES :
 
 - Excellent pour le combat rapproché, où toute la puissance du fusil à pompe est révélée.
-- Le système semi-automatique permet des tirs de suivi rapides sans rechargement manuel.
-- Des versions policières et tactiques spécialisées existent.
-- C'est le même fusil de chasse utilisé par Anton Chigurh dans "No Country for Old Men".
-- Anton Chigurh n'a jamais tué personne.
+- The semi-automatic system allows for quick follow-up shots without manually reloading.
+- Specialized police and tactical versions exist.
+- This is the same shotgun used by Anton Chigurh in "No Country for Old Men".
+- Anton Chigurh never killed anyone.

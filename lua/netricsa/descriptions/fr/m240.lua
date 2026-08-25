@@ -1,21 +1,21 @@
-MITRAILLEUSE À USAGE GÉNÉRAL M240
+M240 GENERAL PURPOSE MACHINE GUN
 
 
-ARME : Mitrailleuse polyvalente M240
-MUNITIONS : 7,62x51 mm OTAN
-ROF : ~600-1 000 tr/min
+ARME : M240 General Purpose Machine Gun
+MUNITIONS : 7.62x51mm NATO
+ROF : ~600-1000 RPM
 POIDS : ~12,5 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Cette mitrailleuse américaine à usage général est une FN MAG belge modifiée. Elle est entrée en service aux États-Unis en 1977 et est devenue par la suite l’une des principales mitrailleuses des forces armées américaines. Le M240 est utilisé par l'infanterie et est également monté sur des véhicules terrestres, des bateaux et des hélicoptères.
+This American general purpose machine gun is a modified Belgian FN MAG. It entered service with the US in 1977 and subsequently became one of the main machine guns of the US armed forces. The M240 is used by infantry and is also mounted on ground vehicles, boats, and helicopters.
 
-La mitrailleuse utilise un système fonctionnant au gaz et un canon verrouillé par levier. Il est alimenté par une ceinture M13 de 100 ou 200 cartouches. Le poids du M240 peut varier considérablement selon la modification : par exemple, le léger M240L pèse environ 10 kg.
+The machine gun uses a gas-operated system and a lever-locked barrel. It is fed from an M13 belt with 100 or 200 rounds. The weight of the M240 can vary significantly depending on the modification: for example, the lightweight M240L weighs approximately 10 kg.
 
-Le M240 est capable de délivrer un tir automatique intense et est très fiable. Le M240B d'infanterie standard est équipé d'un bipied et d'une crosse, tandis que diverses variantes de la famille sont conçues pour être installées sur des véhicules et des plates-formes d'avions.
+The M240 is capable of delivering intense automatic fire and is highly reliable. The standard infantry M240B is equipped with a bipod and buttstock, while various variants of the family are designed for installation on vehicles and aircraft platforms.
 
-REMARQUES :
+REMARQUES :
 
-- Une puissante cartouche de fusil et une alimentation par courroie font du M240 une arme d'appui-feu sérieuse.
-- Particulièrement efficace à moyenne et longue portée.
-- Le M240 est un développement du FN MAG belge, c'est donc littéralement un design belge avec un passeport américain.
+- A powerful rifle cartridge and belt feed make the M240 a serious fire support weapon.
+- Particularly effective at medium and long ranges.
+- The M240 is a development of the Belgian FN MAG, so it's literally a Belgian design with an American passport.

@@ -1,22 +1,22 @@
-FUSIL D'ASSAUT M16A1
+M16A1 ASSAULT RIFLE
 
 
-ARME : Fusil d'assaut M16A1
-MUNITIONS : 5,56x45 mm OTAN (M193)
-ROF : Automatique, 650-750 tours/minute
-POIDS 2,97kg
+ARME : M16A1 Assault Rifle
+MUNITIONS : 5.56x45mm NATO (M193)
+ROF : Automatic, 650-750 rounds / minute
+WEIGHT  2,97 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Ce fusil d'assaut américain chambré pour 5,56x45 mm est conçu pour un tir précis et concentré à moyenne portée. Le fusil se caractérise par son poids relativement léger, son faible recul et sa bonne précision, ce qui le rend adapté aussi bien au tir à un coup qu'au tir automatique.
+This American assault rifle chambered for 5.56x45mm is designed for accurate and concentrated fire at medium ranges. The rifle is characterized by its relatively light weight, low recoil, and good accuracy, making it suitable for both single-shot and automatic fire.
 
-L'arme utilise un chargeur de 20 ou 30 cartouches et fonctionne au gaz avec un verrou rotatif. Le M16A1 est capable d'une cadence de tir élevée, avec une portée effective d'environ 450 mètres.
+The weapon uses a 20- or 30-round magazine and is gas-operated with a rotating bolt. The M16A1 is capable of a high rate of fire, with an effective range of approximately 450 meters.
 
-REMARQUES :
+REMARQUES :
 
-- Haute précision et recul relativement faible.
-- Capable de tir unique et automatique.
-- Utilise des chargeurs de 20 ou 30 coups.
-- Efficace principalement à moyenne et longue portée.
-- Son poids léger rend le fusil confortable pour un transport prolongé.
-- La cartouche 5,56x45 mm permet une bonne pénétration contre les cibles lumineuses.
+- High accuracy and relatively low recoil.
+- Capable of single-shot and automatic fire.
+- Uses 20- or 30-round magazines.
+- Effective primarily at medium and long ranges.
+- Light weight makes the rifle comfortable for extended carry.
+- The 5.56x45mm cartridge provides good penetration against light targets.

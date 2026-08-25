@@ -1,32 +1,32 @@
 CYCLOPE POLYPHÈME
 
 
-CLASSE : Cyclope Polyphème
-MÉTABOLISME : Géant, Mâle
-PERCEPTION : Créature cannibale sauvage
-TAILLE : 14,7 pieds
-ENDURANCE : Très élevée
-HOSTILITÉ : Extrême
-ARMES : Poings, Saisie, Dents
-RÉCOMPENSE : 1500 FC
-MENACE : Très élevée
+CLASS:      Cyclops Polyphemus
+METABOLISM: Giant, Male
+PERCEPTION: Savage Cannibal Creature
+SIZE:       14,7 ft
+ENDURANCE:  Very High
+HOSTILITY:  Extreme
+WEAPONS:    Fists, Grasp, Teeth
+REWARD:     1500 FC
+THREAT:     Very High
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Un cyclope énorme, brutal, borgne et cannibale extrêmement dangereux qui a capturé et dévoré les humains. Cette créature massive possède une force physique monstrueuse et est capable d'éliminer sans effort des adversaires ordinaires en combat rapproché.
+A huge, brutal, one-eyed cyclops and extremely dangerous cannibal who captured and devoured humans. This massive creature possesses monstrous physical strength and is capable of effortlessly dispatching ordinary opponents in close combat.
 
-Polyphème n'a pratiquement aucune distinction entre « ennemi » et « proie ». Toute créature vivante à proximité peut attirer son attention. Il peut attraper un adversaire et tenter de le dévorer sur place, ce qui rend extrêmement dangereux l'approche d'un Cyclope.
+Polyphemus has virtually no distinction between "enemy" and "prey". Any living creature nearby can attract its attention. He can grab an opponent and attempt to devour them on the spot, making it extremely dangerous to approach a Cyclops.
 
-Son œil unique lui confère une excellente vision, mais le principal avantage de Polyphème reste sa taille et sa force physique.
+His single eye provides excellent vision, but Polyphemus's main advantage remains his size and physical strength.
 
-Après avoir subi de graves dégâts, il peut soudainement se précipiter sur son adversaire, en rugissant bruyamment et en essayant de réduire la distance le plus rapidement possible.
+After sustaining serious damage, he can suddenly rush at his opponent, roaring loudly and trying to close the distance as quickly as possible.
 
-Polyphème est particulièrement dangereux dans les espaces restreints. Sa taille énorme peut gêner ses manœuvres, mais limite en même temps grandement les capacités d'évasion de son adversaire. Dans un espace confiné, une rencontre avec lui se transforme vite en bagarre en très mauvais repas.
+Polyphemus is especially dangerous in tight spaces. His enormous size can hinder his maneuvering, but at the same time greatly limits his opponent's evasive abilities. In a confined space, an encounter with him quickly turns from a fight into a very bad meal.
 
-CONSEILS :
+TIPS:
 
-- Évitez les combats rapprochés avec lui. C'est pratiquement une façon garantie de mettre fin à ses jours.
-- Utilisez des armes à distance et gardez toujours vos distances.
-- Un Polyphème grièvement blessé peut se mettre à courir.
-- Utilisez les obstacles et les passages étroits pour l'empêcher d'atteindre sa cible rapidement.
-- Si Polyphème se met à crier, fuyez le plus loin possible.
+- Avoid close combat with him. It's practically a guaranteed way to end his life.
+- Use ranged weapons and always keep your distance.
+- A seriously wounded Polyphemus may begin to run.
+- Use obstacles and narrow passages to prevent him from reaching his target quickly.
+- If Polyphemus starts screaming, run as far away as possible.

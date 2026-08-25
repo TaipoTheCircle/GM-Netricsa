@@ -1,22 +1,22 @@
-ARCHÉOLOGUE DÉCAPÉ, BOMBARDIER DE L'ÎLE MYSTÉRIEUSE
+BEHEADED ARCHAEOLOGIST, BOMBER FROM THE MYSTERIOUS ISLAND
 
 
-CLASSE : Archéologue décapité, bombardier
-MÉTABOLISME : Cyber-Zombie
-PERCEPTION : Insensible, contrôlé par LCU
-TAILLE : 6 pieds
-ENDURANCE : Très faible
-HOSTILITÉ : Très faible
-ARMES : Grenades à main
-RÉCOMPENSE : 500 FC
-MENACE : Faible
+CLASS:      Beheaded Archaeologist, Bomber
+METABOLISM: Cyber-Zombie
+PERCEPTION: Insentient, LCU Controlled
+SIZE:       6 ft
+ENDURANCE:  Very Low
+HOSTILITY:  Very Low
+WEAPONS:    Hand Grenades
+REWARD:     500 FC
+THREAT:     Low
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-L'archéologue décapité de l'île mystérieuse, ressuscité des morts par Mental et télécommandé par Life Control Unit (LCU).
+The Beheaded Archaeologist from the Mysterious Island, raised from the dead by Mental and remote controlled by Life Control Unit (LCU).
 
-Le Bomber porte sa propre tête dans une main pour recevoir des informations audiovisuelles et dispose d'une grande quantité de bombes gonflables dans ses poches. 
+The Bomber carries his own head in one hand to receive audio / visual information and has a large supply of inflatable bombs in his pockets. 
 
-CONSEILS :
+TIPS:
 
-- Le bombardier décapité explose peu après la mort.
+- The Beheaded Bomber explodes soon after death.

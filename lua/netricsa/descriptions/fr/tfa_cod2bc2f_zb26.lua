@@ -1,21 +1,21 @@
-ZB VZ. 26 MITRAILLEUSE LÉGÈRE
+ZB VZ. 26 LIGHT MACHINE GUN
 
 
-ARME : ZB vz. 26 mitrailleuses légères
-MUNITIONS : 7,92x57 mm Mauser
-ROF : ~500 tours/min
+ARME : ZB vz. 26 light machine gun
+MUNITIONS : 7.92x57 mm Mauser
+ROF : ~500 rounds / min
 POIDS : ~9,65 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Le ZB vz. 26 est une mitrailleuse légère tchécoslovaque développée par Václav Holek dans les années 1920. Il entra en service dans l'armée tchécoslovaque en 1928 et fut largement utilisé en dehors de la Tchécoslovaquie. La mitrailleuse a été utilisée dans de nombreux conflits, dont la Seconde Guerre mondiale.
+The ZB vz. 26 is a Czechoslovakian light machine gun developed by Václav Holek in the 1920s. It entered service with the Czechoslovak Army in 1928 and was widely used outside of Czechoslovakia. The machine gun was used in numerous conflicts, including World War II.
 
-Le ZB vz. 26 utilise un système fonctionnant au gaz avec un piston à gaz à longue course et un boulon de verrouillage inclinable. Le canon est refroidi par air et peut être rapidement remplacé. La mitrailleuse est alimentée par un chargeur de 20 cartouches situé sur le dessus. Il peut tirer à la fois des tirs simples et automatiques.
+The ZB vz. 26 uses a gas-operated system with a long-stroke gas piston and tilting bolt locking. The barrel is air-cooled and can be quickly replaced. The machine gun is fed from a 20-round box magazine located on top. It can fire both single and automatic fire.
 
-Le ZB vz. La conception de ce modèle se caractérisait par sa fiabilité, son démontage relativement simple et sa facilité d'entretien. Cette conception a eu une influence significative sur le développement des mitrailleuses légères : le canon britannique Bren était basé sur le ZB vz. 26 et ses variantes ultérieures.
+The ZB vz. 26 design was characterized by reliability, relatively simple disassembly, and ease of maintenance. This design had a significant influence on the development of light machine guns: the British Bren gun was based on the ZB vz. 26 and its subsequent variants.
 
-REMARQUES :
+REMARQUES :
 
-- Bien adapté au soutien de l'infanterie à moyenne et longue portée.
-- Le canon peut être rapidement remplacé, permettant ainsi un tir intensif continu.
-- Le ZB vz. 26 est devenu la base de la célèbre mitrailleuse légère britannique Bren.
+- Well suited for infantry support at medium and long ranges.
+- The barrel can be quickly replaced, allowing for continued intensive firing.
+- The ZB vz. 26 became the basis for the famous British Bren light machine gun.

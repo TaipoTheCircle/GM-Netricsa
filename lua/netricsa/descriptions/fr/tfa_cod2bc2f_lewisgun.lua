@@ -1,23 +1,23 @@
-MITRAILLEUSE LÉGÈRE PISTOLET LEWIS
+LEWIS GUN LIGHT MACHINE GUN
 
 
-ARME : Mitrailleuse légère Lewis Gun
-MUNITIONS : .303 britanniques (7,7x56 mm R)
-ROF : ~500-600 tours/min
+ARME : Lewis Gun Light Machine Gun
+MUNITIONS : .303 British (7.7x56mm R)
+ROF : ~500-600 rounds / min
 POIDS : ~12,7 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Cette mitrailleuse légère a été développée aux États-Unis par le colonel Isaac Newton Lewis en 1911, mais a été largement utilisée principalement en raison de sa production britannique. Il a été adopté par l'armée britannique en 1915 et a été largement utilisé pendant la Première Guerre mondiale.
+This light machine gun was developed in the United States by Colonel Isaac Newton Lewis in 1911, but was widely used primarily due to British production. It was adopted by the British Army in 1915 and saw extensive use during World War I.
 
-La mitrailleuse utilise un système de piston à longue course fonctionnant au gaz avec un boulon rotatif unique. L'une des caractéristiques les plus reconnaissables du Lewis Gun est son chargeur à tambour de 47 cartouches monté sur le dessus. Des chargeurs de plus grande capacité de 97 cartouches étaient également disponibles.
+The machine gun uses a gas-operated, long-stroke piston system with a unique rotating bolt. One of the most recognizable features of the Lewis Gun is its top-mounted, 47-round drum magazine. Higher-capacity, 97-round magazines were also available.
 
-Le canon est entouré d'un carénage distinctif avec un radiateur en aluminium. Lors du tir, le flux d'air à travers le carénage aidait à refroidir le canon. En raison de son poids relativement léger pour une mitrailleuse, le Lewis Gun pouvait être transporté et utilisé par un seul soldat.
+The barrel is surrounded by a distinctive shroud with an aluminum radiator. When firing, airflow through the shroud helped cool the barrel. Due to its relatively light weight for a machine gun, the Lewis Gun could be carried and operated by a single soldier.
 
-Le Lewis Gun était utilisé non seulement par l'infanterie, mais également monté sur des avions. La version avion pouvait tirer environ 800 coups par minute.
+The Lewis Gun was used not only by infantry but also mounted on aircraft. The aircraft version could fire approximately 800 rounds per minute.
 
-REMARQUES :
+REMARQUES :
 
-- Le magazine est au top. Un chargeur inférieur aurait été trop courant.
-- La mitrailleuse a été largement utilisée sur les avions pendant la Première Guerre mondiale.
-- Le système de refroidissement inhabituel est devenu l'une des caractéristiques distinctives du Lewis Gun.
+- The magazine is on top. A bottom magazine would have been too common.
+- The machine gun was widely used on aircraft during World War I.
+- The unusual cooling system became one of the Lewis Gun's signature features.

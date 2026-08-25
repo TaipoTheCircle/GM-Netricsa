@@ -1,22 +1,22 @@
-FUSIL À POMPE WINCHESTER MODÈLE 1897
+WINCHESTER MODEL 1897 PUMP-ACTION SHOTGUN
 
 
-ARME : Fusil à pompe Winchester modèle 1897
-Munitions : calibre 12
-ROF : ~60-70 tours/min
-POIDS : ~3,6kg
+ARME : Winchester Model 1897 Pump-Action Shotgun
+MUNITIONS : 12-gauge
+ROF : ~60-70 rounds / min
+POIDS : ~3,6 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Le Winchester modèle 1897, également connu sous le nom de M1897 ou Trench Gun, est un fusil de chasse américain à pompe conçu par John Browning. Il a été produit de 1897 à 1957, avec plus d'un million d'unités produites pendant cette période. Le fusil de chasse se déclinait en plusieurs variantes, notamment des modèles de chasse, de police et militaires.
+The Winchester Model 1897, also known as the M1897 or Trench Gun, is an American pump-action shotgun designed by John Browning. It was produced from 1897 to 1957, with over a million units produced during that time. The shotgun came in several variations, including hunting, police, and military models.
 
-Le M1897 utilise une têtière à verrou et un chargeur tubulaire. Le chargeur standard contient cinq cartouches. Une particularité de conception est l'absence de sectionneur : en maintenant la gâchette enfoncée, des coups peuvent être tirés les uns après les autres à l'aide de l'avant.
+The M1897 uses a bolt-action forend and a tubular magazine. The standard magazine holds five rounds. A distinctive design feature is the absence of a disconnector: by holding the trigger down, shots can be fired one after another using the fore-end.
 
-La version militaire du Trench Gun comportait un canon raccourci de 20 pouces et a été utilisée par les troupes américaines pendant la Première Guerre mondiale. Le Winchester M1897 a ensuite servi pendant la Seconde Guerre mondiale, la guerre de Corée et la guerre du Vietnam.
+The military version of the Trench Gun featured a shortened 20-inch barrel and was used by American troops in World War I. The Winchester M1897 subsequently saw service in World War II, the Korean War, and the Vietnam War.
 
-REMARQUES :
+REMARQUES :
 
-- Particulièrement efficace à courte portée, où la charge de tir permet une acquisition rapide de la cible.
-- L'absence de sectionneur permet des répétitions de tirs très rapides tout en déplaçant le devant.
-- La version Trench Gun est devenue l'un des fusils de combat à pompe les plus célèbres et a acquis une large reconnaissance pour son utilisation dans la guerre des tranchées de la Première Guerre mondiale.
-- Browning a créé un fusil à pompe, puis l'histoire a décidé de le tester dans pratiquement toutes les guerres du 20e siècle.
+- Particularly effective at close range, where the shot load allows for rapid target acquisition.
+- The absence of a disconnector allows for very rapid repeat fire while moving the fore-end.
+- The Trench Gun version became one of the most famous combat pump-action shotguns and gained widespread recognition for its use in the trench warfare of World War I.
+- Browning created a pump-action shotgun, and then history decided to test it in virtually every war of the 20th century.

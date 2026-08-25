@@ -1,12 +1,12 @@
 FUSIL À CHARGEMENT AUTOMATIQUE GEWEHR 43 (G43)
 
 
-ARME : Fusil à chargement automatique Gewehr 43 (G43)
-MUNITIONS : 7,92x57 mm Mauser
+ARME : Fusil à chargement automatique Gewehr 43 (G43)
+MUNITIONS : Mauser 7,92x57mm
 ROF : Auto-chargement, ~30 tours/min
 POIDS : 4,33 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
 Le Gewehr 43, également connu sous le nom de G43, était un fusil à chargement automatique allemand de la Seconde Guerre mondiale. Développé en 1943, il s'agissait d'un développement du Gewehr 41 avec un système fonctionnant au gaz plus avancé. En 1944, le fusil fut rebaptisé Karabiner 43 (K43), même si sa conception resta pratiquement inchangée.
 
@@ -14,7 +14,7 @@ Le fusil utilise un système de piston à course courte fonctionnant au gaz et e
 
 Le G43 est efficace à moyenne et longue portée, et la possibilité de monter un viseur optique a permis à certains modèles d'être utilisés comme armes de tireur d'élite. Cependant, les viseurs optiques n'étaient installés que sur un petit pourcentage des fusils produits.
 
-REMARQUES :
+REMARQUES :
 
 - Une bonne précision et une cartouche de fusil puissante rendent le G43 efficace à moyenne et longue portée.
 - Le mécanisme semi-automatique permet des prises de vues rapides.

@@ -1,28 +1,28 @@
-FUSIL À CHARGEMENT AUTOMATIQUE GEWEHR 43 (G43)
+GEWEHR 43 (G43) SELF-LOADING RIFLE
 
 
-ARME : Fusil à chargement automatique Gewehr 43 (G43)
-MUNITIONS : Mauser 7,92x57 mm
-ROF : Auto-chargement, ~30 tours/min
+ARME : Gewehr 43 (G43) Self-Loading Rifle
+MUNITIONS : 7.92x57mm Mauser
+ROF : Self-loading, ~30 rounds / min
 POIDS : 4,33 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Le Gewehr 43, également connu sous le nom de G43, était un fusil à chargement automatique allemand de la Seconde Guerre mondiale. Développé en 1943, il s'agissait d'un développement du Gewehr 41 avec un système fonctionnant au gaz plus avancé. En 1944, le fusil fut rebaptisé Karabiner 43 (K43), même si sa conception resta pratiquement inchangée.
+The Gewehr 43, also known as the G43, was a German self-loading rifle from World War II. Developed in 1943, it was a development of the Gewehr 41 with a more advanced gas-operated system. In 1944, the rifle was renamed the Karabiner 43 (K43), although its design remained virtually unchanged.
 
-Le fusil utilise un système de piston à course courte fonctionnant au gaz et est alimenté par un chargeur amovible de 10 cartouches. Le mécanisme semi-automatique permet au tireur de tirer rapidement des coups de suivi sans activer manuellement le verrou après chaque coup.
+The rifle uses a gas-operated, short-stroke piston system and is fed from a detachable 10-round magazine. The semi-automatic mechanism allows the shooter to quickly fire follow-up shots without manually cycling the bolt after each hit.
 
-Le G43 est efficace à moyenne et longue portée, et la possibilité de monter un viseur optique a permis à certains modèles d'être utilisés comme armes de tireur d'élite. Cependant, les viseurs optiques n'étaient installés que sur un petit pourcentage des fusils produits.
+The G43 is effective at medium and long ranges, and the ability to mount an optical sight allowed some models to be used as sniper weapons. However, optical sights were only installed on a small percentage of the rifles produced.
 
-REMARQUES :
+REMARQUES :
 
-- Une bonne précision et une cartouche de fusil puissante rendent le G43 efficace à moyenne et longue portée.
-- Le mécanisme semi-automatique permet des prises de vues rapides.
+- Good accuracy and a powerful rifle cartridge make the G43 effective at medium and long ranges.
+- The semi-automatic mechanism allows for quick follow-up shots.
 - Peut être équipé d'un viseur optique et utilisé comme fusil de sniper.
 - Le calibre 7,92x57 mm offre une puissance élevée et convient bien pour engager des cibles durcies.
-- Le petit chargeur nécessite des changements fréquents lors de tirs intenses.
-- Malgré son système semi-automatique, ce n'est pas une carabine automatique. Le G43 standard ne tire pas en rafale.
+- The small magazine requires frequent changes during intense firing.
+- Despite its semi-automatic system, it is not an automatic rifle. The standard G43 does not fire in bursts.
 - La portée effective est d'environ 500 mètres.
-- En 1944, il fut rebaptisé Karabiner 43, ou K43.
-- S'il est équipé d'optiques, le G43 est mieux utilisé pour un tir précis sur des cibles individuelles. Sans optique, le fusil fonctionne admirablement comme une puissante arme de soutien semi-automatique.
-- Dix cartouches, semi-automatiques et 7,92 mm. L’ennemi a le temps de réfléchir, mais peu de temps.
+- In 1944, it was redesignated Karabiner 43, or K43.
+- If equipped with optics, the G43 is best used for precise fire on individual targets. Without optics, the rifle performs admirably as a powerful semi-automatic support weapon.
+- Ten rounds, semi-automatic, and 7.92mm. The enemy has time to think, but only a short time.

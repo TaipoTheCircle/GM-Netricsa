@@ -1,22 +1,22 @@
-PISTOLET BROWNING HAUTE PUISSANCE
+BROWNING HI-POWER PISTOL
 
 
-ARME : Pistolet Browning haute puissance
-MUNITIONS : Parabellum 9x19 mm
-ROF : ~40-50 tours/min
+ARME : Browning Hi-Power Pistol
+MUNITIONS : 9x19mm Parabellum
+ROF : ~40-50 rounds / min
 POIDS : ~0,88 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Le Browning Hi-Power, également connu sous le nom de Browning GP 35 ou P-35, est un pistolet semi-automatique belge conçu par John Browning et Dieudonné Saive. Le développement a été achevé en 1935, après quoi le pistolet a été largement distribué dans le monde entier et a servi dans diverses armées et forces de l'ordre pendant des décennies.
+The Browning Hi-Power, also known as the Browning GP 35 or P-35, is a Belgian semi-automatic pistol designed by John Browning and Dieudonné Saive. Development was completed in 1935, after which the pistol was widely distributed throughout the world and served in various armies and law enforcement agencies for decades.
 
-Le pistolet utilise une action de verrouillage de style Browning à recul court. Sa munition principale est la cartouche Parabellum commune de 9 x 19 mm. L'une des principales caractéristiques du Hi-Power était son chargeur double pile de 13 cartouches, une très grande capacité pour un pistolet militaire en 1935.
+The pistol uses a short-recoil, Browning-style locking action. Its primary ammunition is the common 9x19mm Parabellum cartridge. One of the Hi-Power's key features was its double-stack, 13-round magazine, a very large capacity for a military pistol in 1935.
 
-Le Hi-Power est relativement léger, présente une bonne ergonomie et une prise en main confortable. La combinaison d'un grand chargeur, d'une action fiable et d'un recul modéré le rend adapté aux tirs de suivi rapides à courte portée.
+The Hi-Power is relatively lightweight, features good ergonomics, and a comfortable grip. The combination of a large magazine, reliable action, and moderate recoil makes it suitable for quick follow-up shots at close range.
 
-REMARQUES :
+REMARQUES :
 
-- Browning voulait fabriquer un bon pistolet, mais a fini par créer un chargeur qui, pour l'époque, ressemblait presque à un tricheur.
-- Bien adapté pour les tirs rapprochés et permet des tirs de suivi rapides.
+- Browning wanted to make a good pistol, but ended up making a magazine that, for its time, looked almost like a cheat.
+- Well-suited for close range and allows for quick follow-up shots.
 - Le chargeur de 13 cartouches était l'un des principaux avantages du Hi-Power au moment de son introduction.
 - Le pistolet est devenu si répandu que différentes versions ont été utilisées dans environ 50 pays.

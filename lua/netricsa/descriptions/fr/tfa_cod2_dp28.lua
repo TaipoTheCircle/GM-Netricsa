@@ -1,21 +1,21 @@
-MITRAILLEUSE LÉGÈRE DP-28
+DP-28 LIGHT MACHINE GUN
 
 
-ARME : Mitrailleuse légère DP-28
-MUNITIONS : 7,62x54 mm R
-ROF : ~500-600 tours/min
+ARME : DP-28 Light Machine Gun
+MUNITIONS : 7.62x54 mm R
+ROF : ~500-600 rounds / min
 POIDS : ~11,8 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
 Le DP-28, mieux connu sous le nom de DP, ou « Degtyaryov Infantry », est une mitrailleuse légère soviétique conçue par Vasily Degtyaryov et adoptée par l'Armée rouge en 1927. Elle a été conçue comme arme d'appui-feu d'infanterie et a été largement utilisée pendant la Grande Guerre patriotique.
 
-La mitrailleuse utilise un système fonctionnant au gaz et tire à partir d'un verrou ouvert. Sa principale caractéristique extérieure, le fameux chargeur à tambour plat monté sur le dessus, lui a valu le surnom de « soucoupe » parmi les soldats. Les magazines ultérieurs ont tenu 47 tours.
+The machine gun uses a gas-operated system and fires from an open bolt. Its main external feature, the famous flat, top-mounted drum magazine, earned it the nickname "the saucer" among soldiers. Later magazines held 47 rounds.
 
-Le DP était monté sur un bipied pliable et était principalement destiné au soutien de l'infanterie. Malgré sa cadence de tir relativement faible, il était capable de délivrer des tirs concentrés à des distances allant jusqu'à plusieurs centaines de mètres. Le canon mince s'échauffait rapidement lors d'un tir intense, nécessitant de courtes rafales.
+The DP was mounted on a folding bipod and was primarily intended for infantry support. Despite its relatively low rate of fire, it was capable of delivering concentrated fire at ranges of up to several hundred meters. The thin barrel quickly heated up during intense fire, requiring short bursts.
 
-REMARQUES :
+REMARQUES :
 
-- Bien adapté pour supprimer les ennemis à courte et moyenne portée, en particulier lorsqu'ils sont tirés au repos.
-- Le chargeur de tambour à chargement par le haut est devenu l'une des caractéristiques les plus reconnaissables du DP. Bien que d'apparence inhabituelle, il permettait l'utilisation de cartouches à rebord.
-- Pour le tournage dans la neige profonde, un dispositif spécial, ressemblant à une petite raquette, a été utilisé pour empêcher le bipied de glisser.
+- Well suited for suppressing enemies at close and medium ranges, especially when fired from a rest.
+- The top-loading drum magazine became one of the DP's most recognizable features. While unusual in appearance, it allowed for the use of rimmed cartridges.
+- For shooting in deep snow, a special device, resembling a small snowshoe, was used to prevent the bipod from slipping.

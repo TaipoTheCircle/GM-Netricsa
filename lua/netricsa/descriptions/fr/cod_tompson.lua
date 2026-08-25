@@ -1,21 +1,21 @@
-MODÈLE THOMPSON M1A1
+THOMPSON MODEL M1A1
 
 
-ARME : Thompson modèle M1A1
-MUNITIONS : .45 ACP
-CC : Automatique, ~700-750 tours/min
+ARME : Modèle Thompson M1A1
+MUNITIONS : .45 ACP
+CC:     Automatic, ~700-750 rounds / min
 POIDS : ~4,9 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Le Thompson M1A1, également connu sous le nom de « Tommy Gun », est une mitraillette américaine développée comme une version militaire simplifiée des modèles Thompson précédents. Le M1A1 a été introduit en 1942 et sa production s'est poursuivie jusqu'en 1944. Il a été conçu pour un usage militaire de masse et présentait une conception plus simple et moins coûteuse que les modèles précédents.
+The Thompson M1A1, also known as the "Tommy Gun", is an American submachine gun developed as a simplified military version of earlier Thompson models. The M1A1 was introduced in 1942 and continued in production until 1944. It was designed for mass military use and featured a simpler and less expensive design compared to earlier models.
 
-Contrairement au premier Thompson, le M1A1 présentait un mécanisme considérablement simplifié. Au lieu d'un système complexe de culasse retardée, il utilisait une action de retour de flamme et le percuteur était fixé au boulon. Un percuteur fixe a également été installé et un compensateur de bouche simplifié a été omis.
+Unlike the early Thompson, the M1A1 featured a significantly simplified mechanism. Instead of a complex delayed-breech system, it used a blowback action, and the firing pin was fixed to the bolt. A fixed firing pin was also installed, and a simplified muzzle compensator was omitted.
 
-Le M1A1 utilise la cartouche .45 ACP et est capable de tirer uniquement automatiquement. Il est alimenté par des chargeurs de 20 ou 30 cartouches. Grâce à sa balle lourde et à sa cadence de tir relativement modérée, l'arme reste relativement contrôlable sur de courtes rafales.
+The M1A1 uses the .45 ACP cartridge and is capable of automatic fire only. It is fed from 20- or 30-round box magazines. Thanks to its heavy bullet and relatively moderate rate of fire, the weapon remains relatively controllable in short bursts.
 
-REMARQUES :
+REMARQUES :
 
 - La puissante cartouche .45 ACP rend le M1A1 particulièrement efficace à courte portée.
 - Idéal pour les combats rapprochés et moyens, en particulier lors de tirs en rafales courtes.
-- Le M1A1 est nettement plus simple que les mitraillettes Thompson précédentes, ce qui lui permet d'être produit plus rapidement et à moindre coût pour l'armée.
+- The M1A1 is significantly simpler than earlier Thompson submachine guns, allowing it to be produced more quickly and affordably for the military.

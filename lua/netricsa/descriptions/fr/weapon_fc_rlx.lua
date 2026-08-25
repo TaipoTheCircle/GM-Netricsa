@@ -1,23 +1,23 @@
-LANCE-FUSÉE FLASH RLX-9157 M202A1
+RLX-9157 M202A1 FLASH ROCKET LAUNCHER
 
 
-ARME : Lance-roquettes flash RLX-9157 M202A1
-Munitions : roquettes M74 de 66 mm
-ROF : ~30 tours/min
+ARME : RLX-9157 M202A1 Flash Rocket Launcher
+MUNITIONS : 66mm M74 Rockets
+ROF : ~30 Rounds / Min
 POIDS : ~12 kg
 
-DESCRIPTIF :
+DESCRIPTIF :
 
-Un lance-roquettes lourd à tirs multiples conçu pour engager les ennemis et détruire les cibles avec une force explosive. Il s'agit d'un système portable doté de plusieurs tubes de lancement, permettant de tirer des roquettes les unes après les autres sans avoir besoin de recharger immédiatement après chaque tir.
+A heavy, multiple-shot rocket launcher designed to engage enemies and destroy targets with explosive force. It is a portable system with multiple launch tubes, allowing rockets to be fired one after another without the need to immediately reload after each shot.
 
-Les roquettes sont très destructrices et particulièrement efficaces contre les groupes d'ennemis, les fortifications et les grandes cibles. La grande capacité de munitions du lanceur permet d'effectuer plusieurs lancements successifs, ce qui en fait une arme de soutien extrêmement dangereuse.
+The rockets are highly destructive and particularly effective against groups of enemies, fortifications, and large targets. The launcher's large ammunition capacity allows for multiple launches in quick succession, making it an extremely dangerous support weapon.
 
-Malgré sa taille impressionnante, le M202A1 reste portable et peut être utilisé par un seul soldat.
+Despite its impressive size, the M202A1 remains portable and can be used by a single soldier.
 
-REMARQUES :
+REMARQUES :
 
 - Un lance-roquettes multi-coups.
 - Les roquettes infligent des dégâts explosifs importants.
-- Efficace contre des groupes de cibles et des adversaires lourds.
-- Plus efficace à moyenne et longue portée.
+- Effective against groups of targets and heavy opponents.
+- Most effective at medium to long range.
 - L'explosion est dangereuse pour l'utilisateur si elle est tirée trop près d'un obstacle ou d'une cible.
