@@ -1,17 +1,16 @@
-AK-47
+FUSIL D'ASSAUT KALASHNIKOV AK-47
 
 
-WEAPON: Fusil d'assaut AK-47
-AMMO: Rondes de 7,62x39 mm
-ROF: ~600 tours/min
+ARME : Fusil d'assaut Kalachnikov AK-47
+MUNITIONS : 7,62 x 39 mm
+ROF : ~600 tours/min.
 
-DESCRIPTION: 
+DESCRIPTIF :
 
-Fusil automatique emblématique connu pour sa fiabilité et sa durabilité. Tire de puissants obus de 7,62 mm avec un recul modéré. Efficace à moyenne portée et capable de tirs soutenus pour la suppression ou les engagements directs.
+Fusil d'assaut soviétique développé par Mikhaïl Timofeevich Kalachnikov à la fin des années 1940. L'AK a été adoptée par l'armée soviétique en 1949 et est devenue l'une des armes légères les plus célèbres au monde. Il se distingue par sa conception simple et fiable, ses bonnes performances dans des conditions difficiles et une cartouche intermédiaire de 7,62 x 39 mm relativement puissante. L'AK a inspiré de nombreuses modifications et copies, et l'arme elle-même s'est répandue dans le monde entier.
 
-NOTES: 
+REMARQUES :
 
-- Très durable et simple à utiliser.
-- Recul modéré ; contrôlable en courtes rafales.
-- Efficace contre les cibles non blindées et légèrement blindées.
-- La capacité du chargeur nécessite des rechargements périodiques lors de combats prolongés.
+- Un fusil d'assaut très fiable, capable de fonctionner même dans des conditions difficiles. - Le grand nombre de copies et de modifications ont fait de l'AK l'un des fusils d'assaut les plus reconnaissables au monde.
+- Il est bien adapté aux portées rapprochées et moyennes.
+- S'il y a une guerre quelque part, il y a de fortes chances qu'il y ait un AK qui traîne quelque part.
