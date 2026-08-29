@@ -1,19 +1,19 @@
-BERETTA PX4 STORM PISTOL
+ПИСТОЛЕТ BERETTA PX4 STORM
 
 
-WEAPON: Beretta Px4 Storm Pistol
-AMMO:   9x19mm Parabellum
-ROF:    ~40 rounds / min
-WEIGHT: ~0,785 kg
+ОРУЖИЕ:  Пистолет Beretta Px4 Storm
+ПАТРОНЫ: 9x19 мм Parabellum
+СС:      ~40 выстрелов / мин.
+ВЕС:     ~0,785 кг.
 
-DESCRIPTION:
+Описание:
 
-This modern Italian semi-automatic pistol, developed by Beretta and produced since 2004, is designed for self-defense, police, and other law enforcement applications. It uses a short-recoil action and a unique rotating barrel locking system.
+Этот современный итальянский полуавтоматический пистолет, разработанный компанией Beretta и выпускаемый с 2004 года, предназначен для самообороны, применения полицией и другими правоохранительными органами. Он использует механизм с короткой отдачей и уникальную систему запирания ствола с поворотным механизмом.
 
-The Px4 Storm features a polymer frame with steel inserts, interchangeable grips, and a Picatinny rail under the barrel. The 9mm version uses 10, 14, 17, or 20-round magazines. Its ergonomic grip and low recoil make it ideal for fast and accurate shooting.
+Px4 Storm имеет полимерную рамку со стальными вставками, сменные рукоятки и планку Пикатинни под стволом. Версия под патрон 9 мм использует магазины на 10, 14, 17 или 20 патронов. Эргономичная рукоятка и низкая отдача делают его идеальным для быстрой и точной стрельбы.
 
-NOTES:
+Примечания:
 
-- A modern Beretta that looks completely different from the familiar M9.
-- The barrel rotates during reloading, not just moves back.
-- Low recoil and a comfortable grip help quickly return the weapon to the aiming line.
+- Современная Beretta, которая выглядит совершенно иначе, чем привычный M9.
+- Ствол вращается во время перезарядки, а не просто отводится назад.
+- Низкая отдача и удобный хват помогают быстро вернуть оружие на линию прицеливания.
