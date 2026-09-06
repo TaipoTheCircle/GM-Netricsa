@@ -1,13 +1,13 @@
 KOLYVAN, A MERCHANT-SCHEMESTER FROM ANCIENT KIEVAN RUS
 
 
-CLASS:      Kolyvan, A Merchant-Schemer From Ancient Kievan Rus
+CLASS:      Kolyvan, A Merchant-Schemer
 METABOLISM: Human, Male
-PERCEPTION: Merchant, adventurer, agent of Mental
+PERCEPTION: Merchant, Adventurer, Agent Of Mental
 SIZE:       10 ft 
 ENDURANCE:  Low
 HOSTILITY:  Average
-WEAPONS:    Cunning, summon werebulls, rocket launchers
+WEAPONS:    Cunning, Summon Werebulls, Rocket Launchers
 REWARD:     2200 FC
 THREAT:     Average
 
@@ -24,4 +24,4 @@ Mental promised Kolyvan a generous reward: for his assistance in eliminating Sam
 ADVICE:
 
 - Heard the phrase about Hunchback? Get ready for the bulls.
-- Take revenge on everyone who owes him 40,000.
+- Avenge everyone who owed him 40 thousand.

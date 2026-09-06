@@ -1,18 +1,18 @@
 ORO "ENFORCER" SHOTGUN
 
 
-WEAPON: ORO "Enforcer" Shotgun
-AMMO:   12 Gauge Shotgun
-ROF:    ~70 rounds / min
-WEIGHT: ~4 kg
+ARME : Fusil à pompe ORO "Enforcer"
+MUNITIONS : 12 Gauge Shotgun
+ROF : ~70 rounds / min
+POIDS : ~4 kg
 
-DESCRIPTION:
+DESCRIPTIF :
 
 The ORO "Enforcer" is a powerful combat shotgun manufactured by ORO, used by the Mendel Gruman Corporation military. Despite its limited effective range, it offers tremendous stopping power at close range and is designed to quickly dispatch opponents.
 
 In addition to its normal firing mode, the shotgun has a special flare function. The flare can be fired to attract the attention of nearby creatures, including dinosaurs, turning the weapon into a rather unusual way to give your opponent a very unpleasant encounter.
 
-NOTES:
+REMARQUES :
 
 - Very high damage at close range.
 - Uses 12 gauge shotgun shells. - Effective primarily at close range, where most of the pellets hit their target.

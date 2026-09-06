@@ -1,13 +1,13 @@
-ORO FP9 LIGHT ASSAULT CARBINE
+DUAL ORO FP9 LIGHT ASSAULT CARBINES
 
 
-WEAPON: ORO FP9 Light Assault Carbine
+WEAPON: Dual ORO FP9 Light Assault Carbines
 AMMO:   9x19mm Parabellum
-ROF:    90 rounds / min
+ROF:    180 rounds / min
 
 DESCRIPTION:
 
-This compact weapon was developed by ORO Defense as part of a program to standardize small arms for private military companies. The FP9 is based on legacy MP5 designs, but with an emphasis on reducing manufacturing costs: stamping instead of milling, and standardized components.
+This compact weapons was developed by ORO Defense as part of a program to standardize small arms for private military companies. The FP9 is based on legacy MP5 designs, but with an emphasis on reducing manufacturing costs: stamping instead of milling, and standardized components.
 
 It is manufactured using the same design as an automatic carbine chambered for pistol cartridges. The frame is one-piece stamped steel with a matte finish to reduce IR signature. The hammer-type trigger mechanism allows for single and continuous fire. It is fed from 30-round box magazines, located in front of the pistol grip.
 
