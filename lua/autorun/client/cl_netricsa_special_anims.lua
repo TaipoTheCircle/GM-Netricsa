@@ -461,6 +461,11 @@ SPECIAL_ANIMATIONS = {
         sequence = "idle_angry", 
         fallback = "Idle"    
     },
+                                                                                                                                                            ["npc_vj_ss2_harpy"] = {
+        sequence = "loadingscreen", 
+        fallback = "Idle"   
+        
+    },
     
     SPECIAL_BODYGROUPS = {
     ["npc_vj_ss2_turret_machinegun"] = {
