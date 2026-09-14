@@ -1,12 +1,14 @@
 if CLIENT then
-    local scanPromptNPC = nil
+    local scanPromptNPC = nil      -- теперь это Entity, а не строка
     local scanPromptTime = 0
     local lastScanKeyPress = 0
 
     -- Net handlers
     net.Receive("Netricsa_ShowScanPrompt", function()
-        local npcClass = net.ReadString()
-        scanPromptNPC = npcClass
+        local entIndex = net.ReadUInt(16)
+        local ent = Entity(entIndex)
+        if not IsValid(ent) then return end
+        scanPromptNPC = ent
         scanPromptTime = CurTime()
     end)
 
@@ -22,56 +24,54 @@ if CLIENT then
     end
 
     -- Отрисовка подсказки (только когда смотрим на NPC)
-hook.Add("HUDPaint", "Netricsa_ScanPrompt", function()
-    if IsValid(NetricsaFrame) and NetricsaFrame:IsVisible() then
-        return
-    end
-    
-    if not scanPromptNPC then return end
-    
-    local alpha = math.abs(math.sin(CurTime() * 3)) * 255
-    local style = NetricsaStyle or STYLES.Revolution
-    
-    -- Используем цвет стиля
-    local scanColor = Color(style.color.r, style.color.g, style.color.b, alpha)
-    
-    local keyName = GetConVar("netricsa_scan_key"):GetString()
-    if keyName == "" then keyName = "E" end
-    
-    local text = L("ui", "scan_prompt"):format(keyName:upper())
-    
-    -- Рисуем внизу экрана по центру
-    draw.SimpleText(text, "NetricsaBig", ScrW() / 2, ScrH() - 100, scanColor, TEXT_ALIGN_CENTER)
-    
-    -- Дополнительная подсказка - какой NPC сканируется
-    local displayName = NetricsaData.GetEnemyDisplayName(scanPromptNPC) or scanPromptNPC
-    draw.SimpleText(displayName, "NetricsaText", ScrW() / 2, ScrH() - 130, scanColor, TEXT_ALIGN_CENTER)
-end)
-
-    -- Обработка нажатия клавиши сканирования
-    hook.Add("Think", "Netricsa_ScanInput", function()
-        -- 🔹 НЕ ОБРАБАТЫВАТЬ ВВОД ЕСЛИ ОТКРЫТ ИНТЕРФЕЙС NETRICSA
+    hook.Add("HUDPaint", "Netricsa_ScanPrompt", function()
         if IsValid(NetricsaFrame) and NetricsaFrame:IsVisible() then
             return
         end
-        
-        if not scanPromptNPC then return end
-        
+
+        if not IsValid(scanPromptNPC) then return end
+
+        local alpha = math.abs(math.sin(CurTime() * 3)) * 255
+        local style = NetricsaStyle or STYLES.Revolution
+        local scanColor = Color(style.color.r, style.color.g, style.color.b, alpha)
+
+        local keyName = GetConVar("netricsa_scan_key"):GetString()
+        if keyName == "" then keyName = "E" end
+
+        local text = L("ui", "scan_prompt"):format(keyName:upper())
+
+        draw.SimpleText(text, "NetricsaBig", ScrW() / 2, ScrH() - 100,
+            scanColor, TEXT_ALIGN_CENTER)
+
+        -- Подсказка - какой NPC сканируется
+        local npcClass = scanPromptNPC:GetClass()
+        local displayName = NetricsaData.GetEnemyDisplayName(npcClass) or npcClass
+        draw.SimpleText(displayName, "NetricsaText", ScrW() / 2, ScrH() - 130,
+            scanColor, TEXT_ALIGN_CENTER)
+    end)
+
+    -- Обработка нажатия клавиши сканирования
+    hook.Add("Think", "Netricsa_ScanInput", function()
+        if IsValid(NetricsaFrame) and NetricsaFrame:IsVisible() then
+            return
+        end
+
+        if not IsValid(scanPromptNPC) then return end
+
         local scanKey = GetScanKey()
-        
+
         if input.IsKeyDown(scanKey) and CurTime() - lastScanKeyPress > 0.5 then
             lastScanKeyPress = CurTime()
-            
-            -- Отправляем запрос на сканирование
+
+            -- Отправляем запрос на сканирование (EntIndex вместо класса)
             net.Start("Netricsa_ScanNPC")
-                net.WriteString(scanPromptNPC)
+                net.WriteUInt(scanPromptNPC:EntIndex(), 16)
             net.SendToServer()
-            
-            -- Воспроизводим звук и показываем SCANNING
+
             surface.PlaySound("netricsa/button_ssm_press.wav")
             NetricsaData.showScan = true
-            timer.Simple(2, function() 
-                NetricsaData.showScan = false 
+            timer.Simple(2, function()
+                NetricsaData.showScan = false
             end)
         end
     end)

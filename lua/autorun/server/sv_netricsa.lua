@@ -1292,7 +1292,7 @@ end)
     end)
 
     util.AddNetworkString("Netricsa_ShowScanPrompt")
-    util.AddNetworkString("Netricsa_HideScanPrompt") 
+    util.AddNetworkString("Netricsa_HideScanPrompt")
     util.AddNetworkString("Netricsa_ScanNPC")
 
     -- ConVar для клавиши сканирования
@@ -1301,86 +1301,96 @@ end)
     -- Таблица уже отсканированных NPC для каждого игрока
     local ScannedNPCs = {} -- playerID -> npcID -> true
 
-    -- Функция проверки может ли NPC быть отсканирован
-    local function CanScanNPC(ply, npc)
-    if not IsValid(ply) or not IsValid(npc) then return false end
-    
-    -- Проверяем, является ли NPC DrGBase или Nextbot'ом
-    local isValidTarget = npc:IsNPC() or IsDrGBaseNPC(npc) or IsNextBot(npc)
-    if not isValidTarget then return false end
-        
-        -- 🔹 УМЕНЬШЕН РАДИУС С 200 ДО 100
-        local distance = ply:GetPos():Distance(npc:GetPos())
-        if distance > 100 then return false end
-        
-        -- Проверяем LOS (линию обзора) и направление взгляда
-        local trace = util.TraceLine({
-            start = ply:EyePos(),
-            endpos = npc:EyePos() + npc:OBBCenter(),
-            filter = {ply, npc}
+    -- Максимальная дистанция сканирования
+    local SCAN_MAX_DIST = 250
+
+    -- 🔹 Поднимаемся по родителям (для гигантов, чьи хитбоксы — дочерние энтити)
+    local function ResolveTargetEntity(ent)
+        if not IsValid(ent) then return nil end
+        local cur = ent
+        local guard = 0
+        while IsValid(cur:GetParent()) and guard < 10 do
+            cur = cur:GetParent()
+            guard = guard + 1
+        end
+        return cur
+    end
+
+    -- 🔹 Проверка, является ли энтити валидной целью для сканирования
+    local function IsValidScanTarget(ent)
+        if not IsValid(ent) then return false end
+        return ent:IsNPC() or IsDrGBaseNPC(ent) or IsNextBot(ent)
+    end
+
+    -- 🔹 Трассировка от глаз игрока, возвращает NPC под прицелом
+    local function TraceScanTarget(ply)
+        if not IsValid(ply) then return nil end
+
+        local tr = util.TraceLine({
+            start  = ply:EyePos(),
+            endpos = ply:EyePos() + ply:GetAimVector() * SCAN_MAX_DIST,
+            filter = ply,
+            mask   = MASK_SHOT,
         })
-        
-        if trace.Hit and trace.Entity ~= npc then return false end
-        
-        -- Проверяем смотрит ли игрок на NPC (угол между направлением взгляда и направлением к NPC)
-        local toNPC = (npc:EyePos() - ply:EyePos()):GetNormalized()
-        local viewAng = ply:EyeAngles()
-        local viewDir = viewAng:Forward()
-        
-        local dot = viewDir:Dot(toNPC)
-        if dot < 0.8 then -- ~36 градусов конус обзора
+
+        if not IsValid(tr.Entity) then return nil end
+
+        local target = ResolveTargetEntity(tr.Entity)
+        if not IsValidScanTarget(target) then return nil end
+
+        return target, tr
+    end
+
+    -- 🔹 Функция проверки, может ли NPC быть отсканирован
+    local function CanScanNPC(ply, npc)
+        if not IsValid(ply) or not IsValid(npc) then return false end
+        if not IsValidScanTarget(npc) then return false end
+
+        -- NPC уже мёртв
+        if npc:Health() <= 0 then return false end
+
+        -- Тип NPC уже в базе
+        local npcClass = npc:GetClass()
+        if TrackedEnemies and TrackedEnemies[npcClass] then
+            return false
+        end
+        if IsAliasAlreadyTracked(npcClass) then
             return false
         end
 
-        -- 🔹 ПРОВЕРЯЕМ, ЕСТЬ ЛИ УЖЕ ЭТОТ ТИП NPC В СПИСКЕ
-        local npcClass = npc:GetClass()
-        if TrackedEnemies and TrackedEnemies[npcClass] then
-            return false -- NPC уже есть в Netricsa, нельзя сканировать
-        end
-        
-        -- Проверяем не отсканирован ли уже этот конкретный NPC
+        -- Этот конкретный NPC уже сканировали
         local playerID = ply:SteamID64()
         local npcID = npc:EntIndex()
-        
         if ScannedNPCs[playerID] and ScannedNPCs[playerID][npcID] then
             return false
         end
-        
-        -- Проверяем не убит ли NPC
-        if npc:Health() <= 0 then return false end
-        
+
         return true
     end
 
-    -- Функция поиска NPC для сканирования
+    -- 🔹 Поиск NPC для сканирования (через trace)
     local function FindNPCToScan(ply)
-        local targetNPC = nil
-        local bestDot = 0.8 -- минимальный dot продукт
-        
-        for _, npc in ipairs(ents.GetAll()) do
-            if IsValid(npc) and npc:IsNPC() and CanScanNPC(ply, npc) then
-                -- Вычисляем насколько прямо игрок смотрит на NPC
-                local toNPC = (npc:EyePos() - ply:EyePos()):GetNormalized()
-                local viewDir = ply:EyeAngles():Forward()
-                local dot = viewDir:Dot(toNPC)
-                
-                if dot > bestDot then
-                    bestDot = dot
-                    targetNPC = npc
-                end
-            end
-        end
-        
-        return targetNPC
+        local target = TraceScanTarget(ply)
+        if not target then return nil end
+        if not CanScanNPC(ply, target) then return nil end
+        return target
     end
 
-    -- Отправка подсказки игроку
+    -- 🔹 Отправка подсказки игроку (пишем EntIndex, а не класс!)
+    local lastPromptState = {} -- ply -> entIndex или nil
+
     local function UpdateScanPrompt(ply)
         local npc = FindNPCToScan(ply)
-        
-        if npc then
+        local newIdx = IsValid(npc) and npc:EntIndex() or nil
+        local playerID = ply:SteamID64()
+
+        -- Не спамим сетью, если состояние не изменилось
+        if lastPromptState[playerID] == newIdx then return end
+        lastPromptState[playerID] = newIdx
+
+        if newIdx then
             net.Start("Netricsa_ShowScanPrompt")
-                net.WriteString(npc:GetClass())
+                net.WriteUInt(newIdx, 16)
             net.Send(ply)
         else
             net.Start("Netricsa_HideScanPrompt")
@@ -1397,70 +1407,68 @@ end)
         end
     end)
 
-    -- Обработка сканирования
--- Обработка сканирования
-net.Receive("Netricsa_ScanNPC", function(len, ply)
-    if not IsValid(ply) then return end
-    
-    local npcClass = net.ReadString()
-    
-    -- Находим NPC который сканируется
-    local targetNPC = nil
-    for _, npc in ipairs(ents.GetAll()) do
-        if IsValid(npc) and npc:IsNPC() and npc:GetClass() == npcClass and CanScanNPC(ply, npc) then
-            targetNPC = npc
-            break
-        end
-    end
-    
-    if not targetNPC then 
-        print("[Netricsa] Scan failed: NPC not available or already scanned")
-        return 
-    end
-    
-    -- 🔹 ПРОВЕРКА АЛИАСА
-    if IsAliasAlreadyTracked(npcClass) then
-        print("[Netricsa] Scan failed: " .. npcClass .. " already tracked via alias")
-        -- Используем правильную серверную функцию для отправки сообщения игроку
-        ply:ChatPrint("[Netricsa] This enemy type is already in the database!")
-        return
-    end
-    
-    -- Помечаем как отсканированный
-    local playerID = ply:SteamID64()
-    local npcID = targetNPC:EntIndex()
-    
-    if not ScannedNPCs[playerID] then
-        ScannedNPCs[playerID] = {}
-    end
-    ScannedNPCs[playerID][npcID] = true
-    
-    -- Добавляем в Netricsa (если еще не добавлен)
-    if not (TrackedEnemies and TrackedEnemies[npcClass]) then
-        local aliasKey = GetNPCAlias(npcClass)
-        TrackedEnemies[npcClass] = true
-        
-        local npcData = GetNetricsaNPCData(targetNPC)
-        if npcData then
-            SendNPCToClient(npcClass, npcData, aliasKey, ply)
-            print("[Netricsa] NPC scanned: " .. npcClass .. " (alias: " .. aliasKey .. ") by " .. ply:GetName())
-            -- Используем правильную серверную функцию для отправки сообщения игроку
-            ply:ChatPrint("[Netricsa] New enemy scanned: " .. aliasKey)
-        end
-    end
-    
-    -- Скрываем подсказку
-    net.Start("Netricsa_HideScanPrompt")
-    net.Send(ply)
-end)
+    -- 🔹 Обработка сканирования (клиент присылает EntIndex)
+    net.Receive("Netricsa_ScanNPC", function(len, ply)
+        if not IsValid(ply) then return end
 
-    -- Очистка при смерти NPC
+        local npcIdx = net.ReadUInt(16)
+        local targetNPC = Entity(npcIdx)
+
+        if not IsValid(targetNPC) then
+            print("[Netricsa] Scan failed: entity " .. tostring(npcIdx) .. " no longer valid")
+            return
+        end
+
+        -- Поднимаемся до родителя (для гигантов)
+        targetNPC = ResolveTargetEntity(targetNPC)
+        if not IsValid(targetNPC) then return end
+
+        if not IsValidScanTarget(targetNPC) then
+            print("[Netricsa] Scan failed: entity is not a valid target")
+            return
+        end
+
+        if not CanScanNPC(ply, targetNPC) then
+            print("[Netricsa] Scan failed: NPC not available or already scanned")
+            net.Start("Netricsa_HideScanPrompt")
+            net.Send(ply)
+            return
+        end
+
+        local npcClass = targetNPC:GetClass()
+        local aliasKey = GetNPCAlias(npcClass)
+
+        -- Помечаем как отсканированный конкретно этот NPC
+        local playerID = ply:SteamID64()
+        local npcID = targetNPC:EntIndex()
+        if not ScannedNPCs[playerID] then
+            ScannedNPCs[playerID] = {}
+        end
+        ScannedNPCs[playerID][npcID] = true
+
+        -- Добавляем в Netricsa
+        if not (TrackedEnemies and TrackedEnemies[npcClass]) then
+            TrackedEnemies[npcClass] = true
+
+            local npcData = GetNetricsaNPCData(targetNPC)
+            if npcData then
+                SendNPCToClient(npcClass, npcData, aliasKey, ply)
+                print("[Netricsa] NPC scanned: " .. npcClass .. " (alias: " .. aliasKey .. ") by " .. ply:GetName())
+                ply:ChatPrint("[Netricsa] New enemy scanned: " .. aliasKey)
+            end
+        end
+
+        -- Скрываем подсказку
+        net.Start("Netricsa_HideScanPrompt")
+        net.Send(ply)
+    end)
+
+    -- Очистка при удалении NPC
     hook.Add("EntityRemoved", "Netricsa_CleanupScanned", function(ent)
-        if not IsValid(ent) or not ent:IsNPC() then return end
-        
+        if not IsValid(ent) then return end
+        if not (ent:IsNPC() or IsDrGBaseNPC(ent) or IsNextBot(ent)) then return end
+
         local npcID = ent:EntIndex()
-        
-        -- Удаляем из таблицы сканированных у всех игроков
         for playerID, scanned in pairs(ScannedNPCs) do
             scanned[npcID] = nil
         end
@@ -1470,6 +1478,7 @@ end)
     hook.Add("PlayerDisconnected", "Netricsa_CleanupPlayerScans", function(ply)
         local playerID = ply:SteamID64()
         ScannedNPCs[playerID] = nil
+        lastPromptState[playerID] = nil
     end)
 
     -- 🔹 КОМАНДА ДЛЯ ПРИНУДИТЕЛЬНОГО ОБНОВЛЕНИЯ СТАТИСТИКИ
