@@ -1,7 +1,7 @@
-CERBERUS ATTACK DOG
+WHITE CERBERUS ATTACK DOG
 
 
-CLASS:      Cerberus Attack Dog
+CLASS:      White Cerberus Attack Dog
 METABOLIZM: Mammal
 PERCEPTION: Trained Attack Animal
 SIZE:       3,5 ft
@@ -28,6 +28,10 @@ Cerberus, like a small bull, rams the enemy. And when the enemy, repelled by the
 He is significantly more dangerous than any dog ​​on Earth, and his bite is far more painful. What else can you expect from a three-headed dog whose head is on fire?
 
 However, like most of Mental's minions, he is as stupid as a pile of bricks. Kill them from afar or lure them in and suddenly shoot him in the face with a double-barreled shotgun.
+
+As you may have noticed from its color, it belongs to Mental's secret "Purge Guard" program. This elite initiative also includes other key types of Minions that have undergone extensive genetic augmentation.
+
+The white coloration is the result of the integration of nano-alloys and chemical tissue sterilization. These specimens possess enhanced durability and a more aggressive temperament, serving as Mental's personal enforcers on the most difficult sectors of the front.
 
 TIPS:
 

@@ -1197,6 +1197,8 @@ end)
         ["npc_vj_ss2_worm"] = true,
         ["npc_vj_ss2_jackoverse_robo_cyborg"] = true,
         ["npc_vj_ss2_jackoverse_longju_ironclad"] = true,
+        ["npc_vj_ss2_jackoverse_kleer_god"] = true,
+        ["npc_turok_giganotosaurus_2006"] = true,
     }
 
 local function AnnounceSpecialNPC(ent)
