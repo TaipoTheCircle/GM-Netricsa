@@ -1,7 +1,7 @@
-ZOMBIE MACHINE GUNNER, COMMANDO
+ZOMBIE MACHINE GUNNER IN GREEN T-SHIRT, COMMANDO
 
 
-CLASS:      Zombie Machine Gunner, Commando
+CLASS:      Zombie Machine Gunner In Green T-Shirt, Commando
 METABOLISM: Demonized Undead
 PERCEPTION: Zombie Soldier
 SIZE:       11,5 ft
@@ -20,6 +20,10 @@ The Arachnoids were too large, cumbersome, and slow to use en masse. Mental then
 These zombies are former marines who underwent a complex demonic transformation ritual. Unlike regular zombies, which are simply possessed by demons, the commandos were completely remade, becoming something between human and abyssal.
 
 They still retain the remnants of their military uniform: camouflage pants and a distinctive green German helmet.
+
+The green T-shirt is no mere coincidence, either. Before their demonic transformation, these soldiers wore it as part of the standard uniform for Marines serving under the UAC corporation.
+
+Following the transformation, most of their gear and clothing was lost or altered; however, the T-shirt remained, serving as one of the few visible reminders of the Commando's human past.
 
 The best way to deal with them is to NOT rush headlong into their fire.
 
