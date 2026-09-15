@@ -1,28 +1,28 @@
-RED T-MECH, MAJOR
+T-MECH ROUGE (MAJEUR)
 
 
-CLASS:      Red T-Mech, Major
-METABOLISM: Endothermous Cyborg
-PERCEPTION: Trained War Beast
-SIZE:       36 ft
-ENDURANCE:  Very High
-HOSTILITY:  Very High
-WEAPONS:    Rocket Launchers
-REWARD:     500 FC
-THREAT:     Extreme
+CLASSE:      T-Mech rouge (Majeur)
+MÉTABOLISME: Cyborg endotherme
+PERCEPTION:  Bête de guerre entraînée
+TAILLE:      11 mètres (36 pieds)
+ENDURANCE:   Très élevée
+HOSTILITÉ:   Très élevée
+ARMEMENT:    Lance-roquettes
+RÉCOMPENSE:  500 FC
+MENACE:      Extrême
 
-DESCRIPTIF :
+DESCRIPTION :
 
-He is the son of the red biomechanoid. After Sam killed the latter, the mechanosaur swore to kill our savior.
+Il est le fils du biomécanoïde rouge. Après que Sam a tué ce dernier, le mécanosaure a juré de tuer notre sauveur.
 
-The red coloration of its snout is no accident. It is an inherited trait from the red biomechanoid lineage from which it originated. This characteristic was preserved in the biomechanical tissue during the creation of the Mechanosaur, which is why its snout retained that distinctive bright red color.
+La coloration rouge de son museau n'est pas le fruit du hasard. C'est un trait hérité de la lignée des biomécanoïdes rouges dont il est issu. Cette caractéristique a été préservée dans les tissus biomécaniques lors de la création du mécanosaure ; c'est pourquoi son museau a conservé cette couleur rouge vif caractéristique.
 
-T-Mechs - A cigar-chomping, chicken-legged Tyrannosaurus rex. Heavily armored. Armed with two rocket launchers.
+T-Mech : un Tyrannosaurus rex aux pattes de poulet, un cigare au bec. Lourdement blindé. Équipé de deux lance-roquettes.
 
-T-Mechs are the next-generation Biomechanoids - although not much is different in their combat role, it is the scientific advancements that are impressive. Previously, biomechanoids were genetically programmed robots whose weapons were connected directly to their nerval systems. They didn't truly think for themselves, it was basically their reflex. T-Mechs, however, are capable of semi-cohesive thoughts and decide themselves when they wish to attack. This knowledge can be used to improve many of Mental's old biomechanical models.
+Les T-Mechs représentent la nouvelle génération de biomécanoïdes ; bien que leur rôle au combat n'ait guère changé, ce sont les avancées scientifiques qui impressionnent. Auparavant, les biomécanoïdes étaient des robots génétiquement programmés dont les armes étaient directement reliées à leur système nerveux. Ils ne pensaient pas vraiment par eux-mêmes ; ils agissaient essentiellement par réflexe. Les T-Mechs, en revanche, sont capables de pensées semi-cohérentes et décident eux-mêmes du moment de l'attaque. Ces connaissances peuvent servir à améliorer bon nombre des anciens modèles biomécaniques de Mental.
 
-Like major biomechanoids, T-Mechs will fire two missiles against their targets. However, they are half-dinosaur, which makes them all the more intimidating. They even inspired Sirian directors to make a new film, "Primordial Park". It has been broken box office records ever since its release.
+Tout comme les biomécanoïdes majeurs, les T-Mechs tirent deux missiles sur leurs cibles. Cependant, leur nature mi-dinosaure les rend d'autant plus intimidants. Ils ont même inspiré aux réalisateurs siriens un nouveau film, « Primordial Park », qui bat des records au box-office depuis sa sortie.
 
-TIPS:
+CONSEILS :
 
-- Their missiles are amongst the most powerful you will encounter in Mental's Horde - avoid them or shoot them down.
+- Leurs missiles comptent parmi les plus puissants que vous rencontrerez dans la Horde de Mental : évitez-les ou abattez-les en vol.

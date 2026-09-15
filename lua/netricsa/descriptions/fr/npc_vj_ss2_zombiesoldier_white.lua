@@ -1,35 +1,35 @@
-ZOMBIE MACHINE GUNNER IN GREEN T-SHIRT, COMMANDO
+ZOMBIE MITRAILLEUR EN T-SHIRT VERT (COMMANDO)
 
 
-CLASS:      Zombie Machine Gunner In Green T-Shirt, Commando
-METABOLISM: Demonized Undead
-PERCEPTION: Zombie Soldier
-SIZE:       11,5 ft
-ENDURANCE:  Average
-HOSTILITY:  High
-WEAPONS:    Minigun
-REWARD:     150 FC
-THREAT:     High
+CLASSE:      Zombie mitrailleur en T-shirt vert (Commando)
+MÉTABOLISME: Mort-vivant démonisé
+PERCEPTION:  Soldat zombie
+TAILLE:      3,5 m (11,5 pieds)
+ENDURANCE:   Moyenne
+HOSTILITÉ:   Élevée
+ARMES:       Minigun
+RÉCOMPENSE:  150 FC
+MENACE:      Élevée
 
-DESCRIPTIF :
+DESCRIPTION :
 
-After seeing how effectively demon-led zombies destroyed entire hordes of infantry with miniguns, Mental decided to incorporate these soldiers into his arsenal.
+Après avoir constaté l'efficacité avec laquelle des zombies dirigés par des démons anéantissaient des hordes entières d'infanterie à l'aide de miniguns, Mental a décidé d'intégrer ces soldats à son arsenal.
 
-The Arachnoids were too large, cumbersome, and slow to use en masse. Mental then formed an alliance with the Lord of Hell, who lent him several species, including these creatures.
+Les Arachnoïdes étaient trop imposants, encombrants et lents pour être déployés en masse. Mental a alors noué une alliance avec le Seigneur des Enfers, qui lui a prêté plusieurs espèces, dont ces créatures.
 
-These zombies are former marines who underwent a complex demonic transformation ritual. Unlike regular zombies, which are simply possessed by demons, the commandos were completely remade, becoming something between human and abyssal.
+Ces zombies sont d'anciens Marines ayant subi un rituel complexe de transformation démoniaque. Contrairement aux zombies ordinaires, simplement possédés par des démons, ces commandos ont été entièrement remodelés, devenant des hybrides entre l'humain et l'abyssal.
 
-They still retain the remnants of their military uniform: camouflage pants and a distinctive green German helmet.
+Ils conservent des vestiges de leur uniforme militaire : un pantalon de camouflage et un casque allemand vert caractéristique.
 
-The green T-shirt is no mere coincidence, either. Before their demonic transformation, these soldiers wore it as part of the standard uniform for Marines serving under the UAC corporation.
+La présence du T-shirt vert n'est pas non plus un hasard. Avant leur transformation démoniaque, ces soldats le portaient dans le cadre de l'uniforme réglementaire des Marines au service de la corporation UAC.
 
-Following the transformation, most of their gear and clothing was lost or altered; however, the T-shirt remained, serving as one of the few visible reminders of the Commando's human past.
+Après la transformation, la majeure partie de leur équipement et de leurs vêtements a disparu ou a été altérée ; le T-shirt, en revanche, a subsisté, constituant l'un des rares rappels visibles du passé humain du commando.
 
-The best way to deal with them is to NOT rush headlong into their fire.
+La meilleure façon de les affronter est de NE PAS foncer tête baissée sous leurs tirs.
 
-TIPS:
+CONSEILS :
 
-- Take cover from their fire; you might be tempted to use the "No Cover, One on One" approach, but using that tactic will more likely result in you ending up in a "No Cover, Dead" situation.
-- Their minigun is inaccurate at long range; the further away you are, the better.
-- Sniping from a distance is a great way to deal with them.
-- Flare gun shots to the head are a quick fix.
+- Mettez-vous à l'abri pour éviter leurs tirs ; vous pourriez être tenté d'adopter une approche « sans abri, en duel », mais cette tactique risque fort de vous conduire à une situation « sans abri, mort ».
+- Leur minigun manque de précision à longue portée ; plus vous êtes loin, mieux c'est.
+- Le tir de précision à distance est une excellente méthode pour les éliminer.
+- Un tir de pistolet de détresse dans la tête permet de les neutraliser rapidement.

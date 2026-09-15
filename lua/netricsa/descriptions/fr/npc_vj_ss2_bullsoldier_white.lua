@@ -1,32 +1,31 @@
 WHITE BULLSOLDIER
 
 
-CLASS:      White Bullsoldier
-METABOLISM: Mammalian
-PERCEPTION: Trained Soldier
-SIZE:       12 ft
-ENDURANCE:  Medium
-HOSTILITY:  Medium
-WEAPONS:    Dual Rocket Launchers
-REWARD:     200 FC
-THREAT:     Medium
+CLASSE:      White Bullsoldier
+MÉTABOLISME: Mammalien
+PERCEPTION:  Soldat entraîné
+TAILLE:      3,6 m (12 pieds)
+ENDURANCE:   Moyenne
+HOSTILITÉ:   Moyenne
+ARMES:       Lance-roquettes doubles
+RÉCOMPENSE:  200 FC
+MENACE:      Moyenne
 
-DESCRIPTIF :
+DESCRIPTION :
 
-These are tall, muscular hybrids of Sirian cattle and humanoids. They tower over most other soldiers and can withstand quite a lot of blows before collapsing.
+Il s'agit d'hybrides grands et musclés, issus du croisement entre du bétail sirien et des humanoïdes. Ils dominent la plupart des autres soldats et peuvent encaisser de nombreux coups avant de s'effondrer.
 
-Their legs are not actually part of their own bodies, but are the legs of martial artists (after they were severed) sewn onto them.
+Leurs jambes ne font pas réellement partie de leur corps d'origine ; il s'agit de jambes d'arts martiaux (prélevées après amputation) qui leur ont été greffées.
 
-They have proven highly effective in combat, and Mental commanders have begun using them more frequently.
+Ils se sont révélés très efficaces au combat, et les commandants de Mental ont commencé à les utiliser plus fréquemment.
 
-They can often be seen in the rear or on top of tall structures, firing at enemies from afar. However, don't expect them to avoid close combat.
+On les aperçoit souvent à l'arrière ou au sommet de structures élevées, tirant sur les ennemis à distance. Toutefois, ne vous attendez pas à ce qu'ils évitent le corps à corps.
 
-As you may have noticed from its color, it belongs to Mental's secret "Purge Guard" program. This elite initiative also includes other key types of Minions that have undergone extensive genetic augmentation.
+Comme vous l'avez sans doute remarqué à sa couleur, cette unité appartient au programme secret de Mental baptisé « Purge Guard ». Cette initiative d'élite inclut également d'autres types de sbires clés ayant bénéficié d'améliorations génétiques poussées.
 
-The white coloration is the result of the integration of nano-alloys and chemical tissue sterilization. These specimens possess enhanced durability and a more aggressive temperament, serving as Mental's personal enforcers on the most difficult sectors of the front.
+Cette coloration blanche résulte de l'intégration de nano-alliages et d'une stérilisation chimique des tissus. Ces spécimens possèdent une résistance accrue et un tempérament plus agressif ; ils agissent comme les hommes de main personnels de Mental sur les secteurs les plus difficiles du front.
 
-TIPS:
+CONSEILS :
 
-- You can shoot down their missiles.
-- Try not to let their missiles hit you in the face, it will be very painful.
-
+- Vous pouvez détruire leurs missiles en tirant dessus.
+- Évitez de vous faire toucher le visage par leurs missiles ; l'impact serait très douloureux.

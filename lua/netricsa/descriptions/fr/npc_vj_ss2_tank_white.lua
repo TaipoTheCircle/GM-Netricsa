@@ -1,30 +1,30 @@
-WHITE BIOMECHANOID BULLTANK, SERGEANT
+BULLTANK BIOMÉCANOÏDE BLANC, SERGENT
 
 
-CLASS:      White Biomechanoid BullTank, Sergeant
-METABOLISM: Endothermous Cyborg
-PERCEPTION: Cybernetically Enhanced
-SIZE:       10 ft
-ENDURANCE:  Medium
-HOSTILITY:  High
-WEAPONS:    Pulse Cannons
-REWARD:     200 FC
-THREAT:     Medium
+CLASSE:      BullTank biomécanoïde blanc, Sergent
+MÉTABOLISME: Cyborg endotherme
+PERCEPTION:  Augmentée par cybernétique
+TAILLE:      3 mètres (10 pieds)
+ENDURANCE:   Moyenne
+HOSTILITÉ:   Élevée
+ARMES:       Canons à impulsions
+RÉCOMPENSE:  200 FC
+MENACE:      Moyenne
 
-DESCRIPTIF :
+DESCRIPTION :
 
-Following the successful creation of Biomechanoid Walkers, Mental tasked its scientists with finding a way to convert existing troops into biomechanoids, so that they may continue to serve Mental even after suffering grievous wounds. The result was the Biomechanoid Tank.
+Après la création réussie des Marcheurs biomécanoïdes, Mental a chargé ses scientifiques de trouver un moyen de transformer les troupes existantes en biomécanoïdes, afin qu'elles puissent continuer à le servir même après avoir subi de graves blessures. Le résultat fut le Char biomécanoïde (BullTank).
 
-Bullsoldiers that have been incapacitated in battle have their damaged body parts amputated, and cybernetic augmentations are surgically implanted in their place. The body is then connected to a tank chassis capable of traversing most forms of terrain, making them highly versatile.
+Les Bullsoldiers mis hors de combat voient leurs membres endommagés amputés et remplacés par des augmentations cybernétiques implantées chirurgicalement. Le corps est ensuite relié à un châssis de char capable de traverser la plupart des types de terrain, ce qui les rend extrêmement polyvalents.
 
-Sergeants are designed to suppress enemy infantry on the battlefield. Their hands have been replaced with pulse cannons that fire bursts of laser beams.
+Les Sergents sont conçus pour neutraliser l'infanterie ennemie sur le champ de bataille. Leurs mains ont été remplacées par des canons à impulsions tirant des rafales de rayons laser.
 
-As you may have noticed from its color, it belongs to Mental's secret "Purge Guard" program. This elite initiative also includes other key types of Minions that have undergone extensive genetic augmentation.
+Comme vous l'avez sans doute remarqué à sa couleur, cette unité appartient au programme secret de Mental : la « Purge Guard ». Cette initiative d'élite inclut également d'autres types de serviteurs clés ayant subi d'importantes augmentations génétiques.
 
-The white coloration is the result of the integration of nano-alloys and chemical tissue sterilization. These specimens possess enhanced durability and a more aggressive temperament, serving as Mental's personal enforcers on the most difficult sectors of the front.
+Cette coloration blanche résulte de l'intégration de nano-alliages et d'une stérilisation chimique des tissus. Ces spécimens possèdent une résistance accrue et un tempérament plus agressif ; ils agissent comme les agents d'exécution personnels de Mental dans les secteurs les plus difficiles du front.
 
-TIPS:
+CONSEILS :
 
-- Dodge their laser beams by side stepping.
-- The closer they are, the higher the threat they pose - keep your distance.
-- Use the Sniper Rifle or explosives to take them out quickly.
+- Esquivez leurs tirs laser en vous déplaçant latéralement.
+- Plus ils sont proches, plus ils représentent une menace : gardez vos distances.
+- Utilisez le fusil de précision ou des explosifs pour les éliminer rapidement.

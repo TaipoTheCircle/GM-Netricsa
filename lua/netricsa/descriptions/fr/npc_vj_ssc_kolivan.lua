@@ -1,27 +1,27 @@
-KOLYVAN, A MERCHANT-SCHEMESTER FROM ANCIENT KIEVAN RUS
+KOLYVAN, LE MARCHAND INTRIGANT DE LA RUS' DE KIEV
 
 
-CLASS:      Kolyvan, A Merchant-Schemer
-METABOLISM: Human, Male
-PERCEPTION: Merchant, Adventurer, Agent Of Mental
-SIZE:       10 ft 
-ENDURANCE:  Low
-HOSTILITY:  Average
-ARMES : ruse, invocation de taureaux-garous, lance-roquettes
-REWARD:     2200 FC
-THREAT:     Average
+CLASSE:      Kolyvan, marchand intrigant
+NATURE:      Humain, mâle
+PROFILS:     Marchand, aventurier, agent de Mental
+TAILLE:      3 mètres (10 pieds)
+ENDURANCE:   Faible
+HOSTILITÉ:   Moyenne
+ARMES:       Ruse, invocation de taureaux-garous, lance-roquettes
+RÉCOMPENSE:  2200 FC
+MENACE:      Moyenne
 
-DESCRIPTIF :
+DESCRIPTION :
 
-Kolyvan is a noble and wealthy merchant from the times of Kievan Rus, a man who managed to lose literally everything, including himself. In yet another gambling gamble, he put his own freedom on the line-and, of course, lost. His opponent was Mental. Thus, Kolyvan became part of Mental's Horde, the first merchant in history to sell his soul directly.
+Kolyvan est un riche marchand noble issu de l'époque de la Rus' de Kiev ; un homme qui a réussi à tout perdre, y compris lui-même. Lors d'un énième pari, il a mis sa propre liberté en jeu et, bien entendu, a perdu. Son adversaire n'était autre que Mental. C'est ainsi que Kolyvan a rejoint la Horde de Mental, devenant le premier marchand de l'histoire à vendre directement son âme.
 
-While retaining his outward appearance-his height, plumpness, long-sleeved green robes, red boots, and cap-Kolyvan's inner being changed little. Greed, cunning, and cowardice remained, but now reinforced by an alien power. As a reward for his service, Mental endowed him with rocket launchers and the ability to summon two Sirian werebulls. This ability is activated strictly by a voice command, pronounced with particular pathos:
+Bien qu'il ait conservé son apparence extérieure — sa grande taille, sa corpulence, sa robe verte à manches longues, ses bottes rouges et sa toque — sa nature profonde a peu changé. L'avidité, la ruse et la lâcheté sont toujours présentes, mais désormais renforcées par une puissance extraterrestre. En récompense de ses services, Mental l'a doté de lance-roquettes et de la capacité d'invoquer deux taureaux-garous siriens. Cette capacité ne s'active que par une commande vocale, prononcée avec un pathos particulier :
 
-"And now, Hunchback!"
+« Et maintenant, le Bossu ! »
 
-Mental promised Kolyvan a generous reward: for his assistance in eliminating Sam Stone, Mental would assist in the massacre of the other heroes. This prospect warms Kolyvan's merchant heart more than gold, for he values ​​personal scores almost as highly as profit.
+Mental a promis à Kolyvan une récompense généreuse : en échange de son aide pour éliminer Sam Stone, Mental l'aiderait à massacrer les autres héros. Cette perspective réchauffe le cœur de marchand de Kolyvan bien plus que l'or, car il accorde autant d'importance aux règlements de comptes personnels qu'au profit.
 
-ADVICE:
+CONSEILS :
 
-- Heard the phrase about Hunchback? Get ready for the bulls.
-- Avenge everyone who owed him 40 thousand.
+- Vous avez entendu la phrase sur le Bossu ? Préparez-vous à affronter les taureaux.
+- Vengez tous ceux à qui il devait 40 000.
