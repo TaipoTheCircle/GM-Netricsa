@@ -1,41 +1,41 @@
-WHITE CERBERUS ATTACK DOG
+CHIEN D'ATTAQUE CERBÈRE BLANC
 
 
-CLASS:      White Cerberus Attack Dog
-METABOLIZM: Mammal
-PERCEPTION: Trained Attack Animal
-SIZE:       3,5 ft
-ENDURANCE:  Medium
-HOSTILITY:  High
-WEAPONS:    Bite
-REWARD:     150 FC
-THREAT:     Medium
+CLASSE:      Chien d'attaque Cerbère blanc
+MÉTABOLISME: Mammifère
+PERCEPTION:  Animal d'attaque dressé
+TAILLE:      1,07 m (3,5 pieds)
+ENDURANCE:   Moyenne
+HOSTILITÉ:   Élevée
+ARMES:       Morsure
+RÉCOMPENSE:  150 FC
+MENACE:      Moyenne
 
-DESCRIPTIF :
+DESCRIPTION:
 
-This is a three-headed, aggressive Attack Dog used to guard Mental's bases or accompany hunters on their hunting trips.
+Il s'agit d'un chien d'attaque agressif à trois têtes, utilisé pour garder les bases de Mental ou accompagner les chasseurs lors de leurs expéditions.
 
-Cerberus was created thanks to Mental's unhealthy interest in Greek mythology. After Mental found some free time, he rushed to create a three-headed dog – Cerberus.
+Le Cerbère a été créé grâce à l'intérêt malsain de Mental pour la mythologie grecque. Dès qu'il a eu un moment de libre, Mental s'est empressé de créer un chien à trois têtes : le Cerbère.
 
-But after the new animal was born, unexpected problems arose: the brain in each head ordered different tasks from the rest of the body.
+Cependant, après la naissance de l'animal, des problèmes inattendus sont apparus : le cerveau de chaque tête ordonnait des actions différentes au reste du corps.
 
-Ultimately, the dog posed no danger, merely a treasured "beanbag" in Mental's life, as the conflict between the heads interfered with his primary goal-pain and anger. Therefore, the cunning creator chose to remove the brains from all the heads altogether.
+En fin de compte, le chien ne représentait aucun danger ; il n'était qu'un simple « pouf » de compagnie pour Mental, car le conflit entre les têtes entravait son objectif premier : semer la douleur et la colère. Le créateur rusé a donc décidé de retirer purement et simplement les cerveaux de toutes les têtes.
 
-And to ensure the little beast wouldn't go to waste, it was instinctively instilled with a simple task: attack anything that moves (note, "anything" is You).
+Pour éviter de gaspiller la petite bête, on lui a inculqué par instinct une tâche simple : attaquer tout ce qui bouge (sachant que « tout ce qui bouge », c'est vous).
 
-Cerberus, like a small bull, rams the enemy. And when the enemy, repelled by the dog, comes to its senses, all three of the creature's heads try to tear off a tasty morsel.
+Tel un petit taureau, le Cerbère fonce sur l'ennemi. Et lorsque ce dernier, repoussé par le choc, reprend ses esprits, les trois têtes de la créature tentent chacune d'en arracher un morceau savoureux.
 
-He is significantly more dangerous than any dog ​​on Earth, and his bite is far more painful. What else can you expect from a three-headed dog whose head is on fire?
+Il est bien plus dangereux que n'importe quel chien terrestre, et sa morsure est bien plus douloureuse. Que peut-on attendre d'autre d'un chien à trois têtes dont les têtes sont en feu ?
 
-However, like most of Mental's minions, he is as stupid as a pile of bricks. Kill them from afar or lure them in and suddenly shoot him in the face with a double-barreled shotgun.
+Cependant, comme la plupart des sbires de Mental, il est d'une stupidité crasse. Éliminez-le à distance ou attirez-le vers vous pour lui tirer soudainement en pleine face avec un fusil à double canon.
 
-As you may have noticed from its color, it belongs to Mental's secret "Purge Guard" program. This elite initiative also includes other key types of Minions that have undergone extensive genetic augmentation.
+Comme vous l'avez sans doute remarqué à sa couleur, il fait partie du programme secret de Mental baptisé « Purge Guard ». Cette initiative d'élite inclut également d'autres types de sbires clés ayant subi d'importantes modifications génétiques.
 
-The white coloration is the result of the integration of nano-alloys and chemical tissue sterilization. These specimens possess enhanced durability and a more aggressive temperament, serving as Mental's personal enforcers on the most difficult sectors of the front.
+Sa robe blanche résulte de l'intégration de nano-alliages et d'une stérilisation chimique des tissus. Ces spécimens sont plus résistants et d'un tempérament plus agressif ; ils agissent comme les hommes de main personnels de Mental sur les secteurs les plus difficiles du front.
 
-TIPS:
+CONSEILS :
 
-- Avoid his attacks by dodging to the side or jumping.
-- Use the double-barreled shotgun at close range to take out small groups.
-- Use a rapid-fire weapon to take out larger groups from a distance.
-- Explosives are very effective against him, as long as he's not too close.
+- Évitez ses attaques en effectuant une esquive latérale ou en sautant.
+- Utilisez le fusil à double canon à courte portée pour éliminer les petits groupes.
+- Utilisez une arme à tir rapide pour éliminer les groupes plus importants à distance.
+- Les explosifs sont très efficaces contre lui, à condition qu'il ne soit pas trop près.

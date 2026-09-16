@@ -1,29 +1,29 @@
-AMERICAN ORC FOOTBALLER, YELLOW RED FROM THE ORAZIO
+JOUEUR DE FOOTBALL AMÉRICAIN ORC (ÉQUIPE ROUGE)
 
 
-CLASS:      American Orc Footballer, Red Team
-METABOLISM: Mammal
-PERCEPTION: Professional Athlete
-SIZE:       12 ft
-ENDURANCE:  Average
-HOSTILITY:  High
-WEAPONS:    Soccer Ball (Explosive), Battering Ram
-REWARD:     200 FC
-THREAT:     High
+CLASSE:      Joueur de football américain orc, équipe rouge
+MÉTABOLISME: Mammifère
+PERCEPTION:  Athlète professionnel
+TAILLE:      3,6 m (12 pieds)
+ENDURANCE:   Moyenne
+HOSTILITÉ:   Élevée
+ARMES:       Ballon de football (explosif), bélier
+RÉCOMPENSE:  200 FC
+MENACE:      Élevée
 
-DESCRIPTIF :
+DESCRIPTION :
 
-Some orcs were too large and physically brutal to be drafted into Mental's infantry corps. Instead, they were recruited by the Sirius Athletic Association. Unsurprisingly, most of their games end in brutal fights.
+Certains orcs étaient trop imposants et brutaux physiquement pour être enrôlés dans l'infanterie de Mental. Ils ont donc été recrutés par la Sirius Athletic Association. Sans surprise, la plupart de leurs matchs se terminent par des bagarres violentes.
 
-They are actually clones of the orc John A.J. Dibaggio, the worst football player of all time. He was so bad that he never kicked a ball, just ran with it. However, the ladies loved him, so he stayed. His career ended when he caught the defenders running with his wife and killed them.
+Il s'agit en réalité de clones de l'orc John A.J. Dibaggio, le pire joueur de football de tous les temps. Il était si mauvais qu'il ne tapait jamais dans le ballon, se contentant de courir avec. Cependant, les femmes l'adoraient, ce qui lui a permis de rester. Sa carrière a pris fin lorsqu'il a surpris des défenseurs en train de s'enfuir avec sa femme et les a tués.
 
-After a lengthy trial and irrefutable evidence against him, he was found not guilty. Several years later, it was revealed that some of the jurors had been bribed by Mental, who liked him very much and couldn't stand the thought of one of his heroes going to prison.
+Après un long procès et face à des preuves irréfutables, il a été déclaré non coupable. Quelques années plus tard, on a appris que certains jurés avaient été soudoyés par Mental ; ce dernier l'appréciait beaucoup et ne supportait pas l'idée que l'un de ses héros aille en prison.
 
-Rumor has it that he can be found on Sirius, where he trains Mental's sons in football.
+La rumeur court qu'on peut le trouver sur Sirius, où il entraîne les fils de Mental au football.
 
-Despite being too rough for regular infantry, some commanders still hire Footballers. However, they don't give them specific orders—they simply let them do what they want. They pursue targets and try to score or throw explosive footballs at them.
+Bien qu'ils soient trop brutaux pour l'infanterie classique, certains commandants engagent tout de même ces joueurs. Toutefois, ils ne leur donnent pas d'ordres précis : ils les laissent simplement faire ce qu'ils veulent. Ils poursuivent leurs cibles et tentent soit de marquer, soit de leur lancer des ballons explosifs.
 
-TIPS:
+CONSEILS :
 
-- Their balls explode on impact, but they can be knocked down in mid-air.
-- Try to kill them from a distance; their attacks are difficult to dodge at close range.
+- Leurs ballons explosent à l'impact, mais il est possible de les abattre en plein vol.
+- Essayez de les éliminer à distance ; leurs attaques sont difficiles à esquiver au corps à corps.

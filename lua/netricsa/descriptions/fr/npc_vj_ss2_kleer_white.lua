@@ -1,30 +1,30 @@
-KLEER SKELETON, WHITE
+SQUELETTE KLEER, BLANC
 
 
-CLASS:      Kleer Skeleton, White
-METABOLISM: Undead
-PERCEPTION: Magical Creature
-SIZE:       9 ft
-ENDURANCE:  Low
-HOSTILITY:  Medium
-WEAPONS:    Two-Ball Projectiles, Claws, Horns
-REWARD:     100 FC
-THREAT:     Medium
+CLASSE:      Squelette Kleer, blanc
+MÉTABOLISME: Mort-vivant
+PERCEPTION: Créature magique
+TAILLE:      2,7 m (9 pieds)
+ENDURANCE:   Faible
+HOSTILITÉ:   Moyenne
+ARMES:       Projectiles à deux sphères, griffes, cornes
+RÉCOMPENSE:  100 FC
+MENACE:      Moyenne
 
-DESCRIPTIF :
+DESCRIPTION:
 
-An undead skeleton of a being from an extinct race from the planet Kleer, of Alpha Canis Majoris. It has long sharp claws on its hands and a long tail.
+Le squelette réanimé d'un être issu d'une race éteinte de la planète Kleer (système Alpha Canis Majoris). Il est doté de longues griffes acérées aux mains ainsi que d'une longue queue.
 
-They either attack by conjuring projectiles, slashing with their claws from melee range or leaping towards their foe when in close range.
+Ils attaquent soit en invoquant des projectiles, soit en lacérant leurs ennemis au corps à corps, soit en bondissant sur eux lorsqu'ils sont à courte portée.
 
-These particular ones were raised from the grave recently. You can tell by the color of their bones and the lack of smelling like 5000 years of ash.
+Ces spécimens précis ont été réanimés récemment. On le devine à la couleur de leurs os et à l'absence de cette odeur caractéristique de 5 000 ans de cendres.
 
-As you may have noticed from its color, it belongs to Mental's secret "Purge Guard" program. This elite initiative also includes other key types of Minions that have undergone extensive genetic augmentation.
+Comme sa couleur vous l'a sans doute indiqué, il appartient au programme secret de Mental baptisé « Purge Guard ». Cette initiative d'élite inclut également d'autres types de serviteurs clés ayant subi d'importantes augmentations génétiques.
 
-The white coloration is the result of the integration of nano-alloys and chemical tissue sterilization. These specimens possess enhanced durability and a more aggressive temperament, serving as Mental's personal enforcers on the most difficult sectors of the front.
+Cette coloration blanche résulte de l'intégration de nano-alliages et d'une stérilisation chimique des tissus. Ces spécimens possèdent une résistance accrue et un tempérament plus agressif ; ils servent d'hommes de main personnels à Mental dans les secteurs les plus difficiles du front.
 
-TIPS:
+CONSEILS:
 
-- Their leap and ranged attacks are best avoided by side-stepping.
-- A double-barrel shotgun blast to the face will take them out.
-- The minigun is your best friend and their worst nightmare.
+- Il vaut mieux esquiver leurs bonds et leurs attaques à distance en se déplaçant latéralement.
+- Une décharge de fusil à double canon en plein visage en viendra à bout.
+- Le minigun est votre meilleur allié et leur pire cauchemar.

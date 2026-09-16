@@ -1,24 +1,24 @@
-BIOMECHANOID SPIDER, THE MOMMY FROM THE MAGNOR
+ARAIGNÉE BIOMÉCANOÏDE : LA « MAMAN » DE MAGNOR
 
 
-CLASS:       Biomechanoid Spider, The Mommy
-METABOLISM:  Endothermic Cyborg
-PERCEPTION:  Genetically Programmed
-SIZE:        51 ft
-ENDURANCE:   High
-HOSTILITY:   High
-WEAPONS:     Bite, Acid Spit
-REWARD:      750 FC
-THREAT:      High
+CLASSE:       Araignée biomécanoïde (La « Maman »)
+MÉTABOLISME:  Cyborg endotherme
+PERCEPTION:   Génétiquement programmée
+TAILLE:       15,5 m (51 pieds)
+ENDURANCE:    Élevée
+HOSTILITÉ:    Élevée
+ARMES:        Morsure, jet d'acide
+RÉCOMPENSE:   750 FC
+MENACE:       Élevée
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Mental makes extensive use of spiders in his armies, particularly the Antares variety. Seeking to take his collection of giant spiders to the next level, he began creating a new breed-half-biological, half-cybernetic. Thus, after countless mutations, genetic engineering, scientist casualties, and shed tears in the lab, the Biomechanoid Spider was born.
+Mental fait largement appel aux araignées dans ses armées, en particulier à la variété originaire d'Antares. Souhaitant passer à la vitesse supérieure avec sa collection d'araignées géantes, il a entrepris de créer une nouvelle race hybride, mi-biologique, mi-cybernétique. C'est ainsi qu'après d'innombrables mutations, manipulations génétiques, pertes humaines parmi les scientifiques et larmes versées en laboratoire, l'araignée biomécanoïde a vu le jour.
 
-The The Mommies are significantly larger, tougher, and more dangerous than the Hatchlings. They lumber toward you while spitting acid projectiles. Try not to get hit by them.
+Ces « Mamans » sont nettement plus grandes, plus résistantes et plus dangereuses que les « Petites ». Elles avancent lourdement vers vous tout en crachant des projectiles d'acide. Évitez absolument de vous faire toucher.
 
-TIPS:
+CONSEILS:
 
-- A few cannonballs are your quickest way to destroy them-unless you have a Serious Bomb.
-- Your next best option is a barrage of explosives.
-- Don't get close. Just don't. This is one spider you can't squash with your boot.
+- Quelques boulets de canon constituent le moyen le plus rapide de les détruire, à moins que vous ne disposiez d'une « Serious Bomb ».
+- Votre meilleure alternative consiste à les pilonner avec des explosifs.
+- Ne vous approchez pas. Surtout pas. Ce n'est pas le genre d'araignée que l'on peut écraser sous sa botte.
