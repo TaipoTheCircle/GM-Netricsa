@@ -73,146 +73,146 @@ local SPECIAL_BODYGROUP_OVERRIDES = {
     
     -- Eyeman Female (обычный)
     ["npc_vj_ssc_eyeman_female"] = {
-        { group = 0, value = 0 },  -- studio = 0 (нет крыльев)
-        { group = 1, value = 0 },  -- morph = 0 (есть ноги)
+{ group = 0, value = 0 },  -- studio = 0 (нет крыльев)
+{ group = 1, value = 0 },  -- morph = 0 (есть ноги)
     },
     ["npc_vj_ssc_eyeman_female_flying"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
     ["npc_vj_ssc_eyeman_female_flying_and_invisible"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
     ["npc_vj_ssc_eyeman_female_invisible"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
     
     -- Eyeman Male (обычный)
     ["npc_vj_ssc_eyeman_male"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
     ["npc_vj_ssc_eyeman_male_flying"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
     ["npc_vj_ssc_eyeman_male_flying_and_invisible"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
     ["npc_vj_ssc_eyeman_male_invisible"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
 
     -- Eyeman Lava (лавовый самец)
     ["npc_vj_ssc_eyeman_lava"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
     ["npc_vj_ssc_eyeman_lava_flying"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
     ["npc_vj_ssc_eyeman_lava_flying_and_invisible"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
     ["npc_vj_ssc_eyeman_lava_invisible"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
 
     -- Eyeman Tropic Male
     ["npc_vj_ssc_eyeman_tropic_male"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
     ["npc_vj_ssc_eyeman_tropic_male_flying"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
     ["npc_vj_ssc_eyeman_tropic_male_flying_and_invisible"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
     ["npc_vj_ssc_eyeman_tropic_male_invisible"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
 
     -- Eyeman Tropic Female
     ["npc_vj_ssc_eyeman_tropic_female"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
     ["npc_vj_ssc_eyeman_tropic_female_flying"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
     ["npc_vj_ssc_eyeman_tropic_female_flying_and_invisible"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
     ["npc_vj_ssc_eyeman_tropic_female_invisible"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
 
     -- Eyeman Shaman Female
     ["npc_vj_ssc_eyeman_shaman_female"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
     ["npc_vj_ssc_eyeman_shaman_female_flying"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
     ["npc_vj_ssc_eyeman_shaman_female_flying_and_invisible"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
     ["npc_vj_ssc_eyeman_shaman_female_invisible"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
 
     -- Eyeman Primitive Male
     ["npc_vj_ssc_eyeman_primitive_male"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
     ["npc_vj_ssc_eyeman_primitive_male_flying"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
     ["npc_vj_ssc_eyeman_primitive_male_flying_and_invisible"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
     ["npc_vj_ssc_eyeman_primitive_male_invisible"] = {
-        { group = 0, value = 0 },
-        { group = 1, value = 0 },
+{ group = 0, value = 0 },
+{ group = 1, value = 0 },
     },
-        ["npc_vj_ss2_turret_machinegun"] = {
-        { group = 0, value = 0 },  -- Turret (основа)
-        { group = 1, value = 0 },  -- Rotate mechanism (механизм поворота)
-        { group = 2, value = 0 },  -- Engine (двигатель)
-        { group = 3, value = 0 },  -- Parts (детали)
-        { group = 4, value = 0 },  -- Chair (сиденье)
-        { group = 5, value = 0 },  -- Guns (пушки)
-        { group = 6, value = 0 },  -- Oil (масло/детали)
+["npc_vj_ss2_turret_machinegun"] = {
+{ group = 0, value = 0 },  -- Turret (основа)
+{ group = 1, value = 0 },  -- Rotate mechanism (механизм поворота)
+{ group = 2, value = 0 },  -- Engine (двигатель)
+{ group = 3, value = 0 },  -- Parts (детали)
+{ group = 4, value = 0 },  -- Chair (сиденье)
+{ group = 5, value = 0 },  -- Guns (пушки)
+{ group = 6, value = 0 },  -- Oil (масло/детали)
     },
     ["npc_vj_ss2_turret_plasma"] = {
-        { group = 0, value = 0 },  -- Turret
-        { group = 1, value = 0 },  -- Rotate mechanism
-        { group = 2, value = 0 },  -- Engine
-        { group = 3, value = 0 },  -- Parts
-        { group = 4, value = 0 },  -- Chair
-        { group = 5, value = 0 },  -- Guns
-        { group = 6, value = 0 },  -- Oil
+{ group = 0, value = 0 },  -- Turret
+{ group = 1, value = 0 },  -- Rotate mechanism
+{ group = 2, value = 0 },  -- Engine
+{ group = 3, value = 0 },  -- Parts
+{ group = 4, value = 0 },  -- Chair
+{ group = 5, value = 0 },  -- Guns
+{ group = 6, value = 0 },  -- Oil
     },
 }
 
@@ -220,66 +220,66 @@ local SPECIAL_BODYGROUP_OVERRIDES = {
 
     -- 🔹 ФУНКЦИИ АЛИАСОВ
     local function GetNPCAlias(npcClass)
-        if not npcClass then return npcClass end
-        return NPC_ALIASES[npcClass] or npcClass
+if not npcClass then return npcClass end
+return NPC_ALIASES[npcClass] or npcClass
     end
 
 local function IsAliasAlreadyTracked(npcClass)
     local alias = GetNPCAlias(npcClass)
     for trackedClass, _ in pairs(TrackedEnemies or {}) do
-        if GetNPCAlias(trackedClass) == alias then
-            return true
-        end
+if GetNPCAlias(trackedClass) == alias then
+    return true
+end
     end
     return false
 end
 
     local function GetSpecialBodygroups(npcClass)
-        return SPECIAL_BODYGROUP_OVERRIDES[npcClass] or {}
+return SPECIAL_BODYGROUP_OVERRIDES[npcClass] or {}
     end
 
     -- 🔹 ФУНКЦИЯ ПОЛУЧЕНИЯ ДАННЫХ NPC
     local function GetNetricsaNPCData(npc)
-        if not IsValid(npc) then return nil end
-        
-        local data = {
-            class = npc:GetClass(),
-            mdl = npc:GetModel() or "",
-            skin = npc:GetSkin() or 0,
-            bodygroups = {},
-            color = {r = 255, g = 255, b = 255, a = 255},
-            rendermode = 0,
-            renderfx = 0,
-            material = "",
-            nodraw = false,
-            scale = 1
-        }
-        
-        -- Получаем bodygroup
-        local numBGs = npc:GetNumBodyGroups() or 0
-        for i = 0, numBGs - 1 do
-            data.bodygroups[i+1] = npc:GetBodygroup(i) or 0
-        end
-        
-        -- Получаем цвет
-        if npc.GetRenderColor then
-            local r, g, b, a = npc:GetRenderColor()
-            data.color = {r = r or 255, g = g or 255, b = b or 255, a = a or 255}
-        else
-            local col = npc:GetColor()
-            if col and type(col) == "table" and col.r then
-                data.color = {r = col.r, g = col.g, b = col.b, a = col.a}
-            end
-        end
-        
-        -- Остальные параметры
-        data.rendermode = npc:GetRenderMode() or 0
-        data.renderfx = npc:GetRenderFX() or 0
-        data.material = npc:GetMaterial() or ""
-        data.nodraw = npc:GetNoDraw() or false
-        data.scale = npc:GetModelScale() or 1
-        
-        return data
+if not IsValid(npc) then return nil end
+
+local data = {
+    class = npc:GetClass(),
+    mdl = npc:GetModel() or "",
+    skin = npc:GetSkin() or 0,
+    bodygroups = {},
+    color = {r = 255, g = 255, b = 255, a = 255},
+    rendermode = 0,
+    renderfx = 0,
+    material = "",
+    nodraw = false,
+    scale = 1
+}
+
+-- Получаем bodygroup
+local numBGs = npc:GetNumBodyGroups() or 0
+for i = 0, numBGs - 1 do
+    data.bodygroups[i+1] = npc:GetBodygroup(i) or 0
+end
+
+-- Получаем цвет
+if npc.GetRenderColor then
+    local r, g, b, a = npc:GetRenderColor()
+    data.color = {r = r or 255, g = g or 255, b = b or 255, a = a or 255}
+else
+    local col = npc:GetColor()
+    if col and type(col) == "table" and col.r then
+data.color = {r = col.r, g = col.g, b = col.b, a = col.a}
+    end
+end
+
+-- Остальные параметры
+data.rendermode = npc:GetRenderMode() or 0
+data.renderfx = npc:GetRenderFX() or 0
+data.material = npc:GetMaterial() or ""
+data.nodraw = npc:GetNoDraw() or false
+data.scale = npc:GetModelScale() or 1
+
+return data
     end
 
 -- 🔹 [ДОБАВИТЬ] Функция получения данных DrGBase NPC
@@ -287,33 +287,33 @@ local function GetDrGBaseData(ent)
     if not IsValid(ent) then return nil end
     
     local data = {
-        class = ent:GetClass(),
-        mdl = ent:GetModel() or "",
-        skin = ent:GetSkin() or 0,
-        bodygroups = {},
-        color = {r = 255, g = 255, b = 255, a = 255},
-        rendermode = 0,
-        renderfx = 0,
-        material = "",
-        nodraw = false,
-        scale = 1
+class = ent:GetClass(),
+mdl = ent:GetModel() or "",
+skin = ent:GetSkin() or 0,
+bodygroups = {},
+color = {r = 255, g = 255, b = 255, a = 255},
+rendermode = 0,
+renderfx = 0,
+material = "",
+nodraw = false,
+scale = 1
     }
     
     -- Получаем bodygroup
     local numBGs = ent:GetNumBodyGroups() or 0
     for i = 0, numBGs - 1 do
-        data.bodygroups[i+1] = ent:GetBodygroup(i) or 0
+data.bodygroups[i+1] = ent:GetBodygroup(i) or 0
     end
     
     -- Получаем цвет
     if ent.GetRenderColor then
-        local r, g, b, a = ent:GetRenderColor()
-        data.color = {r = r or 255, g = g or 255, b = b or 255, a = a or 255}
+local r, g, b, a = ent:GetRenderColor()
+data.color = {r = r or 255, g = g or 255, b = b or 255, a = a or 255}
     else
-        local col = ent:GetColor()
-        if col and type(col) == "table" and col.r then
-            data.color = {r = col.r, g = col.g, b = col.b, a = col.a}
-        end
+local col = ent:GetColor()
+if col and type(col) == "table" and col.r then
+    data.color = {r = col.r, g = col.g, b = col.b, a = col.a}
+end
     end
     
     data.rendermode = ent:GetRenderMode() or 0
@@ -327,249 +327,255 @@ end
 
 concommand.Add("netricsa_debug_send", function(ply, cmd, args)
     if not args or #args == 0 then
-        print("Usage: netricsa_debug_send <npc_class>")
-        return
+print("Usage: netricsa_debug_send <npc_class>")
+return
     end
     
     local npcClass = args[1]
     for _, ent in ipairs(ents.GetAll()) do
-        if IsValid(ent) and ent:GetClass() == npcClass then
-            print("=== DEBUG SEND FOR " .. npcClass .. " ===")
-            
-            -- Получаем данные
-            local npcData = GetNetricsaNPCData(ent)
-            if npcData then
-                print("Original bodygroups:")
-                for i, bg in ipairs(npcData.bodygroups) do
-                    print("  Group " .. (i-1) .. " = " .. bg)
-                end
-                
-                -- Применяем специальные
-                local specialBGs = GetSpecialBodygroups(npcClass)
-                print("Special bodygroups to apply:")
-                for _, bg in ipairs(specialBGs) do
-                    print("  Group " .. bg.group .. " = " .. bg.value)
-                end
-                
-                -- Результат
-                print("Result bodygroups:")
-                for i, bg in ipairs(npcData.bodygroups) do
-                    print("  Group " .. (i-1) .. " = " .. bg)
-                end
-            end
-            
-            print("===================================")
-            break
-        end
+if IsValid(ent) and ent:GetClass() == npcClass then
+    print("=== DEBUG SEND FOR " .. npcClass .. " ===")
+    
+    -- Получаем данные
+    local npcData = GetNetricsaNPCData(ent)
+    if npcData then
+print("Original bodygroups:")
+for i, bg in ipairs(npcData.bodygroups) do
+    print("  Group " .. (i-1) .. " = " .. bg)
+end
+
+-- Применяем специальные
+local specialBGs = GetSpecialBodygroups(npcClass)
+print("Special bodygroups to apply:")
+for _, bg in ipairs(specialBGs) do
+    print("  Group " .. bg.group .. " = " .. bg.value)
+end
+
+-- Результат
+print("Result bodygroups:")
+for i, bg in ipairs(npcData.bodygroups) do
+    print("  Group " .. (i-1) .. " = " .. bg)
+end
+    end
+    
+    print("===================================")
+    break
+end
     end
 end)
     
     -- 🔹 ФУНКЦИЯ ОТПРАВКИ NPC В КЛИЕНТ
     local function SendNPCToClient(npcClass, npcData, aliasKey, ply)
-        if not npcData then return end
-        
-        -- Получаем bodygroup с учётом специальных настроек
-        local bodygroups = npcData.bodygroups or {}
-        local specialBGs = GetSpecialBodygroups(npcClass)
-        
-        -- Применяем специальные bodygroup
-        for _, bg in ipairs(specialBGs) do
-            if bg.group < #bodygroups then
-                bodygroups[bg.group + 1] = bg.value
-                print("[Netricsa] Applied special bodygroup for " .. npcClass .. 
-                      ": group " .. bg.group .. " = " .. bg.value)
-            end
-        end
+if not npcData then return end
 
-        net.Start("Netricsa_AddEnemy")
-            net.WriteString(npcClass)
-            net.WriteString(npcData.mdl or "")
-            net.WriteUInt(npcData.skin or 0, 8)
-            net.WriteUInt(#bodygroups, 8)
-            for _, bg in ipairs(bodygroups) do
-                net.WriteUInt(bg or 0, 8)
-            end
-            -- Визуальные данные
-            net.WriteUInt(npcData.color.r or 255, 8)
-            net.WriteUInt(npcData.color.g or 255, 8)
-            net.WriteUInt(npcData.color.b or 255, 8)
-            net.WriteUInt(npcData.color.a or 255, 8)
-            net.WriteUInt(npcData.rendermode or 0, 8)
-            net.WriteUInt(npcData.renderfx or 0, 8)
-            net.WriteString(npcData.material or "")
-            net.WriteBool(npcData.nodraw or false)
-            net.WriteFloat(npcData.scale or 1)
-            -- 🔹 ОТПРАВЛЯЕМ АЛИАС
-            net.WriteString(aliasKey or npcClass)
-        if ply then
-            net.Send(ply)
-        else
-            net.Broadcast()
-        end
+-- Получаем bodygroup с учётом специальных настроек
+local bodygroups = npcData.bodygroups or {}
+local specialBGs = GetSpecialBodygroups(npcClass)
+
+-- Применяем специальные bodygroup
+for _, bg in ipairs(specialBGs) do
+    if bg.group < #bodygroups then
+bodygroups[bg.group + 1] = bg.value
+print("[Netricsa] Applied special bodygroup for " .. npcClass .. 
+      ": group " .. bg.group .. " = " .. bg.value)
+    end
+end
+
+net.Start("Netricsa_AddEnemy")
+    net.WriteString(npcClass)
+    net.WriteString(npcData.mdl or "")
+    net.WriteUInt(npcData.skin or 0, 8)
+    net.WriteUInt(#bodygroups, 8)
+    for _, bg in ipairs(bodygroups) do
+net.WriteUInt(bg or 0, 8)
+    end
+    -- Визуальные данные
+    net.WriteUInt(npcData.color.r or 255, 8)
+    net.WriteUInt(npcData.color.g or 255, 8)
+    net.WriteUInt(npcData.color.b or 255, 8)
+    net.WriteUInt(npcData.color.a or 255, 8)
+    net.WriteUInt(npcData.rendermode or 0, 8)
+    net.WriteUInt(npcData.renderfx or 0, 8)
+    net.WriteString(npcData.material or "")
+    net.WriteBool(npcData.nodraw or false)
+    net.WriteFloat(npcData.scale or 1)
+    -- 🔹 ОТПРАВЛЯЕМ АЛИАС
+    net.WriteString(aliasKey or npcClass)
+if ply then
+    net.Send(ply)
+else
+    net.Broadcast()
+end
     end
 
     -- 🔹 ТАБЛИЦА ДРУЖЕСТВЕННЫХ NPC
-    local FRIENDLY_NPCS = { 
-        ["npc_citizen"] = true,
-        ["npc_monk"] = true,
-        ["npc_alyx"] = true,
-        ["npc_barney"] = true,
-        ["npc_dog"] = true,
-        ["npc_magnusson"] = true,
-        ["npc_breen"] = true,
-        ["npc_eli"] = true,
-        ["generic_actor"] = true,
-        ["monster_generic"] = true,
-        ["cycler_actor"] = true,
-        ["#npc_sightgman"] = true,
-        ["npc_sightgman"] = true,
-        ["npc_vj_hlr1a_scientist"] = true,
-        ["npc_vj_hlr1a_securityguard"] = true,
-        ["npc_vj_hlrof_cleansuitsci"] = true,
-        ["npc_vj_hlrdc_keller"] = true,
-        ["npc_vj_hlrbs_rosenberg"] = true,
-        ["npc_vj_hlr1_gman"] = true,
-        ["npc_vj_hlrof_otis"] = true,
-        ["npc_vj_hlr1_scientist"] = true,
-        ["npc_vj_hlr1a_probedroid"] = true,
-        ["npc_vj_hlr1_rat"] = true,
-        ["npc_vj_hlr1_securityguard"] = true,
-        ["sent_vj_xen_spore_large"] = true,
-        ["sent_vj_xen_spore_medium"] = true,
-        ["sent_vj_xen_spore_small"] = true,
-        ["sent_vj_xen_plant_light"] = true,
-        ["sent_vj_xen_hair"] = true,
-        ["sent_vj_xen_crystal"] = true,
-        ["npc_vj_hlr1_xen_tree"] = true,
-        ["monster_cockroach"] = true,
-        ["npc_mossman"] = true,
-        ["monster_scientist"] = true,
-        ["monster_barney"] = true,
-        ["npc_fisherman"] = true,
-        ["npc_kleiner"] = true,
-        ["monster_gman"] = true,
-        ["npc_gman"] = true,
-        ["monster_hgrunt_dead_2"] = true,
-        ["monster_hgrunt_dead_1"] = true,
-        ["monster_hgrunt_dead_3"] = true,
-        ["monster_hevsuit_dead_1"] = true,
-        ["monster_hevsuit_dead_3"] = true,
-        ["monster_hevsuit_dead_4"] = true,
-        ["monster_hevsuit_dead_2"] = true,
-        ["monster_barney_dead_1"] = true,
-        ["monster_barney_dead_2"] = true,
-        ["monster_barney_dead_3"] = true,
-        ["monster_barney_dead_4"] = true,
-        ["monster_barney_dead_5"] = true,
-        ["monster_barney_dead_6"] = true,
-        ["monster_barney_dead_7"] = true,
-        ["monster_scientist_dead_7"] = true,
-        ["monster_scientist_dead_6"] = true,
-        ["monster_scientist_dead_5"] = true,
-        ["monster_scientist_dead_4"] = true,
-        ["monster_scientist_dead_1"] = true,
-        ["monster_scientist_dead_2"] = true,
-        ["monster_scientist_dead_3"] = true,
-        ["xen_hair"] = true,
-        ["xen_plantlight"] = true,
-        ["xen_spore_large"] = true,
-        ["xen_spore_medium"] = true,
-        ["xen_spore_small"] = true,
-        ["xen_tree"] = true,
-        ["npc_vj_hlr2_alyx"] = true,
-        ["npc_vj_hlr2_barney"] = true,
-        ["npc_vj_hlr2_citizen"] = true,
-        ["npc_vj_hlr2_father_grigori"] = true,
-        ["npc_vj_hlr2b_merkava"] = true,
-        ["npc_vj_hlr2_rebel"] = true,
-        ["npc_vj_hlr2_rebel_engineer"] = true,
-        ["npc_vj_hlr2_refugee"] = true,
-        ["npc_vortigaunt"] = true,
-        ["obj_ss3_spider_egg"] = true,
-        ["npc_vj_hlrdc_xen_tree"] = true,
-        ["npc_vj_ss2_turret_machinegun"] = true,
-        ["npc_vj_ss2_rollerball_player"] = true,
-        ["npc_bullseye"] = true,
-        ["obj_vj_bullseye"] = true,
-        ["npc_vj_hl3_rebel3"] = true,
-        ["sent_vj_mag"] = true,
-        ["npc_vj_hl3_odell"] = true,
-        ["npc_vj_hl3_rebel2"] = true,
-        ["npc_vj_hl3_rebel"] = true,
-        ["npc_vj_hl3_Kleiner"] = true,
-        ["npc_vj_hl3_mag"] = true,
-        ["npc_vj_hl2_alex"] = true,
-        ["npc_vj_hl2_barney"] = true,
-        ["npc_vj_hl2_Citizen"] = true,
-        ["npc_vj_hl2_Citizen2"] = true,
-        ["npc_vj_hl2_dog"] = true,
-        ["sent_vj_mossman"] = true,
-        ["sent_vj_eli"] = true,
-        ["sent_vj_Kleiner"] = true,
-        ["npc_vj_hl2_grisha"] = true,
-        ["npc_vj_hl2_fisherman"] = true,
-        ["npc_vj_hl2_gman"] = true,
-        ["npc_vj_hl2_medic"] = true,
-        ["npc_vj_hl2_odessa"] = true,
-        ["npc_vj_hl2_rebel"] = true,
-        ["npc_vj_hl2_rebel3"] = true,
-        ["npc_vj_hl2_Refugee"] = true,
-        ["npc_vj_hl2_Refugee2"] = true,
-        ["npc_lambdaplayer"] = true,
-        ["npc_vj_hlrbfr_seller"] = true,
-        ["npc_vj_hl3_alex"] = true,
-        ["npc_vj_hl3_barney"] = true,
-        ["npc_vj_hl3_shepard"] = true,
-        ["npc_vj_tactical_calhoun"] = true,
-        ["npc_vj_hl2_cmbofficer_F"] = true,
-        ["npc_vj_ct_calhoun"] = true,
-        ["npc_vj_hl2_loyalist_f"] = true,
-        ["monster_barney_hlaz"] = true,
-        ["monster_scientist_hlaz"] = true,
-        ["npc_turok_brachiosaurus"] = true,
-        ["npc_turok_hadrosaur"] = true,
-        ["npc_vj_ssc_custom_bighead_"] = true,
-        ["npc_vj_ss2_dino_s"] = true,
-        ["npc_vj_dragonguard"] = true,
-        ["npc_vj_imperial"] = true,
-        ["npc_vj_ob_guard"] = true,
-        ["npc_vj_palaceguard"] = true,
-        ["npc_vj_royalguard"] = true,
-        ["npc_vj_ss2_turret_plasma"] = true,
-        ["npc_vj_ss2_jackoverse_barbarian"] = true,
-        ["npc_vj_ss2_jackoverse_neanderthal"] = true,
-        ["npc_vj_ss2_jackoverse_dropship_alliance"] = true,
-        ["npc_vj_ss2_jackoverse_albino"] = true,
-    }
+local FRIENDLY_NPCS = { 
+["npc_citizen"] = true,
+["npc_monk"] = true,
+["npc_alyx"] = true,
+["npc_barney"] = true,
+["npc_dog"] = true,
+["npc_magnusson"] = true,
+["npc_breen"] = true,
+["npc_eli"] = true,
+["generic_actor"] = true,
+["monster_generic"] = true,
+["cycler_actor"] = true,
+["#npc_sightgman"] = true,
+["npc_sightgman"] = true,
+["npc_vj_hlr1a_scientist"] = true,
+["npc_vj_hlr1a_securityguard"] = true,
+["npc_vj_hlrof_cleansuitsci"] = true,
+["npc_vj_hlrdc_keller"] = true,
+["npc_vj_hlrbs_rosenberg"] = true,
+["npc_vj_hlr1_gman"] = true,
+["npc_vj_hlrof_otis"] = true,
+["npc_vj_hlr1_scientist"] = true,
+["npc_vj_hlr1a_probedroid"] = true,
+["npc_vj_hlr1_rat"] = true,
+["npc_vj_hlr1_securityguard"] = true,
+["sent_vj_xen_spore_large"] = true,
+["sent_vj_xen_spore_medium"] = true,
+["sent_vj_xen_spore_small"] = true,
+["sent_vj_xen_plant_light"] = true,
+["sent_vj_xen_hair"] = true,
+["sent_vj_xen_crystal"] = true,
+["npc_vj_hlr1_xen_tree"] = true,
+["monster_cockroach"] = true,
+["npc_mossman"] = true,
+["monster_scientist"] = true,
+["monster_barney"] = true,
+["npc_fisherman"] = true,
+["npc_kleiner"] = true,
+["monster_gman"] = true,
+["npc_gman"] = true,
+["monster_hgrunt_dead_2"] = true,
+["monster_hgrunt_dead_1"] = true,
+["monster_hgrunt_dead_3"] = true,
+["monster_hevsuit_dead_1"] = true,
+["monster_hevsuit_dead_3"] = true,
+["monster_hevsuit_dead_4"] = true,
+["monster_hevsuit_dead_2"] = true,
+["monster_barney_dead_1"] = true,
+["monster_barney_dead_2"] = true,
+["monster_barney_dead_3"] = true,
+["monster_barney_dead_4"] = true,
+["monster_barney_dead_5"] = true,
+["monster_barney_dead_6"] = true,
+["monster_barney_dead_7"] = true,
+["monster_scientist_dead_7"] = true,
+["monster_scientist_dead_6"] = true,
+["monster_scientist_dead_5"] = true,
+["monster_scientist_dead_4"] = true,
+["monster_scientist_dead_1"] = true,
+["monster_scientist_dead_2"] = true,
+["monster_scientist_dead_3"] = true,
+["xen_hair"] = true,
+["xen_plantlight"] = true,
+["xen_spore_large"] = true,
+["xen_spore_medium"] = true,
+["xen_spore_small"] = true,
+["xen_tree"] = true,
+["npc_vj_hlr2_alyx"] = true,
+["npc_vj_hlr2_barney"] = true,
+["npc_vj_hlr2_citizen"] = true,
+["npc_vj_hlr2_father_grigori"] = true,
+["npc_vj_hlr2b_merkava"] = true,
+["npc_vj_hlr2_rebel"] = true,
+["npc_vj_hlr2_rebel_engineer"] = true,
+["npc_vj_hlr2_refugee"] = true,
+["npc_vortigaunt"] = true,
+["obj_ss3_spider_egg"] = true,
+["npc_vj_hlrdc_xen_tree"] = true,
+["npc_vj_ss2_turret_machinegun"] = true,
+["npc_vj_ss2_rollerball_player"] = true,
+["npc_bullseye"] = true,
+["obj_vj_bullseye"] = true,
+["npc_vj_hl3_rebel3"] = true,
+["sent_vj_mag"] = true,
+["npc_vj_hl3_odell"] = true,
+["npc_vj_hl3_rebel2"] = true,
+["npc_vj_hl3_rebel"] = true,
+["npc_vj_hl3_Kleiner"] = true,
+["npc_vj_hl3_mag"] = true,
+["npc_vj_hl2_alex"] = true,
+["npc_vj_hl2_barney"] = true,
+["npc_vj_hl2_Citizen"] = true,
+["npc_vj_hl2_Citizen2"] = true,
+["npc_vj_hl2_dog"] = true,
+["sent_vj_mossman"] = true,
+["sent_vj_eli"] = true,
+["sent_vj_Kleiner"] = true,
+["npc_vj_hl2_grisha"] = true,
+["npc_vj_hl2_fisherman"] = true,
+["npc_vj_hl2_gman"] = true,
+["npc_vj_hl2_medic"] = true,
+["npc_vj_hl2_odessa"] = true,
+["npc_vj_hl2_rebel"] = true,
+["npc_vj_hl2_rebel3"] = true,
+["npc_vj_hl2_Refugee"] = true,
+["npc_vj_hl2_Refugee2"] = true,
+["npc_lambdaplayer"] = true,
+["npc_vj_hlrbfr_seller"] = true,
+["npc_vj_hl3_alex"] = true,
+["npc_vj_hl3_barney"] = true,
+["npc_vj_hl3_shepard"] = true,
+["npc_vj_tactical_calhoun"] = true,
+["npc_vj_hl2_cmbofficer_F"] = true,
+["npc_vj_ct_calhoun"] = true,
+["npc_vj_hl2_loyalist_f"] = true,
+["monster_barney_hlaz"] = true,
+["monster_scientist_hlaz"] = true,
+["npc_turok_brachiosaurus"] = true,
+["npc_turok_hadrosaur"] = true,
+["npc_vj_ssc_custom_bighead_"] = true,
+["npc_vj_ss2_dino_s"] = true,
+["npc_vj_dragonguard"] = true,
+["npc_vj_imperial"] = true,
+["npc_vj_ob_guard"] = true,
+["npc_vj_palaceguard"] = true,
+["npc_vj_royalguard"] = true,
+["npc_vj_ss2_turret_plasma"] = true,
+["npc_vj_ss2_jackoverse_barbarian"] = true,
+["npc_vj_ss2_jackoverse_neanderthal"] = true,
+["npc_vj_ss2_jackoverse_dropship_alliance"] = true,
+["npc_vj_ss2_jackoverse_albino"] = true,
+["npc_vj_hqr_victim"] = true,
+["npc_vj_hqr_blood_barney"] = true,
+["npc_vj_hqr_blood_barney_wounded"] = true,
+["npc_vj_hlr1a_ted"] = true,
+["npc_vj_hlr1a_ted_new"] = true,
+["npc_vj_ss2_jackoverse_kungfumaster"] = true,
+}
 
 -- 🔹 НОВАЯ ФУНКЦИЯ ДЛЯ ПРОВЕРКИ DRGBASE NPC
  local function IsDrGBaseNPC(npc)
-        if not IsValid(npc) then return false end
-        local npcClass = npc:GetClass()
-        local drgPrefixes = {"drg_", "drgbase_", "npc_drg_"}
-        for _, prefix in ipairs(drgPrefixes) do
-            if string.find(npcClass, prefix) then
-                return true
-            end
-        end
-        return npc.DrGBase or npc.drg or false
+if not IsValid(npc) then return false end
+local npcClass = npc:GetClass()
+local drgPrefixes = {"drg_", "drgbase_", "npc_drg_"}
+for _, prefix in ipairs(drgPrefixes) do
+    if string.find(npcClass, prefix) then
+return true
+    end
+end
+return npc.DrGBase or npc.drg or false
     end
 
     local function IsNextBot(ent)
-        if not IsValid(ent) then return false end
-        return ent.IsNextBot and ent:IsNextBot() or false
+if not IsValid(ent) then return false end
+return ent.IsNextBot and ent:IsNextBot() or false
     end
 
     local function IsEnemy(npc)
-        if not IsValid(npc) then return false end
-        local isNextBot = IsNextBot(npc)
-        local npcClass = npc:GetClass()
-        if IsDrGBaseNPC(npc) or isNextBot then
-            if FRIENDLY_NPCS[npcClass] then return false end
-            return true
-        end
-        if not npc:IsNPC() then return false end
-        return not FRIENDLY_NPCS[npcClass]
+if not IsValid(npc) then return false end
+local isNextBot = IsNextBot(npc)
+local npcClass = npc:GetClass()
+if IsDrGBaseNPC(npc) or isNextBot then
+    if FRIENDLY_NPCS[npcClass] then return false end
+    return true
+end
+if not npc:IsNPC() then return false end
+return not FRIENDLY_NPCS[npcClass]
     end
 
     -- 🔹 ФУНКЦИЯ ДЛЯ ПРОВЕРКИ VJ BASE NPC (ВКЛЮЧАЯ ТРАНСПОРТ)
@@ -581,12 +587,12 @@ local function IsVJBaseNPC(ent)
     
     -- VJ Base NPC обычно имеют префикс "npc_vj_"
     if string.find(class, "npc_vj_") then
-        return true
+return true
     end
     
     -- Проверяем наличие VJ Base методов
     if ent.VJ_IsNPC or ent.VJ_IsMonster then
-        return true
+return true
     end
     
     return false
@@ -604,18 +610,18 @@ local function BroadcastStats()
     -- Вычисляем максимальное количество врагов на карте (для клиента)
     local currentMaxEnemies = 0
     for _, data in pairs(trackedNPCs) do
-        if not data.killed then
-            currentMaxEnemies = currentMaxEnemies + 1
-        end
+if not data.killed then
+    currentMaxEnemies = currentMaxEnemies + 1
+end
     end
     -- Добавляем уже убитых к текущим живым для общего максимума
     local totalMaxEnemies = currentMaxEnemies + stats_kills
     
     net.Start("Netricsa_UpdateStats")
-        net.WriteUInt(math.min(stats_kills, 65535), 16)
-        net.WriteUInt(math.min(stats_totalEnemies, 65535), 16)
-        net.WriteFloat(stats_startTime)
-        net.WriteUInt(math.min(totalMaxEnemies, 65535), 16)  -- 🔹 НОВОЕ: отправляем максимальное количество
+net.WriteUInt(math.min(stats_kills, 65535), 16)
+net.WriteUInt(math.min(stats_totalEnemies, 65535), 16)
+net.WriteFloat(stats_startTime)
+net.WriteUInt(math.min(totalMaxEnemies, 65535), 16)  -- 🔹 НОВОЕ: отправляем максимальное количество
     net.Broadcast()
     
     print("[Netricsa] Stats broadcast: " .. stats_kills .. "/" .. stats_totalEnemies .. " (max: " .. totalMaxEnemies .. ", tracked: " .. table.Count(trackedNPCs) .. ")")
@@ -623,16 +629,16 @@ end
 
     -- 🔹 Функция для очистки невалидных NPC из трекинга
     local function CleanupInvalidNPCs()
-        local removed = 0
-        for id, data in pairs(trackedNPCs) do
-            if not IsValid(data.entity) then
-                trackedNPCs[id] = nil
-                removed = removed + 1
-            end
-        end
-        if removed > 0 then
-            print("[Netricsa] Cleaned up " .. removed .. " invalid NPCs from tracking")
-        end
+local removed = 0
+for id, data in pairs(trackedNPCs) do
+    if not IsValid(data.entity) then
+trackedNPCs[id] = nil
+removed = removed + 1
+    end
+end
+if removed > 0 then
+    print("[Netricsa] Cleaned up " .. removed .. " invalid NPCs from tracking")
+end
     end
 
 hook.Add("InitPostEntity", "Netricsa_StatsInit", function()
@@ -648,26 +654,26 @@ hook.Add("InitPostEntity", "Netricsa_StatsInit", function()
     print("[Netricsa] === SCANNING NPCs ===")
     
     for _, ent in ipairs(ents.GetAll()) do
-        if IsValid(ent) and (ent:IsNPC() or IsDrGBaseNPC(ent) or IsNextBot(ent) or IsVJBaseNPC(ent)) then
-            totalNPCs = totalNPCs + 1
-            local npcClass = ent:GetClass()
-            
-            if IsEnemy(ent) then
-                enemyNPCs = enemyNPCs + 1
-                local id = ent:EntIndex()
-                if not trackedNPCs[id] then
-                    trackedNPCs[id] = {
-                        entity = ent,
-                        killed = false
-                    }
-                    stats_totalEnemies = stats_totalEnemies + 1
-                end
-                print("[Netricsa] ENEMY: " .. npcClass)
-            else
-                friendlyNPCs = friendlyNPCs + 1
-                print("[Netricsa] FRIENDLY: " .. npcClass)
-            end
-        end
+if IsValid(ent) and (ent:IsNPC() or IsDrGBaseNPC(ent) or IsNextBot(ent) or IsVJBaseNPC(ent)) then
+    totalNPCs = totalNPCs + 1
+    local npcClass = ent:GetClass()
+    
+    if IsEnemy(ent) then
+enemyNPCs = enemyNPCs + 1
+local id = ent:EntIndex()
+if not trackedNPCs[id] then
+    trackedNPCs[id] = {
+entity = ent,
+killed = false
+    }
+    stats_totalEnemies = stats_totalEnemies + 1
+end
+print("[Netricsa] ENEMY: " .. npcClass)
+    else
+friendlyNPCs = friendlyNPCs + 1
+print("[Netricsa] FRIENDLY: " .. npcClass)
+    end
+end
     end
     
     -- 🔹 Устанавливаем максимальное количество врагов
@@ -688,24 +694,24 @@ end)
     -- NPC появился
 hook.Add("OnEntityCreated", "Netricsa_StatsOnSpawn", function(ent)
     timer.Simple(0.1, function()
-        if not IsValid(ent) then return end
-        
-        if ent:IsNPC() or IsDrGBaseNPC(ent) or IsNextBot(ent) or IsVJBaseNPC(ent) then
-            if IsEnemy(ent) then
-                local id = ent:EntIndex()
-                if not trackedNPCs[id] then
-                    trackedNPCs[id] = {
-                        entity = ent,
-                        killed = false
-                    }
-                    stats_totalEnemies = stats_totalEnemies + 1
-                    BroadcastStats()
-                    print("[Netricsa] SPAWNED ENEMY: " .. ent:GetClass() .. " -> " .. stats_totalEnemies)
-                end
-            else
-                print("[Netricsa] SPAWNED FRIENDLY: " .. ent:GetClass())
-            end
-        end
+if not IsValid(ent) then return end
+
+if ent:IsNPC() or IsDrGBaseNPC(ent) or IsNextBot(ent) or IsVJBaseNPC(ent) then
+    if IsEnemy(ent) then
+local id = ent:EntIndex()
+if not trackedNPCs[id] then
+    trackedNPCs[id] = {
+entity = ent,
+killed = false
+    }
+    stats_totalEnemies = stats_totalEnemies + 1
+    BroadcastStats()
+    print("[Netricsa] SPAWNED ENEMY: " .. ent:GetClass() .. " -> " .. stats_totalEnemies)
+end
+    else
+print("[Netricsa] SPAWNED FRIENDLY: " .. ent:GetClass())
+    end
+end
     end)
 end)
 
@@ -716,102 +722,102 @@ hook.Add("EntityTakeDamage", "Netricsa_SnapshotBeforeDeath", function(ent, dmg)
     if not IsValid(ent) then return end
     
     if not (ent:IsNPC() or IsDrGBaseNPC(ent) or IsNextBot(ent) or IsVJBaseNPC(ent)) then
-        return
+return
     end
     
     if ent.NetricsaSnapshot then return end
 
     if dmg:GetDamage() >= ent:Health() then
-        -- 🔹 СОЗДАЕМ СНАПШОТ С ТЕКУЩИМИ ПАРАМЕТРАМИ
-        local colorData = ent:GetColor()
-        local colorTable
-        
-        -- 🔹 Проверяем, есть ли у NPC свой метод для получения цвета
-        if ent.GetRenderColor then
-            -- 🔹 Для VJ NPC или кастомных NPC
-            local r, g, b, a = ent:GetRenderColor()
-            colorTable = {
-                r = r or 255,
-                g = g or 255,
-                b = b or 255,
-                a = a or 255
-            }
-        elseif colorData and type(colorData) == "table" and colorData.r then
-            -- 🔹 Стандартный метод
-            colorTable = {
-                r = colorData.r,
-                g = colorData.g,
-                b = colorData.b,
-                a = colorData.a
-            }
-        else
-            -- 🔹 Цвет по умолчанию
-            colorTable = {r = 255, g = 255, b = 255, a = 255}
-        end
-        
-        ent.NetricsaSnapshot = {
-            class = ent:GetClass(),
-            mdl = ent:GetModel() or "",
-            skin = ent:GetSkin() or 0,
+-- 🔹 СОЗДАЕМ СНАПШОТ С ТЕКУЩИМИ ПАРАМЕТРАМИ
+local colorData = ent:GetColor()
+local colorTable
 
-            bodygroups = (function()
-                local t = {}
-                for i = 0, ent:GetNumBodyGroups() - 1 do
-                    t[i + 1] = ent:GetBodygroup(i)
-                end
-                return t
-            end)(),
+-- 🔹 Проверяем, есть ли у NPC свой метод для получения цвета
+if ent.GetRenderColor then
+    -- 🔹 Для VJ NPC или кастомных NPC
+    local r, g, b, a = ent:GetRenderColor()
+    colorTable = {
+r = r or 255,
+g = g or 255,
+b = b or 255,
+a = a or 255
+    }
+elseif colorData and type(colorData) == "table" and colorData.r then
+    -- 🔹 Стандартный метод
+    colorTable = {
+r = colorData.r,
+g = colorData.g,
+b = colorData.b,
+a = colorData.a
+    }
+else
+    -- 🔹 Цвет по умолчанию
+    colorTable = {r = 255, g = 255, b = 255, a = 255}
+end
 
-            -- 🔥 ВАЖНО: Получаем текущие значения ПРЯМО СЕЙЧАС
-            color = colorTable,
-            rendermode = ent:GetRenderMode() or 0,
-            renderfx = ent:GetRenderFX() or 0,
-            material = ent:GetMaterial() or "",
-            nodraw = ent:GetNoDraw() or false,
-            scale = ent:GetModelScale() or 1
-        }
-        
-        -- 🔹 ОТЛАДКА: Выводим информацию о цвете
-        print("[Netricsa] Snapshot for " .. ent:GetClass() .. 
-              " - RenderMode: " .. tostring(ent:GetRenderMode()) ..
-              " - Color: " .. colorTable.r .. "," .. colorTable.g .. "," .. colorTable.b .. "," .. colorTable.a ..
-              " - Material: " .. tostring(ent:GetMaterial()))
+ent.NetricsaSnapshot = {
+    class = ent:GetClass(),
+    mdl = ent:GetModel() or "",
+    skin = ent:GetSkin() or 0,
+
+    bodygroups = (function()
+local t = {}
+for i = 0, ent:GetNumBodyGroups() - 1 do
+    t[i + 1] = ent:GetBodygroup(i)
+end
+return t
+    end)(),
+
+    -- 🔥 ВАЖНО: Получаем текущие значения ПРЯМО СЕЙЧАС
+    color = colorTable,
+    rendermode = ent:GetRenderMode() or 0,
+    renderfx = ent:GetRenderFX() or 0,
+    material = ent:GetMaterial() or "",
+    nodraw = ent:GetNoDraw() or false,
+    scale = ent:GetModelScale() or 1
+}
+
+-- 🔹 ОТЛАДКА: Выводим информацию о цвете
+print("[Netricsa] Snapshot for " .. ent:GetClass() .. 
+      " - RenderMode: " .. tostring(ent:GetRenderMode()) ..
+      " - Color: " .. colorTable.r .. "," .. colorTable.g .. "," .. colorTable.b .. "," .. colorTable.a ..
+      " - Material: " .. tostring(ent:GetMaterial()))
     end
 end)
 
 
 
     hook.Add("OnNPCKilled", "NetricsaTrackCombined", function(npc, attacker)
-        if not IsValid(npc) then return end
-        
-        local npcClass = npc:GetClass()
-        local aliasKey = GetNPCAlias(npcClass)
-        
-        if not IsAliasAlreadyTracked(npcClass) then
-            TrackedEnemies[npcClass] = true
-            local npcData = GetNetricsaNPCData(npc)
-            if npcData then
-                SendNPCToClient(npcClass, npcData, aliasKey, nil)
-                print("[Netricsa] Added NPC: " .. npcClass .. " (alias: " .. aliasKey .. ")")
-            end
-        end
-        
-        -- Отправка очков
-        if IsValid(attacker) and attacker:IsPlayer() then
-            net.Start("Netricsa_AddScoreForNPC")
-                net.WriteString(npcClass)
-            net.Send(attacker)
-        end
-        
-        -- Обновление статистики
-        if IsValid(attacker) and attacker:IsPlayer() then
-            local id = npc:EntIndex()
-            if trackedNPCs[id] and not trackedNPCs[id].killed then
-                trackedNPCs[id].killed = true
-                stats_kills = stats_kills + 1
-                BroadcastStats()
-            end
-        end
+if not IsValid(npc) then return end
+
+local npcClass = npc:GetClass()
+local aliasKey = GetNPCAlias(npcClass)
+
+if not IsAliasAlreadyTracked(npcClass) then
+    TrackedEnemies[npcClass] = true
+    local npcData = GetNetricsaNPCData(npc)
+    if npcData then
+SendNPCToClient(npcClass, npcData, aliasKey, nil)
+print("[Netricsa] Added NPC: " .. npcClass .. " (alias: " .. aliasKey .. ")")
+    end
+end
+
+-- Отправка очков
+if IsValid(attacker) and attacker:IsPlayer() then
+    net.Start("Netricsa_AddScoreForNPC")
+net.WriteString(npcClass)
+    net.Send(attacker)
+end
+
+-- Обновление статистики
+if IsValid(attacker) and attacker:IsPlayer() then
+    local id = npc:EntIndex()
+    if trackedNPCs[id] and not trackedNPCs[id].killed then
+trackedNPCs[id].killed = true
+stats_kills = stats_kills + 1
+BroadcastStats()
+    end
+end
     end)
 
 
@@ -820,34 +826,34 @@ concommand.Add("netricsa_scan_drgbase", function(ply, cmd, args)
     
     local scanned = 0
     for _, ent in ipairs(ents.GetAll()) do
-        if IsValid(ent) and IsDrGBaseNPC(ent) and not TrackedEnemies[ent:GetClass()] then
-            local data = GetDrGBaseData(ent)
-            data.class = ent:GetClass()
-            ent.NetricsaSnapshot = data
-            
-            TrackedEnemies[ent:GetClass()] = true
-            
-            net.Start("Netricsa_AddEnemy")
-                net.WriteString(data.class)
-                net.WriteString(data.mdl)
-                net.WriteUInt(data.skin, 8)
-                net.WriteUInt(#data.bodygroups, 8)
-                for _, bg in ipairs(data.bodygroups) do
-                    net.WriteUInt(bg, 8)
-                end
-                net.WriteUInt(data.color.r, 8)
-                net.WriteUInt(data.color.g, 8)
-                net.WriteUInt(data.color.b, 8)
-                net.WriteUInt(data.color.a, 8)
-                net.WriteUInt(data.rendermode, 8)
-                net.WriteUInt(data.renderfx, 8)
-                net.WriteString(data.material)
-                net.WriteBool(data.nodraw)
-                net.WriteFloat(data.scale)
-            net.Send(ply)
-            
-            scanned = scanned + 1
-        end
+if IsValid(ent) and IsDrGBaseNPC(ent) and not TrackedEnemies[ent:GetClass()] then
+    local data = GetDrGBaseData(ent)
+    data.class = ent:GetClass()
+    ent.NetricsaSnapshot = data
+    
+    TrackedEnemies[ent:GetClass()] = true
+    
+    net.Start("Netricsa_AddEnemy")
+net.WriteString(data.class)
+net.WriteString(data.mdl)
+net.WriteUInt(data.skin, 8)
+net.WriteUInt(#data.bodygroups, 8)
+for _, bg in ipairs(data.bodygroups) do
+    net.WriteUInt(bg, 8)
+end
+net.WriteUInt(data.color.r, 8)
+net.WriteUInt(data.color.g, 8)
+net.WriteUInt(data.color.b, 8)
+net.WriteUInt(data.color.a, 8)
+net.WriteUInt(data.rendermode, 8)
+net.WriteUInt(data.renderfx, 8)
+net.WriteString(data.material)
+net.WriteBool(data.nodraw)
+net.WriteFloat(data.scale)
+    net.Send(ply)
+    
+    scanned = scanned + 1
+end
     end
     
     print(string.format("[Netricsa] Scanned %d DrGBase NPCs for %s", scanned, ply:GetName()))
@@ -858,10 +864,10 @@ concommand.Add("netricsa_debug_drgbase", function(ply)
     print("=== DRGBASE NPC DEBUG ===")
     local drgCount = 0
     for _, ent in ipairs(ents.GetAll()) do
-        if IsDrGBaseNPC(ent) then
-            drgCount = drgCount + 1
-            print(string.format("  DrGBase: %s - Health: %d", ent:GetClass(), ent:Health()))
-        end
+if IsDrGBaseNPC(ent) then
+    drgCount = drgCount + 1
+    print(string.format("  DrGBase: %s - Health: %d", ent:GetClass(), ent:Health()))
+end
     end
     print(string.format("Total DrGBase NPCs: %d", drgCount))
     print("=========================")
@@ -875,330 +881,330 @@ hook.Add("EntityRemoved", "Netricsa_StatsOnRemove", function(ent)
     if not isNPC then return end
     
     if IsEnemy(ent) then
-        local id = ent:EntIndex()
-        if trackedNPCs[id] then
-            local wasKilled = trackedNPCs[id].killed
-            
-            if not wasKilled then
-                -- NPC удалён без убийства (деспавн)
-                stats_totalEnemies = math.max(0, stats_totalEnemies - 1)
-                
-                -- 🔹 ВАЖНО: Отправляем обновлённую статистику ВСЕМ клиентам
-                BroadcastStats()
-                
-                print("[Netricsa] REMOVED ENEMY (despawn): " .. ent:GetClass() .. " -> " .. stats_totalEnemies)
-            else
-                print("[Netricsa] REMOVED KILLED ENEMY: " .. ent:GetClass() .. " (no change)")
-            end
-            
-            trackedNPCs[id] = nil
-        else
-            -- Если NPC не был в трекинге, но должен быть врагом
-            if IsEnemy(ent) then
-                stats_totalEnemies = math.max(0, stats_totalEnemies - 1)
-                BroadcastStats()
-                print("[Netricsa] REMOVED UNTRACKED ENEMY (despawn): " .. ent:GetClass() .. " -> " .. stats_totalEnemies)
-            end
-        end
+local id = ent:EntIndex()
+if trackedNPCs[id] then
+    local wasKilled = trackedNPCs[id].killed
+    
+    if not wasKilled then
+-- NPC удалён без убийства (деспавн)
+stats_totalEnemies = math.max(0, stats_totalEnemies - 1)
+
+-- 🔹 ВАЖНО: Отправляем обновлённую статистику ВСЕМ клиентам
+BroadcastStats()
+
+print("[Netricsa] REMOVED ENEMY (despawn): " .. ent:GetClass() .. " -> " .. stats_totalEnemies)
+    else
+print("[Netricsa] REMOVED KILLED ENEMY: " .. ent:GetClass() .. " (no change)")
+    end
+    
+    trackedNPCs[id] = nil
+else
+    -- Если NPC не был в трекинге, но должен быть врагом
+    if IsEnemy(ent) then
+stats_totalEnemies = math.max(0, stats_totalEnemies - 1)
+BroadcastStats()
+print("[Netricsa] REMOVED UNTRACKED ENEMY (despawn): " .. ent:GetClass() .. " -> " .. stats_totalEnemies)
+    end
+end
     end
 end)
 
     -- 🔹 КОМАНДА ДЛЯ ПРОВЕРКИ ТЕКУЩЕГО СОСТОЯНИЯ
     concommand.Add("netricsa_check", function(ply)
-        local totalNPCs = 0
-        local enemyNPCs = 0
-        local friendlyNPCs = 0
-        local trackedCount = 0
-        local killedCount = 0
-        
-        for _, ent in ipairs(ents.GetAll()) do
-            if IsValid(ent) and ent:IsNPC() then
-                totalNPCs = totalNPCs + 1
-                if IsEnemy(ent) then
-                    enemyNPCs = enemyNPCs + 1
-                else
-                    friendlyNPCs = friendlyNPCs + 1
-                end
-            end
-        end
-        
-        -- Считаем трекнутые NPC
-        for id, data in pairs(trackedNPCs) do
-            trackedCount = trackedCount + 1
-            if data.killed then
-                killedCount = killedCount + 1
-            end
-        end
-        
-        print("=== NETRICSA CHECK ===")
-        print("Stats: " .. stats_kills .. "/" .. stats_totalEnemies)
-        print("Tracked - Total: " .. trackedCount .. ", Killed: " .. killedCount)
-        print("Current NPCs - Total: " .. totalNPCs)
-        print("Current NPCs - Enemies: " .. enemyNPCs) 
-        print("Current NPCs - Friendly: " .. friendlyNPCs)
-        print("==============================")
+local totalNPCs = 0
+local enemyNPCs = 0
+local friendlyNPCs = 0
+local trackedCount = 0
+local killedCount = 0
+
+for _, ent in ipairs(ents.GetAll()) do
+    if IsValid(ent) and ent:IsNPC() then
+totalNPCs = totalNPCs + 1
+if IsEnemy(ent) then
+    enemyNPCs = enemyNPCs + 1
+else
+    friendlyNPCs = friendlyNPCs + 1
+end
+    end
+end
+
+-- Считаем трекнутые NPC
+for id, data in pairs(trackedNPCs) do
+    trackedCount = trackedCount + 1
+    if data.killed then
+killedCount = killedCount + 1
+    end
+end
+
+print("=== NETRICSA CHECK ===")
+print("Stats: " .. stats_kills .. "/" .. stats_totalEnemies)
+print("Tracked - Total: " .. trackedCount .. ", Killed: " .. killedCount)
+print("Current NPCs - Total: " .. totalNPCs)
+print("Current NPCs - Enemies: " .. enemyNPCs) 
+print("Current NPCs - Friendly: " .. friendlyNPCs)
+print("==============================")
     end)
 
     -- 🔹 КОМАНДА ДЛЯ ПОЛНОГО СБРОСА
     concommand.Add("netricsa_hard_reset", function(ply)
-        if not ply:IsAdmin() then return end
-        print("[Netricsa] HARD RESET by admin")
-        
-        stats_kills = 0
-        stats_totalEnemies = 0
-        stats_startTime = CurTime()
-        trackedNPCs = {}
-        
-        -- Пересчитываем текущих NPC
-        for _, ent in ipairs(ents.GetAll()) do
-            if IsValid(ent) and ent:IsNPC() and IsEnemy(ent) then
-                local id = ent:EntIndex()
-                if not trackedNPCs[id] then
-                    trackedNPCs[id] = {
-                        entity = ent,
-                        killed = false
-                    }
-                    stats_totalEnemies = stats_totalEnemies + 1
-                end
-            end
-        end
-        
-        BroadcastStats()
-        print("[Netricsa] Hard reset complete")
+if not ply:IsAdmin() then return end
+print("[Netricsa] HARD RESET by admin")
+
+stats_kills = 0
+stats_totalEnemies = 0
+stats_startTime = CurTime()
+trackedNPCs = {}
+
+-- Пересчитываем текущих NPC
+for _, ent in ipairs(ents.GetAll()) do
+    if IsValid(ent) and ent:IsNPC() and IsEnemy(ent) then
+local id = ent:EntIndex()
+if not trackedNPCs[id] then
+    trackedNPCs[id] = {
+entity = ent,
+killed = false
+    }
+    stats_totalEnemies = stats_totalEnemies + 1
+end
+    end
+end
+
+BroadcastStats()
+print("[Netricsa] Hard reset complete")
     end)
 
     -- 🔹 КОМАНДА ДЛЯ СИНХРОНИЗАЦИИ С ТЕКУЩИМИ NPC
     concommand.Add("netricsa_sync", function(ply)
-        if not ply:IsAdmin() then return end
-        
-        print("[Netricsa] Syncing with current NPCs...")
-        local newTotal = 0
-        local newTracked = {}
-        
-        -- Собираем текущих вражеских NPC
-        for _, ent in ipairs(ents.GetAll()) do
-            if IsValid(ent) and ent:IsNPC() and IsEnemy(ent) then
-                local id = ent:EntIndex()
-                local wasKilled = trackedNPCs[id] and trackedNPCs[id].killed or false
-                
-                newTracked[id] = {
-                    entity = ent,
-                    killed = wasKilled
-                }
-                newTotal = newTotal + 1
-                
-                if not wasKilled then
-                    print("[Netricsa] Added live enemy to sync: " .. ent:GetClass())
-                else
-                    print("[Netricsa] Added killed enemy to sync: " .. ent:GetClass())
-                end
-            end
-        end
-        
-        -- Обновляем статистику
-        trackedNPCs = newTracked
-        stats_totalEnemies = newTotal
-        
-        BroadcastStats()
-        print("[Netricsa] Sync complete. Total enemies: " .. newTotal)
+if not ply:IsAdmin() then return end
+
+print("[Netricsa] Syncing with current NPCs...")
+local newTotal = 0
+local newTracked = {}
+
+-- Собираем текущих вражеских NPC
+for _, ent in ipairs(ents.GetAll()) do
+    if IsValid(ent) and ent:IsNPC() and IsEnemy(ent) then
+local id = ent:EntIndex()
+local wasKilled = trackedNPCs[id] and trackedNPCs[id].killed or false
+
+newTracked[id] = {
+    entity = ent,
+    killed = wasKilled
+}
+newTotal = newTotal + 1
+
+if not wasKilled then
+    print("[Netricsa] Added live enemy to sync: " .. ent:GetClass())
+else
+    print("[Netricsa] Added killed enemy to sync: " .. ent:GetClass())
+end
+    end
+end
+
+-- Обновляем статистику
+trackedNPCs = newTracked
+stats_totalEnemies = newTotal
+
+BroadcastStats()
+print("[Netricsa] Sync complete. Total enemies: " .. newTotal)
     end)
 
     -- Остальной код для трекинга врагов и оружия...
 
     -- Отслеживание оружия
     hook.Add("PlayerSpawnedSWEP", "NetricsaTrackWeapon", function(ply, wep)
-        if not IsValid(wep) then return end
+if not IsValid(wep) then return end
 
-        net.Start("Netricsa_AddWeapon")
-            net.WriteString(wep:GetClass())
-        net.Broadcast()
+net.Start("Netricsa_AddWeapon")
+    net.WriteString(wep:GetClass())
+net.Broadcast()
     end)
 
     -- Отслеживание ПОДБОРА оружия игроком
     hook.Add("WeaponEquip", "NetricsaTrackPickupWeapon", function(wep, ply)
-        if not IsValid(wep) or not IsValid(ply) or not wep:GetClass() then return end
+if not IsValid(wep) or not IsValid(ply) or not wep:GetClass() then return end
 
-        net.Start("Netricsa_AddWeapon")
-            net.WriteString(wep:GetClass())
-            net.WriteString(wep:GetModel() or "models/weapons/w_pistol.mdl")
-        net.Send(ply) -- только тому, кто подобрал
+net.Start("Netricsa_AddWeapon")
+    net.WriteString(wep:GetClass())
+    net.WriteString(wep:GetModel() or "models/weapons/w_pistol.mdl")
+net.Send(ply) -- только тому, кто подобрал
     end)
 
     -- Специальные NPC
     hook.Add("OnEntityCreated", "NetricsaTrackSpecialNPCs", function(ent)
-        timer.Simple(0, function()
-            if not IsValid(ent) then return end
-            if ent:GetClass() == "monster_nihilanth" then
-                local npcClass = ent:GetClass()
-                local mdl = ent:GetModel() or ""
-                local skin = ent:GetSkin() or 0
+timer.Simple(0, function()
+    if not IsValid(ent) then return end
+    if ent:GetClass() == "monster_nihilanth" then
+local npcClass = ent:GetClass()
+local mdl = ent:GetModel() or ""
+local skin = ent:GetSkin() or 0
 
-                local bgCount = ent:GetNumBodyGroups() or 0
-                local bodygroups = {}
-                for i = 0, bgCount-1 do
-                    bodygroups[i+1] = ent:GetBodygroup(i)
-                end
+local bgCount = ent:GetNumBodyGroups() or 0
+local bodygroups = {}
+for i = 0, bgCount-1 do
+    bodygroups[i+1] = ent:GetBodygroup(i)
+end
 
-                net.Start("Netricsa_AddEnemy")
-                    net.WriteString(npcClass)
-                    net.WriteString(mdl)
-                    net.WriteUInt(skin, 8)
-                    net.WriteUInt(bgCount, 8)
-                    for i=1, bgCount do
-                        net.WriteUInt(bodygroups[i], 8)
-                    end
-                net.Broadcast()
+net.Start("Netricsa_AddEnemy")
+    net.WriteString(npcClass)
+    net.WriteString(mdl)
+    net.WriteUInt(skin, 8)
+    net.WriteUInt(bgCount, 8)
+    for i=1, bgCount do
+net.WriteUInt(bodygroups[i], 8)
+    end
+net.Broadcast()
 
-                net.Start("Netricsa_PlaySound")
-                net.Broadcast()
-            end
-        end)
+net.Start("Netricsa_PlaySound")
+net.Broadcast()
+    end
+end)
     end)
 
     -- Список "особых" NPC, которых нужно сразу показывать
     local SpecialInstantEnemies = {
-        ["monster_tentacle"] = true,
-        ["monster_osprey"] = true,
-        ["monster_bigmomma_strong"] = true,
-        ["monster_bigmomma"] = true,
-        ["monster_nihilanth"] = true,
-        ["monster_flyer"] = true,
-        ["monster_apache"] = true,
-        ["monster_gman"] = true,
-        ["npc_vj_hlrbfr_genmod262"] = true,
-        ["npc_vj_hlazure_diabloboss"] = true,
-        ["npc_vj_hlrof_geneworm"] = true,
-        ["npc_vj_hlr1a_nihilanth"] = true,
-        ["npc_vj_hlr1_gonarch"] = true,
-        ["npc_vj_hlrof_pitworm"] = true,
-        ["npc_vj_hlr1_gman"] = true,
-        ["npc_agf_anime_saitama"] = true,
-        ["npc_sniper"] = true,
-        ["monster_roach"] = true,
-        ["monster_geneworm"] = true,
-        ["monster_alien_nihilanth"] = true,
-        ["monster_hornet"] = true,
-        ["npc_kingpin_r"] = true,
-        ["npc_advisor"] = true,
-        ["npc_helicopter"] = true,
-        ["npc_combine_camera"] = true,
-        ["npc_combinegunship"] = true,
-        ["npc_combinedropship"] = true,
-        ["npc_turret_ceiling"] = true,
-        ["npc_apcdriver"] = true,
-        ["npc_antlion_grub"] = true,
-        ["xen_tree"] = true,
-        ["xen_hair"] = true,
-        ["sent_vj_xen_hair"] = true,
-        ["npc_vj_hlr1_xen_tree"] = true,
-        ["sent_vj_xen_plant_light"] = true,
-        ["xen_plantlight"] = true,
-        ["xen_spore_small"] = true,
-        ["xen_spore_medium"] = true,
-        ["xen_spore_large"] = true,
-        ["sent_vj_xen_spore_small"] = true,
-        ["sent_vj_xen_spore_medium"] = true,
-        ["sent_vj_xen_spore_large"] = true,
-        ["obj_vj_hlr1_hornet"] = true,
-        ["sent_vj_xen_crystal"] = true,
-        ["npc_missiledefense"] = true,
-        ["npc_vj_ssc_devil"] = true,
-        ["npc_vj_ss2_mentalfestung"] = true,
-        ["npc_vj_ssc_devil_question"] = true,
-        ["npc_vj_ssc_walker_female"] = true,
-        ["npc_vj_ssc_elementallava_large"] = true,
-        ["npc_vj_q4_strogg_harvester"] = true,
-        ["npc_vj_ssc_exotechlarva"] = true,
-        ["npc_wc_anime_saitama"] = true,
-        ["npc_wc_shaids_gand_battle_robot_boss"] = true,
-        ["npc_wc_tf2_headless_hatman"] = true,
-        ["npc_wc_others_jew_boxer"] = true,
-        ["npc_vj_mc_mzs_wroughtnaut"] = true,
-        ["npc_vj_ssc_gizmo_big_secret"] = true,
-        ["npc_vj_fc1_stone_head_helicopter"] = true,
-        ["npc_vj_fc1_helicopter"] = true,
-        ["npc_vj_fc1_hell_nit_helicopter"] = true,
-        ["npc_vj_fc1_stone_head"] = true,
-        ["npc_vj_fc1_helicopter_cut"] = true,
-        ["npc_vj_fc1_security_helicopter"] = true,
-        ["npc_vj_fc1_mutant_krieger"] = true,
-        ["npc_vj_fc1_mutant_krieger_cut_eyes"] = true,
-        ["obj_ss3_spider_egg"] = true,
-        ["npc_vj_hlrdc_xen_tree"] = true,
-        ["npc_vj_ssc_spaceship"] = true,
-        ["npc_vj_ssc_summoner"] = true,
-        ["npc_vj_ssc_airelemental"] = true,
-        ["npc_vj_tti_bigspongebob"] = true,
-        ["npc_vj_meme_purpleguy"] = true,
-        ["event_hlow_dropship"] = true,
-        ["ent_slender_source"] = true,
-        ["npc_sr_grossman"] = true,
-        ["npc_vj_slenderman"] = true,
-        ["npc_vj_slenderman20dollars"] = true,
-        ["npc_vj_ss2_mental_institution"] = true,
-        ["npc_vj_rake"] = true,
-        ["npc_vj_ss2_turret_machinegun"] = true,
-        ["npc_vj_ss2_rollerball_player"] = true,
-        ["npc_bullseye"] = true,
-        ["obj_vj_bullseye"] = true,
-        ["npc_drg_testhuman"] = true,
-        ["npc_drg_testnextbot"] = true,
-        ["npc_turok_brachiosaurus"] = true,
-        ["npc_turok_waterboss"] = true,
-        ["npc_turok_monolophosaurus"] = true,
-        ["npc_turok_giganotosaurus"] = true,
-        ["npc_turok_trex"] = true,
-        ["npc_turok_scarface"] = true,
-        ["npc_turok_dilophosaurus"] = true,
-        ["npc_vj_ss2_kwongo"] = true,
-        ["npc_vj_ssc_custom_spaceship"] = true,
-        ["npc_furnace"] = true,
-        ["npc_preysonic"] = true,
-        ["npc_starved"] = true,
-        ["grenade_helicopter"] = true,
-        ["npc_vj_ssc_custom_bighead_"] = true,
-        ["npc_vj_ss_xbox_devil"] = true,
-        ["npc_vj_sw64_cryptid"] = true,
-        ["npc_vj_sw64_blotspider"] = true,
-        ["npc_vj_ss2_dino_s"] = true,
-        ["npc_vj_ss2_turret_plasma"] = true,
-        ["npc_vj_reorc_nemesis"] = true,
-        ["npc_vj_hlrof_assassin_osprey"] = true,
-        ["npc_vj_hlrof_assassin_apache"] = true,
-        ["npc_vj_hlr1_apache"] = true,
-        ["npc_vj_hlr1_m1a1abrams"] = true,
-        ["npc_vj_hlr1_garg"] = true,
-        ["npc_vj_hlrdc_garg"] = true,
-        ["monster_gargantua"] = true,
-        ["npc_vj_hlr1_osprey"] = true,
-        ["npc_vj_hlrsv_tor"] = true,
-        ["npc_vj_hlr1_m2a3bradley"] = true,
-        ["resort_purevessel"] = true,
-        ["npc_vj_fc1_mutant_omega"] = true,
-        ["npc_vj_hlrdp_hmmwv_black"] = true,
-        ["npc_vj_hlrdp_hmmwv_yellow"] = true,
-        ["npc_vj_hlrdp_m1abrams"] = true,
-        ["npc_vj_hlrdp_apache"] = true,
-        ["npc_vj_hlrdp_apache_preview"] = true,
-        ["npc_vj_shrek_tank"] = true,
-        ["npc_vj_ss2_transformer"] = true,
-        ["npc_vj_annihiliator_tank"] = true,
-        ["npc_vj_gunship"] = true,
-        ["npc_vj_shredder_tank"] = true,
-        ["npc_vj_as_queenb"] = true,
-        ["asw_queen"] = true,
-        ["npc_vj_asrd_queen"] = true,
-        ["npc_vj_ss2_jackoverse_soldier_sergeant"] = true,
-        ["obj_vj_ss2_jackoverse_soldier_sergeant_drone"] = true,
-        ["npc_vj_ssc_concept_airelemental"] = true,
-        ["npc_vj_ss2_jackoverse_bone_thing"] = true,
-        ["npc_vj_ss2_jackoverse_mental"] = true,
-        ["npc_cyclop"] = true,
-        ["npc_vj_ss2_worm"] = true,
-        ["npc_vj_ss2_jackoverse_robo_cyborg"] = true,
-        ["npc_vj_ss2_jackoverse_longju_ironclad"] = true,
-        ["npc_vj_ss2_jackoverse_kleer_god"] = true,
-        ["npc_turok_giganotosaurus_2006"] = true,
+["monster_tentacle"] = true,
+["monster_osprey"] = true,
+["monster_bigmomma_strong"] = true,
+["monster_bigmomma"] = true,
+["monster_nihilanth"] = true,
+["monster_flyer"] = true,
+["monster_apache"] = true,
+["monster_gman"] = true,
+["npc_vj_hlrbfr_genmod262"] = true,
+["npc_vj_hlazure_diabloboss"] = true,
+["npc_vj_hlrof_geneworm"] = true,
+["npc_vj_hlr1a_nihilanth"] = true,
+["npc_vj_hlr1_gonarch"] = true,
+["npc_vj_hlrof_pitworm"] = true,
+["npc_vj_hlr1_gman"] = true,
+["npc_agf_anime_saitama"] = true,
+["npc_sniper"] = true,
+["monster_roach"] = true,
+["monster_geneworm"] = true,
+["monster_alien_nihilanth"] = true,
+["monster_hornet"] = true,
+["npc_kingpin_r"] = true,
+["npc_advisor"] = true,
+["npc_helicopter"] = true,
+["npc_combine_camera"] = true,
+["npc_combinegunship"] = true,
+["npc_combinedropship"] = true,
+["npc_turret_ceiling"] = true,
+["npc_apcdriver"] = true,
+["npc_antlion_grub"] = true,
+["xen_tree"] = true,
+["xen_hair"] = true,
+["sent_vj_xen_hair"] = true,
+["npc_vj_hlr1_xen_tree"] = true,
+["sent_vj_xen_plant_light"] = true,
+["xen_plantlight"] = true,
+["xen_spore_small"] = true,
+["xen_spore_medium"] = true,
+["xen_spore_large"] = true,
+["sent_vj_xen_spore_small"] = true,
+["sent_vj_xen_spore_medium"] = true,
+["sent_vj_xen_spore_large"] = true,
+["obj_vj_hlr1_hornet"] = true,
+["sent_vj_xen_crystal"] = true,
+["npc_missiledefense"] = true,
+["npc_vj_ssc_devil"] = true,
+["npc_vj_ss2_mentalfestung"] = true,
+["npc_vj_ssc_devil_question"] = true,
+["npc_vj_ssc_walker_female"] = true,
+["npc_vj_ssc_elementallava_large"] = true,
+["npc_vj_q4_strogg_harvester"] = true,
+["npc_vj_ssc_exotechlarva"] = true,
+["npc_wc_anime_saitama"] = true,
+["npc_wc_shaids_gand_battle_robot_boss"] = true,
+["npc_wc_tf2_headless_hatman"] = true,
+["npc_wc_others_jew_boxer"] = true,
+["npc_vj_mc_mzs_wroughtnaut"] = true,
+["npc_vj_ssc_gizmo_big_secret"] = true,
+["npc_vj_fc1_stone_head_helicopter"] = true,
+["npc_vj_fc1_helicopter"] = true,
+["npc_vj_fc1_hell_nit_helicopter"] = true,
+["npc_vj_fc1_stone_head"] = true,
+["npc_vj_fc1_helicopter_cut"] = true,
+["npc_vj_fc1_security_helicopter"] = true,
+["npc_vj_fc1_mutant_krieger"] = true,
+["npc_vj_fc1_mutant_krieger_cut_eyes"] = true,
+["obj_ss3_spider_egg"] = true,
+["npc_vj_hlrdc_xen_tree"] = true,
+["npc_vj_ssc_spaceship"] = true,
+["npc_vj_ssc_summoner"] = true,
+["npc_vj_ssc_airelemental"] = true,
+["npc_vj_tti_bigspongebob"] = true,
+["npc_vj_meme_purpleguy"] = true,
+["event_hlow_dropship"] = true,
+["ent_slender_source"] = true,
+["npc_sr_grossman"] = true,
+["npc_vj_slenderman"] = true,
+["npc_vj_slenderman20dollars"] = true,
+["npc_vj_ss2_mental_institution"] = true,
+["npc_vj_rake"] = true,
+["npc_vj_ss2_turret_machinegun"] = true,
+["npc_vj_ss2_rollerball_player"] = true,
+["npc_bullseye"] = true,
+["obj_vj_bullseye"] = true,
+["npc_drg_testhuman"] = true,
+["npc_drg_testnextbot"] = true,
+["npc_turok_brachiosaurus"] = true,
+["npc_turok_waterboss"] = true,
+["npc_turok_monolophosaurus"] = true,
+["npc_turok_giganotosaurus"] = true,
+["npc_turok_trex"] = true,
+["npc_turok_scarface"] = true,
+["npc_turok_dilophosaurus"] = true,
+["npc_vj_ss2_kwongo"] = true,
+["npc_vj_ssc_custom_spaceship"] = true,
+["npc_furnace"] = true,
+["npc_preysonic"] = true,
+["npc_starved"] = true,
+["grenade_helicopter"] = true,
+["npc_vj_ssc_custom_bighead_"] = true,
+["npc_vj_ss_xbox_devil"] = true,
+["npc_vj_sw64_cryptid"] = true,
+["npc_vj_sw64_blotspider"] = true,
+["npc_vj_ss2_dino_s"] = true,
+["npc_vj_ss2_turret_plasma"] = true,
+["npc_vj_reorc_nemesis"] = true,
+["npc_vj_hlrof_assassin_osprey"] = true,
+["npc_vj_hlrof_assassin_apache"] = true,
+["npc_vj_hlr1_apache"] = true,
+["npc_vj_hlr1_m1a1abrams"] = true,
+["npc_vj_hlr1_garg"] = true,
+["npc_vj_hlrdc_garg"] = true,
+["monster_gargantua"] = true,
+["npc_vj_hlr1_osprey"] = true,
+["npc_vj_hlrsv_tor"] = true,
+["npc_vj_hlr1_m2a3bradley"] = true,
+["resort_purevessel"] = true,
+["npc_vj_fc1_mutant_omega"] = true,
+["npc_vj_hlrdp_hmmwv_black"] = true,
+["npc_vj_hlrdp_hmmwv_yellow"] = true,
+["npc_vj_hlrdp_m1abrams"] = true,
+["npc_vj_hlrdp_apache"] = true,
+["npc_vj_hlrdp_apache_preview"] = true,
+["npc_vj_shrek_tank"] = true,
+["npc_vj_ss2_transformer"] = true,
+["npc_vj_annihiliator_tank"] = true,
+["npc_vj_gunship"] = true,
+["npc_vj_shredder_tank"] = true,
+["npc_vj_as_queenb"] = true,
+["asw_queen"] = true,
+["npc_vj_asrd_queen"] = true,
+["npc_vj_ss2_jackoverse_soldier_sergeant"] = true,
+["obj_vj_ss2_jackoverse_soldier_sergeant_drone"] = true,
+["npc_vj_ssc_concept_airelemental"] = true,
+["npc_vj_ss2_jackoverse_bone_thing"] = true,
+["npc_vj_ss2_jackoverse_mental"] = true,
+["npc_cyclop"] = true,
+["npc_vj_ss2_worm"] = true,
+["npc_vj_ss2_jackoverse_robo_cyborg"] = true,
+["npc_vj_ss2_jackoverse_longju_ironclad"] = true,
+["npc_vj_ss2_jackoverse_kleer_god"] = true,
+["npc_turok_giganotosaurus_2006"] = true,
     }
 
 local function AnnounceSpecialNPC(ent)
@@ -1210,20 +1216,20 @@ local function AnnounceSpecialNPC(ent)
     
     -- 🔹 ПРОВЕРЯЕМ, ЕСТЬ ЛИ УЖЕ АЛИАС В СПИСКЕ
     if IsAliasAlreadyTracked(npcClass) then
-        print("[Netricsa] Special NPC " .. npcClass .. " already tracked via alias: " .. aliasKey)
-        return
+print("[Netricsa] Special NPC " .. npcClass .. " already tracked via alias: " .. aliasKey)
+return
     end
     
     if TrackedEnemies and TrackedEnemies[npcClass] then
-        print("[Netricsa] Special NPC " .. npcClass .. " already tracked")
-        return
+print("[Netricsa] Special NPC " .. npcClass .. " already tracked")
+return
     end
     
     -- 🔹 ПОЛУЧАЕМ ДАННЫЕ NPC
     local npcData = GetNetricsaNPCData(ent)
     if not npcData then
-        print("[Netricsa] Failed to get NPC data for: " .. npcClass)
-        return
+print("[Netricsa] Failed to get NPC data for: " .. npcClass)
+return
     end
     
     -- Отмечаем как отслеженный (под ОРИГИНАЛЬНЫМ классом, чтобы не дублировать)
@@ -1239,58 +1245,58 @@ local function AnnounceSpecialNPC(ent)
 end
 
     hook.Add("OnEntityCreated", "Netricsa_TrackSpecialInstant", function(ent)
-        timer.Simple(0, function()
-            if not IsValid(ent) then return end
-            AnnounceSpecialNPC(ent)
-        end)
+timer.Simple(0, function()
+    if not IsValid(ent) then return end
+    AnnounceSpecialNPC(ent)
+end)
     end)
 
     hook.Add("OnEntityCreated", "Netricsa_TrackDrGBaseNPCs", function(ent)
     timer.Simple(0.1, function()
-        if not IsValid(ent) then return end
-        
-        -- Проверяем, является ли энтити DrGBase NPC или Nextbot'ом
-        local isDrGBase = IsDrGBaseNPC(ent)
-        local isNextBot = ent.IsNextBot and ent:IsNextBot()
-        
-        if (isDrGBase or isNextBot) and IsEnemy(ent) then
-            local id = ent:EntIndex()
-            if not trackedNPCs[id] then
-                -- Создаём снапшот для DrGBase NPC
-                if isDrGBase then
-                    ent.NetricsaSnapshot = GetDrGBaseData(ent)
-                    ent.NetricsaSnapshot.class = ent:GetClass()
-                end
-                
-                trackedNPCs[id] = {
-                    entity = ent,
-                    killed = false
-                }
-                stats_totalEnemies = stats_totalEnemies + 1
-                BroadcastStats()
-                print("[Netricsa] Tracked DrGBase NPC: " .. ent:GetClass())
-            end
-        end
+if not IsValid(ent) then return end
+
+-- Проверяем, является ли энтити DrGBase NPC или Nextbot'ом
+local isDrGBase = IsDrGBaseNPC(ent)
+local isNextBot = ent.IsNextBot and ent:IsNextBot()
+
+if (isDrGBase or isNextBot) and IsEnemy(ent) then
+    local id = ent:EntIndex()
+    if not trackedNPCs[id] then
+-- Создаём снапшот для DrGBase NPC
+if isDrGBase then
+    ent.NetricsaSnapshot = GetDrGBaseData(ent)
+    ent.NetricsaSnapshot.class = ent:GetClass()
+end
+
+trackedNPCs[id] = {
+    entity = ent,
+    killed = false
+}
+stats_totalEnemies = stats_totalEnemies + 1
+BroadcastStats()
+print("[Netricsa] Tracked DrGBase NPC: " .. ent:GetClass())
+    end
+end
     end)
 end)
 
     hook.Add("InitPostEntity", "Netricsa_CheckSpecialInstant", function()
-        timer.Simple(0.2, function()
-            for _, ent in ipairs(ents.GetAll()) do
-                AnnounceSpecialNPC(ent)
-            end
-        end)
+timer.Simple(0.2, function()
+    for _, ent in ipairs(ents.GetAll()) do
+AnnounceSpecialNPC(ent)
+    end
+end)
     end)
 
     -- Специальный хак для карты c4a3 (логово Нихиланта)
     hook.Add("InitPostEntity", "Netricsa_ForceNihilanthOnC4A3", function()
-        if game.GetMap():lower() == "c4a3" then
-            timer.Simple(0.5, function()
-                for _, ent in ipairs(ents.FindByClass("monster_nihilanth")) do
-                    AnnounceSpecialNPC(ent)
-                end
-            end)
-        end
+if game.GetMap():lower() == "c4a3" then
+    timer.Simple(0.5, function()
+for _, ent in ipairs(ents.FindByClass("monster_nihilanth")) do
+    AnnounceSpecialNPC(ent)
+end
+    end)
+end
     end)
 
     util.AddNetworkString("Netricsa_ShowScanPrompt")
@@ -1308,202 +1314,202 @@ end)
 
     -- 🔹 Поднимаемся по родителям (для гигантов, чьи хитбоксы — дочерние энтити)
     local function ResolveTargetEntity(ent)
-        if not IsValid(ent) then return nil end
-        local cur = ent
-        local guard = 0
-        while IsValid(cur:GetParent()) and guard < 10 do
-            cur = cur:GetParent()
-            guard = guard + 1
-        end
-        return cur
+if not IsValid(ent) then return nil end
+local cur = ent
+local guard = 0
+while IsValid(cur:GetParent()) and guard < 10 do
+    cur = cur:GetParent()
+    guard = guard + 1
+end
+return cur
     end
 
     -- 🔹 Проверка, является ли энтити валидной целью для сканирования
     local function IsValidScanTarget(ent)
-        if not IsValid(ent) then return false end
-        return ent:IsNPC() or IsDrGBaseNPC(ent) or IsNextBot(ent)
+if not IsValid(ent) then return false end
+return ent:IsNPC() or IsDrGBaseNPC(ent) or IsNextBot(ent)
     end
 
     -- 🔹 Трассировка от глаз игрока, возвращает NPC под прицелом
     local function TraceScanTarget(ply)
-        if not IsValid(ply) then return nil end
+if not IsValid(ply) then return nil end
 
-        local tr = util.TraceLine({
-            start  = ply:EyePos(),
-            endpos = ply:EyePos() + ply:GetAimVector() * SCAN_MAX_DIST,
-            filter = ply,
-            mask   = MASK_SHOT,
-        })
+local tr = util.TraceLine({
+    start  = ply:EyePos(),
+    endpos = ply:EyePos() + ply:GetAimVector() * SCAN_MAX_DIST,
+    filter = ply,
+    mask   = MASK_SHOT,
+})
 
-        if not IsValid(tr.Entity) then return nil end
+if not IsValid(tr.Entity) then return nil end
 
-        local target = ResolveTargetEntity(tr.Entity)
-        if not IsValidScanTarget(target) then return nil end
+local target = ResolveTargetEntity(tr.Entity)
+if not IsValidScanTarget(target) then return nil end
 
-        return target, tr
+return target, tr
     end
 
     -- 🔹 Функция проверки, может ли NPC быть отсканирован
     local function CanScanNPC(ply, npc)
-        if not IsValid(ply) or not IsValid(npc) then return false end
-        if not IsValidScanTarget(npc) then return false end
+if not IsValid(ply) or not IsValid(npc) then return false end
+if not IsValidScanTarget(npc) then return false end
 
-        -- NPC уже мёртв
-        if npc:Health() <= 0 then return false end
+-- NPC уже мёртв
+if npc:Health() <= 0 then return false end
 
-        -- Тип NPC уже в базе
-        local npcClass = npc:GetClass()
-        if TrackedEnemies and TrackedEnemies[npcClass] then
-            return false
-        end
-        if IsAliasAlreadyTracked(npcClass) then
-            return false
-        end
+-- Тип NPC уже в базе
+local npcClass = npc:GetClass()
+if TrackedEnemies and TrackedEnemies[npcClass] then
+    return false
+end
+if IsAliasAlreadyTracked(npcClass) then
+    return false
+end
 
-        -- Этот конкретный NPC уже сканировали
-        local playerID = ply:SteamID64()
-        local npcID = npc:EntIndex()
-        if ScannedNPCs[playerID] and ScannedNPCs[playerID][npcID] then
-            return false
-        end
+-- Этот конкретный NPC уже сканировали
+local playerID = ply:SteamID64()
+local npcID = npc:EntIndex()
+if ScannedNPCs[playerID] and ScannedNPCs[playerID][npcID] then
+    return false
+end
 
-        return true
+return true
     end
 
     -- 🔹 Поиск NPC для сканирования (через trace)
     local function FindNPCToScan(ply)
-        local target = TraceScanTarget(ply)
-        if not target then return nil end
-        if not CanScanNPC(ply, target) then return nil end
-        return target
+local target = TraceScanTarget(ply)
+if not target then return nil end
+if not CanScanNPC(ply, target) then return nil end
+return target
     end
 
     -- 🔹 Отправка подсказки игроку (пишем EntIndex, а не класс!)
     local lastPromptState = {} -- ply -> entIndex или nil
 
     local function UpdateScanPrompt(ply)
-        local npc = FindNPCToScan(ply)
-        local newIdx = IsValid(npc) and npc:EntIndex() or nil
-        local playerID = ply:SteamID64()
+local npc = FindNPCToScan(ply)
+local newIdx = IsValid(npc) and npc:EntIndex() or nil
+local playerID = ply:SteamID64()
 
-        -- Не спамим сетью, если состояние не изменилось
-        if lastPromptState[playerID] == newIdx then return end
-        lastPromptState[playerID] = newIdx
+-- Не спамим сетью, если состояние не изменилось
+if lastPromptState[playerID] == newIdx then return end
+lastPromptState[playerID] = newIdx
 
-        if newIdx then
-            net.Start("Netricsa_ShowScanPrompt")
-                net.WriteUInt(newIdx, 16)
-            net.Send(ply)
-        else
-            net.Start("Netricsa_HideScanPrompt")
-            net.Send(ply)
-        end
+if newIdx then
+    net.Start("Netricsa_ShowScanPrompt")
+net.WriteUInt(newIdx, 16)
+    net.Send(ply)
+else
+    net.Start("Netricsa_HideScanPrompt")
+    net.Send(ply)
+end
     end
 
     -- Основной хук для отслеживания
     hook.Add("Think", "Netricsa_ScanSystem", function()
-        for _, ply in ipairs(player.GetAll()) do
-            if IsValid(ply) and ply:Alive() then
-                UpdateScanPrompt(ply)
-            end
-        end
+for _, ply in ipairs(player.GetAll()) do
+    if IsValid(ply) and ply:Alive() then
+UpdateScanPrompt(ply)
+    end
+end
     end)
 
     -- 🔹 Обработка сканирования (клиент присылает EntIndex)
     net.Receive("Netricsa_ScanNPC", function(len, ply)
-        if not IsValid(ply) then return end
+if not IsValid(ply) then return end
 
-        local npcIdx = net.ReadUInt(16)
-        local targetNPC = Entity(npcIdx)
+local npcIdx = net.ReadUInt(16)
+local targetNPC = Entity(npcIdx)
 
-        if not IsValid(targetNPC) then
-            print("[Netricsa] Scan failed: entity " .. tostring(npcIdx) .. " no longer valid")
-            return
-        end
+if not IsValid(targetNPC) then
+    print("[Netricsa] Scan failed: entity " .. tostring(npcIdx) .. " no longer valid")
+    return
+end
 
-        -- Поднимаемся до родителя (для гигантов)
-        targetNPC = ResolveTargetEntity(targetNPC)
-        if not IsValid(targetNPC) then return end
+-- Поднимаемся до родителя (для гигантов)
+targetNPC = ResolveTargetEntity(targetNPC)
+if not IsValid(targetNPC) then return end
 
-        if not IsValidScanTarget(targetNPC) then
-            print("[Netricsa] Scan failed: entity is not a valid target")
-            return
-        end
+if not IsValidScanTarget(targetNPC) then
+    print("[Netricsa] Scan failed: entity is not a valid target")
+    return
+end
 
-        if not CanScanNPC(ply, targetNPC) then
-            print("[Netricsa] Scan failed: NPC not available or already scanned")
-            net.Start("Netricsa_HideScanPrompt")
-            net.Send(ply)
-            return
-        end
+if not CanScanNPC(ply, targetNPC) then
+    print("[Netricsa] Scan failed: NPC not available or already scanned")
+    net.Start("Netricsa_HideScanPrompt")
+    net.Send(ply)
+    return
+end
 
-        local npcClass = targetNPC:GetClass()
-        local aliasKey = GetNPCAlias(npcClass)
+local npcClass = targetNPC:GetClass()
+local aliasKey = GetNPCAlias(npcClass)
 
-        -- Помечаем как отсканированный конкретно этот NPC
-        local playerID = ply:SteamID64()
-        local npcID = targetNPC:EntIndex()
-        if not ScannedNPCs[playerID] then
-            ScannedNPCs[playerID] = {}
-        end
-        ScannedNPCs[playerID][npcID] = true
+-- Помечаем как отсканированный конкретно этот NPC
+local playerID = ply:SteamID64()
+local npcID = targetNPC:EntIndex()
+if not ScannedNPCs[playerID] then
+    ScannedNPCs[playerID] = {}
+end
+ScannedNPCs[playerID][npcID] = true
 
-        -- Добавляем в Netricsa
-        if not (TrackedEnemies and TrackedEnemies[npcClass]) then
-            TrackedEnemies[npcClass] = true
+-- Добавляем в Netricsa
+if not (TrackedEnemies and TrackedEnemies[npcClass]) then
+    TrackedEnemies[npcClass] = true
 
-            local npcData = GetNetricsaNPCData(targetNPC)
-            if npcData then
-                SendNPCToClient(npcClass, npcData, aliasKey, ply)
-                print("[Netricsa] NPC scanned: " .. npcClass .. " (alias: " .. aliasKey .. ") by " .. ply:GetName())
-                ply:ChatPrint("[Netricsa] New enemy scanned: " .. aliasKey)
-            end
-        end
+    local npcData = GetNetricsaNPCData(targetNPC)
+    if npcData then
+SendNPCToClient(npcClass, npcData, aliasKey, ply)
+print("[Netricsa] NPC scanned: " .. npcClass .. " (alias: " .. aliasKey .. ") by " .. ply:GetName())
+ply:ChatPrint("[Netricsa] New enemy scanned: " .. aliasKey)
+    end
+end
 
-        -- Скрываем подсказку
-        net.Start("Netricsa_HideScanPrompt")
-        net.Send(ply)
+-- Скрываем подсказку
+net.Start("Netricsa_HideScanPrompt")
+net.Send(ply)
     end)
 
     -- Очистка при удалении NPC
     hook.Add("EntityRemoved", "Netricsa_CleanupScanned", function(ent)
-        if not IsValid(ent) then return end
-        if not (ent:IsNPC() or IsDrGBaseNPC(ent) or IsNextBot(ent)) then return end
+if not IsValid(ent) then return end
+if not (ent:IsNPC() or IsDrGBaseNPC(ent) or IsNextBot(ent)) then return end
 
-        local npcID = ent:EntIndex()
-        for playerID, scanned in pairs(ScannedNPCs) do
-            scanned[npcID] = nil
-        end
+local npcID = ent:EntIndex()
+for playerID, scanned in pairs(ScannedNPCs) do
+    scanned[npcID] = nil
+end
     end)
 
     -- Очистка при выходе игрока
     hook.Add("PlayerDisconnected", "Netricsa_CleanupPlayerScans", function(ply)
-        local playerID = ply:SteamID64()
-        ScannedNPCs[playerID] = nil
-        lastPromptState[playerID] = nil
+local playerID = ply:SteamID64()
+ScannedNPCs[playerID] = nil
+lastPromptState[playerID] = nil
     end)
 
     -- 🔹 КОМАНДА ДЛЯ ПРИНУДИТЕЛЬНОГО ОБНОВЛЕНИЯ СТАТИСТИКИ
     concommand.Add("netricsa_refresh_stats", function(ply)
-        if not ply:IsAdmin() then return end
-        
-        print("[Netricsa] Refreshing enemy statistics...")
-        local newTotal = 0
-        trackedNPCs = {}
-        
-        for _, ent in ipairs(ents.GetAll()) do
-            if IsValid(ent) and ent:IsNPC() and IsEnemy(ent) then
-                local id = ent:EntIndex()
-                if not trackedNPCs[id] then
-                    trackedNPCs[id] = true
-                    newTotal = newTotal + 1
-                end
-            end
-        end
-        
-        stats_totalEnemies = newTotal
-        BroadcastStats()
-        print("[Netricsa] Statistics refreshed. Total enemies: " .. newTotal)
+if not ply:IsAdmin() then return end
+
+print("[Netricsa] Refreshing enemy statistics...")
+local newTotal = 0
+trackedNPCs = {}
+
+for _, ent in ipairs(ents.GetAll()) do
+    if IsValid(ent) and ent:IsNPC() and IsEnemy(ent) then
+local id = ent:EntIndex()
+if not trackedNPCs[id] then
+    trackedNPCs[id] = true
+    newTotal = newTotal + 1
+end
+    end
+end
+
+stats_totalEnemies = newTotal
+BroadcastStats()
+print("[Netricsa] Statistics refreshed. Total enemies: " .. newTotal)
     end)
 end
 
@@ -1515,28 +1521,28 @@ hook.Add("AcceptInput", "Netricsa_ChangeLevelFlag", function(ent, input, activat
 
     net.Start("Netricsa_ContinueCampaign")
     if IsValid(activator) and activator:IsPlayer() then
-        net.Send(activator)
+net.Send(activator)
     else
-        net.Broadcast()
+net.Broadcast()
     end
 end)
 
 -- ▼ запасной вариант: если карта использует только касание триггера
 hook.Add("StartTouch", "Netricsa_ChangeLevelTouchFlag", function(ent, other)
     if ent:GetClass() == "trigger_changelevel" and IsValid(other) and other:IsPlayer() then
-        net.Start("Netricsa_ContinueCampaign")
-        net.Send(other)
+net.Start("Netricsa_ContinueCampaign")
+net.Send(other)
     end
 end)
 concommand.Add("netricsa_debug_aliases_server", function(ply)
     print("=== SERVER NPC ALIASES ===")
     for npcClass, alias in pairs(NPC_ALIASES) do
-        print(npcClass .. " -> " .. alias)
+print(npcClass .. " -> " .. alias)
     end
     print("===========================")
     print("Tracked enemies:")
     for npcClass, _ in pairs(TrackedEnemies or {}) do
-        local alias = GetNPCAlias(npcClass)
-        print("  " .. npcClass .. " (alias: " .. alias .. ")")
+local alias = GetNPCAlias(npcClass)
+print("  " .. npcClass .. " (alias: " .. alias .. ")")
     end
 end)
