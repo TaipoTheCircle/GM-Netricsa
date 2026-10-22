@@ -1,14 +1,14 @@
 AUTO SHOTGUN
 
 
-WEAPON: Fusil de chasse automatique
-AMMO: Obus de calibre 12 (utilise des obus standard ; munitions maximales ~ 200)
-ROF: Automatique - 60 tr/min
+ARME: Fusil automatique
+MUNITIONS:   coques de 12 calibres (utilisations coquilles standard; max. ammo ~200)
+CADENCE DE TIR:    Automatique - 60 RPM
 
 DESCRIPTION:
 
-Fusil automatique à huit canons à indexation mécanique. À chaque pression sur la gâchette, un obus est tiré et le mécanisme s'indexe instantanément sur le canon suivant, ce qui donne un comportement de tir efficace plus rapide qu'une action à pompe.
+Tir automatique indexant mécaniquement huit barils. Sur chaque tirant de la détente, un obus est tiré et le mécanisme se dirige instantanément vers le baril suivant, ce qui donne un comportement de tir efficace plus rapide qu'une pompe-action.
 
-NOTES:
+REMARQUES:
 
-- Hitscan avec une diffusion faible à moyenne selon la version ; efficace à des portées proches et moyennes.
+- Hitscan à faible écart moyen selon la construction; efficace à proximité de gammes moyennes.

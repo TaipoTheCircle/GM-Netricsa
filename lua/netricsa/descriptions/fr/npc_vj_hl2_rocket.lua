@@ -1,20 +1,20 @@
-COMBINEZ LE MISSILE DE RACCORDEMENT
+MISSILE D'HOOK-UP DE COMBINE
 
 
-CLASS: Combiner un missile à connexion
-METABOLISM: Intelligence artificielle
-PERCEPTION: Arme de guidage autonome
-SIZE: 1,6 pi
-ENDURANCE: Absolu
-HOSTILITY: Très élevé
-WEAPONS: Charge explosive directionnelle
-REWARD: 1 FC
-THREAT: Critique
+CLASSE:      Combiner un missile à crochet
+MÉTABOLISME: Intelligence artificielle
+PERCEPTION: Arme d'orientation autonome
+TAILLE:       1,6 ft
+ENDURANCE:  Absolu
+HOSTILITÉ:  Très élevé
+ARMES:    Charges explosives directionnelles
+RÉCOMPENSE:     1 FC
+MENACE:     Critique
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine Hook-Up Missile est une munition autonome contrôlée par une intelligence artificielle embarquée. Après le lancement, il analyse indépendamment la zone environnante et identifie les cibles sur la base du principe « ennemi ». Si une cible est jugée hostile, le missile se verrouille sur elle et continue de la poursuivre jusqu'à sa destruction.
+Le Missile Combiné Hook-Up est une munition autonome contrôlée par une intelligence artificielle intégrée. Après le lancement, il analyse de manière indépendante la région environnante, en identifiant des cibles basées sur le principe de l'ennemi. Si une cible est jugée hostile, le missile la verrouille et continue de la poursuivre jusqu'à ce qu'elle soit détruite.
 
-TIPS: 
+CONSEILS:
 
-- Evitez-le ; il est impossible de l'abattre sans le canon SBC.
+- Éviter, c'est impossible de l'abattre sans le canon SBC.

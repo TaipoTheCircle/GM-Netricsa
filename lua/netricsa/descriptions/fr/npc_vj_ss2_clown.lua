@@ -1,25 +1,25 @@
 MARCEL LE CLOWN DE L'ORAZIO
 
 
-CLASSE : Marcel le clown
-MÉTABOLISME : Mammifère
-PERCEPTION : Clone entraîné
-TAILLE : 5,9 pieds
-ENDURANCE : Faible
-HOSTILITÉ : Extrême
-ARMES : Tartes à la dynamite
-RÉCOMPENSE : 450 FC
-MENACE : Extrême
+CLASSE:      Marcel le Clown
+MÉTABOLISME: Mammifère
+PERCEPTION: Clone formé
+TAILLE:       5,9 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Extrême
+ARMES:    Pâtes à dynamite
+RÉCOMPENSE:     450 FC
+MENACE:     Extrême
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Marcel le Clown était un ancien artiste qui dirigeait le spectacle "Vasaro's Travelling Circus!", également connu sous le nom de "Vasaro's Freak Show", sur Sirius. D'abord très réussi, la fréquentation décline au fil du temps jusqu'à l'annulation de son spectacle.
+Marcel le Clown était un ancien interprète qui a dirigé le spectacle "Vasaro's Traveling Circus!", aussi connu sous le nom de "Vasaro's Freak Show", sur Sirius. Au départ très réussi, la fréquentation a diminué avec le temps jusqu'à ce que son spectacle soit annulé.
 
-Sans argent, sans soutien social et sans logement, Marcel cherchait désespérément un emploi. Mental lui a proposé un paiement en échange de la création d'une armée de clones entraînés pour divertir les soldats de Mental, charger les ennemis et exploser.
+Sans argent, sans soutien social et sans foyer, Marcel était désespéré d'accepter un emploi. Mental lui a offert le paiement en échange de la création d'une armée de clones entraînés pour divertir les soldats de Mental, charger des ennemis et exploser.
 
-Marcel accepta à contrecœur. Maintenant, il passe le reste de sa vie à entraîner ses clones pour faire rire les gens, faire du monocycle et feindre le bonheur et la satisfaction au service de Mental.
+Marcel a accepté à contrecœur. Maintenant, il passe le reste de sa vie à former ses clones pour faire rire les gens, rouler des monocycles, et feindre le bonheur et le contentement dans le service de Mental.
 
-CONSEILS :
+CONSEILS:
 
-- Ils peuvent rapidement vous rattraper et exploser - détruisez-les le plus rapidement possible.
-- Ce clown a trop souffert intérieurement.
+- Ils peuvent rapidement vous rattraper et exploser - les détruire le plus rapidement possible.
+- Ce clown a trop souffert.

@@ -1,21 +1,21 @@
 M1A1 CARBINE
 
 
-ARME : M1A1 Carbine
-MUNITIONS : .30 Carbine (7.62x33mm)
-ROF : ~40-50 rounds / min
-POIDS : ~2,5 kg
+ARME: M1A1 Carbine
+MUNITIONS:  .30 Carbine (7.62x33mm)
+CADENCE DE TIR:    ~40-50 tours/min
+POIDS: ~2,5 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-This American World War II-era semi-automatic carbine, based on the M1 Carbine, was designed specifically for paratroopers and soldiers who needed a compact and lightweight weapon. The M1A1's main distinguishing feature was its folding metal stock, which significantly reduced its size for transportation.
+Cette carbure semi-automatique de la Seconde Guerre mondiale américaine, basée sur la M1 Carbine, a été conçue spécialement pour les parachutistes et les soldats qui avaient besoin d'une arme compacte et légère. La principale caractéristique du M1A1 est son stock de métal pliant, qui réduit considérablement sa taille pour le transport.
 
-The carbine uses a gas-operated action and the .30 Carbine cartridge. Its light weight, compact size, and soft recoil make the M1A1 particularly suitable for close- and medium-range combat, as well as for rapid movement. Its effective range is approximately 275 meters.
+La carbine utilise une action au gaz et la cartouche de .30 carbine. Son poids léger, sa taille compacte et son recul doux rendent le M1A1 particulièrement adapté au combat à portée étroite et moyenne, ainsi qu'au mouvement rapide. Sa portée effective est d'environ 275 mètres.
 
-Unlike the later M2, the standard M1A1 fires only in single bursts. The fully automatic version of the M2 was introduced later and gained the ability to fire in bursts.
+Contrairement à la dernière M2, la norme M1A1 ne fait feu qu'en une seule explosion. La version entièrement automatique du M2 a été introduite plus tard et a acquis la capacité de tirer en éclats.
 
-REMARQUES :
+REMARQUES:
 
-- The folding stock makes the M1A1 particularly convenient for paratroopers and saves space when carrying.
-- Excellent for close and medium ranges, especially where a full-power rifle would be too cumbersome.
-- Its light weight and soft recoil allow for quick movement and comfortable follow-up shots.
+- Le stock pliant rend le M1A1 particulièrement pratique pour les parachutistes et permet d'économiser de l'espace lors du transport.
+- Excellent pour les gammes proches et moyennes, surtout là où un fusil pleine puissance serait trop lourd.
+- Son poids léger et son recul doux permettent un mouvement rapide et des tirs de suivi confortables.

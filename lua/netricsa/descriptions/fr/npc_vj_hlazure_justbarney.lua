@@ -1,24 +1,24 @@
-JUSTIN GRANGES
+JUSTICE
 
 
-CLASS: Justin Barnes
-METABOLISM: Humain, mâle
-PERCEPTION: Agent de sécurité Black Mesa
-SIZE: ~5,9 pieds
-ENDURANCE: Moyen
-HOSTILITY: Défensif / Allié
-WEAPONS: Glock17
-REWARD: 400FC
-THREAT: Faible
+CLASSE:      Justin Barns
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Garde de sécurité Black Mesa
+TAILLE:       ~5,9 pi
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Défendeur / Allié
+ARMES:    Glock 17
+RÉCOMPENSE:     400 FC
+MENACE:     Faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Justin Barns est un fidèle agent de sécurité de Black Mesa et l'un des collègues de Barney Calhoun. Il est armé d'armes Black Mesa standard et s'appuie sur des tactiques d'escouade plutôt que sur une armure lourde. Lors de l'incident de Black Mesa, il se révèle être un allié courageux, tentant de défendre le personnel et de résister à la fois aux soldats HECU et aux forces extraterrestres.
+Justin Barns est un fidèle garde de sécurité Black Mesa et l'un des collègues de Barney Calhoun. Il est armé d'armes Black Mesa de série et compte sur la tactique de l'équipe plutôt que sur l'armure lourde. Lors de l'incident de Black Mesa, il se montre un allié courageux, essayant de défendre le personnel et de résister à la fois aux soldats HECU et aux forces extraterrestres.
 
-Bien que sa formation soit limitée par rapport à celle des agents militaires, Barns fait preuve de détermination et de loyauté. Son manque d'armure le rend plus vulnérable, mais il compense par sa persévérance et son courage sous pression.
+Bien que son entraînement soit limité par rapport aux militaires, Barns fait preuve de détermination et de loyauté. Son manque d'armure le rend plus vulnérable, mais il compense avec persévérance et courage sous la pression.
 
-TIPS: 
+CONSEILS:
 
-- Assurer un tir de couverture : il ne peut pas résister seul à un combat prolongé.
-- Gardez-le à proximité pour un meilleur soutien.
-- Évitez les échanges de tirs ouverts ; son armure est minime.
+Il ne peut résister seul à un combat prolongé.
+- Gardez-le près d'un meilleur soutien.
+- Évitez les combats de feu; son armure est minime.

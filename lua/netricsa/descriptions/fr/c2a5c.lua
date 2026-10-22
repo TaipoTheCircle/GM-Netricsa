@@ -1,24 +1,24 @@
-MESA NOIRE, MANTE
+MESA BLACK, MANTA
 
 
-comme si les choses n'étaient pas déjà assez compliquées, le ciel du désert devait juste ajouter du style. Un Skat-manta a plongé au-dessus de votre tête, a largué une escouade d'infanterie Xen et a disparu avant même que vous puissiez le verrouiller correctement. Maintenant, les toits sont remplis d'extraterrestres, et de temps en temps, un arachnoïde surgit de l'ombre – des guerriers zélés de « l'ordre sacré » qui se sont engagés envers Mental pour des raisons que seule la théologie pouvait expliquer.
+comme si les choses n'étaient pas déjà assez malsaines, le ciel du désert a dû ajouter du flair. Un Skat-manta a balayé le dessus, a largué une équipe d'infanterie de Xen sur, et a disparu avant même que vous puissiez obtenir une serrure appropriée sur elle. Maintenant les toits sont vivants avec des extraterrestres, et chaque fois un arachnoïde clambers vers le haut de l'ombre - guerriers zélés de l'"ordre sacré" qui se sont engagés à Mental pour des raisons que seule la théologie pouvait expliquer.
 
-Le sol ? Oublie ça. La cour est minée, mais celui qui a posé les charges était d'humeur ludique - pas de motifs, pas de marqueurs, juste une mort invisible qui attendait sous ses pieds.
+Le sol ? Oublie ça. La cour est minée, mais celui qui a planté les charges était d'humeur ludique - pas de motifs, pas de marqueurs, juste la mort invisible attendant sous les pieds.
 
-And just when you think you've mapped every threat, there's movement in the upper windows. One frame is blacker than the rest, and inside that void perches something still, heavy, and wrong: un tireur d'élite de pierre. Il n'a pas encore tiré, mais le poids de son regard suffit à faire hésiter même les soldats entraînés.
+Et quand vous pensez avoir cartographié chaque menace, il y a des mouvements dans les fenêtres supérieures. Un cadre est plus noir que le reste, et à l'intérieur ce vide perche quelque chose encore, lourd, et mal: un sniper de pierre. Il n'a pas encore tiré, mais le poids de son regard suffit à faire hésiter même les soldats entraînés.
 
-Threat summary: 
+Threat summary:
 
-Skat-manta drop: Les troupes Xen patrouillent désormais dans la zone.
+Skat-manta drop: Les troupes Xen patrouillent maintenant la zone.
 
-Arachnoids: frappent depuis les toits et les murs, la ferveur religieuse les faisant lutter jusqu'au dernier souffle.
+Arachnoids: frappe des toits et des murs, ferveur religieuse les faisant se battre jusqu'au dernier souffle.
 
-Minefield: placement invisible et aléatoire, garantit la panique si vous vous précipitez.
+Minefield: un placement invisible, aléatoire, garantit la panique si vous vous précipitez.
 
-Stone Sniper: retranché dans une fenêtre sombre, ligne de vue sur toute l'approche. Attendez-vous à une précision dévastatrice une fois qu’il décide de frapper.
+Stone Sniper: ancré dans une fenêtre sombre, ligne de vue sur toute l'approche. Attendez-vous à une précision dévastatrice une fois qu'elle aura décidé de frapper.
 
-Tactical advice: 
+Tactical advice:
 
-Les toits sont des zones de destruction : nettoyez-les avant de tenter le champ de mines.
+Les toits sont des zones de destruction - les nettoyer avant que vous tentiez le champ de mines.
 
-Utilisez des débris, des grenades ou même des cadavres pour vérifier les chemins minés. Tout vaut mieux que tes bottes.
+Utilisez des débris, des grenades ou même des cadavres pour vérifier les trajectoires minées. Tout vaut mieux que tes bottes.

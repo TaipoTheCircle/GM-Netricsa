@@ -1,6 +1,6 @@
-COMPLEXE NOIR MESA LAMBDA, LA LUTTE CONTRE LES FEUX
+BLACK MESA LAMBDA COMPLEXE, LE FIREFEUR
 
 
-L'ascenseur a gémi et dès l'instant où les portes se sont ouvertes, vous avez été plongé dans un pur chaos. Le H.E.C.U. les soldats se battent toujours bec et ongles, leurs dernières escouades se sont retranchées derrière les barricades brisées.
+L'ascenseur gémissait, et au moment où les portes s'ouvraient, on vous laissait tomber dans le chaos. Les soldats du S.E.C.U. combattent toujours les dents et les ongles, leurs dernières escouades creusées sur des barricades brisées.
 
-L'infanterie extraterrestre a apporté une lourde récompense sur le champ de bataille : un imposant canon laser monté au sol. Chaque plan traverse le béton comme s'il s'agissait de papier, coupant la couverture et les hommes en cendres.
+L'infanterie extraterrestre a marché un lourd prix sur le champ de bataille - un canon laser au sol. Chaque tir traverse le béton comme du papier, coupant la couverture et les hommes en cendres.

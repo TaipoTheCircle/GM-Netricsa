@@ -1,22 +1,22 @@
-DUAL ORO HOG 9MM PISTOLS
+PISTOLES DUAL ORO HOG 9MM
 
 
-ARME : Dual ORO HOG 9mm Pistols
-MUNITIONS : 9mm Ammo
-ROF : Semi-automatic, High Rate of Fire
-POIDS : ~2 kg
+ARME: Pistolets doubles ORO HOG 9mm
+MUNITIONS:   9mm Ammo
+CADENCE DE TIR:    Semi-automatique, taux élevé de feu
+POIDS: ~2 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-This standard compact pistols from ORO is used as a primary backup weapon by various armed forces. Despite its small size, it boasts good accuracy and high power at close range. The magazine holds 15 rounds, and the total ammunition capacity can reach 150 rounds.
+Ce pistolet compact standard de l'ORO est utilisé comme arme de secours primaire par diverses forces armées. Malgré sa petite taille, il bénéficie d'une bonne précision et d'une puissance élevée à proximité. Le magazine contient 15 cartouches et la capacité totale de munitions peut atteindre 150 cartouches.
 
-The weapon has two firing modes. The primary mode allows rapid semi-automatic fire, while the secondary mode fires a short burst of three rounds. Thanks to its compact size, the HOG can be dual-wielded, significantly increasing the rate of fire.
+L'arme a deux modes de tir. Le mode primaire permet un feu semi-automatique rapide, tandis que le mode secondaire déclenche une courte explosion de trois tours. Grâce à sa taille compacte, le HOG peut être bidirectionnel, augmentant considérablement le taux d'incendie.
 
-REMARQUES :
+REMARQUES:
 
-- High accuracy and good power at close range.
-- Secondary mode fires a 3-round burst.
-- The burst has increased recoil and quickly depletes the magazine.
-- Most effective at close range.
-- Can be used in both hands simultaneously.
-- L'indicateur sur le corps de l'arme indique le niveau des munitions : une fois les munitions épuisées, il passe du jaune au rouge.
+- Haute précision et bonne puissance à proximité.
+- Le mode secondaire déclenche une explosion de 3 tours.
+- L'éclatement a augmenté le recul et épuise rapidement le magazine.
+- Très efficace à proximité.
+- Peut être utilisé dans les deux mains simultanément.
+- L'indicateur sur le corps de l'arme montre le niveau de munitions: après que les munitions sont dépensées, il passe du jaune au rouge.

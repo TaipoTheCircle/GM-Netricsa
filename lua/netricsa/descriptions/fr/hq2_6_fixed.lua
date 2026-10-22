@@ -1,18 +1,18 @@
-HALF-QUAKE 2, PLATES-FORMES DANSANTES
+HALF-QUAKE 2, PLATES-FORMES DANCING
 
 
-Sam... Sam ! Restez sur place, ne bougez pas !
+Sam ! Ne bougez pas !
 
-J'essaie de traiter ce que je vois... mais mon processeur semble avoir décidé de prendre des vacances. Le sol n'est pas là. Du tout. Mais c'est là. C'est juste... invisible. Ou ce n'est pas là. Ou alors, il est là, mais nous ne pouvons pas le voir. Bon sang, même moi, je suis confus !
+J'essaie de traiter ce que je vois... mais mon processeur semble avoir décidé de prendre des vacances. Le sol n'est pas là. Du tout. Mais c'est là. C'est juste... invisible. Ou il n'est pas là. Ou il est là, mais on ne peut pas le voir. Même moi, je suis confus !
 
 ...
 
-Maintenant, regardez. Plates-formes dans les airs. Rectangulaires. Triangles. Hexagones. Et même ce stupide symbole ">)", flottant comme s'il ne se souciait pas de la physique. Ces sadiques ont clairement embauché un architecte à l’imagination malade. Ou un programmeur défectueux. Ou les deux.
+Levez les yeux. Des plateformes dans l'air. Des rectangles. Les triangles. Des hexagones. Et même ce stupide symbole ">"), flottant autour comme si ça ne se souciait pas de la physique. Ces sadiques ont clairement engagé un architecte avec une imagination malade. Ou un programmeur gorgé. Ou les deux.
 
-Mais pire, Sam. Devant et derrière nous se trouvent deux boutons carrés. Aussi avec ce visage souriant ">)". Vous devez appuyer sur les deux. Alors le chemin à parcourir s’ouvrira.
+Mais pire, Sam. Avant et derrière nous, il y a deux boutons carrés. Aussi avec ce visage souriant ">)". Vous devez appuyer sur les deux. Alors le chemin devant s'ouvrira.
 
-Simple? Bien sûr que non! Parce que les Gnaars et les Harpies volent déjà vers nous. Et ils ne veulent pas jouer à "appuyer sur le bouton" avec nous. Ils veulent jouer à « mordre la tête » avec vous.
+Simple ? Bien sûr ! Parce que les Gnaars et les Harpies volent déjà vers nous. Et ils ne veulent pas jouer au bouton avec nous. Ils veulent jouer avec toi.
 
-Attends, Sam. Vous devrez sauter sur ces plates-formes folles, esquiver les créatures volantes et appuyer sur des boutons. Et surtout, ne baissez pas les yeux. Il n'y a rien là-bas. Et si c’est le cas, il ne veut pas que vous le voyiez.
+Attendez, Sam. Vous devrez sauter sur ces plates-formes folles, esquiver des créatures volantes, et appuyer sur des boutons. Et surtout, ne regarde pas en bas. Il n'y a rien en bas. Et s'il y en a, il ne veut pas que tu le voies.
 
-Poursuivre! Et ne vous laissez pas tromper par ces plateformes. Ils sont juste... en train de danser. Oui, danser. Et ils vous invitent à leur bal fou !
+Allez-y ! Et ne laissez pas ces plates-formes vous tromper. Ils dansent. Oui, danser. Et ils vous invitent à leur boule folle !

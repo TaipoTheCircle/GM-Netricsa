@@ -1,19 +1,19 @@
-Battez le Gonarch une fois pour toutes.
+AMÉLIORER LA CROISSANCE DE SURVUE
 
 
-WEAPON: Arbalète de survie améliorée
-AMMO: Carreaux d'arbalète
-ROF: ~1 tir par seconde
+ARME: Amélioration de la survie
+MUNITIONS:   Acrobaties
+CADENCE DE TIR:    ~1 tir par seconde
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Une version améliorée de l'arbalète standard, offrant une puissance accrue et une efficacité plus constante au combat. Sa conception renforcée permet d'infliger des dégâts plus importants sans augmenter significativement la difficulté d'utilisation.
+Une version améliorée de l'arborescence standard, offrant une puissance accrue et une efficacité plus constante au combat. Sa conception renforcée permet des dommages plus importants sans augmenter significativement la difficulté d'utilisation.
 
-L'arme reste simple et fiable, mais se révèle plus efficace contre des adversaires plus coriaces. Avec la compétence appropriée, il peut utiliser des éclairs empoisonnés, infligeant des dégâts supplémentaires au fil du temps.
+L'arme reste simple et fiable, mais est plus efficace contre les adversaires plus durs. Avec la compétence appropriée, il peut utiliser des boulons empoisonnés, infligeant des dommages supplémentaires au fil du temps.
 
-NOTES: 
+REMARQUES:
 
-- Inflige des dégâts accrus par rapport à l'arbalète standard.
-- Peut utiliser des éclairs empoisonnés, qui infligent des dégâts sur la durée.
-- Efficace à portée proche à moyenne.
-- Les munitions sont facilement fabriquées à partir de matériaux de récupération.
+- Dédommager davantage par rapport à l'arborescence standard.
+- Peut utiliser des boulons empoisonnés, qui causent des dommages au fil du temps.
+- Efficace à proximité de la portée moyenne.
+- Les munitions sont facilement fabriquées à partir de ferrailles.

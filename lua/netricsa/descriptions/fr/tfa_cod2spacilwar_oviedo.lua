@@ -1,22 +1,22 @@
 MAUSER OVIEDO 1916 RIFLE
 
 
-ARME : Mauser Oviedo 1916 rifle
-MUNITIONS : 7x57mm Mauser
-ROF : ~15-20 rounds / min
-POIDS : ~3,7 kg
+ARME: Fusil Mauser Oviedo 1916
+MUNITIONS:   7x57mm Mauser
+CADENCE DE TIR:    ~15-20 tours/min
+POIDS: ~3,7 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-A Spanish repeating rifle, produced at the Oviedo arms factory based on the Mauser 1893 design. It was adopted by Spain in 1916 and became one of many variants of the Spanish Mauser.
+Un fusil à répétition espagnol, fabriqué à l'usine d'armes Oviedo sur la base du modèle Mauser 1893. Il a été adopté par l'Espagne en 1916 et est devenu l'une des nombreuses variantes du Mauser espagnol.
 
-The rifle uses a bolt-action mechanism and the 7x57mm Mauser cartridge. The magazine holds 5 rounds and is loaded from above using a clip. The Oviedo 1916 is similar in design to the Spanish Mauser M1893, but has several differences related to production and the specifics of Spanish service.
+Le fusil utilise un mécanisme d'action du boulon et la cartouche Mauser 7x57mm. Le magazine contient 5 tours et est chargé d'en haut à l'aide d'un clip. L'Oviedo 1916 est semblable au Mauser M1893 espagnol, mais présente plusieurs différences en matière de production et de spécificités du service espagnol.
 
-Subsequently, many rifles were converted to use other ammunition and modernized. Some Oviedo 1916 rifles were designated M1916, and some were later converted to use the 7.62x51mm NATO cartridge.
+Par la suite, de nombreux fusils ont été convertis pour utiliser d'autres munitions et modernisés. Certains fusils Oviedo 1916 ont été désignés M1916, et certains ont ensuite été convertis pour utiliser la cartouche de 7,62x51mm de l'OTAN.
 
-REMARQUES :
+REMARQUES:
 
-- Spanish Mauser, manufactured in Oviedo, so the name literally tells half the story of the rifle.
-- Well-suited for medium and long ranges thanks to its accurate and powerful rifle cartridge.
-- The reliable Mauser bolt-action system formed the basis of the design.
-- The rifle remained useful for so long that it survived several generations of ammunition and military conflicts.
+- Espagnol Mauser, fabriqué à Oviedo, donc le nom raconte littéralement la moitié de l'histoire du fusil.
+- Bien adapté pour les gammes moyennes et longues grâce à sa cartouche de fusil précise et puissante.
+- Le système fiable d'action de boulons Mauser a constitué la base de la conception.
+- Le fusil est resté si longtemps utile qu'il a survécu à plusieurs générations de munitions et de conflits militaires.

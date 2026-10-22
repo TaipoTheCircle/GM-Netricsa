@@ -1,26 +1,26 @@
-COMPTE-GOUTTES DE TÉLÉPORTATION STROGG DEPUIS STROGGOS
+STROGG TELEPORT DROPPER DE STROGGOS
 
 
-CLASS: Compte-gouttes de téléportation Strogg
-METABOLISM: Quadrupède cybernétique
-PERCEPTION: Relais Tactique / Usine Vivante
-SIZE: ~4 pieds
-ENDURANCE: Haut
-HOSTILITY: Extrêmement élevé
-WEAPONS: Morsure, appel de secours
-REWARD: 2000 FC
-THREAT: Haut
+CLASSE:      Strogg Teleport Dropper
+MÉTABOLISME: Quadrupède cybernétique
+PERCEPTION: Relais tactique / Usine vivante
+TAILLE:       ~4 pi
+ENDURANCE:  Haut
+HOSTILITÉ:  Extrêmement élevé
+ARMES:    Bite, rappel
+RÉCOMPENSE:     2000 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Strogg Teleport Dropper est l'une des créatures les plus terrifiantes de l'arsenal Strogg, non pas parce qu'il est puissant en soi, mais parce qu'il peut augmenter le nombre d'ennemis, même pendant le combat.
+Le Strogg Teleport Dropper est l'une des créatures les plus terrifiantes de l'arsenal de Strogg, non pas parce qu'il est puissant en soi, mais parce qu'il peut augmenter le nombre d'ennemis, même pendant le combat.
 
-En apparence, le DROPPER ressemble à un croisement entre un chien, un insecte et une machine de la taille d'un grand tigre. À quatre pattes, rapide et agile, avec un museau prédateur et des membres cybernétiques.
+En apparence, le DROPPER ressemble à une croix entre un chien, un insecte et une machine de la taille d'un grand tigre. Quatre pattes, rapide et agile, avec un museau prédateur et des membres cybernétiques.
 
-La principale capacité du Resetter est de déployer des stations de téléportation miniatures. Il peut en déployer jusqu'à quatre à la fois, d'où les renforts affluent. Le plus souvent, il s'agit de Gardiens et de Grunts, parfois d'autres types d'infanterie, mais heureusement, les Gladiateurs et les Tanks ne peuvent pas les traverser.
+La principale capacité du réinstallateur est de déployer des stations miniatures de téléportation. Il peut déployer jusqu'à quatre d'entre eux à la fois, d'où les renforts versent. Le plus souvent, ce sont des Gardiens et des Grunts, parfois d'autres types d'infanterie, mais heureusement, Gladiators et Tanks ne peuvent pas passer par eux.
 
-TIPS: 
+CONSEILS:
 
-- Tuez d'abord. Le Resetter est plus important que n’importe quel Gladiator car il fait pulluler l’ennemi.
-- Ne le laissez pas courir. Coincez-le et achevez-le avec des armes à tir rapide.
-- S'il y a d'autres Strogg à proximité, tuez quand même le Resetter. Ils attendront.
+- Tuer d'abord. Le Réinstallation est plus important que tout Gladiator parce qu'il fait l'essaim ennemi.
+- Ne le laissez pas courir. Le coincer et le finir avec des armes à feu rapide.
+- S'il y a d'autres Strogg à proximité, tuez le réinstallateur. Ils vont attendre.

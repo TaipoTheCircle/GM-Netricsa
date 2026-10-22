@@ -1,18 +1,18 @@
-ESUS "BLACK FLY" STICKY BOMB GUN
+ESUS "BLACK FLY" BOMB GUN
 
 
-ARME : ESUS "Black Fly" Sticky Bomb Gun
-MUNITIONS : Sticky Bombs
+ARME: Esus "Black Fly" pistolet à bombe collant
+MUNITIONS:   Bombes collantes
 
-DESCRIPTIF :
+DESCRIPTION:
 
-A compact Sticky Bomb GUN that fires small explosive charges that stick to surfaces and enemies. A second pull of the trigger manually detonates the attached bomb.
+Une bombe collante compacte GUN qui tire de petites charges explosives qui collent aux surfaces et aux ennemis. Une seconde poussée de la détente fait exploser manuellement la bombe attachée.
 
-The secondary mode fires a scatter of contact mines. These stick to surfaces and detonate when an enemy approaches. Dual-use, with a magazine capacity of 5 charges for a total of 15.
+Le mode secondaire déclenche une dispersion des mines de contact. Ils s'accrochent aux surfaces et détonent quand un ennemi s'approche. Double usage, avec une capacité de 5 frais pour un total de 15.
 
-REMARQUES :
+REMARQUES:
 
-- A single, well-placed charge can quickly end an argument.
+- Une seule charge bien placée peut rapidement mettre fin à une dispute.
 - Une bombe collante peut être placée directement sur un ennemi.
-- The secondary mode is excellent for traps and blocking passages.
-- It looks like a pistol, but its arguments are clearly those of a grenade launcher.
+- Le mode secondaire est excellent pour les pièges et les passages de blocage.
+- On dirait un pistolet, mais ses arguments sont clairement ceux d'un lance-grenades.

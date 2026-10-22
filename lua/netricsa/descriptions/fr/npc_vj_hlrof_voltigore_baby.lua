@@ -1,25 +1,25 @@
-BÉBÉ VOLTIGORE DE LA DIMENSION X
+BABY VOLTIGORE DE LA DIMENSION X
 
 
-CLASS: Bébé Voltigore
-METABOLISM: Prédateur bioélectrique
+CLASSE:      Bébé Voltigore
+MÉTABOLISME: Prédateur bioélectrique
 PERCEPTION: Bête juvénile
-SIZE: 4-6 pieds
-ENDURANCE: Moyen
-HOSTILITY: Haut
-WEAPONS: Griffes, petites décharges de plasma, bonds
-REWARD: 250 FC
-THREAT: Moyen
+TAILLE:       4-6 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Griffes, petites décharges plasmatiques, boutons
+RÉCOMPENSE:     250 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Bébé Voltigore est le stade juvénile du redouté Voltigore. Bien que plus petit et moins blindé, il n’en reste pas moins un prédateur mortel, élevé pour servir à la fois de chasseur et de combattant de meute. Les bébés Voltigores font preuve d'une agilité surprenante, bondissant sur leurs proies et les tranchant avec leurs griffes acérées. Contrairement à leurs homologues adultes, leurs décharges de plasma sont plus faibles, mais toujours capables de neutraliser des cibles non blindées.
+Le Petit Voltigore est le stade juvénile de la peur Voltigore. Bien qu'il soit plus petit et moins blindé, il est encore un prédateur mortel, élevé pour servir à la fois comme chasseur et comme chasseur de paquets. Les Voltigores de bébé montrent une agilité surprenante, se faufilant sur les proies et scintillant avec des griffes pointues. Contrairement à leurs homologues adultes, leurs décharges plasmatiques sont plus faibles, mais encore capables d'invalider des cibles non armées.
 
-Ils se déplacent souvent en petits groupes, utilisant leur vitesse et leur férocité pour écraser les ennemis isolés. À mesure qu'ils mûrissent, leur chitine durcit et leurs organes électriques se transforment en l'artillerie dévastatrice du Voltigore adulte. Rencontrer un bébé Voltigore est souvent un sombre avertissement : un adulte n'est peut-être pas loin derrière.
+Ils se déplacent souvent en petits groupes, utilisant leur vitesse et leur férocité pour submerger les ennemis isolés. À mesure qu'ils mûrissent, leurs durcisseurs chitiniens et leurs organes électriques se transforment en l'artillerie dévastatrice du Voltigore. Rencontrer un bébé Voltigore est souvent un sinistre avertissement - un adulte peut ne pas être loin derrière.
 
-TIPS: 
+CONSEILS:
 
-- Ne les sous-estimez pas : les bébés Voltigores peuvent facilement envahir des cibles isolées.
-- Leurs attaques plasma sont plus faibles mais toujours dangereuses ; continuez à avancer pour éviter d’être touché.
-- Les fusils de chasse et les SMG sont efficaces contre eux avant qu'ils ne se rapprochent.
-- Soyez prudent : les groupes de Bébés Voltigores agissent souvent comme une avant-garde pour un adulte qui s'approche.
+- Ne les sous-estimez pas. Les Voltigores peuvent facilement atteindre des cibles solitaires.
+- Leurs attaques plasmatiques sont plus faibles mais encore dangereuses; continuez à bouger pour éviter d'être touchés.
+- Les fusils de chasse et les SMG sont efficaces contre eux avant qu'ils ne ferment la distance.
+- Être des groupes prudents de Baby Voltigores agissent souvent comme avant-garde pour un adulte proche.

@@ -1,30 +1,30 @@
-SEMI-TREMBLEMENT 2, ASCENSEUR D'ILLUSIONS
+SEMI-EARTHQUAKE 2, ÉLEVATEUR D'ILLUSIONS
 
 
-Sam... SAM, NE REGARDE PAS LES MURS !
-
-...
-
-Je suis sérieux. Ce motif coloré n’est pas seulement une décoration. Ça bouge. Les murs se contractent et se dilatent... Mon processeur commence à chauffer, et je suis juste en train de l'analyser ! Sans parler de ta pauvre tête.
+Sam, ne regarde pas les yeux !
 
 ...
 
-Mais voici la chose intéressante, héros. Regardez de plus près. Le motif au sol et au plafond est le même. Mais cela évolue à des vitesses différentes. Pourquoi? Parce que ce n'est pas une pièce. C'est un ASCENSEUR. Nous descendons. Ou vers le haut... Ou sur le côté. Qui diable sait où ces sadiques nous emmènent !
-
-Mes capteurs me disent qu'on voit quelque chose de gros... Très gros. Je vois une pièce devant moi, et sur ses murs... des radiographies. D'énormes images de mâchoires. Les mâchoires de quelqu'un.
-
-Attends, Sam. Nous n'avons pas le choix. Lorsque l'ascenseur s'arrête, tirez en premier. Et ne regarde pas le mur. J'ai dit : NE REGARDEZ PAS ! DEMI-SÉISME 2, ASCENSEUR D'ILLUSIONS
-
-Sam... SAM, NE REGARDE PAS LES MURS !
+Je suis sérieux. Ce motif coloré n'est pas seulement une décoration. Ça bouge. Les murs se contractent et s'étendent... Mon processeur commence à chauffer, et je l'analyse ! Sans parler de votre pauvre tête.
 
 ...
 
-Je suis sérieux. Ce motif coloré n’est pas seulement une décoration. Ça bouge. Les murs se contractent et se dilatent... Mon processeur commence à chauffer, et je suis juste en train de l'analyser ! Sans parler de ta pauvre tête.
+Mais voilà ce qui est intéressant, héros. Regarde de plus près. Le motif sur le plancher et le plafond est le même. Mais il se déplace à différentes vitesses. Pourquoi ? Parce que ce n'est pas une chambre. C'est un ELEVATOR. Nous allons descendre. Ou en haut... Ou de côté. Qui sait où ces sadiques nous emmènent !
+
+Mes détecteurs me disent qu'on voit quelque chose de grand... Très grand. Je vois une pièce devant, et sur ses murs... Les rayons X. Images énormes de mâchoires. Les mâchoires de quelqu'un.
+
+Attendez, Sam. Nous n'avons pas le choix. Quand l'ascenseur s'arrête, tirez d'abord. Et ne regarde pas le mur. J'ai dit, ne regardez pas ! HALF-QUAKE 2, ÉLEVATEUR D'ILLUSIONS
+
+Sam, ne regarde pas les yeux !
 
 ...
 
-Mais voici la chose intéressante, héros. Regardez de plus près. Le motif au sol et au plafond est le même. Mais cela évolue à des vitesses différentes. Pourquoi? Parce que ce n'est pas une pièce. C'est un ASCENSEUR. Nous descendons. Ou vers le haut... Ou sur le côté. Qui diable sait où ces sadiques nous emmènent !
+Je suis sérieux. Ce motif coloré n'est pas seulement une décoration. Ça bouge. Les murs se contractent et s'étendent... Mon processeur commence à chauffer, et je l'analyse ! Pour ne rien dire de votre pauvre tête.
 
-Mes capteurs montrent que nous approchons de quelque chose de grand... Très grand. Je vois une pièce devant moi, et sur ses murs... des radiographies. D'énormes radiographies des mâchoires. Les mâchoires de quelqu'un.
+...
 
-Attends, Sam. Nous n'avons pas le choix. Lorsque l'ascenseur s'arrête, tirez en premier. Et ne regardez pas les murs. J'ai dit : NE REGARDEZ PAS !
+Mais voilà ce qui est intéressant, héros. Regarde de plus près. Le motif sur le plancher et le plafond est le même. Mais il se déplace à différentes vitesses. Pourquoi ? Parce que ce n'est pas une chambre. C'est un ELEVATOR. Nous allons descendre. Ou en haut... Ou de côté. Qui sait où ces sadiques nous emmènent !
+
+Mes détecteurs montrent qu'on approche de quelque chose de grand... Très grand. Je vois une pièce devant, et sur ses murs... Les rayons X. Énormes rayons X des mâchoires. Les mâchoires de quelqu'un.
+
+Attendez, Sam. Nous n'avons pas le choix. Quand l'ascenseur s'arrête, tirez d'abord. Et ne regarde pas les murs. J'ai dit, ne regardez pas !

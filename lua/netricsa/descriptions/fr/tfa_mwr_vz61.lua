@@ -1,17 +1,17 @@
-SKORPION SAMOPAL VZ. 61 SUBMACHINE GUN
+SOMOPAL DE SKORPION VZ. 61
 
 
-ARME : Skorpion Samoral vz. 61 submachine gun
-MUNITIONS : .32 ACP (7.65x17mm Browning SR), .380 ACP, and 9x19mm
-ROF : 850 RPM
-POIDS : 1.59 kg
+ARME: Skorpion Samoral vz. 61 mitrailleuse
+MUNITIONS:   .32 ACP (7,65x17mm Browning SR), .380 ACP et 9x19mm
+CADENCE DE TIR:    850 RPM
+POIDS: 1,59 kg
 LENGTH: 517 mm
 
-DESCRIPTIF :
+DESCRIPTION:
 
-The Skorpion vz. 61 is a compact Czechoslovakian submachine gun designed for officers, vehicle crews, and security personnel. Its folding stock and pocket-size make it ideal for concealed carry, long-range combat, or as a backup weapon. Originally designed for the low-power .32 ACP cartridge, it features a high rate of fire and an adjustable burst-fire system (reducing the rate of fire) for effective shooting at close range.
+Le Skorpion vz. 61 est une mitrailleuse compacte tchécoslovaque conçue pour les officiers, les équipages de véhicules et le personnel de sécurité. Son stock pliant et sa taille de poche le rendent idéal pour le transport caché, le combat à longue portée, ou comme une arme de secours. Conçu à l'origine pour la cartouche ACP de faible puissance ,32, il dispose d'un taux de feu élevé et d'un système de déclenchement réglable (réduction de la vitesse de feu) pour une prise de vue efficace à proximité.
 
-REMARQUES :
+REMARQUES:
 
-- Suitable for close-quarters combat and self-defense - compact, concealable, and quick to deploy.
-- Low shot power is offset by the density of fire; best used in short bursts for improved control.
+- Convient pour le combat à quartier fermé et l'autodéfense - compact, dissimulable et rapide à déployer.
+- La faible puissance de tir est contrebalancée par la densité du feu; mieux utilisé en rafales courtes pour un meilleur contrôle.

@@ -1,17 +1,17 @@
-FUSIL À PLASMA XL-808
+RIFLE DE PLASMA XL-808
 
 
-WEAPON: Fusil à plasma XL-808
-AMMO: Cellules plasmatiques X8
-ROF: ~400 tours/min
+ARME: XL-808 Rifle plasma
+MUNITIONS:   Cellules plasma X8
+CADENCE DE TIR:    ~400 tours/min
 
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le XL-808 est un fusil plasmatique à haute énergie conçu pour la suppression de zones et le contrôle des foules. Il tire des rafales denses de plasma à une cadence élevée ; les projectiles présentent une légère tendance à « coller » aux cibles organiques, améliorant ainsi l'efficacité des coups contre les ennemis en mouvement.
+Le XL-808 est un fusil plasmatique de haute énergie conçu pour la suppression de zone et le contrôle de foule. Il tire des éclats denses de plasma à un taux élevé; les projectiles montrent une légère tendance à « coller » aux cibles organiques, améliorant l'efficacité des frappes contre les ennemis en mouvement.
 
 
-NOTES: 
+REMARQUES:
 
-- Excelle à faucher des hordes et à maintenir des points d'étranglement
-- Surveillez la consommation de munitions.
+- Excels à tondre les hordes et à tenir des points d'étranglement
+- Regardez les munitions.

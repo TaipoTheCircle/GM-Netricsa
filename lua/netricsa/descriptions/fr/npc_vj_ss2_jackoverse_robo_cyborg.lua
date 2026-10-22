@@ -1,56 +1,56 @@
-ROBO-CYBORG FROM THE GEONOSIS
+ROBO-CYBORG DE LA GÉONOSIE
 
 
-CLASS:      Robo-Cyborg
-METABOLISM: Fully Mechanical
-PERCEPTION: Autonomous Defense And Target Neutralization System
-SIZE:       ~7,2 ft
-ENDURANCE:  Extremely High
-HOSTILITY:  Low-Extreme
-WEAPONS:    Death Cannon, XL2 Lasers, Flamethrower, Saw, Built-in Knife, Spider Limbs
-REWARD:     10000 FC
-THREAT:     Extremely High
+CLASSE:      Robo-Cyborg
+MÉTABOLISME: Entièrement mécanique
+PERCEPTION: Système autonome de défense et de neutralisation des cibles
+TAILLE:       ~7,2 pi
+ENDURANCE:  Extrêmement élevé
+HOSTILITÉ:  Faible extrême
+ARMES:    Cannon de mort, XL2 lasers, lance-flammes, scie, couteau intégré, membres d'araignées
+RÉCOMPENSE:     10000 FC
+MENACE:     Extrêmement élevé
 
-DESCRIPTIF :
+DESCRIPTION:
 
-The Geonosis Robo-Cyborg is an extremely rare prototype battle droid, developed in the Confederacy of Independent Systems factories. It was originally designed to turn the tide of the war with the Republic, but the factory was destroyed.
+Le Robo-Cyborg est un droïde de combat extrêmement rare, développé dans la Confédération des usines de systèmes indépendants. Il a été conçu à l'origine pour renverser la marée de la guerre avec la République, mais l'usine a été détruite.
 
-After the defeat of the Confederacy, the prototype fell into the hands of the Galactic Empire. Imperial specialists quickly assessed its combat capabilities and commissioned the droid, but they were never able to replicate the design. The factory where the droid was created had long since ceased to exist, and the engineers responsible for its development had died or disappeared. Therefore, every surviving example is effectively an irreplaceable military asset.
+Après la défaite de la Confédération, le prototype tomba entre les mains de l'Empire galactique. Les spécialistes impériaux ont rapidement évalué ses capacités de combat et ont commandé le droïde, mais ils n'ont jamais pu reproduire la conception. L'usine où le droïde a été créé avait depuis longtemps cessé d'exister, et les ingénieurs responsables de son développement étaient morts ou ont disparu. Par conséquent, chaque exemple survivant est effectivement un atout militaire irremplaçable.
 
-In its normal state, the droid resides within a special capsule, where its mechanical limbs fold, and the machine itself enters standby mode. It can remain in this state for virtually indefinite periods of time, displaying no activity.
+Dans son état normal, le droïde réside dans une capsule spéciale, où ses membres mécaniques se replient, et la machine elle-même entre en mode veille. Il peut rester dans cet état pendant des périodes pratiquement indéfinies, sans aucune activité.
 
-Upon detecting an intruder, the droid does not initially attack. It emerges from the capsule and calmly warns the intruder, demanding that they leave the protected area. This is one of the few situations where an encounter with it can end without a firefight.
+Lors de la détection d'un intrus, le droïde n'attaque pas initialement. Il émerge de la capsule et avertit calmement l'intrus, exigeant qu'ils quittent la zone protégée. C'est l'une des rares situations où une rencontre avec elle peut se terminer sans feu.
 
-However, after an attack or refusal to leave the protected area, protocol changes completely.
+Cependant, après une attaque ou un refus de quitter la zone protégée, le protocole change complètement.
 
-The droid enters combat mode and transforms into an extremely dangerous, versatile platform. Its main feature is the vast array of integrated weaponry. One of these systems is a "Death Cannon," powerful enough to destroy even heavy vehicles and transports. Conventional armor is virtually useless against it.
+Le droïde entre en mode combat et se transforme en une plateforme extrêmement dangereuse et polyvalente. Sa caractéristique principale est la vaste gamme d'armes intégrées. Un de ces systèmes est un « Cannon mort », assez puissant pour détruire même les poids lourds et les transports. L'armure conventionnelle est pratiquement inutile contre elle.
 
-The robot's four arms are multifunctional. They can transform into energy emitters that operate similarly to the XL2 laser rifle. This allows the droid to simultaneously fire at multiple targets, leaving virtually no safe attack path for the enemy.
+Les quatre bras du robot sont multifonctionnels. Ils peuvent se transformer en émetteurs d'énergie qui fonctionnent de la même manière que le fusil laser XL2. Cela permet au droïde de tirer simultanément à plusieurs cibles, laissant pratiquement aucune piste d'attaque sûre pour l'ennemi.
 
-One of its limbs is a flamethrower. If necessary, the droid can use its other arm to weld and modify the system while it's in use. After such an upgrade, the flame becomes blue and significantly more intense.
+Un de ses membres est un lance-flammes. Si nécessaire, le droïde peut utiliser son autre bras pour souder et modifier le système pendant son utilisation. Après une telle mise à niveau, la flamme devient bleue et significativement plus intense.
 
-The flamethrower also features a built-in knife, allowing it to be used for close-quarters combat.
+Le lance-flammes dispose également d'un couteau intégré qui permet de l'utiliser pour le combat à proximité du quartier.
 
-The other arm is equipped with a powerful saw. If an enemy somehow manages to survive long-range attacks and approaches the vehicle, the droid can resort to mechanically dismembering the target on the spot.
+L'autre bras est équipé d'une scie puissante. Si un ennemi parvient d'une manière ou d'une autre à survivre à des attaques à longue portée et s'approche du véhicule, le droïde peut recourir à la démembrement mécanique de la cible sur place.
 
-But its most unusual feature is its legs.
+Mais sa caractéristique la plus inhabituelle est ses jambes.
 
-The standard legs can fold, then be replaced or transformed into crab-like spider-like appendages. This configuration significantly increases the machine's mobility, allowing it to quickly change direction and effectively evade fire.
+Les pattes standard peuvent se plier, puis être remplacées ou transformées en appendices semblables à des araignées de crabe. Cette configuration augmente considérablement la mobilité de la machine, lui permettant de changer rapidement de direction et d'échapper efficacement au feu.
 
-The droid is capable of not only moving quickly on the ground but also flying. Therefore, the classic tactic of "Hide Behind a Wall and Wait Out the Attack" works extremely poorly against it. It can avoid obstacles, change altitude, or attack from a completely unexpected direction.
+Le droïde est capable non seulement de se déplacer rapidement au sol, mais aussi de voler. Par conséquent, la tactique classique de "Cacher derrière un mur et attendre l'attaque" fonctionne extrêmement mal contre elle. Il peut éviter les obstacles, changer d'altitude ou attaquer d'une direction complètement inattendue.
 
-Despite its almost incredible durability, the Cyborg Robo is not completely invulnerable. It can be destroyed with sufficient firepower and the right tactics. However, this is extremely difficult: the machine can withstand damage that would disable most other droids.
+Malgré sa durabilité presque incroyable, le Cyborg Robo n'est pas complètement invulnérable. Il peut être détruit avec une puissance de feu suffisante et la bonne tactique. Cependant, c'est extrêmement difficile : la machine peut supporter des dommages qui désactiveraient la plupart des droïdes.
 
-In essence, the enemy faces not a single robot, but an entire collection of weapons platforms assembled in a single frame.
+Essentiellement, l'ennemi n'est pas confronté à un seul robot, mais à toute une collection de plates-formes d'armes assemblées en un seul cadre.
 
-That's why the Empire tries not to send it unless absolutely necessary. The loss of such a droid is irreparable, as the technology for its production has long been lost.
+C'est pourquoi l'Empire essaie de ne pas l'envoyer à moins d'être absolument nécessaire. La perte d'un tel droïde est irréparable, car la technologie pour sa production a longtemps été perdue.
 
-TIPS:
+CONSEILS:
 
-- If you encounter it alone, consider yourself extremely unlucky.
-- Don't attack first if the Robo-Cyborg is simply guarding the area. It may only issue a warning.
-- If combat begins, don't count on cover. The Robo-Cyborg is capable of flight and can change the direction of its attack.
-- Stay away from the flamethrower and saw. It is especially dangerous in close combat.
-- Watch out for limb transformations.
-- Heavy vehicles also don't guarantee safety due to its death cannon.
-- If the Robo-Cyborg has switched to spider-like configuration, be prepared for sharp maneuvers and evasive maneuvers.
+- Si vous le rencontrez seul, considérez-vous très malchanceux.
+- N'attaquez pas d'abord si le Robo-Cyborg garde la zone. Il ne peut émettre qu'un avertissement.
+- Si le combat commence, ne comptez pas sur la couverture. Le Robo-Cyborg est capable de voler et peut changer la direction de son attaque.
+- Éloignez-vous du lance-flammes et voyez. C'est particulièrement dangereux au combat rapproché.
+- Méfiez-vous des transformations des membres.
+- Les véhicules lourds ne garantissent pas non plus la sécurité en raison de son canon à mort.
+- Si le Robo-Cyborg a changé de configuration en araignée, préparez-vous à des manœuvres pointues et évasives.

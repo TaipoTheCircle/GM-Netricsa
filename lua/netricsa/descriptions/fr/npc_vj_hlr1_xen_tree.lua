@@ -1,32 +1,32 @@
-ARBRE DE XEN
+TREE DE XEN
 
 
-CLASS: Arbre Xen
-METABOLISM: Inconnu / Semi-parasite
-PERCEPTION: Flore extraterrestre de Xen
-SIZE: ~13-16 pieds de haut
-ENDURANCE: Très élevé (indestructible par des moyens normaux)
-HOSTILITY: Élevé (attaque toute créature qui s'approche)
-WEAPONS: Coup d'appendice crochu (attaque semblable à un tentacule)
-REWARD: 0 FC
-THREAT: Haut
+CLASSE:      Arbre Xen
+MÉTABOLISME: Inconnu / semi-parasite
+PERCEPTION: Alien Flora de Xen
+TAILLE:       ~13-16 pieds de haut
+ENDURANCE:  Très élevé (indestructible par des moyens normaux)
+HOSTILITÉ:  Haut (attaque toute créature qui s'approche)
+ARMES:    Serrure d'appendice crochetée (attaque de type tentaculaire)
+RÉCOMPENSE:     0 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-L'arbre Xen est un organisme extraterrestre hostile et mobile, semblable à un arbre, originaire de Xen et que l'on trouve également dans certaines parties de Black Mesa.
+Le Xen Tree est un organisme extraterrestre hostile et mobile, qui ressemble à un arbre, originaire de Xen.
 
-Il ressemble à une racine ou à un tronc inversé avec un grand appendice crochu à son sommet qui fonctionne comme un membre poignardant.
+Il ressemble à une racine ou un tronc inversé avec un grand appendice crocheté à son sommet qui fonctionne comme un membre poignardé.
 
-Bien qu'il ressemble à une plante et ait des racines, son tronc est articulé : l'arbre peut se balancer et s'étendre pour frapper les proies qui se déplacent à proximité. Lorsqu'une créature s'approche, l'arbre Xen poignarde violemment avec sa branche en forme de crochet, ce qui en fait un piège dans les zones que vous pourriez traverser sans le savoir.
+Bien qu'il semble végétal et enraciné, le tronc est articulé - l'arbre peut se balancer et s'étendre pour frapper des proies qui se déplacent à proximité. Quand une créature s'approche, le Xen Tree poignarde violemment avec son hameçon, ce qui en fait un piège dans les zones que vous pourriez traverser sans le savoir.
 
-Les arbres Xen ne consomment pas de corps et ne se nourrissent pas comme des animaux – ils attaquent simplement les intrus puis reviennent à un comportement inactif.
+Xen Trees ne consomment pas de corps ou se nourrissent comme des animaux - ils attaquent simplement les intrus et retournent ensuite au comportement inactif.
 
-On les trouve souvent à proximité des plantes Xen's Light Stalk et dans les endroits où l'écosystème Xen est dense, agissant comme une flore défensive dans l'environnement extraterrestre.
+Ils sont souvent trouvés près des plantes de Xen et dans des endroits où l'écosystème de Xen est dense, agissant comme une flore défensive dans l'environnement extraterrestre.
 .
 
-TIPS: 
+CONSEILS:
 
-- Gardez les mouvements minimes près des arbres Xen - leur attaque au couteau se déclenche en cas de mouvement.
-- Incitez les ennemis à marcher près d'eux pour que l'arbre tue.
-- Les attaques de mêlée ont tendance à déclencher des coups de couteau plus rapidement que la normale.
-- Les dégâts normaux des armes ont peu d'effet - elles sont extrêmement résistantes aux tirs conventionnels.
+- Garder le mouvement minimal près de Xen Trees - leur attaque au couteau déclenche sur le mouvement.
+- Des ennemis en marchent près d'eux pour que l'arbre tue.
+- Les attaques de Melee ont tendance à déclencher une attaque plus rapide que la normale.
+- Les armes normales sont peu endommagées - elles sont extrêmement résistantes aux tirs conventionnels.

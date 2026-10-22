@@ -1,24 +1,24 @@
-Cavalier sans tête
+HORSÉMAN
 
 
-CLASS: Cavalier sans tête
-METABOLISM: Essence de mort-vivant
+CLASSE:      Cavalier sans tête
+MÉTABOLISME: Essence non morte
 PERCEPTION: Cavalier maudit
-SIZE: ~7 pieds
-ENDURANCE: Très élevé
-HOSTILITY: Extrême envers les ennemis du Reich
-WEAPONS: Hache maudite, aura de terreur
-REWARD: 900 FC
-THREAT: Haut
+TAILLE:       ~7 pi 
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Extreme aux ennemis du Reich
+ARMES:    Hache maudite, aura de terreur
+RÉCOMPENSE:     900 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Autrefois chevalier tombé au combat, le cavalier sans tête était lié au service éternel par un sombre pacte. L'Allemagne, à la recherche d'alliés puissants, a accepté le cavalier dans ses rangs, le transformant en un bourreau spectral qui fait peur à tous les ennemis du Reich.
+Autrefois chevalier tombé au combat, le Cavalier sans tête était lié au service éternel par un pacte sombre. L'Allemagne, cherchant des alliés puissants, accepta le cavalier dans ses rangs, le transformant en bourreau spectral qui frappe la peur en tous les ennemis du Reich.
 
-Il brandit une énorme hache maudite avec une force terrifiante. Bien qu'il n'ait pas de tête, ses sens sont surnaturels, lui permettant de chasser ses proies sans se tromper.
+Il balance une hache maudite avec une force terrifiante. Bien qu'il n'ait pas de tête, ses sens sont surnaturels, lui permettant de chasser sa proie sans arrêt.
 
-TIPS: 
+CONSEILS:
 
-- Restez hors de portée de mêlée - sa hache peut fendre plusieurs cibles à la fois.
-- Les balles le ralentissent mais l'achèvent rarement.
+- T'en mêle pas, sa hache peut traverser plusieurs cibles en même temps.
+- Les balles le ralentissent mais le finissent rarement.
 - Le feu ou les explosifs fonctionnent mieux pour disperser sa forme spectrale.

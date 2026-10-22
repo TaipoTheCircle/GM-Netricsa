@@ -1,23 +1,23 @@
-NOYAU DE TENTACLE DE XEN
+TANTACLE CORE DE XEN
 
 
-CLASS: Noyau de tentacule
-METABOLISM: Amas neuronal xénobiologique
-PERCEPTION: Le noyau de l’énorme créature extraterrestre
-SIZE: 5-10 pieds
-ENDURANCE: Moyen
-HOSTILITY: Indirect
-WEAPONS: Coordonne les tentacules
-REWARD: 2500FC
-THREAT: Catastrophique
+CLASSE:      Noyau du Tentacle
+MÉTABOLISME: Cluster neurologique Xénobiologique
+PERCEPTION: Le noyau de l'énorme créature étrangère
+TAILLE:       5-10 pieds 
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Indirect
+ARMES:    Coordonne les tentacules
+RÉCOMPENSE:     2500 FC
+MENACE:     Catastrophes
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Cette masse isolée est le Tentacle Core, l'unité centrale de contrôle de tous les appendices tentaculaires de sa zone. Sans le noyau, les tentacules sont inertes, laissant l’environnement relativement sûr. Son apparence ressemble à un cerveau grotesque doté de nœuds sensoriels, parfaitement conçus pour relayer les signaux à chaque tentacule. Bien qu’il soit sans défense, tant qu’il reste intact, chaque tentacule qui y est connecté est vivant et mortel.
+Cette masse isolée est le noyau du Tentacle, l'unité centrale de contrôle de tous les appendices du tentacle dans sa zone. Sans le noyau, les tentacules sont inertes, laissant l'environnement relativement sûr. Son aspect ressemble à un cerveau grotesque avec des nœuds sensoriels, parfaitement conçu pour transmettre des signaux à chaque tentacule. Bien que sans défense seule, tant qu'elle reste intacte, chaque tentacule qui lui est liée est vivante et mortelle.
 
-TIPS: 
+CONSEILS:
 
-- Concentrer les risques d'incendie ou environnementaux directement sur le noyau.
+- Mettre l'accent sur l'incendie ou les risques environnementaux directement au cœur.
 - Une fois détruits, tous les tentacules actifs deviennent inutiles.
-- Approach carefully: même s'il semble impuissant.
+- Approchez attentivement : même si elle semble impuissante.
 

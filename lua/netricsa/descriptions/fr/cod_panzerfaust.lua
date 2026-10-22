@@ -1,22 +1,22 @@
 PANZERFAUST ANTI-TANK GRENADE LAUNCHER
 
 
-ARME : Panzerfaust Anti-Tank Grenade Launcher
-MUNITIONS : HEAT Anti-Tank Grenade
-ROF : ~1 round / min
-POIDS : ~5-9,4 kg
+ARME:    Panzerfaust Lanceur anti-tank Grenade
+MUNITIONS:      Grenade antidérapante
+CADENCE DE TIR:       ~1 tour / min
+POIDS:    ~5-9,4 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-A German disposable anti-tank grenade launcher from World War II. It was designed as a simple and affordable anti-tank weapon, suitable for use by even the most untrained soldiers. Unlike rocket-propelled grenades, the Panzerfaust did not have a rocket motor: the propellant charge burned inside the launch tube, propelling the shaped-charge grenade.
+Un lance-grenades jetable allemand de la Seconde Guerre mondiale. Il a été conçu comme une arme antichar simple et abordable, adaptée à l'usage même des soldats les plus peu entraînés. Contrairement aux grenades propulsées par fusée, le Panzerfaust n'avait pas de moteur de fusée : la charge propulsive a brûlé à l'intérieur du tube de lancement, propulsant la grenade en forme de charge.
 
-The grenade had a large shaped-charge warhead and, in common variants, could penetrate up to 200 mm of steel. The Panzerfaust 30, 60, and 100 versions existed, named after their nominal effective range in meters. Subsequent variants received improved warheads and a longer range.
+La grenade avait une grande ogive en forme de charge et, dans des variantes communes, pouvait pénétrer jusqu'à 200 mm d'acier. Les versions Panzerfaust 30, 60 et 100 existaient, nommées d'après leur gamme nominale en mètres. Les variantes suivantes ont reçu des ogives améliorées et une portée plus longue.
 
-The weapon was particularly dangerous in urban combat, where the close distance to armored vehicles allowed for its most effective use. Once fired, the standard Panzerfaust's launch tube was not designed for reuse.
+L'arme était particulièrement dangereuse dans le combat urbain, où la proximité des véhicules blindés permettait son utilisation la plus efficace. Une fois tiré, le tube de lancement standard de Panzerfaust n'a pas été conçu pour être réutilisé.
 
-REMARQUES :
+REMARQUES:
 
-- Particularly dangerous to armored vehicles at close range.
-- The closer the target is to the effective range of a particular model, the more reliable the hit against armored targets.
-- The Panzerfaust ejects a powerful stream of gases rearward, requiring clear space behind the shooter.
-- The name translates as "armored fist". And this is a case where the name wasn't trying to be modest at all.
+- Particulièrement dangereux pour les véhicules blindés à proximité.
+- Plus la cible est proche de la gamme efficace d'un modèle particulier, plus la frappe contre des cibles blindées est fiable.
+- Le Panzerfaust éjecte un puissant flux de gaz vers l'arrière, nécessitant un espace clair derrière le tireur.
+- Le nom se traduit par « poing armé ». Et c'est un cas où le nom n'a pas essayé d'être modeste du tout.

@@ -1,21 +1,21 @@
-TÊTE DE CRABE POISON DE XEN
+POISSON HEADCRAB DE XEN
 
 
-CLASS: Crabe, Poison
-METABOLISM: parasite
-PERCEPTION: détection d'odeurs et de chaleur accrues
-SIZE: 1,7 pied
-ENDURANCE: faible
-HOSTILITY: extrême
-WEAPONS: morsure venimeuse, saut
-REWARD: 200FC
-THREAT: haut
+CLASSE:      Gratte-tête, poison 
+MÉTABOLISME: parasite
+PERCEPTION: détection accrue des odeurs et de la chaleur
+TAILLE:       1,7 pi
+ENDURANCE:  faible
+HOSTILITÉ:  extrême
+ARMES:    morsure veineuse, saut
+RÉCOMPENSE:     200 FC
+MENACE:     élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Autre horrible mutation de Xen, les crabes venimeux se distinguent par leur corps noir gonflé. Leurs crocs délivrent un venin qui tue presque instantanément la victime, la réduisant à un éclat de vie. Le poison disparaît lentement, mais rarement avant que les autres ennemis n'aient terminé le travail. Ces créatures accompagnent souvent les zombies venimeux, s'accrochant à leur hôte jusqu'à ce qu'elles soient lancées au combat comme des armes vivantes.
+Une autre mutation horrible de Xen, les crânes de poison se distinguent par leur corps noir gonflé. Leurs crocs délivrent un venin qui tue presque la victime instantanément, les réduisant à une perte de vie. Le poison disparaît lentement, mais rarement avant que d'autres ennemis ne terminent le travail. Ces créatures accompagnent souvent les zombies empoisonnés, s'accrochant à leur hôte jusqu'à ce qu'ils soient jetés au combat comme des armes vivantes.
 
-TIPS: 
+CONSEILS:
 
-- Leur venin est le plus mortel de tous les types de crabes.
-- Engagez-vous à distance, ne risquez pas le combat rapproché.
+- Leur venin est le plus meurtrier de tous les types de crânes.
+- L'engagement à portée ne risque pas un combat rapproché.

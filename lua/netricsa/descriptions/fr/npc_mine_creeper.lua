@@ -1,29 +1,29 @@
-CREEPER DU MONDE MINECRAFT
+CREEPER DU MINECRAFT SURVEILLANCE
 
 
-CLASS: Liane
-METABOLISM: Produits chimiques végétaux
-PERCEPTION: Créature végétale à poudre à canon
-SIZE: 5,5 pieds
-ENDURANCE: Faible
-HOSTILITY: Haut
-WEAPONS: Auto-détonation
-REWARD: 100 FC
-THREAT: Moyen-élevé
+CLASSE:      Creeper
+MÉTABOLISME: Produits végétaux chimiques
+PERCEPTION: Créature de la poudre végétale
+TAILLE:       5,5 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Haut
+ARMES:    Autodétonation
+RÉCOMPENSE:     100 FC
+MENACE:     Moyenne-haute
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Creeper est l’une des créatures les plus dangereuses et les plus reconnaissables de l’Overworld. Il ressemble à une grande créature verte sans bras avec quatre pattes courtes. Son corps est recouvert d'un motif camouflage qui lui permet de se fondre facilement dans l'herbe et le feuillage, ce qui en fait un adversaire particulièrement rusé.
+Le Creeper est l'une des créatures les plus dangereuses et reconnaissables du monde. Il ressemble à une créature haute, verte, sans bras avec quatre jambes courtes. Son corps est recouvert d'un motif de camouflage qui lui permet de se fondre facilement avec l'herbe et le feuillage, ce qui en fait un adversaire particulièrement rusé.
 
-La principale caractéristique du Creeper est sa capacité à se faire exploser. À l'approche d'une cible, il se met à siffler puis explose, causant de sérieux dégâts à l'ennemi et aux environs. La plante grimpante elle-même meurt sans montrer aucun signe d’auto-préservation, ce qui en fait davantage une arme vivante qu’une foule ordinaire.
+La caractéristique principale du Creeper est sa capacité à exploser. Lorsqu'elle approche d'une cible, elle commence à siffler puis explose, causant de graves dommages à l'ennemi et aux environs. Le rampant lui-même meurt sans montrer aucun signe d'auto-préservation, ce qui en fait une arme plus vivante qu'une foule régulière.
 
-L'origine des plantes grimpantes reste un mystère.
+L'origine des rampants reste un mystère.
 
-TIPS: 
+CONSEILS:
 
-- Peut se faufiler inaperçu
-- L'explosion détruit des blocs et des bâtiments
-- Lorsqu'il est frappé par la foudre, se transforme en plante grimpante chargée, augmentant le rayon et la puissance de l'explosion
-- Gardez vos distances et utilisez un arc.
+- Peut se faufiler sans remarquer
+- Explosion détruit les blocs et les bâtiments
+- Lorsqu'il est frappé par la foudre, il se transforme en un fluage chargé, augmentant le rayon et la puissance de l'explosion
+- Gardez votre distance et utilisez un arc.
 - Un bouclier réduit considérablement les dégâts d'explosion.
-- Évitez de combattre les plantes grimpantes près des bâtiments, elles n'apprécient pas l'architecture.
+- Éviter de combattre les monstres près des bâtiments - ils n'apprécient pas l'architecture.

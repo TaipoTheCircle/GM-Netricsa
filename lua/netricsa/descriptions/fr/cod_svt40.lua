@@ -1,23 +1,23 @@
-SVT-40 SELF-LOADING RIFLE
+VIOLATION DE L'AUTORISATION
 
 
-ARME : SVT-40 Self-Loading Rifle
-MUNITIONS : 7.62x54 mm R
-ROF : ~30 rounds / min
-POIDS : ~3,8 kg
+ARME: SVT-40 Rifle autoportante
+MUNITIONS:   7,62 x 54 mm R
+CADENCE DE TIR:    ~30 tours/min
+POIDS: ~3,8 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-The SVT-40, a Tokarev Model 1940 self-loading rifle, was a Soviet military rifle used during the Great Patriotic War. It was designed as a modern replacement for magazine-fed rifles and was intended to significantly increase the firepower of infantry squads. The SVT-40 was accepted into service in 1940 and remained in production until 1945.
+Le SVT-40, un fusil tokarev modèle 1940, était un fusil militaire soviétique utilisé pendant la Grande Guerre patriotique. Il a été conçu comme un remplacement moderne des fusils alimentés par des magazines et a été conçu pour augmenter considérablement la puissance de feu des escadrons d'infanterie. Le SVT-40 a été accepté en service en 1940 et est resté en production jusqu'en 1945.
 
-The rifle uses a gas-operated system with a tilting bolt locking mechanism. Unlike the Mosin, the SVT-40 automatically ejects the spent cartridge after firing and chambers the next round, allowing the shooter to quickly fire follow-up shots without manually operating the bolt. It is fed from a detachable 10-round magazine.
+Le fusil utilise un système à gaz avec un mécanisme de verrouillage par boulon incliné. Contrairement à la Mosine, la SVT-40 éjecte automatiquement la cartouche épuisée après le tir et installe le tour suivant, permettant au tireur de tirer rapidement des tirs de suivi sans actionner manuellement le boulon. Il est alimenté par un magazine détachable de 10 tours.
 
-The SVT-40 had an effective range of approximately 400 meters and a muzzle velocity of approximately 830 m/s. A sniper variant was also available, but its production ceased in 1942 due to insufficient accuracy.
+Le SVT-40 avait une portée efficace d'environ 400 mètres et une vitesse de museau d'environ 830 m/s. Une variante de sniper était également disponible, mais sa production a cessé en 1942 en raison d'une précision insuffisante.
 
-Later, the AVT-40, capable of automatic fire, was developed from the SVT-40. However, intensive burst fire proved too taxing for the design, so the automatic variant suffered from reliability and component durability issues.
+Plus tard, l'AVT-40, capable de tirer automatiquement, a été développé à partir du SVT-40. Cependant, l'incendie intensif s'est révélé trop imposant pour la conception, de sorte que la variante automatique a souffert de problèmes de fiabilité et de durabilité des composants.
 
-REMARQUES :
+REMARQUES:
 
-- Well suited for medium and long ranges, especially when firing single shots.
-- The semiautomatic system allows for significantly faster follow-up shots than a conventional magazine-fed rifle. The rifle required more careful maintenance and proper gas system adjustment than a simple Mosin rifle.
-- The SVT-40: a Soviet attempt to modernize the infantry rifle. It has automatics and a magazine, but its character remains stern.
+- Bien adapté pour les gammes moyennes et longues, particulièrement lors des tirs simples.
+- Le système semi-automatique permet un suivi nettement plus rapide qu'un fusil conventionnel alimenté par des magazines. Le fusil a nécessité un entretien plus minutieux et un réglage approprié du système de gaz que le simple fusil Mosin.
+- Le SVT-40 : une tentative soviétique de modernisation du fusil d'infanterie. Il a des automatiques et un magazine, mais son caractère reste étroit.

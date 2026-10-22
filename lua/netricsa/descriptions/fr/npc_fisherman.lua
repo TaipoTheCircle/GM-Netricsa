@@ -1,22 +1,22 @@
-LE PÊCHEUR
+LE PÊCHE
 
 
-CLASS: Le pêcheur
-METABOLISM: Humain, mâle
-PERCEPTION: Guide local humain, allié de la résistance côtière
-SIZE: ~5,8 pieds
-ENDURANCE: Moyen (usé par les intempéries mais stable)
-HOSTILITY: Faible (guide convivial)
-WEAPONS: Harpon (défensif, rarement utilisé)
-REWARD: 500FC
-THREAT: Faible
+CLASSE:      Le pêcheur
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Guide local humain, allié de résistance côtière
+TAILLE:       ~5,8 pieds
+ENDURANCE:  Moyenne (portée en temps mais stable)
+HOSTILITÉ:  Faible (guide convivial)
+ARMES:    Harpoon (défensif, rarement utilisé)
+RÉCOMPENSE:     500 FC
+MENACE:     Faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le pêcheur apparaît comme un local bourru mais attentionné qui aide Gordon Freeman. Reconnaissant Gordon comme "ce type scientifique", il déverrouille une porte, s'arme de son harpon et guide Freeman vers l'élimination d'un lanceur Combine Headcrab Shell menaçant à proximité de St. Olga.
+Le pêcheur apparaît comme un morveux mais attentionné local qui aide Gordon Freeman. Reconnaissant Gordon comme « ce scientifique-là », il déverrouille une porte, se arme de son harpon, et guide Freeman vers l'élimination d'un lance-roquette Combine Headcrab Shell menaçant près de St. Olga.
 
-Ses paroles sont encore plus touchantes que ses actes. Il s'inquiète pour les créatures qui survivent encore à l'écosystème modifié de la Terre, avertissant Gordon de ne pas tirer sur les mouettes car "elles maintiennent la population de sangsues à un niveau bas", déplorant que "nous avons déjà perdu suffisamment d'espèces".
+Ses paroles sont encore plus touchantes que ses actions. Il s'inquiète des créatures qui survivent encore à l'évolution de l'écosystème de la Terre, ce qui avertit Gordon de ne pas tirer sur les mouettes parce qu'elles « maintiennent la population de sangsues », lamentant que « nous avons déjà perdu assez d'espèces ».
 
-TIPS: 
+CONSEILS:
 
-- Il n'est pas fiable au combat, mais il est d'une valeur inestimable en tant que guide local.
+- Il est peu fiable au combat, mais précieux comme guide local.

@@ -1,22 +1,22 @@
-H.E.C.U. RECRUTER
+S.E.C.U. RECRUIT
 
 
-CLASS: H.E.C.U. Recruter
-METABOLISM: Humain
-PERCEPTION: Stagiaire Humain/Militaire
-SIZE: ~5,9 pieds
-ENDURANCE: Faible
-HOSTILITY: Aucun
-WEAPONS: Aucun
-REWARD: 70 FC
-THREAT: Très faible
+CLASSE:      S.E.C.U. Recrutement
+MÉTABOLISME: Humain
+PERCEPTION: Stagiaire humain / militaire
+TAILLE:       ~5,9 pi
+ENDURANCE:  Faible
+HOSTILITÉ:  Aucune
+ARMES:    Aucune
+RÉCOMPENSE:     70 FC
+MENACE:     Très faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le H.E.C.U. La recrue représente un soldat non entraîné dans les premiers stades du camp d'entraînement. Contrairement à leurs homologues entièrement armés, ces recrues manquent d’armes, d’armures ou de préparation au combat. Face au danger, ils paniquent et fuient au lieu de se battre, essayant souvent de se mettre à couvert ou de suivre les commandants.
+Le recrues de l'U.S.C. représente un soldat non formé aux premières étapes du camp de démarrage. Contrairement à leurs homologues pleinement armés, ces recrues manquent d'armes, d'armure ou de préparation au combat. Face au danger, ils paniquent et fuient au lieu de se battre, essayant souvent de se couvrir ou de suivre les commandants.
 
-Ils symbolisent la matière première de l'unité de combat en environnement dangereux - de jeunes soldats inexpérimentés qui ne sont pas encore endurcis par le combat réel. Bien qu'inoffensives individuellement, leur présence met en évidence le vaste mécanisme d'entraînement militaire qui a produit les H.E.C.U. marines envoyés à Black Mesa.
+Ils symbolisent la matière première de l'Unité de combat pour l'environnement dangereux - des soldats jeunes et inexpérimentés qui ne sont pas encore endurcis par de véritables combats. Bien qu'inoffensifs individuellement, leur présence met en évidence la vaste machinerie de l'entraînement militaire qui a produit les Marines de l'U.E.C. envoyés à Black Mesa.
 
-TIPS: 
+CONSEILS:
 
 - Les recrues n'attaqueront pas, même si elles sont menacées.

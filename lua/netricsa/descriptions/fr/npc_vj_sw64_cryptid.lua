@@ -1,27 +1,27 @@
-CORNES DE LA PLAGE BROADSIDE
+HORS DE LA CHAQUE BROADSIDE
 
 
-CLASS: Cornes
-METABOLISM: Créature maudite
-PERCEPTION: Monstre de la forêt
-SIZE: 5,9 pieds
-ENDURANCE: Infini
-HOSTILITY: Absolu
-WEAPOON: Touche
-REWARD: La vie ou la mort
-THREAT: Absolu
+CLASSE:      Cornes
+MÉTABOLISME: Créature maudite
+PERCEPTION: Monstre forestier
+TAILLE:       5,9 pieds
+ENDURANCE:  Infinite
+HOSTILITÉ:  Absolu
+WEAPOON:    Toucher
+RÉCOMPENSE:     Vie ou mort
+MENACE:     Absolu
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Personne ne sait d’où il vient ni ce qu’il est. Son apparence ressemble à un animal bossu à la peau noire comme de la pierre. Au lieu d'un visage, il a un crâne avec des cornes.
+Personne ne sait d'où il vient ni ce qu'il est. Son apparence ressemble à un animal à fond de pierre avec une peau noire. Au lieu d'un visage, il a un crâne avec des cornes.
 
-La rumeur veut que Horns était autrefois un lapin qui insultait Dieu et que chaque fois qu'il sortait, la foudre le frappait, le brûlant mais ne le tuant jamais, ce qui l'a finalement amené à prendre sa forme actuelle.
+La rumeur dit que Horns était autrefois un lapin qui insultait Dieu et chaque fois qu'il sortait, la foudre le frappait, le brûlait mais ne le tuait jamais, ce qui l'a conduit à prendre sa forme actuelle.
 
-Il patrouille lentement dans la forteresse abandonnée et dans la forêt endormie, essayant d'empêcher Bucky de retrouver les morceaux de son navire naufragé. Il se déplace très lentement, encore plus lentement que Bucky, mais il sait toujours où se trouve sa cible et ne s'arrête jamais. Si Horns attrape Bucky, il mourra.
+Il patrouille lentement la forteresse abandonnée et la forêt endormie, essayant d'empêcher Bucky de trouver les morceaux de son navire détruit. Il se déplace très lentement-même plus lentement que Bucky- mais il sait toujours où est sa cible et ne s'arrête jamais. Si Horns prend Bucky, il mourra.
 
-TIPS: 
+CONSEILS:
 
-- Les cornes ne peuvent pas être tuées. N'essayez pas. Courez.
-- Il sait toujours où tu es. Se cacher ne sert à rien.
-- Bougez, mais ne courez pas inutilement. Il y a un rythme dans sa démarche lente que vous pouvez exploiter.
-- N'essayez pas de comprendre sa nature. C'est juste un monstre de la forêt fantôme.
+- Les cornes ne peuvent pas être tuées. N'essaie pas. Courez.
+- Il sait toujours où tu es. Cacher est inutile.
+- Bouge, mais ne cours pas inutilement. Il y a un rythme à sa démarche lente que vous pouvez exploiter.
+- N'essaie pas de comprendre sa nature. C'est juste un monstre de forêt.

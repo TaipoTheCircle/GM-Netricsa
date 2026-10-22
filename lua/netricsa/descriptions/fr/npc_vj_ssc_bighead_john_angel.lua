@@ -1,28 +1,28 @@
-GROSSE TÊTE, JOHN J. DICK "BOOGER"
+GRANDE ANGEL, JOHN J. DICK "BOOGER"
 
 
-CLASS: Ange à grosse tête, John J. Dick "Booger"
-METABOLISM: Humanoïde, mâle
+CLASSE:      Big-Head Angel, John J. Dick "Booger"
+MÉTABOLISME: Humanoïde, Homme
 PERCEPTION: Fanatique enthousiaste
-SIZE: 5,9 pieds
-ENDURANCE: Faible
-HOSTILITY: Neutre
-WEAPONS: Aucun (sauf en difficulté I Am Ugh-Zan)
-REWARD: 100 FC
-THREAT: Ennui
+TAILLE:       5,9 pieds
+ENDURANCE:    Faible
+HOSTILITÉ:  Neutre
+ARMES:    Aucune (sauf sur I Am Ugh-Zan difficulté)
+RÉCOMPENSE:     100 FC
+MENACE:     Annoyance
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les Big-Heads sont de minces humanoïdes aux crânes exagérés contenant le cerveau des développeurs de Croteam. Ils portent l'uniforme de Serious Sam, mais ont les traits du visage uniques de l'équipe de développement. Ils affichent un enthousiasme obsessionnel et vous poursuivent aux cris de « Bonjour ! » et "Hé, attends!" Ils sont totalement inoffensifs, mais dans la difficulté "Je suis Ugh-Zan", ils gagnent des modificateurs de feu et de glace. Ils apparaissent spontanément dans les zones secrètes, bloquant les passages par leur grand nombre.
+Les grandes têtes sont de minces humanoïdes avec des crânes exagérés contenant les cerveaux des développeurs de Croteam. Ils portent l'uniforme de Serious Sam, mais ont les caractéristiques faciales uniques de l'équipe de développement. Ils montrent un enthousiasme obsessionnel, vous poursuivant avec des cris de "Bonjour!" et "Hé, attendez!" Ils sont complètement inoffensifs, mais dans la difficulté "Je suis Ugh-Zan", ils gagnent le feu et les modificateurs de glace. Ils apparaissent spontanément dans les zones secrètes, bloquant les passages avec leur nombre.
 
-John J. Dick est l'incarnation vivante de l'esprit de Sam Stone. Son crâne surdimensionné est une référence directe à cette voix grave, rauque et incroyablement charismatique qui est la signature de la série depuis des décennies. C'est la voix qui a fait du personnage une icône, dont les cris "Aaah, c'est toi !" et "OUAIS!" sont familiers à des millions de joueurs.
+John J. Dick est l'incarnation vivante de l'esprit de Sam Stone. Son crâne surdimensionné est une référence directe à cette voix profonde, fougueuse et incroyablement charismatique qui est la signature de la série depuis des décennies. C'est la voix qui a transformé le personnage en une icône, dont les cris de "Aaah, c'est toi!" et "YEAH!" sont familiers à des millions de joueurs.
 
-John's biography is a story of true "serious" survival: du service militaire dans le golfe Persique et de la vie dans la rue à une carrière de DJ et, enfin, à l'immortalité dans l'industrie du jeu vidéo. Son approche pragmatique du travail et son amour pour les développeurs indépendants reflètent la même énergie irrépressible, libre d'esprit et légèrement folle qui caractérise son personnage le plus célèbre.
+La biographie de John est une histoire de véritable survie « grave » : du service militaire dans le golfe Persique et la vie de rue à une carrière de DJ et, enfin, l'immortalité dans l'industrie du jeu. Son approche pragmatique du travail et de l'amour pour les développeurs indépendants reflète la même énergie irrépressible, libre d'esprit et légèrement folle qui caractérise son personnage le plus célèbre.
 
-Il était autrefois vivant, mais après que vous l'ayez tué dans le temple d'Hatchepsout, il est ressuscité et est devenu un ange.
+Il était une fois vivant, mais après que vous l'ayez tué dans le Temple de Hatshepsut, il a été ressuscité - devenir un ange.
 
-TIPS: 
+CONSEILS:
 
 - Utilisez un couteau de combat ou un pistolet pour dégager le chemin.
-- En difficulté "I Am Ugh-Zan", éliminez-les à distance grâce à leurs modificateurs.
-- Une masse à frappe horizontale est efficace en groupe.
+- Sur la difficulté "Je suis Ugh-Zan", les éliminer à distance en raison de leurs modificateurs.
+- Un lugehammer avec une frappe horizontale est efficace dans un groupe.

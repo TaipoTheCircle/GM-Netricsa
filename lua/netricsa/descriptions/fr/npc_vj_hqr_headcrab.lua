@@ -1,28 +1,28 @@
-DRAGON HEADCRAB SPECTACLE DEMI-SÉMEMENT
+HALF-QUAKE SHOW COMMON HEADCRAB
 
 
-CLASS: Crabe de spectacle HALF-QUAKE, commun
-METABOLISM: Xénofaune parasitaire
+CLASSE:      En-tête d'exposition HALF-QUAKE, commun
+MÉTABOLISME: Xénofaune parasite
 PERCEPTION: Arme biologique
-SIZE: 1-2 pieds
-ENDURANCE: Moyen
-HOSTILITY: Haut
-WEAPONS: Morsure, attachement permanent
-REWARD: 150 FC
-THREAT: Moyen
+TAILLE:       1-2 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Bite, fixation permanente
+RÉCOMPENSE:     150 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-THE BLACK MESA a élevé ces créatures spécifiquement pour le spectacle sadique HALF-QUAKE. La direction du projet voulait des crabes communs, mais avec une marque reconnaissable, afin que les téléspectateurs comprennent immédiatement qu'il ne s'agissait pas simplement d'un parasite de Xen, mais d'un produit d'entreprise.
+LE MESA BLACK a créé ces créatures spécifiquement pour le Salon sadique HALF-QUAKE. La direction du projet voulait des headcrabs communs, mais avec une marque reconnaissable, donc les téléspectateurs comprendraient immédiatement que ce n'était pas seulement un parasite de Xen, mais un produit d'entreprise.
 
-Chaque spécimen porte une marque noire gravée directement sur le dessus de la tête ">)". Apparemment, ils ont été brûlés alors qu'ils étaient encore au stade larvaire : la chitine a cuit en couches égales, et maintenant la marque ne peut plus être lavée ou grattée. La version officielle est que la marque est destinée au contrôle de la population et à la prévention du vol.
+Chaque spécimen a une marque noire brûlée directement sur le dessus de sa tête ">). Apparemment, ils ont été brûlés pendant qu'ils étaient encore dans le stade larvaire - le chitin a cuit sur des couches égales, et maintenant la marque ne peut pas être lavé ou gratté. La version officielle est que la marque est pour le contrôle de la population et pour empêcher le vol.
 
-La version non officielle est que les producteurs de HALF-QUAKE aiment simplement regarder ces choses sauter sur les gens avec leur logo sur la tête.
+La version officieuse est que les producteurs de HALF-QUAKE aiment simplement regarder ces choses sauter sur les gens avec leur logo sur leur tête.
 
-Otherwise, they're just regular Xen headcrabs: ils sentent la chaleur, sautent du plafond, s'enfouissent dans votre crâne et vous transforment en légume. Mais maintenant, ce sont aussi des publicités ambulantes.
+Sinon, ce ne sont que des cabillauds Xen : ils sentent la chaleur, sautent du plafond, creusent dans votre crâne et vous transforment en légume. Mais maintenant ils marchent aussi des publicités.
 
-TIPS: 
+CONSEILS:
 
-- Si vous voyez la marque ">)", sachez qu'ils ont payé une fortune pour cette créature. Il a quelque chose à prouver.
-- Ils sautent de n'importe quelle surface plus haute que vous. Surveillez vos arrières.
-- Ils sont impuissants au sol. Frappez-les avant qu'ils sautent.
+- Si vous voyez la marque ">)-savoir qu'ils ont payé une fortune pour cette créature. Il a quelque chose à prouver.
+- Ils sautent de n'importe quelle surface plus grande que toi. Surveille ton dos.
+- Ils sont impuissants avant de sauter.

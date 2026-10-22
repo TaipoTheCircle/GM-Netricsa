@@ -1,17 +1,17 @@
-COMBINEZ LE BÂTON ÉTONNANT
+ÉTAT DE COMBINE
 
 
-WEAPON: Combiner le bâton paralysant
-AMMO: Aucun (mêlée, électrique)
-ROF: ~90 frappes/min
+ARME:      Combiner le bâton étouffé
+MUNITIONS:        Aucune (mélange, électrique)
+CADENCE DE TIR:         ~90 grèves/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Arme de mêlée électrifiée utilisée par les soldats du Combine pour les combats rapprochés. Délivre de puissants chocs électriques capables de neutraliser instantanément la plupart des cibles organiques. Léger et efficace pour le contrôle des foules ou comme arme de dernier recours.
+Arme électrifiée utilisée par Combiner des soldats pour le combat de quartier rapproché. Fournit des chocs électriques puissants capables d'invalider la plupart des cibles organiques instantanément. Léger et efficace pour le contrôle de foule ou comme arme de dernier ressort.
 
-NOTES: 
+REMARQUES:
 
-- Dégâts de mêlée élevés avec un effet époustouflant.
-- Utilisation illimitée, aucune munition requise.
-- Efficace uniquement à courte portée.
-- Peut être combiné avec d'autres attaques pour un contrôle maximal des foules.
+- De grands dégâts de mêlée avec un effet étonnant.
+- Utilisation illimitée, sans munitions.
+- Efficace seulement à proximité.
+- Peut être combiné avec d'autres attaques pour le contrôle maximum de la foule.

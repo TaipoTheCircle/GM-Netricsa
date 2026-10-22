@@ -1,24 +1,24 @@
-COUREUR DE ZOMBIE DE CRABE
+RUNNER AU CŒUR DE ZOMBIE
 
 
-CLASS: Zombie de crabe, coureur
-METABOLISM: hôte humain + parasite Xen Headcrab (amélioré)
+CLASSE:      Gratte-tête Zombie, Coureur
+MÉTABOLISME: hôte humain + cratère de Xen parasite (renforcé)
 PERCEPTION: Entité zombifiée
-SIZE: ~6 pieds de haut
-ENDURANCE: moyen-élevé
-HOSTILITY: extrême
-WEAPONS: frappes de griffes de mêlée.
-REWARD: 400FC
-THREAT: élevé individuellement, très élevé en paquets
+TAILLE:       6 pieds de haut
+ENDURANCE:  moyenne-élevée
+HOSTILITÉ:  extrême
+ARMES:    les griffes melee frappent.
+RÉCOMPENSE:     400 FC
+MENACE:     haut individuellement, très haut en paquets
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Headcrab Zombie Runner est une évolution terrifiante du Common Headcrab Zombie standard. Bien qu'il soit toujours lié à son hôte, le Runner est plus rapide et plus agile pour atteindre ses proies. Contrairement à l'original, il peut rapidement combler les lacunes, ce qui le rend extrêmement dangereux dans les couloirs ou en combat ouvert.
+Le headcrab Zombie Runner est une évolution terrifiante du headcrab commun standard Zombie. Alors que l'hôte est toujours lié à son crapaud, le Runner est plus rapide, plus agile pour atteindre les proies. Contrairement à l'original, il peut rapidement combler les lacunes, ce qui le rend extrêmement dangereux dans les couloirs ou les combats ouverts.
 
-Le corps de son hôte humain est tordu et contorsionné, reflétant la violente adaptation imposée par le Headcrab. Bien que son crâne soit encore visible sous le parasite, cela permet une poursuite rapide et des attaques soudaines, ce qui lui vaut le surnom de « Coureur » parmi les survivants.
+Le corps de son hôte humain est tordu et contorsé, reflétant l'adaptation violente imposée par le headcrab. Alors que son crâne est encore visible sous le parasite, cela permet une poursuite rapide et des attaques soudaines, lui donnant le surnom "Runner" parmi les survivants.
 
-TIPS: 
+CONSEILS:
 
-- Maintenez vos distances : leur vitesse rend les rencontres rapprochées mortelles.
-- Donner la priorité aux attaques à distance ; la mêlée est très risquée.
-- Les pièges environnementaux ou points d'étranglement sont efficaces pour les ralentir.
+- Maintenez la distance - leur vitesse fait des rencontres rapprochées mortelles.
+- Privilégier les attaques, la mêlée est très risquée.
+- Les pièges environnementaux ou les points d'étranglement sont efficaces pour les ralentir.

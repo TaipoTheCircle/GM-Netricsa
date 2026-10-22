@@ -1,14 +1,14 @@
-VPO-136 HUNTING CARABINE
+VPO-136 CARABINE HONTANTE
 
 
-WEAPON:      VPO-136
-MUNITIONS Cartouches 7,62×39
-ROF: ~15 tours/min
+ARME:      VPO-136
+MUNITIONS:        7.62×39 cartouches
+CADENCE DE TIR:         ~15 tours/min
 
 DESCRIPTION:
 
-Carabine de chasse à chargement automatique chambrée pour cartouches 7,62 × 39. Basé sur le fusil d'assaut Kalachnikov AKM, modifié pour répondre aux exigences des armes de chasse civiles rayées.
+Carbine de chasse à chargement automatique en chambre pour les cartouches 7.62×39. D'après le fusil d'assaut Kalachnikov AKM, modifié pour répondre aux besoins en armes de chasse à fusil civil.
 
-NOTES:
+REMARQUES:
 
-- La précision compense le manque de tir automatique.
+- L'exactitude compense l'absence d'incendie automatique.

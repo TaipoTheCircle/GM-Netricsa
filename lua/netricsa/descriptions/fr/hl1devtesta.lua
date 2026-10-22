@@ -1,5 +1,5 @@
-BLACK MESA DEVTEST, LAMDA TRANSITION 
+BLACK MESA DEVTEST, TRANSITION DE LAMDA
 
 
-Cette carte de test E3 commence par une configuration familière de Black Mesa : une chambre de laboratoire stérile remplie de dangereux réseaux laser.
-The result is jarring: après seulement un court couloir, il y a une transition brusque et peu naturelle vers le complexe Lambda. Pas d'ascenseurs, pas de réacteurs, pas d'accumulation progressive.
+Cette carte de test E3 commence par une configuration de Mesa noire familière - une chambre de laboratoire stérile remplie de tableaux laser dangereux.
+The result is jarring: après un court couloir, il y a une transition brusque et contre nature vers le complexe Lambda. Pas d'ascenseurs, pas de réacteurs, pas d'accumulation progressive.

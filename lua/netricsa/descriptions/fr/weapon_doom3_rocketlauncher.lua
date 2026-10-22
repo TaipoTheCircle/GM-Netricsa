@@ -1,19 +1,19 @@
-LANCE-FUSÉE
+LAUNCHER
 
 
-ARME : Lance-roquettes
-MUNITIONS : Roquettes de 84 mm
-ROF : ~30 tirs/min.
+ARME: Lance-roquettes
+MUNITIONS:   roquettes de 84 mm
+CADENCE DE TIR:    ~30 tirs/min.
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Un lance-missile conçu pour détruire des cibles protégées et de grands groupes d'ennemis. Utilise des munitions propulsées par fusée qui explosent lorsqu'elles touchent une cible et causent des dégâts de zone importants.
+Un lanceur de missiles conçu pour détruire des cibles protégées et de grands groupes d'ennemis. Utilise des munitions propulsées par fusée qui explosent lorsqu'elles frappent une cible et causent des dommages importants à la zone.
 
-The weapon has a high destructive power, but requires caution when used at close range, since the explosion can hit the shooter himself. The magazine holds 5 missiles.
+L'arme a une puissance destructrice élevée, mais il faut être prudent lorsqu'elle est utilisée à bout portant, car l'explosion peut frapper le tireur lui-même. Le magazine contient 5 missiles.
 
-REMARQUES :
+REMARQUES:
 
-- Dégâts de zone énormes.
-- Particularly effective against large and well-protected targets.
-- Le chargeur est conçu pour 5 missiles.
+- Dégâts importants.
+- Particulièrement efficace contre les grandes cibles bien protégées.
+- Le magazine est conçu pour 5 missiles.
 - Si les balles ordinaires ne suffisent pas, alors il est temps de passer à des arguments plus lourds.

@@ -1,22 +1,22 @@
-BIO-MÉCANOÏDE, DOMINANT
+BIO-MÉCHANOIDES, DOMAINE
 
 
-CLASS: Bio-mécanoïde, dominant
-METABOLISM: cyborg endotherme
+CLASSE:      Biomécanoïde, Dominant
+MÉTABOLISME: cyborg endotherme
 PERCEPTION: génétiquement programmé
-SIZE: 45 pieds debout
-ENDURANCE: très élevé
-HOSTILITY: très élevé
-WEAPONS: canons
-REWARD: 10000FC
-THREAT: très élevé
+TAILLE:       45 pieds debout
+ENDURANCE:  très élevé
+HOSTILITÉ:  très élevé
+ARMES:    canons
+RÉCOMPENSE:     10000 FC
+MENACE:     très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un mécanisme biologique cultivé dans les bio-réservoirs de Mental. Son génome est programmé pour lui donner des pièces mécaniques cultivées biologiquement et des fentes latérales où les canons sont attachés et directement connectés à son système nerveux.
-Ajusté pour attaquer sans réfléchir.
+Un mécanisme biologique cultivé dans les réservoirs biologiques de Mental. Son génome est programmé pour lui donner biologiquement des parties mécaniques et des fentes latérales où les canons sont attachés et directement connectés à son système nerveux.
+Ajusté à l'attaque sans penser.
 
-TIPS: 
+CONSEILS:
 
-- Très dangereux, éliminer rapidement.
-- Esquivez sa pluie de boulets de canon ou vous portez un toast.
+- Très dangereux, éliminez vite.
+- Détendez sa pluie de boulettes ou vous êtes grillé.

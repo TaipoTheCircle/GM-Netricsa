@@ -1,21 +1,21 @@
-VER DE SABLE DU ZENOZOIK
+SANDWORM DU ZENOZOIK
 
 
-CLASS: Ver des sables
-METABOLISM: Xénobiologie, Organosilicium
-PERCEPTION: Coprolite prédateur
-SIZE: 3,9 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Extrême (territorial)
-WEAPONALS: Mâchoires de forage, fente rapide sous le sable
-REWARD: 100 FC
-THREAT: Haut
+CLASSE:      Vers de sable
+MÉTABOLISME: Xénobiologie, Organosilicon
+PERCEPTION: Coprolite prédatoire
+TAILLE:       3,9 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Extreme (territorial)
+WEAPONALS:  Mâchoires perçantes, rapides de sous le sable
+RÉCOMPENSE:     100 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Prédateurs souterrains agressifs qui habitent les sables meubles des dunes du désert. Leur présence est révélée par la texture caractéristique, mouvante et « instable » du sable en surface. Les vers sont presque constamment en mouvement sous terre, formant des « rivières de sable » distinctives. Ils attaquent à une vitesse fulgurante, sortant du sable comme un tentacule, la bouche grande ouverte et parsemée de plaques osseuses.
+Prédateurs souterrains agressifs qui habitent les sables lâches des dunes désertiques. Leur présence est révélée par la texture caractéristique, « instable », du sable à la surface. Les vers sont presque constamment en mouvement sous terre, formant des « rivières de sable » distinctives. Ils attaquent avec la vitesse de la foudre, éclatant du sable comme un tentacule, leur bouche large ouverte et cloutée de plaques osseuses.
 
-TIPS: 
+CONSEILS:
 
-- Si vous voyez une "bosse" bouger sous le sable, c'est une chasse aux vers.
-- Attaquez immédiatement après sa fente : à ce moment-là, il est vulnérable aux attaques.
+- Si vous voyez un "hump" se déplacer sous le sable, c'est une chasse aux vers.
+- Attaque immédiatement après son coup, elle est vulnérable aux attaques.

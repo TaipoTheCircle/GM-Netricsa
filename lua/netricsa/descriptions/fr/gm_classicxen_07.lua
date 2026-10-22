@@ -1,12 +1,12 @@
-XEN, LE PORTAIL ROUGE
+XEN, LE PORTAL ROUGE
 
 
-Darkness. That's all you see at first - an endless void broken only by scattered floating islands of alien stone. Each one barely large enough to stand on. And on the largest of them: un portail rouge brillant, palpitant comme une plaie ouverte. De ses profondeurs résonnent des cris et des voix fragmentées de scientifiques, déformées comme jouées à l’envers.
+Des ténèbres. C'est tout ce que vous voyez au début - un vide sans fin brisé seulement par des îles flottantes dispersées de pierre extraterrestre. Chacun à peine assez grand pour se tenir debout. Et sur le plus grand d'entre eux: un portail rouge brillant, pulsant comme une plaie ouverte. De ses profondeurs résonnent des cris et des voix fragmentées des scientifiques, déformées comme si elles jouaient en arrière.
 
-C'est le dernier tronçon. Les sauts entre les îles sont longs, la position instable et les forces de Mental se cachent dans l'obscurité. Les capteurs confirment qu'ils sont capables de vous intercepter en plein saut : attrapez les escouades qui attendent dans le vide, en espérant que vous glissiez une seule fois.
+C'est la dernière fois. Les sauts entre les îles sont longs, les bases instables, et les forces de Mental se cachent dans l'obscurité. Les détecteurs confirment qu'ils sont capables de vous intercepter dans le vide, en espérant que vous ne glisserez qu'une seule fois.
 
-"Je suis le dernier... Je suis le dernier..." - Nihilanth.
+"Je suis le dernier...".
 
-Qu’il s’agisse d’un avertissement, d’un plaidoyer ou d’une menace, il est impossible de le dire.
+Que ce soit un avertissement, un plaidoyer ou une menace, c'est impossible à dire.
 
-Recommendation: chronométrez parfaitement vos sauts, gardez les armes prêtes et ne baissez pas les yeux. Le portail rouge n’est pas seulement la prochaine étape : c’est le point de non-retour. Une fois entré, il n’y a plus de course.
+Recommendation: quand tu sautes parfaitement, prépare les armes, et ne regarde pas en bas. Le portail rouge n'est pas seulement la prochaine étape - c'est le point de non-retour. Une fois entré, il n'y a plus de course.

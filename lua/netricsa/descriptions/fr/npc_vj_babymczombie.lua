@@ -1,34 +1,34 @@
-BÉBÉ ZOMBIE DU MONDE MINECRAFT
+BABY ZOMBIE DU MINECRAFT SURVEILLANCE
 
 
-CLASS: Bébé zombie
-METABOLISM: Mort-vivant
+CLASSE:      Bébé Zombie
+MÉTABOLISME: Morts
 PERCEPTION: Hostile
-SIZE: 3 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Extrêmement élevé
-WEAPONS: Des mains, parfois avec une épée
-REWARD: 300FC
-THREAT: Haut
+TAILLE:       3 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Extrêmement élevé
+ARMES:    Mains, parfois avec une épée
+RÉCOMPENSE:     300 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-C'est la preuve que ce n'est pas une question de taille, mais de façon de l'utiliser. Petit, rapide et totalement impitoyable, il parvient à être plus dangereux que son homologue adulte, bien qu'il fasse la moitié de sa taille.
+C'est la preuve que ce n'est pas à propos de la taille, mais comment vous l'utilisez. Petit, rapide et absolument impitoyable, il parvient à être plus dangereux que son homologue adulte, malgré sa taille de moitié.
 
-In appearance, the Baby Zombie looks like a miniature version of a regular zombie, but with a couple of differences: il ne mûrit pas avec le temps, ne grandit jamais et reste pour toujours dans ce petit corps. Si petit qu'il peut se faufiler à travers n'importe quelle fissure : clôtures, demi-blocs, barreaux, trous dans les murs que même un habitant ne pourrait pas passer. Les bébés zombies peuvent monter sur un poulet, formant le célèbre « Chicken Jockey ».
+En apparence, le Baby Zombie ressemble à une version miniature d'un zombie régulier, mais avec quelques différences: il ne mûrit pas au fil du temps, ne grandit jamais, et reste dans ce petit corps pour toujours. Si petite qu'elle peut s'enfoncer dans n'importe quelle fissure : clôtures, demi-blocs, barres, trous dans les murs que même un résident ne pouvait pas franchir. Zombie Babies peut monter sur un poulet, formant le célèbre "Chicken Jockey."
 
-Il court plus vite que les adultes, ne ralentit pas en marchant et attaque continuellement. Pendant la journée, contrairement aux adultes, il ne brûle pas au soleil ; son petit corps parvient d'une manière ou d'une autre à résister à la lumière du soleil. Il ne coule pas dans l’eau, mais il ne peut ni nager ni se transformer en créature noyée.
+Il court plus vite que les adultes, ne ralentit pas en marchant, et attaque continuellement. Pendant la journée, contrairement aux adultes, il ne brûle pas dans le soleil-son petit corps parvient en quelque sorte à résister au soleil. Il ne coule pas dans l'eau, bien qu'il ne puisse pas nager ou devenir une créature noyée.
 
-Au combat, les Zombie Babies exploitent leur petite taille et leur vitesse. Ils sautent, tournent autour de leurs cibles, les flanquent et attaquent par derrière. Il est difficile de les frapper : les coups d'épée passent souvent au-dessus de votre tête, tandis que les flèches manquent. S'ils sont armés d'une épée, les dégâts sont encore plus importants et leur taille empêche les tactiques standard de maintien de distance.
+Au combat, les bébés zombies exploitent leur petite taille et leur vitesse. Ils sautent, tournent autour de leurs cibles, les flanquent et attaquent par derrière. Les frapper est difficile-épée grèves souvent aller au-dessus, tandis que les flèches manquent. S'ils sont armés d'une épée, les dégâts sont encore plus importants, et leur taille empêche les tactiques standard de garde à distance.
 
-Contrairement aux zombies adultes, le nouveau-né ne s'intéresse jamais aux villageois et n'essaie pas d'enfoncer les portes. Son seul objectif est la proie.
+Contrairement aux zombies adultes, l'éclosion ne montre jamais l'intérêt pour les villageois et n'essaie pas de briser les portes. Son seul but est la proie.
 
-TIPS: 
+CONSEILS:
 
-- N'essayez pas de vous enfuir, c'est plus rapide que vous.
-- Visez bas. Un coup d’épée dans les jambes fonctionne mieux qu’un tir à la tête.
-- Utilisez un bouclier - il bloque les attaques et vous donne la possibilité de contrer.
-- Grimpez un bloc. Le nouveau-né ne peut pas sauter à plus de 1,5 bloc.
-- Les passages étroits ne le sauveront pas - il peut se faufiler dans n'importe quelle fissure.
-- S'il y a un groupe de nouveau-nés, utilisez des explosifs ou des pièges à lave.
-- Ne le laissez pas sans surveillance près de la base – il peut se faufiler à travers n'importe quelle clôture.
+- N'essayez pas de fuir, c'est plus rapide que vous.
+- Visez bas. Un coup d'épée aux jambes fonctionne mieux qu'un coup de tête.
+- Utilisez un bouclier - il bloque les attaques et vous donne l'occasion de contrer.
+- Montez un bloc. L'éclosion ne peut pas sauter plus de 1,5 bloc.
+- Les passages étroits ne le sauveront pas - il peut presser n'importe quelle fissure.
+- S'il y a un groupe d'écloseurs, utilisez des explosifs ou des pièges à lave.
+- Ne le laissez pas sans surveillance près de la base - il peut presser n'importe quelle clôture.

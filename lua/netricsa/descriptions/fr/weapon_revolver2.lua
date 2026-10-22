@@ -1,16 +1,16 @@
-REVOLVER MANURHIN MR-96
+MANURHIN M.-96 REVOLVER
 
 
-WEAPON: Manurhin MR-96
-MUNITIONS .38 Spéciales
-ROF: 15 tours/min
+ARME:    Manurhin MR-96
+AMMUNITION .38 Spécial
+CADENCE DE TIR:       15 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le revolver Manurhin MR-96 est un revolver français double/simple action de gros calibre conçu pour les puissantes cartouches .357 Magnum (également compatible avec le .38 Special). Il a été produit comme une alternative plus courte et plus abordable à la célèbre série MR (MR-73, etc.) et présente une construction en acier robuste, une précision et une conception exportable.
+Le revolver Manurhin MR-96 est un revolver français à grand calibre double/à action unique conçu pour les cartouches puissantes .357 Magnum (également compatible avec .38 Special). Il a été produit comme une alternative plus courte et plus abordable à la série MR bien connue (MR-73, etc.) et dispose d'une construction en acier robuste, la précision et un design exportable.
 
-NOTES: 
+REMARQUES:
 
 - Les revolvers sont les armes les plus fiables.
-- Essayez de tirer une balle dans la tête de votre adversaire.
-- Vous pouvez jouer à la roulette russe avec si vous n'avez pas peur.
+- Essayez de tirer sur votre adversaire.
+- Vous pouvez jouer la roulette russe avec si vous êtes sans peur.

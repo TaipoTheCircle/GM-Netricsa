@@ -1,25 +1,25 @@
-COMBINEZ LE SOLDAT DE LA PRISON D'OVERWATCH
+VENDU DE PRISON SURVEILLANCE DE COMBINE
 
 
-CLASS: Combiner le soldat de la prison Overwatch
-METABOLISM: Humain augmenté, mâle
-PERCEPTION: Infanterie transhumaine (Unité d'application des peines)
-SIZE: 5,9 pieds
-ENDURANCE: Moyen-élevé
-HOSTILITY: Extrême
-WEAPONS: AR2, SMG1
-REWARD: 300FC
-THREAT: Moyen
+CLASSE:      Combiner le soldat de la prison Overwatch
+MÉTABOLISME: Augmenté Humain, Homme
+PERCEPTION: Infanterie transhumaine (Unité d'exécution des peines)
+TAILLE:       5,9 pieds
+ENDURANCE:  Moyenne-haute
+HOSTILITÉ:  Extrême
+ARMES:    ER2, SMG1
+RÉCOMPENSE:     300 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine Overwatch Prison Soldier est une unité spécialisée chargée de faire respecter l'ordre dans les centres de détention contrôlés par le Combine, notamment le tristement célèbre Nova Prospekt. Dénués d'individualité et lourdement conditionnés à l'obéissance, ces soldats patrouillent dans les prisons, escortent les prisonniers et répriment les émeutes avec une efficacité impitoyable.
+Le Soldat de la prison Combine Overwatch est une unité spécialisée chargée de faire respecter l'ordre dans les centres de détention contrôlés par Combine, notamment l'infâme Nova Prospekt. Dédoublés d'individualité et fortement conditionnés à l'obéissance, ces soldats patrouillent les blocs de prison, escortent les prisonniers et suppriment les émeutes avec une efficacité impitoyable.
 
-Leur blindage est plus léger que celui des unités Overwatch de première ligne, optimisé pour les manœuvres dans les couloirs et les espaces confinés. Les soldats de prison sont généralement armés d'AR2 ou de SMG.
+Leur armure est plus légère que celle des unités de surveillance de première ligne, optimisées pour manœuvrer à travers les couloirs et les espaces confinés. Les soldats des prisons sont généralement armés de AR2 ou de SMG.
 
-Bien qu'ils ne soient pas aussi résistants que les soldats fusils de chasse ou l'infanterie standard, ils sont mortels dans leur propre environnement : les couloirs labyrinthiques de Nova Prospekt, où l'évasion est presque impossible et où les prisonniers sont « transformés » en quelque chose de bien pire.
+Bien qu'ils ne soient pas aussi résistants que les Shotgun Soldiers ou l'infanterie standard, ils sont mortels dans leur propre environnement - les salles labyrinthines de Nova Prospekt, où l'évasion est presque impossible et les prisonniers sont « transformés » en quelque chose de bien pire.
 
-TIPS: 
+CONSEILS:
 
-- Ils attaquent souvent en escouades ; en isoler un peut vous donner un avantage.
-- Les fournitures sont souvent portées à la ceinture ou cachées dans les zones de stockage de Nova Prospekt.
+- Ils attaquent souvent dans les escadrons; l'isolement peut vous donner un avantage.
+- Les fournitures sont souvent transportées sur leurs ceintures ou cachées dans les aires de stockage de Nova Prospekt.

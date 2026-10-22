@@ -1,28 +1,28 @@
-COMBINEZ LE SOLDAT HYBRIDE OVERWATCH
+VENDU D ' HYBRID SURVEILLANCE DE LA COMBINE
 
 
-CLASS: Combinez le soldat hybride Overwatch
-METABOLISM: Humain augmenté, mâle
-PERCEPTION: Unité de combat polyvalente
-SIZE: 5,9 pieds
-ENDURANCE: Haut
-HOSTILITY: Très élevé
-WEAPONS: Fusil à impulsion AR2, SMG, grenades, bâton paralysant
-REWARD: 600 FC
-THREAT: Moyen-élevé
+CLASSE:      Combiner le soldat hybride Overwatch
+MÉTABOLISME: Augmenté Humain, Homme
+PERCEPTION: Unité de combat polyvalente Combine
+TAILLE:       5,9 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Très élevé
+ARMES:    AR2 Rifle d'impulsions, SMG, Grenades, Stun-Stick
+RÉCOMPENSE:     600 FC
+MENACE:     Moyenne-haute
 
-DESCRIPTION: 
+DESCRIPTION:
 
-L'Overwatch Hybrid Soldier est un soldat Combine standard à visière bleue, amélioré avec une armure et un équipement supplémentaires, ce qui en fait un combattant polyvalent pour un large éventail d'environnements. Contrairement aux unités d'élite, il ne se spécialise pas dans un type de combat, mais il est systématiquement dangereux dans tous les types de combat.
+Le soldat hybride Overwatch est un soldat standard biviseur bleu, renforcé avec des armures et de l'équipement supplémentaires, faisant de lui un chasseur polyvalent pour une large gamme d'environnements. Contrairement aux unités d'élite, il ne se spécialise pas dans un seul type de combat, mais est toujours dangereux dans aucun.
 
-His armor is partly decorative: des plaques renforcées, des rayures et des éléments de guerre psychologique créent l'apparence d'un soldat plus lourd et plus « important » qu'il n'y paraît sur le papier. Cependant, sa protection est véritablement améliorée par rapport aux soldats Overwatch standards.
+His armor is partly decorative: des plaques renforcées, des rayures et des éléments de guerre psychologique créent l'apparence d'un soldat plus lourd et plus « important » qu'il n'apparaît sur le papier. Cependant, sa protection est vraiment améliorée par rapport aux soldats de Surveillant standard.
 
-Une caractéristique clé est le dispositif de vision nocturne monté sur le casque. Il fonctionne non seulement comme un appareil de vision nocturne, mais également comme des jumelles, permettant au soldat d'observer, de marquer des cibles et d'ajuster le tir sans appui aérien. Dans le brouillard, la nuit ou l'obscurité polaire, ces soldats deviennent particulièrement dangereux.
+Une caractéristique clé est le dispositif de vision nocturne monté sur casque. Il fonctionne non seulement comme un dispositif de vision nocturne mais aussi comme des jumelles, permettant au soldat d'observer, de marquer des cibles et d'ajuster le feu sans appui aérien. Dans le brouillard, la nuit ou l'obscurité polaire, ces soldats deviennent particulièrement dangereux.
 
-Le Stun-Stick est rarement utilisé, mais est destiné à la suppression, à la capture et à la brutalité démonstrative. Le Combine déploie souvent des soldats hybrides pour des missions de nettoyage, des patrouilles et des opérations de contrôle de la population, qui nécessitent non seulement une puissance de feu mais également une force démonstrative.
+Le Stun-Stick est rarement utilisé, mais il est destiné à la suppression, la capture et la brutalité démonstrative. Le Combine déploie souvent des soldats hybrides pour le nettoyage des missions, des patrouilles et des opérations de contrôle de la population, qui nécessitent non seulement une puissance de feu mais aussi une force de démonstration.
 
-TIPS: 
+CONSEILS:
 
-- Ne le sous-estimez pas à cause de sa visière bleue : son armure et son équipement le rendent plus dangereux qu'un soldat standard.
-- Il voit mieux que toi dans le noir.
-- Détruisez-le à distance, en l'empêchant de s'approcher suffisamment pour utiliser des grenades.
+- Ne le sous-estimez pas à cause de la visière bleue - son armure et son équipement le rendent plus dangereux qu'un soldat standard.
+- Il voit mieux dans le noir que toi.
+- Détruisez-le de loin, l'empêchant de se rapprocher assez pour utiliser des grenades.

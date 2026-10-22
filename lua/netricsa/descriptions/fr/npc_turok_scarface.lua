@@ -1,24 +1,24 @@
-T-REX, MAMAN SCARFACE D'UNE PLANÈTE TERRAFORMÉE
+T-REX, SCARFACE MOM D'UN PLANET TERRAFORMÉ
 
 
-CLASS: T-Rex, maman Scarface
-METABOLISM: Prédateur suprême
+CLASSE:      T-Rex, Scarface maman
+MÉTABOLISME: Prédateur Apex
 PERCEPTION: Forme de vie dominante
-SIZE: 20 pieds
-ENDURANCE: Extrême
-HOSTILITY: Absolu
-WEAPONS: Mâchoires, griffes, queue
-REWARD: 5000FC
-THREAT: Absolu
+TAILLE:       20 pieds
+ENDURANCE:  Extrême
+HOSTILITÉ:  Absolu
+ARMES:    Jaws, griffes, queue
+RÉCOMPENSE:     5000 FC
+MENACE:     Absolu
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Maman foulard. Et elle n'a pas reçu ce nom pour ses jolis yeux. Elle avait toute une couvée de petits à nourrir, et elle les nourrissait avec tout ce qu'elle pouvait atteindre. Elle a une profonde ligne Scarface sur le côté droit de son museau, à travers ses yeux et dans son crâne. L'œil sous le Scarface était trouble et probablement aveugle, mais cela ne l'empêchait pas de retrouver sa proie encore et encore.
+Une cicatrice, maman. Et elle n'a pas eu ce nom pour ses beaux yeux. Elle avait une couvée de jeunes à nourrir, et elle les nourrissait de tout ce qu'elle pouvait atteindre. Elle a une ligne de Scarface profonde sur le côté droit de son museau, à travers son œil, et dans son crâne. L'oeil sous la Scarface était nuageux et probablement aveugle, mais cela ne l'a pas empêchée de retrouver sa proie encore et encore.
 
-Au combat, Scarface Mama est une force de la nature. Elle ne vous poursuivra pas comme un vélociraptor. Elle ira simplement où elle veut, et si vous la gênez, c'est votre problème. Elle est assez rapide et agile.
+Au combat, Scarface Mama est une force de la nature. Elle ne te poursuivra pas comme un velociraptor. Elle ira là où elle veut, et si vous vous y mettez, c'est votre problème. Elle est assez rapide et agile.
 
-TIPS: 
+CONSEILS:
 
-- N'entrez pas à l'air libre. Elle est plus rapide que toi et plus forte que n'importe quelle couverture.
-- Vous pouvez éliminer Scarface Mama avec des grenades directement dans la blessure à l'œil.
+- Ne t'ouvre pas. Elle est plus rapide que toi et plus forte que n'importe quelle couverture.
+- Tu peux sortir Scarface maman avec des grenades dans la plaie.
 - Utilisez des armes lourdes.

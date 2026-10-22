@@ -1,15 +1,15 @@
-PISTOLET-MACHINE SMG1 (MP7)
+GUN DE SOUS-MACHINE SMG1 (MP7)
 
 
-WEAPON: SMG1
-AMMO: Rondes de 9x19mm
-CC: ~750 tours/min
+ARME: SMG1
+MUNITIONS:   tours 9x19mm
+CC:     ~750 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Arme automatique standard. Fournit des obus à tir rapide de 9 mm pour une suppression soutenue. Efficace à des portées proches et moyennes.
+Arme automatique standard. Fournit un feu rapide 9mm ronds pour la suppression durable. Efficace à proximité de gammes moyennes.
 
-NOTES: 
+REMARQUES:
 
-- Cadence de tir élevée, idéale pour le contrôle des foules.
+- Taux élevé de feu, idéal pour le contrôle de la foule.
 - Précision réduite à longue portée.

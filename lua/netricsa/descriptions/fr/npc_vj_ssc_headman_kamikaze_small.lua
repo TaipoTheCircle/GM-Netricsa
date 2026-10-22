@@ -1,25 +1,25 @@
-KAMIKAZE DÉCAPÉ, PETIT
+KAMIKAZE, TINY
 
 
-CLASS: Kamikaze décapité, petit
-METABOLISM: cyber-zombie
+CLASSE:      Kamikaze décapité, Tiny
+MÉTABOLISME: cyber-zombie
 PERCEPTION: insensible, contrôlé par LCU
-SIZE: 0,7 pied
-ENDURANCE: très faible
-HOSTILITY: extrême
-WEAPONS: grenades à main
-REWARD: 2500FC
-THREAT: haut
+TAILLE:       0,7 ft
+ENDURANCE:  très faible
+HOSTILITÉ:  extrême
+ARMES:    grenades à main
+RÉCOMPENSE:     2500 FC
+MENACE:     élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un soldat sirien exécuté, ressuscité des morts par Mental et télécommandé par Life Control Unit (LCU).
+Un soldat sirien exécuté, ressuscité d'entre les morts par Mental et télécommandé par l'Unité de contrôle de la vie.
 
-La tête du Kamikaze est écrasée, ce qui le rend sujet aux attaques suicidaires. Il porte une bombe dans chaque main, qu'il fait exploser lorsqu'il s'approche suffisamment de sa cible.
+La tête du Kamikaze est écrasée, ce qui le rend vulnérable aux attaques suicidaires. Il porte une bombe dans chaque main, qu'il fait exploser quand il se rapproche suffisamment de sa cible.
 
-Inspiré par le succès de ses expériences de rétrécissement, Mental a appliqué la même technologie au Kamikaze. Aujourd’hui, des micro-kamikazes parcourent le monde – presque invisibles en raison de leur taille, mais transportant des bombes tout aussi puissantes dans leurs petites mains. Il est presque impossible de les remarquer jusqu'à ce qu'ils soient dangereusement proches.
+Inspiré par le succès de ses expériences de réduction, Mental a appliqué la même technologie au Kamikaze. Maintenant, les micro-kamikazes courent à travers le monde presque invisible en raison de leur taille, mais transportant des bombes aussi puissantes dans leurs petites mains. Ils sont presque impossibles à remarquer jusqu'à ce qu'ils soient dangereusement proches.
 
-TIPS: 
+CONSEILS:
 
-- Explose immédiatement après la mort.
-- Tout bruissement ou mouvement suspect à proximité est une raison pour reculer.
+- Explose dès la mort.
+- Tout bruissement suspect ou mouvement à proximité est une raison de sauter en arrière.

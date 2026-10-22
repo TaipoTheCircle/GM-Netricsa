@@ -1,14 +1,14 @@
-CONTRÔLEUR PNJ BASE VJ
+VJ BASE NPC CONTROLLER
 
 
-WEAPON: Contrôleur PNJ de base VJ
+ARME:      VJ Base NPC Contrôleur
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Appareil utilitaire avancé qui fonctionne comme un « cerveau dans votre main ». Permet d'habiter et de contrôler directement les créatures, en prenant en charge leurs sens, leurs mouvements et leurs capacités de combat. Parfait pour la manipulation stratégique ou l’expérimentation de comportements en temps réel.
+Appareil utilitaire avancé qui fonctionne comme un « cerveau dans votre main ». Permet aux créatures d'habiter et de contrôler directement, prenant en charge leurs sens, leur mouvement et leurs capacités de combat. Parfait pour la manipulation stratégique ou l'expérimentation de comportement en temps réel.
 
-NOTES: 
+REMARQUES:
 
-- Utilisation infinie ; aucune munition traditionnelle requise.
-- Accorde un contrôle total sur les créatures possédées, y compris leurs mouvements et leurs attaques.
-- Utile pour créer des scénarios de jeu personnalisés, du machinima ou une domination tactique.
+- Utilisation infinie; pas de munitions traditionnelles nécessaires.
+- Accorde le plein contrôle sur les créatures possédées, y compris les mouvements et les attaques.
+- Utile pour créer des scénarios de gameplay personnalisés, machinima, ou domination tactique.

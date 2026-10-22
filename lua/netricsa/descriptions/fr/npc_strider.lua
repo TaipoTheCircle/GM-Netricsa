@@ -1,27 +1,27 @@
-COMBINEZ LE STRIDER
+STRIDER DE LA COMBINE
 
 
-CLASS: Combiner Grand-Pas
-METABOLISM: Organisme d'artillerie biomécanique (noyau d'énergie acide)
-PERCEPTION: Synthé sur trépied
-SIZE: ~60 pieds de haut
-ENDURANCE: Extrêmement élevé
-HOSTILITY: Accablant
-WEAPONS: Canon à impulsion lourde, désintégrateur à faisceau de distorsion, attaque Stomp
-REWARD: 1500FC
-THREAT: Catastrophique
+CLASSE:      Combiner le strider
+MÉTABOLISME: Organisme d'artillerie biomécanique (noyau d'énergie acide)
+PERCEPTION: Synth des trépieds
+TAILLE:       ~60 pieds de haut
+ENDURANCE:  Extrêmement élevé
+HOSTILITÉ:  Débordement
+ARMES:    Canno d'impulsions lourdes, désintégrateur de faisceau de distorsion, attaque de pompe
+RÉCOMPENSE:     1500 FC
+MENACE:     Catastrophes
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine Strider est une imposante machine de guerre à trois pattes et l'une des unités synthétiques les plus meurtrières déployées par le Combine. Agissant à la fois comme soutien d'infanterie lourde et comme arme de siège urbain, les Striders combinent ingénierie extraterrestre et efficacité brutale.
+Le Combine Strider est une machine de guerre à trois pattes imposante et l'une des unités de synthèse les plus meurtrières déployées par le Combine. Agissant à la fois comme un soutien d'infanterie lourd et comme une arme de siège urbaine, Striders combine l'ingénierie extraterrestre avec une efficacité brutale.
 
-Mesurant près de 20 mètres de haut, leurs jambes allongées leur permettent de traverser facilement les pâtés de maisons, les décombres et les bâtiments. Armés d'un canon à impulsions dévastateur pour le tir de suppression et d'un terrifiant désintégrateur à faisceau de distorsion capable de traverser les bâtiments, ils servent d'armes ambulantes de destruction massive. Un seul Grand-Pas peut dévaster des escouades de combattants de la Résistance, tandis que des groupes coordonnés d'entre eux peuvent détruire des quartiers entiers.
+Près de 20 mètres de haut, leurs jambes allongées leur permettent de traverser facilement les blocs urbains, les décombres et les bâtiments. Armés d'un canon à impulsions dévastatrice pour l'extinction des incendies et d'un désintégrateur terrifiant de distorsion capable de couper les bâtiments, ils servent d'armes de destruction massive à pied. Un seul Strider peut dévaster des équipes de résistants, tandis que des groupes coordonnés d'entre eux peuvent jeter des districts entiers à gaspiller.
 
-Malgré leur masse, les Grands-Pattes sont étrangement agiles, se déplaçant avec une grâce insectoïde et une précision étrange. Ils se déploient souvent aux côtés des forces terrestres, des chasseurs, des scanners et des hélicoptères de combat du Combine, agissant comme troupes de choc mobiles et exécutants du contrôle du Combine.
+Malgré leur masse, les Striders sont très agiles, se déplaçant avec une grâce insectoïde et une précision étrange. Ils se déploient souvent aux côtés des forces terrestres, des chasseurs, des scanners et des navires, agissant comme des troupes de choc mobiles et des forces de contrôle de Combine.
 
-TIPS: 
+CONSEILS:
 
-- Mettez-vous à couvert : leur rayon de distorsion peut annihiler les combattants exposés en quelques secondes.
+- Couvrez-vous - leur distorsion peut anéantir les combattants exposés en quelques secondes.
 - Les RPG sont l'arme la plus efficace contre leur armure.
-- Évitez les combats directs ; utiliser les structures urbaines pour se couvrir et tendre des embuscades.
-- Les Striders sont rarement seuls - préparez-vous aux forces de soutien (soldats, chasseurs, scanners, hélicoptères de combat).
+- Éviter les combats directs; utiliser des structures urbaines pour la couverture et les embuscades.
+- Les escrocs sont rarement seuls - se préparent aux forces de soutien (soldats, chasseurs, scanners, canonniers).

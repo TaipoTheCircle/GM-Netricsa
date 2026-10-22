@@ -1,22 +1,22 @@
-MANCUBUS DE L'ENFER
+MANCUBUS DU HELL
 
 
-CLASS: Mancubus
-METABOLISM: Mammifère démoniaque
-DEFINITION: Béhémoth modifié
-SIZE: 13 pieds
-ENDURANCE: Moyen
-HOSTILITY: Moyen
-WEAPONS: Deux lance-flammes
-REWARD: 3000FC
-THREAT: Moyen
+CLASSE:      Mancubus
+MÉTABOLISME: Mammifère démoniaque
+DEFINITION: Behemoth modifié
+TAILLE:       13 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Moyenne
+ARMES:    Deux lance-flammes
+RÉCOMPENSE:     3000 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un démon qui incarne l’imperfection humaine, l’avidité, la gourmandise et l’oisiveté. Il a une peau incroyablement épaisse, des pattes éléphantines massives et une petite tête. Dans le but de détruire et rôtir ses victimes, deux lance-flammes sont implantés dans les avant-bras du mancubus, tirant des boules de feu.
+Un démon qui incarne l'imperfection et l'avidité humaines, la gloutonnerie et l'oisiveté. Il a une peau incroyablement épaisse, des jambes éléphantines massives et une petite tête. Pour détruire et faire griller ses victimes, deux lance-flammes sont implantés dans les avant-bras du mancubus, tirant des boules de feu.
 
-Mental a acheté plusieurs dizaines de ces créatures au Seigneur de l'Enfer, ainsi que des soldats zombies et de nombreux autres démons.
+Mental a acheté plusieurs dizaines de ces créatures au Seigneur de l'Enfer, avec les soldats zombies et beaucoup d'autres démons.
 
-TIPS: 
+CONSEILS:
 
-- Ils tirent au hasard, alors cachez-vous.
+- Ils tirent au hasard, alors couvrez-vous.

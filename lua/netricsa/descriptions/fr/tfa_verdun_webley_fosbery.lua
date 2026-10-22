@@ -1,21 +1,21 @@
-WEBLEY-FOSBERY AUTOMATIC REVOLVER
+VÉHICULE AUTOMATIQUE WEBLEY-FOSBERY
 
 
-PISTOLET : Revolver automatique Webley-Fosbery
-MUNITIONS : .455 Webley MkII
-ROF : ~60-80 rounds / min
-POIDS : ~1,24 kg
+GUN:     Révolver automatique Webley-Fosbery
+MUNITIONS:   .455 Webley Mk II
+CADENCE DE TIR:    ~60-80 tours/min
+POIDS: ~1,24 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-An unusual British automatic revolver, designed by Colonel George Fosbery and manufactured by Webley & Scott from 1901 to 1924. It combined the powerful .455 Webley cartridge with an automatic reloading system, a highly unusual feature for a revolver of the time.
+Un revolver automatique britannique inhabituel, conçu par le colonel George Fosbery et fabriqué par Webley & Scott de 1901 à 1924. Il a combiné le puissant 455 Cartouche Webley avec système de rechargement automatique, une caractéristique très inhabituelle pour un revolver de l'époque.
 
-The main design feature is that after firing, the upper part of the revolver, including the barrel, cylinder, and hammer, recoils back under the force of recoil. A special zigzag groove on the cylinder causes it to rotate and simultaneously cocks the hammer. Thus, the next shot can be fired almost immediately after the previous one.
+La principale caractéristique de conception est qu'après le tir, la partie supérieure du revolver, y compris le canon, le cylindre et le marteau, recule sous la force du recul. Une rainure spéciale de zigzag sur le cylindre lui fait tourner et simultanément cocks le marteau. Ainsi, le prochain tir peut être tiré presque immédiatement après le précédent.
 
-The .455 Webley version had a six-shot cylinder. There was also a .38 ACP version with an eight-shot cylinder. Only about 4,750 of these revolvers were manufactured, making the Webley-Fosbery quite rare today.
+La version .455 Webley avait un cylindre à six têtes. Il y avait aussi une version ACP .38 avec un cylindre à huit prises. Seulement environ 4 750 de ces revolvers ont été fabriqués, rendant la Webley-Fosbery assez rare aujourd'hui.
 
-REMARQUES :
+REMARQUES:
 
-- Le système automatique permet d'effectuer des tirs de suivi rapides sans armer manuellement le marteau.
-- Particularly useful for accurate and rapid shooting, as the automatic system partially softens the recoil.
-- The famous zigzag grooves on the cylinder are part of the reloading mechanism, not just for decoration.
+- Le système automatique permet un suivi rapide des tirs sans accrocher manuellement le marteau.
+- Particulièrement utile pour une prise de vue précise et rapide, car le système automatique adoucit partiellement le recul.
+- Les fameuses rainures de zigzag sur le cylindre font partie du mécanisme de rechargement, pas seulement pour la décoration.

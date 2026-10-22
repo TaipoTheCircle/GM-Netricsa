@@ -1,23 +1,23 @@
-STROGG TACTIQUE DE STROGGOS
+STROGG TACTIQUE DES STROGGOS
 
 
-CLASS: Strogg tactique
-METABOLISM: Hybride humain cybernétique
-PERCEPTION: Infanterie d'élite Strogg
-SIZE: ~6 pieds
-ENDURANCE: Élevé (armure + améliorations cybernétiques)
-HOSTILITY: Extrême
-WEAPONS: Fusil de chasse, mitrailleuse, Hyperblaster, Railgun
-REWARD: ~1200FC
-THREAT: Très élevé
+CLASSE:      Strog tactique
+MÉTABOLISME: Cybernétique humain hybride
+PERCEPTION: Infanterie Strogg Elite
+TAILLE:       6 pieds
+ENDURANCE:  Élevée (armature + améliorations cybernétiques)
+HOSTILITÉ:  Extrême
+ARMES:    Shotgun, Machine Gun, Hyperblaster, Railgun
+RÉCOMPENSE:     ~1200 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les Strogg tactiques sont des marines humains stroggifiés choisis pour leurs prouesses exceptionnelles sur le champ de bataille, leur intelligence tactique et leur efficacité impitoyable. Ils disposent non seulement de lourdes augmentations cybernétiques (blindage, membres mécaniques, implants neuronaux), mais conservent également une grande partie de leur intuition humaine au combat.
+Les Strogg tactiques sont des marines humains stroggifiés choisis pour des prouesses exceptionnelles sur le champ de bataille, des renseignements tactiques et une efficacité impitoyable. Ils ont non seulement de fortes augmentations cybernétiques (plaquage d'armures, membres mécaniques, implants neuraux) mais conservent aussi une grande partie de leur intuition de combat humain.
 
-Ils opèrent en escouades, utilisent des abris, flanquent leurs adversaires et coordonnent leurs attaques. Contrairement à la plupart des unités Strogg, elles utilisent des armes humaines plutôt que des armes intégrées.
+Ils opèrent en escadrons, utilisent la couverture, les adversaires du flanc et coordonnent leurs attaques. Contrairement à la plupart des unités de Strogg, elles utilisent des armes humaines plutôt que des armes intégrées.
 
-TIPS: 
+CONSEILS:
 
-- Donnez la priorité à l'élimination des membres de l'équipe avec des Railguns ou des Hyperblasters ; ils infligent des dégâts massifs à distance.
-RTB COMBINE SOLDAT OVERWATCH
+- Privilégier l'élimination des membres de l'Escouade avec des fusils ou des sabres; ils causent des dommages massifs à portée.
+- Utilisez des grenades ou des explosifs pour perturber leur formation.

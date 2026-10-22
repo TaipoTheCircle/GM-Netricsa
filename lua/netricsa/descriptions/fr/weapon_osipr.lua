@@ -1,16 +1,16 @@
-FUSIL À IMPULSIONS OSIPR
+RISQUE DE L'OSIPR
 
 
-ARME : Fusil à impulsion OSIPR
-MUNITIONS : Verwatch Energy Cells / Secondaire : Alliance Electric Balls
-ROF : ~600 coups/min (primaire), 1 grenade/sec (secondaire)
+ARME:      OSIPR Rifle d'impulsions
+MUNITIONS:       verwatch Energy Cells / Secondaire : Alliance Electric Balls
+CADENCE DE TIR:         ~600 tours/minute (primaire), 1 grenade/sec (secondaire)
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Le fusil à énergie standard des Overwatch Combines. Tire des faisceaux d'impulsions à haute vitesse pour une suppression rapide et peut lancer des boules d'énergie pour infliger des dégâts sur une vaste zone. Très efficace contre les cibles organiques et mécaniques.
+Le fusil d'énergie standard du Overwatch combine. Incendie des faisceaux d'impulsion à haute vitesse pour une suppression rapide et peut lancer des boules d'énergie pour infliger des dommages sur une grande zone. Très efficace contre les cibles organiques et mécaniques.
 
-REMARQUES :
+REMARQUES:
 
-- Le tir primaire délivre des faisceaux d'énergie rapides et précis.
-- Le tir alternatif tire des boules électriques qui infligent des dégâts sur une grande surface.
-- Effective at medium range; accuracy decreases at longer ranges.
+- Le feu primaire délivre des faisceaux d'énergie rapides et précis.
+- Alternative incendie tire des boules électriques qui causent des dommages sur une grande zone.
+- Efficace à moyenne portée; la précision diminue à plus grande portée.

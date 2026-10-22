@@ -1,23 +1,23 @@
-Tueuse de tireurs d'élite de l'île de Carnate
+MARQUES DE L'ÎLE CARNATE
 
 
-CLASS: Tueur de tireur d'élite
-METABOLISM: Mort-vivant/Mutant
-PERCEPTION: Mort-vivant à quatre pattes
-SIZE: ~ 9 pieds (à l'épaule)
-ENDURANCE: Haut
-HOSTILITY: Extrême
-WEAPONS: Canons intégrés sur le côté gauche (5 canons), puissantes pattes griffues
-REWARD: 2200 FC
-THREAT: Haut
+CLASSE:      Tueuse de Marksman
+MÉTABOLISME: Mort/mutant
+PERCEPTION: Un mort-vivant à quatre pattes
+TAILLE:       ~9 pi (à l'épaule)
+ENDURANCE:  Haut
+HOSTILITÉ:  Extrême
+ARMES:    Canons intégrés sur le côté gauche (5 barils), puissantes pattes griffées
+RÉCOMPENSE:     2200 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Une relique terrifiante d’une expérience oubliée ou d’une malédiction qui a trouvé son chemin vers la réalité. Cette énorme créature musclée se déplace sur quatre membres puissants. Son corps est couvert d'une peau en décomposition, criblé de blessures par balle, de cicatrices et de traces de violentes interventions chirurgicales. Malgré le bandeau sanglant sur les yeux, il conserve d'une manière ou d'une autre la capacité de voir sa cible. Sa principale force réside dans les canons lourds à canon court intégrés sur son côté gauche, qu'il utilise pour déclencher un barrage de tirs. En combat rapproché, il utilise ses griffes métalliques pour porter des coups dévastateurs. Il combine vitesse, capacité de survie et puissante frappe d'artillerie.
+Une relique terrifiante d'une expérience ou malédiction oubliée qui a trouvé son chemin dans la réalité. Cette énorme créature musculaire se déplace sur quatre membres puissants. Son corps est recouvert de peau en décomposition, criblé de blessures par balle, de cicatrices et de traces d'opérations chirurgicales violentes. Malgré les yeux bandés, il conserve la capacité de voir sa cible. Sa force principale réside dans les canons lourds et à court barrelés, construits dans son côté gauche, qu'il utilise pour déclencher un barrage de feu. Au combat, il utilise ses griffes métalliques pour des coups dévastateurs. Il combine vitesse, survie, et une puissante frappe d'artillerie.
 
-TIPS: 
+CONSEILS:
 
-- Sa principale menace, ce sont ses canons. Mettez-vous à couvert pendant les volées.
-- Son côté gauche, là où se trouvent les canons, possède une armure supplémentaire. Concentrez le feu sur son côté droit ou sur sa tête pour le ralentir.
-- Préparez-vous à ce qu'il passe soudainement au combat rapproché à moyenne portée avec un élan rapide. Gardez toujours vos distances.
-- Malgré sa cécité, il est doté d'une précision surnaturelle. Ne comptez pas simplement sur l'esquive de ses tirs, utilisez une couverture appropriée.
+- Sa principale menace est ses canons. A couvert pendant les volley.
+- Son côté gauche, où se trouvent les canons, a une armure supplémentaire. Concentrez le feu sur son côté droit ou la tête pour le ralentir.
+- Soyez prêt pour qu'il change brusquement de combat à portée moyenne avec un tiret rapide. Gardez toujours votre distance.
+- Malgré sa cécité, il a une précision irréprochable. Ne comptez pas sur simplement esquiver sa bonne couverture.

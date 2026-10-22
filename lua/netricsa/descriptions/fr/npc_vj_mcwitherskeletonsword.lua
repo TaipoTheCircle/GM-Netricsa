@@ -1,28 +1,28 @@
-Wither squelette épéiste de Minecraft Nether
+SKELETON RETRAIT SUORDMAN DU RÉSEAU MINECRAFT
 
 
-CLASS: Wither Skeleton, épéiste
-PERCEPTION: Mort-vivant, unité de mêlée
-METABOLISM: Mort-vivant soutenu comme par magie
-SIZE: 7,8 pieds
-ENDURANCE: Haut
-HOSTILITY: Très élevé
-WEAPONS: Épée de pierre
-REWARD: 3000FC
-THREAT: Très élevé
+CLASSE:      Avec Skeleton, Swordsman
+PERCEPTION: Non mort, unité de melee
+MÉTABOLISME: Magie soutenue non morte
+TAILLE:       7,8 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Très élevé
+ARMES:    Épée de pierre
+RÉCOMPENSE:     3000 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Wither Skeleton Swordsman est un squelette qui a décidé que la vie ordinaire était trop rose et a déménagé dans le Nether pour faire progresser sa carrière. Plus grand, plus sombre de personnalité et visiblement plus en colère que ses parents osseux, il patrouille dans les forteresses inférieures avec l'air de quelqu'un qui n'est pas payé pour son travail.
+Le Wither Skeleton Swordsman est un squelette qui a décidé que la vie mondaine était trop rose et a déménagé au Nether pour faire avancer sa carrière. Taller, plus sombre dans la personnalité, et nettement plus en colère que ses parents osseux, il patrouille les forteresses en bas avec l'air de quelqu'un qui n'est pas payé pour son travail.
 
-Bref...Pauvre Yorick...
+Bref... le pauvre Yorick...
 
-Armé d'une épée de pierre et d'un effet spécial Wither qui draine progressivement la santé de l'ennemi. L'immunité au feu permet au Wither Skeleton de prospérer dans des endroits où d'autres monstres ont péri depuis longtemps.
+Armé d'une épée de pierre et d'un effet spécial Wither qui draine progressivement la santé ennemie. L'immunité au feu permet au Squelette Wither de prospérer dans des endroits où d'autres foules ont depuis longtemps péri.
 
-Parfois, à sa mort, il laisse tomber un Wither Skull - un trophée rare qui peut être utilisé pour invoquer le Wither, et pour lequel beaucoup sont prêts à endurer tout ce qui précède sans se plaindre.
+Parfois, à la mort, il tombe un Crâne de Wither - un trophée rare qui peut être utilisé pour convoquer le Wither, et pour lequel beaucoup sont prêts à supporter tout ce qui précède sans plainte.
 
-TIPS: 
+CONSEILS:
 
-- En combat rapproché, le Wither Skeleton explique les règles rapidement et péniblement.
-- Le lait, curieusement, protège de l'effet Wither.
-- Reconnaissable à ses os noirs.
+- Au combat, le Wither Skeleton explique les règles rapidement et douloureusement.
+- Le lait, bizarrement, protège contre l'effet Wither.
+- Reconnu par ses os noirs.

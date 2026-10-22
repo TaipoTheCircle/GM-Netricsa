@@ -1,25 +1,25 @@
-VER DE FOSSE DE LA DIMENSION X
+PIT WORM DE LA DIMENSION X
 
 
-CLASS: Ver de fosse
-METABOLISM: Sécrétion carnivore et acide
+CLASSE:      Pit Worm
+MÉTABOLISME: Sécrétion carnivore acide
 PERCEPTION: Gardien de siège de la race X
-SIZE: ~30 pieds
-ENDURANCE: Très élevé
-HOSTILITY: Extrême
-WEAPONS: Faisceau d'énergie oculaire, griffes avant
-REWARD: 1200FC
-THREAT: Très élevé
+TAILLE:       ~30 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Extrême
+ARMES:    Poutre d'énergie oculaire, griffes avant
+RÉCOMPENSE:     1200 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Pit Worm est une créature monstrueuse de la Race X qui sert de gardien dans la zone souterraine de traitement des déchets de Black Mesa. Émergeant du bassin d'élimination des toxiques, il ressemble à un arthropode segmenté, dominé par un seul œil massif et une gueule remplie de douze dents. Son œil libère un rayon d'énergie brûlant, sa principale attaque, tandis que ses puissantes griffes se défendent contre les menaces rapprochées.
+The Pit Worm est une créature monstrueuse Race X qui sert de gardien dans la zone souterraine de traitement des déchets de Black Mesa. Émergent du bassin d'élimination toxique, il ressemble à un arthropode segmenté, dominé par un seul œil massif et une scie remplie de douze dents. Son œil libère un faisceau d'énergie de mer-son attaque primaire-alors que de puissantes griffes se défendent contre les menaces étroites.
 
-- Les médecins isolés sont moins menaçants, mais n'en ignorent jamais un dans un groupe.
+Les armes traditionnelles se révèlent inefficaces. Quand son œil est touché, il recule momentanément et se défend avec un bouclier de griffes avant de se venger. Il réagit aussi violemment aux intrusions par les passages adjacents, les balayant agressivement.
 
-TIPS: 
+CONSEILS:
 
-- Les armes conventionnelles sont inefficaces : elles se concentrent sur le déclenchement de la séquence de destruction environnementale.
-- Tout d'abord, activez l'évent de vapeur et la vanne via les panneaux de commande disséminés dans la chambre.
-- Utiliser la commande de secours de la boîte de vitesses pour détourner les déchets toxiques vers le bassin.
-- Une fois que les boues toxiques inondent la zone, le Pit Worm est finalement vaincu, puis le pont derrière lui vous ouvre la voie.
+- Les armes classiques ne mettent pas l ' accent sur le déclenchement de la séquence de destruction environnementale.
+- D'abord, activer l'évent de vapeur et la valve par les panneaux de commande dispersés autour de la chambre.
+- Utilisez la boîte de vitesses d'urgence pour détourner les déchets toxiques dans le bassin.
+- Une fois que les boues toxiques inondent la zone, le Pit Worm est finalement vaincu-alors le pont derrière il fournit votre chemin vers l'avant.

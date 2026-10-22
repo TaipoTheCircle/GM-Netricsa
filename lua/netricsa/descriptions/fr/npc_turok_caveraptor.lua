@@ -1,25 +1,25 @@
-ALBINO CAVE RAPTOR FROM THE TERRAFORMED PLANET
+ALBINO CAVE RAPTOR DE LA PLANTE TERRAFORME
 
 
-CLASS: Raptor des cavernes albinos
-METABOLISM: Prédateur, théropode
-PERCEPTION: Chasseur souterrain
-SIZE: ~8,2 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Haut
-WEAPONS: Griffes, dents, adaptation sombre
-REWARD:      500 FC
-THREAT: Moyenne
+CLASSE:       Raptor de grotte Albino
+MÉTABOLISME:  Prédateur, Théropod
+PERCEPTION:  Chasseur souterrain
+TAILLE:        ~8,2 pi
+ENDURANCE:   Moyenne
+HOSTILITÉ:   Haut
+ARMES:     Griffes, dents, adaptation sombre
+RÉCOMPENSE:      500 FC
+MENACE:      Moyenne
 
 DESCRIPTION:
 
-This species is the result of evolution in conditions of complete isolation from sunlight. Thousands of generations living in the pitch-dark caves have taken their toll: ces créatures ont perdu leur pigmentation et sont devenues albinos.
+Cette espèce est le résultat de l'évolution dans des conditions d'isolement complet de la lumière du soleil. Des milliers de générations qui vivent dans les grottes sombres ont pris leur tribut : ces créatures ont perdu leur pigmentation et sont devenues des albinos.
 
-Le rapace des cavernes se distingue de ses parents terrestres par sa peau blanc pâle avec des rayures à peine perceptibles. Ses yeux brillent d'un rouge menaçant dans le noir.
+Le rapace de la grotte se distingue de ses parents habitant la terre par sa peau blanche pâle avec des rayures à peine visibles. Ses yeux brillent d'un rouge odieux dans le noir.
 
-Contrairement aux rapaces ordinaires, les albinos ne sont actifs que dans les endroits sombres et n’émergent jamais d’eux-mêmes au soleil.
+Contrairement aux rapaces réguliers, les albinos ne sont actifs que dans les endroits sombres et n'apparaissent jamais seuls dans la lumière du soleil.
 
-TIPS:
+CONSEILS:
 
-- Un couteau est la meilleure arme dans les espaces restreints. Un coup en tue un.
-- Les yeux rouges indiquent leur emplacement.
+- Un couteau est la meilleure arme dans les espaces restreints. Un coup tue un.
+- Les yeux rouges donnent leur position.

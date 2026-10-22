@@ -1,25 +1,25 @@
-COMBINEZ LE SCANNER ARCTIQUE
+SCANNER ARCTIQUE COMBINE
 
 
-CLASS: Combiner le scanner arctique
-METABOLISM: Système énergétique entièrement synthétique alimenté par batterie
-PERCEPTION: Drone de reconnaissance Combine organique autonome
-SIZE: 1 pied
-ENDURANCE: Moyen
-HOSTILITY: Moyen-élevé
-WEAPONS: Faisceau laser pulsé
-REWARD: 350FC
-THREAT: Moyen-élevé
+CLASSE:      Combiner le scanner arctique
+MÉTABOLISME: Système d'énergie entièrement synthétique alimenté par batterie
+PERCEPTION: Autonome bio Combine le drone de reconnaissance
+TAILLE:       1 pi
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Moyenne-élevée
+ARMES:    Faisceau laser pulsé
+RÉCOMPENSE:     350 FC
+MENACE:     Moyenne-élevée
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine Arctic Scanner est une version modifiée du Wasteland Scanner, adapté aux températures extrêmement froides et aux environnements enneigés des territoires du Nord.
+Le Combine Arctic Scanner est une version modifiée du Wasteland Scanner, adaptée aux températures extrêmement froides et aux environnements neigeux des territoires du Nord.
 
-Like the standard Wasteland Scanner, it is equipped with multi-band sensors: caméras visuelles synthétiques, imagerie thermique et capteurs de mouvement Doppler. Cependant, contrairement au modèle de base, l'Arctic Scanner est équipé d'un laser pulsé, lui permettant non seulement d'observer mais également de supprimer activement des cibles souples à courte distance.
+Comme le Wasteland Scanner standard, il est équipé de capteurs multibandes : caméras visuelles synthétiques, imagerie thermique et capteurs de mouvement Doppler. Cependant, contrairement au modèle de base, le Scanner arctique est équipé d'un laser pulsé, ce qui lui permet non seulement d'observer mais aussi de supprimer activement les cibles douces à proximité.
 
-Le faisceau laser n'est pas conçu pour combattre les blindés lourds ou les unités blindées, mais il peut traverser les tissus mous, détruire les petits véhicules et perturber les opérations rebelles dans les espaces ouverts.
+Le faisceau laser n'est pas conçu pour combattre les armures lourdes ou les unités blindées, mais il peut couper à travers les tissus mous, détruire les petits véhicules, et perturber les opérations rebelles dans les espaces ouverts.
 
-TIPS: 
+CONSEILS:
 
-- Sur fond de neige, son corps s'assimile visuellement au paysage, le rendant difficile à détecter.
-- Évitez le laser.
+- Sur fond neigeux, son corps s'assimile visuellement au paysage, ce qui le rend difficile à détecter.
+- Éviter le laser.

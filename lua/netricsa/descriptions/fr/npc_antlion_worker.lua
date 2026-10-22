@@ -1,21 +1,21 @@
-OUVRIER D'ANTLION DE XEN
+TRAVAILLEURS D'ANTLION DE XEN
 
 
-CLASS: Fourmilion, ouvrier
-METABOLISM: insectoïde
-PERCEPTION: Créature extraterrestre ressemblant à un insecte
-SIZE: 3-4 pieds
-ENDURANCE: faible-moyen
-HOSTILITY: moyen (défensif)
-WEAPONS: crachat acide, creuser
-REWARD: 300FC
-THREAT: moyen
+CLASSE:      Antlion, travailleur
+MÉTABOLISME: insectoïde
+PERCEPTION: Creature d'Alien semblable à des insectes
+TAILLE:       3-4 pieds
+ENDURANCE:  moyenne
+HOSTILITÉ:  moyenne (défensive)
+ARMES:    cracher acide, creuser
+RÉCOMPENSE:     300 FC
+MENACE:     moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les ouvriers d'Antlion sont les artisans industriels et les protecteurs de la colonie. Originaires de Xen, ces insectes aveugles utilisent des crachats acides pour creuser des tunnels complexes dans un terrain rocheux, soutenant l'infrastructure de la ruche et protégeant les chambres larvaires contre les intrus. Bien qu'ils ne soient pas aussi agressifs que les soldats ou les gardes, ils peuvent devenir redoutables lorsqu'ils défendent leurs larves, en particulier dans les espaces souterrains restreints.
+Antlion Les travailleurs sont les artisans industriels et les protecteurs de la colonie. Originaires de Xen, ces insectes aveugles utilisent des crachats acides pour tailler des tunnels complexes sur des terrains rocheux, soutenant l'infrastructure de la ruche et protégeant les chambres larvaires contre les intrus. Bien qu'ils ne soient pas aussi agressifs que les soldats ou les gardes, ils peuvent devenir redoutables lorsqu'ils défendent leurs grognons, surtout dans des espaces souterrains serrés.
 
-TIPS: 
+CONSEILS:
 
-- Utilisez des attaques à distance pour garder vos distances tout en évitant les embuscades rapprochées.
-- Leur crachat acide est dangereux ; les mouvements rapides et les manœuvres d'évitement aident à minimiser l'exposition.
+- Utilisez des attaques variées pour garder votre distance tout en évitant les embuscades de quartier proche.
+- Leur cracher acide est dangereux; mouvement rapide et manœuvres évasives aident à minimiser l'exposition.

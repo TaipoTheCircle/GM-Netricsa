@@ -1,22 +1,22 @@
 MP 38 SUBMACHINE GUN
 
 
-ARME : MP 38 submachine gun
-MUNITIONS : 9x19 mm Parabellum
-ROF : ~600 rounds / min
-POIDS : ~4,8 kg
+ARME:  MP 38 mitrailleuse
+MUNITIONS:    9x19 mm Parabellum
+CADENCE DE TIR:     ~600 tours/min
+POIDS:  ~4,8 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-A German submachine gun developed by ERMA and adopted in 1938. It was designed primarily as a compact weapon for tank crews, motorized infantry, paratroopers, and commanders. The MP 38 was one of the first mass-produced submachine guns with a folding metal stock.
+Une mitrailleuse allemande développée par ERMA et adoptée en 1938. Il a été conçu principalement comme une arme compacte pour les équipages de chars, l'infanterie motorisée, les parachutistes et les commandants. Le MP 38 était l'une des premières mitrailleuses sous-produites en série avec un stock de métal pliant.
 
-The weapon uses a blowback action and fires in automatic mode only. It is fed from a 32-round box magazine. The charging handle is located on the left, allowing the right hand to continue holding the pistol grip.
+L'arme utilise une action de rappel et des feux en mode automatique seulement. Il est alimenté par un magazine de 32 tours. La poignée de chargement est située à gauche, permettant à la main droite de continuer à tenir la poignée du pistolet.
 
-The MP 38 was distinguished by its moderate rate of fire and smooth operation. This made it easy to control when firing in bursts. Its production was later replaced by the more technologically advanced and less expensive MP 40, so the MP 38 was produced in relatively small numbers.
+Le MP 38 se distingue par son taux modéré d'incendie et son bon fonctionnement. Cela a facilité le contrôle lors des rafales. Sa production a ensuite été remplacée par le MP 40 plus avancé technologiquement et moins cher, de sorte que le MP 38 a été produit en nombre relativement faible.
 
-REMARQUES :
+REMARQUES:
 
-- The moderate rate of fire allows for fairly confident control of the weapon when firing in bursts.
-- Particularly well suited for close- and medium-range combat.
-- The folding stock makes the MP 38 convenient for tank crews, paratroopers, and soldiers who value a compact weapon.
-- The MP 38 was an important step in the development of German submachine guns, and its design became the basis for the subsequent MP 40.
+- La vitesse modérée des tirs permet un contrôle assez sûr de l'arme lors des rafales.
+- Particulièrement bien adapté pour le combat à courte et moyenne portée.
+- Le matériel pliant rend le MP 38 pratique pour les équipages de chars, les parachutistes et les soldats qui apprécient une arme compacte.
+- Le MP 38 a été une étape importante dans le développement des mitrailleuses allemandes, et sa conception est devenue la base du MP 40.

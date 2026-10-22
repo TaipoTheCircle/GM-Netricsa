@@ -1,27 +1,27 @@
-COMBINER SAS OVERWATCH SOLDAT
+VENDU SURVEILLANCE DE LA SAS COMBINE
 
 
-CLASS: Combinez SAS Overwatch Soldier
-METABOLISM: Humain augmenté, mâle
-PERCEPTION: Unité d'élite de reconnaissance et d'infiltration
-SIZE: 5,9 pieds
-ENDURANCE: Très élevé
-HOSTILITY: Extrême
-WEAPONS: Fusil à impulsion AR2, MP40, fusil de précision SSG-08
-REWARD: 1100 FC
-THREAT: Très élevé
+CLASSE:       Combiner le soldat SAS Overwatch
+MÉTABOLISME:  Augmenté Humain, Homme
+PERCEPTION:  Unité de reconnaissance et d'infiltration Elite
+TAILLE:        5,9 pieds
+ENDURANCE:   Très élevé
+HOSTILITÉ:   Extrême
+ARMES:     AR2 Rifle à impulsions, MP40, SSG-08 Rifle à sniper
+RÉCOMPENSE:      1100 FC
+MENACE:      Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine SAS Overwatch est une version renaissante du légendaire Special Air Service, une unité créée par David Stirling pendant la Seconde Guerre mondiale. Ils se sont autrefois infiltrés profondément derrière les lignes ennemies, ont mené des opérations de sabotage et ont disparu avant même que l’ennemi puisse se rendre compte de ce qui s’était passé. Le Combine a examiné cette philosophie et a simplement dit : « Ça a l'air bien. »
+Le Combine SAS Overwatch est une version régénérée du légendaire Special Air Service, une unité créée par David Stirling pendant la Seconde Guerre mondiale. Une fois infiltrés derrière les lignes ennemies, ils ont mené des opérations de sabotage et ont disparu avant même que l'ennemi ne réalise ce qui s'était passé. Le Combine regarda cette philosophie et dit simplement : « Ça sonne bien. »
 
-Après l'occupation de la Terre, les soldats SAS ont été intégrés dans Overwatch et soumis à d'importantes modifications cybernétiques. Leur équipement actuel se compose d’une combinaison tactique blanche avec un gilet pare-balles noir et d’un énorme casque noir avec un masque à gaz. Les lentilles du masque à gaz sont teintées d'un rouge menaçant, dissimulant des yeux cybernétiques capables de détecter l'infrarouge, la chaleur et la faible luminosité.
+Après l'occupation de la Terre, les soldats SAS ont été intégrés dans Overwatch et soumis à une importante modification cybernétique. Leur équipement actuel se compose d'un costume tactique blanc avec une armure noire et un casque noir massif avec un masque à gaz. Les verres de masque à gaz sont teintés d'un rouge odieux, dissimulant les yeux cybernétiques capables de détection infrarouge, thermique et faible lumière.
 
-Les SAS d'Overwatch sont passés maîtres dans le combat furtif, le sabotage et les assassinats ciblés. Ils sont tout aussi dangereux à longue portée, avec le SSG-08, qu'en combat rapproché avec l'AR2 et le MP40. Leur style est une infiltration rapide, une élimination instantanée de la cible et une disparition, ne laissant derrière eux que le silence et un rapport au quartier général du Combine.
+Les SAS de Overwatch sont des maîtres du combat furtif, du sabotage et des assassinats ciblés. Ils sont également dangereux à longue portée, en utilisant le SSG-08, et en combat étroit avec les AR2 et MP40. Leur style est une infiltration rapide, l'élimination instantanée de la cible, et la disparition, laissant derrière lui le silence et un rapport de retour au siège de Combine.
 
-L’ironie est que la formation SAS n’a pratiquement pas changé. Comme auparavant, l’entraînement reste mortel, car de vraies munitions (et parfois même de vraies bombes et charges de sacoche) sont utilisées.
+L'ironie est que la formation SAS n'a guère changé. Comme avant, l'entraînement reste mortel, en raison du fait que de vraies munitions (et parfois même de vraies bombes et des charges de cartable) sont utilisées.
 
-TIPS: 
+CONSEILS:
 
-- Ne restez jamais immobile - Les soldats Overwatch SAS aiment opérer depuis l'ombre et les flancs.
-- Leurs tireurs d'élite sont dangereux même à des distances extrêmes.
+Surveillez les soldats SAS qui aiment opérer depuis les ombres et les flancs.
+- Leurs snipers sont dangereux même à des distances extrêmes.

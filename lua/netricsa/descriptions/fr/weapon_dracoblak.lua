@@ -1,16 +1,16 @@
-GOLD-PLATED DRACO SEMI-AUTOMATIC PISTOL
+PISTOL DRACO SÉMI-AUTOMATIQUE PISTOL
 
 
-ARME : Gold-Plated Draco Semi-Automatic Pistol
-MUNITIONS : Rondes de 7,62x39 mm
-ROF : ~30 tours/min
+ARME: Pistol semi-automatique de Draco en or
+MUNITIONS:   7.62x39mm Rondes
+CADENCE DE TIR:    ~30 tours/min
 
-DESCRIPTIF :
+DESCRIPTION:
 
-The Draco semi-automatic pistol is a shortened version of the AK and does not have a full-auto fire mode. Most Draco models are manufactured in Romania by the Cugir arms factory and imported to the United States. Popular with gangsters. Gold-painted.
+Le pistolet semi-automatique Draco est une version abrégée de l'AK et n'a pas de mode de tir automatique. La plupart des modèles Draco sont fabriqués en Roumanie par l'usine d'armes Cugir et importés aux États-Unis. Populaire avec les gangsters. Peint d'or.
 
-REMARQUES :
+REMARQUES:
 
-- It has the same caliber as the AK, making it a powerful pistol.
-- You can change hand positions by pressing ALT + E.
-- It is indistinguishable from the standard Draco.
+- Il a le même calibre que l'AK, en faisant un pistolet puissant.
+- Vous pouvez changer de position en appuyant sur ALT + E.
+- C'est indissociable du Draco standard.

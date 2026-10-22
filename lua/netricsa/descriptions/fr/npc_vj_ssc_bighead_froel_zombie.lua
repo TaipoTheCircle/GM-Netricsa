@@ -1,33 +1,33 @@
-GROSSE TÊTE, FROEL HOATES
+GRANDS HÔTES DE FROEL
 
 
-CLASS: Grosse tête, Froel Hoates
-METABOLISM: Humanoïde, mâle
+CLASSE:      Grosse tête, froissements
+MÉTABOLISME: Humanoïde, Homme
 PERCEPTION: Fanatique enthousiaste
-SIZE: 5,9 pieds
-ENDURANCE: Faible
-HOSTILITY: Neutre
-WEAPONS: Aucun (sauf en difficulté I Am Ugh-Zan)
-REWARD: 6666 FC
-THREAT: Ennui
+TAILLE:       5,9 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Neutre
+ARMES:    Aucune (sauf sur I Am Ugh-Zan difficulté)
+RÉCOMPENSE:     6666 FC
+MENACE:     Annoyance
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les Big-Heads sont de minces humanoïdes aux crânes exagérés contenant le cerveau des développeurs. Ils portent l'uniforme de Cool Sam, mais ont les traits du visage uniques de l'équipe de développement. Ils affichent un enthousiasme obsessionnel et vous poursuivent aux cris de « Bonjour ! » et "Où vas-tu !?" Ils sont totalement inoffensifs, mais dans la difficulté "Je suis Ugh-Zan", ils gagnent des modificateurs de feu et de glace. Ils apparaissent spontanément dans les zones secrètes, bloquant les passages par leur grand nombre.
+Les grosses têtes sont de minces humanoïdes avec des crânes exagérés contenant les cerveaux des développeurs. Ils portent l'uniforme de Cool Sam, mais ont les caractéristiques faciales uniques de l'équipe de développement. Ils montrent un enthousiasme obsessionnel, vous poursuivant avec des cris de "Bonjour!" et "Où allez-vous!" Ils sont complètement inoffensifs, mais dans la difficulté "Je suis Ugh-Zan" ils gagnent le feu et les modificateurs de glace. Ils apparaissent spontanément dans des zones secrètes, bloquant les passages avec leur nombre.
 
-Froel Hoates est un cas particulier. Ce n'est pas un moddeur, un programmeur ou un testeur au sens classique du terme. Son crâne surdimensionné est un univers de personnages originaux (OC), de fan art et d'idées de fangames infinies qui resteront probablement de simples concepts. C'est un artiste dans l'âme, un touche-à-tout qui dessine quand il veut et crée du contenu simplement pour s'amuser.
+Froel Hoates est un cas spécial. Ce n'est pas un modder, un programmeur ou un testeur au sens classique. Son crâne surdimensionné est un univers de personnages originaux (OCs), d'art fan et d'idées de fangame sans fin qui resteront probablement juste des concepts. C'est un artiste à cœur, un valet de commerce qui dessine chaque fois qu'il veut et crée du contenu simplement pour s'amuser.
 
-C'est lui qui a conçu ces gnaars tropicaux que DED123_228 a implémentés dans le mod Revolution et que Taipo a portés sur GMod avec autorisation. Mais son plus grand héritage est son propre monde virtuel.
+C'est lui qui a conçu ces gnaars tropicaux que DED123 228 a implémentés dans le mod Révolution et que Taipo a porté à GMod avec autorisation. Mais son plus grand héritage est son propre monde virtuel.
 
-He has "Froel Gnaar" - his fursona projection in the form of a gnaar, which he loves dearly. He has a whole gallery of OCs for the Serious Sam: du Lacararian Prowler venimeux et du parasite Elugat à un PNJ amical, Alien, avec lequel on peut échanger. Son OC, Jimmothy, est un doux Gnaar, autour duquel se construit toute une intrigue AU sur les aventures communes de Serious Sam et Duke Nukem.
+Il a "Froel Gnaar" - sa projection de fursona sous forme de gnaar, qu'il aime beaucoup. Il possède toute une galerie d'OCs pour le Serious Sam : du venimeux Larcaire Prowler et de l'Elugat parasitaire à un ami NPC, Alien, qui peut être échangé avec. Son OC, Jimmothy, est un doux Gnaar, autour duquel tout un complot de l'UA est construit sur les aventures conjointes de Serious Sam et Duke Nukem.
 
-Froel est une encyclopédie ambulante d'intérêts de niche (Transformers, Jonny Quest, Postal, The Tick), un homme atteint de TDAH qui aime « les jeux idiots, les puzzles et les jeux de tir » et déteste dessiner des arrière-plans complexes. Il incarne la joie pure et sans effort du fan art. Il ne crée pas par devoir, par gloire ou par argent, mais parce que son imagination réclame constamment un exutoire.
+Froel est une encyclopédie marchant de niches d'intérêts (Transformers, Jonny Quest, Postal, The Tick), un homme avec ADHD qui aime "silly jeux, puzzles, et tireurs" et déteste dessiner des milieux complexes. Il incarne la joie pure et sans effort de l'art fan. Il ne crée pas par devoir, renommée, ou argent, mais parce que son imagination exige constamment un débouché.
 
-Il était autrefois vivant, mais après que quelqu'un l'ait tué, il est ressuscité des morts, devenant un zombie démoniaque.
+Il était une fois vivant, mais après que quelqu'un l'ait tué, il est ressuscité d'entre les morts - devenant un zombie démoniaque.
 
-TIPS: 
+CONSEILS:
 
 - Utilisez un couteau de combat ou un pistolet pour dégager un chemin.
-- En difficulté "I Am Ugh-Zan", détruisez-les à distance grâce à leurs modificateurs.
-- Une masse à frappe horizontale est efficace en groupe.
+- Sur la difficulté "Je suis Ugh-Zan", les détruire à distance en raison de leurs modificateurs.
+- Un lugehammer avec une frappe horizontale est efficace dans un groupe.
 

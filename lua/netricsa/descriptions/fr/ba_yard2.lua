@@ -1,10 +1,10 @@
-BLACK MESA SEWER, A WORKAROUND
+LE SEWER BLACK MESA, UN TRAVAIL
 
 
-Sam, tu es au cœur de l'enfer des égouts. L'air est épais comme de la gelée, ça sent la pourriture et autre chose... celui de quelqu'un d'autre. Ce ne sont pas seulement des tuyaux et des canalisations, c'est un labyrinthe.
+Sam, tu es au cœur de l'enfer des égouts. L'air est épais comme de la gelée, ça sent la pourriture et autre chose... quelqu'un d'autre. Ce ne sont pas que des tuyaux et des égouts, c'est un labyrinthe.
 
-You see cockroaches-they scurry across the floor, as if they know something you don't. So far, they're just watching, but it won't be for long. Headcrabs lurk in dark corners, sniffing, preparing to jump. Their movements are measured, like the ticking of a clock: un, deux, trois - et vous n'êtes plus seul. Quelque part dans les profondeurs se cache une horde de Mentaux - on ne peut pas les voir, mais ils sont là : ils regardent, attendent.
+Tu vois des cafards, ils grouillent par terre, comme s'ils savaient quelque chose que tu ne sais pas. Pour l'instant, ils regardent, mais ce ne sera pas long. Les cabillauds se cachent dans les coins sombres, reniflant, se préparant à sauter. Leurs mouvements sont mesurés, comme le tic-tac d'une horloge: un, deux, trois - et vous n'êtes plus seul. Quelque part dans les profondeurs il y a une horde de Mentals qui se cache - vous ne pouvez pas les voir, mais ils sont là: regarder, attendre.
 
-Le sifflement de la vapeur provenant des pipes fumantes retentit dans l'air.
+Le sifflement de vapeur des tuyaux fumeurs est dans l'air.
 
-La cible devant nous est un ascenseur rouillé. On dirait qu'il est sur le point de s'effondrer, mais c'est votre chance de vous élever plus haut.
+La cible est un ascenseur rouillé. On dirait que ça va s'effondrer, mais c'est votre chance de monter plus haut.

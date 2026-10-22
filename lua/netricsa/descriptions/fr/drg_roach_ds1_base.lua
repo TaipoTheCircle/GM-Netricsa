@@ -1,25 +1,25 @@
-ANDRÉ D'ASTORA
+ANDRE D'ASTORA
 
 
-CLASS: André
-METABOLISM: Humain, mâle
+CLASSE:      André
+MÉTABOLISME: Humain, Homme
 PERCEPTION: Maître forgeron
-SIZE: ~8 pieds
-ENDURANCE: Élevé (Peut tanker la plupart des armes médiévales)
-HOSTILITY: Neutre
-WEAPONS: Coups de poing, coups de pied
-REWARD: 1000FC
-THREAT: Haut
+TAILLE:       ~8 pi
+ENDURANCE:  Haut (Can réservoir la plupart des armes médiévales)
+HOSTILITÉ:  Neutre 
+ARMES:    Fisticuffs, coups de pied
+RÉCOMPENSE:     1000 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Originaire de Lordran, le pays de Gwyn, Andre a travaillé avec passion dans une vieille église délabrée de la paroisse des morts-vivants. De là, il a exercé les fonctions de forgeron, fournissant des travaux de forge et des réparations à tous les voyageurs qui en avaient besoin.
+Se tenant de Lordran, la terre de Gwyn, André a travaillé passionnément dans une ancienne église en ruines dans la paroisse Undead. De là, il a servi de forgeron, fournissant des forges et des réparations à tous les voyageurs qui en avaient besoin.
 
-André possède une carrure trapue mais musclée, avec tellement de PERCEPTION qu'il ne prend même pas la peine de porter une chemise. Alors que la plupart des forgerons se battent généralement avec leur marteau, André utilise plutôt ses mains et la force divine pour pulvériser toute pauvre âme qui ose le défier. En gros, faites preuve de bon sens et ne pensez même pas à vous opposer à ce monstre.
+André se vante d'une construction bas mais musclée, avec tellement de PERCEPTION au point qu'il ne s'embête même pas à porter une chemise. Alors que la plupart des forgerons se battaient généralement avec leur marteau, André utilise plutôt ses mains et la force donnée par Dieu pour pulvériser toute âme pauvre qui ose le défier. En gros, utilise ton sens commun et ne pense même pas à s'opposer à ce béhémoth d'un homme.
 
 
-TIPS: 
+CONSEILS:
 
-- Restez TOUJOURS de son bon côté, sinon les conséquences pourraient être fatales.
-- Ne baissez jamais la garde lorsque vous combattez André ; Ses coups ne sont pas à prendre en compte.
-- S'il commence à charger imprudemment, ÉCARTEZ-VOUS ! Il a un méchant dropkick...
+- Restez toujours de son bon côté, sinon les conséquences pourraient être fatales.
+- Ne baissez jamais votre garde en combattant André ; ses coups ne doivent pas être comptés avec.
+- S'il commence à accuser imprudemment, sortez de là ! Il a un sale coup de poing...

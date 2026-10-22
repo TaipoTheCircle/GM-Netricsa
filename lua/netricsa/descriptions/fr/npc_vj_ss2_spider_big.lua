@@ -1,24 +1,24 @@
-ARAIGNÉE BIOMÉCANOÏDE : LA « MAMAN » DE MAGNOR
+SPIDER BIOMÉCHANOISIE, LE MOMME DU MAGNOR
 
 
-CLASSE:       Araignée biomécanoïde (La « Maman »)
-MÉTABOLISME:  Cyborg endotherme
-PERCEPTION:   Génétiquement programmée
-TAILLE:       15,5 m (51 pieds)
-ENDURANCE:    Élevée
-HOSTILITÉ:    Élevée
-ARMES:        Morsure, jet d'acide
-RÉCOMPENSE:   750 FC
-MENACE:       Élevée
+CLASSE:       L'araignée biomécanique, la maman
+MÉTABOLISME:  Cyborg endothermique
+PERCEPTION:  Génétiquement programmé
+TAILLE:        51 pieds
+ENDURANCE:   Haut
+HOSTILITÉ:   Haut
+ARMES:     Bite, craquage acide
+RÉCOMPENSE:      750 FC
+MENACE:      Haut
 
 DESCRIPTION:
 
-Mental fait largement appel aux araignées dans ses armées, en particulier à la variété originaire d'Antares. Souhaitant passer à la vitesse supérieure avec sa collection d'araignées géantes, il a entrepris de créer une nouvelle race hybride, mi-biologique, mi-cybernétique. C'est ainsi qu'après d'innombrables mutations, manipulations génétiques, pertes humaines parmi les scientifiques et larmes versées en laboratoire, l'araignée biomécanoïde a vu le jour.
+Mental utilise largement les araignées dans ses armées, en particulier la variété Antares. Cherchant à amener sa collection d'araignées géantes au niveau suivant, il a commencé à créer une nouvelle race demi-biologique, demi-cybernétique. Ainsi, après d'innombrables mutations, génie génétique, pertes scientifiques, et versé des larmes dans le laboratoire, l'araignée biomécanique est née.
 
-Ces « Mamans » sont nettement plus grandes, plus résistantes et plus dangereuses que les « Petites ». Elles avancent lourdement vers vous tout en crachant des projectiles d'acide. Évitez absolument de vous faire toucher.
+Les Momies sont beaucoup plus grandes, plus résistantes et plus dangereuses que les Hatchlings. Ils boisent vers vous en crachant des projectiles acides. Essayez de ne pas les frapper.
 
 CONSEILS:
 
-- Quelques boulets de canon constituent le moyen le plus rapide de les détruire, à moins que vous ne disposiez d'une « Serious Bomb ».
-- Votre meilleure alternative consiste à les pilonner avec des explosifs.
-- Ne vous approchez pas. Surtout pas. Ce n'est pas le genre d'araignée que l'on peut écraser sous sa botte.
+- Quelques boulettes de canon sont votre moyen le plus rapide de les détruire - à moins que vous ayez une bombe grave.
+- Votre prochaine meilleure option est un barrage d'explosifs.
+- Ne vous approchez pas. Mais ne le fais pas. C'est une araignée que vous ne pouvez pas écraser avec votre botte.

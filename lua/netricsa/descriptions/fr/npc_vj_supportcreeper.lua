@@ -1,42 +1,42 @@
-SOUTIEN CREEPER DE MINECRAFT OVERWORLD
+CREEPER D'APPUI DE L'EXERCICE MINECRAFT
 
 
-CLASS: Supporter la plante grimpante
-METABOLISM: Poudre à canon végétale
+CLASSE:      Soutien aux Crise
+MÉTABOLISME: Poudre végétale
 PERCEPTION: Neutre
-SIZE: 5,5 pieds
-ENDURANCE: Faible
-HOSTILITY: Neutre
-WEAPONS: Buffs pour les alliés
-REWARD: 120 FC
-THREAT: Moyen
+TAILLE:       5,5 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Neutre
+ARMES:    Buffs pour alliés
+RÉCOMPENSE:     120 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Il s'agit d'une version jaune, plus paisible, du Creeper classique, que l'on trouve dans les zones sombres de l'Overworld.
+C'est une version jaune et plus paisible du Creeper classique, qui se trouve dans les régions sombres de l'Overworld.
 
-Le Support Creeper se distingue du Creeper standard par son teint plus jaune et sa bouche à un seul pixel, lui donnant une apparence presque inoffensive. Mais cette apparence est trompeuse.
+Le Creeper de soutien se distingue du Creeper standard par son teint plus jaune et sa bouche à pixel unique, lui donnant une apparence presque inoffensive. Mais cette apparence est trompeuse.
 
-Contrairement à son homologue vert, qui se faufile et explose, le Support Creeper est un pur support. Son objectif principal est de renforcer les autres monstres hostiles. Il trouve le monstre le plus proche, le suit et fournit de puissants buffs tout en s'enfuyant.
+Contrairement à son homologue vert, qui se faufile et explose, le Support Creeper est un support pur. Son but principal est de bourdonner d'autres groupes hostiles. Il trouve le monstre le plus proche, le suit, et fournit des buffs puissants en fuyant.
 
-Creeper Buff: Si le Support Creeper améliore un autre creeper, il le "charge" d'électricité (comme un coup de foudre), le rendant ignifuge. Il s'accorde également Fireproof et Speed ​​​​I.
+Creeper Buff: Si le Creuseur de soutien buffle un autre rampant, il le « charge » avec de l'électricité (comme un coup de foudre), lui accordant l'épreuve du feu. Elle s'accorde également l'épreuve du feu et la vitesse I.
 
-Buffing any other monsters: Il accorde à tous les autres monstres (zombies, squelettes, etc.) trois effets : Ignifuge, Force I et Vitesse I. Il ne s'accorde que Speed ​​​​I.
+Buffing any other monsters: Il accorde à tous les autres monstres (zombies, squelettes, etc.) trois effets : l'épreuve du feu, la force I et la vitesse I. Il ne se donne que Speed I.
 
-Si sa cible meurt, il en cherche une autre. S’il ne reste plus aucune cible, il s’enfuit tout simplement.
+Si sa cible meurt, elle en cherche une autre. S'il ne reste plus de cibles, il fuit tout simplement.
 
-Malgré sa nature neutre, le Support Creeper peut être dangereux.
+Malgré son caractère neutre, le Creeper de soutien peut être dangereux.
 
-S'il tombe en dessous de la moitié de sa santé, il arrête de fonctionner et commence à se comporter comme un sifflement et une explosion de plante grimpante normale.
+S'il tombe en dessous de la moitié de la santé, il cesse de courir et commence à se comporter comme un hispanage normal et l'explosion.
 
-Comme une plante grimpante normale, elle peut se charger si elle est frappée par la foudre. Cela augmente tous ses effets au niveau II, le rendant ainsi que ses alliés encore plus mortels.
+Comme un rampant normal, il peut être chargé s'il est frappé par la foudre. Cela augmente tous ses effets au niveau II, le rendant et ses alliés encore plus mortels.
 
-Tuer une plante grimpante de support donne rarement un œuf mystère jaune. S’il éclot, il éclora pour devenir une plante grimpante de soutien pour bébé apprivoisée. En grandissant, cette plante grimpante apprivoisée vous fournira des buffs utiles, pas aux monstres.
+Tuer un mildiou produit rarement un oeuf jaune. Si elle est éclose, elle éclose dans un mousqueton de soutien pour bébé. Au fur et à mesure qu'elle mûrit, ce rampant apprivoisé vous fournira des buffles utiles, pas à la foule.
 
-TIPS: 
+CONSEILS:
 
-- Tuez-le d'abord. Dans toute bataille avec un groupe de monstres, si vous voyez une plante grimpante jaune, cela devrait être votre priorité numéro un. Le tuer prive toute la horde de ses buffs.
+- Tuez-le d'abord. Dans toute bataille avec un groupe de mafia, si vous voyez un rampant jaune, ce devrait être votre priorité numéro un. Le tuer prive toute la horde de ses fesses.
 - Gardez vos distances. Si vous l'endommagez mais ne le tuez pas, il vous chargera et explosera.
-- Utiliser une arme à distance (arc/arbalète). C'est le moyen le plus sûr de le tuer sans le laisser s'approcher.
-- Ne le laissez pas s'échapper. Il est rapide, alors essayez de le coincer ou utilisez des effets de ralentissement (toiles, potions lentes).
-- Si vous voyez une plante grimpante chargée, courez. Ses buffs sont si puissants qu'un zombie ordinaire peut devenir un mini-boss.
+- Utiliser une arme variée (bow / arbalète). C'est le moyen le plus sûr de le tuer sans le laisser se rapprocher.
+- Ne le laissez pas s'échapper. Il est rapide, alors essayez de le coincer ou d'utiliser des effets ralentissants (webs, potions lentes).
+- Si vous voyez un type chargé, fuyez. Ses fesses sont si puissantes qu'un zombie régulier peut devenir un mini-boss.

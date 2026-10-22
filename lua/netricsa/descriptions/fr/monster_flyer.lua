@@ -1,21 +1,21 @@
-BOID FROM XEN
+BOID DE XEN
 
 
-CLASS: Boïde
-METABOLISM: inconnu
-PERCEPTION: dépliant social
-SIZE: 2,5 pieds d'envergure
-ENDURANCE: faible
-HOSTILITY: aucun
-WEAPONS: aucun
-REWARD:     50 FC
-THREAT: aucun
+CLASSE:      Boid
+MÉTABOLISME: inconnu
+PERCEPTION: circulaire sociale
+TAILLE:       échelle de 2,5 pieds
+ENDURANCE:  faible
+HOSTILITÉ:  aucune
+ARMES:    aucune
+RÉCOMPENSE:     50 FC
+MENACE:     aucune
 
 DESCRIPTION:
 
-Les Boids sont même de sympathiques cousins ​​des Aflocks, volant en groupes serrés et créant des motifs aériens fascinants. Ils sont complètement passifs et inoffensifs, surtout curieux de leur environnement. Lorsqu'ils sont vus ensemble, leurs mouvements coordonnés ressemblent à une danse d'oiseaux extraterrestres vivants.
+Les petits sont même des cousins amicaux d'Aflocks, volant dans des troupeaux serrés et créant des motifs aériens envoûtants. Ils sont totalement passifs et inoffensifs, surtout curieux de leur environnement. Vus ensemble, leurs mouvements coordonnés ressemblent à un oiseau extraterrestre vivant qui danse.
 
-TIPS:
+CONSEILS:
 
-- N'attaquez pas ; ils ne riposteront pas.
-- Surveillez leurs troupeaux pour un spectacle extraterrestre apaisant.
+- N'attaquez pas, ils ne riposteront pas.
+- Regardez leurs troupeaux pour un spectacle apaisant.

@@ -1,29 +1,29 @@
-BEHEMOTH PRIMITIF DE M'DIGBO
+BIEN-ÊTRE PRINCIPAL DE M'DIGBO
 
 
-CLASS: Béhémoth primitif
-METABOLISM: Mammifère
+CLASSE:      Béhémoth primitif
+MÉTABOLISME: Mammifère
 PERCEPTION: Être primitif
-SIZE: 50 pieds
-ENDURANCE: Haut
-HOSTILITY: Moyen
-WEAPONS: Massue géante à pointes
-REWARD: 500FC
-THREAT: Moyen
+TAILLE:       50 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Moyenne
+ARMES:    Club géant Spiked
+RÉCOMPENSE:     500 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-M'Digbo est parsemé d'innombrables tribus primitives, qui affichent toutes un comportement très territorial et agressif. Ils attaquent presque tout le monde de manière impulsive et ne sont pas plus intelligents qu’un tas de briques.
+M'Digbo est parsemé d'innombrables tribus primitives, qui ont toutes un comportement très territorial et agressif. Ils attaquent presque tout le monde sous impulsion et ne sont pas plus intelligents qu'un tas de briques.
 
-Il s'agit d'une race humanoïde dirigée par la mystérieuse "Maman".
+Ils sont une race humanoïde dirigée par le mystérieux "Mommy".
 
-Lorsque les forces de Mental colonisèrent M'Digbo, les primitifs lancèrent des attaques contre eux. Ils sont tous morts. Après cela, ils ont commencé à adorer Mental comme un dieu de la guerre et lui ont prêté allégeance. Cela a été fait par peur et par respect pour Mental, ainsi que pour les culottes léopard stylistiques que Sirius Fashion Inc leur a fournies.
+Lorsque les forces de Mental ont colonisé M'Digbo, les primitifs ont lancé des attaques contre eux. Ils sont tous morts. Après cela, ils ont commencé à adorer Mental comme un dieu de guerre et lui ont promis leur allégeance. Cela a été fait par peur et respect pour Mental, ainsi que la culotte léopard stylistique que Sirius Fashion Inc leur a fourni.
 
-Having found a bigger stick in this cruel world, the Primeval Giant sets out in search of adventure on his prehistoric backside. Life in a cave is ideal for a Primeval Giant: beaucoup de nourriture, de chaleur, de sécurité... et ainsi ces ancêtres possibles de créatures humanoïdes ont atteint des proportions gigantesques.
+Ayant trouvé un plus grand bâton dans ce monde cruel, le Géant Primeval part en quête d'aventure sur son dos préhistorique. La vie dans une grotte est idéale pour un Géant Primeval : beaucoup de nourriture, de chaleur, de sécurité... et donc ces ancêtres possibles de créatures humanoïdes ont grandi à des proportions gigantesques.
 
-Les troglodytes ont la peau grise et, pour démontrer leur grandeur, se tatouent de tatouages ​​rouges. Pour intimider davantage les autres, ils portent des colliers de dents, gentiment prélevées sur les crânes d'ennemis tués. Ils portent également des bagues aux mains et aux pieds.
+Les troglodytes ont la peau grise et, pour démontrer leur grandeur, se tatouent avec des tatouages rouges. Pour intimider davantage les autres, ils portent des colliers de dents, aimablement tirés des crânes d'ennemis tués. Ils portent aussi des anneaux sur leurs mains et leurs pieds.
 
-TIPS: 
+CONSEILS:
 
-- Donnez la priorité à la destruction des « fatso kamikazes » : ce sont eux qui infligent le plus de dégâts.
-- Ils devraient être des cibles hautement prioritaires dans des environnements proches avec peu d'espace pour se déplacer.
+- Bien qu'ils se déplacent lentement, ils sont très dangereux s'ils sont proches, gardez votre distance.
+- Ils devraient être des cibles hautement prioritaires dans des environnements proches et peu d'espace pour se déplacer.

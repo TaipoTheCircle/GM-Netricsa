@@ -1,26 +1,26 @@
-NIVEAU 0 BLACK MESA ???, BIENVENUE DANS LES BACKROOMS
+NIVEAU 0 NOIR MESA???, BIENVENUE AUX BACKROOMS
 
 
-Sam, je ne sais pas comment expliquer ça. Mes capteurs deviennent fous. Une seconde, nous étions dans le réacteur, sentant l'ozone, le fer et la sueur. Le lendemain, nous sommes là. Où est « ici » ? Je dirais "nulle part", mais c'est trop simple. C'est une sorte d'espace non linéaire. Une buanderie. Vaste et sans fin, où tous les couloirs se ressemblent, mais aucun n'est pareil.
+Sam, je ne sais pas comment expliquer ça. Mes détecteurs deviennent fous. Une seconde, nous étions dans le réacteur, sentant l'ozone, le fer et la sueur. Le suivant, on est là. Où est "ici" ? Je dirais "n'importe où", mais c'est trop simple. C'est une sorte d'espace non linéaire. Une buanderie. Vaste et sans fin, où tous les couloirs sont similaires, mais aucun n'est le même.
 
-Papier peint jaune. Des tapis humides sous les pieds, imbibés de quelque chose mais pas d'eau. Pas buvable. Je ne recommande même pas d'essayer. Lumières au plafond. Fluorescent. Ils scintillent de manière erratique et imprévisible et bourdonnent.
+Papier peint jaune. Damp tapis sous les pieds, trempés avec quelque chose mais pas de l'eau. Pas potable. Je ne recommande même pas d'essayer. Lumières au plafond. Fluorescent. Ils flippent-erratiquement, sans doute-et hum.
 
-Visuellement, tout est pareil. Mais en même temps, aucune pièce ne se ressemble. Un modèle ? Il n’y a pas de modèle. L'espace change. Vous marchez en ligne droite et revenez là où vous avez commencé. Vous suivez le même itinéraire et vous retrouvez dans un ensemble de pièces différent. Les boussoles ne fonctionnent pas. Le GPS est silencieux. La communication radio est déformée, transformant votre voix en sifflement. Même toi et moi... je peux t'entendre, mais j'ai l'impression que le signal est fragile. Comme si nous parlions avec un vieux téléphone pendant un orage.
+Visuellement, tout est pareil. Mais en même temps, aucune chambre ne se ressemble. Un modèle ? Il n'y a pas de modèle. L'espace change. Tu marches en ligne droite et tu reviens là où tu as commencé. Nous suivons le même itinéraire et nous nous retrouvons dans un ensemble différent de chambres. Les compas ne marchent pas. Le GPS est silencieux. La communication radio est déformée, faisant de votre voix un sifflement. Même toi et moi... je peux t'entendre, mais j'ai l'impression que le signal est instable. Comme si on parlait par téléphone pendant un orage.
 
-C'est l'entrée principale des Backrooms, l'endroit d'où personne ne revient. Ou bien ils reviennent, mais ont changé.
+C'est l'entrée principale des Backrooms-l'endroit d'où personne ne revient. Ou ils reviennent, mais ont changé.
 
-Aucun contact avec des personnes à l’intérieur n’a été signalé. Personne n'a jamais rencontré personne. Mais il y avait du monde ici. Beaucoup d'entre eux. Ils mouraient de soif, de faim et de tout ce qui vous arrive à l'esprit lorsqu'ils sont entourés d'interminables murs jaunes et de lumières bourdonnantes. Privation sensorielle, isolement, manque de repères. La psychose s'installe rapidement. Et puis, le silence.
+Aucun contact n'a été signalé avec des personnes à l'intérieur. Personne n'a jamais rencontré personne. Mais il y avait des gens ici. Beaucoup. Ils mouraient de soif, de faim et de tout ce qui arrive à votre esprit quand ils étaient entourés de murs jaunes sans fin et de lumières éclatantes. Privation sensorielle, isolement, absence de repères. La psychose s'installe rapidement. Et puis la silence.
 
-Mais il n'y a pas de corps. Personne n'a jamais retrouvé de corps. Ils disparaissent tout simplement.
+Mais il n'y a pas de corps. Personne n'a jamais trouvé de corps. Ils disparaissent.
 
 Je ne sais pas. Sérieusement. Pour la première fois, je n'ai pas de plan.
 
-La navigation est impossible. Vous pouvez simplement marcher. N'importe où. Jusqu'à ce que tu sortes.
+La navigation est impossible. Tu peux marcher. N'importe où. Jusqu'à ce que tu sortes.
 
-Il existe une issue. Cela existe. Mais on ne sait pas comment le trouver. Parfois, cela apparaît par hasard. Parfois – si vous arrêtez de chercher. Parfois – si vous pensez que cela n'existe pas.
+Il y a une sortie. Il existe. Mais comment le trouver est inconnu. Parfois, ça apparaît par hasard. Parfois – si vous arrêtez de chercher. Parfois – si vous croyez qu'il n'existe pas.
 
-Fournitures? Nous avons ce que nous avons. Peu d'eau. Presque pas de nourriture. Il n'y a rien à échanger ici. Il n'y a rien ici à part du papier peint jaune et un bourdonnement.
+Des fournitures ? Nous avons ce que nous avons. Petite eau. Presque pas de nourriture. Il n'y a rien à échanger ici. Il n'y a rien d'autre que du papier peint jaune et un humour.
 
-Stabilité psychologique. C'est l'essentiel. Ne deviens pas fou. Parle moi. Je serai avec toi tant que le signal tiendra. Mais si nous nous perdons... pas de panique. Continuez à bouger. Attendez. Il existe une issue.
+Stabilité psychologique. C'est le principal. Ne deviens pas fou. Parle-moi. Je serai avec vous aussi longtemps que le signal tiendra. Mais si nous nous perdons... ne paniquez pas. Continuez. Attendez. Il y a une sortie.
 
-On va s'en sortir, Sam. Je ne sais pas comment, mais nous nous en sortirons. Parce que vous êtes un homme qui a survécu à la Cascade de Résonance, combattu Mental et traversé un espace où la réalité coule comme de l'eau. C'est juste du papier peint jaune. Rien de nouveau. Crois-moi.
+Nous sortirons, Sam. Je ne sais pas comment, mais nous sortirons. Parce que vous êtes un homme qui a survécu à la Cascade de Résonance, combattu Mental, et a marché dans un espace où la réalité coule comme l'eau. C'est juste du papier peint jaune. Rien de nouveau. Crois-moi.

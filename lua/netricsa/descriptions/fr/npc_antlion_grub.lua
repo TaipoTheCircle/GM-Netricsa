@@ -1,20 +1,20 @@
-ANTLION GRUB FROM XEN
+BRUT D'ANTLION DE XEN
 
 
-CLASS: Fourmilion, ver
-METABOLISM: Carnivore
-PERCEPTION: Créature larvaire Xen
-SIZE: ~2 pieds
-ENDURANCE: Faible
-HOSTILITY: Faible
-WEAPONS: Mordre
-REWARD:     20 FC
-THREAT: Faible-Moyen
+CLASSE:      Antlion, Grub
+MÉTABOLISME: Carnivores
+PERCEPTION: Xen Créature larvaire
+TAILLE:       ~2 pi
+ENDURANCE:  Faible
+HOSTILITÉ:  Faible
+ARMES:    Bite
+RÉCOMPENSE:     20 FC
+MENACE:     Faible-moyenne
 
 DESCRIPTION:
 
-Les larves de fourmis sont la forme larvaire des fourmilions, de petites créatures ressemblant à des vers qui vivent sous terre ou dans un sol humide. Bien que fragiles, leur nombre et leur émergence imprévisible les font vivre dans des grottes, des tunnels ou des terres perturbées.
+Antlion Grubs sont la forme larvaire d'Antlions, petites créatures semblables à des vers qui vivent sous terre ou dans un sol humide. Bien que fragiles, leur nombre et leur émergence imprévisible les rendent dans des grottes, des tunnels ou perturbé la terre.
 
-TIPS:
+CONSEILS:
 
-- Pas de problèmes.
+- Pas de problème.

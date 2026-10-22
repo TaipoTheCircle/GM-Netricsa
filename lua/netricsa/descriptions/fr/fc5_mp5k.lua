@@ -1,16 +1,16 @@
-MP5K SUBMACHINE GUN
+GUN DE SOUS-MACHINE MP5K
 
 
-ARME : MP5K Submachine Gun
-MUNITIONS : Medium-caliber rounds
-ROF : ~700 tr/min
+ARME: Pistolet sous-machine MP5K
+MUNITIONS:   Tours de calibre moyen
+CADENCE DE TIR:    ~700 RPM
 
-DESCRIPTIF :
+DESCRIPTION:
 
-A compact submachine gun originally designed for concealment / backup use. It features balanced accuracy and a controlled rate of fire, making it a preferred choice for close-quarters combat and mobile engagements.
+Une mitrailleuse compacte conçue à l'origine pour la dissimulation / l'utilisation de sauvegarde. Il dispose d'une précision équilibrée et d'un taux d'incendie contrôlé, ce qui en fait un choix privilégié pour le combat de quartier rapproché et les engagements mobiles.
 
-REMARQUES :
+REMARQUES:
 
 - Efficace contre les cibles légères et moyennes à courte portée.
 - La conception compacte réduit le recul et facilite le tir dans des espaces confinés.
-- Utilise des munitions moyennes standards, compatibles avec d'autres armes à feu.
+- Utilise des munitions moyennes standard, compatibles avec d'autres armes à feu.

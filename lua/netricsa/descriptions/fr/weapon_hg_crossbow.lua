@@ -1,15 +1,15 @@
-ARBALÈTE
+CROISSANCE
 
 
-WEAPON: Arbalète
-AMMUNITION: Boulons en acier
-ROF: Action des boulons, ~15 boulons/min.
+ARME:     Acrobatie
+AMMUNITION: Bouchons en acier
+CADENCE DE TIR:        Action du boulon, ~15 boulons/min.
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Une arme précise à longue portée équipée d'un viseur optique. Il tire des boulons en acier silencieusement, ce qui le rend efficace pour détruire des cibles à longue portée avec une grande précision.
+Une arme à longue portée précise équipée d'une vue optique. Il tire les boulons en acier silencieusement, le rendant efficace pour détruire des cibles à longue portée avec une grande précision.
 
-NOTES: 
+REMARQUES:
 
-- Précision mortelle à longue portée.
-- Rechargement lent entre les tirs.
+- Mortement précis à long terme.
+- Recharge lente entre les tirs.

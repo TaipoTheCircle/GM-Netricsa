@@ -1,16 +1,16 @@
-FUSIL D'ASSAUT SG-552
+SG-552 RISQUE D'ASSAULT
 
 
-WEAPON: SIG SG-552
-MUNITIONS Cartouches OTAN 5,56 × 45 mm
-ROF: ~700 tours/min
+ARME:      SIG SG-552 
+MUNITIONS:        5.56×45mm Cartouches de l'OTAN
+CADENCE DE TIR:         ~700 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un fusil d'assaut suisse développé en 1998 comme une version raccourcie du modèle SG-550. La production a commencé en 1998 et s'est poursuivie jusqu'en 2008, date à laquelle le fusil a été remplacé par le SG-553.
+Un fusil d'assaut suisse développé en 1998 comme une version abrégée du modèle SG-550. La production a commencé en 1998 et s'est poursuivie jusqu'en 2008, date à laquelle le fusil a été remplacé par le SG-553.
 
-NOTES: 
+REMARQUES:
 
-- Ce fusil est efficace à moyennes et longues portées.
+- Ce fusil est efficace à portée moyenne à longue.
 - Bien adapté aux opérations intérieures ou urbaines.
 

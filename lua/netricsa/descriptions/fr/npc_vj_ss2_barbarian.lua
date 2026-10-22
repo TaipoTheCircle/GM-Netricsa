@@ -1,27 +1,27 @@
-ONAN LE BIBLIOTHÉCAIRE
+ONAN LIBRARIAN
 
 
-CLASS: Onan le bibliothécaire
-METABOLISM: Mammifère
+CLASSE:      Onan le Bibliothécaire
+MÉTABOLISME: Mammifère
 PERCEPTION: Être primitif
-SIZE: 9-10 pieds
-ENDURANCE: Moyen
-HOSTILITY: Moyen
-WEAPONS: Hache
-REWARD: 200FC
-THREAT: Moyen
+TAILLE:       9-10 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Moyenne
+ARMES:    Axe
+RÉCOMPENSE:     200 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Bien que la plupart des habitants de M'Digbo soient des primitifs, il existe certaines sociétés (légèrement) plus avancées.
+Bien que la plupart des habitants de M'Digbo soient primitifs, certaines sociétés (légèrement) plus avancées existent.
 
-Bien que le peuple Simba soit sans aucun doute le plus civilisé, il existe une autre société qui sert de juste milieu entre les brutes des hommes des cavernes et les Simba civils.
+Alors que les Simba sont sans aucun doute les plus civilisés, il existe une autre société qui sert de terrain intermédiaire entre les brutes de l'homme des cavernes et les Simbas civils.
 
-Ceux-ci ont été surnommés « Onans » par les chercheurs humains. Les Onans sont plus grands et plus forts que la plupart des primitifs, produisant des haches en fer au lieu de massues en bois.
+Ceux-ci ont été surnommés "Onans" par des chercheurs humains. Les onans sont plus grands et plus forts que la plupart des primitifs, donnant des axes de fer au lieu de clubs en bois.
 
-Contrairement aux primitifs, les Onans choisissent de marcher lentement vers leur proie, tout en lançant leurs haches vers elle.
+Contrairement aux primitifs, les Onans choisissent de marcher lentement vers leurs proies, tout en sillonnant leurs axes vers elles.
 
-TIPS: 
+CONSEILS:
 
-- Ne vous approchez pas trop, ils préfèrent peut-être le combat à distance, mais ils sont dangereux de près. Ils sont très lents, il est très facile de les déjouer en les mitraillant.
-- Ils ne réfléchissent pas avant de lancer. Ils espèrent simplement le meilleur, sans tenir compte des mouvements de leurs ennemis ou de leurs alliés.
+- Ne vous approchez pas trop, ils peuvent préférer le combat varié, mais ils sont dangereux à proximité Ils sont très lents, il est très facile de les surpasser en sillonnant.
+- Ils ne pensent pas avant de lancer. Ils espèrent juste pour le meilleur sans égard aux mouvements de leurs ennemis ou de leurs alliés.

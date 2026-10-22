@@ -1,24 +1,24 @@
-GIGANOTOSAURUS (2006) DE LA PLANÈTE TERRAFORMÉE
+GIGANOTOSAURUS (2006) DE LA PLANTE TERRAFORME
 
 
 CLASSE:       Giganotosaurus (2006)
-MÉTABOLISME:  Carnivore, théropode
-COMPORTEMENT: Prédateur dominant en liberté
-TAILLE:       7 mètres (23 pieds)
-ENDURANCE:    Extrême
-HOSTILITÉ:    Absolue
-ARMEMENT:     Mâchoires, coups de tête, écrasement de véhicules
-RÉCOMPENSE:   9 500 FC
-MENACE:       Absolue
+MÉTABOLISME:  Carnivore, Théropode
+BEHAVIOR:    Prédateur Apex en itinérance libre
+TAILLE:        23 pieds
+STAMINA:     Extrême
+HOSTILITÉ:   Absolu
+WEAPONRY:    Mâchoires, raclage de tête, concassage de véhicules
+RÉCOMPENSE:      9500 FC
+MENACE:      Absolu
 
 DESCRIPTION:
 
-L'un des prédateurs terrestres les plus massifs et les plus lourds de la planète ; sa puissance suffit à faire battre en retraite même un Tyrannosaure. Contrairement à ses congénères plus sveltes, cette sous-espèce possède un crâne incroyablement large et lourd ainsi qu'une morphologie massive et dense. Sa peau grise, dépourvue de motifs, est couverte de profondes cicatrices témoignant de combats féroces passés.
+Un des prédateurs les plus massifs et les plus lourds de la planète ; sa puissance est suffisante pour faire même une retraite Tyrannosaurus. Contrairement à ses parents les plus minces, cette sous-espèce possède un crâne incroyablement large, lourd et une construction volumineuse et dense. Sa peau grise non patternée est couverte de cicatrices profondes des batailles féroces passées.
 
-Il patrouille activement aux abords des avant-postes de la Mendel-Gruman Corporation. Son comportement est imprévisible: il est capable de poursuivre des véhicules lourds à roues à grande vitesse et de détruire aisément des tout-terrains blindés.
+Il patrouille activement les zones proches des avant-postes de la Société Mendel-Gruman. Il présente un comportement imprévisible: capable de chasser les véhicules à roues lourdes à grande vitesse et facilement détruire les blindés hors route.
 
 CONSEILS:
 
-- Les armes légères conventionnelles n'ont pratiquement aucun effet sur lui.
-- Grâce à ses instincts de prédateur, vous pouvez l'inciter à attaquer les patrouilles de soldats de Mendel-Gruman pour vous frayer un chemin.
-- Si votre jeep pénètre dans son champ de vision, ne ralentissez pas: ce monstre peut réduire en miettes n'importe quel véhicule - y compris le « Rhino 4x4 » - en quelques coups seulement.
+- Les armes de petit calibre classiques n'ont pratiquement aucun effet sur elles.
+- Grâce à son instinct prédateur, vous pouvez l'attirer à attaquer des patrouilles militaires Mendel-Gruman pour vous dégager.
+- Si votre jeep entre dans son champ de vision, ne ralentissez pas : ce monstre peut écraser n'importe quel véhicule - y compris le "Rhino 4x4"- en morceaux en seulement quelques coups.

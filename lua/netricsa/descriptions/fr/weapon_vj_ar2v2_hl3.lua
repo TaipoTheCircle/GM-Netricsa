@@ -1,16 +1,16 @@
-FUSIL À IMPULSIONS AR2 V2
+RIFLE AR2 PULSE V2
 
 
-WEAPON: Fusil à impulsion AR2 V2
-AMMO: Cellules énergétiques Overwatch / Secondaire : Combinez des boules électriques
-ROF: ~600 coups/min (primaire), 1 grenade/sec (secondaire)
+ARME:      AR2 Rifle d'impulsion V2
+MUNITIONS:        Cellules d'énergie Overwatch / Secondaire: Combiner des boules électriques
+CADENCE DE TIR:         ~600 tours/minute (primaire), 1 grenade/sec (secondaire)
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Fusil énergétique standard du Combine Overwatch. Tire des faisceaux d'impulsions à haute vitesse pour une suppression rapide et peut lancer une boule d'énergie secondaire pour des dégâts de zone à fort impact. Très efficace contre les cibles organiques et mécaniques.
+Fusil d'énergie de série du Combine Overwatch. Incendie des faisceaux d'impulsion à haute vitesse pour une suppression rapide et peut lancer une boule d'énergie secondaire pour les dommages à la zone à fort impact. Très efficace contre les cibles organiques et mécaniques.
 
-NOTES: 
+REMARQUES:
 
-- Le tir primaire délivre des faisceaux d'énergie rapides et précis.
-- Les boules électriques secondaires endommagent la zone poussiéreuse.
-- Efficace à moyenne portée ; précision réduite sur de longues distances.
+- Le feu primaire délivre des faisceaux d'énergie rapides et précis.
+- Les balles électriques secondaires causent des dommages à la zone de poussière.
+- Efficace à moyenne portée; précision réduite à longue distance.

@@ -1,22 +1,22 @@
-STG 44 ASSAULT RIFLE
+RISQUE D'ASSAULT
 
 
-ARME : STG 44 Assault Rifle
-MUNITIONS : 7.92x33mm Kurz
-ROF : ~600 rounds / min
-POIDS : ~5,2 kg
+ARME:   STG 44 Rifle d'assaut
+MUNITIONS:     7.92x33mm Kurz
+CADENCE DE TIR:      ~600 tours/min
+POIDS:   ~5,2 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-The StG 44, or Sturmgewehr 44, was a German assault rifle developed during World War II. It was one of the first mass-produced examples of this new class of weapon and was created to fill the gap between submachine guns and full-fledged rifles.
+Le StG 44, ou Sturmgewehr 44, était un fusil d'assaut allemand développé pendant la Seconde Guerre mondiale. C'était l'un des premiers exemples produits en série de cette nouvelle classe d'armes et a été créé pour combler l'écart entre les mitrailleuses et les fusils à part entière.
 
-The StG 44's main innovation was its intermediate 7.92x33mm Kurz cartridge. While weaker than the standard 7.92x57mm rifle cartridge, it made the weapon more suitable for automatic fire and retained its effectiveness at medium ranges. The rifle uses a gas-operated system and is capable of both single-shot and automatic fire.
+La principale innovation de StG 44 a été sa cartouche Kurz intermédiaire 7,92x33mm. Bien qu'elle soit plus faible que la cartouche de fusil standard 7.92x57mm, elle a rendu l'arme plus adaptée aux tirs automatiques et a conservé son efficacité à des intervalles moyens. Le fusil utilise un système à gaz et est capable d'un seul tir et d'un tir automatique.
 
-The StG 44 had an effective range of approximately 600 meters in single-shot mode, while burst fire was most effective up to approximately 300 meters. It was this combination of high firepower, compact size, and an intermediate cartridge that formed the basis of the modern assault rifle concept.
+Le StG 44 avait une portée efficace d'environ 600 mètres en mode simple, tandis que le feu éclatement était le plus efficace jusqu'à environ 300 mètres. C'est cette combinaison de puissance de feu élevée, de taille compacte, et d'une cartouche intermédiaire qui a constitué la base du concept moderne de fusil d'assaut.
 
-REMARQUES :
+REMARQUES:
 
-- Excellent for close and medium ranges, where it combines rifle accuracy with the density of automatic fire.
-- Automatic mode allows for effective suppression of the enemy, while single-shot mode helps conserve ammunition and improve accuracy against distant targets.
-- Le StG 44 est effectivement devenu l'un des principaux représentants d'une nouvelle classe d'armes aujourd'hui connue sous le nom de fusils d'assaut.
-- A submachine gun? A rifle? The Germans decided, "Why not both?".
+- Excellent pour les gammes proches et moyennes, où il combine la précision du fusil avec la densité du feu automatique.
+- Le mode automatique permet une suppression efficace de l'ennemi, tandis que le mode mono-capture aide à conserver les munitions et à améliorer la précision contre les cibles éloignées.
+- Le StG 44 est devenu l'un des principaux représentants d'une nouvelle classe d'armes aujourd'hui appelée fusils d'assaut.
+- Une mitrailleuse ? Un fusil ? Les Allemands ont décidé, "Pourquoi pas les deux?".

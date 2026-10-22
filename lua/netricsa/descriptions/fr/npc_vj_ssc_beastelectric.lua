@@ -1,25 +1,25 @@
-ALUDRAN REPTILOÏDE, ÉLECTRIQUE
+ALUDRAN REPTILOID, ELECTRIQUE
 
 
-CLASSE : Aludran Reptiloïde, Électrique
-MÉTABOLISME : À sang froid, ressemblant à un reptile, augmenté artificiellement
-PERCEPTION : Race primitive génétiquement modifiée
-TAILLE : 15 pieds
-ENDURANCE : Moyenne
-HOSTILITÉ : Élevée
-ARMES : gros missiles électriques
-RÉCOMPENSE : 7500 FC
-MENACE : Élevée
+CLASSE:      Aludran Reptiloid, électrique
+MÉTABOLISME: Sang froid, ressemblant à des reptiles, artificiellement augmentée
+PERCEPTION: Race primitive d'ingénierie génétique
+TAILLE:       15 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Gros missiles électriques
+RÉCOMPENSE:     7500 FC
+MENACE:     Haut
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Un grand reptile à quatre mains vivant dans le système Aludran dans la constellation de Canis Major. Cette race primitive a accepté de se battre pour Mental en échange des pouvoirs de lancement de sorts qu'elle leur a donnés.
+Un grand reptile à quatre mains vivant dans le système Aludran dans la constellation de Canis Major. Cette race primitive a accepté de se battre pour le Mental en échange des pouvoirs qu'elle leur a conférés.
 
-Mental voulait les améliorer davantage, mais de nombreux reptiloïdes ne voulaient pas être expérimentés. Cependant, suite à un accident étrangement pratique impliquant une prise électrique défectueuse, une partie de ses forces reptiloïdes ont acquis des pouvoirs électriques.
+Mental voulait les améliorer davantage, mais beaucoup de reptiloïdes ne voulaient pas être expérimentés. Cependant, à la suite d'un accident étrangement commode impliquant un mauvais fonctionnement de la prise électrique, une partie de ses forces de réptiloïde a gagné en puissance électrique.
 
-Les Reptiloïdes électriques sont considérés comme des monstres parmi leur espèce.
+Les Reptiloïdes électriques sont considérés comme des monstres parmi leur propre genre.
 
-CONSEILS :
+CONSEILS:
 
-- Leurs projectiles à grande vitesse peuvent être difficiles à esquiver, alors éliminez-les à distance.
-- Surveillez toujours votre environnement, au cas où son projectile rebondirait sur vous.
+- Leurs projectiles à grande vitesse peuvent être difficiles à esquiver, donc les éliminer à distance.
+- Surveillez toujours vos environs, au cas où son projectile vous retombe dessus.

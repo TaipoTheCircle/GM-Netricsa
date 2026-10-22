@@ -1,22 +1,22 @@
-POISSON D'ARGENT DU MINECRAFT OVERWORLD
+SILVERFISH DE L'OUVERTURE MINECRAFT
 
 
-CLASS: Poisson d'argent
-METABOLISM: Arthropode
-PERCEPTION: Parasite destructeur de pierres
-SIZE: ~0,9 pied
-ENDURANCE: Très faible
-HOSTILITY: Haut
-WEAPONS: Bouchées rapides
-REWARD: 500FC
-THREAT: Moyen
+CLASSE:      Poisson argenté
+MÉTABOLISME: Arthropodes
+PERCEPTION: Détruire les pierres parasites
+TAILLE:       ~0,9 ft
+ENDURANCE:  Très faible
+HOSTILITÉ:  Haut
+ARMES:    Morsures rapides
+RÉCOMPENSE:     500 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les poissons d'argent sont des aberrations ambulantes de l'évolution qui ont décidé que la pierre est la meilleure maison. Ces petites créatures nerveuses vivent à l'intérieur de blocs infestés et surgissent dès que quelqu'un ose creuser au mauvais endroit avec une pioche.
+Silverfish marche aberrations de l'évolution qui ont décidé que la pierre est la meilleure maison. Ces petites créatures nerveuses habitent à l'intérieur des blocs infestés et ressortent dès que quelqu'un ose creuser au mauvais endroit avec un pioche.
 
-Ils aiment particulièrement les forteresses, où ils se sentent comme l’élite de la société souterraine et gardent les portails comme s’ils étaient payés pour cela.
+Ils aiment particulièrement les forteresses, où ils se sentent comme l'élite de la société souterraine et des portails de garde comme s'ils étaient payés pour le faire.
 
-TIPS: 
+CONSEILS:
 
 - Tuez vite.

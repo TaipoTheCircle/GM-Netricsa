@@ -1,24 +1,24 @@
-BÉBÉ TÊTE DE CRABE DE XEN
+BABY HEADCRAB DE XEN
 
 
-CLASS: Crabe, bébé
-METABOLISM: xénofaune parasitaire
-PERCEPTION: Arme biologique
-SIZE: 1-2 pieds
-ENDURANCE: très faible individuellement
-HOSTILITY: élevé vers les formes de vie proches
-WEAPONS: mordre, s'accrocher
-REWARD: 50 FC
-THREAT: faible individuellement, modérée en essaims
+CLASSE:      Gratte-tête, bébé
+MÉTABOLISME: xénofaune parasite
+PERCEPTION: Armes biologiques
+TAILLE:       1-2 pieds
+ENDURANCE:  très faible individuellement
+HOSTILITÉ:  haut vers les formes de vie voisines
+ARMES:    morsure, collage
+RÉCOMPENSE:     50 FC
+MENACE:     faible individuellement, modérée en essaims
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Baby Headcrab est le stade larvaire issu du Gonarch, l'énorme Xen Matriach. A ce stade, il s’agit d’un minuscule parasite frétillant dont le but principal est la survie et la croissance. L'espèce qu'il deviendra finalement - Standard, Terre, Poison, Rapide, Blindé, Alpha ou la rare variante violette - est déterminée au cours de cette étape, influencée par des facteurs environnementaux et des signaux génétiques du Gonarch.
+La tête de bébé est le stade larvaire éclos du Gonarch, le massif Xen Matriach. À ce stade, il s'agit d'un petit parasite qui a pour but principal la survie et la croissance. L'espèce qu'elle deviendra éventuellement - Standard, Terre, Poison, Fast, Armored, Alpha, ou la variante rare Purple - est déterminée au cours de cette étape, influencée par des facteurs environnementaux et des indices génétiques du Gonarque.
 
-Malgré leur petite taille, les bébés crabes sont agressifs et s'accrocheront à n'importe quel hôte à proximité s'ils en ont l'occasion. Ils sont faibles seuls, mais en nombre, ils peuvent vaincre les intrus.
+Malgré sa petite taille, les têtes de bébé sont agressives et se verrouillent sur n'importe quel hôte à proximité si l'occasion est donnée. Ils sont faibles seuls, mais en nombre ils peuvent envahir les intrus.
 
-TIPS: 
+CONSEILS:
 
-- Observez attentivement : l'identification du stade peut donner une idée du type de menace éventuel.
-- Eviter les contacts ; même une seule bouchée.
-- Les aléas environnementaux peuvent empêcher la maturation et contrôler les populations locales.
+- Observer attentivement - identifier le stade peut indiquer le type de menace éventuel.
+- Éviter le contact; même une seule morsure.
+- Les risques environnementaux peuvent empêcher la maturation et contrôler les populations locales.

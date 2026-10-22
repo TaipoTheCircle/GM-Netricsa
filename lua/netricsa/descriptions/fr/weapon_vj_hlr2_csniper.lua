@@ -1,16 +1,16 @@
-FUSIL DE SNIPER OVERWATCH MK2
+RIFLE DE RETRAITE MK2
 
 
-WEAPON: Fusil de précision Overwatch MK2
-AMMO: Combinez des balles à grande vitesse
-ROF: Action à verrou, ~20 tours/min
+ARME:      Rifle de sniper de surveillance MK2
+MUNITIONS:        Combiner des rondes à grande vitesse
+CADENCE DE TIR:         Action de boulonnage, ~20 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Fusil de précision à longue portée utilisé par les tireurs d'élite Combine. Tire des obus à grande vitesse capables de pénétrer le blindage et d'éliminer des cibles à des distances extrêmes. Équipé d'une lunette pour une précision accrue. Conçu pour l'élimination de cibles clés avec une exposition minimale.
+Fusil de précision à longue portée utilisé par les tireurs d'élite. Incendie des rondes à grande vitesse capables de pénétrer l'armure et de retirer des cibles à des distances extrêmes. Équipé d'une marge de précision accrue. Conçu pour éliminer les cibles clés avec une exposition minimale.
 
-NOTES: 
+REMARQUES:
 
-- Extrêmement précis à longue portée.
-- Dégâts élevés par tir ; peut neutraliser des cibles en un seul coup.
-- L'action à verrou nécessite un rechargement manuel entre les tirs.
+- Très précis à long terme.
+- Dégâts élevés par tir; peut neutraliser les cibles en un seul coup.
+- Le bolt-action nécessite un rechargement manuel entre les prises de vue.

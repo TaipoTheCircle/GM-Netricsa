@@ -1,21 +1,21 @@
-FUSIL À DOUBLE CANON VULCAN 1270
+VULCAN 1270 DOUBLE-BARREL SHOTGUN
 
 
-ARME : Vulcan 1270 Double-Barrel Shotgun
-MUNITIONS : 12 Gauge
-ROF : ~40 rounds / min
+ARME: Fusil de chasse Vulcan 1270 Double Barrel
+MUNITIONS:   12 Gauge
+CADENCE DE TIR:    ~40 tours/min
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Il s'agit essentiellement d'une version améliorée du fusil de chasse standard, tirant deux obus simultanément à partir des deux canons. Il utilise deux obus de calibre 12 et est conçu pour les engagements à courte portée.
+Il s'agit essentiellement d'une version améliorée du fusil de chasse standard, tirant deux obus simultanément à partir des deux barils. Il utilise deux coquilles de calibre 12 et est conçu pour les engagements à proximité.
 
-The dual barrels allow for two quick shots in quick succession, after which the gun must be reloaded.
+Les deux barils permettent deux tirs rapides en succession, après quoi le pistolet doit être rechargé.
 
-The high power of each shot makes the shotgun especially dangerous at close range. Its main drawback is its small capacity and the need to reload after firing.
+La puissance élevée de chaque tir rend le fusil particulièrement dangereux à portée de main. Son principal inconvénient est sa petite capacité et la nécessité de recharger après le tir.
 
-REMARQUES :
+REMARQUES:
 
-- Two barrels, two shells, and no communication.
-- Very high power at close range.
+- Deux barils, deux obus, et aucune communication.
+- Très haute puissance à proximité.
 - Deux tirs rapides vous permettent d'envoyer rapidement plusieurs cibles.
-- After firing, you'll have to stop and reload your weapon.
+- Après avoir tiré, vous devrez arrêter et recharger votre arme.

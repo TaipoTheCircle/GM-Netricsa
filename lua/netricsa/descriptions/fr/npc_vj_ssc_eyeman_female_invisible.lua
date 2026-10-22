@@ -1,22 +1,22 @@
-GNAAR FEMME
+GNAAR FEMMES
 
 
-CLASS: Gnaar, femelle
-METABOLISM: mammifère
-PERCEPTION: animal de guerre dressé
-SIZE: 5 pieds
-ENDURANCE: faible
-HOSTILITY: faible
-WEAPONS: morsures, coups de poing
-REWARD: 1000FC
-THREAT: faible
+CLASSE:      Gnaar, femelle
+MÉTABOLISME: mammifère
+PERCEPTION: animal de guerre entraîné
+TAILLE:       5 pieds
+ENDURANCE:  faible
+HOSTILITÉ:  faible
+ARMES:    morsures, coups de poing
+RÉCOMPENSE:     1000 FC
+MENACE:     faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un petit animal bipède sans tête, avec un œil et une grande bouche. Originaire de Sirius et entraîné par Mental pour attaquer les forces adverses. Les femelles sont plus grandes, vertes et plus coriaces que les mâles.
+Un petit animal bipède sans tête, un œil et une grande bouche. Originaire de Sirius, et entraîné par Mental à attaquer les forces opposées. Les femelles sont plus grandes, vertes et plus résistantes que les mâles.
 
-TIPS: 
+CONSEILS:
 
-- Ils n'ont pas d'armes de tir, restez simplement à l'écart.
+- Ils n'ont pas d'armes.
 - Certaines espèces peuvent léviter.
-- Des spécimens rares seraient invisibles.
+- Des spécimens rares ont été signalés comme invisibles.

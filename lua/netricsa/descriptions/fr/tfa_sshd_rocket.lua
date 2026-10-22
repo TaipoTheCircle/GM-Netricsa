@@ -1,15 +1,15 @@
-XPML21 ROCKET LAUNCHER
+LANCEMENT DU ROCKET DE XPML21
 
 
-WEAPON: Lance-roquettes XPML21
-AMMO: Missile Inferno de 150 mm
-ROF: 85 missiles/min
+ARME:    Lanceur de fusée XPML21
+MUNITIONS:      Missile Inferno 150mm
+CADENCE DE TIR:       85 missiles/min
 
 DESCRIPTION:
 
-Le lanceur de missiles personnel expérimental XPML21 est conçu pour fournir aux forces d'infanterie une cadence de tir rapide de roquettes antiblindées. Tire des missiles Inferno automoteurs non guidés à grande vitesse.
+Le lance-missile personnel expérimental XPML21 est conçu pour fournir aux forces d'infanterie un taux de tir rapide de roquettes anti-armes. Incendies des missiles Inferno automoteurs à grande vitesse.
 
-NOTES:
+REMARQUES:
 
-- Efficace contre des adversaires blindés et de grandes masses de forces faibles.
-- Ne tirez pas à proximité d'obstacles proches.
+- Efficace contre les adversaires blindés et les grandes masses de forces faibles.
+- Ne tirez pas près des obstacles.

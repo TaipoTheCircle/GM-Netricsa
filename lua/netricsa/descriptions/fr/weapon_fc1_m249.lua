@@ -1,16 +1,16 @@
-PISTOLET AIGLE DU DÉSERT, MEME
+M249 MACHINE DE LUMIÈRE
 
 
-WEAPON: M249 SAW (arme automatique d'escouade)
-AMMO: 5,56x45 mm alimenté par ceinture OTAN
-ROF: ~750 tours/min
+ARME: M249 SAW mitrailleuse légère
+MUNITIONS:   5.56x45mm OTAN, alimenté par ceinture
+CADENCE DE TIR:    ~750 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Arme lourde de soutien d'escouade conçue pour un tir automatique soutenu. Le système alimenté par ceinture offre une grande capacité de munitions, ce qui le rend idéal pour supprimer les positions ennemies et abattre des groupes d'ennemis avec une puissance de feu écrasante.
+Une arme de soutien lourde conçue pour un tir automatique soutenu. Les cartouches alimentées à la ceinture fournissent une grande capacité de munitions, ce qui en fait l'idéal pour supprimer les positions ennemies et éliminer les groupes d'ennemis avec une puissance de feu écrasante.
 
-NOTES: 
+REMARQUES:
 
-- Cadence de tir extrêmement élevée, efficace pour la suppression de zones.
-- De grandes réserves de munitions permettent des engagements prolongés.
-- Mobilité réduite et recul important lors de tirs continus.
+- Taux d'incendie extrêmement élevé, efficace pour la suppression de la zone.
+- Une grande capacité de munitions permet un combat prolongé.
+- Mobilité réduite et recul élevé pendant le feu soutenu.

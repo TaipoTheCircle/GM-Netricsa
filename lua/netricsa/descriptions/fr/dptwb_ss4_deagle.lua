@@ -1,17 +1,17 @@
-PISTOLET SOP38
+SOP38 PISTOL
 
 
-ARME : Pistolet SOP38
-Munitions : .45 cartouches ACP
-ROF : semi-automatique
-POIDS : 2,4 livres
+ARME: Pistolet SOP38
+MUNITIONS:   .45 Cycles ACP
+CADENCE DE TIR:    Semi-automatique
+POIDS: 2,4 lbs
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Pistolet d'opérations spéciales standard, réputé pour sa fiabilité à travers la galaxie. Un système semi-automatique simple et efficace permet une cadence de tir élevée.
-Dispose de munitions illimitées, ce qui en fait une arme idéale de dernier recours pour éliminer des cibles faibles ou conserver des munitions pour les armes principales.
+Pistolet d'opérations spéciales, connu pour sa fiabilité dans toute la galaxie. Un système semi-automatique simple et efficace permet un taux d'incendie élevé.
+Il dispose de munitions illimitées, ce qui en fait une arme idéale de dernier recours pour envoyer des cibles faibles ou conserver des munitions pour les armes primaires.
 
-REMARQUES :
+REMARQUES:
 
-- Efficace contre les Cyclopes solitaires, les Kamikaze décapités et autres ennemis faibles.
-- Viser vers le bas augmente la précision à moyenne et longue portée.
+- Efficace contre les Cyclopes solitaires, la décapité de Kamikaze et d'autres ennemis faibles.
+- La visée vers le bas augmente la précision à moyenne et longue portée.

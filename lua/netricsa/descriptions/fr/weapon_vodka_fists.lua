@@ -1,16 +1,16 @@
-POINGS PUISSANTS DE VODKA
+POUVOIRS DE VODKA
 
 
-WEAPON: Poings infusés d'esprit
-AMMO: Aucun (mêlée)
-ROF: ~75 frappes/min
+ARME:      Fists infusés par l'Esprit
+MUNITIONS:        Aucune
+CADENCE DE TIR:         ~75 grèves/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Poings chargés par la Vodka. Les coups atterrissent avec une force surnaturelle, et chaque coup transporte la brûlure brute d'énergie qui traverse le corps du buveur.
+Fists accusés par Vodka. Souffle avec la force surnaturelle, et chaque frappe porte la brûlure brute d'énergie qui coule à travers le corps du buveur.
 
-NOTES: 
+REMARQUES:
 
-- Mêlée forte avec une force fiable.
-- L'effet alcoolique reste actif, affectant légèrement le mouvement.
-- Efficace lors de rencontres rapprochées soudaines.
+- Forte mêlée avec une force fiable.
+- L'effet de l'alcool reste actif, ce qui affecte légèrement le mouvement.
+- Efficace lors de rencontres soudaines.

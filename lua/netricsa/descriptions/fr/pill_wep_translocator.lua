@@ -1,15 +1,15 @@
 TRANSLOCATEUR
 
 
-WEAPON: Translocateur, basé sur AR2
-AMMO: Énergie de matière noire auto-régénérante
-ROF: Tir instantané
+ARME: Translocateur AR2
+MUNITIONS:   L'énergie de la matière noire auto-renouvelable
+CADENCE DE TIR:    Feu instantané
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Translocator est un dispositif expérimental Combine basé sur le fusil d'assaut AR2, mais dépourvu de capacités de destruction directe. Au lieu de cela, l’arme utilise une impulsion focalisée d’énergie sombre pour déplacer spatialement les objets. Après avoir verrouillé une cible avec la matrice énergétique, l'objet peut être instantanément transporté vers le point de visée de l'utilisateur, contournant les obstacles physiques et la gravité.
+Le Translocator est un appareil expérimental de combinaison basé sur le fusil d'assaut AR2, mais il manque complètement de capacités directes. Au lieu de cela, l'arme utilise une impulsion focalisée d'énergie sombre pour déplacer spatialement des objets. Après le verrouillage sur une cible avec la matrice d'énergie, l'objet peut être immédiatement transporté au point de visée de l'utilisateur, contournant les obstacles physiques et la gravité.
 
-NOTES: 
+REMARQUES:
 
-- Can teleport any physical objects: des caisses, des barils, des véhicules, des tourelles et quelques créatures.
-- Utilisé par les ingénieurs et les techniciens de terrain du Combine pour le contrôle spatial tactique.
+- Peut téléporter n'importe quel objet physique: caisses, barils, véhicules, tourelles, et certaines créatures.
+- Utilisé par Combine ingénieurs et techniciens de terrain pour le contrôle spatial tactique.

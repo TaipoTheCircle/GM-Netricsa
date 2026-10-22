@@ -1,16 +1,16 @@
-BIG M4 ASSAULT RIFLE
+GRANDE M4 RISQUE D'ASSAULT
 
 
-WEAPON: Gros Colt M4
-AMMO: Obus OTAN 5,56x45 mm + grenades 40 mm
-ROF: ~700 tours/min
+ARME:      Grand Colt M4
+MUNITIONS:        5.56x45mm rondes de l'OTAN + grenades de 40mm
+CADENCE DE TIR:         ~700 tours/min
 
 DESCRIPTION:
 
-Fusil d'assaut fiable de fabrication américaine. Fournit un tir automatique soutenu avec une précision décente.
+Un fusil d'assaut américain fiable. Fournit un feu automatique soutenu avec une précision décente.
 
-NOTES:
+REMARQUES:
 
-- Arme d'infanterie standard avec de solides performances.
-- Lance-grenades efficace pour le contrôle des foules et les ennemis retranchés.
-- La précision souffre en cas de rafales prolongées.
+- Arme d'infanterie standard avec des performances solides.
+- Lanceur de grenade efficace pour le contrôle de la foule et les ennemis retranchés.
+- L'exactitude souffre sous des rafales prolongées.

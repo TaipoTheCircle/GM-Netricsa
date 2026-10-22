@@ -1,25 +1,25 @@
-MINI-RAPTOR DE LA PLANÈTE TERRAFORMÉE
+MINI-RAPTEUR DE LA PLANTE TERRAFORME
 
 
-CLASS: Mini-Raptor
-METABOLISM: Prédateur, théropode
-PERCEPTION: Petit dinosaure en paquet
-SIZE: ~2,7 pieds
-ENDURANCE: Très faible
-HOSTILITY: Élevé1
-WEAPONS: Griffes, dents, vitesse, chiffres
-REWARD: 150 FC
-THREAT: Moyen
+CLASSE:      Mini-repteur
+MÉTABOLISME: Prédateur, Théropod
+PERCEPTION: Petit dinosaure
+TAILLE:       ~2,7 pi
+ENDURANCE:  Très faible
+HOSTILITÉ:  Haut1
+ARMES:    Griffes, dents, vitesse, nombres
+RÉCOMPENSE:     150 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Il s'agit d'une nouvelle génération de compsognathus, uniquement bleus et avec de grands yeux. Leur peau bleu vif, leurs plumes orange et leurs yeux disproportionnés les font ressembler à des perroquets extraterrestres qui ont décidé que la viande était plus savoureuse que les graines de tournesol.
+Ce sont une nouvelle génération de compsognathes, seulement bleu et avec de grands yeux. Leur peau bleu vif, leurs pousses de plumes oranges et leurs yeux d'une taille disproportionnée les font ressembler à des perroquets extraterrestres qui ont décidé que la viande est plus goûtée que les graines de tournesol.
 
-À lui seul, un Mini-Raptor est inoffensif. Un coup de pied, un coup de fusil, et tout ce qui reste du petit dinosaure, ce sont des plumes. Le problème c'est qu'ils ne viennent jamais seuls. Les mini-raptors sont des animaux de meute, et une meute n'est pas considérée comme « cinq ou six individus ».
+Tout seul, un Mini-Rapteur est inoffensif. Un coup, un coup de feu, et tout ce qui reste du petit dinosaure, c'est des plumes. Le problème, c'est qu'ils ne viennent jamais seuls. Les mini-rapteurs sont des animaux en boîte, et un paquet n'est pas considéré comme « cinq ou six individus ».
 
-Lorsqu'une cible apparaît, ils se précipitent en groupe, essayant de l'encercler, de la cerner et de la mordre à mort.
+Lorsqu'une cible apparaît, elle se précipite en groupe, en essayant d'entourer, d'épingler et de la mordre à mort.
 
-TIPS: 
+CONSEILS:
 
-- Un tir, une mort.
-- Ne vous laissez pas encercler.
+- Un coup, un coup.
+- Ne te laisse pas encerclé.

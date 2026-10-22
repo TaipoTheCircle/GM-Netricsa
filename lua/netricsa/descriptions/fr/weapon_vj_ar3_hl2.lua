@@ -1,23 +1,23 @@
-MITRAILLEUSE MONTÉE AR3
+GUN DE MACHINE MONTÉ AR3
 
 
-WEAPON: MITRAILLEUSE MONTÉE AR3
-AMMO: Balles à impulsion d'énergie (énergie sombre)
-ROF: ~1 800-2 200 tr/min
-WEIGHT: ~45kg
+ARME: GUN DE MACHINE MONTÉ AR3
+MUNITIONS:   Bullets d'impulsions énergétiques (énergie noire)
+CADENCE DE TIR:    - 1800-2200 RPM
+POIDS: ~45 kg
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les noms de cette arme ne sont connus que de quelques-uns. L'AR3 est une version stationnaire du fusil à impulsion AR2 OSIPR, adaptée au tir prolongé et au maintien de position. En règle générale, la mitrailleuse est montée sur des boucliers blindés spéciaux avec un champ de force actif protégeant le bas du corps de l'opérateur.
+Les noms de cette arme ne sont connus que de quelques-uns. Le AR3 est une version stationnaire du fusil à impulsion AR2 OSIPR, adapté pour un tir prolongé et une position de maintien. En général, la mitrailleuse est montée sur des boucliers d'armure spéciaux avec un champ de force actif protégeant le bas du corps de l'opérateur.
 
-Contrairement à l’AR2, dont l’approvisionnement en munitions est limité, l’AR3 est constamment alimenté par une batterie externe chargée d’énergie sombre. Lorsqu'elle est connectée au système de bouclier, la batterie est chargée en continu, fournissant une génération stable de projectiles énergétiques. Cela fait de l’AR3 une arme dotée d’une réserve de munitions pratiquement inépuisable.
+Contrairement à l'AR2, qui dispose d'un approvisionnement limité en munitions, l'AR3 est constamment alimenté par une batterie externe chargée d'énergie noire. Lorsqu'elle est connectée au système de protection, la batterie est chargée en continu, fournissant une génération stable de projectiles d'énergie. Cela fait de l'AR3 une arme dotée d'un approvisionnement en munitions pratiquement inépuisable.
 
-Sa cadence de tir extrêmement élevée lui permet de détruire efficacement de grands groupes d'ennemis à moyenne portée. Cependant, l'arme a une propagation notable, ce qui réduit l'efficacité d'un tir précis à longue distance. L'AR3 est moins puissant que l'AR2 et l'AR1 en raison des différences dans les types de batteries, mais un coup entraîne presque toujours des blessures graves, voire la mort.
+Son taux de feu extrêmement élevé lui permet de détruire efficacement de grands groupes d'ennemis à portée moyenne. Cependant, l'arme a une propagation notable, ce qui réduit l'efficacité d'un tir précis à longue portée. L'AR3 est moins puissant que l'AR2 et l'AR1 en raison de différences dans les types de piles, mais un succès entraîne presque toujours des blessures graves ou la mort.
 
-Pour améliorer l'efficacité du combat dans des conditions de faible luminosité ou la nuit, des projecteurs compacts sont montés sur le corps de l'arme pour détecter et suivre les cibles.
+Pour améliorer l'efficacité du combat dans les conditions de faible luminosité ou la nuit, des projecteurs compacts sont montés sur le corps de l'arme pour détecter et suivre les cibles.
 
-NOTES: 
+REMARQUES:
 
-- Ne nécessite pas de rechargement lorsqu'il est connecté à des boucliers énergétiques.
-- Efficace pour la suppression et le maintien du territoire.
+- Ne nécessite pas de rechargement lorsque connecté à des boucliers d'énergie.
+- Efficace pour la suppression et le territoire de détention.
 - La plupart des rebelles ne connaissent pas le nom officiel de cette arme.

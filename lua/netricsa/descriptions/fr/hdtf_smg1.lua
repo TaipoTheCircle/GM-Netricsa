@@ -1,20 +1,20 @@
-PISTOLET-MACHINE HK MP7
+HK MP7 SUBMACHINE GUN
 
 
-WEAPON: Hong Kong MP7
-AMMO: 4,6x30mm
-ROF: 950 tours/min
-WEIGHT: 1,9 kg
-LENGTH: 415 millimètres
+ARME: HK MP7
+MUNITIONS:   4,6 x 30 mm
+CADENCE DE TIR:    950 tours/min
+POIDS: 1,9 kg 
+LENGTH: 415 mm
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le HK MP7 est un PDW compact développé par Heckler & Koch à la fin des années 1990 pour remplacer les pistolets et mitraillettes des équipages des véhicules et des éléments de protection. Il tire des obus spécialisés de 4,6 × 30 mm à haute vitesse conçus pour vaincre les gilets pare-balles souples modernes tout en maintenant l'impulsion initiale faible. Le MP7 associe des dimensions compactes à une crosse pliable/télescopique, des commandes entièrement ambidextres et des rails d'accessoires pour optiques, lumières et lasers.
+Le HK MP7 est un PDW compact développé par Heckler & Koch à la fin des années 1990 pour remplacer les pistolets et les mitrailleuses pour les équipages de véhicules et les détails de protection. Il tire spécialisé 4.6×30 mm ronds à haute vitesse conçu pour vaincre l'armure moderne du corps doux tout en gardant l'impulsion museau faible. Le MP7 combine des dimensions compactes avec un stock pliant/telescoping, des commandes entièrement ambidextres et des rails accessoires pour l'optique, les lumières et les lasers.
 
-NOTES: 
+REMARQUES:
 
-- Un faible recul et un taux cyclique élevé le rendent contrôlable en mode entièrement automatique pour les engagements rapprochés.
-- La cartouche de 4,6 × 30 mm a été optimisée pour pénétrer le blindage souple à des distances d'engagement typiques.
-- Le facteur de forme compact convient aux équipages de véhicules, aux forces spéciales et aux rôles de protection VIP.
-- Prend en charge une large gamme d'accessoires et de suppresseurs
-- La portée d'engagement effective peut atteindre environ 200 m ; au-delà de cela, les performances sont inférieures à celles des carabines pleine grandeur.
+- Faible recul et taux cyclique élevé le rendent contrôlable en auto pour les fiançailles proches du quartier.
+- La cartouche 4,6×30 mm a été optimisée pour pénétrer l'armure douce dans des gammes de fiançailles typiques.
+- Le facteur de forme compacte convient aux équipages de véhicules, aux forces spéciales et aux rôles de protection VIP.
+- Supporte une large gamme d'accessoires et de suppresseurs
+- La portée d'engagement efficace est à peu près jusqu'à environ 200 m; au-delà, la performance tombe derrière les fusils grandeur nature.

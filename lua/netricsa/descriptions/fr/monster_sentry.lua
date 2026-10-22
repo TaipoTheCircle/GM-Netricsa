@@ -1,24 +1,24 @@
-H.E.C.U. TOURELLE DE SENTINELLE
+S.E.U. SENTRY TURRET
 
 
-CLASS: H.E.C.U. Tourelle de sentinelle
-METABOLISM: Construction mécanique
+CLASSE:      S.E.C.U. Sentry Turret
+MÉTABOLISME: Construction mécanique
 PERCEPTION: Unité de défense automatisée
-SIZE: ~4 pieds
-ENDURANCE: faible
-HOSTILITY: extrême
-WEAPONS: mitrailleuse à double montage
-REWARD: 300FC
-THREAT: moyen
+TAILLE:       ~4 pi
+ENDURANCE:  faible 
+HOSTILITÉ:  extrême 
+ARMES:    mitrailleuse double-montée
+RÉCOMPENSE:     300 FC
+MENACE:     moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-La Sentry Turret est une plate-forme d'armes automatisée déployée par les forces militaires pour sécuriser les points d'étranglement et les couloirs. Il est compact, se plie en forme de trépied lorsqu'il est inactif et s'active instantanément dès qu'un mouvement ou un son déclenche ses capteurs. Une fois verrouillée sur la cible, la tourelle déclenche des rafales rapides de mitrailleuses avec une précision infaillible.
+Le Sentry Turret est une plate-forme d'armes automatisées déployée par les forces militaires pour sécuriser les points d'étranglement et les couloirs. Il est compact, se replie dans une forme de trépied lorsqu'il est inactif et active instantanément une fois le mouvement ou le son déclenché ses capteurs. Une fois verrouillée sur la cible, la tourelle déclenche des rafales rapides de mitrailleuse avec une précision démesurée.
 
-Bien qu'immobile, sa létalité vient du placement d'embuscades : les tourelles se trouvent souvent dans des coins étroits, des angles morts ou des zones de goulot d'étranglement où la fuite est difficile. Le cadre stabilisateur lui permet de tirer avec une précision mortelle, même si des dommages subis ou des explosifs peuvent le renverser facilement.
+Bien qu'immobile, sa létalité vient de l'embuscade - les tourelles se trouvent souvent dans des coins serrés, des points aveugles ou des zones de goulot d'étranglement où l'évasion est difficile. Le cadre stabilisateur lui permet de tirer avec une précision mortelle, bien que des dommages subis ou des explosifs puissent facilement le renverser.
 
-TIPS: 
+CONSEILS:
 
-- Les grenades ou les explosifs constituent le moyen le plus rapide de les neutraliser.
-- Des rafales de feu violentes à la base peuvent provoquer un effondrement.
-- Approchez-vous prudemment : une fois alerté, la fuite est presque impossible sans couverture.
+- Les grenades ou les explosifs sont le moyen le plus rapide de les désactiver.
+- Des éclats de feu à la base peuvent provoquer un effondrement.
+- Approchez soigneusement - une fois alerté, l'évasion est presque impossible sans couverture.

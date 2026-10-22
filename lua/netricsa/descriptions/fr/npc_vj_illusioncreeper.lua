@@ -1,27 +1,27 @@
-ILLUSION CREEPER DU MONDE MINECRAFT
+CREEPER D'ILLUSION DU MINECRAFT
 
 
-CLASSE : Illusion Creeper
-MÉTABOLISME : Poudre à canon végétale avec des éléments de magie illusoire
-PERCEPTION : foule hostile, trompeur tactique
-TAILLE : 5,5 pieds
-ENDURANCE : Faible
-HOSTILITÉ : Absolue
-ARMES : clones d'illusion, autodestruction
-RÉCOMPENSE : 60 FC
-MENACE : Élevée
+CLASSE:      Illusion Creeper
+MÉTABOLISME: Poudre végétale avec éléments de magie illusionnaire
+PERCEPTION: Mob hostile, Déceiver tactique
+TAILLE:       5,5 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Absolu
+ARMES:    Clones d'illusion, autodestruction
+RÉCOMPENSE:     60 FC
+MENACE:     Haut
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Il s'agit d'une variante rampante qui ne repose pas sur la force brute, mais utilise plutôt la tromperie. Cette plante grimpante est de difficulté moyenne, dangereuse non pas tant par son explosion que par sa capacité à confondre ses victimes avant de mourir.
+C'est une variante plus rampante qui ne repose pas sur la force brute, mais utilise plutôt la tromperie. Ce flippant est de moyenne difficulté, moins dangereux pour son explosion que pour sa capacité à confondre ses victimes avant de mourir.
 
-Comme toutes les plantes grimpantes, l'Illusion Creeper a une faible santé, mais son principal pouvoir est de créer des copies de lui-même. Cette capacité en fait l'un des ennemis les plus insidieux : tandis que la victime essaie de déterminer quelle plante grimpante est réelle, la vraie se rapproche et explose.
+Comme tous les rampants, l'Illusion Creeper a une mauvaise santé, mais son pouvoir principal est de créer des copies de lui-même. Cette capacité en fait l'un des ennemis les plus insidieux: alors que la victime essaie de déterminer quel rampant est réel, le vrai se rapproche et explose.
 
-L'Illusionary Creeper peut créer plusieurs copies de lui-même, qui sont visuellement impossibles à distinguer de l'original. Les copies bougent, sifflent et simulent des attaques, mais disparaissent ou n'infligent aucun dégât lorsqu'on les touche.
+Le Creeper Illusionnaire peut créer plusieurs copies de lui-même, qui sont visuellement indissociables de l'original. Les copies bougent, sifflent et simulent les attaques, mais disparaissent ou ne causent aucun dommage lorsqu'elles sont touchées.
 
-CONSEILS :
+CONSEILS:
 
-- Ne paniquez pas lorsque vous voyez plusieurs plantes grimpantes à la fois. Il y a de fortes chances que la plupart soient des copies.
-- Utilisez des attaques à distance (arc, arbalète, boules de neige).
-- Ne gaspillez pas de ressources en tuant les copies. Ignorez-les simplement et concentrez-vous sur l’original.
-- Le Creeper Illusionnaire est particulièrement dangereux dans les grottes sombres, où il est difficile de distinguer les copies en raison d'une mauvaise visibilité. Emportez des torches avec vous.
+- Ne paniquez pas quand vous voyez plusieurs monstres en même temps. Les chances sont, la plupart d'entre eux sont des copies.
+- L'utilisation a varié les attaques (beau, arbalète, boules de neige).
+- Ne gaspillez pas les ressources qui tuent les copies. Il suffit de les ignorer et de se concentrer sur l'original.
+- Le Criseur Illusionnaire est particulièrement dangereux dans les grottes sombres, où il est difficile de distinguer les copies en raison de la mauvaise visibilité. Portez des torches avec vous.

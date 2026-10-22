@@ -1,10 +1,10 @@
-BLACK MESA, RÉSONANCE EN CASCADE
+MESA BLACK, RAISON DE CASCADE
 
 
-Sam, the experiment has collapsed in exactly the way I feared. The crystal insertion triggered a catastrophic energy surge, resulting in what the scientists called a cascade resonance. In simpler terms: les murs entre les dimensions ont été déchirés.
+Sam, l'expérience s'est effondrée exactement comme je le craignais. L'insertion cristalline a déclenché une poussée énergétique catastrophique, entraînant ce que les scientifiques ont appelé une résonance de cascade. En termes plus simples: les murs entre les dimensions ont été déchirés.
 
-Telemetry confirms the presence of a massive interdimensional entity - designation Nihilanth. Historical records identify him as a former lieutenant of Mental during the early expansion wars. However, something has changed: au lieu de servir, Nihilanth a déclaré son indépendance. Ce à quoi nous assistons n’est plus une expérience qui a mal tourné : c’est un champ de bataille entre deux puissances cosmiques.
+La télémétrie confirme la présence d'une entité interdimensionnelle massive - désignation Nihilanth. Les dossiers historiques l'identifient comme un ancien lieutenant de Mental pendant les premières guerres d'expansion. Cependant, quelque chose a changé : au lieu de servir, Nihilanth a déclaré son indépendance. Ce que nous assistons n'est plus une expérience qui a mal tourné - c'est un champ de bataille entre deux puissances cosmiques.
 
-The results are catastrophic. Hallways are in ruins, entire laboratories collapsed, and bodies of both scientists and guards are scattered everywhere. The resonance is still destabilizing the environment, pulling creatures from alien worlds into Black Mesa. In short: le chaos a pris racine et vous êtes au milieu de celui-ci.
+Les résultats sont catastrophiques. Les couloirs sont en ruines, des laboratoires entiers se sont effondrés, et des corps de scientifiques et de gardiens sont dispersés partout. La résonance déstabilise encore l'environnement, tirant des créatures de mondes extraterrestres vers Mesa noire. Bref, le chaos a pris racine, et vous êtes au milieu.
 
-Sam, cette installation n'est plus un laboratoire. C'est une zone de guerre. Et contrairement à Sirius, cette fois l'ennemi n'est pas seulement Mental - mais aussi l'un de ses plus anciens traîtres.
+Sam, cette installation n'est plus un labo. C'est une zone de guerre. Et contrairement à Sirius, cette fois l'ennemi n'est pas seulement Mental - mais aussi l'un de ses plus anciens traîtres.

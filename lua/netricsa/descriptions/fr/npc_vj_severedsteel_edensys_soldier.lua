@@ -1,31 +1,31 @@
-SOLDAT BIOTECH EDENSYS
+ÉDENSYS BIOTECH VENDU
 
 
-CLASSE : Soldat EdenSys BioTech
-MÉTABOLISME : Clone humain, mâle
-PERCEPTION : Force de sécurité d'entreprise EdenSys
-TAILLE : 5,9 pieds
-ENDURANCE : Moyenne
-HOSTILITÉ : Extrême
-ARMES : Diverses armes légères
-RÉCOMPENSE : 600 FC
-MENACE : Moyenne
+CLASSE:      EdenSys BioTech Soldat
+MÉTABOLISME: Clone humain, Homme
+PERCEPTION: La Force de sécurité d'EdenSys
+TAILLE:       5,9 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Extrême
+ARMES:    Divers armes légères
+RÉCOMPENSE:     600 FC
+MENACE:     Moyenne
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Ces soldats constituent la principale force de combat des forces de sécurité d'EdenSys BioTech Corporation. La plupart sont des clones, élevés et entraînés exclusivement pour le combat, la sécurité des installations et la suppression de toute menace interne ou externe.
+Ces soldats forment la force de combat centrale de la force de sécurité d'EdenSys BioTech Corporation. La plupart sont des clones, élevés et formés exclusivement pour le combat, la sécurité des installations et la suppression de toute menace interne ou externe.
 
-Leur équipement est conçu pour être utilisé dans des conditions de froid extrême. Des uniformes isolés, des masques épais et des visières leur permettent d'opérer dans des environnements arctiques tout en conservant une mobilité et une efficacité élevées, même à des températures extrêmement basses.
+Leur équipement est conçu pour être utilisé dans des conditions de froid extrême. Les uniformes isolés, les masques épais et les visières leur permettent de fonctionner dans des environnements arctiques tout en maintenant une mobilité et une efficacité élevées, même à des températures extrêmement basses.
 
-La guerre dépend de la mission assignée. Les soldats sont capables d’utiliser une large gamme d’armes : fusils d’assaut, fusils de chasse, mitraillettes, fusils, mitrailleuses et autres armes d’entreprise modernes. Grâce à une formation constante, ils manipulent en toute confiance pratiquement n’importe quel type d’arme à feu.
+La guerre dépend de la mission assignée. Les soldats sont capables d'utiliser une vaste gamme d'armes : fusils d'assaut, fusils de chasse, mitrailleuses, fusils, mitrailleuses et autres armes d'entreprise modernes. Grâce à un entraînement constant, ils manipulent avec confiance pratiquement tout type d'arme à feu.
 
-La formation d'EdenSys est considérée comme extrêmement rigoureuse, mais la plupart des soldats apprennent une chose de mieux de l'ensemble du cours : une quantité infinie d'obscénités. Au combat, ils crient constamment des malédictions, des menaces et des insultes, ce qui est depuis longtemps devenu une caractéristique de l'armée corporative.
+L'entraînement d'EdenSys est considéré comme extrêmement rigoureux, mais la plupart des soldats apprennent une chose de mieux de l'ensemble du cours: un approvisionnement sans fin d'obscénités. Au combat, ils crient constamment des malédictions, des menaces et des insultes, qui sont depuis longtemps devenues une marque de l'armée d'entreprise.
 
-Malgré cela, il ne faut pas les sous-estimer. Ils agissent de manière organisée, occupant rapidement des positions avantageuses, exploitant activement leur couverture et délivrant des tirs concentrés, représentant une menace sérieuse même pour des adversaires bien entraînés.
+Malgré cela, ils ne doivent pas être sous-estimés. Ils agissent de manière organisée, occupent rapidement des positions avantageuses, exploitent activement la couverture et livrent des tirs concentrés, ce qui constitue une menace sérieuse même pour des adversaires bien formés.
 
-CONSEILS :
+CONSEILS:
 
-- Les armes utilisées sont inconnues à l'avance, alors évaluez la menace immédiatement après avoir repéré l'ennemi.
-- Les soldats préfèrent combattre à couvert et restent rarement à découvert.
-- Leur équipement arctique ne les rend pas plus protégés que les gens ordinaires.
-- Ne vous laissez pas distraire par leurs injures constantes : ils tirent bien mieux qu'ils ne parlent.
+- Les armes utilisées sont inconnues à l'avance, donc évaluez la menace immédiatement après avoir repéré l'ennemi.
+- Les soldats préfèrent se battre de couverture et restent rarement à l'abri.
+- Leur équipement arctique ne les protège pas plus que les gens ordinaires.
+- Ne soyez pas distrait par leur maudite constante : ils tirent bien mieux qu'ils ne parlent.

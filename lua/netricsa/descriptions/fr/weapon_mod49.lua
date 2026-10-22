@@ -1,17 +1,17 @@
-PISTOLET-MACHINE ZASTAVA MOD-49
+MOD-49 DE ZASTAVA
 
 
-ARME : Mitraillette Zastava Mod-49
-MUNITIONS : 7,62x25mm TT
-ROF : ~750 tours/min
+ARME: Zastava Mod-49 Sous-machine Gun
+MUNITIONS:   7.62x25mm TT
+CADENCE DE TIR:    ~750 tours/min
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Une mitraillette yougoslave développée par Zastava pour l'armée populaire yougoslave. Extérieurement, le Mod-49 ressemble au PPSh soviétique, mais a sa propre conception avec un récepteur cylindrique usiné et une action de retour de flamme.
+Une mitrailleuse yougoslave développée par Zastava pour l'Armée populaire yougoslave. Extérieurement, le Mod-49 ressemble au PSh soviétique, mais a sa propre conception avec un récepteur cylindrique usiné et une action de rappel.
 
-L'arme est capable de tirer à un coup et automatique. Il utilise des chargeurs à boîte de 35 cartouches ou des chargeurs à tambour de 71 cartouches. La crosse en bois et la construction massive rendent le Mod-49 assez lourd, mais il est robuste et solide.
+L'arme est capable d'un seul tir et d'un tir automatique. Il utilise des magazines de 35 tours ou 71 tours de tambour. Le matériel en bois et la construction massive rendent le Mod-49 assez lourd, mais il est robuste et solide.
 
-REMARQUES :
+REMARQUES:
 
-- Il ressemble au PPSh, mais possède des mécanismes complètement différents à l'intérieur.
-- It's heavy, but well suited for dense automatic fire.
+- On dirait le PPSh, mais il a une mécanique complètement différente.
+- C'est lourd, mais bien adapté pour un feu automatique dense.

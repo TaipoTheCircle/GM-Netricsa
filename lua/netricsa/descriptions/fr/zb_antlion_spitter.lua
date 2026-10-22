@@ -1,29 +1,29 @@
-ANTLION, CRACHEUR DU XEN
+ANTLION, DÉPART DE LA XEN
 
 
-CLASSE : Fourmilion, Cracheur
-MÉTABOLISME : Insectoïde
-PERCEPTION : Créature extraterrestre insectoïde
-TAILLE : 4 à 5 pieds
-ENDURANCE : Moyenne
-HOSTILITÉ : Élevée
-ARMES : crachat d'acide bleu, griffes toxiques, morsure toxique, tirets courts
-RÉCOMPENSE : 250 FC
-MENACE : Moyenne
+CLASSE:      Antlion, araignée
+MÉTABOLISME: Insectoïde
+PERCEPTION: Insectoïde Alien Créature
+TAILLE:       4-5 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Spire d'acide bleu, griffes toxiques, bitumes toxiques, cils courts
+RÉCOMPENSE:     250 FC
+MENACE:     Moyenne
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Prédateurs insectoïdes de Xen, attirés sur Terre avant l'invasion du Combine. Ils parcourent les terrains sablonneux en essaims, sortant du sous-sol pour tendre une embuscade à leurs proies. Agiles et implacables, ils ne gagnent pas par leur force individuelle, mais par leur nombre.
+Les prédateurs insectoïdes de Xen, attirés vers la Terre avant l'invasion de Combine. Ils errent sur des terrains sablonneux en essaims, sortant de proies souterraines à embuscades. Agiles et impitoyables, ils gagnent non par la force individuelle, mais par des nombres purs.
 
-Le cracheur est une espèce unique de fourmilion, qui se distingue par sa coquille bleu vif et ses glandes à venin. Contrairement aux individus normaux, il préfère rester derrière le peloton principal, offrant ainsi un soutien à longue portée. Son arme principale est une seule boule de liquide bleu caustique qui, lors de l'impact, provoque une brève brûlure chimique de la peau et désoriente sa proie pendant quelques instants.
+Le cracher est une espèce unique d'antlion, caractérisée par sa coquille bleue brillante et ses glandes venimeuses. Contrairement aux individus normaux, il préfère rester derrière le pack principal, offrant un soutien à longue distance. Son arme principale est une seule gobe de liquide bleu caustique, qui, à l'impact, provoque une brève brûlure chimique à la peau et désoriente sa proie pendant quelques instants.
 
-Dans leur comportement, les cracheurs ressemblent à des fourmilions ouvriers. Ils ne se lancent pas dans des attaques imprudentes, mais tentent plutôt de prendre une position avantageuse, se déplaçant constamment autour de l'ennemi et couvrant leurs frères les plus agressifs. Si un ennemi s'approche trop près, la créature attaque avec des griffes acérées et de puissantes mandibules. La morsure et les griffes contiennent une toxine qui provoque une douleur intense et une détérioration temporaire de la cible.
+Dans leur comportement, les cracheurs ressemblent à des fourmis ouvrières. Ils ne se précipitent pas dans des attaques téméraires, mais tentent plutôt de prendre une position avantageuse, se déplaçant constamment autour de l'ennemi et couvrant leurs frères plus agressifs. Si un ennemi se rapproche trop, la créature attaque avec des griffes pointues et des mandibules puissantes. La morsure et les griffes contiennent une toxine qui provoque une douleur sévère et une détérioration temporaire de la cible.
 
-Bien qu’ils appartiennent à l’espèce des fourmilions, les cracheurs ignorent complètement les effets des phéropodes. Les tentatives pour les maîtriser ou les calmer s’avèrent vaines, les rendant nettement plus dangereux que les essaimeurs normaux. Pour cette raison, ils restent agressifs même après que les autres fourmilions ont cessé d’attaquer.
+Bien qu'appartenant à l'espèce des antlions, les cracherons ignorent complètement les effets des phéropodes. Les tentatives de les soumettre ou de les calmer s'avèrent futiles, ce qui les rend beaucoup plus dangereux que les essaims normaux. Pour cette raison, ils restent agressifs même après que d'autres fourmis aient cessé d'attaquer.
 
-CONSEILS :
+CONSEILS:
 
-- Évitez de marcher sur le sable ; les vibrations les attirent immédiatement.
-- Évitez de vous tenir à l'air libre.
-- Ne comptez pas sur les phéropodes ; les cracheurs sont complètement immunisés contre leurs effets.
-- Évitez les combats rapprochés.
+- Évitez de marcher sur le sable; les vibrations les attirent immédiatement.
+- Éviter de rester à l'abri.
+- Ne comptez pas sur les phéropodes; les cracherons sont complètement à l'abri de leurs effets.
+- Éviter les combats rapprochés.

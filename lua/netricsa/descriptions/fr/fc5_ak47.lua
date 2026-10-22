@@ -1,16 +1,16 @@
-FUSIL D'ASSAUT KALASHNIKOV AK-47
+RISQUE DE KALASHNIKOV AK-47 ASSAULT
 
 
-ARME : Fusil d'assaut Kalachnikov AK-47
-MUNITIONS : 7,62x39mm
-ROF : ~600 tours/min.
+ARME:    Kalashnikov AK-47 Assassin Rifle
+MUNITIONS:      7,62x39mm
+CADENCE DE TIR:       ~600 tours/min.
 
-DESCRIPTIF :
+DESCRIPTION:
 
-A Soviet assault rifle developed by Mikhail Timofeevich Kalashnikov in the late 1940s. The AK was adopted by the Soviet Army in 1949 and became one of the most famous small arms in the world. It is distinguished by its simple and reliable design, good performance in harsh conditions, and a relatively powerful 7.62x39mm intermediate cartridge. The AK has inspired numerous modifications and copies, and the weapon itself has become widespread throughout the world.
+Un fusil d'assaut soviétique développé par Mikhail Timofeevitch Kalachnikov à la fin des années 1940. L'AK a été adopté par l'armée soviétique en 1949 et est devenu l'une des armes de petit calibre les plus célèbres au monde. Il se distingue par sa conception simple et fiable, une bonne performance dans des conditions difficiles et une cartouche intermédiaire de 7,62x39mm relativement puissante. L'AK a inspiré de nombreuses modifications et copies, et l'arme elle-même s'est répandue dans le monde entier.
 
-REMARQUES :
+REMARQUES:
 
-- A very reliable assault rifle, capable of operating even in harsh conditions. - The huge number of copies and modifications has made the AK one of the most recognizable assault rifles in the world.
-- It's well suited for close and medium ranges.
-- S'il y a une guerre quelque part, il y a de fortes chances qu'il y ait un AK qui traîne quelque part.
+- Un fusil d'assaut très fiable, capable de fonctionner même dans des conditions difficiles. - Oui. Le grand nombre d'exemplaires et de modifications a fait de l'AK l'un des fusils d'assaut les plus reconnaissables au monde.
+- Il est bien adapté pour les gammes proches et moyennes.
+- S'il y a une guerre quelque part, il y a de bonnes chances qu'il y ait un AK quelque part.

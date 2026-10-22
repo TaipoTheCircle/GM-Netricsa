@@ -1,25 +1,25 @@
 TRIGLAV 92 STALKER SNIPER RIFLE
 
 
-ARME : TRIGLAV 92 Stalker Sniper Rifle
-MUNITIONS : Rifle Cartridges
-ROF : ~30 rounds / min
-POIDS : ~4,5 kg
+ARME: TRIGLAV 92 Sniper Sniper Rifle
+MUNITIONS:   Cartouches à spires
+CADENCE DE TIR:    ~30 tours/min
+POIDS: ~4,5 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-A high-precision sniper rifle manufactured by TRIGLAV, designed for engaging targets at long ranges. The weapon boasts near-perfect accuracy when using a scope and high stopping power, allowing it to destroy most small targets with a single shot.
+Un fusil à sniper de haute précision fabriqué par TRIGLAV, conçu pour atteindre des cibles à longue portée. L'arme a une précision quasi parfaite lorsqu'elle utilise une portée et une puissance d'arrêt élevée, ce qui lui permet de détruire la plupart des petites cibles avec un seul tir.
 
-The rifle uses a bolt-action mechanism, requiring a reload time after each shot. The magazine holds 5 rounds. An ammunition indicator on the rifle's body displays the remaining ammunition.
+Le fusil utilise un mécanisme d'action de boulon, nécessitant un temps de recharge après chaque tir. Le magazine tient 5 tours. Un indicateur de munitions sur le corps du fusil affiche les munitions restantes.
 
-The scope has several magnification levels: 2x, 5x, and 10x, allowing for firing at both medium and extreme long ranges. Firing without a scope significantly reduces accuracy, so using the Stalker in this mode is recommended only in extreme cases.
+The scope has several magnification levels: 2x, 5x et 10x, permettant de tirer à des distances moyennes et extrêmes. Il est donc recommandé d'utiliser le Stalker dans ce mode uniquement dans les cas extrêmes.
 
-REMARQUES :
+REMARQUES:
 
-- Exceptionally high accuracy when firing through a scope.
-- Most small targets are destroyed with a single hit.
-- Has 2x / 5x / 10x magnification.
-- The magazine holds 5 rounds.
-- The bolt-action mechanism creates a noticeable delay between shots.
-- Designed primarily for long and extreme long ranges.
-- Firing from the hip is significantly less accurate.
+- Une précision exceptionnellement élevée lors du tir à travers un champ.
+- La plupart des petites cibles sont détruites avec un seul coup.
+- A 2x / 5x / 10x grossissement.
+- Le magazine tient 5 tours.
+- Le mécanisme d'action du boulon crée un retard notable entre les tirs.
+- Conçu principalement pour les longues et extrêmes portées.
+- Le tir de la hanche est significativement moins précis.

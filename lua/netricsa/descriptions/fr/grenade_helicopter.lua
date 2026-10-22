@@ -1,26 +1,26 @@
-COMBINEZ LA MINE CHOPPER HUNTER
+MINE CHOPPER HUNTER COMBINE
 
 
-CLASS: Combinez la mine Hunter Chopper
-METABOLISM: Mechanical Ammunition
-PERCEPTION: Mine antipersonnel larguée
-SIZE: ~1,7 pieds
-ENDURANCE: Très faible
-HOSTILITY: Absolu
-WEAPONS: Contact Explosion, Shrapnel
-REWARD: 10 FC
-THREAT: Haut
+CLASSE:      Mélanger la mine Hunter Chopper
+MÉTABOLISME: Munitions mécaniques
+PERCEPTION: Mine anti-personnel comprimée par air
+TAILLE:       ~1,7 pi
+ENDURANCE:  Très faible
+HOSTILITÉ:  Absolu
+ARMES:    Contact Explosion, éclat
+RÉCOMPENSE:     10 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Il s'agit de l'arme de nettoyage principale du Combine lorsqu'ils veulent éliminer l'ennemi. Il s'agit d'un explosif chronométré largué en grande quantité par Hunter Choppers. Ces mines sont particulièrement efficaces lorsqu'un hélicoptère subit des dommages critiques et commence à paniquer, bombardant l'attaquant avec des dizaines de petits jouets mortels.
+C'est l'arme primaire du Combine quand ils veulent éliminer l'ennemi. C'est un explosif chronométré largué en grandes quantités par Hunter Choppers. Ces mines sont particulièrement efficaces lorsqu'un hélicoptère subit des dommages critiques et commence à paniquer, dépeignant l'attaquant avec des dizaines de petits jouets mortels.
 
-Les mines flottent dans l’eau, ce qui en fait une arme efficace contre les embarcations.
+Les mines flottent dans l'eau, ce qui en fait une arme efficace contre les motomarines.
 
-Les mines ont un court délai avant d'exploser après avoir été larguées. Cependant, si vous les attrapez avec le Gravity Gun, le chronomètre augmente de quelques secondes. Si vous les relâchez, le timer se remet à zéro et revient à sa valeur d'origine.
+Les mines ont une minuterie courte avant d'exploser après avoir été abandonnées. Cependant, si vous les prenez avec le pistolet Gravity, le chronomètre augmente de quelques secondes. Si vous les relâchez, le minuteur se réinitialise à zéro et retourne à sa valeur originale.
 
-TIPS: 
+CONSEILS:
 
-- N'attendez pas qu'ils explosent. Utilisez le pistolet à gravité pour les attraper et les renvoyer.
+- Ne les attendez pas à exploser. Utilisez le pistolet Gravity pour les attraper et les renvoyer.
 - Les mines flottent dans l'eau et ne coulent pas.
-- Un seul coup suffit pour faire exploser une mine en plein vol.
+- Un coup suffit pour faire exploser une mine en plein air.

@@ -1,19 +1,19 @@
-"ABZATS" AUTOMATIC SHOTGUN
+"ABZATS" ÉTIQUETTE AUTOMATIQUE
 
 
-ARME : Fusil automatique "Abzats"
-MUNITIONS : 12x70 mm
-ROF : ~600 rounds / min
+ARME: fusil automatique "Abzats"
+MUNITIONS:   12 x 70 mm
+CADENCE DE TIR:    ~600 tours/min
 
-DESCRIPTIF :
+DESCRIPTION:
 
-This heavy automatic shotgun, created by Kuznetsky Most gunsmiths, is based on a shortened DShK machine gun modified for 12-gauge use. The weapon is belt-fed and uses a standard 20-round magazine. Thanks to its high rate of fire and powerful 12x70 mm cartridge, the "Abzats" is capable of literally raining down a hail of pellets on the enemy at close range.
+Ce fusil de chasse automatique lourd, créé par Kuznetsky Most armsmiths, est basé sur une mitrailleuse DShK abrégée modifiée pour une utilisation de calibre 12. L'arme est alimentée en ceinture et utilise un magazine standard de 20 tours. Grâce à son fort taux de feu et à sa puissante cartouche de 12x70 mm, le "Abzats" est capable de pleuvoir littéralement une grêle de pellets sur l'ennemi à portée de main.
 
-Le poids élevé de l'arme, son fort recul et sa consommation élevée de munitions sont ses principaux inconvénients. Avec un chargeur plus grand, la capacité passe à 40 cartouches. Selon la modification, il peut tirer de manière semi-automatique ou entièrement automatique.
+Le poids lourd de l'arme, son fort recul et sa forte consommation de munitions sont ses principaux inconvénients. Avec un magazine plus grand, la capacité augmente à 40 tours. Selon la modification, il peut tirer semi-automatiquement ou complètement automatiquement.
 
-REMARQUES :
+REMARQUES:
 
-- Une énorme puissance de feu à courte portée.
-- Chargeur de 20 coups alimenté par courroie avec un chargeur étendu de 40 coups.
-- Le mode entièrement automatique transforme le fusil de chasse en une véritable mitrailleuse légère.
-- Très lourd, ralentissant considérablement les mouvements.
+- Énorme puissance de feu à proximité.
+- Magazine à 20 tours de ceinture avec un magazine à 40 tours.
+- Le mode entièrement automatique transforme le fusil en véritable mitrailleuse légère.
+- Très lourd, ralentissement significatif.

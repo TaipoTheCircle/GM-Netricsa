@@ -1,24 +1,24 @@
-HARPIE-SORCIÈRE SCYTHIENNE
+AIDE SCYTHIENNE
 
 
-CLASS: Harpie-sorcière scythe
-METABOLISM: mammifère
-PERCEPTION: clone entraîné
-SIZE: 5 pieds debout
-ENDURANCE: faible
-HOSTILITY: moyen
-WEAPONS: projectiles magiques, griffes
-REWARD: 1000FC
-THREAT: faible
+CLASSE:      Scythian Witch-Harpy
+MÉTABOLISME: mammifère
+PERCEPTION: clone formé
+TAILLE:       5 pieds debout
+ENDURANCE:  faible
+HOSTILITÉ:  moyenne
+ARMES:    projectiles magiques, griffes
+RÉCOMPENSE:     1000 FC
+MENACE:     faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un clone femelle d'une race scythe disparue depuis longtemps. Une Harpie-Sorcière est entraînée au combat rapproché et au lancement de sorts de combat.
-Sa capacité de vol lui permet d'atteindre des positions autrement inaccessibles et d'attaquer son ennemi d'en haut.
+Un clone femelle d'une longue race scythienne disparue. Une sorcière-Harpy est entraînée dans le combat rapproché et le lancer des sorts de combat.
+Sa capacité de vol lui permet d'atteindre des positions autrement inaccessibles et d'attaquer leur ennemi d'en haut.
 
-TIPS: 
+CONSEILS:
 
-- En grand groupe, préparez la viande hachée avec le minigun ou éloignez-la en fusée.
-- Abattez des individus avec un fusil de chasse à double canon.
+- Dans les grands groupes, faire de la viande hachée avec un mini-gun ou les éloigner.
+- Des individus avec un fusil à double barre.
 
 

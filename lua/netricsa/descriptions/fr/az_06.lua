@@ -1,8 +1,8 @@
-BLACK MESA, UN AUTRE SILO
+MESA BLACK, SECTEUR GARGANTUA
 
 
-L’endroit pue le béton brisé et les mauvaises décisions. Un Gargantua adulte patrouille dans la zone de destruction – lourd, rapide pour sa taille. Pendant ce temps, dans une fenêtre au-dessus, l’homme en costume regarde, sa mallette à ses côtés, totalement indifférent aux implications morales du carnage. Il n'est pas là pour aider. Il est là pour observer. Probablement pour déposer des notes.
+L'endroit résonne de mauvaises décisions concrètes. Un Gargantua entier patrouille la zone de mort - lourd, rapide pour sa taille. Pendant ce temps, dans une fenêtre au-dessus, l'homme en costume se tient à regarder, mallette à ses côtés, sans intérêt pour les implications morales du carnage. Il n'est pas là pour aider. Il est là pour observer. Probablement pour déposer des notes.
 
-Objective: 
+Objective:
 
-Survivez à la rencontre et atteignez le point d'extraction - ou, si la situation tourne mal, réduisez vos pertes et sortez. Rapide.
+Survivre à la rencontre et atteindre le point d'extraction - ou, si la situation va de côté, couper vos pertes et sortir. Vite.

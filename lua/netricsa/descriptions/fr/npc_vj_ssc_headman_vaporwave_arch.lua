@@ -1,23 +1,23 @@
-BEHEADED ARCHAEOLOGIST, VAPORWAVE FROM THE MYSTERIOUS ISLAND
+ARCHÉOLOGISTE, VAPORWAVE DE L'ÎLE MYSTERIEUSE
 
 
-CLASS:      Beheaded Archaeologist, Vaporwave
-METABOLISM: Cyber-Zombie
-PERCEPTION: Insentient, LCU controlled
-SIZE:       6 ft
-ENDURANCE:  Low
-HOSTILITY:  Medium
-WEAPONS:    All-Round Multiple Launcher
-REWARD:     400 FC
-THREAT:     High
+CLASSE:      Archéologue décapité, Vaporwave
+MÉTABOLISME: Cyber-Zombie
+PERCEPTION: Insensible, contrôlé par LCU
+TAILLE:       6 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Moyenne
+ARMES:    Lanceur polyvalent
+RÉCOMPENSE:     400 FC
+MENACE:     Haut
 
-DESCRIPTIF :
+DESCRIPTION:
 
-The Beheaded Archaeologist from the Mysterious Island, raised from the dead by Mental and remote controlled by Life Control Unit (LCU). 
+L'Archéologue décapité de l'île Mystérieuse, ressuscité des morts par Mental et télécommandé par Life Control Unit (LCU).
 
-A Vaporwave carries his own head in one hand to receive audio/visual information. A highly experimental variant of the Firecracker, the Vaporwave carries a unique weapon system that fires a full circle of various magical projectiles around itself, trying to flood the surrounding area with hurt. To be able to withstand the weight of this weaponry, its skin was alloyed with a sort of bio-metal, making it a bit more tough than its regular brethren.
+Un Vaporwave porte sa propre tête dans une main pour recevoir des informations audiovisuelles. Variante très expérimentale du Firecracker, le Vaporwave porte un système d'armes unique qui tire un cercle complet de divers projectiles magiques autour de lui, essayant d'inondation de la région environnante avec des blessures. Pour résister au poids de cette arme, sa peau était alliée à une sorte de biométal, ce qui la rendait un peu plus dure que ses frères réguliers.
 
-TIPS:
+CONSEILS:
 
-- Can attack in all directions at once.
-- Has multiple attack options which appears to be chosen without consideration.
+- Peut attaquer dans toutes les directions.
+- A plusieurs options d'attaque qui semblent être choisies sans considération.

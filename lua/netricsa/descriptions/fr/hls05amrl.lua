@@ -1,12 +1,12 @@
-BLACK MESA, TÉMOIGNAGE DE SURVIVANT
+MESA BLACK, TESTIMONIE SURVIVIÈRE
 
 
-Sam, vous avez pris contact avec l'un des scientifiques survivants. Et oui, il insiste pour vous appeler Freeman. J'ai essayé de le corriger, mais il semble convaincu que la moustache et les baskets ne sont qu'un "nouveau look de laboratoire".
+Sam, tu as pris contact avec un des scientifiques survivants. Et oui, il insiste pour vous appeler Freeman. J'ai essayé de le corriger, mais il semble convaincu que les moustaches et les baskets sont juste un "nouveau look de labo"
 
-Here's what he told us: pour arrêter cette catastrophe, vous devez atteindre le complexe Lambda à l'extrémité de Black Mesa. Selon lui, c'est là que se regroupent les derniers chercheurs restants, et ils pourraient avoir un plan pour fermer la faille interdimensionnelle. Il jure également qu'on peut faire confiance à tout le monde à Lambda : pas de secrets, pas d'agents doubles, pas de surprises. Ce qui, compte tenu de la journée que vous vivez, est soit réconfortant... soit suspect.
+Voici ce qu'il nous a dit: pour arrêter cette catastrophe, vous devez atteindre le complexe Lambda à l'extrémité de Black Mesa. Selon lui, c'est là que les derniers chercheurs se regroupent, et ils peuvent avoir un plan pour arrêter la fracture interdimensionnelle. Il jure aussi que tout le monde à Lambda peut se faire confiance, pas de secrets, pas de doubles agents, pas de surprises. Ce qui, vu le jour que vous avez, est réconfortant... ou suspect.
 
-Complication: le principal système de transport en commun de Black Mesa est grillé. Les tramways, les ascenseurs et même la moitié des monte-charges sont hors service. Votre seul itinéraire viable est la ligne de fret ferroviaire au-delà de l'installation de stockage. Mais il y a un piège : pour y arriver, vous devrez traverser le secteur d'essais de fusées, et chaque tunnel menant dans cette direction grouille d'ennemis.
+Complication: le principal système de transit Black Mesa est frit. Trams, ascenseurs, même la moitié des ascenseurs sont hors service. Votre seule route viable est la ligne de fret ferroviaire au-delà de l'installation de stockage. Mais il y a une prise: pour y arriver, vous devrez traverser le secteur des essais de fusées, et chaque tunnel menant dans cette direction est rampant d'ennemis.
 
-So, the plan is simple (and by simple I mean borderline insane): détournez un train de marchandises, naviguez à travers des silos de missiles et espérez que cela vous mènera à ce qui reste de l'équipe Lambda.
+Donc, le plan est simple (et par simple je veux dire borderline fou): détourner un train de marchandises, naviguer à travers des silos de missiles, et espérer qu'il vous mène à ce qui reste de Lambda Team.
 
-Recommendation: prenez les paroles du scientifique au pied de la lettre : Lambda est votre meilleure chance de mettre fin à ce cauchemar. Mais sois prêt, Sam : la confiance c'est bien, la puissance de feu c'est mieux.
+Recommendation: prenez les mots du scientifique à la valeur faciale-Lambda est votre meilleure chance de mettre fin à ce cauchemar. Mais soyez prêts, Sam: la confiance est bonne, la puissance du feu est meilleure.

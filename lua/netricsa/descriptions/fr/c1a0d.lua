@@ -1,8 +1,8 @@
-MESA NOIRE, COULOIRS
+MESA BLACK, CORRIDORS
 
 
-Sam, vous avez été redirigé vers la salle d'équipement. Selon les protocoles de Black Mesa, aucun membre du personnel n'est autorisé à entrer dans la chambre de test sans porter sa combinaison de protection HEV. Apparemment, il s’agit d’une procédure standard pour gérer des expériences dangereuses – même si je doute même qu’ils comprennent pleinement l’ampleur de ce qu’ils sont sur le point de déclencher.
+Sam, tu as été redirigé vers la salle d'équipement. Selon les protocoles de Black Mesa, aucun membre du personnel n'est autorisé à entrer dans la chambre d'essai sans porter son costume de protection HEV. Apparemment, il s'agit d'une procédure standard pour la manipulation d'expériences dangereuses - même si je doute qu'elles comprennent parfaitement l'ampleur de ce qu'elles sont sur le point de déclencher.
 
-The HEV Mark IV suit is impressive by human standards: il fournit une protection environnementale, une augmentation de la force, une surveillance intégrée de la santé et même des systèmes à assistance vocale. Pas aussi flexible que votre équipement de combat habituel, mais étant donné la situation, c'est une mise à niveau utile. Plus important encore, les gardes ne vous laisseront pas continuer sans cela.
+The HEV Mark IV suit is impressive by human standards: il fournit des systèmes de protection de l'environnement, d'augmentation de la force, de surveillance intégrée de la santé et même d'assistance vocale. Pas aussi flexible que votre équipement de combat habituel, mais vu la situation, c'est une mise à niveau utile. Plus important, les gardes ne vous laisseront pas procéder sans.
 
-Et oui, le personnel croit toujours que vous êtes le Dr Freeman. Soit leur vue est compromise, soit vous avez soudainement acquis la réputation d'emporter des lance-roquettes dans des expériences de physique. Dans tous les cas, je recommande de jouer le jeu. La combinaison HEV pourrait devenir indispensable très bientôt... car les relevés d'énergie de leur prochain test atteignent des niveaux qu'aucun laboratoire sur Terre ne devrait atteindre.
+Et oui - le personnel croit toujours que vous êtes le Dr Freeman. Soit leur vue est compromise, soit vous avez soudainement développé une réputation pour transporter des lance-roquettes dans des expériences de physique. En tout cas, je recommande de jouer avec. La combinaison HEV peut devenir essentielle très bientôt... parce que les lectures d'énergie de leur prochain test s'étendent sur des niveaux qu'aucun laboratoire sur Terre ne devrait toucher.

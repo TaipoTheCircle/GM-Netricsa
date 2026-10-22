@@ -1,28 +1,28 @@
-ANGE À GROSSE TÊTE, BEN FRECK "VINZ"
+BIG-HEAD ANGEL, BEN FRECK "VINZ"
 
 
-CLASS: Ange à grosse tête, Ben Frech "Vinz"
-METABOLISM: Humanoïde, mâle
-PERCEPTION: Ange à grosse tête, Nick « Xavier » Macron
-SIZE: 5,9 pieds
-ENDURANCE: Faible
-HOSTILITY: Neutre
-WEAPONS: Aucun (sauf en difficulté I Am Ugh-Zan)
-REWARD: 100 FC
-THREAT: Ennui
+CLASSE:      Big-Head Angel, Ben Frech "Vinz"
+MÉTABOLISME: Humanoïde, Homme
+PERCEPTION: Fan enthousiaste
+TAILLE:       5,9 pieds
+ENDURANCE:    Faible
+HOSTILITÉ:  Neutre
+ARMES:    Aucune (sauf sur I Am Ugh-Zan difficulté)
+RÉCOMPENSE:     100 FC
+MENACE:     Annoyance
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les Big-Heads sont de minces humanoïdes aux crânes exagérés contenant le cerveau des développeurs de Croteam. Ils portent l'uniforme de Serious Sam, mais ont les traits du visage uniques de l'équipe de développement. Ils affichent un enthousiasme obsessionnel et vous poursuivent aux cris de « Bonjour ! » et "Hé, attends!" Ils sont totalement inoffensifs, mais dans la difficulté "Je suis Ugh-Zan", ils gagnent des modificateurs de feu et de glace. Ils apparaissent spontanément dans les zones secrètes, bloquant les passages par leur grand nombre.
+Les grandes têtes sont de minces humanoïdes avec des crânes exagérés contenant les cerveaux des développeurs de Croteam. Ils portent l'uniforme de Serious Sam, mais ont les caractéristiques faciales uniques de l'équipe de développement. Ils montrent un enthousiasme obsessionnel, vous poursuivant avec des cris de "Bonjour!" et "Hé, attendez!" Ils sont complètement inoffensifs, mais dans la difficulté "Je suis Ugh-Zan" ils gagnent le feu et les modificateurs de glace. Ils apparaissent spontanément dans les zones secrètes, bloquant les passages avec leur nombre.
 
-Ben Frech, known as "Vinz", is a key member of the legendary modding team "A Few Screws Loose." His oversized cranium is a condensed knowledge of balance, cartography, and the pure, unfiltered joy of online carnage. Along with his teammates, he was one of the architects of the iconic Seriously Warped Deathmatch mod for Serious Sam: The Second Encounter, qui n'a pas seulement ajouté du contenu mais a redéfini l'expérience multijoueur pour toute une génération de joueurs.
+Ben Frech, connu sous le nom de "Vinz", est un membre clé de l'équipe légendaire "A Few Viss Loose". Son crâne surdimensionné est une connaissance condensée de l'équilibre, de la cartographie et de la joie pure et non filtrée du carnage en ligne. Avec ses coéquipiers, il a été l'un des architectes de l'emblématique mod Deathmatch de Serious Sam: The Second Encounter, qui n'a pas seulement ajouté de contenu mais redéfini l'expérience multijoueur pour toute une génération de joueurs.
 
-His contributions, celebrated in the original game, the HD remaster, and even Classics: Revolution, symbolise le lien fort entre le studio et sa communauté la plus dévouée.
+Ses contributions, célébrées dans le jeu original, le remaster HD, et même Classics: Revolution, symbolisent le lien fort entre le studio et sa communauté la plus dévouée.
 
-GROSSE TÊTE, JOHN J. DICK "BOOGER"
+Il était une fois vivant, mais après que quelqu'un l'ait tué, il a été ressuscité - devenir un ange.
 
-TIPS: 
+CONSEILS:
 
 - Utilisez un couteau de combat ou un pistolet pour dégager un chemin.
-- En difficulté "I Am Ugh-Zan", détruisez-les à distance grâce à leurs modificateurs.
-- Une masse à frappe horizontale est efficace en groupe.
+- Sur la difficulté "Je suis Ugh-Zan", les détruire à distance en raison de leurs modificateurs.
+- Un lugehammer avec une frappe horizontale est efficace dans un groupe.

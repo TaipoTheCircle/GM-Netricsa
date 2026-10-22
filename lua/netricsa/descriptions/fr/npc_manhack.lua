@@ -1,25 +1,25 @@
-COMBINEZ MANHACK
+LUTTE CONTRE LE MANHACK
 
 
-CLASS: Combiner Manhack
-METABOLISM: Entièrement synthétique (télécommandé via une interface de type arcade)
+CLASSE:      Mélanger Manhack
+MÉTABOLISME: Entièrement synthétique (commandé à distance par interface arcade-like)
 PERCEPTION: Drone autonome / télécommandé
-SIZE: ~1,5 pied de diamètre
-ENDURANCE: Faible
-HOSTILITY: Extrême
-WEAPONS: Lames de scie circulaire rotatives
-REWARD: 150 FC
-THREAT: Moyen
+TAILLE:       ~1,5 pi de diamètre
+ENDURANCE:  Faible
+HOSTILITÉ:  Extrême
+ARMES:    Lames de scie tournantes
+RÉCOMPENSE:     150 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine Manhacks est une sinistre pièce de la technologie Combine : un petit drone planant armé de lames de scie circulaire tranchantes comme des rasoirs conçues pour la répression urbaine et la poursuite des fugitifs. Son agilité lui permet de se faufiler dans les rues étroites, les puits de ventilation et même les fenêtres brisées, transformant des pâtés de maisons entiers en zones de destruction.
+Le Combine Manhacks est une pièce sinistre de la technologie Combine - un petit drone en vol stationnaire armé de lames de scies à bourdons rasées conçues pour la suppression urbaine et la poursuite des fugitifs. Son agilité lui permet de zipper dans des rues étroites, des puits de ventilation et même des fenêtres brisées, transformant des blocs de ville entiers en zones de destruction.
 
-Ce que la plupart des citoyens ne réalisent pas, c'est que les Manhacks ne sont pas pilotés par des soldats, mais contrôlés à distance par des civils. Le Combine déguise le système de contrôle en machines d'arcade inoffensives, où les citoyens croient jouer à un jeu vidéo pour se divertir, gagnant des « points » en chassant des rebelles virtuels. En vérité, chaque mouvement et chaque meurtre est réel, et les drones qu’ils contrôlent massacrent de vraies personnes dans les rues.
+Ce que la plupart des citoyens ne réalisent pas, c'est que les Manhacks ne sont pas pilotés par des soldats, mais qu'ils sont contrôlés à distance par des civils. Le Combine déguiser le système de contrôle comme des machines d'arcade inoffensives, où les citoyens croient qu'ils jouent à un jeu vidéo pour le divertissement, gagnant "points" par la chasse aux rebelles virtuels. En vérité, chaque mouvement et chaque meurtre est réel, et les drones qu'ils contrôlent tuent des gens dans la rue.
 
-Cette tromperie cruelle non seulement distrait la population, mais garantit également au Cartel de maintenir un nouveau stock d'« opérateurs » sans risquer ses propres forces. Pour le civil moyen, ce n'est qu'un jeu, mais pour le traqué, c'est la mort par mille coupures.
+Cette cruelle tromperie permet non seulement à la population de rester distrait, mais aussi au Combine de maintenir une nouvelle offre d'opérateurs sans risquer leurs propres forces. Pour le civil moyen, c'est juste un jeu - mais pour les chasseurs, c'est la mort par mille coupures.
 
-TIPS: 
+CONSEILS:
 
-- Les Manhacks sont fragiles - quelques balles ou une forte frappe au corps à corps les détruiront.
-- Leurs scies sont mortelles à courte portée - gardez vos distances.
+- Les manhacks sont fragiles - quelques balles ou une forte attaque à la mêlée les détruiront.
+- Leurs scies sont mortelles à portée de main - gardez la distance.

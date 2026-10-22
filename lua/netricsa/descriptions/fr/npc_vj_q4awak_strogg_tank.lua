@@ -1,29 +1,29 @@
-RÉSERVOIR STROGG DES STROGGOS
+TANQUE DE STROGG DES STROGGOS
 
 
-CLASSE : Char Strogg
-MÉTABOLISME : Cyborg biomécanique
-PERCEPTION : Unité d'assaut lourd STROGG
-TAILLE : ~8,2 pieds
-ENDURANCE : Très élevée
-HOSTILITÉ : Extrême
-ARMES : mitrailleuse, lance-missile, arme à plasma
-RÉCOMPENSE : 1000 FC
-MENACE : Très élevée
+CLASSE:      Réservoir de strogg
+MÉTABOLISME: Cyborg biomécanique
+PERCEPTION: Groupe de la lutte contre les agressions graves
+TAILLE:       ~8,2 pi
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Extrême
+WEAPONALS:  Pistolet automatique, lanceur de missiles, arme à plasma
+RÉCOMPENSE:     1000 FC
+MENACE:     Très élevé
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Le char STROGG est l'une des unités de combat les plus lourdes de leur armée. Il s'agit d'un soldat massif et obstiné, conçu non pas pour être furtif ou maniable, mais pour pénétrer directement les défenses ennemies. Son corps combine des tissus organiques avec des structures métalliques, une armure lourde et des systèmes d'armes intégrés.
+Le Tank STRAGG est l'une des unités de combat les plus lourdes de leur armée. C'est un soldat massif, obstiné, conçu non pas pour la furtivité ou la maniabilité, mais pour la pénétration directe des défenses ennemies. Son corps combine des tissus organiques avec des structures métalliques, des armures lourdes et des systèmes d'armes intégrés.
 
-Contrairement aux Stroggs standards, le Tank n'a pas besoin de se rapprocher rapidement de l'ennemi. Il peut s'engager à une distance considérable grâce à ses armes lourdes montées sur le corps. Sa puissance de feu lui permet de supprimer l'infanterie, de détruire les couvertures et de forcer l'ennemi à se repositionner constamment.
+Contrairement à Stroggs standard, le Tank n'a pas besoin de se refermer sur l'ennemi rapidement. Il peut s'engager à une distance considérable en utilisant ses armes lourdes montées sur le corps. Sa puissance de feu lui permet de supprimer l'infanterie, de détruire la couverture et de forcer l'ennemi à se repositionner constamment.
 
-La construction massive du Tank le rend extrêmement durable. Malgré sa taille, il est suffisamment agile pour poursuivre ses victimes et les empêcher de reculer indéfiniment.
+La construction massive du Tank le rend extrêmement durable. Malgré sa taille, il est assez agile pour poursuivre ses victimes et les empêcher de se replier sans fin.
 
-CONSEILS :
+CONSEILS:
 
-- Particulièrement dangereux dans les pièces et les couloirs étroits.
-- N'essayez pas de surpasser le Tank avec des armes faibles.
-- Utiliser des armes lourdes et des explosifs.
-- Continuez à avancer et ne vous laissez pas coincer.
-- La couverture aide à échapper à son feu, mais ne comptez pas dessus trop longtemps.
-- S'il y a d'autres Stroggs à proximité du Tank, pensez à éliminer d'abord les unités de soutien, sinon l'unité lourde assurera un tir de couverture.
+- Particulièrement dangereux dans les chambres et les couloirs étroits.
+- N'essayez pas de dépasser le Tank avec des armes faibles.
+- Utilisez des armes lourdes et des explosifs.
+- Continuez de bouger et ne le laissez pas vous coincer.
+- Couverture aide à échapper à son feu, mais ne comptez pas sur elle pour trop longtemps.
+- S'il y a d'autres Stroggs près du réservoir, envisager d'éliminer les unités de soutien d'abord, sinon l'unité lourde fournira le feu de couverture.

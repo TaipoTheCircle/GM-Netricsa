@@ -1,15 +1,15 @@
-FUSIL À POMPE REMINGTON 870MCS
+REMINGTON 870MCS PUMP-ACTION SHOTGUN
 
 
-WEAPON: Fusil à pompe Remington 870MCS
-AMMO: Calibre 12 (également produit en calibres 16, 20, 28 et alésage .410)
-ROF: 60 tours/min
+ARME: Remington 870MCS fusil à action de pompe
+MUNITIONS:   12 jauges (également produites en 16, 20, 28 jauges et 410 alésages)
+CADENCE DE TIR:    60 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Remington 870 est un fusil à pompe intemporel en production continue depuis 1951. Sa conception robuste et facile à entretenir en a fait l'un des fusils de chasse les plus vendus au monde - utilisé pour la chasse, le tir sportif, les forces de l'ordre et les militaires. La famille 870 comprend des modèles de chasse Field/Wingmaster et des variantes tactiques/police avec des canons raccourcis, des poignées pistolet et des rails pour accessoires.
+Le Remington 870 est un fusil à pompe intemporel en production continue depuis 1951. Sa conception robuste et facile à utiliser en fait l'un des fusils de chasse les plus vendus au monde - utilisés pour la chasse, le tir sportif, l'application de la loi et les rôles militaires. La famille 870 comprend des modèles de chasse Field/Wingmaster et des variantes tactiques/police avec des barils raccourcis, des poignées de pistolet et des rails accessoires.
 
-NOTES: 
+REMARQUES:
 
-- Fiabilité reconnue et maintenance simple – principales raisons de son adoption généralisée par la police et l'armée.
-- Excellente plate-forme rapprochée - idéale comme outil de «dernier recours» pour ouvrir une brèche et nettoyer une pièce lorsqu'elle est utilisée correctement.
+- Fiabilité reconnue et entretien simple - principales raisons de l'adoption généralisée de la police et de l'armée.
+- Excellente plate-forme de quartier rapproché - idéal comme un outil de rupture et de nettoyage de chambre « dernier ressort » lorsqu'il est utilisé correctement.

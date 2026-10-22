@@ -1,14 +1,14 @@
-ENTREPÔT BLACK MESA, PRESQUE LÀ
+MESA BLACK WAREHOUSE, ALMOST THERE
 
 
-The scientist was laconic. But the hint he gave was clear: Rosenberg est là. Enfermé. Dans un conteneur rouge. Derrière d'énormes portes qui semblent avoir été conçues pour une apocalypse, pas seulement pour l'évacuation d'une seule personne utile.
+Le scientifique était laconique. Mais l'indice qu'il a donné était clair : Rosenberg est là. Verrouillé. Dans un récipient rouge. Derrière d'énormes portes qui ressemblent à elles ont été conçues pour une apocalypse, pas seulement pour l'évacuation d'une personne utile.
 
-Pour ouvrir ces portes, vous devez appuyer sur un bouton de sécurité. Petit. Discret. Presque innocent. Ce sont ces mêmes boutons qui déclenchent des chaînes d’événements dans Black Mesa.
+Pour ouvrir ces portes, vous devez appuyer sur un bouton de sécurité. Petite. Discret. Presque innocent. Ce sont les boutons mêmes qui déclenchent des chaînes d'événements dans Black Mesa.
 
-As soon as you approach it, H.E.C.U. will suddenly remember that this sector was strategically important. Mental's forces, in turn, will decide this is the perfect place to settle things with all living things. The familiar scene will unfold: tout le monde tire sur tout le monde, et bien sûr, vous êtes à blâmer.
+Dès que vous vous approcherez, S.E.C.U. se souviendra soudain que ce secteur était stratégiquement important. Les forces mentales, à leur tour, décideront que c'est l'endroit parfait pour régler les choses avec toutes les choses vivantes. La scène familière se déroulera : tout le monde tire sur tout le monde, et vous, bien sûr, êtes à blâmer.
 
-Les portes s'ouvriront. Derrière eux se trouvera un conteneur. Rouge. Encore. Je dirais que la couleur ne veut plus rien dire, mais c'est précisément là que réside le dernier espoir de quelqu'un.
+Les portes s'ouvriront. Derrière eux il y aura un conteneur. Encore rouge. Je dirais que la couleur ne signifie plus rien, mais c'est précisément là que réside le dernier espoir de quelqu'un.
 
-When the way is clear, there's one more thing to do. Push the train back. Because even rescuing a brilliant scientist can't be done without a small logistical challenge. Black Mesa respects tradition: d'abord le combat, puis le travail comme chargeur, sans salaire.
+Quand la voie est libre, il y a encore une chose à faire. Reculez. Parce que même sauver un scientifique brillant ne peut pas être fait sans un petit défi logistique. Black Mesa respecte la tradition: d'abord le combat, puis travailler comme chargeur, sans salaire.
 
-Alors sois prêt, Sam.
+Sois prêt, Sam.

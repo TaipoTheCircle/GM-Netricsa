@@ -1,15 +1,15 @@
-MAINS
+PANNEAUX
 
 
-WEAPON:      HANDS
-AMMUNITION: Aucun (combat au corps à corps)
-ROF: ~90 frappes/min
+ARME:      PANNEAUX
+AMMUNITION:  Aucune (bataille manuelle)
+CADENCE DE TIR:         ~90 grèves/min
 
 DESCRIPTION:
 
-L'évolution a donné aux primates des mains et des doigts. Ces mains peuvent être utilisées pour saisir des objets, explorer le monde qui les entoure et, bien sûr, se battre.
+L'évolution a donné des mains de primates avec des doigts. Ces mains peuvent être utilisées pour saisir des objets, explorer le monde qui les entoure et, bien sûr, se battre.
 
-NOTES:
+REMARQUES:
 
-- Frapper trop fort peut provoquer de la fatigue.
-- Pour un combat efficace, il est préférable d'utiliser diverses techniques. Par exemple, après le blocage, enchaînez avec un coup puissant sur la mâchoire.
+- Trop de coups peut causer de la fatigue.
+- Pour un combat efficace, il est préférable d'utiliser une variété de techniques. Par exemple, après avoir bloqué, suivre avec un coup puissant à la mâchoire.

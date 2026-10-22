@@ -1,4 +1,4 @@
-BLACK MESA, GUARD'S BRIEFING - PART 4
+MESA BLACK, BREF DE GUARD - PARTIE 4
 
 
 Vous avez déjà un instructeur.

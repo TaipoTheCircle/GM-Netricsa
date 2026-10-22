@@ -1,33 +1,33 @@
-ENDERMAN AUX YEUX VERTS DE LA FIN DE MINECRAFT
+ENDERMAN VERT DU MINECRAFT FIN
 
 
-CLASS: Enderman aux yeux verts
-METABOLISM: Extraterrestre mystérieux
-PERCEPTION: Foule de téléportation neutre
-SIZE: 9,5 pieds
-ENDURANCE: Haut
-HOSTITUDE: Neutre
-WEAPONS: Punch
-REWARD: 2000 FC
-THREAT: Haut
+CLASSE:      Enderman aux yeux verts
+MÉTABOLISME: Alien mystérieux
+PERCEPTION: Neutre Teleporting Mob
+TAILLE:       9,5 pieds
+ENDURANCE:  Haut
+HOSTITUDE:  Neutre
+ARMES:    Punch
+RÉCOMPENSE:     2000 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Il s'agit de la version originale du même Enderman, mais elle n'était disponible que dans la première pré-version de la mise à jour Beta 1.8.
+C'est la version originale de la même Enderman, mais elle n'était disponible que lors de la première pré-édition de la mise à jour Beta 1.8.
 
-Its appearance was just as intimidating: un corps long, mince, complètement noir, des particules de portail violettes, de la fumée et des yeux noirs, mais les yeux étaient verts. À l'origine, lorsque Notch a ajouté l'Enderman pour la première fois, il a choisi cette couleur pour eux.
+Its appearance was just as intimidating: un corps long, mince, complètement noir, des particules porte pourpre, de la fumée noire et des yeux, mais les yeux étaient verts. À l'origine, quand Notch a ajouté l'Enderman, il a choisi cette couleur pour eux.
 
-Why did the developer initially choose green and then change it to purple in the final Beta 1.8 release? It's not exactly clear. Jens Bergensten (Jeb) said this in an interview: "Un matin, Notch m'a dit : 'Oh, j'ai réglé la couleur des yeux, ils devraient être violets maintenant.' J'ai dit : « OK ». Et j'y pense encore. Pourquoi?" Très probablement, cela a été fait par souci de cohérence avec les portails et particules Ender, qui venaient de passer au violet.
+Pourquoi le développeur a-t-il initialement choisi le vert et ensuite le changer en violet dans la version finale de Beta 1.8 ? Ce n'est pas très clair. Jens Bergensten (Jeb) a dit ceci dans une interview: "Un matin, Notch m'a dit, 'Oh, je fixe la couleur des yeux, ils devraient être violet maintenant.' J'ai dit, "OK". Et j'y pense toujours. Pourquoi ?" Très probablement, cela a été fait pour la cohérence avec les portails et les particules Ender, qui venaient de changer en violet.
 
-Les yeux verts ne sont pas qu’un simple changement de couleur. Ils déclenchent toute une chaîne d’incohérences dans le jeu moderne. Après tout, c'est grâce à elles que les Ender Pearls, lâchées par les Endermen, restent vertes jusqu'à ce jour.
+Les yeux verts ne sont pas simplement un changement de couleur. Ils déclenchent toute une chaîne d'incohérences dans le jeu moderne. Après tout, c'est grâce à eux que Ender Pearls, lâché par Endermen, reste vert jusqu'à ce jour.
 
-But green isn't the only difference with the Progenitor. Its behavior was far more destructive. Endermen could lift absolutely any block, including bedrock. Imagine this: un enderman vient la nuit et vole un morceau de votre mur d'obsidienne impénétrable ou du sol du monde. Plus tard, lorsque les joueurs ont commencé à se plaindre en masse des trous dans le terrain, Notch a dû sérieusement nerfer cette capacité, lui permettant de voler uniquement certains types de blocs.
+Mais le vert n'est pas la seule différence avec le Progéniteur. Son comportement était beaucoup plus destructeur. Endermen pourrait soulever n'importe quel bloc, y compris le substratum. Imaginez ceci: un enderman vient la nuit et vole un morceau de votre mur obsidien impénétrable ou le sol du monde. Plus tard, lorsque les joueurs ont commencé à se plaindre en masse des trous dans le terrain, Notch a dû sérieusement nerf cette capacité, lui permettant de voler seulement certains types de blocs.
 
-TIPS: 
+CONSEILS:
 
 - Nous avons brisé le quatrième mur.
-- Vous ne rencontrerez pas cet enderman dans la version officielle du jeu. Il a été complètement remplacé par une version violette il y a plus de dix ans.
-- If you're playing on the ancient Beta 1.8 pre-release, be careful: non seulement il est méchant, mais il peut aussi voler votre maison bloc par bloc.
-- Un joueur moderne ne peut le voir qu'à travers des mods, des packs de textures ou dans des vidéos d'archives.
-- Les Ender Pearls restent vertes en hommage à cette ancienne version. C'est une sorte de "bonjour du passé".
-- Despite the difference in eye color, the tactics for fighting him are the same as with a regular enderman: ne le regarde pas dans les yeux et il a peur de l'eau.
+- Vous ne rencontrerez pas cet enderman dans la version officielle du jeu. Il a été complètement remplacé par une version pourpre il y a plus de dix ans.
+- Si vous jouez sur l'ancienne version de Beta 1.8, soyez prudent: non seulement il est mauvais, mais il peut aussi voler votre maison bloc par bloc.
+- Un joueur moderne ne peut le voir qu'à travers des mods, des packs de texture ou des vidéos d'archives.
+- Ender Pearls reste vert en hommage à cette ancienne version. C'est une sorte de "bonjour du passé".
+- Malgré la différence de couleur des yeux, les tactiques pour le combattre sont les mêmes qu'avec un enderman régulier: ne regardez pas dans ses yeux et il a peur de l'eau.

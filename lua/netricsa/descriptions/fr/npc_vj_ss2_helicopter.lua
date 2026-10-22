@@ -1,24 +1,24 @@
-HÉLICOPTÈRE D'ATTAQUE KOZAK AHA-C64
+KOZAK AHA-C64 ATTACK HELICOPTER
 
 
-CLASS: Hélicoptère d'attaque Kozak aHa-C64
-METABOLISM: Avion habité
+CLASSE:      Hélicoptère d'attaque Kozak aHa-C64
+MÉTABOLISME: Aéronefs à équipage
 PERCEPTION: Hélicoptère d'attaque
-SIZE: 14 pieds
-ENDURANCE: Moyen
-HOSTILITY: Moyen
-WEAPONS: Mitrailleuses, Roquettes
-REWARD: 100 FC
-THREAT: Haut
+TAILLE:       14 pieds
+ENDURANCE:  Moyenne 
+HOSTILITÉ:  Moyenne 
+ARMES:    Armes automatiques, fusées
+RÉCOMPENSE:     100 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-L'hélicoptère d'attaque d'infanterie de classe Kozak aHa-C64 est le dernier avion de la gamme Mental. Bien que légèrement blindé et dépourvu des capacités de régénération d'un hélicoptère Technopolip, le Kozak est extrêmement maniable et très rapide.
+L'hélicoptère d'infanterie Kozak aHa-C64 est le dernier avion de la ligne Mental. Bien que légèrement blindé et dépourvu des capacités régénératives d'un hélicoptère Technopolip, le Kozak est extrêmement maniable et très rapide.
 
-Les Kozaks mitrailleront leur cible tout en l'abattant avec leurs mitrailleuses et leurs roquettes. Ils devraient être des cibles prioritaires sur le champ de bataille : vos ennemis ne tiendront pas longtemps sans leur soutien aérien.
+Kozaks sillonnera leur cible tout en l'abattant avec leurs mitrailleuses et leurs roquettes. Ils devraient être des cibles prioritaires sur le champ de bataille - vos ennemis ne dureront pas longtemps sans leur soutien aérien.
 
-TIPS: 
+CONSEILS:
 
-- Sa vitesse élevée lui permet d'esquiver la plupart de vos armes à projectiles.
-- Abattez-le avec des balles, de préférence avec un minigun ou un fusil de sniper.
-- Mettez-vous à l'abri de ses attaques et restez loin - il est imprécis à longue distance.
+- Sa grande vitesse lui permet d'éviter la plupart de vos armes projectiles.
+- Tirez dessus avec des balles, préférablement avec un mini-gun ou un fusil de sniper.
+- Couvrez-vous de ses attaques et restez loin - il est inexact à de longues distances.

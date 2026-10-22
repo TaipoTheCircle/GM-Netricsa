@@ -1,26 +1,26 @@
-COD FROM THE MINECRAFT OVERWORLD
+COD DE LA SURVEILLANCE MINECRAFT
 
 
-CLASS: Morue
-METABOLISM: Créature aquatique à sang froid
+CLASSE:      Cod
+MÉTABOLISME: Créature aquatique à sang froid
 PERCEPTION: Poisson
-SIZE: 1,6 pi
-ENDURANCE: Faible
-HOSTILITY: Faible
-WEAPONS: Aucun
-REWARD:     10 FC
-THREAT: Faible
+TAILLE:       1,6 ft
+ENDURANCE:  Faible
+HOSTILITÉ:  Faible
+ARMES:    Aucune
+RÉCOMPENSE:     10 FC
+MENACE:     Faible
 
 DESCRIPTION:
 
-La morue est un poisson paisible originaire des plans d'eau douce du monde de Minecraft.
+La morue est un poisson paisible originaire des masses d'eau douce du monde entier de Minecraft.
 
-La morue ne réagit presque jamais de manière agressive.
+La morue ne réagit presque jamais agressivement.
 
-Ils sont l’un des habitants aquatiques les plus communs et peuvent être trouvés seuls ou en grands groupes.
+Ils sont l'un des habitants aquatiques les plus communs et peuvent être trouvés à la fois seul et en grands groupes.
 
-TIPS:
+CONSEILS:
 
-- Attraper la morue est un moyen facile d'obtenir de la nourriture.
-- La cuisson de la morue redonne faim et santé.
+- C'est facile d'attraper de la morue.
+- La cuisson de la morue restaure la faim et la santé.
 - Vulnérable sur terre.

@@ -1,28 +1,28 @@
-ESSAI DE DRONE
+MÉDICAMENTS
 
 
-CLASSE : Drone essaim
-MÉTABOLISME : Xénobiologique
-PERCEPTION : Meute Prédateur
-TAILLE : 6,5 pieds
-ENDURANCE : Faible
-HOSTILITÉ : Très élevée
-ARMES : Griffes en forme de faucille
-RÉCOMPENSE : 200 FC
-MENACE : modérée
+CLASSE:        Swarm Drone
+MÉTABOLISME:   Xénobiologique
+PERCEPTION:   Prédateur de conditionnement
+TAILLE:         6,5 pieds
+ENDURANCE:    Faible
+HOSTILITÉ:    Très élevé
+ARMES:      Griffes ressemblant à une faucille
+RÉCOMPENSE:       200 FC
+MENACE:       Modéré
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Ils constituent l’épine dorsale de toute armée Swarm. On les rencontre le plus souvent au milieu des ruines des colonies, dans les puits de ventilation, les tunnels et autres endroits où il est déjà trop tard pour qu'un être sensible se trouve.
+Ils forment l'épine dorsale de toute armée de swarm. On les rencontre le plus souvent au milieu des ruines des colonies, dans des puits de ventilation, des tunnels et d'autres endroits où il est déjà trop tard pour qu'un être sentient soit.
 
-Malgré un physique relativement fragile, le drone est capable d'atteindre des vitesses élevées et de frapper avec quatre longues griffes, des griffes capables d'ouvrir une exocombinaison légère plus rapidement que son porteur ne peut se plaindre de ses conditions de travail.
+Malgré un physique relativement fragile, le Drone est capable de vitesse élevée et frappe avec quatre longues griffes qui peuvent déchirer une combinaison légère plus rapidement que son porteur peut se plaindre de leurs conditions de travail.
 
-La biologie exacte des drones reste un sujet de débat. Certains scientifiques les considèrent comme des spécimens ouvriers adultes de l’Essaim. D'autres émettent l'hypothèse qu'ils ne constituent qu'un stade intermédiaire de développement de créatures plus grandes. Les Drones eux-mêmes ne participent pas à la discussion, préférant utiliser leurs griffes plutôt que leurs arguments.
+La biologie exacte des drones reste un sujet de débat. Certains scientifiques les considèrent comme des spécimens d'ouvriers adultes du Swarm. D'autres pensent qu'ils ne sont qu'un stade de développement intermédiaire des grandes créatures. Les Drones eux-mêmes ne participent pas à la discussion, préférant utiliser leurs griffes plutôt que leurs arguments.
 
-La force première de ces créatures ne réside pas dans leurs traits individuels, mais dans leur nombre. Un seul Drone pose rarement un problème sérieux. Cinquante Drones sont généralement d’un avis opposé.
+La force première de ces créatures ne réside pas dans les traits individuels, mais en nombres. Un seul drone pose rarement un problème grave. Cinquante drones ont généralement l'opinion opposée.
 
-CONSEILS :
+CONSEILS:
 
-- Ne laissez pas l'Essaim vous entourer.
-- Les lance-flammes et les armes automatiques sont excellents pour réduire la population de drones.
-- Si vous voyez un drone, regardez autour de vous. Les autres sont généralement déjà juste derrière.
+- Ne laissez pas le Swarm vous entourer.
+- Les lance-flammes et les armes automatiques sont excellents pour éclaircir la population de Drone.
+- Si vous voyez un drone, regardez autour de vous. Les autres sont généralement déjà proches derrière.

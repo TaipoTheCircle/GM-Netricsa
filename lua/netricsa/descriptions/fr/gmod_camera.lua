@@ -1,15 +1,15 @@
-CAMÉRA GMOD
+CAMERA DE LA MÉDICAMENT
 
 
-WEAPON: Outil Caméra
+ARME: Outil de caméra
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Outil utilitaire utilisé pour capturer des images et enregistrer des scènes dans le jeu. Permet de prendre des captures d'écran sous n'importe quel angle, d'ajuster le zoom et de contrôler la mise au point. Principalement destiné au contenu créatif et à la documentation plutôt qu'au combat.
+Outil d'utilité utilisé pour capturer des images et enregistrer des scènes dans le jeu. Permet de prendre des captures d'écran de n'importe quel angle, d'ajuster le zoom et de contrôler la mise au point. Principalement destiné au contenu créatif et à la documentation plutôt qu'au combat.
 
-NOTES: 
+REMARQUES:
 
-- Utilisation infinie ; aucune munition requise.
-- Champ de vision et zoom réglables.
-- Peut être combiné avec d'autres outils pour des prises de vue cinématiques.
-- Non mortel ; utilité purement créative.
+- Utilisation infinie; pas de munitions nécessaires.
+- Champ de vision réglable et zoom.
+- Peut être combiné avec d'autres outils pour les clichés cinématographiques.
+- Non létal; utilité purement créative.

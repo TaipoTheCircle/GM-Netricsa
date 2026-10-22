@@ -1,16 +1,16 @@
-JUMELLES
+BINOCULAIRES
 
 
-ITEM: Jumelles (appareil optique)
-AMMO: Aucun
-OPTICS: Grossissement typique 4×-10×+ / diamètre de l'objectif 25-50 mm
+ITEM: Jumelles (dispositif optique)
+MUNITIONS: Aucune
+OPTICS: Grossissement typique 4×-10×+ / diamètre objectif 25-50 mm
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un instrument optique composé de deux tubes d'observation parallèles pour l'observation binoculaire (à deux yeux) ; fournit une image stéréoscopique et agrandit les objets distants. Utilisé dans des rôles civils, sportifs, astronomiques, navals et militaires ; certains modèles incluent des télémètres, des boussoles, une vision nocturne ou une gyrostabilisation.
+Un instrument optique composé de deux tubes de vision parallèles pour l'observation binoculaire (à deux yeux); fournit une image stéréoscopique et grossit des objets éloignés. Utilisé dans les rôles civils, sportifs, astronomiques, navals et militaires; certains modèles comprennent des télémètres, des boussoles, une vision nocturne ou une gyro-stabilisation.
 
-NOTES: 
+REMARQUES:
 
-- Les spécifications clés sont le grossissement et le diamètre de l'objectif ; « 10×40 » = grossissement 10× et objectif 40 mm.
-- Pupille de sortie = diamètre de l'objectif ÷ grossissement ; important pour les performances en basse lumière (pupille de sortie utile typique ≈4-7 mm en fonction de la lumière ambiante et de l'âge du spectateur).
-- Facteur crépusculaire = √ (grossissement × diamètre de l'objectif) - un indicateur approximatif des performances au crépuscule (ne remplace pas les revêtements antireflet de qualité).
+- Les caractéristiques clés sont le grossissement et le diamètre objectif ; 10 × 40 = 10 × grossissement et 40 mm objectif.
+- Élève de sortie = diamètre objectif ÷ grossissement; important pour les performances de faible luminosité (Élève de sortie utile typique ÷4-7 mm selon la lumière ambiante et l'âge du spectateur).
+- Facteur de crépuscule = √(amplification × diamètre objectif) - indicateur approximatif de performance de crépuscule (ne remplace pas les revêtements antireflets de qualité).

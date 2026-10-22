@@ -1,23 +1,23 @@
-LE FIEND DES MARAIS DE RIGIL KENTAURUS
+FICHIER MARS DE LA KENTAURE RIGILE
 
 
-CLASS: Démon des marais
-METABOLISM: Reptile amphibien
-PERCEPTION: Animal sauvage
-SIZE: 3 pieds
-ENDURANCE: Faible
-HOSTILITY: Haut
-WEAPONS: Crocs, griffes
-REWARD: 50 FC
-THREAT: Faible à moyen (selon le nombre)
+CLASSE:      Marsh Fiend
+MÉTABOLISME: Reptile amphibiens
+PERCEPTION: Animaux sauvages
+TAILLE:       3 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Haut
+ARMES:    Fangs, griffes
+RÉCOMPENSE:     50 FC
+MENACE:     Faible à moyen (selon le nombre)
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les Marsh-Fiends sont originaires des mondes déserts remplis de marais de Rigil Kentaurus. Ils se cachent généralement près de l’eau, attendant que leurs proies s’approchent et boivent avant de frapper.
-Mental a assimilé ces créatures dans sa Horde aux côtés de leurs cousins ​​Marsh-Hopper. En raison de la vitesse extrême à laquelle ils se reproduisent, Mental peut se permettre d’envoyer essaim après essaim contre ses ennemis.
-Leurs seules méthodes d’attaque sont de se précipiter et de mordre. Tant que vous gardez vos distances et que vous les abattez, tout ira bien.
+Marsh-Fiends proviennent du monde des friches des marais de Rigil Kentaurus. Ils s'approchent généralement de l'eau, attendant que leur proie s'approche et boit avant de frapper.
+Mental assimilé ces creatueres dans sa Horde aux côtés de leurs cousins Marsh-Hopper. En raison de la vitesse extrême à laquelle ils se reproduisent, Mental peut se permettre d'envoyer un essaim après essaim contre ses ennemis.
+Leurs seules méthodes d'attaque sont en train d'avancer et de mordre. Tant que tu gardes tes distances et que tu les abattes, ça ira.
 
-TIPS: 
+CONSEILS:
 
-- Vous ne pouvez pas les distancer, ils finiront par vous rattraper. Abattez-les pendant qu'ils sont loin.
-- Utilisez vos fusils de chasse pour vous occuper de petits groupes d'entre eux et vos explosifs pour vous occuper de plus grands essaims.
+- Tu ne peux pas les dépasser, ils finiront par te rattraper. Tuez-les tant qu'ils sont loin.
+- Utilisez vos fusils de chasse pour traiter de petits groupes d'entre eux, et des explosifs pour prendre soin de gros essaims.

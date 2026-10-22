@@ -1,21 +1,21 @@
-CHEMIN DE XEN
+ROYAUME DE XEN
 
 
-CLASS: Pivot principal
-METABOLISM: Inconnu
+CLASSE:      Roipin
+MÉTABOLISME: Inconnu
 PERCEPTION: Entité psionique de Xen
-SIZE: 12-15 pieds
-ENDURANCE: Haut
-HOSTILITY: Haut
-WEAPONS: Explosions psioniques, contrôle mental
-REWARD: 4000FC
-THREAT: Haut
+TAILLE:       12-15 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Haut
+ARMES:    Blastes psioniques, contrôle mental
+RÉCOMPENSE:     4000 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Kingpin est une entité massive et psioniquement puissante de Xen, conçue pour le combat et le contrôle. Son corps est dominé par un énorme cerveau, avec quatre yeux uniformément espacés autour de sa tête. Il marche sur la patte arrière avec une queue épaisse en forme de ver. Le Kingpin se trouve dans les grottes de Xen, où il utiliserait ses capacités psioniques pour défendre son territoire.
+Le Kingpin est une entité massive, psionnellement puissante de Xen, conçue pour le combat et le contrôle. Son corps est dominé par un énorme cerveau, avec quatre yeux uniformément espacés autour de sa tête. Il marche sur la jambe arrière avec une queue épaisse, semblable à un ver. Le Kingpin se trouve dans les grottes de Xen, où il utiliserait ses capacités psioniques pour défendre son territoire.
 
-TIPS: 
+CONSEILS:
 
-- En raison de leur nature psionique, les armes conventionnelles peuvent s'avérer inefficaces.
-- Évitez les proximités rapprochées ; ses capacités de contrôle mental peuvent être écrasantes.
+- En raison de sa nature psionique, les armes classiques peuvent être inefficaces.
+- Éviter la proximité; ses capacités de contrôle mental peuvent être écrasantes.

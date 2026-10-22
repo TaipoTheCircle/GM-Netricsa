@@ -1,27 +1,27 @@
-COMBINER LE GIGN DE PROTECTION CIVILE
+GIGNE DE PROTECTION CIVILE COMBINE
 
 
-CLASS: Combiner Protection Civile GIGN
-METABOLISM: Humain, mâle
-PERCEPTION: Unité antiterroriste d'élite
-SIZE: 5,9 pieds
-ENDURANCE: Haut
-HOSTILITY: Haut
-WEAPONS: SMG, pistolet, MP40
-REWARD: 700FC
-THREAT: Haut
+CLASSE:      Combiner la protection civile GIGN
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Unité antiterroriste Elite
+TAILLE:       5,9 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Haut
+ARMES:    SMG, pistolet, MP40
+RÉCOMPENSE:     700 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine Protection Civile GIGN est composé d'anciens combattants de la légendaire unité antiterroriste française "Groupe d'Intervention de la Gendarmerie Nationale" (GIGN), qui ont survécu à l'Occupation et ont été presque entièrement recrutés par le Combine. Leur formation, leur discipline et leur expérience des opérations urbaines ont été jugées par le Combine « parfaitement adaptées à la tâche de suppression de la résistance humaine ».
+Combiner la protection civile GIGN est un ancien combattant de la légendaire unité anti-terroriste française "Groupe d'Intervention de la Gendarmerie Nationale" (GIGN), qui a survécu à l'occupation et a été recruté presque entièrement par le Combine. Leur formation, leur discipline et leur expérience dans les opérations urbaines ont été jugées par le Combine « parfaitement adaptées à la tâche de supprimer la résistance humaine »
 
-Les soldats du GIGN opèrent en petits groupes tactiques, employant une couverture efficace, des manœuvres d'assaut et des attaques synchronisées. Ils ne comptent pas sur la force brute, préférant la précision, la vitesse et la connaissance de la situation. Ils communiquent directement avec le quartier général de Combine, leur permettant de recevoir rapidement des ordres, des mises à jour de la situation et des coordonnées des cibles.
+Les troupes de GIGN opèrent en petits groupes tactiques, utilisant une couverture efficace, des manœuvres d'assaut et des attaques synchronisées. Ils ne comptent pas sur la force brute, préférant la précision, la vitesse et la conscience de la situation. Ils communiquent directement avec le siège social Combine, leur permettant de recevoir rapidement des commandes, des mises à jour de situation et des coordonnées de cibles.
 
-Leur équipement combine des éléments d'anciennes tactiques terriennes avec la technologie Combine.
+Leur équipement combine des éléments de la tactique Terran antique avec la technologie Combiner.
 
-Bien qu'ils soient au service du Combine, certains soldats du GIGN se souviennent de leur objectif initial : protéger les civils.
+Malgré le service du Combiné, certains soldats du GIGN se souviennent de leur intention initiale de protéger les civils.
 
-TIPS: 
+CONSEILS:
 
-- N'engagez pas de front le GIGN Excel dans des espaces restreints et à couvert.
-- Ils utilisent activement les manœuvres de flanc et la coordination.
+- N'engagez pas tête contre tête dans les espaces serrés et derrière la couverture.
+- Ils utilisent activement les manœuvres d'accompagnement et la coordination.

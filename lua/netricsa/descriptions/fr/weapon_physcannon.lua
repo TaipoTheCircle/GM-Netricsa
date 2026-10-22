@@ -1,16 +1,16 @@
-PISTOLET À GRAVITÉ
+GAUCHE
 
 
-WEAPON: Manipulateur de champ d'énergie du point zéro (pistolet à gravité)
-AMMO: Aucun (manipule les objets physiques)
+ARME:      Manipulateur de champ d'énergie Zero Point (Gun de gravité)
+MUNITIONS:        Aucun (manipule des objets de physique)
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Outil expérimental capable de ramasser, de maintenir et de lancer des objets avec une force immense. Peut être utilisé à la fois pour le combat et pour résoudre des énigmes en manipulant l'environnement. Intégral pour contrôler les objets lourds ou dangereux à une distance de sécurité.
+Outil expérimental capable de ramasser, tenir et lancer des objets avec une force immense. Peut être utilisé à la fois pour le combat et la résolution de puzzles en manipulant l'environnement. Intégral pour contrôler les objets lourds ou dangereux à une distance sûre.
 
-NOTES: 
+REMARQUES:
 
-- Pas de munitions traditionnelles ; s'appuie sur des objets physiques dans l'environnement.
+- Pas de munitions traditionnelles; s'appuie sur des objets physiques dans l'environnement.
 - Peut lancer des débris et des ennemis avec une force mortelle.
-- Indispensable pour l'interaction environnementale et la résolution créative de problèmes.
-- Évolutif pour augmenter la puissance nécessaire au lancement d'objets plus gros.
+- Essentiel pour l'interaction environnementale et la résolution créative de problèmes.
+- Mise à niveau pour augmenter la puissance pour lancer des objets plus grands.

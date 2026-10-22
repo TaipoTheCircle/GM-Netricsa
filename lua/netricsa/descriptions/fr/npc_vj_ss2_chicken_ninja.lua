@@ -1,25 +1,25 @@
-POULET NINJA DU CHI-FANG
+NINJA POULET DU FANG
 
 
-CLASSE : Poulet NInja
-MÉTABOLISME : Oiseau à sang chaud
-PERCEPTION : Tueur de lapins furtif, vengeur à plumes
-TAILLE : 1,64 pi
-ENDURANCE : Moyenne
-HOSTILITÉ : Moyenne
-ARMES : Katana, Scies
-RÉCOMPENSE : 1000 FC
-MENACE : Moyenne
+CLASSE:        Poulet de Ninja
+MÉTABOLISME:   Oiseau chaud
+PERCEPTION:   Tueur de lapins volés, Vengeur en plumes
+TAILLE:         1,64 ft
+ENDURANCE:    Moyenne
+HOSTILITÉ:    Moyenne
+ARMES:      Katana, Scies
+RÉCOMPENSE:       1000 FC
+MENACE:       Moyenne
 
-DESCRIPTIF :
+DESCRIPTION:
 
-À première vue, il ressemble à un poulet ordinaire, mais sous ce corps à plumes se cache le chemin d'un véritable ninja pavé de sang et de larmes.
+À première vue, il ressemble à un poulet ordinaire, moyen, mais sous ce corps à plumes se trouve le chemin d'un vrai ninja-pavé de sang et de larmes.
 
-Depuis la petite enfance, son village était en proie à des invasions de lapins ninja qui massacraient tout le monde sur leur passage. Ayant perdu tout ce qu'il contenait : sa famille, ses amis, son gîte préféré et même son bol à céréales-
+Depuis la petite enfance, son village est en proie à des invasions de lapins ninjas qui tuent tout le monde sur leur chemin. Ayant perdu tout ce qu'il tenait de sa chère famille, ses amis, son coq préféré, et même son bol à grains..
 
-l'oiseau a juré : tout lapin qu'il rencontrerait serait tué.
+the bird swore an oath: chaque lapin rencontré serait tué.
 
-CONSEILS :
+CONSEILS:
 
-- Les lapins ninja ont peur de l'obscurité, car ils savent ce qui s'y cache.
-- Ne demandez jamais à une poule ninja où sont les œufs.
+- Les lapins ninjas craignent le noir, car ils savent ce qu'il y a dedans.
+- Ne demande jamais à un poulet ninja où sont les œufs.

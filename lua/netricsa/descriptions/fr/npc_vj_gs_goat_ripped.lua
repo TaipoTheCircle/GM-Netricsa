@@ -1,22 +1,22 @@
-CHÈVRE DÉCHIRÉE DE GOATVILLE
+GOAT RIPPED DE GOATVILLE
 
 
-CLASS: Chèvre déchirée
-METABOLISM: Une centrale électrique alimentée par les protéines
-PERCEPTION: Mutant mammifère ongulé
-SIZE: ~ 4 pieds aux épaules, très musclé
-ENDURANCE: Très élevé
-HOSTILITY: Extrême
-WEAPONS: Coup de tête super puissant, coups de pied dévastateurs, ravages ragdoll
-REWARD: 300FC
-THREAT: Haut
+CLASSE:      Chèvres déchirés
+MÉTABOLISME: Centrale à protéines
+PERCEPTION: Mutant de mammifères ongulés
+TAILLE:       ~4 pieds aux épaules, musclé
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Extrême
+ARMES:    Tête super-forte, coups de pied dévastateurs, ragdoll ravage
+RÉCOMPENSE:     300 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-La Chèvre Ripped de Goatville est la forme ultime du chaos caprin : une bête monstrueusement musclée dont chaque mouvement laisse la destruction dans son sillage. Contrairement au Classic Goat, celui-ci a été doté d'une puissance impossible, ce qui le rend capable de lancer des voitures comme des jouets et d'envoyer des ennemis voler à travers le monde d'un seul coup de tête.
+La Chèvre Rippée de Goatville est la forme ultime du chaos des chèvres - une bête monstrueusement musclée dont chaque mouvement laisse la destruction dans son sillage. Contrairement à la chèvre classique, celle-ci a été pompée avec une puissance impossible, ce qui la rend capable de jeter des voitures comme des jouets et d'envoyer des ennemis voler à travers le monde avec un seul culot.
 
-It thrives on chaos: renverser des véhicules, briser des clôtures et démolir tout ce qui a la malchance d'être à proximité. Une apocalypse en forme de chèvre.
+It thrives on chaos: des véhicules en marche, des clôtures cassées, et la démolition de tout ce qui est malchanceux pour être proche. Une apocalypse en forme de chèvre.
 
-TIPS: 
+CONSEILS:
 
-- Never confront head-on: son coup de tête est mortel.
+- Ne jamais affronter la tête : son cul est mortel.

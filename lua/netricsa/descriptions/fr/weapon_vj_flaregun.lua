@@ -1,17 +1,17 @@
-PISTOLET FLARE
+FEUILLES
 
 
-WEAPON: Pistolet lance-fusées
-AMMO: Fusées de signalisation
-ROF: ~6 tours/min
+ARME:      Flacon
+MUNITIONS:        Feux de signalisation
+CADENCE DE TIR:         ~6 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Arme à feu à un coup qui lance des fusées éclairantes à incandescence. Principalement utilisé pour signaler, éclairer ou distraire temporairement les ennemis. Peut mettre le feu à des objets inflammables s’il est visé avec précaution.
+Une seule arme à feu qui lance des fusées éclairantes. Principalement utilisé pour la signalisation, l'éclairage, ou la distraction temporaire des ennemis. Peut mettre le feu à des objets inflammables s'ils sont soigneusement dirigés.
 
-NOTES: 
+REMARQUES:
 
-- Munitions limitées ; chaque tir consomme une fusée éclairante.
-- Efficace pour éclairer les zones sombres ou marquer des positions.
-- Peut causer des dégâts de feu mineurs aux ennemis et à l'environnement.
-- Ne convient pas aux combats soutenus ; arme principalement utilitaire.
+- Des munitions limitées; chaque tir consomme une fusée.
+- Efficace pour éclairer les zones sombres ou les positions de marquage.
+- Peut causer des dommages mineurs aux ennemis et à l'environnement.
+- Ne convient pas à un combat soutenu; en premier lieu, une arme utilitaire.

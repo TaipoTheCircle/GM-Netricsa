@@ -1,18 +1,18 @@
-AGS-30 AUTOMATIC GRENADE LAUNCHER
+AGS-30 GRENADE AUTOMATIQUE LAUNCHER
 
 
-WEAPON:      AGS-30
-AMMUNITION: Cartouches de 30 mm
-ROF: ~400 tours/min
+ARME:      AGS-30
+AMMUNITION:  cartouches de 30 mm
+CADENCE DE TIR:         ~400 tours/min
 
 DESCRIPTION:
 
 Lance-grenades automatique russe de 30 mm. Développé au début des années 1990 au Tula Instrument Design Bureau pour remplacer le lance-grenades AGS-17.
 
-NOTES:
+REMARQUES:
 
-- Vous pouvez faire pleuvoir des grenades sur l'ennemi.
-- Mieux vaut faire attention avec ce truc, tu pourrais te faire exploser.
+- Vous pouvez pleuvoir des grenades sur l'ennemi.
+- Fais attention avec ce truc, tu peux te faire exploser.
 
 
 

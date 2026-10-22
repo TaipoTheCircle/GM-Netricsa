@@ -1,31 +1,32 @@
-WHITE BULLSOLDIER
+BULLSOLDIER BLANC
 
 
-CLASSE:      White Bullsoldier
-MÉTABOLISME: Mammalien
-PERCEPTION:  Soldat entraîné
-TAILLE:      3,6 m (12 pieds)
-ENDURANCE:   Moyenne
-HOSTILITÉ:   Moyenne
-ARMES:       Lance-roquettes doubles
-RÉCOMPENSE:  200 FC
-MENACE:      Moyenne
+CLASSE:      Taureau blanc
+MÉTABOLISME: Mammifère
+PERCEPTION: Soldat formé
+TAILLE:       12 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Moyenne
+ARMES:    Lance-roquettes doubles
+RÉCOMPENSE:     200 FC
+MENACE:     Moyenne
 
-DESCRIPTION :
+DESCRIPTION:
 
-Il s'agit d'hybrides grands et musclés, issus du croisement entre du bétail sirien et des humanoïdes. Ils dominent la plupart des autres soldats et peuvent encaisser de nombreux coups avant de s'effondrer.
+Ce sont de grands hybrides musculaires de bovins siriens et d'humanoïdes. Ils dominent la plupart des autres soldats et peuvent résister à beaucoup de coups avant de s'effondrer.
 
-Leurs jambes ne font pas réellement partie de leur corps d'origine ; il s'agit de jambes d'arts martiaux (prélevées après amputation) qui leur ont été greffées.
+Leurs jambes ne font pas partie de leur propre corps, mais sont les jambes d'artistes martiaux (après qu'ils aient été coupés) cousues sur eux.
 
-Ils se sont révélés très efficaces au combat, et les commandants de Mental ont commencé à les utiliser plus fréquemment.
+Ils se sont révélés très efficaces au combat, et les commandants mentaux ont commencé à les utiliser plus fréquemment.
 
-On les aperçoit souvent à l'arrière ou au sommet de structures élevées, tirant sur les ennemis à distance. Toutefois, ne vous attendez pas à ce qu'ils évitent le corps à corps.
+Ils peuvent souvent être vus à l'arrière ou au sommet de structures hautes, tirant sur les ennemis de loin. Cependant, ne vous attendez pas à ce qu'ils évitent les combats rapprochés.
 
-Comme vous l'avez sans doute remarqué à sa couleur, cette unité appartient au programme secret de Mental baptisé « Purge Guard ». Cette initiative d'élite inclut également d'autres types de sbires clés ayant bénéficié d'améliorations génétiques poussées.
+Comme vous l'avez peut-être remarqué de sa couleur, il appartient au programme secret de Mental "Purge Guard". Cette initiative d'élite comprend également d'autres types clés de Minions qui ont subi une augmentation génétique importante.
 
-Cette coloration blanche résulte de l'intégration de nano-alliages et d'une stérilisation chimique des tissus. Ces spécimens possèdent une résistance accrue et un tempérament plus agressif ; ils agissent comme les hommes de main personnels de Mental sur les secteurs les plus difficiles du front.
+La coloration blanche est le résultat de l'intégration des nanoalliages et de la stérilisation des tissus chimiques. Ces spécimens possèdent une durabilité accrue et un tempérament plus agressif, servant d'exécuteurs personnels de Mental sur les secteurs les plus difficiles du front.
 
-CONSEILS :
+CONSEILS:
 
-- Vous pouvez détruire leurs missiles en tirant dessus.
-- Évitez de vous faire toucher le visage par leurs missiles ; l'impact serait très douloureux.
+- Tu peux abattre leurs missiles.
+- Essayez de ne pas laisser leurs missiles vous frapper au visage, ce sera très douloureux.
+

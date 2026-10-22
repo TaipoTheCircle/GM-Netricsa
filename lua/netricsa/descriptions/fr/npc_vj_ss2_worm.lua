@@ -1,32 +1,32 @@
-VER SOUTERRAIN DU MAGNOR
+WORME NON DÉGRÉ PAR LE MAGNOR
 
 
-CLASSE : Ver souterrain
-METABOLISM: Insect
-PERCEPTION : Créature souterraine stationnaire
-TAILLE : 8,2 pieds
-ENDURANCE : Invulnérable
-HOSTILITY:  High
-ARMES : Vomir
-REWARD:     100 FC
-THREAT:     Medium
+CLASSE:      Vers souterrains
+MÉTABOLISME: Insectes
+PERCEPTION: Créature souterraine stationnaire
+TAILLE:       8,2 pi
+ENDURANCE:  Invulnérable
+HOSTILITÉ:  Haut
+ARMES:    Vomissement
+RÉCOMPENSE:     100 FC
+MENACE:     Moyenne
 
-DESCRIPTIF :
+DESCRIPTION:
 
-An extremely unusual specimen of Magnor's insectoid creatures. The Worm has abandoned its normal life cycle and transformed into a kind of living artillery unit, dwelling within walls, caves, and other underground areas.
+Un spécimen extrêmement inhabituel des créatures insectoïdes de Magnor. Le Worm a abandonné son cycle de vie normal et s'est transformé en une sorte d'unité d'artillerie vivante, vivant dans des murs, des grottes et d'autres zones souterraines.
 
-La créature ne quitte presque jamais sa cachette. Son énorme bouche émerge périodiquement du rocher environnant, après quoi le ver crache une grande quantité de vomi vert sur l'ennemi. Un coup inflige des dégâts importants et peut rapidement neutraliser un ennemi imprudent.
+La créature ne quitte presque jamais sa cachette. Son énorme bouche émerge périodiquement de la roche environnante, après quoi le Worm lance une grande quantité de vomi vert à l'ennemi. Un coup inflige des dommages importants et peut rapidement rendre un ennemi insensible.
 
-The attack is cyclical. After each eruption, the Worm pauses for a while before opening its mouth again and launching a new attack. Therefore, when passing through an infested area, you can try to use the gaps between spitting attacks to quickly move to safety.
+L'attaque est cyclique. Après chaque éruption, le Ver s'arrête un moment avant d'ouvrir la bouche et de lancer une nouvelle attaque. Par conséquent, lorsque vous traversez une zone infestée, vous pouvez essayer d'utiliser les écarts entre les attaques de cracher pour rapidement passer à la sécurité.
 
-The main problem is that the Worm is practically impossible to kill. Its organism is so highly resilient that conventional weapons do no harm to it. Except for the SBC Cannon.
+Le problème principal est que le Ver est pratiquement impossible à tuer. Son organisme est si résistant que les armes classiques ne lui font aucun mal. Sauf pour le canon SBC.
 
-Mental personally uses them to create Albino Cyclops.
+Mental les utilise personnellement pour créer Albino Cyclops.
 
-TIPS:
+CONSEILS:
 
-- The SBC Cannon is your best friend against this burping nonsense.
-- Watch for the moment when its mouth opens. This is the main signal for immediate dodge.
-- After spitting, a short window appears during which the Worm is inactive. Use this to move forward.
-- Don't stand in front of her cover and wait for the next attack.
-- If the passage allows, just run past her.
+- Le Cannon du SBC est votre meilleur ami contre ces absurdités.
+- Veille sur le moment où sa bouche s'ouvre. C'est le principal signal pour la distance immédiate.
+- Après avoir craché, une courte fenêtre apparaît pendant laquelle le Ver est inactif. Utilisez ceci pour avancer.
+- Ne vous tenez pas devant sa couverture et attendez la prochaine attaque.
+- Si le passage le permet, passe devant elle.

@@ -1,15 +1,15 @@
-SIX-SEVEN SELF-LOADING PISTOL
+SIX-SEPT PISTOLE AUTOCHTONE
 
 
-WEAPON: FN cinq-sept
-AMMUNITION: Cartouches 9x19
-ROF: ~15 tours/min
+ARME:      FN Cinq-SeveN
+AMMUNITION:  cartouches 9x19 
+CADENCE DE TIR:         ~15 tours/min
 
 DESCRIPTION:
 
-"SIX-SEVEN" - Une modification du pistolet à chargement automatique Five-seveN, conçu pour tirer des cartouches de calibre 9x19.
+"SIX-SEVEN" - Modification du pistolet auto-chargeur Five-SeveN, conçu pour tirer des cartouches de calibre 9x19.
 
-NOTES:
+REMARQUES:
 
 - Le nom SIX-SEVEN fait référence à un mème populaire en 2025.
 

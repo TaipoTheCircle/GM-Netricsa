@@ -1,26 +1,26 @@
-H.E.C.U. SERGENT
+SERGEANT
 
 
-CLASS: H.E.C.U. Sergent
-METABOLISM: Humain, mâle
-PERCEPTION: Infanterie lourde d'élite
-SIZE: ~ 6,4 pieds (fortement blindé)
-ENDURANCE: très élevé
-HOSTILITY: extrême
-WEAPONS: minigun rotatif, entraînement au corps à corps renforcé
-REWARD: 2500FC
-THREAT: grave
+CLASSE:      S.E.C.U. Sergent
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Infanterie lourde Elite
+TAILLE:       ~6,4 pi (hautement blindé)
+ENDURANCE:  très élevé
+HOSTILITÉ:  extrême
+ARMES:    minigune rotative, entraînement en melee renforcé
+RÉCOMPENSE:     2500 FC
+MENACE:     sévère
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le H.E.C.U. Sergeant représente l'infanterie la plus lourde déployée lors d'opérations de confinement à grande échelle. Dominant les marines standards, ces sergents portent un minigun à canon rotatif capable de détruire la couverture et de supprimer des escouades entières avec une puissance de feu écrasante.
+Le sergent de l'U.S.E. représente l'infanterie la plus lourde déployée lors d'opérations de confinement à grande échelle. Au-dessus de la marine standard, ces sergents portent un mini-gun rotative-barrel capable de déchiqueter le couvercle et de supprimer des escouades entières avec une puissance de feu écrasante.
 
-Leur blindage est renforcé pour résister aux tirs d'armes légères, leur permettant d'avancer régulièrement malgré une forte résistance. Contrairement à la plupart des artilleurs lourds, ils sont également entraînés au combat rapproché brutal : les coups écrasants, les couteaux de combat et les techniques de retrait les rendent mortels même si leur minigun est désactivé ou est à sec.
+Leur armure est renforcée pour résister au feu des armes légères, ce qui leur permet de progresser régulièrement sous une forte résistance. Contrairement à la plupart des tireurs lourds, ils sont aussi entraînés à combattre brutalement près de leur quartier - coups écrasants, couteaux de combat et techniques de retrait les rendent mortels même si leur mini-arme est désactivée ou sèche.
 
-Rencontrer une telle unité signifie généralement que le commandement a jugé la zone d’une importance cruciale et ne reculera devant rien pour effacer la résistance.
+Rencontrer une telle unité signifie généralement que la commande a jugé la zone extrêmement importante et ne s'arrêtera à rien pour effacer la résistance.
 
-TIPS: 
+CONSEILS:
 
-- Never face them head-on: leur minigun supprimera et submergera instantanément.
-- Des explosifs ou des tirs coordonnés sont nécessaires pour briser leur blindage.
-- À courte portée, traitez-les aussi dangereux qu'un Alien Grunt - leur mêlée est dévastatrice.
+- Ne leur faites jamais face à la tête : leur mini-gun va se supprimer et s'écraser instantanément.
+- Les explosifs ou les tirs coordonnés sont nécessaires pour briser leur armure.
+- À portée de main, traitez-les aussi dangereux qu'un Alien Grunt - leur mêlée est dévastatrice.

@@ -1,25 +1,25 @@
-COCHON DU MINECRAFT OVERWORLD
+PIG DE L'EXERCICE MINECRAFT
 
 
-CLASS: - Attendez-vous à des embuscades et à des appels de secours via des liaisons radio montantes.
-METABOLISM: Mammifère à sang chaud
-PERCEPTION: Animal sauvage/domestique
-SIZE: 3 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Faible
-WEAPONS: Aucun
-REWARD: 25 FC
-THREAT: Faible
+CLASSE:      Porc
+MÉTABOLISME: Mammifère à sang chaud
+PERCEPTION: Animaux sauvages / domestiques
+TAILLE:       3 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Faible
+ARMES:    Aucune
+RÉCOMPENSE:     25 FC
+MENACE:     Faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les cochons sont des mammifères paisibles qui habitent les plaines, les forêts et d'autres biomes de Minecraft. Ils broutent l’herbe, n’attaquent pas et se trouvent souvent en groupes de 2 à 4.
+Les porcs sont des mammifères paisibles qui habitent les plaines, les forêts et d'autres biomes de Minecraft. Ils paissent sur l'herbe, ne attaquent pas, et sont souvent trouvés dans des groupes de 2-4.
 
-Utilisez une carotte sur un bâton pour contrôler leurs mouvements et multipliez-les avec des carottes, des pommes de terre ou des betteraves.
+Utilisez une carotte sur un bâton pour contrôler leur mouvement et les élever avec des carottes, des pommes de terre ou des betteraves.
 
-Les porcs sont une source importante de viande de porc et de cuir, ce qui les rend précieux pour l'alimentation et l'artisanat.
+Les porcs sont une source importante de porc et de cuir, ce qui les rend précieux pour la nourriture et l'artisanat.
 
-TIPS: 
+CONSEILS:
 
-- Utilisez une carotte sur un bâton pour contrôler un cochon sur une selle.
-- L'élevage de porcs est pratique pour créer une source constante de nourriture et de matériaux.
+- Utilisez une carotte sur un bâton pour contrôler un porc sur une selle.
+- Les porcs reproducteurs sont pratiques pour créer une source constante de nourriture et de matériaux.

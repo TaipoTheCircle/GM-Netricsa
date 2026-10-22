@@ -1,24 +1,24 @@
-SPECTACLE DEMI-SÉMEMENT, PARADIS ET EMBUSCADE
+HALF-QUAKE SHOW, HEAVEN ET AMBUSH
 
 
-Il semble que les sadiques aient du mal à répondre à leurs attentes.
+Il semble que les sadistes aient des problèmes avec les attentes.
 
-Sam est toujours en vie. Les statistiques pleurent, le scénario fume nerveusement en marge et l'annonceur prétend que c'était censé être le cas.
+Sam est toujours en vie. Les statistiques pleurent, le script fume nerveusement sur le côté, et l'annonceur prétend qu'il était censé être.
 
-Il y a un ascenseur devant. Il vous invite gentiment à continuer. Et oui, cela mène directement à une embuscade.
+Il y a un ascenseur devant. Il vous invite à poursuivre. Et oui, ça mène directement dans une embuscade.
 
 Ils attendent déjà au sommet.
 
-Vortigaunts et Headcrabs, marqués ">)".
+Vortigaunts et crampons, marqués ">)".
 
-Pour ouvrir davantage le passage, vous devez activer deux boutons. Gauche et droite. Classique.
+Pour ouvrir le passage plus loin, vous devez activer deux boutons. Gauche et droite. Classique.
 
-C'est le moment où la série mise sur la panique.
+C'est le moment où le spectacle compte sur la panique.
 
-Mais le sadique est déjà surpris.
+Mais le sadiste est déjà surpris.
 
-Ce qui signifie qu'il est temps de le surprendre à nouveau.
+Ce qui veut dire qu'il est temps de le surprendre encore.
 
-Des boutons et une porte.
+Boutons et une porte.
 
-Et un tas de gens qui sont sûrs que vous êtes venu ici pour perdre.
+Et des gens qui sont sûrs que vous êtes venus ici pour perdre.

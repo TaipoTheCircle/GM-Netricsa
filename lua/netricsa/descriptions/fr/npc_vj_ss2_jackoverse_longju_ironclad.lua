@@ -1,40 +1,40 @@
-LONGJU, IROMCLAD FROM THE DRACONIUS
+LONGJU, IROMCLAD DU DRACONIUS
 
 
-CLASS:      Longju, Ironsclad
-METABOLISM: Dragonoid Spirit, Supernatural Essence
-PERCEPTION: Ancient Warrior, Bound With Dark Magic
-SIZE:       7,8 ft
-ENDURANCE:  Very High
-HOSTILITY:  Extreme
-WEAPONS:    Core Cannon, Extraction Mace, Magic Abilities
-REWARD:     4500 FC
-THREAT:     Very High
+CLASSE:      Longju, Ironsclad
+MÉTABOLISME: Esprit dragonoïde, Essence surnaturelle
+PERCEPTION: Ancien guerrier, avec la magie noire
+TAILLE:       7,8 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Extrême
+ARMES:    Cannon de base, Mac d'extraction, Capacités magiques
+RÉCOMPENSE:     4500 FC
+MENACE:     Très élevé
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Longju, known to his people as Ironsclad, is an ancient warrior from Draconius, descended from the warlike dragonoid race. His people adhered to strict samurai codes and valued honor, martial prowess, and strength above all else.
+Longju, connu de son peuple comme Ironsclad, est un ancien guerrier de Draconius, descendant de la race libelloïde guerrière. Son peuple adhère à des codes samouraïs stricts et apprécie l'honneur, les prouesses martiales et la force surtout.
 
-Longju was once a living warrior, renowned for his many victories. However, his life ended in a battle. Instead of vanishing completely, his spirit somehow survived, transforming into a resemblance of an ancient deity trapped within a corporeal body.
+Longju était autrefois un guerrier vivant, réputé pour ses nombreuses victoires. Cependant, sa vie a pris fin dans une bataille. Au lieu de disparaître complètement, son esprit survécut en quelque sorte, se transformant en une ressemblance d'une ancienne divinité piégée dans un corps corporel.
 
-Later, a certain Master of the Dark Arts managed to trick Longju and imprison him within his own staff. Since then, Ironsclad has been forced to serve his master, retaining the fighting skills and fury honed over his long existence.
+Plus tard, un certain maître des arts noirs réussit à tromper Longju et à l'emprisonner au sein de son propre personnel. Depuis lors, Ironsclad a été forcé de servir son maître, en conservant les compétences de combat et la fureur affûté sur sa longue existence.
 
-Longju's appearance resembles a massive dragonoid clad in heavy samurai armor. Despite his draconic origins, he has neither a tail nor wings, and his body resembles a living statue of an ancient warrior. Six eyes are located on his head, allowing him to simultaneously control his surroundings.
+L'apparence de Longju ressemble à un dragonoïde massif vêtu d'une lourde armure de samouraï. Malgré ses origines draconiennes, il n'a ni queue ni ailes, et son corps ressemble à une statue vivante d'un ancien guerrier. Six yeux se trouvent sur sa tête, lui permettant de contrôler simultanément son environnement.
 
-His left arm has been completely replaced by a massive cannon. The weapon is capable of launching heavy cannonballs, turning Longju into a walking siege weapon. A single shot can inflict massive physical damage and pierce heavy defenses.
+Son bras gauche a été complètement remplacé par un canon massif. L'arme est capable de lancer de lourdes boulettes de canon, faisant de Longju une arme de siège à pied. Un seul coup peut causer des dommages physiques massifs et percer de lourdes défenses.
 
-His other arm is armed with an extendable war mace. When attacking, the weapon can dramatically increase in length, allowing Longju to strike opponents at ranges inaccessible to a normal melee fighter. A strike from this mace can crush armor and the person within.
+Son autre bras est armé d'une masse de guerre extensible. Lors de l'attaque, l'arme peut augmenter considérablement la longueur, permettant à Longju de frapper des adversaires à des distances inaccessibles à un combattant normal. Une frappe de cette masse peut écraser l'armure et la personne à l'intérieur.
 
-His enemies speak of the ability to create floating eyes in space. According to these tales, these eyes are capable of independently tracking opponents and even emitting laser beams. The veracity of these reports is unknown, but those who have encountered Longju claim to have felt eyes on them from several directions at once.
+Ses ennemis parlent de la capacité de créer des yeux flottants dans l'espace. Selon ces récits, ces yeux sont capables de suivre indépendamment les adversaires et même d'émettre des faisceaux laser. La véracité de ces rapports est inconnue, mais ceux qui ont rencontré Longju prétendent les avoir vus de plusieurs façons à la fois.
 
-Longju himself shows virtually no emotion. He does not behave like a common beast or a crazed monster. In battle, he maintains the discipline of an ancient warrior, methodically selecting targets and eliminating the most dangerous opponents.
+Longju lui-même ne montre pratiquement aucune émotion. Il ne se comporte pas comme une bête ou un monstre fou. Au combat, il maintient la discipline d'un ancien guerrier, choisissant méthodiquement des cibles et éliminant les adversaires les plus dangereux.
 
-His armor can withstand a tremendous amount of damage, and his supernatural nature makes Ironsclad significantly more resilient than a normal dragonoid.
+Son armure peut supporter une quantité énorme de dommages, et sa nature surnaturelle rend Ironsclad significativement plus résistant qu'un dragonoïde normal.
 
-TIPS:
+CONSEILS:
 
-- Don't get too close. His extendable mace makes close combat with Longju a very bad idea.
-- Watch out for the cannonballs. His cannonball can deal massive damage even to heavy targets.
-- If the legends of his flying eyes and laser attacks are true, Ironsclad can detect enemies from multiple directions.
-- Don't underestimate his lack of wings. Longju doesn't need them to remain an extremely dangerous opponent.
-- Remember, this isn't just a monster. He's an ancient warrior who retains his combat experience even after death.
+- Ne t'approche pas trop. Sa mace extensible fait du combat rapproché avec Longju une très mauvaise idée.
+- Méfiez-vous des boulettes. Son boulet de canon peut causer des dégâts massifs même aux cibles lourdes.
+- Si les légendes de ses yeux volants et des attaques laser sont vraies, Ironsclad peut détecter les ennemis de plusieurs directions.
+- Ne sous-estime pas son manque d'ailes. Longju n'a pas besoin d'eux pour rester un adversaire extrêmement dangereux.
+- Ce n'est pas qu'un monstre. C'est un ancien guerrier qui conserve son expérience de combat même après la mort.

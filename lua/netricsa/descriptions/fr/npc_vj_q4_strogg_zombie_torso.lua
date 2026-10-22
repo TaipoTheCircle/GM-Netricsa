@@ -1,24 +1,24 @@
-STROGG ÉCHEC DU TRANSFERT DU TORSE DE ZOMBIE DE STROGGOS
+STROGG TRANSFER ZOMBIE TORSO PROVENANT DE STROGGOS
 
 
-CLASS: Zombie maudit Strogg (Torse)
-METABOLISM: Hybride Cybernétique-Chair (Échec de la Stroggification)
+CLASSE:      Strogg Cursed Zombie (Torso)
+MÉTABOLISME: Hybride Cybernetic-Flesh (stroggification échouée)
 PERCEPTION: Zombie rampant
-SIZE: ~2,5 pieds
-ENDURANCE: Faible
-HOSTILITY: Haut
-WEAPONS: Bras griffus
-REWARD: 150 FC
-THREAT: Faible-Moyen
+TAILLE:       ~2,5 pi
+ENDURANCE:  Faible
+HOSTILITÉ:  Haut
+ARMES:    Armes claquées
+RÉCOMPENSE:     150 FC
+MENACE:     Faible-moyenne
 
 DESCRIPTION
 
-Le torse de zombie ayant échoué au transfert est le reste d'une conversion de Strogg qui a horriblement mal tourné. Malgré leur mutilation, ils restent en vie, rampant à l'aide de leurs bras et traînant leurs viscères exposés sur le sol.
+Le Torso Zombie de Transfert Échec est les restes d'une conversion de Strogg qui a mal tourné. Malgré leur mutilation, ils restent vivants, rampants à l'aide de leurs bras et traînant leurs viscères exposés à travers le sol.
 
-Même sans jambes, ils sont rapides sur de courtes impulsions, capables de faire des fentes surprenantes.
+Même sans jambes, ils sont rapides en courtes rafales, capables de surprendre les poumons.
 
-TIPS: 
+CONSEILS:
 
-- Restez mobile - ils rampent rapidement et peuvent sortir de leur abri.
-- Visez la tête ou le haut de la poitrine pour arrêter instantanément le mouvement.
-- Écoutez les bruits de glissement pour les détecter avant qu'ils ne vous voient.
+- Restez mobiles - ils rampent rapidement et peuvent tomber de la couverture.
+- Visez la tête ou la poitrine pour arrêter le mouvement instantanément.
+- Écoutez les sons pour les détecter avant qu'ils ne vous voient.

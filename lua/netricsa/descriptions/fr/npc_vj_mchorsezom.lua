@@ -1,24 +1,24 @@
-CHEVAL ZOMBIE DU MONDE MINECRAFT
+ZOMBIE HORSE DU MINECRAFT SURVEILLANCE
 
 
-CLASS: Cheval zombie
-METABOLISM: Mort-vivant
-PERCEPTION: Hostile / Passif
-SIZE: 5,2 pieds
-ENDURANCE: Haut
+CLASSE:        Cheval Zombie
+MÉTABOLISME:   Morts
+PERCEPTION:   Hostile/passif
+TAILLE:         5,2 pi
+ENDURANCE:    Haut
 HOSTIMISSION: Haut
-WEAPONS: Mordre
-REWARD: 400FC
-THREAT: Faible-Moyen
+ARMES:      Bite
+RÉCOMPENSE:       400 FC
+MENACE:       Faible-moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Il s'agit d'une version verte et sinistre d'un cheval normal avec des yeux complètement noirs.
+C'est une version sombre et verte d'un cheval normal aux yeux complètement noirs.
 
-The zombie horse's behavior is unusual. It grazes in meadows like a living horse. But a piece of its rotten essence remains forever within it: ce sont des morts-vivants. La lumière du soleil le brûle, les potions de guérison lui font du mal et les potions nocives le guérissent.
+Le comportement du cheval zombie est inhabituel. Il paît dans les prairies comme un cheval vivant. Mais un morceau de son essence pourrie demeure à jamais en lui: il n'est pas mort. La lumière du soleil la fait brûler, guérir les potions la blesser, et les potions nuisibles la guérir.
 
-TIPS: 
+CONSEILS:
 
-- Un cheval apprivoisé peut être équipé d'une selle et même d'une armure.
-ne le regarde pas dans les yeux et il a peur de l'eau.
-- Il brûle au soleil (sauf s'il porte une armure) et les potions de guérison lui feront du mal plutôt que de le guérir.
+- Un cheval dompté peut être équipé d'une selle et même d'une armure.
+- Il peut galoper sous l'eau, le rendant idéal pour explorer les océans et les rivières.
+- Il brûle au soleil (à moins qu'il ne porte une armure), et la guérison des potions le blessera plutôt que de le guérir.

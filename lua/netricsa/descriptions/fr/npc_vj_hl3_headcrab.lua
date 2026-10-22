@@ -1,23 +1,23 @@
-CRABE ARCTIQUE DE LA TERRE
+HEADCRAB ARCTIQUE DE LA TERRE
 
 
-CLASS: Crabe, Terre (Arctique)
-METABOLISM: Parasite adapté aux basses températures
-PERCEPTION: Arme biologique
-SIZE: ~1,5 pied
-ENDURANCE: Faible
-HOSTILITY: Haut
-WEAPONS: Sauter, mordre, infestation parasitaire
-REWARD: 120 FC
-THREAT: Faible-moyen
+CLASSE:      Gratte-tête, Terre (Arctique)
+MÉTABOLISME: Parasite adapté aux basses températures
+PERCEPTION: Armes biologiques
+TAILLE:       ~1,5 ft
+ENDURANCE:  Faible
+HOSTILITÉ:  Haut
+ARMES:    Saut, morsure, infestation parasitaire
+RÉCOMPENSE:     120 FC
+MENACE:     Moyenne faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-La variété de crabe Arctic Earth est le résultat de l’adaptation rapide et brutale d’un parasite au froid perpétuel. Après s'être répandues dans les régions du nord de la Terre, ces créatures ont développé une épaisse couche de fourrure grossière qui recouvre la majeure partie de leur corps et protège leurs organes internes des engelures.
+La variété de crâne de la Terre arctique est le résultat de l'adaptation rapide et brutale d'un parasite au froid perpétuel. Après s'être répandues dans les régions septentrionales de la Terre, ces créatures ont développé une épaisse couche de fourrure grossière qui couvre la plupart de leur corps et protège leurs organes internes contre les engelures.
 
-Underneath the fur, the familiar anatomy remains: des membres postérieurs puissants, un bec et des appendices crochus conçus pour saisir le crâne des proies.
+Sous la fourrure, l'anatomie familière reste : de puissants membres postérieurs, un bec et des appendices accrochés conçus pour saisir le crâne de proie.
 
-TIPS: 
+CONSEILS:
 
 - Ils se cachent souvent sous la neige.
-- Ils les laissent s'attacher à ta tête.
+- Ils se sont attachés à ta tête.

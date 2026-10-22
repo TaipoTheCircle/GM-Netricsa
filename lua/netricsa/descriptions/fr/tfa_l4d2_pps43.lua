@@ -1,22 +1,22 @@
 SUDAYEV PPS-43 SUBMACHINE GUN
 
 
-ARME : Sudaev PPS-43 Submachine Gun
-MUNITIONS : 7,62x25 mm TT
-ROF : ~600-700 tours/min
-POIDS : ~3,67 kg
+ARME:    Sudaev PPS-43 Gun sous-machine
+MUNITIONS:      7,62 x 25 mm TT
+CADENCE DE TIR:       ~600-700 tours/min
+POIDS:    ~3,67 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Le PPS-43, une mitraillette conçue par Alexeï Sudaïev, était une arme soviétique utilisée pendant la Grande Guerre patriotique. Il a été conçu comme une alternative plus légère, plus compacte et moins coûteuse au PPSh-41, particulièrement adaptée aux éclaireurs, aux parachutistes, aux équipages de véhicules de combat et aux soldats opérant dans des conditions exiguës.
+Le PPS-43, une mitrailleuse conçue par Alexey Sudayev, était une arme soviétique utilisée pendant la Grande Guerre patriotique. Il a été conçu comme une alternative plus légère, plus compacte et moins coûteuse à la PPSh-41, particulièrement adapté pour les éclaireurs, les parachutistes, les équipages de véhicules de combat et les soldats opérant dans des conditions d'urgence.
 
-La conception du PPS se caractérise par sa simplicité et l'utilisation intensive de pièces embouties, soudées et rivetées ensemble. L'arme fonctionne via une action de retour de flamme et tire en mode automatique uniquement. Dans le même temps, grâce à sa cadence de tir relativement faible, le PPS est facilement contrôlé par courtes rafales.
+La conception du PPS se caractérise par sa simplicité et son utilisation étendue de pièces estampillées, soudées et rivetées ensemble. L'arme fonctionne par une action de rappel, et les feux en mode automatique seulement. En même temps, grâce à son taux d'incendie relativement faible, le PPS est facilement contrôlé par de courtes explosions.
 
-Le PPS-43 est doté d'une crosse métallique pliable et d'un chargeur de boîte. Sa portée effective est d'environ 100 à 200 mètres, et de courtes rafales de 2 à 5 coups sont considérées comme les plus efficaces.
+Le PPS-43 dispose d'un stock de métal pliant et d'un magazine de boîte. Sa portée efficace est d'environ 100-200 mètres, et de courts éclats de 2-5 tours sont considérés comme les plus efficaces.
 
-REMARQUES :
+REMARQUES:
 
-- Particulièrement efficace à courte et moyenne portée, où de courtes rafales permettent de contrôler l'arme.
-- Grâce à sa conception estampillée, le PPS est nettement plus simple et moins coûteux à fabriquer que nombre de ses prédécesseurs.
-- La crosse pliable compacte le rend particulièrement pratique pour les éclaireurs, les parachutistes et les équipages de véhicules.
-- Le PPSh était lourd et consommait beaucoup de munitions, mais Soudayev l'a examiné et a décidé : "Nous pourrions sûrement le rendre plus simple".
+- Particulièrement efficace à des distances proches et moyennes, où de courtes rafales permettent de contrôler l ' arme.
+- Grâce à sa conception estampillée, le SPA est nettement plus simple et moins cher à fabriquer que beaucoup de ses prédécesseurs.
+- Le stock compact pliant le rend particulièrement pratique pour les scouts, les parachutistes et les équipages de véhicules.
+- Le PPSh était lourd et consommait beaucoup de munitions, mais Sudayev l'a regardé et a décidé, "Sûrement nous pourrions le rendre plus simple".

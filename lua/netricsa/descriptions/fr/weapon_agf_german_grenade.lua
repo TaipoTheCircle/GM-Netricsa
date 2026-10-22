@@ -1,19 +1,19 @@
-GRENADES M24
+M24 MAIN GRENADE
 
 
-WEAPON: Grenade à main M24
-AMMO: Charge standard de TNT (explosif puissant)
-ROF: À usage unique / jeté
-WEIGHT: 1,3 livres
+ARME:  M24 Grenade à main
+MUNITIONS:    Charge TNT standard (haute explosif)
+CADENCE DE TIR:     À usage unique / Jetée
+POIDS:  1,3 lbs
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le M24, communément appelé « grenade à bâton », est une arme à fragmentation classique largement utilisée dans les guerres du XXe siècle. Son manche en bois permet une distance de lancement accrue par rapport aux grenades à main traditionnelles, ce qui la rend très efficace aussi bien en champ ouvert qu'en combat de tranchées.
+Le M24, communément appelé « grenade à bâton », est une arme à fragmentation classique largement utilisée dans la guerre du XXe siècle. Son manche en bois permet d'augmenter la distance de lancement par rapport aux grenades à main traditionnelles, ce qui le rend très efficace tant dans les champs ouverts que dans les tranchées.
 
-Contrairement aux grenades modernes, le M24 repose sur une mèche temporisée, allumée en tirant sur une corde dissimulée dans le capuchon de la poignée. Lors de la détonation, il délivre une puissante explosion de commotion, capable de paralyser des groupes de robots, des fortifications légères ou des machines groupées. Sa conception simple l'a rendu fiable et produit en série sur d'innombrables champs de bataille.
+Contrairement aux grenades modernes, le M24 repose sur un fusible chronométré, enflammé en tirant un cordon caché dans le capuchon de la poignée. Lors de la détonation, il délivre un puissant souffle concussien, capable de paralyser des groupes de robots, des fortifications légères ou des machines groupées. Sa conception simple l'a rendue fiable et produite en série sur d'innombrables champs de bataille.
 
-NOTES: 
+REMARQUES:
 
-- Idéal pour nettoyer des bunkers, des tranchées ou des positions défensives serrées.
-- A un retard - lancer avec timing et couverture.
-- Deadly in groups: les lancers synchronisés peuvent submerger même les ennemis fortifiés.
+- Idéal pour nettoyer les bunkers, les tranchées ou les positions défensives serrées.
+- A un retard - lancer avec le timing et la couverture.
+- Mortement en groupes : les lancers synchronisés peuvent submerger même les ennemis fortifiés.

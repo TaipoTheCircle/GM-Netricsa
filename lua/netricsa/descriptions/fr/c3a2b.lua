@@ -1,10 +1,10 @@
-BLACK MESA LAMBDA REACTOR, REACTOR ASCENT
+RÉACTEUR NOIR MESA LAMBDA, RÉACTIFS
 
 
-Très bien, voici le moment où l'eau aide réellement au lieu d'essayer de vous noyer.
+Voilà l'eau qui aide plutôt que de te noyer.
 
-La fosse de maintenance dans laquelle vous vous trouvez est un labyrinthe vertical de tuyaux et de vannes.
+La fosse d'entretien dans laquelle vous êtes est un labyrinthe vertical de tuyaux et de vannes.
 
-Tournez les roues droite et gauche et le niveau d'eau monte, vous permettant de monter dans la chambre du réacteur au-dessus.
+Twist la roue droite et gauche et le niveau d'eau monte, vous permettant de monter dans la chambre du réacteur au-dessus.
 
-Mathématiques mécaniques simples. Exécution meurtrière. Oh, et attention : les lasers.
+Math mécanique simple. Exécution mortelle. Oh, et avertissement - lasers.

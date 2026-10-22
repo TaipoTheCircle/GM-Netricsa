@@ -1,26 +1,26 @@
-CRISTAL DE XEN, XÉNIUM
+XEN CRYSTAL, XÉNIUM
 
 
-CLASS: Cristaux de Xen, Xénium
-METABOLISM: Conducteur d'énergie (non organique)
-PERCEPTION: Minéral extraterrestre de Xen
-SIZE: Varie (fragments : environ 2 à 5 pieds ; clusters : jusqu'à 20 pieds)
-ENDURANCE: Extrêmement élevé (réseau cristallin dense)
-HOSTILITY: Aucun (passif)
-WEAPONS: Aucun (mais peut émettre de l'énergie psionique lorsqu'il est lié)
-REWARD: 200FC
-THREAT: Indirect (lorsque contrôlé par des entités Xen)
+CLASSE:      Cristaux Xen, Xénium
+MÉTABOLISME: Énergie conductrice (non biologique)
+PERCEPTION: Minéraux étrangers de Xen
+TAILLE:       Variantes (ardues: ~2-5 pi; grappes: jusqu'à 20 pi)
+ENDURANCE:  Extrêmement élevé (réseau cristallin dense)
+HOSTILITÉ:  Aucun (passif)
+ARMES:    Aucune (mais peut émettre de l'énergie psionique lorsqu'elle est liée)
+RÉCOMPENSE:     200 FC
+MENACE:     Indirecte (lorsqu'elle est contrôlée par des entités Xen)
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les cristaux Xen, également connus sous le nom de Xenium, sont de puissantes formations minérales originaires des paysages extraterrestres de Xen. Ces structures cristallines brillantes rayonnent d’énergie psionique et dimensionnelle brute, agissant à la fois comme source de carburant naturelle et comme stabilisateur pour les failles interdimensionnelles.
+Xen Crystals, aussi connu sous le nom de Xenium, sont de puissantes formations minérales originaires des paysages extraterrestres de Xen. Ces structures cristallines brillantes irradient l'énergie psionique brute et dimensionnelle, agissant à la fois comme source de combustible naturel et comme stabilisateur pour les fissures interdimensionnelles.
 
-Plus particulièrement, Xenium sert de principale source d'énergie au Nihilanth, amplifiant sa force psionique et maintenant ses barrières de protection. Des éclats de cristal étaient incrustés dans son antre, agissant comme des conduits canalisant de grandes quantités d’énergie. Détruire ces éclats pendant la bataille s'est avéré essentiel pour affaiblir ses défenses.
+Plus particulièrement, Xenium sert comme principale source d'énergie du Nihilanth, amplifiant sa force psionique et maintenant ses barrières protectrices. Des requins du cristal ont été intégrés dans son repaire, agissant comme des conduits qui ont canalisé de grandes quantités d'énergie. Détruire ces durs pendant la bataille s'est révélé critique pour affaiblir ses défenses.
 
-En raison de leurs signatures énergétiques volatiles, les chercheurs des forces de Combine et de Black Mesa ont recherché Xenium comme moyen d'exploiter les voyages interdimensionnels et la militarisation - avec des résultats catastrophiques.
+En raison de leurs signatures d'énergie volatile, Combiner forces et Black Mesa chercheurs ont cherché le Xénium comme un moyen de tirer parti dans le voyage interdimensionnel et l'armement - avec des résultats catastrophiques.
 
-TIPS: 
+CONSEILS:
 
-- Les cristaux peuvent renforcer Nihilanth, les rendant plus dangereux.
-- Détruisez les nœuds de cristal pour désactiver les boucliers psioniques ou perturber les portails.
-- Xenium reste très instable – manipulez les fragments avec une extrême prudence.
+- Les cristaux peuvent rendre Nihilanth plus dangereux.
+- Détruire les nœuds cristallins pour désactiver les boucliers psioniques ou perturber les portails.
+- Le Xénium reste très instable - avec une extrême prudence.

@@ -1,18 +1,18 @@
 SIG SAUER P226 PISTOL
 
 
-ARME : SIG Sauer P226 Pistol
-MUNITIONS : 9x19mm Parabellum
-ROF : ~40 rounds / min
+ARME: SIG Sauer P226 Pistol
+MUNITIONS:   Parabellum 9x19mm
+CADENCE DE TIR:    ~40 tours/min
 
-DESCRIPTIF :
+DESCRIPTION:
 
-This Swiss-German semi-automatic pistol was developed in 1981 based on the SIG Sauer P220. It was designed for the American competition for a new 9mm military pistol, where it ultimately lost to the Beretta 92. However, it has become widely used by military, police, and special forces.
+Ce pistolet semi-automatique suisse-allemand a été développé en 1981 sur la base du SIG Sauer P220. Il a été conçu pour la compétition américaine pour un nouveau pistolet militaire 9mm, où il a finalement perdu contre la Beretta 92. Cependant, il est devenu largement utilisé par les forces militaires, policières et spéciales.
 
-The P226 uses a short-recoil action and is chambered for several cartridges, including 9x19mm Parabellum, .40 S&W, and .357 SIG. The standard 9x19mm version can use 15-, 17-, 18-, or 20-round magazines. The pistol is highly reliable and features good ergonomics.
+Le P226 utilise une action de court-recoil et est en chambre pour plusieurs cartouches, dont 9x19mm Parabellum, .40 S&W et .357 SIG. La version standard 9x19mm peut utiliser 15, 17, 18 ou 20 magazines. Le pistolet est très fiable et offre une bonne ergonomie.
 
-REMARQUES :
+REMARQUES:
 
-- It boasts good accuracy and reliability.
-- It was entered into the competition to replace the American M1911, but lost to the Beretta 92.
-- The P226 gained notoriety for its use by the American SEALs.
+- Il est très précis et fiable.
+- Il est entré dans la compétition pour remplacer l'Américain M1911, mais perdu contre la Beretta 92.
+- Le P226 a gagné en notoriété pour son utilisation par les SEAL américains.

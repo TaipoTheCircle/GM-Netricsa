@@ -1,27 +1,27 @@
-COMBINEZ LE SHOTGUNNER DE PRISON HYBRIDE OVERWATCH
+COMBINE SURVEILLANCE HYBRID PRISON SHOTGUNNER
 
 
-CLASS: Combinez le fusil de chasse hybride Overwatch
-METABOLISM: Humain augmenté, mâle
-PERCEPTION: Combiner l'unité d'assaut de sécurité et d'extermination
-SIZE: 5,9 pieds
-ENDURANCE: Haut
-HOSTILITY: Extrême
-WEAPONS: Fusil de combat SPAS-12, grenades
-REWARD: 700FC
-THREAT: Haut
+CLASSE:      Combiner Overwatch Hybrid Prison Shotgunner
+MÉTABOLISME: Augmenté Humain, Homme
+PERCEPTION: Combiner la sécurité et l'extermination
+TAILLE:       5,9 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Extrême
+ARMES:    SPAS-12 Fusil de combat, Grenades
+RÉCOMPENSE:     700 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine Overwatch Hybrid Prison Soldier with Shotgun est une version renforcée du soldat Nova Prospekt, déployé temporairement ou définitivement à l’extérieur des complexes pénitentiaires. Le Combine utilise ces soldats dans des situations où les forces standards sont insuffisantes et où le déploiement de forces d’élite n’est pas pratique.
+Le soldat de la prison hybride Combine Overwatch avec fusil de chasse est une version améliorée du soldat de Nova Prospekt, déployé temporairement ou de façon permanente en dehors des complexes pénitentiaires. Le Combine utilise ces soldats dans des situations où les forces standard sont insuffisantes et où le déploiement des forces d'élite est impossible.
 
-Le soldat est vêtu d'une armure renforcée de type prison et équipé d'un casque tactique avec une visière de protection. Une visière rouge souligne son affiliation à la garde et aux forces d'assaut de Nova Prospekt. Malgré son apparente protection, la visière n'est pas totalement à l'épreuve des balles : les tirs précis à la tête restent efficaces.
+Le soldat est revêtu d'une armure renforcée de style prison et équipé d'un casque tactique avec une visière protectrice. Une visière rouge souligne son affiliation avec la garde et les forces d'assaut de Nova Prospekt. Malgré sa protection apparente, la visière n'est pas complètement à l'épreuve des balles.
 
-His primary weapon is a SPAS-12, designed for riot suppression and clearing cells, corridors, and technical areas. His tactics are simple and brutal: approche rapide, tirs de suppression et absence totale de tentatives de capture, sauf indication contraire.
+Son arme principale est un SPAS-12, conçu pour la répression des émeutes et le nettoyage des cellules, des couloirs et des zones techniques. Ses tactiques sont simples et brutales : approche rapide, tir répressif, absence totale de tentatives de capture, sauf indication contraire.
 
-TIPS: 
+CONSEILS:
 
-- Ne surestimez pas la visière - les tirs à la tête fonctionnent toujours.
+Ne surestimez pas les têtes de visière.
 - En combat rapproché, le SPAS-12 ne laisse pratiquement aucune chance.
-- La meilleure option est la distance et le tir précis.
-ENDERMAN AUX YEUX VERTS DE LA FIN DE MINECRAFT
+- La meilleure option est la distance et le feu précis.
+- Il se sent chez lui dans des couloirs étroits.

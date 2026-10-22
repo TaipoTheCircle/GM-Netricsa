@@ -1,26 +1,26 @@
 ALYX VANCE
 
 
-CLASSE : Alyx Vance
-MÉTABOLISME : humain, féminin
-PERCEPTION : agent de la Résistance humaine
-TAILLE : ~5,5 pieds
-ENDURANCE : Moyenne
-HOSTILITÉ : Faible
-ARMES : Alyxgun, Shotgun, SMG occasionnel, outils de piratage
-RÉCOMPENSE : 1000 FC
-MENACE : moyenne à élevée
+CLASSE:      Alyx Vance
+MÉTABOLISME: Humain, femme
+PERCEPTION: Résistance humaine
+TAILLE:       ~5,5 pi
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Faible
+ARMES:    Alyxgun, fusil de chasse, SMG occasionnelle, outils de piratage
+RÉCOMPENSE:     1000 FC
+MENACE:     Moyenne-haute
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Alyx Vance est l'un des principaux dirigeants de la Résistance humaine et la fille d'Eli Vance, scientifique en chef de Black Mesa East. Ayant grandi sous l'oppression du Combine, elle a développé à la fois un esprit vif et des compétences de survie exceptionnelles. Agile, ingénieux et mortellement précis avec les armes à feu, Alyx n'est pas seulement un combattant mais aussi un ingénieur, capable de pirater les interfaces du Combine et de reprogrammer leurs appareils.
+Alyx Vance est l'un des dirigeants centraux de la Résistance humaine et la fille d'Eli Vance, scientifique en chef de Black Mesa East. Grandissant sous l'oppression Combine, elle développe à la fois un esprit vif et des compétences de survie exceptionnelles. Agile, débrouillard et mortel précis avec des armes à feu, Alyx est non seulement un chasseur, mais aussi un ingénieur, capable de pirater Combiner des interfaces et reprogrammer leurs appareils.
 
-Malgré le monde sombre dans lequel elle habite, Alyx reste optimiste, compatissante et farouchement loyale envers ses alliés. Son lien étroit avec Gordon Freeman renforce le mouvement de Résistance, inspirant d’autres à se soulever. Souvent accompagnée de son fidèle chien robot de compagnie, elle représente l'espoir dans les moments les plus sombres.
+Malgré le monde sombre qu'elle habite, Alyx reste optimiste, compatissant et farouchement fidèle à ses alliés. Son lien étroit avec Gordon Freeman renforce le mouvement de résistance, inspirant les autres à se lever. Accompagnée souvent par son fidèle robot Dog, elle représente l'espoir dans les temps les plus sombres.
 
-Son style de combat privilégie la mobilité entre les abris, l'élimination des ennemis avec des tirs précis et l'utilisation de l'environnement à son avantage. Bien qu'elle ne soit pas lourdement blindée, ses réflexes rapides et ses tactiques intelligentes en font l'un des adversaires les plus dangereux du Combine.
+Son style de combat favorise la mobilité-darting entre la couverture, la prise d'ennemis avec des tirs précis, et l'utilisation de l'environnement à son avantage. Bien qu'elle ne soit pas lourdement blindée, ses réflexes rapides et ses tactiques intelligentes en font l'un des adversaires les plus dangereux du Combine.
 
-CONSEILS :
+CONSEILS:
 
-- Excellente alliée de soutien au combat – ne sous-estimez pas sa précision.
-- Peut pirater les machines Combine pour retourner les armes de l'ennemi contre eux.
-- Sans armure lourde, elle compte sur l'agilité et se protège lorsqu'elle est submergée.
+- Excellent soutien allié dans la bataille-ne sous-estimez pas sa précision.
+- Peut pirater les machines pour tourner les armes de l'ennemi contre elles.
+- Sans armure lourde, elle compte sur l'agilité et la protéger quand elle est dépassée.

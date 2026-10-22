@@ -1,21 +1,21 @@
-M4 TROOPER DE L'ARCHIPEL KRIEGER
+M4 TROOPER DE L'ARCHIPELAGO KRIEGER
 
 
-CLASS: Soldat M4
-METABOLISM: Humain, mâle
-PERCEPTION: Mercenaire d'élite de Krieger
-SIZE: 6 pieds
-ENDURANCE: Haut
-HOSTILITY: Haut
-WEAPONS: Aigle du désert
-REWARD: 500FC
-THREAT: Moyen-élevé
+CLASSE:      M4 Trooper
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Le Mercenaire Elite de Krieger
+TAILLE:       6 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Haut
+ARMES:    Aigle du désert
+RÉCOMPENSE:     500 FC
+MENACE:     Moyenne-haute
 
-DESCRIPTION: 
+DESCRIPTION:
 
-The most common and recognizable soldier of Dr. Krieger's private military company. They are tall, physically strong professionals recruited from all over the world. Their motivation is money, not ideology. They wear various uniforms and headgear (caps, helmets, and caps), but always wear body armor. They possess excellent firepower and tactical acumen: seuls, ils attaquent de front, et lorsqu'ils sont associés à d'autres unités (comme un éclaireur), ils peuvent tirer pendant qu'un allié flanche. Même si beaucoup sont insatisfaits du calendrier d'entretien (chaleur, insectes, intempéries, isolement), ils restent disciplinés et constituent une menace dangereuse. Ils sont particulièrement dangereux lorsqu’ils sont soutenus par d’autres types de troupes.
+Le soldat le plus commun et le plus reconnaissable de la compagnie militaire privée du Dr Krieger. Ils sont de grands professionnels physiquement forts recrutés dans le monde entier. Leur motivation est l'argent, pas l'idéologie. Ils portent différents uniformes et coiffures (capsules, casques et casques), mais portent toujours une armure corporelle. Ils possèdent une excellente puissance de feu et une acuité tactique excellente : seuls, ils attaquent de front, et lorsqu'ils sont associés à d'autres unités (comme un éclaireur), ils peuvent tirer pendant qu'ils sont alliés. Bien que beaucoup ne soient pas satisfaits du calendrier d'entretien (chaleur, insectes, mauvais temps, isolement), ils demeurent disciplinés et constituent une menace dangereuse. Ils sont particulièrement dangereux s'ils sont soutenus par d'autres types de troupes.
 
-TIPS: 
+CONSEILS:
 
-- Armez le bâtiment du corps. La méthode la plus efficace est celle des tirs à la tête.
+- Armez le corps. La méthode la plus efficace est la prise de tête.
 - Évitez les manœuvres de flanc.

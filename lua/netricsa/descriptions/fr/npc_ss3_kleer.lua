@@ -1,21 +1,21 @@
-SQUELETTE DE KLEER
+SKELETON KLEER
 
 
-CLASS: Squelette de Kleer
-METABOLISM: mort-vivant
+CLASSE:      Squelette Kleer
+MÉTABOLISME: non décédés
 PERCEPTION: créature magique
-SIZE: 9 pieds
-ENDURANCE: faible
-HOSTILITY: moyen
-WEAPONS: projectiles à deux billes, griffes, cornes
-REWARD: 1000FC
-THREAT: moyen
+TAILLE:       9 pieds
+ENDURANCE:  faible
+HOSTILITÉ:  moyenne
+ARMES:    projectiles à deux balles, griffes, cornes
+RÉCOMPENSE:     1000 FC
+MENACE:     moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un squelette mort-vivant d'un être d'une race éteinte de la planète Kleer, d'Alpha Canis Majoris. Il a de longues griffes acérées sur les mains et une longue queue.
-Ils attaquent soit en invoquant deux balles, soit en coupant avec leurs griffes à bout portant.
+Un squelette non mort d'un être d'une race disparue de la planète Kleer, d'Alpha Canis Majoris. Il a de longues griffes pointues sur ses mains et une longue queue.
+Ils attaquent soit en conjurant deux balles, soit en coupant leurs griffes de près.
 
-TIPS: 
+CONSEILS:
 
-- Il est préférable d'éviter leurs attaques sautées en les contournant.
+- Leurs attaques de saut sont mieux évitées par le biais d'un faux pas.

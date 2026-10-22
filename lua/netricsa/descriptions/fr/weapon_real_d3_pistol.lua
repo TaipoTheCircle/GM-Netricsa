@@ -1,19 +1,19 @@
-PISTOLET
+PISTOL
 
 
-ARME : Pistolet
-MUNITIONS : 9x19mm
-ROF : ~400 tours/min
+ARME: Pistol
+MUNITIONS:   9x19mm
+CADENCE DE TIR:    ~400 tours/min
 
-DESCRIPTIF :
+DESCRIPTION:
 
-A self-loading pistol designed for close-range engagements. Its compact size and light weight make it convenient for constant carry, and the 12-round magazine allows for multiple shots without reloading.
+Un pistolet à chargement automatique conçu pour les engagements à proximité. Sa taille compacte et son poids léger le rendent pratique pour un transport constant, et le magazine 12-round permet plusieurs prises de vue sans recharger.
 
-Le pistolet offre une bonne précision mais inflige des dégâts relativement faibles. Il est particulièrement utile contre des cibles uniques et moins protégées.
+Le pistolet jouit d'une bonne précision mais inflige des dommages relativement faibles. Elle est particulièrement utile contre des cibles uniques et moins protégées.
 
-REMARQUES :
+REMARQUES:
 
-- Simple, fiable et sans cloches ni sifflets inutiles.
+- Simple, fiable et sans sonneries et sifflements inutiles.
 - Bonne précision et faible recul.
 - Compact et confortable pour un transport constant.
-- Le chargeur contient 12 cartouches.
+- Le magazine tient 12 tours.

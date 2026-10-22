@@ -1,39 +1,39 @@
-NOYÉ DU MONDE MINECRAFT
+CROISSANCE DU SURVEILLANCE MINECRAFT
 
 
-CLASS: Noyé
-METABOLISM: Mort-vivant aquatique
-PERCEPTION: Foule neutre-hostile
-SIZE: 6,2 pieds
-ENDURANCE: Haut
-HOSTILITY: Variable
-WEAPONS: Mains, trident
-REWARD: 150 FC
-DAMNATION: Haut
+CLASSE:      Drogué
+MÉTABOLISME: Morts aquatiques
+PERCEPTION: Une foule hostile et neutre
+TAILLE:       6,2 pi
+ENDURANCE:  Haut
+HOSTILITÉ:  Variable
+ARMES:    Mains, trident
+RÉCOMPENSE:     150 FC
+DAMNATION:  Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-C'est le résultat du bain malheureux d'un zombie normal. Si un zombie passe plus de 30 secondes dans l'eau, il commence à trembler, à bouillonner et après 15 secondes, il se transforme en cette créature sous-marine. Le processus est irréversible, donc si vous voyez un zombie tremblant dans l’eau, préparez-vous à rencontrer un noyé.
+C'est le résultat d'un bain de zombie normal. Si un zombie passe plus de 30 secondes dans l'eau, il commence à secouer, buller, et après 15 secondes, se transforme en cette créature sous-marine. Le processus est irréversible, donc si vous voyez un zombie tremblant dans l'eau, préparez-vous à rencontrer un homme drogué.
 
-Vêtus de haillons, tenant parfois une canne à pêche, un trident ou une coquille de nautile. Les créatures noyées habitent les océans, les rivières et les marécages. On les trouve le plus souvent au fond d'un plan d'eau, errant sans but, gargouillant et libérant périodiquement des bulles d'air.
+Habillé dans des chiffons tatillés, tenant parfois une canne à pêche, un trident ou une coquille de nautilus. Des créatures droguées habitent les océans, les rivières et les marais. Ils se trouvent le plus souvent au fond d'un plan d'eau, errant sans but, gourdissant périodiquement et libérant des bulles d'air.
 
-Le comportement des noyés dépend de l'heure de la journée et du lieu. Pendant la journée, sur terre, les créatures noyées sont neutres : elles n'attaqueront pas même si elles sont frappées en premier. Cependant, si une victime est ne serait-ce que partiellement immergée dans l’eau, la meute entière devient instantanément hostile. La nuit ou pendant les orages, des créatures noyées émergent pour chasser et poursuivre leurs victimes même sur terre, comme des zombies ordinaires.
+Le comportement des créatures droguées dépend de l'heure de la journée et de l'emplacement. Pendant la journée, sur terre, les créatures droguées sont neutres, elles n'attaqueront pas même si elles sont frappées en premier. Cependant, si une victime est même partiellement submergée dans l'eau, le paquet entier devient immédiatement hostile. La nuit ou pendant les orages, les créatures droguées émergent pour chasser et poursuivre les victimes même sur terre, comme les zombies réguliers.
 
-Les créatures noyées attaquent les golems de fer, les petits nouveau-nés de tortues et piétinent les œufs de tortues (même dans des passages étroits). S'ils tuent un villageois, ils ont jusqu'à 100 % de chances de se transformer en villageois zombie. Ils sont également immunisés contre les attaques des Gardiens et des Gardiens Anciens.
+Les créatures droguées attaquent les golems de fer, les petites tortues écloses et piétinent les oeufs de tortue (même par des passages étroits). S'ils tuent un villageois, ils ont jusqu'à 100 % de chance de devenir un villageois zombie. Ils sont également à l'abri des attaques des Gardiens et des Gardiens aînés.
 
-Comme tous les morts-vivants, les Noyés brûlent au soleil s’ils se retrouvent à terre pendant la journée. Mais contrairement aux zombies, ils recherchent immédiatement le plan d’eau le plus proche pour se cacher. Ils peuvent nager dans l’eau à une vitesse impressionnante.
+Comme tous les morts-vivants, les drogués brûlent au soleil s'ils se trouvent sur terre pendant la journée. Mais contrairement aux zombies, ils cherchent immédiatement le plus proche plan d'eau pour se cacher. Ils peuvent nager dans l'eau avec une vitesse impressionnante.
 
-Les noyés apparaissent parfois chevauchant un poulet, créant ainsi un rare cavalier noyé.
+Drogué parfois semblent monter sur un poulet, créant un rare Rider Drogué.
 
-En mourant, un Noyé peut laisser tomber de la chair pourrie, des lingots de cuivre et, s'il a de la chance, une coquille de trident ou de nautile.
+À la mort, un drogué peut tomber de la chair pourrie, des lingots de cuivre et, si chanceux, une coquille de trident ou de nautilus.
 
-TIPS: 
+CONSEILS:
 
-- Les noyés à terre sont en sécurité pendant la journée - vous pouvez simplement passer devant eux.
-- Si vous entendez des gargouillis et voyez un zombie trembler dans l'eau, éloignez-vous ; un Noyé sera bientôt là.
-- La principale menace est un noyé avec un trident. Ne restez pas à l'air libre ; utiliser un couvercle.
-- Pendant les combats de jour, un noyé sur terre brûlera au soleil - vous pouvez simplement attendre.
-- Si vous combattez dans l'eau, essayez de rejoindre rapidement la terre ferme : les Noyés n'aiment pas vous poursuivre trop loin.
-- Un bouclier protège des lancers de trident.
-- Pour garantir un trident, utilisez l'enchantement "Loot III" et ne tuez que les Noyés qui détiennent un trident.
-- Les noyés ne vivent pas dans les océans chauds, ils y sont en sécurité.
+- Vous pouvez simplement marcher au-delà d'eux.
+- Si vous entendez grogner et voir un zombie tremblant dans l'eau, éloignez-vous; un drogué sera bientôt là.
+- La principale menace est une droguée avec un trident. Ne restez pas à l'abri; utilisez un couvercle.
+- Pendant le combat de jour, un drogué sur terre brûlera au soleil - vous pouvez simplement attendre.
+- Si vous vous battez dans l'eau, essayez d'aller à la terre sèche rapidement - la Drowned n'aime pas vous poursuivre trop loin.
+- Un bouclier protège contre les lancers tridents.
+- Pour garantir un trident, utilisez l'enchantement "Loot III" et tuez seulement Drowned qui tient un trident.
+- Les drogués ne vivent pas dans des océans chauds.

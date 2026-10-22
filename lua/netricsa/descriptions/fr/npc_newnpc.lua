@@ -1,29 +1,29 @@
-NOUVEAU PNJ (PNJ modèle)
+Nouveau CNP (CNP provisoire)
 
 
-CLASS: Nouveau PNJ (PNJ modèle)
-METABOLISM: None
-PERCEPTION: Modèle / PNJ de base
-SIZE: 5,9 pieds
-ENDURANCE: Très faible
-HOSTILITY: Neutre / Aucun
-WEAPONS: Aucun=
-REWARD: 1 FC
-THREAT: Très faible
+CLASSE:      Nouveau CNP (CNP provisoire)
+MÉTABOLISME: ???
+PERCEPTION: Modèle / PNC de base
+TAILLE:       5,9 pieds
+ENDURANCE:  Très faible
+HOSTILITÉ:  Neutre / Aucun
+ARMES:    Aucune =
+RÉCOMPENSE:     1 FC
+MENACE:     Très faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-New Npc est un modèle de PNJ inclus dans le SDK Source, essentiellement un squelette ou un espace réservé permettant aux moddeurs de créer de nouveaux personnages IA.
+Nouveau Npc est un modèle NPC inclus dans le SDK source-essentiellement un squelette ou un porte-place pour les modders pour construire de nouveaux caractères AI à partir.
 
-On its own, it has very minimal functionality: une référence de modèle factice (« models/mymodel.mdl ») qui entraîne souvent un modèle « d'erreur » s'il n'est pas remplacé.
+À lui seul, il a une fonctionnalité très minimale: une référence de modèle fictif (=models/mymodel.mdl=) qui se traduit souvent par un modèle d'erreur si elle n'est pas remplacée.
 
-Il hérite des capacités de base des PNJ (déplacement, vue, etc.) via la hiérarchie de classes CAI_BaseNPC → CBaseCombatCharacter → etc.
+Il hérite des capacités NPC de base (mouvement, vue, etc.) via la hiérarchie de classe CAI BaseNPC → CBaseCombatCharacter → etc.
 
-Les drapeaux et les comportements peuvent être personnalisés via des valeurs clés (par exemple, relations, nom d'équipe, rayon de sillage) pour créer des types de PNJ plus avancés.
+Les drapeaux et les comportements peuvent être personnalisés via des valeurs clés (p. ex. relations, nom d'équipe, rayon de réveil) pour créer des types NPC plus avancés.
 
-In code, New Npc is used as a starting point: les moddeurs copient le code npc_newnpc (dans npc_new.cpp) et remplacent les noms de classe, les chemins de modèle, les tâches, les horaires, etc. pour créer un PNJ entièrement fonctionnel.
+Dans le code, New Npc est utilisé comme point de départ: modders copie npc newnpc code (dans npc new.cpp) et remplace les noms de classe, les chemins de modèle, les tâches, les horaires, etc. pour faire un NPC entièrement fonctionnel.
 
 
-TIPS: 
+CONSEILS:
 
-- Utilisez New Npc comme base lors de la conception de nouveaux PNJ personnalisés.
+- Utilisez New Npc comme fondation lors de la conception de nouveaux NPC personnalisés.

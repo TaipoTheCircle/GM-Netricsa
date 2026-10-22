@@ -1,22 +1,22 @@
-GOLEM DE LAVE, PETIT
+LAVA GOLEM, PETIT DU STRUNA
 
 
-CLASS: Golem de lave, petit
-METABOLISM: inorganique
-PERCEPTION: créature magique
-SIZE: 10 pieds
-ENDURANCE: moyen à extrême
-HOSTILITY: haut
-WEAPONS: boules de feu
-REWARD: 500FC
-THREAT: faible à extrême
+CLASSE:      Lava Golem, petite
+MÉTABOLISME: Matières inorganiques
+PERCEPTION: Création magique
+TAILLE:       10 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Boules de feu
+RÉCOMPENSE:     500 FC
+MENACE:     Faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un gros tas de matériaux inanimés animés par magie. Les golems de lave sont constitués de magma à basse température et utilisent les pouvoirs magiques qu'ils contiennent pour invoquer des boules de feu et des projectiles similaires à lancer sur leurs ennemis.
-La puissance et la résistance d'un golem particulier dépendent de sa taille et de la quantité de force magique contenue.
+Une grande pile de matériel inanimé a par magie donné vie. Les lava golems sont faits de magma à basse température et ils utilisent les pouvoirs magiques qu'ils contiennent pour appeler des boules de feu et des projectiles similaires à jeter sur leurs ennemis.
 
-TIPS: 
+La puissance et la résistance de tout golem dépend de sa taille et de la quantité de force magique contenue.
 
-- Les plus gros peuvent être extrêmement résistants et dangereux.
+CONSEILS:
 
+- Les petits spécimens ne sont pas si dangereux.

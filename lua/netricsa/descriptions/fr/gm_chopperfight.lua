@@ -1,12 +1,12 @@
-AUTOROUTE 17, HÉLICOPTÈRE HUNTER EN APPROCHE
+HIGHWAY 17, APPROCHE HILICOPTER
 
 
-Nous sommes dans un bâtiment délabré accroché à une falaise, juste au-dessus d'un gouffre. En contrebas se trouvent des rochers et, à en juger par la hauteur, une mort garantie si nous tombons à l'eau.
+Nous sommes dans un immeuble délabré qui s'accroche à une falaise juste au-dessus d'un fossé. Ci-dessous se trouvent des rochers et, à en juger par la hauteur, une mort garantie si nous tombons dans l'eau.
 
-Tout autour de nous, il n’y a que le ciel, le vent et le bruit des pales du rotor qui approchent. Le Chasseur est déjà là. Il prend son temps, tourne en rond, choisit son moment. Il sait que tu es quelque part à l'intérieur.
+Tout autour de nous n'est que ciel, vent, et le bruit d'approche des pales du rotor. Le chasseur est déjà là. Il prend son temps, tourne, choisit son moment. Il sait que tu es quelque part à l'intérieur.
 
-Il y a des caisses de munitions RPG ici. Dispersés autour du bâtiment.
+Il y a des caisses de munitions RPG ici. Il s'est éparpillé autour du bâtiment.
 
-Une plate-forme fragile à l'extérieur. Une structure en bois est fixée au bâtiment, suspendue au-dessus du gouffre. On dirait qu'il pourrait s'effondrer en un éternuement. Mais il offre une vue parfaite sur l'hélicoptère. Parfait, Sam, et très dangereux.
+Une plate-forme à l'extérieur. Une structure en bois est fixée au bâtiment, suspendue au-dessus du chasme. On dirait qu'il pourrait tomber dans une éternue. Mais il offre une vue parfaite sur l'hélicoptère. Parfait, Sam, et très dangereux.
 
-Il est temps de montrer quelles armes sont les plus puissantes.
+Il est temps de montrer à qui les armes sont plus puissantes.

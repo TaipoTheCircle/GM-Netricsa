@@ -1,22 +1,22 @@
-COMMANDO DÉCAPÉ, XBOX
+COMMANDÉ, XBOX
 
 
-CLASS: Commando décapité, Xbox
-METABOLISM: cyber-zombie
+CLASSE:      Commando décapité, Xbox
+MÉTABOLISME: cyber-zombie
 PERCEPTION: insensible, contrôlé par LCU
-SIZE: 6 pieds
-ENDURANCE: moyen
-HOSTILITY: moyen
-WEAPONS: lanceur de missiles magiques, bombes gonflables
-REWARD: 3000FC
-THREAT: moyen
+TAILLE:       6 pieds
+ENDURANCE:  moyenne
+HOSTILITÉ:  moyenne
+ARMES:    lance-missile magique, bombes gonflables
+RÉCOMPENSE:     3000 FC
+MENACE:     moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un soldat sirien exécuté, ressuscité des morts par Mental et télécommandé par Life Control Unit (LCU).
-The Commando carries his own head in one hand to receive audio/visual information. Being a highly trained, veteran soldier of the Beheaded Corps., surviving through many battles, the Commando is a lot more harder to kill than its newbie comrades. It fires five magic missiles at a time from the magic-missile launcher installed in its head. It also launches five bombs with a single throw. They also have another tactic: lorsqu'ils sentent qu'ils sont sur le point de tomber, ils chargent sur leurs ennemis et se font exploser lorsqu'ils sont suffisamment proches. Ils sont immunisés contre leurs propres missiles, mais pas contre leurs bombes.
+Un soldat sirien exécuté, ressuscité d'entre les morts par Mental et télécommandé par l'Unité de contrôle de la vie.
+Le Commando porte sa propre tête d'une main pour recevoir des informations audiovisuelles. Étant un soldat hautement entraîné et vétéran du Corps décapité, survivant de nombreuses batailles, le Commando est beaucoup plus difficile à tuer que ses nouveaux camarades. Il tire cinq missiles magiques à la fois à partir du lanceur magique missile installé dans sa tête. Il lance également cinq bombes avec un seul lancer. Ils ont aussi une autre tactique: quand ils se sentent sur le point de tomber, ils se chargent de leurs ennemis et s'explosent quand ils sont assez proches. Ils sont à l'abri de leurs propres missiles, mais pas de leurs bombes.
 
-TIPS: 
+CONSEILS:
 
 - Méfiez-vous de leur pluie de bombes.
-- Lorsqu'ils sont suffisamment blessés, ils passent en mode kamikaze.
+- Quand ils seront assez blessés, ils passeront en mode kamikaze.

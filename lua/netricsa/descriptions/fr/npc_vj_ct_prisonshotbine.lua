@@ -1,26 +1,26 @@
-COMBINEZ L'ÉQUIPE DE SEAL 6 OVERWATCH PRISON SHOTGUNNER
+ÉQUIPE DE SEL COMBINE 6 SURVEILLANCE PRISON SHOTGUNNER
 
 
-CLASS: Overwatch Combine SEAL Team 6 Fusilier de prison
-METABOLISM: Humain augmenté, mâle
-PERCEPTION: Forces spéciales du groupe d'élite
-SIZE: 5,9 pieds
-ENDURANCE: Très élevé
-HOSTILITY: Extrême
-WEAPONS: SPAS-12
-REWARD: 950 FC
-THREAT: Très élevé
+CLASSE:      Overwatch Combine SEAL Team 6 Prison Shotgunner
+MÉTABOLISME: Augmenté Humain, Homme
+PERCEPTION: Elite combine les forces spéciales
+TAILLE:       5,9 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Extrême
+ARMES:    ESPAS-12
+RÉCOMPENSE:     950 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Ces soldats étaient autrefois de véritables Navy SEALs des États-Unis, maîtres des raids surprises et des opérations de sauvetage dans les zones les plus dangereuses du monde.
+Ces soldats étaient autrefois de véritables SEAL de la marine américaine, maîtres des raids surprises et des opérations de sauvetage dans les zones les plus dangereuses du monde.
 
-Ils travaillaient comme une équipe capable de contourner toute sécurité et d'éliminer une cible derrière les lignes ennemies, risquant parfois leur vie pour quelques minutes d'avantage stratégique.
+Ils ont travaillé comme une équipe capable de contourner toute sécurité et d'éliminer une cible derrière les lignes ennemies, risquant parfois leur vie pendant quelques minutes d'avantage stratégique.
 
-A l'origine spécialiste des assauts rapprochés, ce militaire était chargé de dégager les couloirs gardés.
+À l'origine, un spécialiste des assauts près du quartier, ce soldat était responsable du nettoyage des couloirs surveillés.
 
-Dans le Combine, il a reçu une combinaison bleue et une visière de casque rouge, et le fusil de chasse SPAS-12 est devenu son arme de prédilection, gardant des prisons comme Nova Prospekt.
+Dans le Combiné, il a reçu un costume bleu et un casque rouge visière, et le fusil SPAS-12 est devenu son arme de marque, protégeant des prisons comme Nova Prospekt.
 
-TIPS: 
+CONSEILS:
 
-- Gardez vos distances - le fusil de chasse est particulièrement mortel dans les couloirs étroits.
+- Gardez votre distance - le fusil est particulièrement mortel dans les couloirs serrés.

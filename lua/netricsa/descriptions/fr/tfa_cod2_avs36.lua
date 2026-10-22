@@ -1,23 +1,23 @@
-AVS-36 AUTOMATIC RIFLE
+RIFLE AUTOMATIQUE AVS-36
 
 
-ARME : AVS-36 automatic rifle
-MUNITIONS : 7.62x54 mm R
-ROF : ~20-25 rounds / min single-shot, ~40 rounds / min automatic
-POIDS : 4,05 kg without bayonet and magazine
+ARME: Fusil automatique AVS-36
+MUNITIONS:   7,62 x 54 mm R
+CADENCE DE TIR:    ~20-25 rondes / min mono-coup, ~40 rondes / min automatique
+POIDS: 4,05 kg sans baïonnette et magazine
 
-DESCRIPTIF :
+DESCRIPTION:
 
-The AVS-36, Simonov automatic rifle, model 1936, was a Soviet automatic rifle and the first mass-produced automatic rifle adopted by the Red Army after the Fedorov assault rifle. It was developed by Sergei Simonov and officially accepted into service in 1936.
+L'AVS-36, fusil automatique Simonov, modèle 1936, était un fusil automatique soviétique et le premier fusil automatique de série adopté par l'Armée rouge après le fusil d'assaut Fedorov. Il a été développé par Sergei Simonov et officiellement accepté en service en 1936.
 
-The rifle uses a gas-operated system with a short-stroke gas piston and a unique wedge locking system. It is fed from a detachable, double-row, 15-round magazine. The AVS-36 could fire in both single-shot and automatic modes, with the automatic mode initially considered more of an emergency option.
+Le fusil utilise un système à gaz avec un piston à gaz à court terme et un système de verrouillage de coin unique. Il est alimenté à partir d'un magazine détachable, double rangée, 15-round. L'AVS-36 pourrait tirer en mode simple et automatique, le mode automatique étant initialement considéré comme une option d'urgence.
 
-The sighting range of the iron sights reached 1,500 meters. The rifle could be equipped with a bayonet, and its weight with bayonet, sight, and magazine reached approximately 6 kg. Despite its advanced design for its time, the AVS-36 was complex and suffered from a number of reliability issues, and was eventually replaced by the more successful SVT-38/40.
+La portée d'observation des vues en fer a atteint 1 500 mètres. Le fusil pourrait être équipé d'une baïonnette, et son poids avec la baïonnette, la vue, et la revue atteint environ 6 kg. Malgré sa conception avancée pour son temps, l'AVS-36 a été complexe et a souffert de plusieurs problèmes de fiabilité, et a finalement été remplacé par le SVT-38/40 plus réussi.
 
-According to various estimates, approximately 35,000-65,000 AVS-36s were produced. The weapon saw action at Khalkhin Gol, the Soviet-Finnish War, and the initial period of World War II.
+Selon diverses estimations, environ 35 000 à 65 000 AVS-36 ont été produits. L'arme a vu l'action à Khalkhin Gol, la guerre soviétique-finnoise et la période initiale de la Seconde Guerre mondiale.
 
-REMARQUES :
+REMARQUES:
 
-- Automatic mode allows for a sharp increase in the density of fire, but single-shot mode is better suited for general shooting.
-- The powerful 7.62x54mm R rifle cartridge makes the AVS-36 a serious weapon at medium and long ranges.
-- The wedge locking mechanism is quite unusual for a rifle and has become one of the hallmarks of Simonov's design.
+- Le mode automatique permet une forte augmentation de la densité du feu, mais le mode simple est mieux adapté pour la prise de vue générale.
+- La puissante 7,62x54mm La cartouche de fusil R fait de l'AVS-36 une arme sérieuse à portée moyenne et longue.
+- Le mécanisme de verrouillage de coin est assez inhabituel pour un fusil et est devenu l'une des caractéristiques du design de Simonov.

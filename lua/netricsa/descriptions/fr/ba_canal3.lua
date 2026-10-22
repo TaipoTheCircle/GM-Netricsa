@@ -1,20 +1,20 @@
-CANAUX DE LA MESA NOIRE, UNE ZONE SPÉCIALE
+CHANNELS DU MESA BLACK, UN DOMAINE SPÉCIAL
 
 
-Sam, écoute attentivement. Le chemin vers la boîte explosive n’est pas aussi simple qu’il y paraît. Il faut faire un détour : là où vous vous trouvez actuellement, la « petite zone » vous réserve de nombreuses surprises.
+Sam, écoute bien. Le chemin menant à la boîte explosive n'est pas aussi facile qu'il semble. Vous devez faire un détour - où vous êtes debout maintenant, la "petite zone" est chargée d'une surprise.
 
-They can come out of the shadows: 
+They can come out of the shadows:
 
-cartouches - pour ne pas rester sans feu;
+cartouches − pour ne pas être laissées sans feu;
 
-Armure - cela pourrait être utile en combat rapproché ;
+Armure - il pourrait être utile dans le combat rapproché;
 
-armes - peut-être que votre vieil ami "Whizz" aura une compagnie.
+armes - peut-être votre vieil ami "Whizz" aura une compagnie.
 
-Mais avec les fournitures viendra la horde mentale. Ils sortiront de toutes les fissures spatiales dès qu’ils sentiront votre présence. Soyez prêt à attaquer !
+Mais avec les provisions viendra la horde mentale. Ils sortiront de toutes les fissures spatiales dès qu'ils sentiront votre présence. Soyez prêt à attaquer !
 
-Cela devient encore plus effrayant.
+Ça devient plus effrayant.
 
-In the distance, behind the rusty pipes, you will see a guard on the bridge. The poor guy is trapped: les zombies l'entraînent dans des directions différentes, comme des enfants se disputant à propos d'un jouet. Il crie, mais personne ne viendra à son secours.
+Au loin, derrière les tuyaux rouillés, vous verrez un garde sur le pont. Le pauvre gars est pris au piège : les zombies le traînent dans des directions différentes, comme les enfants se disputent sur un jouet. Il hurle, mais personne ne viendra aider.
 
-Après le pont, il y a un chemin qui mène à la boîte.
+Après le pont, il y a un chemin vers la boîte.

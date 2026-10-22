@@ -1,23 +1,23 @@
-CHAIR DE CRABE DU MOBIUS
+VIANDE DE CRAB DU MOBIUS
 
 
-CLASS: Chair de crabe
-METABOLISM: Batterie animale
-PERCEPTION: Point de tir
-SIZE: 4 pieds
-ENDURANCE: Faible
-HOSTILITY: Haut
-WEAPONS: Sphères énergétiques
-REWARD: 500FC
-THREAT: Moyen
+CLASSE:      Viande de crabe
+MÉTABOLISME: Batterie animale
+PERCEPTION: Point d'allumage
+TAILLE:       4 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Haut
+ARMES:    Domaines énergétiques
+RÉCOMPENSE:     500 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Lorsqu'il s'agissait d'organiser une défense dans des espaces ouverts, le Dr Eggman s'est tourné vers les crabes. Leurs mouvements latéraux et leurs griffes claquantes convenaient parfaitement au concept de drone de tir mobile. Ainsi est née la chair de crabe.
+En ce qui concerne l'organisation d'une défense dans les espaces ouverts, le Dr Eggman a tourné son attention vers les crabes. Leur mouvement latéral et leurs griffes s'adaptent parfaitement au concept de drone de tir mobile. Ainsi, la viande de crabe est née.
 
-Leur corps est rouge, leur ventre est jaune et leurs quatre pattes griffues leur permettent de ramper sur n'importe quelle surface. Deux antennes flexibles et des tiges oculaires dotées de photorécepteurs dépassent de leur coquille. Mais l’attraction principale, ce sont leurs griffes. Chacun contient un générateur d'impulsions caché. La chair du crabe ne poursuit pas ses proies ; il fait méthodiquement les cent pas, en attendant. Dès qu'il détecte un mouvement, il s'arrête, pointe ses pinces et tire soit deux projectiles sphériques qui volent en arc de cercle.
+Leur corps est rouge, leur ventre est jaune, et leurs quatre pattes aux pieds griffés leur permettent de ramper sur n'importe quelle surface. Deux antennes flexibles et des éblouissements avec des photorécepteurs s'écartent de leur coque. Mais l'attraction principale est leurs griffes. Chacun contient un générateur d'impulsions caché. La viande de crabe ne chasse pas ses proies ; elle avance méthodiquement, attendant. Dès qu'il détecte le mouvement, il s'arrête, vise ses pincers, et tire deux projectiles sphériques qui volent dans un arc.
 
-TIPS: 
+CONSEILS:
 
-- Attaquez pendant qu'il vise. À ce stade, il ne réagit pas aux stimuli externes.
-- Ne restez pas dans la ligne de mire : les sphères tombent d'en haut.
+- Attaque pendant qu'il vise. À ce stade, il ne réagit pas aux stimuli externes.
+- Ne restez pas dans la ligne de feu - les sphères tombent d'en haut.

@@ -1,19 +1,19 @@
-SOUDEUR MANHACK
+MATIERE MANHACK
 
 
-WEAPON: Distributeur Manhack
-AMMO: Manhacks (lames volantes autonomes)
-ROF: ~1 apparition/sec
+ARME:      Distributeur de manhack
+MUNITIONS:        Manhacks (lames volantes autonomes)
+CADENCE DE TIR:         ~1 fraie/sec
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Outil armé qui déploie de petites lames volantes autonomes « manhacks » pour attaquer les ennemis. Une fois libérés, les manhacks recherchent des cibles et infligent des dégâts tranchants continus jusqu'à ce qu'ils soient détruits ou rappelés. Utile pour le contrôle de zone et le harcèlement.
+Outil armé qui déploie de petites lames volantes autonomes "manhacks" pour attaquer les ennemis. Une fois libérés, les manchots cherchent des cibles et infligent des dégâts continus jusqu'à destruction ou rappel. Utile pour le contrôle et le harcèlement.
 
-Mode de tir secondaire du Manhack Gun. Déploie une petite mine explosive sphérique au lieu d'un manhack. La mine explose à proximité des ennemis, infligeant des dégâts de zone et un contrôle stratégique sur les points d'étranglement.
+Mode de tir secondaire du Manhack Gun. Déploye une petite mine explosive sphérique au lieu d'un manhack. La mine détone la proximité des ennemis, ce qui entraîne des dommages à la zone et un contrôle stratégique des points d'étranglement.
 
-NOTES: 
+REMARQUES:
 
-- Apparitions illimitées tant que des manhacks sont disponibles dans le pool de munitions.
+- Frayons illimités aussi longtemps que les manhacks sont disponibles dans la piscine de munitions.
 - Peut harceler ou distraire plusieurs ennemis simultanément.
-- Efficace dans les espaces confinés où les manhacks peuvent suivre les cibles.
-- Nécessite une connaissance de la situation pour éviter les tirs amis ou les auto-mutilations.
+- Efficace dans des espaces confinés où les manhacks peuvent suivre les cibles.
+- Nécessite une prise de conscience de la situation pour éviter le feu amical ou l'automutilation.

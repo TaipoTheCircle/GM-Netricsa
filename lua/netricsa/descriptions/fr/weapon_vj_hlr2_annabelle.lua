@@ -1,14 +1,14 @@
 ANNABELLE
 
 
-WEAPON: Fusil à pompe Annabelle
-AMMO: 357 cartouches Magnum
-ROF: Action de pompe, ~60 coups/min
+ARME:      Le fusil Annabelle
+MUNITIONS:        357 tours de Magnum
+CADENCE DE TIR:         Pompe-action, ~60 rds/min
 
 DESCRIPTION:
 
-Fusil de chasse de grande puissance capable de tirer des balles en acier standard. Conçue pour les frappes de précision à longue portée, Annabelle est mortelle contre l'infanterie et les cibles lourdement blindées.
+Fusil à haute puissance capable de tirer des balles en acier standard. Conçu pour des frappes de précision à longue portée, Annabelle est mortelle contre l'infanterie et les cibles fortement blindées.
 
-NOTES:
+REMARQUES:
 
-- Dégâts extrêmement élevés par tir.
+- Les dégâts sont très élevés.

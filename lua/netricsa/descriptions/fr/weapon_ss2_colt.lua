@@ -1,15 +1,15 @@
-COLT ANACONDA
+ANACONDA DE COLTE
 
 
-WEAPON: Colt Anaconda
-AMMO: .44 Magnum
-ROF: ~25-30 tours/min
+ARME: Colt Anaconda
+MUNITIONS:   44 Magnum
+CADENCE DE TIR:    ~25-30 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Colt Anaconda est un revolver à gros châssis et de gros calibre conçu pour la chasse et un usage intensif. Sa construction robuste en acier inoxydable et son cylindre à six cartouches offrent une puissance d'arrêt exceptionnelle et des caractéristiques de tir stables. En termes de jeu, il fonctionne comme une arme de poing puissante et de faible capacité pour les situations nécessitant une létalité d'un seul coup.
+Le Colt Anaconda est un revolver à gros châssis à gros calibre conçu pour la chasse et l'usage intensif. Sa robuste construction en acier inoxydable et son cylindre six tours offrent une puissance d'arrêt exceptionnelle et des caractéristiques de tir stables. En termes de jeu, il fonctionne comme un bras latéral à haute pression, faible capacité pour les situations qui nécessitent une létalité à un coup.
 
-NOTES: 
+REMARQUES:
 
-- Robuste et fiable ; la construction lourde assure la durabilité.
-- Idéalement utilisé comme outil de précision à fort impact ou comme arme de poing lourde de dernier recours.
+- robuste et fiable; construction lourde assure la durabilité.
+- Mieux utilisé comme outil de précision, à impact élevé ou comme bras latéral lourd de dernier ressort.

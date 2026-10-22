@@ -1,22 +1,22 @@
-BÉBÉ ALUDRAN REPTILOÏDE, COMMUN
+BABY ALUDRAN REPTILOID, COMMUN
 
 
-CLASS: Bébé Reptiloïde Aludran, Commun
-METABOLISM: à sang froid, ressemblant à un reptile
+CLASSE:      Bébé Aludran Reptiloid, Fréquent
+MÉTABOLISME: sang-froid, comme un reptile
 PERCEPTION: race primitive
-SIZE: 0,8 pied
-ENDURANCE: moyen
-HOSTILITY: haut
-WEAPONS: missiles magiques à tête chercheuse
-REWARD: 5000FC
-THREAT: moyen
+TAILLE:       0,8 ft
+ENDURANCE:  moyenne
+HOSTILITÉ:  élevé
+ARMES:    missiles magiques
+RÉCOMPENSE:     5000 FC
+MENACE:     moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un petit reptile à quatre mains vivant dans le système Aludran dans la constellation du Canis Major. Cette race primitive a accepté de se battre pour Mental en échange des pouvoirs de lancement de sorts qu'elle leur a donnés.
-Ils lancent des boules de feu automotrices dotées de capacités de guidage primitives.
+Un petit reptile à quatre mains vivant dans le système Aludran dans la constellation de Canis Major. Cette race primitive a accepté de se battre pour le Mental en échange des pouvoirs qu'elle leur a conférés.
+Ils ont lancé des boules de feu autopropulsées avec des capacités primitives.
 
-TIPS: 
+CONSEILS:
 
-- Gardez-les sous le feu constant et essayez d'abattre leurs missiles en l'air.
+- Gardez-les sous un feu constant et essayez d'abattre leurs missiles dans l'air.
 - Vous pouvez les écraser et les piétiner.

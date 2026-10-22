@@ -1,6 +1,6 @@
-BLACK MESA: FORTERESSE DU CANYON
+BLACK MESA: CANYON STRONGHOLD 
 
 
-Le sol s'ouvrait sur un système de canyons – des crêtes étroites, des falaises instables et aucun endroit où se cacher. Le terrain de chasse idéal pour quelque chose de aérien.
+Le sol s'ouvrit dans un système canyon - des crêtes étroites, des falaises instables, et nulle part où se cacher. Le terrain de chasse parfait pour quelque chose dans l'air.
 
-Sensors confirm it: un nouveau vaisseau de combat Apache s'est verrouillé. Pas celui d'avant : de la peinture fraîche, des fusées neuves et un pilote désireux d'égaliser le score. Il tourne au-dessus des bords du canyon, utilisant les murs comme entonnoirs pour vous piéger dans les zones de destruction.
+Sensors confirm it: un nouveau vaisseau Apache s'est verrouillé. Pas celui d'avant - peinture fraîche, fusées fraîches, et un pilote impatient de même la partition. Il tourne au-dessus des bords du canyon, en utilisant les murs comme des entonnoirs pour vous piéger dans les zones de destruction.

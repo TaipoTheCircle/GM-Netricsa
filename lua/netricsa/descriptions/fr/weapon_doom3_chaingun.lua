@@ -1,18 +1,18 @@
-MACH 2 MACHINE GUN
+MACHET 2 MACHINE
 
 
-ARME : Mitrailleuse Mach 2
-MUNITIONS : 7.62x51mm
-RR : ~900 tours/min
+ARME: Mach 2 mitrailleuse
+MUNITIONS:   7,62x51mm
+RR:     ~900 tours/min
 
-DESCRIPTIF :
+DESCRIPTION:
 
-A powerful, rapid-fire machine gun designed for heavy automatic fire. Its high rate of fire allows it to quickly engage multiple targets and effectively suppress enemies at close to medium ranges.
+Une puissante mitrailleuse à feu rapide conçue pour un feu automatique lourd. Son taux élevé de feu lui permet d'engager rapidement plusieurs cibles et de supprimer efficacement les ennemis à proximité de gammes moyennes.
 
-The machine gun uses a box magazine and boasts a high rate of fire. Its main drawback is its rapid consumption of ammunition, meaning that the ammo supply depletes quickly during prolonged firing.
+La mitrailleuse utilise un magazine de boîtes et a un taux élevé de feu. Son principal inconvénient est sa consommation rapide de munitions, ce qui signifie que l'approvisionnement en munitions s'épuise rapidement lors de tirs prolongés.
 
-REMARQUES :
+REMARQUES:
 
-- Cadence de tir très élevée.
-- Particularly effective against multiple targets simultaneously.
-- Consumes ammunition quickly during continuous firing.
+- Très fort.
+- Particulièrement efficace contre plusieurs cibles simultanément.
+- Consomme rapidement des munitions pendant les tirs continus.

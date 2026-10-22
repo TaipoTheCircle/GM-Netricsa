@@ -1,26 +1,26 @@
-REBELLE DE LA RÉSISTANCE ARCTIQUE, FEMME
+REBEL DE RESISTANCE ARCTIQUE, FEMME
 
 
-CLASS: Arctic Resistance Fighter, Female
-METABOLISM: Humain, Femelle
-PERCEPTION: Combattant de la résistance humaine de l'Arctique
-SIZE: 5,9 pieds
-ENDURANCE: Moyen
-HOSTILITY: Haut
-WEAPONS: Pistolet, SMG, fusil à pompe SPAS-12, fusil à pompe "Annabelle", arbalète, grenades, RPG V2, AR2, AR1
-REWARD: 200FC
-THREAT: Moyen
+CLASSE:      Chasseur de résistance arctique, femelle
+MÉTABOLISME: Humain, femme 
+PERCEPTION: Chasseur de résistance Arctique humain
+TAILLE:       5,9 pieds
+ENDURANCE:  Moyenne 
+HOSTILITÉ:  Haut
+ARMES:    Pistol, SMGs, SPAS-12 Shotgun, "Annabelle" Shotgun, Crossbow, Grenades, RPG V2, AR2, AR1
+RÉCOMPENSE:     200 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les rebelles arctiques sont des membres de la Résistance humaine, organisée pour combattre l'occupation de l'Alliance. Il s’agit de gens ordinaires, rapidement formés au maniement des armes à feu et aux attaques coordonnées, improvisant souvent des tactiques dans les zones de combat urbaines et rurales.
+Les rebelles arctiques sont membres de la Résistance humaine, organisée pour combattre l'occupation de l'Alliance. Ce sont des gens ordinaires, rapidement formés à l'utilisation des armes à feu et aux attaques coordonnées, souvent improvisantes dans les zones de combat urbaines et rurales.
 
-Ils opèrent en escouades, assurant la couverture des civils, sécurisant les routes d'approvisionnement et fournissant un soutien essentiel aux agents clés comme Gordon Freeman ou Alyx Vance. Bien que moins avancées que les forces de l’Alliance, leur adaptabilité, leur moral et leur supériorité numérique en font de redoutables adversaires.
+Ils opèrent en escadrons, assurent la couverture des civils, sécurisent les routes d'approvisionnement et fournissent un soutien essentiel à des agents clés comme Gordon Freeman ou Alyx Vance. Bien que moins avancés que les forces de l'Alliance, leur adaptabilité, leur moral et leur supériorité numérique en font des adversaires redoutables.
 
-Les Rebels s'appuient sur le travail d'équipe et les tactiques de délit de fuite plutôt que sur la force brute. Leur résilience découle d’un dévouement à la survie humaine et non d’un armement supérieur. On peut souvent les voir piloter des véhicules comme le char Merkava ou assister les scientifiques et les médecins sur le champ de bataille.
+Les rebelles s'appuient sur le travail d'équipe et la tactique des coups et blessures plutôt que sur la force brute. Leur résilience découle d'un dévouement à la survie humaine, et non d'armes supérieures. Ils peuvent souvent être vus avec des véhicules comme le char Merkava ou aider des scientifiques et des médecins sur le champ de bataille.
 
-TIPS: 
+CONSEILS:
 
-- Protégez-les – ils sont plus efficaces en groupe. - Leur fournir des munitions et des trousses de premiers secours pour maintenir la pression sur les lignes de front.
-- Utilisez-les pour explorer la zone et tendre une embuscade aux patrouilles de l'Alliance.
-- Les escouades rebelles peuvent écraser même les unités de l'Alliance légèrement blindées si elles se coordonnent bien.
+- Protégez-les - ils sont les plus efficaces dans les groupes. - Leur fournir des munitions et des trousses de premiers secours pour maintenir la pression sur les lignes de front.
+- Utilisez-les pour repérer la zone et embusquer les patrouilles de l'Alliance.
+- Les brigades rebelles peuvent écraser même les unités de l'Alliance légèrement blindées si elles coordonnent bien.

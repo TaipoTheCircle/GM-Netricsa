@@ -1,17 +1,17 @@
-ORO C9 "PERFORATOR" COMPOUND BOW
+ORO C9 COMPOSANT "PERFORATEUR"
 
 
-ARME : ORO C9 "Perforator" Compound Bow
-MUNITIONS : Steel And Explosive Arrows
+ARME: ORO C9 "Perforateur" Composé Bow
+MUNITIONS:   Flèches en acier et explosifs
 
-DESCRIPTIF :
+DESCRIPTION:
 
-A modern compound bow designed for silently engaging targets at long range. At full draw, the arrow gains tremendous penetrating power, allowing you to destroy an enemy or pin them to a wall with a single shot.
+Un arc composé moderne conçu pour atteindre silencieusement des cibles à longue portée. Au plein tirage, la flèche gagne une puissance pénétrante énorme, vous permettant de détruire un ennemi ou de les épingler à un mur avec un seul coup.
 
-The secondary mode uses Tek arrows with explosive tips. You can carry up to 50 regular arrows and up to 10 special Tek arrows. The optical zoom makes the bow ideal for stealth shooting and long-range shots.
+Le mode secondaire utilise des flèches Tek avec des pointes explosives. Vous pouvez porter jusqu'à 50 flèches régulières et jusqu'à 10 flèches spéciales Tek. Le zoom optique rend l'étrave idéale pour le tir furtif et les tirs à longue portée.
 
-REMARQUES :
+REMARQUES:
 
-- Nearly silent operation.
-- A fully drawn arrow can literally pin an enemy to a wall.
-- Tek arrows turn a quiet bow into a rather noisy solution.
+- Opération quasi silencieuse.
+- Une flèche peut littéralement mettre un ennemi sur un mur.
+- Les flèches Tek transforment un arc silencieux en une solution assez bruyante.

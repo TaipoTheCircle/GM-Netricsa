@@ -1,28 +1,28 @@
-ANGE À GROSSE TÊTE, PETER KLEINER
+GRANDE ANGEL, PETER KLEINER
 
 
-CLASS: Ange à grosse tête, Peter Kleiner
-METABOLISM: Humanoïde, mâle
+CLASSE:      Big-Head Angel, Peter Kleiner
+MÉTABOLISME: Humanoïde, Homme
 PERCEPTION: Fanatique enthousiaste
-SIZE: 5,9 pieds
-ENDURANCE: Faible
-HOSTILITY: Neutre
-WEAPONS: Aucun (sauf en difficulté I Am Ugh-Zan)
-REWARD: 100 FC
-THREAT: Ennui
+TAILLE:       5,9 pieds
+ENDURANCE:    Faible
+HOSTILITÉ:  Neutre
+ARMES:    Aucune (sauf sur I Am Ugh-Zan difficulté)
+RÉCOMPENSE:     100 FC
+MENACE:     Annoyance
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les Big-Heads sont de minces humanoïdes aux crânes exagérés contenant le cerveau des développeurs de Croteam. Ils portent l'uniforme de Serious Sam, mais ont les traits du visage uniques de l'équipe de développement. Ils affichent un enthousiasme obsessionnel et vous poursuivent aux cris de « Bonjour ! » et "Hé, attends!" Ils sont totalement inoffensifs, mais dans la difficulté "Je suis Ugh-Zan", ils gagnent des modificateurs de feu et de glace. Ils apparaissent spontanément dans les zones secrètes, bloquant les passages par leur grand nombre.
+Les grandes têtes sont de minces humanoïdes avec des crânes exagérés contenant les cerveaux des développeurs de Croteam. Ils portent l'uniforme de Serious Sam, mais ont les caractéristiques faciales uniques de l'équipe de développement. Ils montrent un enthousiasme obsessionnel, vous poursuivant avec des cris de "Bonjour!" et "Hé, attendez!" Ils sont complètement inoffensifs, mais dans la difficulté "Je suis Ugh-Zan" ils gagnent le feu et les modificateurs de glace. Ils apparaissent spontanément dans les zones secrètes, bloquant les passages avec leur nombre.
 
-Peter Kleiner is an unrivaled master of one of the most subtle yet crucial disciplines in game graphics: art de la boîte à ciel. Son crâne exagéré est une sphère parfaitement calibrée dans laquelle naissent des cieux entiers, des nuages, des chaînes de montagnes lointaines et des amas d'étoiles. C’est son travail qui crée la toile de fond épique qui transforme les champs de bataille sans fin de The Second Encounter en un vaste monde vivant, et non en une simple arène de tir.
+Peter Kleiner is an unrivaled master of one of the most subtle yet crucial disciplines in game graphics: skybox art. Son crâne exagéré est une sphère parfaitement calibrée dans laquelle naissent des ciels entiers, des nuages, des chaînes de montagnes lointaines et des amas d'étoiles. C'est son travail qui crée la toile de fond épique qui transforme les champs de bataille sans fin de la Deuxième Rencontre en une partie d'un vaste monde vivant, et pas seulement une arène de tir.
 
-Peter's career bridges eras and genres: de l'emblématique Spyro le Dragon (1998) à sa trilogie remasterisée Reignited (2018) et, bien sûr, à travers toute la série classique et HD Serious Sam. Ses skybox ne sont pas seulement des décors, mais des récits atmosphériques à part entière qui donnent le ton de l'aventure, qu'il s'agisse d'un monde féerique de dragons ou d'un désert apocalyptique envahi par Mental.
+La carrière de Peter fait le pont entre les époques et les genres : de l'emblématique Spyro the Dragon (1998) à sa remasterisée Reignited Trilogy (2018) et, bien sûr, à travers toute la série classique et HD Serious Sam. Ses skyboxes ne sont pas seulement des toiles de fond, mais des récits atmosphériques à part entière qui donnent le ton à l'aventure, que ce soit un monde féerique de dragons ou un désert apocalyptique envahi par Mental.
 
-GROSSE TÊTE, JOHN J. DICK "BOOGER"
+Il était une fois vivant, mais après que quelqu'un l'ait tué, il a été ressuscité - devenir un ange.
 
-TIPS: 
+CONSEILS:
 
 - Utilisez un couteau de combat ou un pistolet pour dégager le chemin.
-- En difficulté "I Am Ugh-Zan", détruisez-les à distance grâce à leurs modificateurs.
-- Une masse à frappe horizontale est efficace en groupe.
+- Sur la difficulté "Je suis Ugh-Zan", les détruire à distance en raison de leurs modificateurs.
+- Un lugehammer avec une frappe horizontale est efficace dans un groupe.

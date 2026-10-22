@@ -1,22 +1,22 @@
-RAYE MANTA DE XEN
+MANTA RAY DE XEN
 
 
-CLASS: Raie Manta
-METABOLISM: inconnu
-PERCEPTION: Transporteur extraterrestre
-SIZE: 25 pieds d'envergure
-ENDURANCE: haut
-HOSTILITY: extrême
-WEAPONS: laser monté sur la poitrine
-REWARD: 2000 FC
-THREAT: très élevé
+CLASSE:      Rayon de Manta
+MÉTABOLISME: inconnu
+PERCEPTION: Transporteur étranger
+TAILLE:       échelle de 25 pieds
+ENDURANCE:  élevé
+HOSTILITÉ:  extrême
+ARMES:    laser monté sur la poitrine
+RÉCOMPENSE:     2000 FC
+MENACE:     très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Cette énorme raie manta n'est pas seulement une créature Xen passive, c'est une machine de guerre volante. Il tire depuis sa poitrine un laser dévastateur, capable d'anéantir tout sur son passage, y compris les V-22 Osprey. Non content d'une simple destruction, il laisse également tomber des escouades d'esclaves Vortigaunt et d'Alien Grunts. Observer l'une de ces bêtes en action, c'est comme voir une tempête de mort avec des ailes – magnifiquement terrifiante.
+Cette énorme Manta Ray n'est pas seulement une créature Xen passive - c'est une machine de guerre volante. Il tire un laser dévastateur de sa poitrine, capable d'effacer tout sur son chemin, y compris V-22 Ospreys. Ne se contentant pas de la simple destruction, il abandonne également les escouades d'esclaves Vortigaunt et d'Alien Grunts. Témoinr l'une de ces bêtes en action est comme voir une tempête de mort avec des ailes - magnifiquement terrifiante.
 
-TIPS: 
+CONSEILS:
 
-- Restez loin de son laser thoracique ; la couverture ne vous sauvera pas.
+- Éloignez-vous du laser de la poitrine.
 - Regardez le ciel - il laisse tomber les ennemis d'en haut.
-- Rapide, mortel et n'hésitant pas à utiliser tout ce qui est à sa disposition.
+- Déplacement rapide, mortel, et pas timide de tout utiliser à sa disposition.

@@ -1,15 +1,15 @@
-ELDER'S VODKA
+VODKA D'ELDER
 
 
-WEAPON: Vodka des aînés
-ROF: Une bouteille.
+ARME:      Vodka de l'aîné
+CADENCE DE TIR:         Une bouteille.
 
 DESCRIPTION:
 
-Lorsqu'elle est consommée, la vision se brouille et le monde se déforme, mais un pouvoir caché coule dans les veines du buveur. La force se manifeste malgré la confusion et les étourdissements.
+Lorsqu'elle est consommée, la vision se brouille et le monde se déforme, mais le pouvoir caché coule dans les veines du buveur. La force se manifeste malgré la confusion et les vertiges.
 
-NOTES:
+REMARQUES:
 
-- Accorde de la puissance physique brute.
-- Forte distorsion de la perception.
-- Dangereux en combat précis ou tactique.
+- Donne de la puissance physique brute.
+- Distorsion grave de la perception.
+- Dangereux dans un combat précis ou tactique.

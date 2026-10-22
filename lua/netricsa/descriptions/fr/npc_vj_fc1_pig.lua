@@ -1,24 +1,24 @@
-SANGLIER DE L'ARCHIPEL DE KRIEGER
+BOAR DE LA KRIEGER ARCHIPELAGO
 
 
-CLASS: Sanglier
-METABOLISM: Herbivore / Omnivore
+CLASSE:      Le sanglier
+MÉTABOLISME: Herbivore / Omnivore
 PERCEPTION: Royaliste
-SIZE: 3,5 pieds
-ENDURANCE: Faible
-HOSTILITY: Passif
-WEAPONS: Défenses
-REWARD: 50 FC
-THREAT: Aucun
+TAILLE:       3,5 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Passif
+ARMES:    Tustes
+RÉCOMPENSE:     50 FC
+MENACE:     Aucune
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le sanglier est un représentant classique de la faune de l'archipel de Krieger, apprécié pour sa poitrine juteuse. Ses traits caractéristiques comprennent un corps court et trapu, une tête longue et étroite, des oreilles pointues et dressées. Malgré son apparence menaçante, il fait preuve d'une timidité exceptionnelle et d'un manque d'intelligence. A la moindre menace, il s'enfuit, n'offrant que de l'intérêt comme source de nourriture.
+Le sanglier est un représentant classique de la faune de l'archipel Krieger, prisé pour sa poitrine juteuse. Ses caractéristiques comprennent un corps court, bas, une longue tête étroite, des oreilles pointues et droites. Malgré son apparence menaçante, il présente une timidité exceptionnelle et un manque d'intelligence. Au moindre danger, il fuit, n'offrant que de l'intérêt comme source de nourriture.
 
-Il passe son temps à chercher de la nourriture, ignorant son environnement. Lorsqu’il est approché par des humains, il préfère battre en retraite. Il n'attaque pas.
+Elle passe son temps à chercher de la nourriture, ignorant ses environs. Lorsqu'ils sont approchés par les humains, ils préfèrent se retirer. Il n'attaque pas.
 
-TIPS: 
+CONSEILS:
 
-- Une excellente source de nourriture : une carcasse fournit plusieurs portions de poitrine.
-- Approchez-vous de près - l'animal ne représente aucune menace.
-- Tirez sans crainte - la seule réaction du sanglier sera une fuite violente accompagnée de dubstep.
+- Une excellente source de nourriture - une carcasse fournit plusieurs portions de poitrine.
+- Approche étroite - l'animal ne représente aucune menace.
+La seule réaction du sanglier sera une évasion violente accompagnée de dubstep.

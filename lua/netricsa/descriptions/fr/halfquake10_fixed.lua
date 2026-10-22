@@ -1,23 +1,23 @@
-SPECTACLE DEMI-SÉMEMENT, RÉPÉTITION 2
+POÊLE À CHAPEAUX, REMBLAYAGE 2
 
 
 L'évasion est annulée.
 
-La réalité a reconsidéré.
+La réalité a été reconsidérée.
 
-La série a décidé que vous aviez goûté à la liberté trop tôt. Ils ont donc annulé le script, mis à jour le patch et lancé le mode "Non, ce ne sont que des conneries, recommençons".
+Le spectacle a décidé que tu avais le goût de la liberté trop tôt. Donc ils ont retourné le script, mis à jour le patch, et lancé le mode "Non, c'est des conneries, commençons à nouveau".
 
-Félicitations, Sam, vous êtes entré dans le salon de la rediffusion avec des équipements étendus.
+Félicitations, Sam, vous êtes entré dans le salon de la relève avec des équipements élargis.
 
-Mêmes chambres. Mêmes idées. Mais désormais, tout est fait avec amour du détail et haine de l’humanité.
+Les mêmes chambres. Mêmes idées. Mais maintenant tout est fait avec amour du détail et haine pour l'humanité.
 
-Le piège à pointes ? Bien sûr, c'est de retour. Mais maintenant, les pointes ne sortent plus seulement des murs, probablement dues à l'imagination de quelqu'un.
+Le piège ? Bien sûr, c'est de retour. Mais maintenant les pics ne sortent pas seulement des murs, probablement de l'imagination de quelqu'un.
 
-Les autres « petites choses » sont toujours là.
+Les autres "petites choses" sont toujours là.
 
 De nouveaux coins où vous pouvez tomber.
 
-Les blagues les plus perverses sur la vie et la mort.
+Les plus mauvaises blagues avec la vie et la mort.
 
 Alors surveille attentivement, Sam.
 

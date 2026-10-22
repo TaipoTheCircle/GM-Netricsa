@@ -1,19 +1,19 @@
-PISTOLET M1911
+M1911 PISTOL
 
 
-WEAPON: Pistolet M1911
-AMMO: .45 ACP (pistolet Colt automatique)
-ROF: ~40 tours/min
-WEIGHT: 1,1 kg (chargé)
-LENGTH: 216 millimètres
+ARME: M1911 Pistol
+MUNITIONS:   .45 ACP (Colt Pistol automatique)
+CADENCE DE TIR:    ~40 tours/min
+POIDS: 1,1 kg (chargé)
+LENGTH: 216 mm
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le pistolet classique de calibre .45 conçu par John Browning, utilisé comme modèle standard par l'armée américaine pendant plus d'un demi-siècle. Connu pour sa fiabilité, sa rondeur puissante et sa résilience dans la saleté et dans des conditions défavorables. Il s'agit souvent d'une arme de poing infligeant de gros dégâts, idéale pour les distances moyennes, en particulier contre les ennemis légèrement blindés.
+Le pistolet classique de calibre 45 conçu par John Browning, utilisé comme question standard par l'armée américaine depuis plus d'un demi-siècle. Réputé pour sa fiabilité, sa puissance ronde et sa résilience dans des conditions de saleté et de conditions défavorables. Il s'agit souvent d'un bras latéral à haut dommage, bon pour les distances moyennes, particulièrement contre les ennemis légèrement blindés.
 
-NOTES: 
+REMARQUES:
 
-- Pouvoir d'arrêt élevé des cartouches .45 ACP ; souvent un coup dans la tête = tuer.
-- Fort recul et cadence de tir plus lente - nécessite des compétences pour être contrôlé.
-- La taille limitée du chargeur (7 cartouches) oblige à des tirs précis.
-- Couramment utilisé comme arme de secours ou de « dernier recours » lors des échanges de tirs.
+- Haute puissance d'arrêt à partir de 45 rounds ACP; souvent un tir à la tête = tuer.
+- un recul fort et un taux d'incendie plus lent - a besoin d'habileté pour contrôler.
+- La taille limitée du magazine (7 tours) force des tirs précis.
+- Utilisé comme une arme de secours ou "dernière station" dans les combats de feu.

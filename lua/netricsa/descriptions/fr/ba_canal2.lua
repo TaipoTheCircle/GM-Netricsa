@@ -1,10 +1,10 @@
-CANAUX DE BLACK MESA, ZONE DE RECYCLAGE
+CANAUX DU MESA BLACK, ZONE DE RECYCLAGE
 
 
-Sam, bienvenue dans l'endroit le plus « parfumé » de Black Mesa : la zone d'élimination des déchets. Ça pue le plastique brûlé, les crissements de métal, et... oui, les créatures mentales sont déjà là. Pas des invités, mais des hôtes à part entière.
+Sam, bienvenue à l'endroit le plus « parfumé » de Black Mesa - la zone d'élimination des ordures. Ça pue le plastique brûlé, les écharpes métalliques, et... oui, les créatures mentales sont déjà là. Pas des invités, mais des hôtes à part entière.
 
-Une énorme poubelle dans l'eau - mâche et écrase tout ce qui entre dans la bouche.
+Une énorme décharge dans l'eau - mâche et écrase tout ce qui entre dans la bouche.
 
-Le levier de réarmement d'urgence est rouillé, comme s'il était sur le point de tomber. Si vous tirez, le monte-charge fera descendre une caisse explosive, il faudra l'enfoncer directement dans le mécanisme.
+Le levier de remise à zéro d'urgence est rouillé, comme s'il allait tomber. Si vous tirez, l'ascenseur de fret baissera une boîte explosive, il doit être déplacé directement dans le mécanisme.
 
 Allez, Sam. Le levier attend. Une explosion est en route.

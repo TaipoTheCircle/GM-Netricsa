@@ -1,24 +1,24 @@
-H.E.V. JUSTIN GRANGES
+S.E.V. JUSTIN BARNS
 
 
-CLASS: H.E.V. Justin Barnes
-METABOLISM: Humain, mâle (capacité de survie améliorée avec la combinaison HEV)
-PERCEPTION: Officier de sécurité de Black Mesa (équipé HEV)
-SIZE: ~5,9 pieds
-ENDURANCE: Haut
-HOSTILITY: Défensif / Allié
-WEAPONS: Fusil à impulsion M41A
-REWARD: 600 FC
-THREAT: Modéré
+CLASSE:      S.E.V. Justin Barns
+MÉTABOLISME: Humain, Homme (survivabilité améliorée avec costume HEV)
+PERCEPTION: Agent de sécurité Black Mesa (équipé de HEV)
+TAILLE:       ~5,9 pi
+ENDURANCE:  Haut
+HOSTILITÉ:  Défendeur / Allié
+ARMES:    M41A Rifle d'impulsion
+RÉCOMPENSE:     600 FC
+MENACE:     Modéré
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Dans certaines opérations, Justin Barns est déployé avec une combinaison HEV expérimentale, ce qui lui confère une durabilité et une efficacité au combat bien supérieures à celles des gardes standards. Cette armure lui permet de résister aux environnements Xen et de résister aux tirs nourris de l'ennemi.
+Dans certaines opérations, Justin Barns est déployé avec une combinaison HEV expérimentale, lui accordant beaucoup plus de durabilité et d'efficacité de combat que les gardes standard. Cette armure lui permet de résister aux environnements Xen et de résister au feu ennemi lourd.
 
-Avec le soutien de la combinaison HEV, Barns devient un allié plus puissant, capable d'engager à la fois des extraterrestres et des soldats sur un pied d'égalité. Son arsenal est élargi et il est bien plus résilient dans les situations de combat, ce qui en fait un partenaire fiable dans les opérations prolongées.
+Avec le soutien de la combinaison HEV, Barns devient un allié plus fort, capable d'engager à la fois les extraterrestres et les soldats sur un pied d'égalité. Son arsenal est élargi, et il est beaucoup plus résistant dans les situations de combat, faisant de lui un partenaire fiable dans les opérations prolongées.
 
-TIPS: 
+CONSEILS:
 
-OTIS LAUREY
-- Permettez-lui d'absorber les tirs ennemis pendant que vous contournez.
-- Mieux associé aux explosifs et aux tactiques de soutien rapproché.
+- Utilisez-le comme partenaire de première ligne - son costume HEV améliore grandement la survie.
+- Laissez-le s'imprégner du feu ennemi pendant que vous flancez.
+- Jumelé aux explosifs et aux tactiques de soutien.

@@ -1,16 +1,16 @@
-XEN, LE CHAMP DE BATAILLE DÉCHUTE
+XEN, LE BATTLEFIELD
 
 
-Plus vous allez en profondeur, pire c'est.
+Plus tu vas loin, pire ça va.
 
-Les forces mentales ont trouvé un chemin et déchirent les lieux. Ses créatures se heurtent aux défenseurs de Xen, le sol étant jonché de cadavres qui n'ont jamais appartenu à la même guerre.
+Les forces mentales ont trouvé un moyen d'entrer et déchirent l'endroit. Ses créatures s'opposent aux défenseurs de Xen, le sol jonché de cadavres qui n'ont jamais appartenu à la même guerre.
 
-And then, in your head, the voice again - harsher, almost panicked: 
+Et puis, dans ta tête, la voix à nouveau - plus dure, presque paniquée:
 
-"Qu'avez-vous fait?"
+"Qu'as-tu fait ?"
 
-Nihilanth ne se moque plus maintenant. Il a l'air... effrayé.
+Nihilanth ne se moque pas maintenant. Il a l'air... effrayé.
 
-Votre chemin à parcourir ne sera pas facile. Les îles devant nous sont fracturées et flottantes, et le seul moyen de les traverser est de monter sur une raie manta. Une fois en vol, vous devrez le guider à travers les tirs croisés, éviter les tirs hostiles et sauter sur l'île suivante.
+Votre chemin ne sera pas facile. Les îles à l'avant sont fracturées et flottantes, et la seule façon de traverser est de monter un Manta Ray. Une fois en vol, vous devrez le guider à travers le feu croisé, éviter le feu hostile, et sauter sur l'île suivante.
 
-Cette île contient le portail vacillant, mais toujours actif. Cela mène à l’un des secteurs industriels de Xen, où la véritable machinerie de cette dimension s’effondre.
+Cette île tient le portail scindant, mais toujours actif. Il mène à l'un des secteurs industriels de Xen, où la machine réelle de cette dimension se broie.

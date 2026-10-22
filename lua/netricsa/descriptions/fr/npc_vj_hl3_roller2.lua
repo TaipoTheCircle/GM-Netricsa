@@ -1,26 +1,26 @@
-MINE DE BOULONS À ROULEAU COMBINÉS
+MINE DE BOLLER DE COMBINE
 
 
-CLASS: Combinez la mine de boulonneur à rouleaux
-METABOLISM: Entièrement synthétique
-PERCEPTION: Combiner une mine explosive active
-SIZE: 1 pied
-ENDURANCE: Faible
-HOSTILITY: Très élevé
-WEAPONS: Explosion de contact, attaque sautée, dégâts causés par des éclats d'obus
-REWARD: 250 FC
-THREAT: Très élevé
+CLASSE:      Mélanger la mine de boulon à rouleaux
+MÉTABOLISME: Entièrement synthétique
+PERCEPTION: Combiner les mines explosives actives
+TAILLE:       1 pi
+ENDURANCE:  Faible
+HOSTILITÉ:  Très élevé
+ARMES:    Contact Blast, saut d'attaque, dommages aux éclats
+RÉCOMPENSE:     250 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-La mine Combine Roller Bolter est une arme de destruction en deux phases. Son corps sphérique, qui rappelle une mine navale, est entièrement recouvert de boulons et de pointes massifs, inclinés pour une dispersion maximale lors de la détonation.
+La mine Combine Roller Bolter est une arme de destruction en deux phases. Son corps sphérique, rappelant une mine navale, est complètement recouvert de boulons et de pics massifs, inclinés pour une dispersion maximale lors de la détonation.
 
-Dès qu'elle détecte une cible, la mine passe immédiatement en mode attaque, accélérant et effectuant des sauts brusques. Elle ne recule pas, ne se fige pas, son comportement ressemble à celui d'un prédateur dépourvu d'instinct de conservation.
+Lorsqu'elle détecte une cible, la mine entre immédiatement en mode attaque, accélérant et effectuant des sauts brusques. Elle ne recule pas, ne gèle pas-son comportement ressemble à celui d'un prédateur sans instinct de conservation.
 
-Lorsqu'elle explose, la charge centrale brise la coque, envoyant tous les boulons et pointes voler dans toutes les directions à une vitesse incroyable. La zone d’explosion s’étend considérablement, se transformant en un nuage dense d’éclats métalliques.
+Quand elle détone, la charge centrale brise la coque, en envoyant tous les boulons et pics volant dans toutes les directions à une vitesse incroyable. La zone d'explosion s'étend considérablement, se transformant en un nuage dense d'éclats métalliques.
 
-Ces boulons sont capables de pénétrer dans les couvertures légères, les gilets pare-balles et les parties non protégées en matières synthétiques. Même en dehors du rayon de l'onde de choc primaire, la cible peut être frappée par une « pluie de bolters » secondaire.
+Ces boulons sont capables de pénétrer le couvercle lumineux, l'armure du corps, et les parties non protégées de synthétiques. Même en dehors du rayon de l'onde de choc primaire, la cible peut être frappée par une "pluie plus forte".
 
-TIPS: 
+CONSEILS:
 
--Maintenir la distance maximale-les boulons se déplacent plus loin que prévu.
+- Maintenir la distance maximale-bolts plus loin que prévu.

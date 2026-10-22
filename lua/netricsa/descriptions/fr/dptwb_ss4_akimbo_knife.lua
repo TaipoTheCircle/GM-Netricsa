@@ -1,14 +1,14 @@
-COUTEAU MILITAIRE
+KNIFE MILITAIRE
 
 
-ARME : Couteau militaire
-POIDS : 1 1/2 lb
-LONGUEUR : 11"
+ARME:    Couteau militaire
+POIDS:    1 1/2 lbs
+LENGTH:    11"
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Un couteau militaire ordinaire à une lame. Utilisé comme outil ou comme arme silencieuse.
+Un couteau militaire ordinaire. Utilisé comme outil ou comme arme silencieuse.
 
-REMARQUES :
+REMARQUES:
 
-- À utiliser pour tuer silencieusement des ennemis plus petits par derrière.
+- Utilisez pour tuer silencieusement de petits ennemis de derrière.

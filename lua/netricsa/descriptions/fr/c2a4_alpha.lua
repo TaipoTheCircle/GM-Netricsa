@@ -1,12 +1,12 @@
-LABORATOIRE DE RECHERCHE ALIEN BLACK MESA, PETIT ENTREPÔT
+LAB DE RECHERCHE NOIR MESA ALIEN, PETITE GUERRE
 
 
-Un petit entrepôt. Cramped, crammed with boxes, with only one exit-a narrow tunnel leading into the unknown.
+Un petit entrepôt. Crampé, entaillé de boîtes, avec seulement une sortie-un tunnel étroit menant à l'inconnu.
 
-Nous sommes sur le monte-charge. Lourd, lent, prenant une éternité pour arriver jusqu'ici, alors que nous nous déplacions d'un pied sur l'autre en nous demandant qui nous rencontrerait au sommet. Un entrepôt nous a rencontré. Et une sortie.
+On est dans l'ascenseur. Lourds, lents, prenant une éternité pour arriver ici, pendant que nous nous déplaçions de pied en pied et nous demandions qui nous rencontrerait au sommet. Un entrepôt nous a rencontrés. Et une sortie.
 
-Mais la sortie, Sam, n'est pas qu'un trou dans le mur. C'est un petit tunnel. Étroit, sinueux. Et cela mène aux laboratoires de recherche extraterrestres.
+Mais la sortie, Sam, n'est pas juste un trou dans le mur. C'est un petit tunnel. Étroite, sinueuse. Et ça mène aux laboratoires de recherche extraterrestres.
 
-Là où ils prélevaient autrefois des échantillons, les analysaient et éventuellement menaient des expériences que personne n'était censé voir.
+Là où ils ont pris des échantillons, les ont analysés, et éventuellement mené des expériences que personne n'était censé voir.
 
-Maintenant, à en juger par les données que je récupère, c'est une zone de guerre active.
+À en juger par les données que je recueille, c'est une zone de guerre active.

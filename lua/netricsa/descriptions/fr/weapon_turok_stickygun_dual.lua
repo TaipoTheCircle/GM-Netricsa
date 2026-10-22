@@ -1,18 +1,18 @@
-DUAL ESUS "Blackfly" Sticky Bomb Guns
+DUAL ESUS "Blackfly" pistolets à bombe collants
 
 
-ARME : Dual ESUS "Blackfly" Sticky Bomb Guns
-MUNITIONS : Sticky Bombs
+ARME: Dual ESUS "Blackfly" pistolets à bombe collants
+MUNITIONS:   Bombes collantes
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Compact Sticky Bomb Guns that fire small explosive charges that stick to surfaces and enemies. A second pull of the trigger manually detonates the attached bomb.
+Des pistolets à bombe collants qui tirent de petites charges explosives qui s'en tiennent aux surfaces et aux ennemis. Une seconde poussée de la détente fait exploser manuellement la bombe attachée.
 
-The secondary mode fires a scattering of contact mines. These stick to surfaces and detonate when an enemy approaches. They can be used in tandem, and the magazine holds 5 charges for a total of 15.
+Le mode secondaire déclenche une dispersion des mines de contact. Ils s'accrochent aux surfaces et détonent quand un ennemi s'approche. Ils peuvent être utilisés en tandem, et le magazine détient 5 frais pour un total de 15.
 
-REMARQUES :
+REMARQUES:
 
-- A single, accurate charge can quickly end an argument.
-- A sticky bomb can be placed directly on an enemy.
-- The secondary mode is excellent for traps and blocking passages.
-- They look like pistols, but their arguments are clearly those of grenade launchers.
+- Une seule charge précise peut rapidement mettre fin à un argument.
+- Une bombe collante peut être placée directement sur un ennemi.
+- Le mode secondaire est excellent pour les pièges et les passages de blocage.
+- Ils ressemblent à des pistolets, mais leurs arguments sont clairement ceux des lance-grenades.

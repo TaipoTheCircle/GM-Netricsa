@@ -1,12 +1,12 @@
-LE FUTUR SITE DE TEOTIHUACAN, FOSSE GÉANTE – MESSAGE
+LE FUTUR SITE DE TEOTIHUACAN, PIT GIANT - MESSAGE
 
 
-Sam, arrête ! Nous... nous ne sommes pas en ville. On dirait que nous nous sommes retrouvés quelque part avant même que la ville ne soit construite... Juste un gouffre. Une immense fosse, l'endroit où Teotihuacan sera finalement construit.
+Sam, arrête ! On n'est pas en ville. On dirait qu'on a fini quelque part avant la construction de la ville... Juste une fosse. Une immense fosse, l'endroit où Teotihuacan finira par être construite.
 
-Regardez ces murs. Ils n'ont pas l'air naturels. Quelqu'un a creusé cette fosse. Ou peut-être que non... Les murs sont d'origine inconnue et mes capteurs ne peuvent pas identifier le matériau. Ce n'est ni de la pierre, ni du métal, ni rien de terrestre. C'est autre chose*.
+Regarde ces murs. Ils ne sont pas naturels. Quelqu'un a creusé cette fosse. Ou peut-être pas... Les murs sont d'origine inconnue, et mes capteurs ne peuvent pas identifier le matériau. Ce n'est pas de la pierre, pas du métal, rien de terrestre. C'est quelque chose d'autre.
 
-Puis un message est arrivé. De certains "Créateurs". Ils s'appellent Taipo et Jack Pofigist. Et vous savez ce qu'ils ont écrit ? "Nous testions un HUD de véhicule et des boss pour le module complémentaire *Serious Sam 2 NPCs*.".
+Puis un message est arrivé. De quelques "Créateurs". Ils se disent Taipo et Jack Pofigist. Et tu sais ce qu'ils ont écrit ? "Nous testions un véhicule HUD et des patrons pour l'addition *Serious Sam 2 NPC*.".
 
-Sérieusement? Créateurs. Dieux. Les créateurs. Et ils écrivent sur un HUD de véhicule ? C'est comme si nous étions dans un mod de jeu, pas dans la réalité !
+Sérieusement ? Créateurs. Mon Dieu. Des créateurs. Et ils parlent d'un véhicule HUD ? C'est comme si on était dans un jeu mod, pas la réalité !
 
-Et puis... alors ça devient totalement absurde. Une discothèque ninja. Quelqu'un nommé Onan Arthur. Des absurdités sur la danse et, apparemment, des fêtes très étranges. Cela n'a clairement rien à voir avec notre mission, Sam. A moins que Mental ait décidé de conquérir le monde à coup de discothèques et de ninjas. Même si... je ne serais pas surpris !
+Et puis... ça devient complètement absurde. Une discothèque ninja. Quelqu'un nommé Onan Arthur. N'importe quoi sur la danse et, apparemment, des fêtes très étranges. Cela n'a manifestement rien à voir avec notre mission, Sam. Sauf si Mental a décidé de prendre le monde à l'aide de discothèques et de ninjas. Bien que... Je ne serais pas surpris !

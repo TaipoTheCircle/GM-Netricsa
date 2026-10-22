@@ -1,10 +1,10 @@
-MESA NOIR, CONSERVATION AU CONGÉLATEUR
+MESA BLACK, STOCKER
 
 
-Sam, tu viens d'entrer dans l'aile congélateur du complexe de la cafétéria de Black Mesa. Normalement, cet endroit est utilisé pour conserver les fournitures au froid, aujourd'hui, il fait également office de morgue et de champ de bataille. La température est peut-être en dessous de zéro, mais le combat entre les escouades de Mental et les créatures Xen s'intensifie rapidement.
+Sam, tu viens d'entrer dans l'aile congélateur du complexe de cafétéria de Black Mesa. Normalement, cet endroit est utilisé pour garder les provisions froides au jour le jour, il double comme une morgue et un champ de bataille. La température peut être inférieure à zéro, mais le combat entre les équipes de Mental et les créatures de Xen réchauffe les choses rapidement.
 
-Les ennemis se cachent entre les morceaux de viande suspendus.
+Les ennemis se cachent entre des dalles de viande suspendues.
 
-Environmental hazard: les unités de réfrigération sont instables, ce qui peut vous désorienter ainsi que vos ennemis. Le bon côté des choses, c'est que tout ce que vous tuez ici reste frais indéfiniment.
+Environmental hazard: les unités de réfrigération sont instables. Ce qui peut désorienter à la fois vous et vos ennemis. Du bon côté, tout ce que vous tuez ici reste neuf indéfiniment.
 
-Recommendation: continuez à avancer, ne vous attardez pas et rappelez-vous que les sols glissants sont tout aussi mortels que les tirs ennemis. Si vous parvenez à survivre, vous pourrez peut-être prendre une collation glacée pour la route. Juste... peut-être pas celui qui bouge encore.
+Recommendation: continue de bouger, ne t'attarde pas, et les sols glissants sont aussi mortels que le feu ennemi. Si vous réussissez à survivre, vous pouvez peut-être prendre un en-cas congelé pour la route. Peut-être pas celui qui bouge encore.

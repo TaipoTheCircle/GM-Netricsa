@@ -1,25 +1,25 @@
 GNAAREYE
 
 
-CLASS: Gnaareye
-METABOLISM: Mutant bio-ingénierie
+CLASSE:      Oiseaux
+MÉTABOLISME: Mutant biomécanique
 PERCEPTION: Gnaar muté (expérience mentale)
-SIZE: ~ 5 pieds de diamètre
-ENDURANCE: Moyen
-HOSTILITY: Extrême
-WEAPONS: Morsure d'oeil
-REWARD: 700FC
-THREAT: Haut
+TAILLE:       ~5 pi de diamètre
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Extrême
+ARMES:    Bite aux yeux 
+RÉCOMPENSE:     700 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Lorsque Mental a mené des expériences pour améliorer la vision des Gnaar en leur donnant un œil bleu perçant, quelque chose s'est terriblement mal passé. La mutation est devenue incontrôlable : leurs corps entiers ont été absorbés par leur propre œil en expansion, laissant derrière eux un orbe charnu flottant rempli de rage et de faim.
+Quand Mental a mené des expériences pour améliorer la vision de Gnaar en leur donnant perçant l'œil bleu, quelque chose s'est terriblement mal passé. La mutation est en spirale hors de contrôle - leur corps entier a été absorbé dans leur propre oeil en expansion, laissant derrière flottant, orbe charnu rempli de rage et de faim.
 
-Fascinated by the grotesque results, Mental approved the creation of a new division: les Gnaareyes - organismes bio-lévitants entraînés au combat aérien. Ils dérivent étrangement dans les airs, entièrement guidés par leurs instincts visuels, et attaquent en dévorant leurs victimes avec leurs énormes pupilles.
+Fasciné par les résultats grotesques, Mental a approuvé la création d'une nouvelle division : les Gnaareyes - organismes bio-lévitants formés pour le combat aérien. Ils dérivent eerly dans l'air, guidés entièrement par des instincts basés sur la vision, et attaquent en consumant les victimes avec leurs énormes pupilles.
 
-Ils ne peuvent ni marcher ni ramper comme leurs anciens parents, mais leur vol et leur regard qui voit tout en font des adversaires imprévisibles et terrifiants.
+Ils ne peuvent pas marcher ou ramper comme leurs anciens parents, mais leur fuite et leur regard tout-voyant les rendent imprévisibles et terrifiants adversaires.
 
-TIPS: 
+CONSEILS:
 
-- Gardez vos distances et utilisez des armes à distance.
-- Lorsqu'ils sont proches, ils peuvent "consommer" instantanément les cibles.
+- Gardez la distance et utilisez des armes variées.
+- Quand ils sont proches, ils peuvent "consommer" des cibles instantanément.

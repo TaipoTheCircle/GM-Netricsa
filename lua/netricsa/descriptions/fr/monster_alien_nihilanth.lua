@@ -1,25 +1,25 @@
 NIHILANTH, LE SEIGNEUR DE XEN
 
 
-CLASS: Nihilanth, le seigneur de Xen
-METABOLISM: Essence psionique
-PERCEPTION: Souverain de Xen
-SIZE: ~30 pieds
-ENDURANCE: Extrêmement élevé
-HOSTILITY: Accablant
-WEAPONS: Explosions psychiques, orbes d'énergie, téléportation, invocation de serviteurs
-REWARD: 5000FC
-THREAT: Apocalyptique
+CLASSE:      Nihilanth, le Seigneur de Xen
+MÉTABOLISME: Essence psionique
+PERCEPTION: Règle de Xen
+TAILLE:       ~30 pieds
+ENDURANCE:  Extrêmement élevé
+HOSTILITÉ:  Débordement
+ARMES:    Blasts psychiatriques, Orbes énergétiques, Téléportation, Minion Invocation
+RÉCOMPENSE:     5000 FC
+MENACE:     Apocalyptique
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Nihilanth était le dirigeant suprême de Xen, un être psionique majestueux, propulsé par la technologie Combine et asservi. Autrefois, il servit comme lieutenant du mystérieux Mental, exécutant ses commandements avec loyauté. Finalement, Nihilanth s'est déclaré indépendant, déclenchant une amère querelle entre les factions. Forcé de fuir, il fut capturé par le Combine, qui le tortura, expérimenta et pervertit son esprit et son corps. Miraculeusement, Nihilanth réussit à orchestrer une rébellion et à s'échapper, fuyant vers Xen, où il établit sa domination.
+Nihilanth était le souverain suprême de Xen, un être psionique majestueux, alimenté par la technologie Combine et asservi. Une fois, il fut lieutenant du mystérieux Mental, accomplissant ses commandements avec loyauté. Finalement, Nihilanth s'est déclaré indépendant, provoquant une querelle amère entre factions. Forcé à fuir, il a été capturé par le Combiné, qui a torturé, expérimenté et perverti son esprit et son corps. Miraculeusement, Nihilanth réussit à orchestrer une rébellion et à s'échapper, fuyant à Xen, où il établit sa domination.
 
-With immense telepathic powers, he commanded armies of Vortigaunts and headcrabs during the Resonance Cascade, leading an invasion of Earth from a border world. His grotesque, childlike body floated in cavernous chambers, protected by impenetrable energy shields and countless minions. Despite his power, the Nihilanth's body bore the marks of torment and limitation: les implants cybernétiques, les cicatrices de l'esclavage et un esprit brisé.
+Avec d'immenses pouvoirs télépathiques, il commanda des armées de Vortigaunts et de headcrabs pendant la Cascade de Résonance, menant une invasion de la Terre d'un monde frontalier. Son corps grotesque et enfantin flottait dans des chambres caverneuses, protégées par des boucliers énergétiques impénétrables et d'innombrables minions. Malgré son pouvoir, le corps de Nihilanth portait les marques du tourment et de la limitation: les implants cybernétiques, les cicatrices de l'esclavage et un esprit brisé.
 
-TIPS: 
+CONSEILS:
 
-- Détruisez les sphères cristallines alimentant son bouclier avant d'engager le combat.
+- Détruisez les sphères cristallines qui alimentent son bouclier avant de combattre.
 - Méfiez-vous des pièges de téléportation - restez mobile.
 - Les explosifs puissants sont le moyen le plus efficace de mettre fin à une bataille.
 - Détruisez le cristal dans sa tête.

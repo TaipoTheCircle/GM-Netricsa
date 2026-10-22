@@ -1,21 +1,21 @@
-BROWNING M1919 MACHINE GUN
+CROISSANCE M1919 MACHINE GUN
 
 
-ARME : Browning M1919 machine gun
-MUNITIONS : .30-06 Springfield (7.62x63 mm)
-ROF : ~4,000-600 rounds / min
-POIDS : ~14 kg
+ARME: Mitrailleuse Browning M1919
+MUNITIONS:  .30-06 Springfield (7.62x63 mm)
+CADENCE DE TIR:    ~4 000-600 tours/min
+POIDS: ~14 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-The Browning M1919 is an American heavy machine gun with an air-cooled barrel, developed from the Browning M1917 machine gun. It was adopted after World War I and was widely used by American troops in World War II, the Korean War, and the Vietnam War.
+Le Browning M1919 est une mitrailleuse américaine à canon refroidi à l'air. Il a été adopté après la Première Guerre mondiale et a été largement utilisé par les troupes américaines pendant la Seconde Guerre mondiale, la guerre de Corée et la guerre du Vietnam.
 
-The M1919 uses a short-recoil, lever-locked action. The American M1919A4 variant used the .30-06 Springfield cartridge and was fed from a 250-round cloth belt. Unlike the M1917, it lacks liquid cooling, so the barrel is air-cooled.
+Le M1919 utilise une action à courte distance, verrouillée par le levier. La variante américaine M1919A4 utilise la cartouche .30-06 Springfield et est alimentée à partir d'une ceinture en tissu de 250 tours. Contrairement au M1917, il manque de refroidissement liquide, donc le baril est refroidi à l'air.
 
-The machine gun was produced in several variants, including the lighter M1919A6, which featured a stock and bipod and could be used as a light machine gun. However, the basic M1919A4 with its tripod weighed even more, so this weapon was primarily intended for fire support.
+La mitrailleuse a été produite en plusieurs variantes, dont le briquet M1919A6, qui présentait un stock et un bipode et pouvait être utilisé comme mitrailleuse légère. Cependant, le M1919A4 de base avec son trépied pesait encore plus, de sorte que cette arme était principalement destinée au soutien-feu.
 
-REMARQUES :
+REMARQUES:
 
-- The long 250-round belt allows for sustained fire without constantly changing ammunition.
-- Well suited for suppressing targets at medium and long ranges.
-- Unlike the M1917, the M1919 was air-cooled, making the design more flexible for various mounting options.
+- La longue ceinture de 250 tours permet un feu soutenu sans changer constamment de munitions.
+- Bien adapté pour supprimer les cibles à moyenne et longue portée.
+- Contrairement au M1917, le M1919 a été refroidi à l'air, rendant le design plus flexible pour diverses options de montage.

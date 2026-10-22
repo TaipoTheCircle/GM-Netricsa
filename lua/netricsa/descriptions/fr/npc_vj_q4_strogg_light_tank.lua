@@ -1,21 +1,21 @@
-CHAR LÉGER STROGG DE STROGGOS
+STROGG LIGHT TANK DE STROGGOS
 
 
-CLASS: Variante du char lourd Strogg
-METABOLISM: Cybernétique / Biomécanique
-PERCEPTION: Visuel + Projection d'incendie + Détection de chaleur
-SIZE: ~8 pieds de haut
-ENDURANCE: Très élevé
-HOSTILITY: Extrême
-WEAPONS: Lance-flammes, tirs de blaster diffusants, grosse boule de feu, masse lourde
-REWARD: 2500FC
-THREAT: Très élevé
+CLASSE:      Variante des citernes lourdes de Strogg
+MÉTABOLISME: Cybernétique / Biomécanique
+PERCEPTION: Visual + Projection d'incendie + Détection de chaleur
+TAILLE:       8 pieds de haut 
+ENDURANCE:  Très élevé 
+HOSTILITÉ:  Extrême
+ARMES:    Lance-flammes, Boules de lance-flammes, Grande boule de feu, Heavy mace 
+RÉCOMPENSE:     2500 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-The Light Tank is a towering Strogg Living war machine. Standing about 8 feet tall, this beast is slow but dangerous. It combines ranged pyrotechnics and brutal melee power: il peut cracher des flammes, lancer des éclairs « ivres » qui zigzaguent, ou charger et lancer une énorme boule de feu après une brève accumulation. Lorsque la distance est réduite, son lourd bras de masse provoque la dévastation.
+Le Light Tank est une énorme machine de guerre Strogg Living. Cette bête, qui mesure environ 8 pieds, est lente mais dangereuse. Il combine la pyrotechnie variée et la puissance brutale de la mêlée : il peut lancer des flammes, des boulons « drunken » qui zigzag, ou charger et lancer une boule de feu massive après une brève accumulation. Quand la distance est fermée, son bras de mac lourde fait tomber la dévastation.
 
-TIPS: 
+CONSEILS:
 
 - Gardez vos distances et utilisez des armes à longue portée.
-- Bien que marquer des tirs à la tête n'infligera qu'un peu plus de dégâts, c'est toujours une bonne idée d'opter pour des tirs à la tête.
+- Bien que marquer des coups de tête ne fera qu'un peu plus de dégâts, c'est toujours une bonne idée d'aller pour des coups de tête.

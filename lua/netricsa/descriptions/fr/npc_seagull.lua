@@ -1,20 +1,20 @@
-MOUETTE
+SEAGUL
 
 
-CLASS: Mouette
-METABOLISM: Oiseau
-PERCEPTION: Aviaire sauvage
-SIZE: ~1,5-2 pieds
-ENDURANCE: Faible
-HOSTILITY: Faible
-WEAPONS: Bec, griffes
-REWARD: 1 FC
-THREAT: Très faible
+CLASSE:      Mouette
+MÉTABOLISME: Oiseaux
+PERCEPTION: Avian sauvage
+TAILLE:       ~1,5-2 ft
+ENDURANCE:  Faible
+HOSTILITÉ:  Faible
+ARMES:    Bec, griffes
+RÉCOMPENSE:     1 FC
+MENACE:     Très faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les mouettes fréquentent les côtes, les rivières et les voies navigables, à la recherche de nourriture à proximité des activités humaines. Ils sont pour la plupart passifs mais peuvent réagir de manière défensive s’ils sont approchés de trop près. Leur présence ajoute du réalisme aux zones adjacentes à l’eau.
+Les goélands fréquentent les côtes, les rivières et les cours d'eau, savourant la nourriture près de l'activité humaine. Ils sont pour la plupart passifs mais peuvent réagir de manière défensive si on les approche trop étroitement. Leur présence ajoute du réalisme aux zones riveraines de l'eau.
 
-TIPS: 
+CONSEILS:
 
 - L'observation des mouettes peut indiquer des sources d'eau ou de nourriture à proximité.

@@ -1,17 +1,17 @@
-MÉGA VODKA SUPER FISTS
+MEGA VODKA SUPER FISTS
 
 
-WEAPON: Méga Vodka Super Fists
-AMMO: Aucun (combat au corps à corps)
-ROF: ~300 coups/min
+ARME: Mega Vodka Super Fists
+MUNITIONS:   Aucune (bataille manuelle)
+CADENCE DE TIR:    ~300 hits/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Super Fists infusé à la Mega Vodka. Les coups de poing sont délivrés avec une force surnaturelle, et chaque coup transporte l'énergie brûlante de Saitama, parcourant le corps du buveur.
+Super Fists infusé avec Mega Vodka. Les coups de poing sont livrés avec une force surnaturelle, et chaque frappe porte l'énergie d'amarrage de Saitama, s'écoulant dans le corps du buveur.
 
-Un coup de poing, mortel.
+Un coup, mortel.
 
-NOTES: 
+REMARQUES:
 
-- Combat rapproché très puissant avec une puissance fiable.
-- Très efficace en combat rapproché contre un adversaire puissant.
+- Très fort combat à portée étroite avec une puissance fiable.
+- Très efficace dans le combat étroit contre un adversaire fort.

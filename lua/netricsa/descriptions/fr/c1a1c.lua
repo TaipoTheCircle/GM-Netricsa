@@ -1,10 +1,10 @@
-MESA NOIR, ASCENSEUR
+MESA BLACK, ÉLEVATEUR
 
 
-Sam, ce secteur est un cauchemar logistique. La seule façon d’avancer est de passer par un monte-charge. Cela semble simple, mais ce n’est bien sûr pas le cas. En descendant, vous aurez le plaisir d'éviter les crabes qui tombent d'en haut - apparemment, la gravité est leur tactique d'embuscade préférée.
+Sam, ce secteur est un cauchemar logistique. La seule façon d'avancer est de passer par un ascenseur. Ça semble simple, mais bien sûr. En descendant, vous aurez le plaisir d'esquiver les têtes tombant d'en haut - apparemment la gravité est leur tactique d'embuscade préférée.
 
-At the bottom, things get even better: la cage d'ascenseur se connecte directement à un compacteur de déchets. Un faux pas et vous serez transformé en boulettes de viande sérieuses. Le timing sera crucial si vous souhaitez traverser en toute sécurité.
+Au fond, les choses s'améliorent : l'arbre de levage se connecte directement à un compacteur à ordures. Une erreur, et vous serez transformés en boulettes de viande graves. Le calendrier sera critique si vous voulez passer en toute sécurité.
 
-Your objective is to reach the bridge beyond this section. Unfortunately, sensors confirm it's already collapsed. Translation: pas de raccourci facile. Vous devrez faire un détour plus profond dans l'établissement jusqu'à ce que vous trouviez l'ascenseur qui mène aux immeubles de bureaux.
+Votre objectif est d'atteindre le pont au-delà de cette section. Malheureusement, les détecteurs confirment qu'il s'est déjà effondré. Traduction: pas de raccourci facile. Vous devrez faire un détour plus profond jusqu'à ce que vous trouviez l'ascenseur qui mène vers les bureaux.
 
-Recommendation: gardez les yeux ouverts pour détecter les parasites qui tombent et vos pieds éloignés des lames qui tournent. Si vous survivez aux deux, les employés du bureau à l'étage seront ravis d'avoir un visiteur aussi... coloré.
+Recommendation: gardez vos yeux levés pour les parasites qui tombent, et vos pieds loin des lames tournantes. Si vous survivez aux deux, les employés de bureau à l'étage seront ravis d'avoir un si... visiteur coloré.

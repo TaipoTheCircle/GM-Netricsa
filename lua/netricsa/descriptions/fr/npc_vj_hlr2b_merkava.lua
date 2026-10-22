@@ -1,25 +1,25 @@
-RÉSERVOIR MERKAVA
+TANQUE DE MERKAVA
 
 
-CLASS: Réservoir Merkava
-METABOLISM: Réservoir mécanique
+CLASSE:      Tank Merkava
+MÉTABOLISME: Réservoir mécanique
 PERCEPTION: Véhicule de combat rebelle
-SIZE: ~26 pieds
-ENDURANCE: Très élevé
-HOSTILITY: Haut
-WEAPONS: Canon-fusée, mitrailleuse montée
-REWARD: 2500FC
-THREAT: Haut
+TAILLE:       ~26 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Haut
+ARMES:    Cannon à roulettes, mitrailleuse montée
+RÉCOMPENSE:     2500 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le char Merkava est une formidable machine de guerre conçue par les rebelles, conçue pour contrer la domination technologique du Combine. Avec un châssis renforcé et un blindage épais, il est capable de résister à de violents assauts tout en délivrant en retour une puissance de feu dévastatrice.
+Le Merkava Tank est une formidable machine de guerre conçue pour contrer la domination technologique du Combiné. Avec un châssis renforcé et un blindage épais, il est capable de résister aux assauts lourds tout en fournissant une puissance de feu dévastatrice en retour.
 
-Son arme principale est un canon lance-roquettes, capable d'anéantir même le plus grand des synthés Combine en un seul barrage. Au sommet du véhicule se trouve une cabine de tireur ouverte, où un rebelle utilise une mitrailleuse de gros calibre, fauchant l'infanterie et effectuant un tir de suppression.
+Son arme principale est un canon de lancement de fusée, capable d'effacer même le plus grand des synthés Combine en un seul barrage. Au-dessus du véhicule se trouve la cabine d'un mitrailleur ouvert, où un rebelle manie une mitrailleuse de calibre élevé, repousse l'infanterie et fournit un incendie.
 
-Bien que plus lent que les véhicules plus légers, la durabilité et la puissance de feu du Merkava en font la pierre angulaire des divisions blindées rebelles. Sa présence sur le champ de bataille est à la fois un boost de moral pour les alliés et un cauchemar pour le syndicat.
+Bien que plus lent que les véhicules plus légers, la durabilité et la puissance de feu du Merkava en font une pierre angulaire des divisions blindées rebelles. Sa présence sur le champ de bataille est à la fois un élan moral pour les alliés et un cauchemar pour le Combiné.
 
-TIPS: 
+CONSEILS:
 
-- Les explosifs lourds ou les Striders sont les plus efficaces contre cela.
+- Les explosifs lourds ou Striders sont les plus efficaces contre elle.
 - Ne sous-estimez jamais le champ de tir du mitrailleur.

@@ -1,12 +1,12 @@
-LA HORDE DU MENTAL
+LE MENTAL EST HORDE
 
 
-La Horde de Mental (également connue sous le nom d'Empire de Tah-Um ou d'Ennemis d'Osiris) est une armée impitoyable composée d'innombrables races extraterrestres unies par la volonté de leur suzerain, Mental, le dernier de l'ancienne race Hum-Tah. Le but de la Horde est l'anéantissement complet de toute vie sensible dans l'univers qui ne sert pas son dieu.
+La Horde du Mental (également connue sous le nom d'Empire de Tah-Um ou les ennemis d'Osiris) est une armée impitoyable d'innombrables races extraterrestres unies par la volonté de leur seigneur, Mental, la dernière de l'ancienne race Hum-Tah. Le but de la Horde est l'annihilation complète de toute vie sensible dans l'univers qui ne sert pas leur dieu.
 
-FORCES SPÉCIALES DU SECTEUR DELTA
+Mental rassemble ses légions d'esclaves, de mercenaires, de mutants et de créatures créées par la magie et la technologie. Il soumet des civilisations entières, promet un pouvoir ou les transforme de force en ses serviteurs réticents. Certains le voient comme une divinité, d'autres comme le fléau de la galaxie, mais sans exception, tous le servent ou périssent.
 
-La Horde Mentale ne connaît ni tactique ni pitié : sa force réside dans son nombre illimité et son obéissance fanatique. Sous son assaut, des empires sont tombés, des nations ont disparu et des étoiles se sont éteintes. Lorsque Mental se réveille, un nouveau cycle de génocide commence et les mondes sont réduits en poussière les uns après les autres.
+La Horde Mentale ne connaît aucune tactique ou miséricorde-sa force réside dans ses nombres illimités et son obéissance fanatique. Sous son assaut, les empires sont tombés, les nations ont disparu, et les étoiles ont été éteintes. Quand le mental s'éveille, un nouveau cycle de génocide commence, et les mondes sont réduits à se poussièrer les uns après les autres.
 
-Mental uses both technology and dark magic: il crée des cyborgs, ressuscite les morts, contrôle les portails et commande des armées entières de monstres, des arachnoïdes et reptiliens aux soldats et démons sans tête.
+Mental uses both technology and dark magic: il crée des cyborgs, ravive les morts, contrôle les portails et commande des armées entières de monstres, des arachnoïdes et des reptiles aux soldats et démons sans tête.
 
-Là où passe la Horde de Mental, il ne reste plus que du silence et des ruines.
+Là où passe la Horde de Mental, rien ne reste-seulement le silence et les ruines.

@@ -1,13 +1,13 @@
-COMPRIMÉ
+TABLEAU
 
 
-ITEM: Comprimé
+ITEM:      Comprimé
 
 
-DESCRIPTION: 
+DESCRIPTION:
 
 Une tablette qui peut être utilisée pour commander divers articles tels que des armes, des munitions, des armures, etc. Il peut également être utilisé pour accéder à un navigateur.
 
-NOTES: 
+REMARQUES:
 
-- Légèrement cassé à cause du modelage.
+- Légèrement cassé par modélisation.

@@ -1,24 +1,24 @@
-ESCLAVE MAGENTA
+ÉCRAN DE MAGENTA
 
 
-CLASS: Esclave magenta
-METABOLISM: Un ancien scientifique humain fusionné avec une entité de type Xen (chumtoad)
-PERCEPTION: Mutant Vortigaunt humain-crapaud
-SIZE: ~6 pieds
-ENDURANCE: Moyen-élevé
-HOSTILITY: Élevé (agressif)
-WEAPONS: Explosions d'énergie de couleur magenta (psionique)
-REWARD: 600 FC
-THREAT: Élevé individuellement, extrême en groupe
+CLASSE:      Magenta Esclave
+MÉTABOLISME: Ancien scientifique humain fusionné avec l'entité de type Xen (chumtoad)
+PERCEPTION: Vortigaunt mutant humain
+TAILLE:       6 pieds
+ENDURANCE:  Moyenne-haute
+HOSTILITÉ:  Élevé (agressif)
+ARMES:    Blasts d'énergie couleur Magenta (psionique) 
+RÉCOMPENSE:     600 FC
+MENACE:     Élevé individuellement, extrême en groupes
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les Esclaves Magenta sont des variantes déformées des Vortigaunts. Ces êtres sont d'anciens scientifiques de Black Mesa fusionnés avec des entités Xen, ce qui donne une teinte magenta frappante à leur peau et leurs colliers et brassards magenta remplacent le vert typique.
+Les esclaves Magenta sont des variantes déformées de Vortigaunts. Ces êtres sont d'anciens scientifiques de Black Mesa fusionnés avec des entités Xen, ce qui donne une teinte magenta frappante pour leur peau et des colliers et des brassards de vitesse-magenta remplacent le vert typique.
 
-Their origin involves a disturbing experiment: un scientifique a fusionné avec un Chumtoad dans un tube d'eau, donnant naissance au premier esclave magenta. Ce processus de fusion a été répété pour en créer davantage, leur permettant de proliférer dans Black Mesa et de devenir des attaquants psioniques de plus en plus agressifs.
+Their origin involves a disturbing experiment: un scientifique a fusionné avec un Chumtoad à l'intérieur d'un tube d'eau, donnant naissance à la première esclave Magenta. Ce processus de fusion a été répété pour créer plus, leur permettant de proliférer dans toute la Mesa noire et devenir progressivement des attaquants psioniques agressifs.
 
-TIPS: 
+CONSEILS:
 
-- Engage from cover: Leurs explosions d'énergie sont psioniques, rapides et percutantes.
-- Isolate and eliminate: Les groupes sont incroyablement dangereux – un isolement rapide est essentiel.
-- Use environmental hazards: Forcez les groupes à se placer dans des pièges ou des goulots d'étranglement pour diminuer leur menace.
+- S'engager de la couverture : Leurs explosions d'énergie sont psioniques, rapides et durs.
+- Isoler et éliminer: les groupes sont incroyablement dangereux - l'isolement rapide est la clé.
+- Utiliser les dangers environnementaux : Forcer les paquets dans les pièges ou les goulots d'étranglement pour réduire leur menace.

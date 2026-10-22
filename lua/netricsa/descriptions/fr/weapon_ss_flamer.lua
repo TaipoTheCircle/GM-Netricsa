@@ -1,15 +1,15 @@
-LANCE-FLAMMES XOP
+XOP FLAMETHROWER
 
 
-WEAPON: Lance-flammes XOP
-AMMO: Napalm HT
-ROF: Continu
-WEIGTH: 20 lb (vide), 30 lb (réservoir plein)
+ARME:    Rouleau de flamme XOP
+MUNITIONS:      HV Napalm 
+CADENCE DE TIR:       En continu
+WEIGTH:    20 lb (vide), 30 lb (réservoir complet)
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Cette arme expérimentale utilise du napalm hautement volatil pour délivrer un jet de flammes pénétrant la chair.  Il est très efficace pour une utilisation sur de grandes masses, puisque le jet engloutira même les ennemis partiellement cachés.  Le fait que les ennemis brûlent quelques instants après avoir été touchés rend cette arme encore plus efficace.  On pourrait dire que c'est du genre "FIRE et oublier".
+Cette arme expérimentale utilise du napalm hautement volatil pour produire un jet de flammes pénétrant la chair. Il est très efficace pour l'utilisation sur de grandes masses, puisque le courant engloutira même partiellement les ennemis cachés. Le fait que les ennemis brûlent pendant quelques instants après avoir été frappés rend cette arme encore plus efficace. On pourrait dire que c'est un genre de chose "FIRE et oublier".
 
-NOTES: 
+REMARQUES:
 
-- Éliminez de grandes masses d'ennemis avec cette arme.
+- Dégagez de grandes masses d'ennemis avec cette arme.

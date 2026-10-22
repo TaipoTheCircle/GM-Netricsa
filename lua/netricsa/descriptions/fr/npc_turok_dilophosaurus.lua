@@ -1,23 +1,23 @@
-DILOPHOSAURE DE LA PLANÈTE TERRAFORMÉE
+DILOPHOSAURUS DU PLANET TERRAFORME
 
 
-CLASS: Dilophosaure
-METABOLISM: Prédateur, théropode
-PERCEPTION: Prédateur d'embuscade
-SIZE: ~8,2 pieds
-ENDURANCE: Haut
-HOSTILITY: Extrêmement élevé
-WEAPONS: Bélier de tête, claquement de queue, mâchoires
-REWARD: 1000FC
-THREAT: Haut
+CLASSE:      Dilophosaure
+MÉTABOLISME: Prédateur, Théropod
+PERCEPTION: Prédateur ambuscade
+TAILLE:       ~8,2 pi
+ENDURANCE:  Haut
+HOSTILITÉ:  Extrêmement élevé
+ARMES:    Rameau de tête, clams de queue, mâchoires
+RÉCOMPENSE:     1000 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-L'un des prédateurs les plus dangereux de la planète, occupant une position intermédiaire dans la chaîne alimentaire entre les vélociraptors vivant en meute et les géants comme le tyrannosaure. Contrairement à la croyance populaire, l’espèce locale de Dilophosaurus ne crache pas de venin et possède un ensemble de compétences de chasse assez typique pour sa taille.
+Un des prédateurs les plus dangereux de la planète, occupant une position intermédiaire dans la chaîne alimentaire entre les Velociraptors et les géants comme Tyrannosaurus. Contrairement à la croyance populaire, l'espèce Dilophosaurus locale ne crache pas le venin et possède un ensemble assez typique de compétences de chasse pour sa taille.
 
-Ce lézard constitue une menace sérieuse, même pour les humains bien armés, grâce à trois caractéristiques clés. Premièrement, il peut atteindre des vitesses élevées et attraper une personne qui court. Deuxièmement, son attaque implique une course rapide suivie d'un bélier frontal, capable de faire tomber quelqu'un. Troisièmement, le Dilophosaurus utilise activement sa puissante queue comme une arme flexible, faisant tourner tout son corps pour un coup fouettant.
+Ce lézard représente une menace sérieuse même pour les humains bien armés grâce à trois caractéristiques clés. Premièrement, il peut atteindre des vitesses élevées et attraper une personne qui court. Deuxièmement, son attaque implique un vol rapide suivi d'un bélier, capable de frapper quelqu'un de ses pieds. Troisièmement, le Dilophosaurus utilise activement sa puissante queue comme arme flexible, tournant tout son corps pour un coup d'arrimage.
 
-TIPS: 
+CONSEILS:
 
-- Dangereux seul, mortel à deux.
-- Si un Dilophosaure attaque, esquivez.
+- Dangereux seul, mortel par paire.
+- Si un dilophosaurus attaque, évitez.

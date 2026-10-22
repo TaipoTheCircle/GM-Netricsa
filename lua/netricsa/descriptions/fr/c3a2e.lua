@@ -1,10 +1,10 @@
-COMPLEXE NOIR MESA LAMBDA, ENTREE DU COMPLEXE DE REACTEUR LAMBDA
+COMPLEXE NOIR MESA LAMBDA, ENTREPRISE AU COMPLEXE RÉACTEUR LAMBDA
 
 
-Le dernier seuil avant Lambda n'est pas gardé par des Marines, ni même par des créatures de Mental : ce sont des assassins de Black Ops.
+Le seuil final avant Lambda n'est pas gardé par les Marines, ni même par les créatures de Mental - c'est Black Ops assassins.
 
-No chatter, no taunts, no wasted movement: juste des ombres vacillant entre les poutres en acier et le murmure des coups de feu étouffés. Ce n’est pas une bagarre, c’est un duel, et le prix d’une seule erreur est la mort.
+Pas de bavardage, pas de haine, pas de mouvement gaspillé : juste des ombres qui clignotent entre des poutres en acier et le murmure des tirs supprimés. Ce n'est pas une bagarre, c'est un duel, et le prix d'une seule erreur est la mort.
 
-Ils savent que tu viens. They've set ambush points across the approach, using height and silence to their advantage. Mais une fois tombés, la voie est libre. There will be no more soldiers beyond this point. H.E.C.U. a échoué. Black Ops a fait son entrée. And now the reactor doors stand unguarded, waiting to be breached.
+Ils savent que tu viens. Ils ont fixé des points d'embuscade à travers l'approche, en utilisant la hauteur et le silence à leur avantage. Mais une fois qu'ils tombent, la voie est libre. Il n'y aura plus de soldats au-delà de ce point. S.E.C.U. a échoué. Black Ops a fait sa grève. Et maintenant les portes du réacteur ne sont pas gardées, attendant d'être brisées.
 
-From here on, your enemies will no longer wear uniforms. The battlefield shifts inward - to Xen, to portals, to what's left of Mental's forces. La guerre de l'humanité est terminée. Something older, stranger, and far deadlier waits beyond.
+À partir d'ici, vos ennemis ne porteront plus d'uniforme. Le champ de bataille se déplace vers Xen, vers les portails, vers ce qui reste des forces de Mental. La guerre de l'humanité est terminée. Quelque chose de plus vieux, étranger, et bien plus mort attend au-delà.

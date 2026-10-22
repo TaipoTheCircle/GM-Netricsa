@@ -1,20 +1,20 @@
-MOBENIX, UN LIEU INCROYABLE
+MOBILIX, UN LIEU INCRÉDIBLE
 
 
 Sam, ce complexe est un vrai régal !
 
-Une histoire immense, remplie de détails et interactive sous le capot.
+Une histoire immense, pleine de détails et interactive sous le capot.
 
-Look what's here: une gare entière avec un vrai train (et vous pouvez le monter !), une piste de course, un bowling avec une piste de danse et de la musique, une mine où vous pouvez percer les murs, et même quelques cabanes douillettes dans la forêt. Bref, les designers n’ont visiblement pas lésiné sur leur imagination.
+Regardez ce qui est ici: une station entière avec un vrai train (et vous pouvez le monter!), une piste de course, une piste de bowling avec une piste de danse et de la musique, une mine où vous pouvez forer dans les murs, et même quelques cabines confortables dans la forêt. Bref, les concepteurs n'ont clairement pas gâché leur imagination.
 
 Et...
 
-Avant le début, nous trouverons un couloir avec des téléporteurs vers diverses industries. La zone principale est un mélange de bâtiments urbains, de grottes et d'une station de métro.
+Avant le début, nous trouverons un couloir avec des téléporteurs dans différentes industries. La zone principale est un mélange de bâtiments urbains, de grottes et d'une station de métro.
 
-Mais la principale caractéristique est le train. Il peut se conduire tout seul ou vous pouvez en prendre le contrôle.
+Mais la principale caractéristique est le train. Il peut conduire lui-même, ou vous pouvez prendre le contrôle.
 
-Si vous activez le pilote automatique, un conducteur gnome apparaîtra au volant, fermant les portes et appliquant même les freins d'urgence si quelqu'un entre sur les voies.
+Si vous allumez le pilote automatique, un pilote gnome apparaîtra au volant, fermant les portes et appliquant même des freins d'urgence si quelqu'un monte sur la voie.
 
-À propos, si vous êtes assis dans un ascenseur avec un gnome dans la forêt, préparez-vous à tomber dans le puits.
+Au fait, si vous êtes assis dans un ascenseur avec un gnome dans la forêt, soyez prêt à tomber dans le puits.
 
-De nombreux secrets sont cachés ici.
+Il y a beaucoup de secrets cachés ici.

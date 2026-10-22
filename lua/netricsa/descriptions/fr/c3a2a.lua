@@ -1,14 +1,14 @@
-RÉACTEUR NOIR MESA LAMBDA, L'AVERTISSEMENT DU SCIENTIFIQUE
+BLACK MESA LAMBDA REACTEUR, LA MISE EN GARDE DU SCIENTIFIQUE
 
 
-Avant de partir, le scientifique explique que la seule façon d'avancer est de passer par le puits d'accès inondé du réacteur. Les pompes doivent être activées pour élever le niveau de l’eau, vous donnant ainsi suffisamment pour nager à l’intérieur. Il n'y a aucun soldat ici - non pas par chance, mais parce que c'est la seule entrée ouverte qui reste. Tous les autres points d’accès ont été bouclés. Ils vous attendaient.
+Avant de partir, le scientifique explique que la seule façon d'avancer est de passer par le puits d'accès inondé du réacteur. Les pompes doivent être activées pour augmenter le niveau d'eau, vous donnant suffisamment pour nager à l'intérieur. Aucun soldat n'est ici - pas par chance, mais parce que c'est la seule entrée ouverte qui reste. Tous les autres points d'accès ont été fermés. Ils t'attendaient.
 
-Directive: 
+Directive:
 
 Activez les pompes.
 
-Augmentez le niveau de l'eau.
+Augmentez le niveau d'eau.
 
-Nagez à l’intérieur du réacteur.
+Nagez dans le réacteur.
 
-A partir de maintenant, les soldats sont partis. Ce qui nous attend est pire.
+A partir de maintenant, les soldats sont partis. Ce qui attend est pire.

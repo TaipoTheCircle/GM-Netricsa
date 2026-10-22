@@ -1,26 +1,26 @@
-COMBINEZ LA COP MILITAIRE DE LA PROTECTION CIVILE
+COMBINE PROTECTION CIVILE COP MILITAIRE
 
 
-CLASS: Combiner un flic militaire de la protection civile
-METABOLISM: Humain, mâle
-PERCEPTION: Unité de police paramilitaire
-SIZE: 5,9 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Haut
-WEAPONS: Revolver, pistolet Alyx, SMG
-REWARD: 650 FC
-THREAT: Moyenne
+CLASSE:      Combiner la protection civile militaire Cop
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Unité de police militaire
+TAILLE:       5,9 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Revolver, pistolet Alyx, SMG
+RÉCOMPENSE:     650 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Civil Protection Military Cop - These soldiers are used in areas of high instability: les secteurs de quarantaine, les zones suburbaines, les prisons, les points de contrôle temporaires et les rues « chaudes » où le flic moyen ne survivrait pas longtemps.
+Civil Protection Military Cop - These soldiers are used in areas of high instability: les secteurs de quarantaine, les banlieues, les prisons, les points de contrôle temporaires et les rues « chaudes » où le policier moyen ne survivrait pas longtemps.
 
-Ils portent un uniforme militaire entièrement noir, comprenant un gilet tactique avec plusieurs pochettes, un pantalon de protection et de lourdes bottes. La plupart portent le marquage « MP » sur leur manche, soulignant leur juridiction militaire.
+Ils portent un uniforme militaire tout-noir, y compris un gilet tactique avec de multiples pochettes, des pantalons de protection et des bottes lourdes. La plupart ont le marquage «MP» sur leur manche, soulignant leur compétence militaire.
 
-Les casques sont compatibles avec les masques à gaz, ce qui les rend également préparés aux gaz et à une véritable catastrophe chimique.
+Les casques sont compatibles avec les masques à gaz, les rendant également préparés pour le gaz et un désastre chimique plein.
 
-TIPS: 
+CONSEILS:
 
-- Ne les sous-estimez pas à cause de leur statut de « policiers », ce sont pratiquement des soldats.
-- Use your distance: en combat rapproché, ils aiment tirer beaucoup et sans grande philosophie.
-- Si vous voyez un uniforme noir avec « MP », soyez prêt : cela ne fera que devenir plus difficile.
+- Ne les sous-estimez pas à cause de leur statut de "police" - ce sont pratiquement des soldats.
+- Utilisez votre distance: au combat rapproché, ils aiment tirer beaucoup et sans beaucoup de philosophie.
+- Si vous voyez un uniforme noir avec "MP", préparez-vous - ça ne fera que durcir.

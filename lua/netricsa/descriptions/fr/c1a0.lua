@@ -1,8 +1,8 @@
-MESA NOIRE, MATÉRIAUX ANOMALEUX
+MESA BLACK, MATIÈRES ANOMALES
 
 
-Sam, vous avez atteint le secteur des matériaux anormaux – le cœur du programme de recherche de Black Mesa. A partir des communications interceptées, tout ce département se prépare aujourd'hui à une expérience à grande échelle. Le personnel se précipite, les techniciens effectuent des ajustements de dernière minute et les scientifiques parlent nerveusement des « paramètres de résonance ».
+Sam, vous avez rejoint le secteur des matériaux anomaux - au cœur du programme de recherche de Black Mesa. De communications interceptées, tout ce département se prépare à une expérience à grande échelle aujourd'hui. Le personnel se précipite, les techniciens font des ajustements de dernière minute, et les scientifiques chuchotent nerveusement sur les « paramètres de résonance »
 
-What's more curious - they are still convinced you're Dr. Freeman, one of their theoretical physicists. That would be amusing if it weren't so dangerous: ces gens sont sur le point de vous donner accès à des équipements capables de déstabiliser des univers entiers, et ils pensent que vous êtes là pour diriger le spectacle.
+Ce qui est plus curieux - ils sont encore convaincus que vous êtes le Dr Freeman, l'un de leurs physiciens théoriques. Ce serait amusant si ce n'était pas si dangereux : ces gens sont sur le point de vous donner accès à des équipements qui peuvent déstabiliser des univers entiers, et ils pensent que vous êtes ici pour le spectacle.
 
-For now, your task is simple: suivez leurs instructions, observez attentivement et essayez de ne rien casser jusqu'à ce que nous comprenions ce qui se passe. Black Mesa ne réalise clairement pas à quoi ils ont affaire – mais je soupçonne que Mental le sait.
+Pour l'instant, votre tâche est simple : suivre leurs directives, observer attentivement et essayer de ne rien casser jusqu'à ce que nous comprenions ce qui se passe. Black Mesa ne se rend pas compte de ce qu'ils ont à faire, mais je soupçonne Mental.

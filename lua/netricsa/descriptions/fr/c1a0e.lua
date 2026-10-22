@@ -1,10 +1,10 @@
-BLACK MESA, SPECTROMÈTRE ANTI-MASSE
+MESA BLACK, SPECTROMÈTRE ANTI-MASS
 
 
-Sam, deux scientifiques expérimentés vous ont intercepté au dernier point de contrôle avant la chambre de test. Ils proposent ce qu'ils appellent un « briefing préalable à l'expérience ». En réalité, cela ressemble plutôt à une tentative désespérée de se convaincre que cela ne se terminera pas par un désastre.
+Deux scientifiques vous ont intercepté au dernier point de contrôle avant la chambre d'essai. Ils donnent ce qu'ils appellent un « briefing avant l'expérience ». En réalité, cela ressemble davantage à une tentative désespérée de se convaincre que cela ne se terminera pas par un désastre.
 
-They are instructing you - or rather, the Freeman they believe you to be - to step into the chamber, follow their directions precisely, and insert the crystal sample into the anti-mass spectrometer's beam. Their tone is calm on the surface, but stress levels are obvious: les deux voix montrent des fréquences cardiaques élevées, et l’une d’elles hésite devant chaque terme technique.
+Ils vous instruisent - ou plutôt, le Freeman qu'ils croient être - à entrer dans la chambre, à suivre leurs directions précisément, et à insérer l'échantillon de cristal dans le faisceau du spectromètre antimasse. Leur ton est calme à la surface, mais les niveaux de stress sont évidents : les deux voix montrent une fréquence cardiaque élevée, et l'une d'elles hésite avant chaque terme technique.
 
-Sam, c'est le point de non-retour. Une fois que vous entrez dans cette chambre, l’expérience commence. Si c'est vraiment l'œuvre de Mental, alors « l'accident » qu'ils sont sur le point de provoquer n'est pas du tout un accident – ​​c'est un déclencheur. Pour quoi, je ne peux pas encore calculer.
+Sam, c'est le point de non-retour. Une fois que vous entrez dans cette chambre, l'expérience commence. Si c'est vraiment ce que fait Mental, alors l'accident qu'ils sont sur le point de causer n'est pas un accident du tout - c'est un déclencheur. Pour quoi, je ne peux pas encore calculer.
 
-Recommendation: jouez le rôle, restez alerte et soyez prêt au moment où tout va mal. Parce que ce sera le cas.
+Recommendation: jouer le rôle, rester vif, et être prêt pour le moment tout va mal. Parce que oui.

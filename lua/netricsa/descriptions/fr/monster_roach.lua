@@ -1,24 +1,24 @@
-CAFARD DE XEN
+COCKROACH DE XEN
 
 
-CLASS: Cafard
-METABOLISM: Insectoïde charognard
-PERCEPTION: Insecte extraterrestre
-SIZE: 2 po
-ENDURANCE: légendaire
-HOSTILITY: aucun (sauf si vous comptez des scientifiques surprenants)
-WEAPONS: courir très vite, survivre aux explosions nucléaires, faire peur aux sauts
-REWARD: 1 FC (pour le courage)
-THREAT: négligeable
+CLASSE:      Cafard
+MÉTABOLISME: insectoïde du trésor
+PERCEPTION: Insecte étranger
+TAILLE:       2 en
+ENDURANCE:  légendaire
+HOSTILITÉ:  aucun (sauf si vous comptez des scientifiques surprenants)
+ARMES:    courir très vite, survivre aux explosions nucléaires, sauter les peurs
+RÉCOMPENSE:     1 FC (pour le courage)
+MENACE:     négligeable
 
-DESCRIPTION: 
+DESCRIPTION:
 
-À première vue, la blatte ressemble à un insecte terrestre ordinaire. Mais étant donné son étrange capacité à survivre aux explosions, aux radiations, aux déchets toxiques et à presque tout ce que vous lui lancez, certains théoriciens insistent sur le fait qu’elle doit avoir des origines Xen. Après tout, sa forme plate et ses antennes tremblantes ressemblent étrangement à une manta miniature ou à un ver de fourmilion.
+À première vue, le cafard ressemble à un insecte terrestre ordinaire. Mais étant donné sa capacité impénétrable à survivre aux explosions, aux radiations, aux déchets toxiques, et à peu près tout ce que vous lui lancez, certains théoriciens insistent qu'il doit avoir des origines Xen. Après tout, sa forme du corps plat et ses antennes sournoises ressemblent de façon suspecte à une mante miniature ou à une antlion.
 
-Le personnel de Black Mesa a fréquemment repéré ces créatures se précipitant dans les laboratoires juste après la cascade de résonance. Coïncidence? Ou la preuve que l'humble cafard est en réalité une espèce d'éclaireur Xen, venue tester la durabilité de l'approvisionnement alimentaire de la Terre ? Nous ne le saurons peut-être jamais.
+Le personnel de Black Mesa a souvent repéré ces créatures qui se faufilaient dans des laboratoires juste après la cascade de résonance. Coïncidence ? Ou la preuve que l'humble cafard est en fait une espèce de scouts Xen, ici pour tester la durabilité de l'approvisionnement alimentaire de la Terre? On ne sait peut-être jamais.
 
-TIPS: 
+CONSEILS:
 
-- Inoffensif, mais peut vous faire rater le tir d'un fusil de chasse lorsqu'il passe sous vos pieds.
-- Certains scientifiques les nourrissent, d'autres crient - choisissez votre camp.
-- Si vous pouvez en tuer un, félicitations - vous avez fait ce qu'une guerre nucléaire ne peut pas faire.
+- Sans danger, mais peut vous faire manquer un coup de fusil quand il court sous les pieds.
+- Certains scientifiques les nourrissent, d'autres crient, choisissent votre camp.
+Si tu peux en tuer un, félicitations, tu as fait ce qu'une guerre nucléaire peut faire.

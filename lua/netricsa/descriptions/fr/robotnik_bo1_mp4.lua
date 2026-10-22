@@ -1,19 +1,19 @@
-PISTOLET-MACHINE MP-40
+MP-40 GUN DE SOUS-MACHINE
 
 
-ARME : Mitraillette MP 40
-MUNITIONS : Parabellum 9x19mm
-ROF : 500-550 tr/min
-POIDS : 8,75 livres
+ARME:    MP 40 Gun sous-machine
+MUNITIONS:      Parabellum 9x19mm
+CADENCE DE TIR:       500-550 RPM
+POIDS:    8,75 livres
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Le MP 40 est une mitraillette allemande classique, largement utilisée pendant la Seconde Guerre mondiale. Compact, fiable et facile à manipuler, il est devenu l'arme standard des parachutistes, des équipages de chars et des commandants de peloton d'infanterie. Sa crosse métallique pliable et sa forme profilée permettaient un transport efficace, et sa cadence de tir modérée le rendait maniable en combat rapproché.
+Le MP 40 est une mitrailleuse allemande classique, largement utilisée pendant la Seconde Guerre mondiale. Compact, fiable et facile à manipuler, il est devenu l'arme standard des parachutistes, des équipages de chars et des commandants de peloton d'infanterie. Son stock de métal pliant et sa forme épurée ont permis un transport efficace, et son taux de feu modéré l'ont rendu gérable au combat rapproché.
 
-Même si le MP 40 était moins puissant qu'un fusil à longue portée, il était supérieur dans les combats urbains, les embuscades et les espaces confinés, où la mobilité et les tirs de suppression étaient primordiaux. Connue pour son profil emblématique et son son distinctif, elle reste l'une des armes à feu les plus reconnaissables de l'histoire.
+Alors que le MP 40 était moins puissant qu'un fusil à longue portée, il était supérieur dans les combats urbains, les embuscades et les espaces confinés, où la mobilité et l'extinction du feu étaient primordiales. Connu pour son profil emblématique et son son distinctif, il demeure l'une des armes à feu les plus reconnaissables de l'histoire.
 
-REMARQUES :
+REMARQUES:
 
-- Très efficace en combat rapproché.
-- Capacité du chargeur limitée (32 cartouches) - rechargez fréquemment.
-- La précision diminue rapidement à longue portée.
+- Très efficace au combat rapproché.
+- Capacité limitée des magazines (32 tours) - recharger fréquemment.
+- L'exactitude baisse rapidement à de longues distances.

@@ -1,25 +1,25 @@
-MINIGUN CHEVAL DE GUERRE ORO
+ORO WAR HORSE MINIGUN
 
 
-ARME : Minigun ORO War Horse
-MUNITIONS : obus de gros calibre
-ROF : ~950 coups par minute
-WEIGHT:  ~18 kg
+WEAPOON: Minigune de cheval de guerre ORO
+MUNITIONS:    Tours de gros calibre
+CADENCE DE TIR:     ~ 950 tours par minute
+POIDS:  ~18 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Une mitrailleuse lourde à plusieurs canons développée par ORO et utilisée par les unités d'armes lourdes. L'arme tire un flux continu de balles de gros calibre et est très puissante, mais a une propagation notable.
+Une mitrailleuse lourde et multi-barres développée par ORO et utilisée par des unités d'armes lourdes. L'arme tire un flux continu de balles de grand calibre et est très puissante, mais a une propagation notable.
 
-Les canons doivent tourner pendant quelques secondes avant de tirer. Ils peuvent être actionnés à l'avance pour ouvrir le feu presque instantanément lorsqu'une cible apparaît. Le grand chargeur permet des périodes prolongées de tir continu sans avoir besoin de recharger.
+Les barils doivent être lancés pendant quelques secondes avant le tir. Ils peuvent être lancés à l'avance pour ouvrir le feu presque instantanément quand une cible apparaît. Le grand magazine permet de longues périodes de feu continu sans avoir à recharger.
 
-Le mode alternatif transforme le War Horse en une tourelle terrestre autonome. Une fois déployé, il tire indépendamment sur les ennemis et fournit un tir de couverture sans avoir besoin d'un contrôle constant du tireur.
+Le mode alternatif transforme le cheval de guerre en tourelle autonome. Une fois déployé, il tire de façon indépendante sur les ennemis et fournit un feu de couverture sans avoir besoin d'un contrôle constant des artilleurs.
 
-REMARQUES :
+REMARQUES:
 
-- Cadence de tir et densité de tir très élevées.
-- Les canons doivent être tournés avant le tir.
-- Efficace à moyenne et longue portée, malgré une diffusion notable.
-- Le chargeur contient 250 cartouches et la capacité totale de munitions peut atteindre 1 000 cartouches.
-- Le deuxième mode transforme l'arme en tourelle de mitrailleuse autonome.
-- Son poids important réduit la mobilité de l'utilisateur.
-- Particulièrement dangereux contre les groupes d'ennemis : un flux continu de balles de gros calibre supprime rapidement une position entière.
+- Très forte densité de feu.
+- Les barils doivent être lancés avant le tir.
+- Efficace à moyenne et longue distance, malgré une propagation notable.
+- Le magazine contient 250 cartouches, et la capacité totale de munitions peut atteindre 1000 cartouches.
+- Le deuxième mode transforme l'arme en tourelle autonome.
+- Son poids lourd réduit la mobilité de l'utilisateur.
+- Particulièrement dangereux contre des groupes d'ennemis: un flux continu de balles de haut calibre supprime rapidement une position entière.

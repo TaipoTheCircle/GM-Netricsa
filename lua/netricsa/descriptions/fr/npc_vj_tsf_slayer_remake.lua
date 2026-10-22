@@ -1,30 +1,30 @@
-SLAYER, REMAKE DE L'ÎLE CARNATE
+SLAYER, REMAKE DE L'ÎLE CARNÉE
 
 
-CLASS: Tueur de l'île Carnate, remake
-METABOLISM: Surnaturel
-PERCEPTION: Malfaiteur / Entité d'horreur
-SIZE: ~6 pieds
-ENDURANCE: Haut
-HOSTILITY: Extrême
-WEAPONS: Membres de la lame (les bras et les jambes sont des lames longues et tranchantes)
-REWARD: 1000FC
-THREAT: Très élevé
+CLASSE:      Tueuse de l'île Carnate, Remake
+MÉTABOLISME: Surnaturel
+PERCEPTION: Mâle-facteur / entité horror
+TAILLE:       6 pieds
+ENDURANCE:  Haut 
+HOSTILITÉ:  Extrême
+ARMES:    Membres des lames (les bras et les jambes sont longs, les lames pointues)
+RÉCOMPENSE:     1000 FC 
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-The Slayer is one of the most iconic and terrifying enemies on the island. Created as a representation of execution by beheading, its body is gruesomely melded: sa tête est détachée et maintenue au-dessus de son corps par des appareils de chair et d'acier, tandis que ses membres se sont transformés en longues lames mortelles.
+La Tueuse est l'un des ennemis les plus emblématiques et terrifiants de l'île. Créée en tant que représentation de l'exécution par décapitation, son corps est épouvantablement mêlé : sa tête est détachée et maintenue au-dessus de son corps par la chair et l'acier, tandis que ses membres se sont transformés en longues lames mortelles.
 
-Les tueurs se déplacent avec une agilité surnaturelle, capables de se faufiler le long des murs et des plafonds, de se laisser tomber sur leurs victimes ou de les frapper « d'en haut ». Ils sont souvent entendus avant d'être vus - leurs membres de lame grattent et chuchotent, trahissant leur approche.
+Les tueuses se déplacent avec une agilité anti-naturelle, capables de s'écraser le long des murs et des plafonds, de tomber sur les victimes ou de les abattre de « plus haut ». Ils sont souvent entendus avant d'être vus - leurs lames grattent et murmurent, donnant leur approche.
 
-J'ai vu pour la première fois ces créatures sauter hors du sol, leurs têtes étant détachées de leur torse, maintenues en l'air par d'horribles engins. leurs membres ont été remplacés par des lames de l'acier le plus tranchant.
+J'ai d'abord vu ces créatures sauter du sol lui-même, leur tête est détachée de leur torse, tenue à l'écart par des contraptions hideuses. leurs membres ont été remplacés par des lames d'acier le plus tranchant.
 
-À mes yeux, ils semblent être une manifestation de décapitation, mais il semble improbable que quelqu'un ait jamais eu la tête coupée à Abbott. Je suppose que dans le carnage, tout est possible.
+À mes yeux, ils semblent être une manifestation de décapitation, mais il semble improbable que quelqu'un ait jamais eu sa tête coupée à Abbott. Sur le carnage, tout est possible.
 
-J'ai surnommé ces monstruosités des tueurs.
+J'ai surnommé ces monstres tueuses.
 
-TIPS: 
+CONSEILS:
 
-- Visez toujours à détruire la tête - les tueurs perdent conscience sans cela.
-- Continuez à avancer - rester immobile invite à leur embuscade.
-- Écoutez attentivement : leurs lames sur les murs et les plafonds vous avertissent souvent avant qu'elles ne frappent.
+- Toujours viser à détruire la tête - les tueuses perdent conscience sans elle.
+- Continuez à bouger - debout invite toujours leur embuscade.
+- Écoutez attentivement - leurs lames sur les murs et les plafonds vous avertissent souvent avant qu'ils frappent.

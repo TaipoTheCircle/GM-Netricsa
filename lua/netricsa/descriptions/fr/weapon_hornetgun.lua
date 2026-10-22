@@ -1,16 +1,16 @@
-MAIN DE RUCHE
+HIVEHAND
 
 
-WEAPON: Hivehand (arme organique extraterrestre)
-AMMO: Larves de frelons (auto-reconstituées)
-ROF: Semi-automatique ou entièrement automatique, ~300 tours/min
+ARME:      Hivehand (arme biologique Alien)
+MUNITIONS:        Larve du Hornet (auto-récupération)
+CADENCE DE TIR:         Automatique ou semi-automatique, ~300 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Arme organique Xen tirant des frelons vivants. Les munitions se régénèrent au fil du temps, garantissant un approvisionnement infini. Peut être utilisé pour des attaques à tête chercheuse ou à tir rapide.
+Arme Xen-organique tirant des frelons vivants. Les munitions se régénèrent avec le temps, accordant un approvisionnement infini. Peut être utilisé pour des attaques à l'hameçon ou à tir rapide.
 
-NOTES: 
+REMARQUES:
 
-- Munitions infinies grâce à la régénération naturelle.
-- Le tir à tête chercheuse est efficace contre les cibles mobiles.
-- Faibles dégâts par projectile.
+- Ammo infini par régénération naturelle.
+- Homing fire est efficace contre les cibles mobiles.
+- Faible dommage par projectile.

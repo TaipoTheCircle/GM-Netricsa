@@ -1,15 +1,15 @@
-PISTOLET-MACHINE MP5
+GUN DE SOUS-MACHINE MP5
 
 
-ARME : Mitraillette MP5
-MUNITIONS : Cartouches 9x19 mm + grenades 40 mm
-ROF : ~700 tours/min
+ARME:      Pistolet sous-machine MP5
+MUNITIONS:        tours 9x19mm + grenades 40mm
+CADENCE DE TIR:         ~700 tours/min
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Arme automatique polyvalente de courte à moyenne portée. Fournit un tir de suppression soutenu avec une précision raisonnable.
+Arme automatique polyvalente de portée proche de moyenne. Fournit un feu suppresseur soutenu avec une précision raisonnable.
 
-REMARQUES :
+REMARQUES:
 
-- Efficace contre l'infanterie légèrement blindée.
-- La précision diminue considérablement à longue portée.
+- Efficace contre l'infanterie légère.
+- L'exactitude diminue significativement à long terme.

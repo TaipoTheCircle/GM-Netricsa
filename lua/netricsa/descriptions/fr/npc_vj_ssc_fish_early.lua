@@ -1,20 +1,20 @@
-REEBAN ELECTRO-FISH, PRÉCOCE
+REEBAN ELECTRO-PÊCHE, TÔT
 
 
-CLASS: Reeban Electro-Fish, début
-METABOLISM: vertébré aquatique
-PERCEPTION: animal sauvage
-SIZE: 11 pieds de longueur
-ENDURANCE: faible
-HOSTILITY: haut
-WEAPONS: décharges électriques
-REWARD: 500FC
-THREAT: moyen
+CLASSE:      Reeban Electro-Pois, tôt
+MÉTABOLISME: vertébré aquatique
+PERCEPTION: animaux sauvages
+TAILLE:       11 pieds de longueur
+ENDURANCE:  faible
+HOSTILITÉ:  élevé
+ARMES:    décharges électriques
+RÉCOMPENSE:     500 FC
+MENACE:     moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
 Un poisson d'eau boueuse, originaire de la planète Reeb. Très agressif, utilise de puissantes décharges électriques pour désorienter et endommager ses proies. Difficile à repérer dans les eaux sombres en raison de leur camouflage naturel très efficace.
 
-TIPS: 
+CONSEILS:
 
 - Écoutez les bruits qu'ils font dans le noir, c'est votre meilleur signe de danger.

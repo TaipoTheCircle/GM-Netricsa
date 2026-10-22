@@ -1,12 +1,12 @@
-RESPIRATEUR CBRN S10 NBC
+RÉPIRATEUR CBRN S10 NBC
 
 
-ITEM: Respirateur S10 CBRN / NBC (masque à gaz)
+ITEM:  S10 CBRN / Respirateur NBC (masque à gaz)
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le respirateur S10 CBRN est un masque à gaz militaire britannique introduit en 1986 en remplacement du S6, fabriqué par Avon Rubber. Il offre une protection contre les menaces chimiques, biologiques, radiologiques et nucléaires (CBRN/NBC) et utilise une cartouche filtrante amovible. Le masque comprend un dispositif d'abreuvement à sécurité intégrée, un masque oro-nasal interne pour réduire la buée des lentilles et des crochets d'insertion optique permettant l'utilisation de lentilles correctrices.
+Le respirateur CBRN S10 est un masque à gaz militaire britannique introduit en 1986 pour remplacer le S6, fabriqué par Avon Rubber. Il offre une protection contre les menaces chimiques, biologiques, radiologiques et nucléaires (CBRN / NBC) et utilise un filtre amovible. Le masque est doté d'un dispositif de boisson sans danger, d'un masque oro-nasal intérieur pour réduire le fogging des lentilles, et de crochets d'insertion optique permettant l'utilisation de lentilles correctives.
 
-NOTES: 
+REMARQUES:
 
-- Équipé d'un émetteur vocal secondaire (SST) et d'un montage latéral pour l'intégration d'un microphone radio.
+- Doté d'un transmetteur de parole secondaire (SST) et d'un montage latéral pour l'intégration du microphone radio.

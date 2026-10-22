@@ -1,23 +1,23 @@
-XEN, LE REPAIRE DE NIHILANTH
+XEN, LAIT DE NIHILANTH
 
 
-He greeted you with a name that wasn't yours - "FREEMAN". Unforgivable, really. And then, his voice hammered directly into your head: 
+Il vous a salué avec un nom qui n'était pas le vôtre - "FREEMAN". C'est impardonnable. Et puis, sa voix s'est percutée directement dans ta tête :
 
-"Il va vous tromper… vous tromper".
-"Vous ne connaîtrez jamais la vérité".
-"Es-tu seul?"
-"Maintenant, meurs... maintenant, meurs."
+"Il vous trompera... vous trompera.".
+"Tu ne sauras jamais la vérité".
+"Tu es seule ?"
+"Maintenant, meurs."
 
-Pas vraiment des discours de motivation.
+Pas exactement des discours de motivation.
 
-Objective: 
+Objective:
 
-Détruisez les cristaux de Xenium qui nourrissent l'énorme éclat logé dans son crâne. Ce n’est que lorsque ces supports seront brisés que son bouclier faiblira.
+Détruisez les cristaux de Xénium qui alimentent le dard massif logé dans son crâne. Ce n'est que lorsque ces supports seront brisés que son bouclier vacillera.
 
-Nihilanth commence à vous téléporter à travers ses domaines. Survivez au voyage à travers ces fragments déformés de Xen et continuez jusqu'à la sortie.
+Nihilanth commence à te téléporter dans ses domaines. Survivre au voyage à travers ces fragments déformés de Xen, et pousser vers la sortie.
 
-Il dit que vous ne connaîtrez jamais la vérité. Très bien, nous le tuerons sans cela.
+Il dit que vous ne saurez jamais la vérité. Très bien, on va juste le tuer sans ça.
 
-Ces cristaux ? Considérez-les comme son Wi-Fi. Coupez la connexion.
+Ces cristaux ? Pense à eux comme à son Wi-Fi. Coupez la connexion.
 
-Quand il crie « Maintenant, meurs », ne le prenez pas personnellement. Il dit ça à tout le monde.
+Quand il crie "Maintenant mourir", ne le prends pas personnellement. Il dit ça à tout le monde.

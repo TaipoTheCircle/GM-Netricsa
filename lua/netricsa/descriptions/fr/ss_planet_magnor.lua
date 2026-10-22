@@ -1,31 +1,31 @@
 MAGNOR
 
 
-PLANET: Magnor
-TYPE: Planète terrestre, Monde de flore géante
-CLIMATE: Modérément pluvieux, chaud toute l'année
-MOONS: Inconnu
-TERRAIN: Friches rocheuses, flèches, stalactites, formations pierreuses ; la plupart des structures sont situées sous terre
-LOCATION: Système stellaire inconnu
-NATIVE RACES: Zixie, géants
-ALLIANCE: Monde indépendant
-LOCATIONS: Marécages de plaine, base abandonnée, ville de Vetvetia, terrain géant ressemblant à un dessin animé
+PLANET:       Magnor
+TYPE:         Planète terrestre, Monde de la flore géante
+CLIMATE:      Modérément pluvieux, chaud toute l'année
+MOONS:        Inconnu
+TERRAIN:      Les marais géants, les forêts aux arbres géants, les vallées, les clairières
+LOCATION:     Système étoile inconnu
+NATIVE RACES: Zixie, Géants
+ALLIANCE:     Monde indépendant
+LOCATIONS:    Les marais des basses terres, base abandonnée, ville de Vetvetia, terrain de dessin animé géant
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Une planète unique où toute vie a atteint des proportions colossales. Des marécages gigantesques aux eaux putrides, des forêts avec des arbres s'élevant vers le ciel et obscurcissant la lumière avec leurs cimes, des herbes aussi hautes que des immeubles à plusieurs étages, d'énormes champignons et insectes - chaque élément du paysage ici est écrasant par son ampleur.
+Une planète unique où toute la vie a atteint des proportions colossales. Les marais gigantiques avec de l'eau putride, les forêts avec des arbres s'envolant vers le ciel et obscurcissant la lumière avec leurs couronnes, l'herbe aussi grande que les bâtiments multi-étages, les champignons énormes et les insectes-tout élément paysager ici est accablant dans son échelle.
 
-On pense que la planète est une géante gazeuse partiellement formée, mais la terraformation naturelle l'a rendue habitable. Le climat est similaire à celui de la Terre, mais la densité de l'air est plus faible, permettant à des formes de vie géantes d'exister sans être écrasées par leur propre poids.
+On pense que la planète est un géant du gaz partiellement formé, mais la terraformation naturelle l'a rendu habitable. Le climat est semblable à celui de la Terre, mais la densité de l'air est plus faible, permettant aux formes de vie géantes d'exister sans être écrasées par leur propre poids.
 
-Les marais de basse altitude de Magnor sont l'endroit le plus inhospitalier de la planète. L'eau ici sent la putréfaction et les animaux restent régulièrement coincés dans le bourbier. De rares patrouilles parcourent ces zones à la recherche de voyageurs perdus, risquant de devenir elles-mêmes la proie des prédateurs géants qui se cachent dans les eaux sombres.
+Les marais bas de Magnor sont l'endroit le plus inhospitalier de la planète. L'eau ici sent la putréfaction, et les animaux sont régulièrement coincés dans le bourbier. De rares patrouilles peignent ces zones à la recherche de voyageurs perdus, risquant de devenir des proies aux prédateurs géants qui se cachent dans l'eau sombre.
 
-Seules les villes-ruches artificielles, construites sur d’immenses pylônes, s’élèvent au-dessus de la surface de l’océan. Tipoca City, la capitale et principal centre de clonage, apparaît comme un complexe futuriste de dômes et de tours blancs fendant les nuages. La ville regorge de laboratoires, de salles de classe, de casernes et de hangars. Les intérieurs sont stériles et baignés d’une lumière blanche et froide. Pour voyager entre les îles et les zones côtières, les Kaminoens utilisent des yivs, des cétacés volants capables de nager aussi bien sous l'eau que dans les airs.
+Contrairement aux marais, les forêts de Magnor regorgent de vie. La race locale de Zixie, nettement plus courte que la flore géante, a appris à l'exploiter à ses propres fins. Leur ville principale, Vetvetia, est située au-dessus du sol, presque à la verrière même des arbres. Les habitants chassent les créatures qui vivent dans les branches et recueillent l'eau de pluie. Ce mode de vie leur permet d'éviter les dangers en bas et de profiter du climat doux et chaud.
 
-However, the most mysterious area of ​​Magnor is the so-called Giant Cartoon Terrain. Here, scattered among the forests and clearings are objects of clearly man-made origin, but of monstrous size: tables, chaises, couteaux, bouteilles, clés, canettes de soda et même pneus de voiture. Qui a créé ces artefacts et pourquoi reste un mystère, soulevant de nombreuses questions et n’apportant aucune réponse.
+Cependant, la zone la plus mystérieuse de Magnor est le soi-disant terrain cartoon géant. Ici, dispersés dans les forêts et les clairières sont des objets d'origine clairement humaine, mais de taille monstrueuse: tables, chaises, couteaux, bouteilles, clés, canettes et même pneus de voiture. Qui a créé ces artefacts et pourquoi reste un mystère, soulevant de nombreuses questions et ne fournissant aucune réponse.
 
-KEY LOCATIONS: 
+KEY LOCATIONS:
 
-- Lowland Marshes: Une vaste zone marécageuse avec de l'eau pourrie et des carcasses d'animaux en décomposition. Une zone extrêmement dangereuse patrouillée à la recherche de survivants.
-- Abandoned Base: Une colonie abandonnée au fond des marais. La raison de son abandon est la puanteur étouffante, l’humidité et la menace constante d’attaque par des créatures géantes.
-- Vetvetia City: Une colonie de Zixie, construite en hauteur dans les branches d'arbres géants. C’est la principale défense contre les dangers au niveau du sol et le centre de la civilisation de la planète.
-- Gigantic Cartoon Terrain: Une zone anormale jonchée d’énormes objets ménagers d’origine inconnue.
+- Marshs des basses terres : vaste zone marécageuse avec de l'eau pourrie et des carcasses animales en décomposition. Une zone extrêmement dangereuse patrouillait pour chercher des survivants.
+- Base abandonnée : Une colonie abandonnée au fond des marais. La raison de son abandon est la puanteur étouffante, l'humidité et la menace constante d'attaque de créatures géantes.
+- Ville de Vetvetia : Une colonie de Zixie, construite haut dans les branches d'arbres géants. C'est la principale défense contre les dangers au niveau du sol et le centre de la civilisation sur la planète.
+- Terrain de caricature gigantique : Zone anormale jonchée d'énormes objets ménagers d'origine inconnue.

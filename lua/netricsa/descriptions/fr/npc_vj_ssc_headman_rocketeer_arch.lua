@@ -1,22 +1,22 @@
-BEHEADED ARCHAEOLOGIST, ROCKETEER FROM THE MYSTERIOUS ISLAND
+ARCHÉOLOGISTE, ROCKETEER DE L'ÎLE MYSTERIEUSE
 
 
-CLASS:      Beheaded Archaeologist, Rocketeer
-METABOLISM: Cyber-Zombie
-PERCEPTION: Insentient, LCU Controlled
-SIZE:       6 ft
-ENDURANCE:  Very Low
-HOSTILITY:  Very Low
-WEAPONS:    Magic-Missile Launcher
-REWARD:     200 FC
-THREAT:     None
+CLASSE:      Archéologue décapité, Rocketeer
+MÉTABOLISME: Cyber-Zombie
+PERCEPTION: Insensible, LCU contrôlé
+TAILLE:       6 pieds
+ENDURANCE:  Très faible
+HOSTILITÉ:  Très faible
+ARMES:    Lanceur Magic-Missile
+RÉCOMPENSE:     200 FC
+MENACE:     Aucune
 
-DESCRIPTIF :
+DESCRIPTION:
 
-The Beheaded Archaeologist from the Mysterious Island, raised from the dead by Mental and remote controlled by Life Control Unit (LCU). 
+L'Archéologue décapité de l'île Mystérieuse, ressuscité des morts par Mental et télécommandé par Life Control Unit (LCU).
 
-The Rocketeer carries his own head in one hand to receive audio/visual information and fires one magic missile at a time from a low-power hand-held launcher. They're immune to their own missiles.
+Le Rocketeer porte sa propre tête dans une main pour recevoir des informations audiovisuelles et tire un missile magique à la fois d'un lanceur portatif de faible puissance. Ils sont à l'abri de leurs propres missiles.
 
-TIPS:
+CONSEILS:
 
-- No known problems.
+- Aucun problème connu.

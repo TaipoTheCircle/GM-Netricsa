@@ -1,24 +1,24 @@
-BÉBÉ HOUNDEYE DE XEN
+BABY HOUNDEYE DE XEN
 
 
-CLASS: Oeil de chien, bébé
-METABOLISM: Faune Xen de chasse en meute
-PERCEPTION: Jeune chien de chasse
-SIZE: ~ 1,5 pied de haut, 2 pieds de long
-ENDURANCE: Faible
-HOSTILITY: Modéré en packs
-WEAPONS: Petites impulsions sonores, vitesse, coordination du pack
-REWARD: 150 FC
-THREAT: Faible individuellement, modéré en groupe
+CLASSE:      Oiseau, bébé
+MÉTABOLISME: Faune Xen à la chasse aux paquets
+PERCEPTION: Jeune Oiseau
+TAILLE:       ~1,5 pieds de haut, 2 pieds de long
+ENDURANCE:  Faible
+HOSTILITÉ:  Modéré en boîtes
+ARMES:    Petites impulsions sonores, vitesse, coordination des paquets
+RÉCOMPENSE:     150 FC
+MENACE:     Faible individuellement, modéré en groupes
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Baby Houndeye est un prédateur Xen juvénile, plus petit et moins dangereux que les adultes. Il ressemble à un croisement miniature entre un chien et un porc-épic, émettant de faibles impulsions sonores qui peuvent surprendre mais causer rarement de graves dommages.
+Le bébé est un jeune prédateur de Xen, plus petit et moins dangereux que les adultes. Il ressemble à un croisement miniature entre un chien et un porc-épic, émettant des impulsions soniques faibles qui peuvent surprendre mais causent rarement de graves dommages.
 
-Bien qu'individuellement inoffensifs, les bébés Houndeyes sont très sociaux et suivent souvent leurs parents ou les membres de la meute, coordonnant les attaques lorsqu'ils sont menacés. Leurs cris aigus peuvent alerter les adultes à proximité, rendant les rencontres potentiellement dangereuses dans la nature.
+Bien qu'inoffensifs pour l'individu, les yeux de bébé sont très sociaux et suivent souvent leurs parents ou les membres de la meute, coordonnant les attaques lorsqu'elles sont menacées. Leurs gribouillis peuvent alerter les adultes avoisinants, rendant les rencontres potentiellement dangereuses dans la nature.
 
-TIPS: 
+CONSEILS:
 
-- Gardez vos distances ; leurs impulsions sonores peuvent désorienter dans des espaces confinés.
-- Évitez de les provoquer seuls - les packs sont protecteurs.
-- Les risques environnementaux peuvent être utilisés pour gérer efficacement les packs.
+- Gardez la distance; leurs impulsions sonores peuvent se désorienter dans des espaces confinés.
+- Évitez de les provoquer seuls - les paquets sont protecteurs.
+- Les dangers environnementaux peuvent être utilisés pour gérer efficacement les emballages.

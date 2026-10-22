@@ -1,15 +1,15 @@
-PISTOLET-MACHINE STEYR TMP
+STEYR TMP SUBMACHINE GUN
 
 
-WEAPON: Steyr TMP
-MUNITIONS Cartouches 9x19 mm
-ROF: ~850 tours/min
+ARME:      TMP Steyr
+MUNITIONS:        cartouches 9x19 mm 
+CADENCE DE TIR:         ~850 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Pistolet automatique tactique. Conçu pour les forces spéciales et le personnel de sécurité, connu pour sa taille compacte et sa cadence de tir élevée.
+Pistolet automatique tactique. Conçu pour les forces spéciales et le personnel de sécurité, connu pour sa taille compacte et son taux élevé d'incendie.
 
-NOTES: 
+REMARQUES:
 
 - Un silencieux est recommandé pour une plus grande authenticité.
-- La précision est considérablement réduite à longue portée.
+- L'exactitude est significativement réduite à de longues distances.

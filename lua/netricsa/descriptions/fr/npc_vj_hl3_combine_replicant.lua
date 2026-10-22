@@ -1,24 +1,24 @@
-COMBINEZ UN SOLDAT RÉPLIQUE
+VENDU DE REPLICANT COMBINE
 
 
-CLASS: Combiner un soldat réplicant
-METABOLISM: Implants biomécaniques modifiés humains, masculins / incomplets
-PERCEPTION: Soldat transhumain, infanterie expérimentale/transitionnelle
-HEIGHT: 6,5 pieds
-ENDURANCE: Moyen-élevé
-HOSTILITY: Très élevé
-WEAPONS: SMG2, grenades
-REWARD: 300FC
-THREAT: Moyen
+CLASSE:      Combiner le soldat répliquant
+MÉTABOLISME: Implants biomécaniques humains, mâles ou incomplets modifiés
+PERCEPTION: Soldat transhumain, infanterie expérimentale / transitoire
+HEIGHT:     6,5 pieds
+ENDURANCE:  Moyenne-élevée
+HOSTILITÉ:  Très élevé
+ARMES:    SMG2, grenades
+RÉCOMPENSE:     300 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les soldats Combine Replicant sont une étape incomplète de la transformation d’une personne en un soldat Combine Overwatch à part entière. Ils subissent une implantation et une psychocorrection accélérées, mais ne sont pas encore équipés de l’équipement de protection complet et des interfaces neuronales typiques des unités Overwatch standard.
+Les soldats répliquants sont une étape incomplète de la transformation d'une personne en un soldat à part entière. Ils subissent une implantation accélérée et une psychocorruption, mais ne sont pas encore équipés de l'équipement de protection complet et des interfaces neurales typiques des unités de surveillance standard.
 
-The main distinguishing feature of a Replicant is the lack of a helmet. Their faces are partially or completely exposed, often bearing visible signs of surgical intervention: implants, cicatrices, peau pâle, regard vitreux. Cela les rend vulnérables, mais permet également au Combine de conserver ses ressources lors d'opérations de masse.
+La principale caractéristique d'un répliquant est l'absence de casque. Leurs visages sont partiellement ou complètement exposés et présentent souvent des signes visibles d'intervention chirurgicale : implants, cicatrices, peau pâle, regard vitreux. Cela les rend vulnérables, mais permet également au Combine de conserver les ressources sur les opérations de masse.
 
-Leur comportement est moins coordonné que celui d’Overwatch. Malgré cela, les Réplicants restent dangereux, surtout lorsqu'ils sont en infériorité numérique.
+Leur comportement est moins coordonné que celui de Overwatch. Malgré cela, les réplicats sont encore dangereux, surtout lorsqu'ils sont plus nombreux.
 
-TIPS: 
+CONSEILS:
 
-- L'absence de casque rend les tirs à la tête particulièrement efficaces.
+- L'absence de casque rend les têtes particulièrement efficaces.

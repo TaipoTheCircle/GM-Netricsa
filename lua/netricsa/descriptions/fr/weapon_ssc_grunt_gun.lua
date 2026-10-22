@@ -1,20 +1,20 @@
-FUSIL LASER
+LASER RIFLE
 
 
-WEAPON: Fusil laser
-AMMO: Faisceaux d'énergie
-ROF: Rafales à double tir
+ARME:      Rifle laser
+MUNITIONS:        Poutres énergétiques
+CADENCE DE TIR:         Coups de feu doubles
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Fusil laser - fusils laser portatifs qui déchargent deux impulsions d'énergie en succession rapide. Bien que primitifs par rapport aux normes futuristes, ces fusils sont légers, fiables et parfaitement adaptés à un déploiement massif sur le champ de bataille. Chaque pression sur la gâchette libère deux puissantes explosions laser, délivrant un tir de suppression rapide et mortel. L'arme est alimentée par un noyau de plasma miniaturisé, stabilisé par des régulateurs d'énergie cristallins.
-Ce réacteur intégré recharge en permanence le fusil via un chargeur inséré au bas de l'arme, assurant ainsi l'approvisionnement en munitions lors d'engagements prolongés.
+Rifle laser - fusils laser portatifs qui déchargent deux impulsions d'énergie en succession rapide. Bien que primitifs selon des normes futuristes, ces fusils sont légers, fiables et parfaitement adaptés au déploiement en masse sur le champ de bataille. Chaque tir de la gâchette libère deux explosions laser puissantes, fournissant un feu suppressif rapide et mortel. L'arme est alimentée par un noyau plasmatique miniaturisé, stabilisé avec des régulateurs d'énergie cristalline.
+Ce réacteur intégré recharge continuellement le fusil à travers un chargeur inséré dans le fond de l'arme, assurant l'approvisionnement en munitions dans des engagements prolongés.
 
-NOTES: 
+REMARQUES:
 
-- Léger et efficace .
-- Chaque tir draine momentanément le noyau de plasma, mais il se recharge presque instantanément entre les rafales.
-- Designed for swarm tactics: fiable, produit en série et mortel en groupe.
-- Idéal pour les échanges de tirs à moyenne portée ; inefficace contre les armures lourdes.
-- Conçues pour l'infanterie légère, ces armes infligent des dégâts modérés avec une vitesse de faisceau incroyablement rapide et une synergie d'éclatement.
-- Chaque pression sur la gâchette émet une double rafale, doublant efficacement l'impact et rendant l'esquive plus difficile.
+- Léger et efficace.
+- Chaque tir draine le noyau plasma momentanément, mais il se recharge presque instantanément entre les rafales.
+- Conçu pour les tactiques d'essaim : fiable, produit en série et mortel en groupes.
+- Idéal pour les combats de portée moyenne; inefficace contre les armures lourdes.
+- Conçus pour l'infanterie légère, ces armes causent des dégâts modérés avec une vitesse de poutre impressionnantement rapide et une synergie d'éclatement.
+- Chaque poussée de déclenchement émet un éclatement double-shot, doublant efficacement l'impact et rendant l'esquive plus difficile.

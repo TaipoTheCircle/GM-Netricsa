@@ -1,16 +1,16 @@
-PISTOLET BERETTA M9
+MAC-11 SUBMACHINE GUN
 
 
-WEAPON: MAC-11
-AMMUNITION: Cartouches 9x19 mm
-ROF: ~1200 tours/min
+ARME:      MAC-11
+AMMUNITION:  cartouches 9x19 mm 
+CADENCE DE TIR:         ~1200 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Une arme automatique polyvalente pour le combat rapproché et moyen terme en milieu urbain. Il est principalement utilisé par des gangs de Los Angeles tels que les Bloodz et les Crips. Il a également été présenté dans "El Mariachi" de 1992.
+Une arme automatique polyvalente pour le combat à courte et moyenne portée en milieu urbain. Il est principalement utilisé par des gangs de Los Angeles comme les Bloodz et les Crips. Il a également été présenté dans le 1992 "El Mariachi".
 
-NOTES: 
+REMARQUES:
 
-- Épuise rapidement les munitions.
-- La précision est considérablement réduite à longue portée.
-- Quoi, mon garçon, tu veux te tirer dessus pour avoir joué avec moi ?!
+- Il épuise rapidement les munitions.
+- L'exactitude est significativement réduite à de longues distances.
+- Tu veux te tirer dessus !

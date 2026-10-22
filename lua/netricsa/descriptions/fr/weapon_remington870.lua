@@ -1,17 +1,17 @@
-REMINGTON 870 PUMP-ACTION SHOTGUN
+REMINGTON 870 POMMES D'ACTION
 
 
-WEAPON: Remington 870
-MUNITIONS Cartouches de calibre 12/70
-ROF: ~60 tours/min
+ARME:     Remington 870
+MUNITIONS:       cartouches de calibre 12/70
+CADENCE DE TIR:        ~60 tours/min
 
 DESCRIPTION:
 
-Fusil à pompe américain. Conçu pour l'autodéfense, la chasse, le tir sportif et l'armement des unités de l'armée et de la police.
+Un fusil à pompe américain. Conçu pour l'autodéfense, la chasse, le tir sportif et l'armement de l'armée et des unités de police.
 
-NOTES:
+REMARQUES:
 
-- Ce fusil de chasse est efficace à courte et moyenne portée.
-- Pour des portées plus longues, vous pouvez changer le type de cartouche en SLUG.
+- Ce fusil est efficace à portée courte à moyenne.
+- Pour des gammes plus longues, vous pouvez changer le type de cartouche en SLUG.
 
 

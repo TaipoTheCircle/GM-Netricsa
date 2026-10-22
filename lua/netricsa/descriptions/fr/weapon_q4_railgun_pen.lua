@@ -1,18 +1,18 @@
-FUSIL À RAIL STROGG
+STROGG RAILGUN
 
 
-WEAPON: Fusil à rail Strogg
-AMMO: Lumière colorée. Un laboratoire où ils ont étudié les effets de différentes longueurs d'onde sur le psychisme. Les résultats se trouvent probablement dans des coffres-forts quelque part. Ou sur les murs, sous forme de taches laissées par ceux qui ont trop longtemps regardé.
-ROF: ~37,5 tours/min avec temps de recharge entre les tirs
+ARME: Strogg Railgun
+MUNITIONS:   Rondelles (uranium appauvri)
+CADENCE DE TIR:    ~37.5 rondes / min avec refroidissement entre les prises 
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Railgun est une arme Strogg puissante. Il tire une lourde balle qui peut tirer d'un seul coup sur les ennemis faibles et infliger des dégâts importants aux niveaux intermédiaires. Cependant, il souffre d'un long temps de recharge (environ 1,6 seconde) entre les tirs, nécessitant précision et utilisation tactique. Idéal pour être utilisé comme outil de tireur d'élite à longue portée, en particulier contre des cibles individuelles ou blindées.
+Le Railgun est une arme Strogg puissante. Il tire une limace lourde qui peut un-shot ennemis faibles et causer des dommages majeurs à mi-niveau. Cependant, il souffre d'un long refroidissement (environ 1,6 seconde) entre les tirs, nécessitant une précision et une utilisation tactique. Mieux utilisé comme outil de sniper à longue portée, particulièrement contre les cibles individuelles ou blindées.
 
 
-NOTES: 
+REMARQUES:
 
-- Penetration upgrade: permet aux projectiles de percer plusieurs ennemis.
-- Le petit chargeur et le temps de recharge le rendent risqué en combat rapproché.
-- La portée améliore considérablement la précision ; tir à couvert recommandé.
-- Très efficace contre les Stroggs tactiques et les unités blindées ; vulnérable pendant le rechargement/le temps de recharge.
+- Mise à niveau de la pénétration : permet aux projectiles de percer à travers plusieurs ennemis.
+- Le petit magazine et le cooldown rendent ça risqué.
+- La portée améliore considérablement la précision; tir à partir du couvercle recommandé.
+- Très efficace par rapport aux stroggs tactiques et aux unités blindées; vulnérable pendant le rechargement/refroidissement.

@@ -1,17 +1,17 @@
-ÉCLAT DE SIGNAL
+SIGNAUX
 
 
-WEAPON: Fusée de signalisation
-AMMO: Signaler des fusées éclairantes à main
-ROF: ~6 lancements/min (dépend de l'utilisateur)
+ARME: Feu de signalisation
+MUNITIONS:   Feux de signalisation à main
+CADENCE DE TIR:    ~6 lancements/min (dépend de l'utilisateur)
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un appareil tactique polyvalent. L'un émet une fusée lumineuse et longue durée avec de la fumée pour appeler à l'aide ou marquer des positions ; l'alternative lance une fusée incendiaire qui enflamme les cibles inflammables et inflige des dégâts de feu continus aux ennemis dans la zone. Couramment utilisé par les réfugiés, les résistants, les combineurs et les tireurs d'élite pour le marquage, la signalisation ou comme arme incendiaire improvisée.
+Un dispositif tactique polyvalent. L'un d'eux émet une fusée éclairante qui brûle longtemps pour demander de l'aide ou marquer des positions; l'autre lance une fusée éclairante incendiaire qui allume des cibles inflammables et cause des dommages continus aux ennemis dans la région. Utilisés couramment par les réfugiés, les résistants, les snipers pour marquer, signaler ou comme arme incendiaire improvisée.
 
-NOTES: 
+REMARQUES:
 
-- Flare lumineuse visible + fumée pour invoquer du soutien/marquage des coordonnées.
-- Fusée incendiaire - enflamme les objets inflammables et inflige des dégâts de brûlure aux ennemis.
-- Peut attirer l'attention des amis et des ennemis - à utiliser avec une conscience tactique.
-- Risque d'incendie environnemental et de victimes amies ; éviter toute utilisation dans des espaces confinés.
+- Éruption lumineuse visible + fumée pour les coordonnées de support/marquage.
+- Éruption incendiaire - enflamme des objets inflammables et inflige des dommages brûlés aux ennemis.
+- Peut attirer l'attention à la fois amicale et ennemie - utiliser avec la conscience tactique.
+- Risque d ' incendie environnemental et de victimes amicales; éviter toute utilisation dans des espaces confinés.

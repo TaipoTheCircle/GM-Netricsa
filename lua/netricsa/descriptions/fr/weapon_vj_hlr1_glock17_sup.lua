@@ -1,17 +1,17 @@
-PISTOLET SILENCIEUX 9MM
+PISTOL SILENCE DE 9MM
 
 
-WEAPON: Pistolet 9 mm (silencieux)
-AMMO: Rondes de 9x19mm
-ROF: Semi-automatique, ~15 coups/min efficaces
+ARME:      Pistolet de 9 mm (silencieux)
+MUNITIONS:        tours 9x19mm
+CADENCE DE TIR:         Semi-automatique, ~15 rds/min efficace
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Pistolet semi-automatique standard de 9 mm équipé d'un suppresseur. Délivré aux assassines de Black Ops pour des opérations furtives au sein de Black Mesa. Délivre des tirs précis et silencieux, permettant aux agents d'éliminer les cibles sans alerter les ennemis proches.
+Pistolet semi-automatique standard 9mm équipé d'un suppresseur. Délivré à Black Ops assassins féminins pour des opérations furtives au sein de Black Mesa. Fournit des tirs précis et silencieux, permettant aux agents d'éliminer les cibles sans alerter les ennemis voisins.
 
-NOTES: 
+REMARQUES:
 
-- Bruit de tir réduit ; excellent pour les tueries furtives.
+- Moins de bruit de tir; excellent pour les meurtres furtifs.
 - Précision modérée, faible recul.
-- Dégâts égaux au pistolet standard de 9 mm.
-- Inefficace contre les cibles blindées.
+- Dommages égaux au pistolet 9mm standard.
+- Inefficacité contre les cibles blindées.

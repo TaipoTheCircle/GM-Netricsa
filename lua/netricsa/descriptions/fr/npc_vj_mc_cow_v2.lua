@@ -1,26 +1,26 @@
-COW FROM THE MINECRAFT OVERWORLD
+COUVERTURE DE LA SURVEILLANCE MINECRAFT
 
 
-CLASS: Vache
-METABOLISM: Mammifère à sang chaud
-PERCEPTION: Animal sauvage/domestique
-SIZE: 5,2 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Faible
-WEAPONS: Aucun
-REWARD:     50 FC
-THREAT: Faible
+CLASSE:      Vache
+MÉTABOLISME: Mammifère à sang chaud
+PERCEPTION: Animaux sauvages / domestiques
+TAILLE:       5,2 pi
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Faible
+ARMES:    Aucune
+RÉCOMPENSE:     50 FC
+MENACE:     Faible
 
 DESCRIPTION:
 
-Les vaches sont des herbivores paisibles qui habitent les plaines, les prairies et les collines du monde Minecraft. Ils paissent sur l'herbe verte, n'attaquent jamais et se comportent calmement.
+Les vaches sont des herbivores paisibles qui habitent les plaines, les prairies et les collines du monde Minecraft. Ils paissent sur l'herbe verte, ne attaquent jamais, et se comportent calmement.
 
-Dans la nature, les vaches se trouvent souvent en groupe. Leurs meuglements rythmés et leurs corps massifs créent la sensation d’un écosystème stable et dynamique.
+Dans la nature, les vaches se retrouvent souvent en groupes. Leur mouvement rythmique et leurs corps massifs créent le sentiment d'un écosystème stable et dynamique.
 
-Les vaches peuvent être traites dans un seau sans causer de dommages, ce qui en fait une source fiable de lait pendant les voyages.
+Les vaches peuvent être traites à partir d'un seau sans causer de dommages, en faisant une source fiable de lait pendant le voyage.
 
-TIPS:
+CONSEILS:
 
-- Le lait de vache est ton meilleur ami en cas d'empoisonnement ou de mauvais effets de potion.
-- Le bœuf apporte santé et satiété.
-- Placez les vaches dans un enclos pour un approvisionnement constant en ressources.
+- Le lait de vache est votre meilleur ami quand il est empoisonné ou souffrant de mauvais effets de potion.
+- Le boeuf est sain et satiété.
+- Placer les vaches dans un stylo pour un approvisionnement constant en ressources.

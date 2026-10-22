@@ -1,15 +1,15 @@
-ORO P23 "KASATIK" COMBAT KNIFE
+ORO P23 "KASATIK" KNIFE DE COMBAT
 
 
-ARME : ORO P23 "Kasatik" Combat Knife
-MUNITIONS : One Knife
+ARME: ORO P23 "Kasatik" couteau de combat
+MUNITIONS:   Un couteau
 
-DESCRIPTIF :
+DESCRIPTION:
 
-A combat knife designed for close-quarters combat and silent target elimination. Its compact size allows for easy carrying and quick use in combat. The knife requires no ammunition and remains effective at extremely close range.
+Un couteau de combat conçu pour le combat de quartier rapproché et l'élimination silencieuse de la cible. Sa taille compacte permet un transport facile et une utilisation rapide au combat. Le couteau n'a pas besoin de munitions et reste efficace à très près.
 
-REMARQUES :
+REMARQUES:
 
-- Requires no ammunition.
-- Suitable for silent close-quarters combat.
-- Allows for quick attacks on enemies at close range.
+- Pas besoin de munitions.
+- Pour un combat silencieux.
+- Permet des attaques rapides contre les ennemis à portée de main.

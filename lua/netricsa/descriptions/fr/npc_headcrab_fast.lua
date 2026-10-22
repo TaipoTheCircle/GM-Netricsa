@@ -1,21 +1,21 @@
-FAST HEADCRAB FROM XEN
+LE DERNIER CŒUR DE XEN
 
 
-CLASS: Crabe, rapide
-METABOLISM: parasite
-PERCEPTION: Arme biologique
-SIZE: 1,3 pi
-ENDURANCE: très faible
-HOSTILITY: haut
-WEAPONS: sauts rapides, morsure oblique
-REWARD:     150 FC
-THREAT: moyen
+CLASSE:      Gratte de tête, rapide
+MÉTABOLISME: parasite
+PERCEPTION: Armes biologiques
+TAILLE:       1,3 pi
+ENDURANCE:  très faible
+HOSTILITÉ:  élevé
+ARMES:    sauts rapides, morsures
+RÉCOMPENSE:     150 FC
+MENACE:     moyenne
 
 DESCRIPTION:
 
-Cette race agile de parasite Xen est un cousin plus maigre et plus rapide du crabe commun. Il attaque en succession rapide, se jetant à plusieurs reprises. Bien que sa morsure n'ait pas la létalité du type poison, son harcèlement incessant le rend très efficace en essaim ou lorsqu'il est soutenu par d'autres forces. Une fois qu'il prend le contrôle d'un hôte, il produit un terrifiant zombie rapide.
+Cette race agile du parasite Xen est un cousin plus maigre et plus rapide du cabillaud commun. Il attaque en succession rapide, se jetant à plusieurs reprises. Bien que sa morsure n'ait pas la létalité du type poison, son harcèlement incessant le rend très efficace en essaims ou avec le soutien d'autres forces. Une fois qu'il prend le contrôle d'un hôte, il produit le zombie rapide terrifiant.
 
-TIPS:
+CONSEILS:
 
-- Restez calme et chronométrez vos tirs, cela n'en prend qu'un.
-- Utiliser les hauteurs ; ils sautent mais ne peuvent pas bien grimper.
+- Restez calme et prenez le temps de tirer.
+- Utilisez le sol élevé; ils sautent mais ne peuvent pas bien grimper.

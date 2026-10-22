@@ -1,45 +1,45 @@
-GARDE ROYALE IMPÉRIALE DE LA NIRN
+GUERRE IMPÉRIELLE ROYALE DU NIRN
 
 
-CLASS: Garde Royale Impériale
-METABOLISM: Mer, mâle
-PERCEPTION: Garde personnelle de l'Empereur / Forces spéciales d'élite de la Légion Impériale
-SIZE: 5,9 pieds
-ENDURANCE: Très élevé
-HOSTILITY: Conditionnel
-WEAPONS: Longues épées en acier fin, lourdes claymores, bouclier impérial
-REWARD: 7000FC
-THREAT: Absolu
+CLASSE:      Garde royale impériale
+MÉTABOLISME: Mer, Homme
+PERCEPTION: Garde personnelle de l'Empereur / Elite forces spéciales de la Légion impériale
+TAILLE:       5,9 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Conditionnel
+ARMES:    De longues épées en acier fin, de lourds argiles, bouclier impérial
+RÉCOMPENSE:     7000 FC
+MENACE:     Absolu
 
-DESCRIPTION: 
+DESCRIPTION:
 
-These are not just soldiers. They are "the greatest warrior-mages in Tamriel", the Emperor's personal shadow, the elite of the Imperial Legion. While an ordinary legionnaire defends the borders and catches bandits, the Royal Guard is responsible for one thing only: la vie et la sécurité de l'Empereur et de son entourage. Leurs casernes et salles d'entraînement sont situées directement dans le palais impérial, ce qui leur permet de répondre instantanément aux menaces.
+Ce ne sont pas que des soldats. Ce sont « les plus grands guerriers-hommes de Tamriel », l'ombre personnelle de l'empereur, l'élite de la Légion impériale. Alors qu'un légionnaire ordinaire défend les frontières et capture les bandits, la Garde Royale n'est responsable que d'une chose : la vie et la sécurité de l'Empereur et de son cercle intérieur. Leurs casernes et leurs salles d'entraînement sont situées directement à l'intérieur du Palais Impérial, afin qu'ils puissent réagir instantanément aux menaces.
 
-Devenir garde est incroyablement difficile. Les candidats sont sélectionnés dès l'enfance, appelés « Potentiels ». Ils sont formés dans des académies secrètes comme la Légion Oubliée, où ils forment non seulement des combattants, mais aussi des guerriers-mages, habiles avec l'épée et les sorts. Chaque année, un Tournoi des Potentiels est organisé, où les gagnants reçoivent le droit d'être testés. Seuls quelques-uns survivent et sont sélectionnés pour la Garde Royale.
+Devenir gardien est incroyablement difficile. Les candidats sont sélectionnés dans l'enfance, appelés « potentiels ». Ils sont entraînés dans des académies secrètes comme la Légion oubliée, où ils forment non seulement des combattants, mais des hommes guerriers, doués d'épée et de sort. Chaque année, un Tournoi des Potentiels est organisé, où les gagnants ont le droit d'être testés. Seuls quelques-uns survivent et sont sélectionnés pour la Garde royale.
 
-La Garde Royale a existé pendant des siècles, protégeant la dynastie Septim. Pourtant, leur histoire est tragique. Durant la Farce Impériale (3E 389), le Général Talin Warhaft et de nombreux gardes furent bannis dans Oblivion, et leurs places furent prises par des doublons créés par Jagar Tharn. Plus tard, pendant la crise d'Oblivion, lorsque l'empereur Uriel Septim VII fut assassiné par l'Aube Mythique, la Garde Royale se joignit à l'enquête sur sa mort aux côtés de la Légion Impériale, des Anciens et de la Guilde des Mages.
+La Garde royale existe depuis des siècles, protégeant la dynastie des Septim. Cependant, leur histoire est tragique. Pendant la Farce impériale (3E 389), le général Talin Warhaft et de nombreux gardes furent bannis à Oblivion, et leurs places furent prises par des duplicatas créés par Jagar Tharn. Plus tard, pendant la crise d'oblivion, lorsque l'empereur Uriel Septim VII a été assassiné par l'Aube mystique, la Garde royale s'est jointe à l'enquête sur sa mort aux côtés de la Légion impériale, des Anciens et de la Guilde des Mages.
 
 Après la chute des Septims et l'établissement de la dynastie médiane, le statut de la Garde royale n'est pas clair.
 
-The Royal Guard reports directly to the Emperor and his closest military commanders. Their structure includes the following ranks: 
+La Garde royale relève directement de l'Empereur et de ses commandants militaires les plus proches. Leur structure comprend les rangs suivants:
 
 Général de la Garde - le commandant suprême.
 
-Centurion - commande les unités.
+Centurion - commande des unités.
 
-Capitaine - responsable d'installations et d'opérations spécifiques.
+Capitaine - responsable des installations et des opérations spécifiques.
 
-Lieutenant - assistant du capitaine.
+Lieutenant assistant du capitaine.
 
-Sergent - commandant subalterne.
+Sergent, commandant junior.
 
-Garde - le principal personnel de combat.
+Gardien - le personnel de combat principal.
 
-TIPS: 
+CONSEILS:
 
-- Si vous envisagez d'enfreindre la loi dans la Cité Impériale, ne le faites pas à proximité de la Tour d'Or Blanc. Les gardes vous tueront plus vite que vous ne pourrez dégainer votre arme. Les gardes ne se laissent pas facilement convaincre. Contrairement aux gardes ordinaires, ils ne peuvent être ni soudoyés ni persuadés.
-- Lorsque vous combattez un garde, utilisez la magie à longue portée et évitez les combats rapprochés.
-- Si vous voyez un capitaine de garde, soyez particulièrement prudent. Ils ont un niveau supérieur et un meilleur équipement.
-- Contrairement aux gardes ordinaires, les armures de garde ne peuvent pas être retirées des cadavres. Ne perdez pas de temps à essayer de les piller.
-- Si vous rencontrez un garde armé d'une Claymore au lieu d'une épée longue, fuyez.
-- Même après la mort de l'Empereur, les gardes continuent de garder le Palais. Leur devoir ne s'arrête pas à la mort de l'Empereur.
+- Si vous envisagez de violer la loi dans la ville impériale, ne le faites pas près de la Tour d'Or Blanc. Les gardes vous tueront plus vite que vous ne pouvez tirer votre arme. Les gardiens ne sont pas facilement persuadés. Contrairement aux gardes réguliers, ils ne peuvent être soudoyés ou persuadés.
+- Pour combattre un garde, utilisez la magie à longue portée et évitez les combats rapprochés.
+- Si vous voyez un capitaine de garde, soyez particulièrement prudent. Ils ont un niveau plus élevé et un meilleur équipement.
+- Contrairement aux gardes réguliers, l'armure ne peut pas être retirée des cadavres. Ne perdez pas de temps à les piller.
+- Si vous rencontrez un garde armé d'un claymore au lieu d'un long mot, cours.
+- Même après la mort de l'Empereur, les gardes continuent de surveiller le Palais. Leur devoir ne s'arrête pas à la mort de l'Empereur.

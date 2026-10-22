@@ -1,16 +1,16 @@
-SMG1 SUBMACHINE GUN (MP7)
+GUN DE SOUS-MACHINE SMG1 (MP7)
 
 
-WEAPON:      SMG1
-AMMO: Cartouches 9x19 mm + grenades secondaires
-ROF: ~750 coups/min (primaire), 1 grenade/sec (secondaire)
+ARME:      SMG1
+MUNITIONS:        tours 9x19mm + grenades secondaires
+CADENCE DE TIR:         ~750 rounds/min (primaire), 1 grenade/sec (secondaire)
 
 DESCRIPTION:
 
-Arme automatique standard. Tire des obus rapides de 9 mm pour une suppression soutenue et comprend un lance-grenades sous le canon pour un soutien explosif supplémentaire. Efficace à courte et moyenne portée.
+Arme automatique standard. Incendies rapides de 9mm pour la suppression durable et comprend un lance-grenades sous-barrel pour un soutien explosif supplémentaire. Efficace à portée proche de moyenne.
 
-NOTES:
+REMARQUES:
 
-- Cadence de tir élevée, idéale pour la suppression des foules.
-- Les grenades secondaires infligent des dégâts de zone.
+- Taux élevé de feu, idéal pour la suppression de la foule.
+- Les grenades secondaires causent des dégâts.
 - Précision réduite sur de longues distances.

@@ -1,25 +1,25 @@
-TRIGEN STEALTH (INVISIBLE) DE L'ARCHIPEL KRIEGER
+TRIGÈNE DE STEALTH (INVISIBLE) DE L'ARCHIPELAGO KRIEGER
 
 
-CLASS: Trigen furtif (invisible)
-METABOLISM: Échec de la mutation trigénique
+CLASSE:      Trigène volant (invisible)
+MÉTABOLISME: Mutation de trigène échouée
 PERCEPTION: Tacticien-Saboteur
-SIZE: 5,8 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Haut
-WEAPONS: Silent MP5, grappins
-REWARD: 1000FC
-THREAT: Haut
+TAILLE:       5,8 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Silent MP5, crochets de grappin
+RÉCOMPENSE:     1000 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les Stealth Trigens sont le résultat d’expériences ratées visant à créer le soldat parfait. Contrairement aux Squeakers et Fatties musclés, ils ont une silhouette émaciée, dépourvue de cheveux et de lèvres, révélant des dents serrées. Leurs poitrines sont couvertes d'implants enflammés qui alimentent un dispositif de camouflage expérimental. Ils sont capables de rester invisibles pendant de longues périodes, ne se révélant que lorsqu'ils sont attaqués ou tués.
+Les trigens volants sont le résultat d'expériences ratées pour créer le soldat parfait. Contrairement aux Squeakers et Fatties musculaires, ils ont un cadre émacié, manquant de cheveux et de lèvres, révélant des dents serrées. Leurs poitrines sont recouvertes d'implants enflammés qui alimentent un dispositif de dissimulation expérimental. Ils sont capables de rester invisibles pendant de longues périodes, ne se révélant que lorsqu'ils sont attaqués ou tués.
 
-Ils opèrent en embuscade, utilisant l'invisibilité pour des attaques surprises. Ils attaquent à longue distance avec un MP5 silencieux, et lorsque l'ennemi approche, ils tentent de le capturer et de l'immobiliser. Ils opèrent rarement en groupe, préférant éliminer les cibles clés.
+Ils opèrent à partir d'embuscade, en utilisant l'invisibilité pour les attaques surprises. Ils attaquent à longue distance avec un MP5 silencieux et quand l'ennemi approche, ils tentent de les capturer et de les immobiliser. Ils opèrent rarement en groupes, préférant éliminer les cibles clés.
 
-TIPS: 
+CONSEILS:
 
-- Utilisez des lunettes biothermiques CryVision pour la détection.
-- Écoutez attentivement les bruits de pas et les rechargements d'armes.
-- Gardez vos distances : leurs prises sont mortelles à courte portée.
-- Utilisez des fusils de chasse ou des grenades dans des endroits suspects cachés.
+- Utilisez des lunettes biothermales CryVision pour la détection.
+- Écoutez attentivement les sons de pas et d'armes.
+- Gardez vos distances - leurs prises sont mortelles à portée de main.
+- Utilisez des fusils ou des grenades à des endroits cachés.

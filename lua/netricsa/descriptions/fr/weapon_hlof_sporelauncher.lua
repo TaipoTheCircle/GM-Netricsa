@@ -1,16 +1,16 @@
-LANCEUR DE SPORES
+LAUNCHER SPORE
 
 
-WEAPON: Lanceur de spores
-AMMO: Spores explosives
-ROF: ~6 tours/min
+ARME:      Spore Launcher
+MUNITIONS:        Spores explosives
+CADENCE DE TIR:         ~6 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Arme biologique qui tire des spores explosives capables d'exploser à l'impact ou après un court délai. Représente une première étape de développement du Shock Trooper, combinant croissance organique et capacité offensive. Principalement utilisé pour dégager des espaces confinés ou perturber les formations ennemies.
+Arme biologique qui tire des spores explosives capables de détoner à l'impact ou après un court délai. Représente un stade de développement précoce de la troupe de choc, combinant croissance organique et capacité offensive. Utilisé principalement pour nettoyer les espaces confinés ou perturber les formations ennemies.
 
-NOTES: 
+REMARQUES:
 
-- La charge utile explosive inflige des dégâts de zone.
-- Faible cadence de tir ; nécessite une visée prudente.
-- Peut être dangereux s'il explose trop près de l'utilisateur.
+- La charge utile explosive cause des dommages à la zone d'effet.
+- Faible taux d'incendie; nécessite un objectif prudent.
+- Peut être dangereux si on détone trop près de l'utilisateur.

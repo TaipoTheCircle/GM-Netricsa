@@ -1,18 +1,18 @@
-MARTEAU
+SLEDGEHAMMER
 
 
-WEAPON: Marteau
-AMMO: Non requis
-ROF: Cela dépend du type d'attaque
-WEIGHT: 13 livres
+ARME: Lugehammer
+MUNITIONS:   Non requis
+CADENCE DE TIR:    Dépend du type d'attaque
+POIDS: 13 livres
 
-DESCRIPTION: 
+DESCRIPTION:
 
-A powerful melee weapon and a universal tool for "opening" barricades and enemy skulls. Features three attack types: smash aérien, swing large et attaque tournante efficace contre les ennemis environnants.
-Inflige des dégâts importants à courte portée, capable d'éliminer les ennemis faibles en un seul coup et d'économiser les munitions.
+Une arme puissante et un outil universel pour ouvrir des barricades et des crânes ennemis. Caractéristiques de trois types d'attaque : écrasement aérien, balançoire large, et une attaque de rotation efficace contre les ennemis environnants.
+Réalise des dommages importants à portée de main, capables d'éliminer les ennemis faibles en un seul coup et de conserver les munitions.
 
-NOTES: 
+REMARQUES:
 
-- Efficace contre les hordes de Gnaars, d'araignées nouveau-nées et de squelettes Kleer.
-- L'attaque tournante est inestimable lorsqu'elle est encerclée.
-- Non recommandé contre les ennemis qui explosent à leur mort.
+- Efficace contre les hordes de Gnaars, Hatchling Spiders et Kleer Skeletons.
+- L'attaque de spin est inestimable quand on l'entoure.
+- Non recommandé contre les ennemis qui explosent à la mort.

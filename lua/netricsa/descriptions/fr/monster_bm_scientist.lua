@@ -1,24 +1,24 @@
-SCIENTIFIQUE DE MESA NOIR
+SCIENTIFIQUE NOIR MESA
 
 
-CLASS: Scientifique de Black Mesa
-METABOLISM: Humain, scientifique, homme
-PERCEPTION: Personnel scientifique de Black Mesa
-SIZE: ~6 pieds de haut
-ENDURANCE: faible
-HOSTILITY: aucun (sauf en cas de panique)
-WEAPONS: journal, équipement de laboratoire, cri occasionnel
-REWARD: satisfaction morale, 10 FC
-THREAT: négligeable individuellement, faible en groupe
+CLASSE:      Scientifique de Mesa noire
+MÉTABOLISME: Humain, Scientifique, Homme
+PERCEPTION: Personnel scientifique Black Mesa
+TAILLE:       6 pieds de haut
+ENDURANCE:  faible
+HOSTILITÉ:  aucun (sauf si paniqué)
+ARMES:    journal, matériel de laboratoire, cris occasionnels
+RÉCOMPENSE:     satisfaction morale, 10 FC
+MENACE:     négligeable individuellement, faible en groupes
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Scientists are the fragile, yet crucial, denizens of Black Mesa. They spend most of their time analyzing, measuring, and panicking appropriately when things go wrong - which, thanks to the resonance cascade, happens a lot. Despite their lack of combat ability, their knowledge can be invaluable: ils peuvent vous indiquer des endroits importants, vous fournir des kits de santé ou déverrouiller des portes.
+Les scientifiques sont les denizens fragiles mais cruciaux de Black Mesa. Ils passent la plus grande partie de leur temps à analyser, mesurer et paniquer correctement quand les choses tournent mal - ce qui, grâce à la cascade de résonance, se produit beaucoup. Malgré leur manque de capacités de combat, leurs connaissances peuvent être inestimables : elles pourraient vous orienter vers des endroits importants, fournir des trousses de santé ou ouvrir des portes.
 
-Bien qu'inoffensifs, leurs cris stridents et leur tendance à courir selon des schémas imprévisibles peuvent parfois rendre la navigation dans les installations une expérience chaotique. Certains théoriciens plaisantent en disant que la panique d'un seul scientifique est capable d'attirer plus de monstres qu'une escouade complète d'agents de sécurité.
+Bien qu'inoffensifs, leurs cris shrill et leur tendance à courir dans des motifs imprévisibles peuvent parfois faire naviguer l'installation une expérience chaotique. Certains théoriciens plaisantent que la panique d'un seul scientifique est capable d'attirer plus de monstres qu'une équipe complète de gardes de sécurité.
 
-TIPS: 
+CONSEILS:
 
-- Protégez-les si possible : ils disposent souvent d'informations utiles.
-- Ne vous attendez pas à ce qu'ils se battent ; évitez de les utiliser comme boucliers.
-- Écoutez attentivement leurs cris : ils pourraient indiquer un danger à proximité.
+- Les protéger si possible - ils ont souvent des informations utiles.
+- Ne vous attendez pas à ce qu'ils se battent; évitez de les utiliser comme boucliers.
+- Écoutez attentivement leurs cris - ils pourraient indiquer un danger à proximité.

@@ -1,25 +1,25 @@
-COMBINEZ LA TOURELLE DE SENTINELLE
+TURRET DE L'ENTRÉE COMBINE
 
 
-CLASS: Combiner la tourelle de sentinelle
-METABOLISM: Entièrement synthétique
+CLASSE:      Combiner Sentry Turret
+MÉTABOLISME: Entièrement synthétique
 PERCEPTION: Système de défense automatisé
-SIZE: ~4,5 pieds de hauteur
-ENDURANCE: Moyen
-HOSTILITY: Extrême
-WEAPONS: Canons à double impulsion
-REWARD: 400FC
-THREAT: Moyen-élevé
+TAILLE:       ~4,5 pieds de haut 
+ENDURANCE:  Moyenne 
+HOSTILITÉ:  Extrême 
+ARMES:    Canons à double impulsion
+RÉCOMPENSE:     400 FC
+MENACE:     Moyenne-haute
 
-DESCRIPTION: 
+DESCRIPTION:
 
-La tourelle Combine Sentry est une plate-forme de défense autonome largement déployée dans les territoires occupés. Monté sur une base de trépied et alimenté par un noyau énergétique Combine compact, il peut se verrouiller sur des cibles à l'aide de systèmes de détection de mouvement et thermique, ce qui rend presque impossible de se faufiler.
+Le Combine Sentry Turret est une plate-forme de défense autonome largement déployée dans les territoires occupés. Monté sur une base de trépieds et alimenté par un noyau d'énergie compact Combinez, il peut se verrouiller sur des cibles à l'aide de systèmes de détection de mouvement et thermique, ce qui rend presque impossible de passer en douce.
 
-Ses canons à double impulsion déclenchent des tirs de suppression dévastateurs, forçant l'infanterie ennemie à se mettre à couvert. Généralement placées dans des points d'étranglement, des couloirs et des secteurs carcéraux comme Nova Prospekt, ces tourelles de sentinelle fournissent une puissance de feu implacable et une intimidation psychologique, leurs bourdonnements et clics mécaniques signalant une mort imminente.
+Ses canons à double impulsion déclenchent des tirs dévastateurs, forçant l'infanterie ennemie à se couvrir. Généralement placés dans des points d'étranglement, des couloirs et des secteurs pénitentiaires comme Nova Prospekt, ces sentinelles Turrets offrent une puissance de feu et une intimidation psychologique incessantes, leurs clins d'œil et leurs clics mécaniques signalant une mort imminente.
 
-Bien que conçus pour une létalité maximale, ils manquent de mobilité et dépendent des ingénieurs Combine pour le déploiement et la maintenance. Une fois positionnés, ils peuvent toutefois maintenir des secteurs entiers face à la résistance humaine.
+Bien qu'ils soient conçus pour une létalité maximale, ils manquent de mobilité et dépendent de Combine Ingénieurs pour le déploiement et la maintenance. Une fois positionnés, cependant, ils peuvent tenir des secteurs entiers contre la résistance humaine.
 
-TIPS: 
+CONSEILS:
 
 - Utilisez des explosifs ou des attaques de type EMP pour les désactiver rapidement.
-- Évitez les échanges de tirs directs ; au lieu de cela, flanquez leurs angles morts.
+- Éviter les tirs directs; au lieu de cela, flanquer leurs taches aveugles.

@@ -1,4 +1,4 @@
-BLACK MESA, SCIENTIST'S BRIEFING
+MESA BLACK, LE BREF DU SCIENTIFIQUE
 
 
 Vous avez déjà un instructeur.

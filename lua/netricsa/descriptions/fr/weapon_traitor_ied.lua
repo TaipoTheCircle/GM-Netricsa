@@ -1,17 +1,17 @@
-DISPOSITIF EXPLOSIF MAISON
+DÉVISAGE EXPLOSIF DU HOMEMADE
 
 
-WEAPON: Engin explosif fait maison
-AMMUNITION: Charges explosives déclenchées à distance
-ROF: Détonation à distance placée à la main
+ARME:     Dispositif explosif de fabrication artisanale
+AMMUNITION: Charges explosives détonées à distance
+CADENCE DE TIR:        Détonation à distance à la main
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un engin explosif fabriqué à la maison. Il peut être déclenché à distance, permettant ainsi des embuscades, des pièges ou le nettoyage de positions fortifiées. Le plus souvent utilisé par les psychopathes, les terroristes et autres racailles de la société.
+Un engin explosif fabriqué à la maison. Il peut être détoné à distance, permettant des embuscades, des pièges ou de dégager des positions fortifiées. Le plus souvent utilisé par les psychopathes, les terroristes et d'autres ordures de la société.
 
-NOTES: 
+REMARQUES:
 
 - Permet un placement stratégique pour bloquer le territoire.
-- La détonation à distance assure un timing précis de l'explosion.
+- La détonation à distance assure un timing précis de l ' explosion.
 - Peut être inséré dans n'importe quel objet.
-- Si l'engin explosif est placé dans un objet métallique, l'explosion déchirera l'objet en petits morceaux qui feront office de shrapnel. De même, si la bombe est placée dans un endroit où se trouve un liquide inflammable, l'explosion provoquera un incendie.
+- Si l'engin explosif est placé dans un objet métallique, l'explosion déchirera l'objet en petits morceaux qui agiront comme des éclats. De même, si la bombe est placée dans un endroit où il y a du liquide inflammable, l'explosion provoquera un incendie.

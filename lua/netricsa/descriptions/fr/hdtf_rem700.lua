@@ -1,17 +1,17 @@
-FUSIL DE SNIPER REMINGTON 700
+REMINGTON 700 RISQUES
 
 
-WEAPON: Fusil de précision Remington 700
-AMMO: Différents calibres : .308 Win (7,62×51 mm), .30-06, .223 Rem, .300 Win Mag, .338 Lapua, etc.
-ROF: Coup unique
-WEIGHT: 4,5kg
-LENGTH: 1300 millimètres
+ARME: Remington 700 Sniper Rifle
+MUNITIONS:   Différents calibres: .308 Win (7.62×51 mm), .30-06, .223 Rem, .300 Win Mag, .338 Lapua, etc.
+CADENCE DE TIR:    Un seul coup 
+POIDS: 4,5 kg
+LENGTH: 1300 mm
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Remington modèle 700 est l'un des fusils à verrou les plus répandus au monde, produit depuis 1962. Réputé pour sa précision et sa fiabilité, la plate-forme est utilisée par les chasseurs, les tireurs de compétition, les tireurs d'élite de la police et les unités militaires (sous des formes modifiées). Sa conception est hautement modulaire - il est facile de changer les crosses, les canons, d'ajouter des bipieds, des optiques et de mettre à niveau les gâchettes - ce qui fait du 700 une base populaire pour les constructions dédiées aux tireurs d'élite/anti-matériel.
+Le modèle Remington 700 est l'un des fusils à action de boulons les plus répandus au monde, produit depuis 1962. Réputée pour son exactitude et sa fiabilité, la plateforme est utilisée par les chasseurs, les tireurs concurrents, les tireurs d'élite et les unités militaires (sous des formes modifiées). Sa conception est très modulaire - facile à changer les stocks, les barils, ajouter des bipodes, l'optique et les déclencheurs de mise à niveau - ce qui fait de la 700 une fondation populaire pour les constructions de sniper / anti-matériel dédié.
 
-NOTES: 
+REMARQUES:
 
-- Les modèles d'usine et de compétition présentent des groupes serrés ; avec une literie et un réglage appropriés, le 700 est une plate-forme précise.
-- Concerns: litiges et débats historiques sur les mécanismes de déclenchement en usine (certains premiers lots ont signalé des déclencheurs dangereux/trop sensibles) ; de nombreux utilisateurs installent des déclencheurs de rechange pour des performances constantes.
+- Les modèles d'usine et de compétition montrent des groupes serrés; avec la literie appropriée et le réglage du 700 est une plate-forme précise.
+- Préoccupations : contentieux historique et débat sur les mécanismes de déclenchement d'usine (certains lots précoces ont signalé des déclencheurs dangereux/sursensibles); de nombreux utilisateurs s'adaptent aux déclencheurs de l'après-vente pour des performances cohérentes.

@@ -1,22 +1,22 @@
-ROI ANTLION
+ROI D'ANTLION
 
 
-CLASS: Fourmilion, roi
-METABOLISM: Insectoïde
-PERCEPTION: Créature extraterrestre insectoïde, seigneur de la ruche
-SIZE: 60 pieds
-ENDURANCE: Extrêmement élevé
-HOSTILITY: Extrême
-WEAPONS: Griffes dévastatrices, appel à des renforts
-REWARD: 100 000 FC
-THREAT: Catastrophique
+CLASSE:      Antlion, Roi
+MÉTABOLISME: Insectoïde
+PERCEPTION: Insectoïde Alien Créature, Seigneur Vivant
+TAILLE:       60 pieds
+ENDURANCE:  Extrêmement élevé
+HOSTILITÉ:  Extrême
+ARMES:    Dévastation des griffes, appel au renforcement
+RÉCOMPENSE:     100 000 FC
+MENACE:     Catastrophes
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Roi Antlion était le summum de la société Antlion, un seigneur de ruche colossal appelé à commander des incursions dans les nids profondément souterrains. Conçu comme une figure patriarcale.
+Le roi d'Antlion était le sommet de la société d'Antlion, un seigneur de ruche colossale appelé à commander incursions dans des nids profonds souterrains. Conçu comme une figure patriarcale.
 
-Il habite dans les vastes cavernes souterraines situées entre la casse d'Eli Maxwell et la côte.
+Il habite dans les vastes cavernes souterraines entre la junkyarde d'Eli Maxwell et la côte.
 
-TIPS: 
+CONSEILS:
 
-- Sans armes puissantes et sans entourage compétent, cet ennemi constitue presque une menace mortelle. Mais vous avez des armes, n'est-ce pas ?
+- Sans armes puissantes et un entourage compétent, cet ennemi est presque une menace mortelle. Mais vous avez des armes, non ?

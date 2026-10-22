@@ -1,21 +1,21 @@
-ROCKETEER DÉCAPÉ, BÊTA
+C'EST BIEN ÇA
 
 
-CLASS: Rocketeer décapité, bêta
-METABOLISM: cyber-zombie
+CLASSE:      Rocketeer décapité, Beta
+MÉTABOLISME: cyber-zombie
 PERCEPTION: insensible, contrôlé par LCU
-SIZE: 6 pieds
-ENDURANCE: très faible
-HOSTILITY: très faible
-WEAPONS: lanceur de missiles magiques
-REWARD: 200FC
-THREAT: aucun
+TAILLE:       6 pieds
+ENDURANCE:  très faible
+HOSTILITÉ:  très faible
+ARMES:    lance-missiles magiques
+RÉCOMPENSE:     200 FC
+MENACE:     aucune
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un soldat sirien exécuté, ressuscité des morts par Mental et télécommandé par Life Control Unit (LCU).
-Le Rocketeer porte sa propre tête dans une main pour recevoir des informations audiovisuelles et tire un missile magique à la fois à partir d'un lanceur portatif de faible puissance. Ils sont immunisés contre leurs propres missiles.
+Un soldat sirien exécuté, ressuscité d'entre les morts par Mental et télécommandé par l'Unité de contrôle de la vie.
+Le Rocketeer porte sa propre tête dans une main pour recevoir des informations audiovisuelles et tire un missile magique à la fois d'un lanceur portatif de faible puissance. Ils sont à l'abri de leurs propres missiles.
 
-TIPS: 
+CONSEILS:
 
 - Aucun problème connu.

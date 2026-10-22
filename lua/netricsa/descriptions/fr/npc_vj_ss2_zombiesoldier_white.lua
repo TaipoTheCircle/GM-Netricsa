@@ -1,35 +1,35 @@
-ZOMBIE MITRAILLEUR EN T-SHIRT VERT (COMMANDO)
+GUNNER DE MACHINE DE ZOMBIE EN T-SHIRT GREEN, COMMANDO
 
 
-CLASSE:      Zombie mitrailleur en T-shirt vert (Commando)
-MÉTABOLISME: Mort-vivant démonisé
-PERCEPTION:  Soldat zombie
-TAILLE:      3,5 m (11,5 pieds)
-ENDURANCE:   Moyenne
-HOSTILITÉ:   Élevée
-ARMES:       Minigun
-RÉCOMPENSE:  150 FC
-MENACE:      Élevée
+CLASSE:      Zombie Machine Gunner En T-Shirt Vert, Commando
+MÉTABOLISME: Démonstration
+PERCEPTION: Zombie Soldat
+TAILLE:       11,5 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Minigune
+RÉCOMPENSE:     150 FC
+MENACE:     Haut
 
-DESCRIPTION :
+DESCRIPTION:
 
-Après avoir constaté l'efficacité avec laquelle des zombies dirigés par des démons anéantissaient des hordes entières d'infanterie à l'aide de miniguns, Mental a décidé d'intégrer ces soldats à son arsenal.
+Après avoir vu à quel point les zombies dirigés par les démons ont détruit des hordes entières d'infanterie avec des mini-guns, Mental a décidé d'intégrer ces soldats dans son arsenal.
 
-Les Arachnoïdes étaient trop imposants, encombrants et lents pour être déployés en masse. Mental a alors noué une alliance avec le Seigneur des Enfers, qui lui a prêté plusieurs espèces, dont ces créatures.
+Les Arachnoïdes étaient trop grands, encombrants et lents à utiliser en masse. Mental a ensuite formé une alliance avec le Seigneur de l'Enfer, qui lui a prêté plusieurs espèces, y compris ces créatures.
 
-Ces zombies sont d'anciens Marines ayant subi un rituel complexe de transformation démoniaque. Contrairement aux zombies ordinaires, simplement possédés par des démons, ces commandos ont été entièrement remodelés, devenant des hybrides entre l'humain et l'abyssal.
+Ces zombies sont d'anciens marins qui ont subi un rituel complexe de transformation démoniaque. Contrairement aux zombies ordinaires, qui sont tout simplement possédés par les démons, les commandos ont été complètement refaits, devenant quelque chose entre l'humain et l'abîme.
 
-Ils conservent des vestiges de leur uniforme militaire : un pantalon de camouflage et un casque allemand vert caractéristique.
+They still retain the remnants of their military uniform: pantalon de camouflage et un casque allemand vert distinctif.
 
-La présence du T-shirt vert n'est pas non plus un hasard. Avant leur transformation démoniaque, ces soldats le portaient dans le cadre de l'uniforme réglementaire des Marines au service de la corporation UAC.
+Le T-shirt vert n'est pas une simple coïncidence non plus. Avant leur transformation démoniaque, ces soldats le portaient dans le cadre de l'uniforme standard pour les Marines servant sous la corporation UAC.
 
-Après la transformation, la majeure partie de leur équipement et de leurs vêtements a disparu ou a été altérée ; le T-shirt, en revanche, a subsisté, constituant l'un des rares rappels visibles du passé humain du commando.
+Après la transformation, la plupart de leur équipement et de leurs vêtements ont été perdus ou modifiés; cependant, le T-shirt est resté, servant d'un des rares rappels visibles du passé humain du Commando.
 
-La meilleure façon de les affronter est de NE PAS foncer tête baissée sous leurs tirs.
+La meilleure façon de les traiter est de NE PAS se précipiter dans leur feu.
 
-CONSEILS :
+CONSEILS:
 
-- Mettez-vous à l'abri pour éviter leurs tirs ; vous pourriez être tenté d'adopter une approche « sans abri, en duel », mais cette tactique risque fort de vous conduire à une situation « sans abri, mort ».
-- Leur minigun manque de précision à longue portée ; plus vous êtes loin, mieux c'est.
-- Le tir de précision à distance est une excellente méthode pour les éliminer.
-- Un tir de pistolet de détresse dans la tête permet de les neutraliser rapidement.
+- Couvrez-vous de leur feu; vous pourriez être tenté d'utiliser l'approche « No Cover, One on One », mais l'utilisation de cette tactique vous mènera probablement à une situation « No Cover, Dead ».
+- Leur minigun est inexact à long terme; plus vous êtes loin, mieux c'est.
+- C'est une bonne façon de s'occuper d'eux.
+- Les coups de feu sont rapides.

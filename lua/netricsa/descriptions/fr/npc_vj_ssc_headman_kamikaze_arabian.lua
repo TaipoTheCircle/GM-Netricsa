@@ -1,25 +1,25 @@
-KAMIKAZE DÉCAPÉ ARABE
+KAMIKAZE ARABE
 
 
-CLASSE : Kamikaze décapité, arabe
-MÉTABOLISME : Cyber-Zombie
-PERCEPTION : Insensible, contrôlé par LCU
-TAILLE : 6 pieds
-ENDURANCE : Très faible
-HOSTILITÉ : Extrême
-ARMES : Grenades à main
-RÉCOMPENSE : 2500 FC
-MENACE : Élevée
+CLASSE:      Kamikaze décapité, arabe
+MÉTABOLISME: Cyber-Zombie
+PERCEPTION: Insensible, LCU contrôlé
+TAILLE:       6 pieds
+ENDURANCE:  Très faible
+HOSTILITÉ:  Extrême
+ARMES:    Grenades à main
+RÉCOMPENSE:     2500 FC
+MENACE:     Haut
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Un soldat sirien exécuté, ressuscité des morts par Mental et télécommandé par Life Control Unit (LCU).
+Un soldat sirien exécuté, ressuscité d'entre les morts par Mental et télécommandé par l'Unité de contrôle de la vie.
 
-Le chef des Kamikaze est ruiné, il est donc employé pour des attentats suicidaires. Transporte deux bombes dans ses mains et les active lorsqu'elles sont suffisamment proches de la cible. 
+Le chef du Kamikaze a été ruiné, donc il est employé pour des attaques suicidaires. Il porte deux bombes dans ses mains et les active quand elle est assez proche de la cible.
 
 
-Pour une raison inconnue, Mental a décidé de créer une unité thématique de kamikazes sans tête, les équipant d'un pantalon marron, de gants noirs et d'un bandana arabe traditionnel noué autour du cou.
+Pour une raison inconnue, Mental a décidé de créer une unité thématique de kamikazes sans tête, les habiller dans un pantalon brun, des gants noirs et une bandana arabe traditionnelle attachée autour du cou.
 
-CONSEILS :
+CONSEILS:
 
-- Explose lorsqu'il est tué.
+- Explose quand tues.

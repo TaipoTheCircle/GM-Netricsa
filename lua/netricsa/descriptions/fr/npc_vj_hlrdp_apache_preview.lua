@@ -1,29 +1,29 @@
-Y.S.M. AH-64 APACHE GUNSHIP (APERÇU)
+Y.S.M. AH-64 GUNSHIP APACHE (PREVIEW)
 
 
-CLASS: Y.S.M. AH-64 Apache Gunship (aperçu)
-METABOLISM: Mécanique, piloté par l'homme
-PERCEPTION: Véhicule militaire aéroporté, Yellow Shield PMC
-SIZE: 58 pieds
-ENDURANCE: Très élevé
-HOSTILITY: Extrême
-WEAPONS: Mitrailleuse, roquettes, missiles à tête chercheuse
-REWARD: 6000FC
-THREAT: Catastrophique
+CLASSE:      Y.S.M. AH-64 Apache Gunship (Présentation)
+MÉTABOLISME: Mécanique, humaine
+PERCEPTION: Véhicule militaire aéroporté, Bouclier jaune
+TAILLE:       58 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Extrême
+ARMES:    Pistolet automatique, fusées, missiles d'hommage
+RÉCOMPENSE:     6000 FC
+MENACE:     Catastrophes
 
-DESCRIPTION: 
+DESCRIPTION:
 
-The Y.S.M. Marines use this helicopter for the same purposes as the H.E.C.U.: détruire des cibles de grande valeur, supprimer la résistance dans les zones ouvertes et assurer la sécurité des raids sur la base Delta.
+Les Marines Y.S.M. utilisent cet hélicoptère aux mêmes fins que l'U.S.E.C. : détruire des cibles de grande valeur, supprimer la résistance dans les zones ouvertes et assurer la sécurité des raids sur la base Delta.
 
-Il dispose d'une mitrailleuse à tir rapide pour éliminer l'infanterie, de roquettes non guidées pour détruire les groupes ennemis et parfois de missiles à tête chercheuse pour chasser des cibles blindées ou des hélicoptères ennemis. L'hélicoptère est piloté par un pilote mercenaire, qui a probablement de l'expérience dans l'armée ou dans d'autres PMC. Il sait ce qu'il fait et n'a pas peur de risquer l'avion pour remplir un contrat.
+Il a une mitrailleuse à feu rapide pour nettoyer l'infanterie, des roquettes non guidées pour détruire des groupes ennemis, et parfois des missiles pour chasser des cibles blindées ou des hélicoptères ennemis. L'hélicoptère est piloté par un pilote mercenaire qui a probablement de l'expérience dans l'armée ou d'autres CPM. Il sait ce qu'il fait et n'a pas peur de risquer l'avion pour remplir un contrat.
 
 Y.S.M. utilise l'Apache pour couvrir ses raids et parfois pour intimider le personnel survivant.
 
-The Apache can be shot down, but only with heavy weapons: RPG, mitrailleuses stationnaires de gros calibre ou systèmes de missiles antichar. Les armes légères sont inutiles.
+L'Apache peut être abattu, mais seulement avec des armes lourdes : des RPG, des mitrailleuses fixes de grand calibre ou des systèmes antichars de missiles. Les armes légères sont inutiles.
 
-TIPS: 
+CONSEILS:
 
-- La couverture est votre meilleure alliée. Ne combattez jamais le Y.S.M. Apache à l'air libre.
-- Les explosifs (RPG, lance-grenades) sont la seule véritable contre-mesure.
-- Les missiles à tête chercheuse sont mortels. Déplacez-vous de manière imprévisible et utilisez un couvercle avec des angles de vision larges.
-- Si l'hélicoptère est abattu, restez à l'écart.
+- La couverture est ton meilleur allié. Ne jamais combattre l'Apache Y.S.M. en plein air.
+- Les explosifs (RPG, lance-grenades) sont la seule contre-mesure réelle.
+- Les missiles sont mortels. Déplacez-vous imprévisiblement et utilisez une couverture avec de larges angles de vision.
+- Si l'hélicoptère est abattu, restez loin.

@@ -1,26 +1,26 @@
-BULLTANK BIOMÉCANOÏDE, SERGENT
+BULLTANK BIOMÉCHANIDE, SERGEANT
 
 
-CLASS: Biomécanoïde BullTank, sergent
-METABOLISM: Cyborg endothermique
-PERCEPTION: Cybernétiquement amélioré
-SIZE: 10 pieds
-ENDURANCE: Moyen
-HOSTILITY: Haut
-WEAPONS: Canons à impulsions
-REWARD: 200FC
-THREAT: Moyen
+CLASSE:      Tambour biomécanique, sergent
+MÉTABOLISME: Endotherme Cyborg
+PERCEPTION: Amélioration cybernétique
+TAILLE:       10 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Canons à impulsions
+RÉCOMPENSE:     200 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Suite à la création réussie des Biomechanoid Walkers, Mental a chargé ses scientifiques de trouver un moyen de convertir les troupes existantes en biomécanoïdes, afin qu'elles puissent continuer à servir Mental même après avoir subi de graves blessures. Le résultat fut le réservoir biomécanoïde.
+Après la création réussie de Biomechanoid Walkers, Mental a chargé ses scientifiques de trouver un moyen de convertir les troupes existantes en biomécanoïdes, afin qu'elles puissent continuer à servir Mental même après avoir souffert de blessures graves. Le résultat a été le réservoir biomécanique.
 
-Les bullsoldats qui ont été frappés d'incapacité au combat voient les parties endommagées de leur corps amputées et des augmentations cybernétiques sont implantées chirurgicalement à leur place. La carrosserie est ensuite reliée à un châssis de char capable de traverser la plupart des types de terrain, ce qui les rend très polyvalents.
+Les Bullsoldiers qui ont été incapables au combat ont leurs parties corporelles endommagées amputées, et les augmentations cybernétiques sont implantées chirurgicalement à leur place. La caisse est ensuite reliée à un châssis-citerne capable de traverser la plupart des formes de terrain, ce qui les rend très polyvalents.
 
-Les sergents sont conçus pour supprimer l'infanterie ennemie sur le champ de bataille. Leurs mains ont été remplacées par des canons à impulsions qui tirent des rafales de faisceaux laser.
+Les sergents sont conçus pour supprimer l'infanterie ennemie sur le champ de bataille. Leurs mains ont été remplacées par des canons à impulsions qui explosent des faisceaux laser.
 
-TIPS: 
+CONSEILS:
 
-- Esquivez leurs faisceaux laser en marchant de côté.
-- Plus ils sont proches, plus la menace qu'ils représentent est élevée - gardez vos distances.
-- Utilisez le fusil de précision ou des explosifs pour les éliminer rapidement.
+- Débarrassez-vous de leurs rayons laser.
+- Plus ils sont proches, plus ils menacent, gardez votre distance.
+- Utilisez le Sniper Rifle ou des explosifs pour les sortir rapidement.

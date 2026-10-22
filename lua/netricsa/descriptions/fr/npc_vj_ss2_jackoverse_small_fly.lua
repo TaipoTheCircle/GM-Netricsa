@@ -1,27 +1,27 @@
-MOUCHERON
+GNAT
 
 
-CLASSE:      Moucheron
-MÉTABOLISME: Insecte
-PERCEPTION:  Petite créature
-TAILLE:      Très petite
-ENDURANCE:   Très faible
-HOSTILITÉ:   Faible
-ARME:        Morsure
-RÉCOMPENSE:  1 FC
-MENACE:      Très faible
+CLASSE:        Gnat
+MÉTABOLISME:   Insectes
+PERCEPTION:   Petite créature
+TAILLE:         Très petite
+STAMINA:      Très faible
+HOSTILITÉ:    Faible
+ARME:       Bite
+RÉCOMPENSE:       1 FC
+MENACE:       Très faible
 
 DESCRIPTION:
 
-Un minuscule moucheron volant que l'on trouve presque partout. Il ne représente pas un danger sérieux pour la plupart des créatures, mais peut s'avérer très agaçant.
+Un petit magnat volant trouvé presque partout. Il ne pose aucun danger grave pour la plupart des créatures, mais peut être très ennuyeux.
 
-Les moucherons volent près de votre tête, se posent sur votre peau et piquent par intermittence, vous obligeant à les chasser constamment. Le pire, c'est qu'un moucheron est rarement seul.
+Les Gnats volent près de votre tête, atterrissent sur votre peau et mordent périodiquement, vous forçant à nager constamment sur eux. Le pire, c'est qu'un méné est rarement seul.
 
-Pour une raison inconnue, les armées de Mental n'ont même pas pris la peine d'éliminer ces insectes. Peut-être ont-ils simplement jugé qu'un ennemi déjà irrité ne serait pas plus mal avec un petit désagrément supplémentaire.
+Pour une raison quelconque, les armées de Mental n'ont même pas pris la peine d'éliminer ces insectes. Peut-être ont-ils simplement décidé que si un ennemi était déjà ennuyé, un peu d'aggravation supplémentaire ne ferait pas de mal.
 
 CONSEILS:
 
-- N'y prêtez pas trop attention.
-- Si un moucheron commence à vous gêner, chassez-le simplement.
-- S'ils sont nombreux, mieux vaut s'en occuper immédiatement avant que la gêne ne devienne un véritable problème.
-- La récompense pour en éliminer un est si dérisoire que Mental ne remarquera probablement même pas votre exploit.
+- N'y prête pas trop attention.
+- Si un gnau commence à vous gêner, nagez.
+- S'il y en a beaucoup, il vaut mieux les traiter immédiatement avant que l'ennui ne devienne un vrai problème.
+- La récompense pour en avoir détruit un est si petite que Mental ne remarquera probablement même pas votre réussite.

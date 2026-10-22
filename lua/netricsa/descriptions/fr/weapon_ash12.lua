@@ -1,15 +1,15 @@
-FUSIL D'ASSAUT AS-12
+RISQUE D'ASSAULT AS-12
 
 
-WEAPON: AS-12
-AMMUNITION: 2,7 mm.
-ROF: ~650 tours/min
+ARME:      AS-12
+AMMUNITION:  2.7 mm.
+CADENCE DE TIR:         ~650 tours/min 
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Fusil d'assaut russe de gros calibre conçu pour les besoins des forces spéciales du Service fédéral de sécurité russe.
+Fusil d'assaut russe de grand calibre conçu pour les besoins des forces spéciales du Service fédéral de sécurité russe.
 
-NOTES: 
+REMARQUES:
 
-- Efficace à moyenne portée ; la précision diminue à longue distance.
-- Pénètre bien les murs et autres matériaux.
+- Efficace à moyenne portée; la précision diminue à longue portée.
+- Pénétre bien les murs et autres matériaux.

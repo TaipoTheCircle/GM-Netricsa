@@ -1,17 +1,17 @@
-COLT 9MM SMG SUBMACHINE GUN
+GUN DE SOUS-MACHINE COLT 9MM
 
 
-WEAPON: Colt 9mm SMG
-AMMUNITION: Cartouches 9x19
-ROF: ~20 tours/min
+ARME:     Colt 9mm SMG
+AMMUNITION: cartouches 9x19
+CADENCE DE TIR:        ~20 tours/min
 
 DESCRIPTION:
 
-Mitraillette américaine Parabellum 9 × 19 mm. Basé sur le fusil automatique M16, mais utilise un mécanisme à verrou flottant, contrairement au prototype M16, qui utilisait un système à gaz direct.
+Mitrailleuse parabellum américaine 9×19 mm. Basé sur le fusil automatique M16, mais utilise une action de boulon flottante, contrairement au prototype M16, qui utilise un système à gaz direct.
 
-NOTES:
+REMARQUES:
 
-- Cette modification n'a qu'un seul mode de tir.
+- Cette modification n'a qu'un seul mode de feu.
 
 
 

@@ -1,24 +1,24 @@
-PROTECTION LUMIÈRE STROGG DE STROGGOS
+STROGG LIGHT GUARD DE STROGG
 
 
-CLASS: Garde légère Strogg
-METABOLISM: Humain cybernétique / augmenté par Strogg
-PERCEPTION: Variante de la Garde Strogg
-SIZE: ~ 5,8 pieds de hauteur
-ENDURANCE: Faible
-HOSTILITY: Haut
-WEAPONS: Blaster (canon à bras droit), tir en rafale à 5 coups
-REWARD: 150 FC
-THREAT: Faible-Moyen
+CLASSE:      Strog Light Guard
+MÉTABOLISME: Cybernétique / Strogg-augmenté humain
+PERCEPTION: Variante de la Garde de Strogg
+TAILLE:       ~5,8 pieds de haut
+ENDURANCE:  Faible
+HOSTILITÉ:  Haut
+ARMES:    Blaster (cannon bras droit), tir d'éclatement à 5 tours
+RÉCOMPENSE:     150 FC
+MENACE:     Faible-moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les gardes légers sont les Strogg les plus basiques et les plus courants. Ce sont des humains nus et stroggifiés avec des jambes mécaniques et un blaster dans le bras droit. Leurs pièces mécaniques bleu-gris les distinguent visuellement des autres types de gardes.
+Light Guards sont les plus basiques et communs Strogg. Ils sont nus, stroggifiés humains avec des jambes mécaniques et un blaster dans leur bras droit. Leurs pièces mécaniques bleu-gris les distinguent visuellement des autres types de protection.
 
-Bien que faibles et légèrement blindés, ils apparaissent en grand nombre et peuvent néanmoins être dangereux s'ils sont sous-estimés. Leurs rafales de blaster à 5 cartouches infligent des dégâts modestes, mais dans des couloirs étroits ou lorsque plusieurs gardes attaquent ensemble, ils peuvent être submergés.
+Bien que faibles et légèrement blindés, ils apparaissent en grand nombre et peuvent encore être dangereux si sous-estimés. Leurs éclats de blaster à 5 tours sont modestes en dommages, mais dans des couloirs serrés ou lorsque plusieurs gardes attaquent ensemble, ils peuvent submerger.
 
-TIPS: 
+CONSEILS:
 
-- Utilisez n'importe quelle arme - elles sont fragiles.
-- Les explosifs et les armes à effet de zone peuvent éliminer efficacement les groupes.
-- Donnez-leur la priorité au début des combats afin qu'ils ne vous distraient pas lorsque vous affrontez un Strogg plus fort.
+- Utilisez n'importe quelle arme - ils sont fragiles.
+- Les explosifs et les armes à effet de surface peuvent éliminer efficacement les groupes.
+- Priorisez-les tôt dans les combats pour qu'ils ne vous distraire pas tout en traitant avec Strogg plus fort.

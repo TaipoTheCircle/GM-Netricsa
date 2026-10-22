@@ -1,16 +1,16 @@
-BLACK MESA, CONVOYEURS DE CONCASSAGE
+MESA BLACK, CONVEYEURS CRUSHING
 
 
-La salle s'étend à l'infini, dominée par de larges tapis roulants se déplaçant dans des directions différentes comme les artères d'une bête mécanique. La cargaison - ou ce qu'il en reste - roule sur les courroies vers d'énormes presses hydrauliques, qui claquent à intervalles rythmés. Si vous manquez une étape, vous subirez le même sort que les débris déjà répandus sur les ceintures.
+Le hall s'étend sans fin, dominé par de larges bandes transporteuses se déplaçant dans différentes directions comme les artères de certaines bêtes mécaniques. Le fret - ou ce qui en reste - monte les ceintures vers d'énormes presses hydrauliques, qui tombent à intervalles rythmiques. Miss un pas, et vous partagerez le même sort que les débris déjà balayés à travers les ceintures.
 
-Environmental data: 
+Environmental data:
 
-Les convoyeurs parallèles fonctionnent à des vitesses différentes, obligeant à des sauts constants de l'un à l'autre.
+Les convoyeurs parallèles fonctionnent à différentes vitesses, forçant des sauts constants les uns aux autres.
 
-Les concasseurs sont chronométrés mais imprévisibles : les capteurs suggèrent que certaines presses sont mal alignées et frappent plus vite ou plus fort que prévu.
+Les broussailles sont chronométrées mais imprévisibles - les capteurs suggèrent que certaines presses sont mal alignées, frappant plus rapidement ou plus durement que prévu.
 
-Les passerelles de maintenance au-dessus du système assurent une sécurité temporaire, mais elles sont étroites et instables.
+Les passerelles d'entretien au-dessus du système offrent une sécurité temporaire, mais elles sont étroites et instables.
 
-Current threat: des créatures de Xen rôdent dans les ceintures, s'adaptant de manière déconcertante aux plates-formes mobiles. Les crabes s'accrochent aux machines, les Bullsquids tirent à travers les lignes de convoyeurs et, dans l'ombre, de plus gros prédateurs rôdent silencieusement, attendant un faux pas.
+Current threat: les créatures de Xen rôdent les ceintures, s'adaptant mal aux plates-formes mobiles. Les cabillauds s'accrochent à la machinerie, Bullsquids tire de l'autre côté des lignes de convoyeur, et dans l'ombre, les grands prédateurs s'accrochent silencieusement, attendant un faux pas.
 
-Recommendation: traitez les machines autant comme des ennemies que les créatures. Movement must be precise, timing perfect. Dans ce secteur, survivre signifie s'inscrire dans le rythme de la machine, ou se laisser écraser par elle.
+Recommendation: traiter la machine autant un ennemi que les créatures. Le mouvement doit être précis, le timing parfait. Dans ce secteur, la survie signifie faire partie du rythme de la machine - ou être écrasé par elle.

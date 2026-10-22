@@ -1,26 +1,26 @@
-ZOMBIE À GROSSE TÊTE, ALEN LADAVAC
+ZOMBIE GRANDE, ALEN LADAVAC
 
 
-CLASS: Zombie à grosse tête, Alen Ladavac
-METABOLISM: Humanoïde, mâle (code 70%)
+CLASSE:      Zombie Big Head, Alen Ladavac
+MÉTABOLISME: Humanoïde, Homme (code 70 %)
 PERCEPTION: Fanatique enthousiaste
-SIZE: 5,9 pieds
-ENDURANCE: Faible
-HOSTILITY: Neutre
-WEAPONS: Aucun (sauf en difficulté I Am Ugh-Zan)
-REWARD: 100 FC
-THREAT: Ennui
+TAILLE:       5,9 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Neutre
+ARMES:    Aucune (sauf sur I Am Ugh-Zan difficulté)
+RÉCOMPENSE:     100 FC
+MENACE:     Annoyance
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les Big-Heads sont de minces humanoïdes aux crânes exagérés contenant le cerveau des développeurs de Croteam. Ils portent l'uniforme de Serious Sam, mais ont les traits du visage uniques de l'équipe de développement. Ils affichent un enthousiasme obsessionnel et vous poursuivent aux cris de « Bonjour ! » et "Hé, attends!" Ils sont totalement inoffensifs, mais en difficulté "Je suis Ugh-Zan", ils gagnent des modificateurs de feu et de glace. Ils apparaissent spontanément dans les zones secrètes, bloquant les passages par leur grand nombre.
+Les grandes têtes sont de minces humanoïdes avec des crânes exagérés contenant les cerveaux des développeurs de Croteam. Ils portent l'uniforme de Serious Sam, mais ont les caractéristiques faciales uniques de l'équipe de développement. Ils montrent un enthousiasme obsessionnel, vous poursuivant avec des cris de "Bonjour!" et "Hé, attendez!" Ils sont complètement inoffensifs, mais sur la difficulté "Je suis Ugh-Zan" ils gagnent le feu et les modificateurs de glace. Ils apparaissent spontanément dans des zones secrètes, bloquant les passages avec leur nombre.
 
-Alen Ladavac is the living foundation and one of the creators of everything you see on screen. He is the co-founder of Croteam and a technical guru who served as the studio's heart and soul for 25 years. He created the engine and technologies for the entire Serious Sam series, as well as the philosophical puzzler The Talos Principle. He led, coded, designed, and even consulted with programmers, becoming a true "Swiss Army knife" of game development. His oversized skull is fully justified in the game: il contenait les connaissances en matière de rendu, de son, de graphisme et de physique qui ont donné au monde l'impressionnant Sam. Après des décennies de travail, il a quitté le projet pour rejoindre Google Stadia et tenter de transposer ses idées grandioses dans le cloud, laissant derrière lui un héritage difficile à rivaliser.
+Alen Ladavac est la fondation vivante et l'un des créateurs de tout ce que vous voyez à l'écran. Il est le co-fondateur de Croteam et un gourou technique qui a été le cœur et l'âme du studio pendant 25 ans. Il a créé le moteur et les technologies de toute la série Serious Sam, ainsi que le puzzleur philosophique The Talos Principe. Il a dirigé, codé, conçu et même consulté des programmeurs, devenant un véritable « couteau de l'armée suisse » de développement de jeu. Son crâne surdimensionné est pleinement justifié dans le jeu: il contenait la connaissance du rendu, du son, des graphiques et de la physique qui a donné au monde le Sam génial. Après des décennies de travail, il a quitté le projet pour rejoindre Google Stadia et tenter d'apporter ses idées grandioses au nuage, laissant derrière lui un héritage difficile à rivaliser.
 
-Il était autrefois vivant, mais après que vous l'ayez tué dans le temple d'Hatchepsout, il est ressuscité des morts, devenant un zombie démoniaque.
+Il était une fois vivant, mais après que vous l'ayez tué dans le Temple de Hatshepsut, il est ressuscité d'entre les morts - devenant un zombie démoniaque.
 
-TIPS: 
+CONSEILS:
 
 - Utilisez un couteau de combat ou un pistolet pour dégager un chemin.
-- En difficulté "I Am Ugh-Zan", détruisez-les à distance grâce à leurs modificateurs.
-- En groupe, une masse à frappe horizontale est efficace.
+- Sur la difficulté "Je suis Ugh-Zan", les détruire à distance en raison de leurs modificateurs.
+- Dans une grappe de groupe, un luge avec une frappe horizontale est efficace.

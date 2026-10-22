@@ -1,23 +1,23 @@
-SCARABÉE DE LA PLANÈTE TERRAFORMÉE
+SCARAB DU PLANET TERRAFORMÉ
 
 
-CLASS: Scarabée
-METABOLISM: Insecte
-PERCEPTION: Coléoptère blindé
-SIZE: ~15 pieds (en perspective)
-ENDURANCE: Haut
-HOSTILITY: Extrêmement élevé
-WEAPONS: Pointe de tête, bélier, mandibules, masse corporelle
-REWARD: 600 FC
-THREAT: Haut
+CLASSE:      Écarabée
+MÉTABOLISME: Insectes
+PERCEPTION: Dendroctone armé
+TAILLE:       ~15 pi (en perspective)
+ENDURANCE:  Haut
+HOSTILITÉ:  Extrêmement élevé
+ARMES:    Cuivre, bélier, mandibules, masse corporelle
+RÉCOMPENSE:     600 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-C'est ce que devient un soldat Bug lorsqu'on lui donne des stéroïdes et qu'on lui ordonne d'abandonner toute tactique. Six pattes massives, une carapace blindée de la même couleur bleue et jaune, et la principale caractéristique distinctive est l'énorme pointe sur la tête, avec laquelle cette créature utilise pour écraser tout ce qui n'a pas réussi à se recroqueviller.
+C'est ce qu'un soldat Bug se transforme en stéroïdes nourris et a ordonné d'abandonner toute tactique. Six jambes massives, une carapace blindée de la même couleur bleue et jaune, et la principale caractéristique est l'énorme pic sur sa tête, que cette créature utilise pour écraser tout ce qui n'a pas réussi à se friser.
 
-Au combat, le Scarabée est stupide mais affirmé. Il ne crachera pas d'acide et ne simulera pas la mort. Son rôle consiste à accélérer et à percuter sa cible à toute vitesse. Un tir frontal depuis un navire pénétrera même le blindage le plus solide.
+Au combat, le Scarab est stupide mais affirmé. Il ne crachera pas d'acide ou de feindre la mort. Son travail est d'accélérer et d'écraser sa cible à pleine vitesse. Un tir direct d'un navire pénétrera même l'armure la plus forte.
 
-TIPS: 
+CONSEILS:
 
-- Ne faites pas la queue. Le Scarabée accélère rapidement, mais une fois accéléré, il est difficile de l'esquiver.
+- Ne restez pas en ligne. Le Scarab s'accélère rapidement, mais une fois qu'il est accéléré, il est difficile d'éviter.
 - Visez les griffes. Sa vitesse et sa maniabilité sont réduites.

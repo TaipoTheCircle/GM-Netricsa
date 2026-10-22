@@ -1,22 +1,22 @@
-CAMÉRA COMBINÉE SUSPENDUE
+CAMERA DE COMBINE CHARGANT
 
 
-CLASS: Caméra combinée suspendue
-METABOLISM: Combinez le matériel optique
-PERCEPTION: Dispositif de surveillance/alerte
-SIZE: ~1,5-2 pieds
-ENDURANCE: Faible-Moyen
-HOSTILITY: Faible
-WEAPONS: Aucun direct ; agit comme déclencheur pour d'autres unités
-REWARD: 30 FC
-THREAT: Faible
+CLASSE:      Suspension Combiner la caméra
+MÉTABOLISME: Combiner le matériel optique
+PERCEPTION: Surveillance / dispositif d'alerte
+TAILLE:       ~1,5-2 ft
+ENDURANCE:  Faible-moyenne
+HOSTILITÉ:  Faible
+ARMES:    Aucun direct; agit comme déclencheur pour les autres unités
+RÉCOMPENSE:     30 FC
+MENACE:     Faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-La caméra combinée suspendue est une variante suspendue aux plafonds ou aux surplombs, lui offrant une large couverture visuelle. Parce qu'il est suspendu, il peut se rétracter ou se balancer légèrement, ce qui rend plus difficile d'éviter son regard. Il surveille souvent les grands couloirs, les points de contrôle ou les zones de grande valeur. Il est utilisé par Combine pour surveiller les mouvements, attraper les passeurs et protéger les zones réglementées.
+La caméra à suspension combinée est une variante qui s'accroche aux plafonds ou aux surplombs, lui donnant une large couverture visuelle. Parce qu'il est suspendu, il peut se rétracter ou balancer légèrement, ce qui rend plus difficile d'éviter son regard. Il surveille souvent de grands couloirs, des points de contrôle ou des zones de grande valeur. Il est utilisé par Combine pour surveiller les mouvements, attraper les passeurs, et protéger les zones réglementées.
 
-TIPS: 
+CONSEILS:
 
-- Vérifiez les plafonds et les surplombs - ils peuvent être moins évidents.
-- Utilisez des objets lancés ou des armes à longue portée pour les briser.
-- Évitez de vous tenir dans de grands espaces ouverts en dessous.
+- Vérifiez les plafonds et les surplombs pour ceux-ci - ils peuvent être moins évidents.
+- Utilisez des objets jetés ou des armes à longue portée pour les briser.
+- Évitez de vous tenir dans de grands espaces sous eux.

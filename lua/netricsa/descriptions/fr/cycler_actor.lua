@@ -1,30 +1,30 @@
-ACTEUR CYCLISTE DE ???
+ACTEUR CYCLER DE ???
 
 
-CLASS: Acteur cycliste
-METABOLISM: mimique xénobiologique de faible activité
+CLASSE:      Acteur cyclique
+MÉTABOLISME: mimique xénobiologique de faible activité
 PERCEPTION: boucle sensorielle minimale
-SIZE: variable (verrouillée à la forme choisie)
-ENDURANCE: très faible
-HOSTILITY: aucun (sauf contrôle externe)
-WEAPONS: aucun par défaut
-REWARD: ? FC
-THREAT: faible
+TAILLE:       variable (verrouillée sur la forme choisie)
+ENDURANCE:  très faible
+HOSTILITÉ:  aucun (sauf contrôle externe)
+ARMES:    aucune par défaut
+RÉCOMPENSE:     ? FC
+MENACE:     faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les acteurs cycleurs sont une sous-espèce réduite et liée à la stase d'acteurs génériques, considérés comme les premiers « imitateurs ratés » expérimentaux qui n'ont jamais atteint une réplication comportementale complète.
+Les acteurs cycliques sont une sous-espèce réduite, liée à la stase, d'acteurs génériques, que l'on croit être des "imites échouées" expérimentales précoces qui n'ont jamais obtenu une réplication complète du comportement.
 
-Là où les acteurs génériques classiques peuvent agir, penser et utiliser des capacités en fonction de la forme qu'ils copient, les acteurs cycleurs sont enfermés dans des boucles d'animation limitées, imitant uniquement des schémas de mouvement, des comportements inactifs ou des gestes scriptés.
+Lorsque les Acteurs génériques classiques peuvent agir, penser et utiliser des capacités basées sur la forme qu'ils copient, les Acteurs cycliques sont verrouillés dans des boucles d'animation limitées, imitant uniquement des motifs de mouvement, des comportements oisifs ou des gestes scriptés.
 
-Certains xénobiologistes pensent que les Acteurs Cyclers sont des proto-imitateurs, des créatures qui scannent une forme biologique une seule fois et se retrouvent ensuite coincées dans un « mode d'affichage » perpétuel, incapables d'évoluer ou de s'adapter. D'autres proposent qu'il s'agisse de mannequins biologiques créés intentionnellement et conçus pour l'entraînement, le conditionnement psychologique ou les répétitions d'infiltration.
+Certains xénobiologistes croient que les Acteurs de Cyclisme sont des proto-mimiques, des créatures qui n'ont scanné une forme biologique qu'une seule fois, puis sont devenues coincées dans un « mode d'affichage » perpétuel, incapables d'évoluer ou de s'adapter. D'autres proposent qu'ils aient été intentionnellement créés des mannequins biologiques conçus pour la formation, le conditionnement psychologique ou les répétitions d'infiltration.
 
-Les acteurs cyclistes ne peuvent pas se battre, ne peuvent pas fuir et ne peuvent pas improviser. Ils répètent simplement le cycle comportemental dans lequel leur tissu nerveux a été « gelé ».
+Les acteurs cyclistes ne peuvent pas se battre, fuir et improviser. Ils répètent simplement quel que soit le cycle comportemental dans lequel leurs tissus nerveux ont été "gelés".
 
-Cependant, comme ils partagent la même biologie morphique que les acteurs génériques, leur ressemblance avec les humains, les extraterrestres ou d'autres entités peut être d'une perfection troublante... jusqu'à ce qu'ils bougent.
+Cependant, parce qu'ils partagent la même biologie morphique que les Acteurs génériques, leur ressemblance avec les humains, les extraterrestres ou d'autres entités peut être anormalement parfaite... jusqu'à ce qu'ils bougent.
 
-TIPS: 
+CONSEILS:
 
-- Ne pas paniquer. Les acteurs Cycler sont inoffensifs à moins d’être contrôlés de l’extérieur.
-- Recherchez les boucles de mouvements répétées – contrairement aux acteurs génériques, ils ne peuvent pas s'adapter.
-- Les détruire est facile, mais souvent inutile : ils ne représentent aucune menace naturelle.
+- Ne panique pas. Les acteurs cycliques sont inoffensifs à moins d'être contrôlés par l'extérieur.
+- Recherchez des boucles de mouvement répétées - contrairement aux Acteurs génériques, ils ne peuvent pas s'adapter.
+- Les détruire est facile, mais souvent inutile - ils ne posent aucune menace naturelle.

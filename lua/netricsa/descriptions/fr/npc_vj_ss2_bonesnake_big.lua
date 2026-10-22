@@ -1,28 +1,28 @@
-SERPENT EN OS, GRAND DU KLEER
+SNAKE DE L'UNIQUE, LARGE DU KLEER
 
 
-CLASSE : Serpent d'os, grand
-MÉTABOLISME : Mort-vivant
-PERCEPTION : Créature Magique
-TAILLE : 88,5 pieds
-ENDURANCE : Élevée
-HOSTILITÉ : Extrême
-ARMES : Boules de feu
-RÉCOMPENSE : 500 FC
-MENACE : Élevée
+CLASSE:      Serpent à os, gros
+MÉTABOLISME: Morts
+PERCEPTION: Créature magique
+TAILLE:       88,5 pi
+ENDURANCE:  Haut
+HOSTILITÉ:  Extrême
+ARMES:    Boules de feu
+RÉCOMPENSE:     500 FC
+MENACE:     Haut
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Les serpents osseux habitent les grottes de la planète Kleer. Ce sont des créations monstrueuses du comte Kleerofski lui-même. Ils sont imprégnés d'une plus grande énergie magique que la plupart des squelettes et sont donc capables de cracher des boules de feu.
+Les serpents osseux habitent les grottes de la planète Kleer - ce sont les créations monstrueuses du comte Kleerofski lui-même. Ils sont imprégnés d'une énergie magique plus grande que la plupart des squelettes, et donc capables de bruler des boules de feu.
 
-Comme un mauvais poisson, le serpent est plein de petits os qui peuvent facilement vous blesser si vous osez vous en approcher, ou s'il ne rampe pas jusqu'à vous.
+Comme un mauvais poisson, le serpent est plein de petits os qui peuvent facilement vous endommager si vous osez l'approcher, ou s'il ne rampe pas vers vous.
 
-Même s’ils semblent immobiles, ils peuvent réellement bouger, bien que rarement. Pouvez-vous leur en vouloir ? Imaginez devoir sauter à chaque pas !
+Bien qu'ils puissent sembler immobiles, ils peuvent en fait bouger, bien que rarement. Tu peux leur en vouloir ? Imaginez avoir à sauter à chaque pas!
 
-Leur longue langue saillante nous taquinera, et nous devrons l'utiliser pour détruire ces artefacts archéologiques.
+Leur longue et proéminente langue nous taquinera, que nous devons utiliser pour détruire ces artefacts archéologiques.
 
-CONSEILS :
+CONSEILS:
 
-- Leurs projectiles lents sont faciles à éviter en esquivant sur le côté.
-- Ils devraient être des cibles peu prioritaires parmi les autres ennemis.
-- Détruisez-les avec des explosifs ou toute arme lourde.
+- Leurs projectiles lents sont faciles à éviter en s'échappant du côté.
+- Ils devraient être des cibles de faible priorité parmi les autres ennemis.
+- Détruisez-les avec des explosifs ou une arme lourde.

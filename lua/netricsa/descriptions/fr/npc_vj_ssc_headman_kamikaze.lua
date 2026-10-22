@@ -1,22 +1,22 @@
-KAMIKAZE DÉCAPÉ
+KAMIKAZE REPOSÉ
 
 
-CLASS: Kamikaze décapité
-METABOLISM: cyber-zombie
+CLASSE:      Kamikaze décapité
+MÉTABOLISME: cyber-zombie
 PERCEPTION: insensible, contrôlé par LCU
-SIZE: 6 pieds
-ENDURANCE: très faible
-HOSTILITY: extrême
-WEAPONS: grenades à main
-REWARD: 2500FC
-THREAT: haut
+TAILLE:       6 pieds
+ENDURANCE:  très faible
+HOSTILITÉ:  extrême
+ARMES:    grenades à main
+RÉCOMPENSE:     2500 FC
+MENACE:     élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un soldat sirien exécuté, ressuscité des morts par Mental et télécommandé par Life Control Unit (LCU).
+Un soldat sirien exécuté, ressuscité d'entre les morts par Mental et télécommandé par l'Unité de contrôle de la vie.
 
-Le chef des Kamikaze est ruiné, il est donc employé pour des attentats suicidaires. Transporte deux bombes dans ses mains et les active lorsqu'elles sont suffisamment proches de la cible.
+Le chef du Kamikaze a été ruiné, donc il est employé pour des attaques suicidaires. Il porte deux bombes dans ses mains et les active quand elle est assez proche de la cible.
 
-TIPS: 
+CONSEILS:
 
-- Explose lorsqu'il est tué.
+- Explose quand tues.

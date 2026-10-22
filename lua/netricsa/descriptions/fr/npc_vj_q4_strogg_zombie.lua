@@ -1,25 +1,25 @@
-STROGG SLIMY TRANSFERT ZOMBIE DE STROGGOS
+STROGG SLIMY TRANSFER ZOMBIE DE STROGGOS
 
 
-CLASS: Zombie corrompu Strogg
-METABOLISM: Humain partiellement stroggifié (hybride de chair et de mutation)
-PERCEPTION: Zombie ambulant
-SIZE: ~5,5 pieds
-ENDURANCE: Moyen-Faible
-HOSTILITY: Haut
-WEAPONS: Vomissement acide visqueux, attaques de mêlée
-REWARD: 200FC
-THREAT: Moyen
+CLASSE:      Zombie corrompue de Strogg
+MÉTABOLISME: Humain partiellement stroggifié (hybride de chair et mutation)
+PERCEPTION: Zombie à pied
+TAILLE:       ~5,5 pi
+ENDURANCE:  Faible
+HOSTILITÉ:  Haut
+ARMES:    Puce acide slimy, attaques de Melee
+RÉCOMPENSE:     200 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les transferts visqueux sont le résultat de tentatives de stroggification bâclées.
+Slimy Transfers sont le résultat de tentatives de stroggification en panne.
 
-Slimy Transfers are covered in thick slime, behave similarly to classic zombies: ils gémissent, vomissent de l'acide à distance et mangent de la chair. L'acide provoque des dommages persistants, particulièrement dangereux dans les espaces restreints.
+Slimy Transfers sont recouverts de slime épais, se comportent de la même manière que les zombies classiques: ils gémissent, urgent l'acide sur la distance, et mangent la chair. L'acide continue de causer des dommages, particulièrement dangereux dans les espaces restreints.
 
-Les zombies se trouvent principalement dans l'installation de traitement des déchets.
+On trouve surtout des zombies dans l'installation de traitement des déchets.
 
-TIPS: 
+CONSEILS:
 
-- Visez la tête ou la poitrine - les tirs à la tête infligent des dégâts supplémentaires.
-- Gardez vos distances avec Slimy Transfers pour éviter les vomissements acides.
+- Visez la tête ou la poitrine - les têtes causent des dommages supplémentaires.
+- Gardez la distance de Slimy Transfers pour éviter le vomi acide.

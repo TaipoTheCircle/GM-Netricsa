@@ -1,19 +1,19 @@
 MP28 SUBMACHINE GUN
 
 
-ARME : MP28 Submachine Gun
-MUNITIONS : 9x19mm Parabellum
-ROF : ~550-600 rounds / min
+ARME: Pistolet sous-machine MP28
+MUNITIONS:   Parabellum 9x19mm
+CADENCE DE TIR:    ~550-600 tours/min
 
-DESCRIPTIF :
+DESCRIPTION:
 
-A German submachine gun developed by Hugo Schmeisser in 1928 as a further development of the MP18. The weapon featured a fire selector, allowing for selection between single-shot and automatic fire, as well as a more convenient in-line magazine.
+Une mitrailleuse allemande développée par Hugo Schmeisser en 1928 comme un développement ultérieur du MP18. L'arme était munie d'un sélecteur de tir, permettant une sélection entre un seul tir et un feu automatique, ainsi qu'un magazine en ligne plus pratique.
 
-The MP28 used a blowback action and a magazine capacity of 20 or 32 rounds. Due to its simple design and a large number of export variants, it was widely used in various countries and saw action in numerous conflicts of its time.
+Le MP28 a utilisé une action de rappel et une capacité de 20 ou 32 tours de magazines. En raison de sa conception simple et d'un grand nombre de variantes d'exportation, il a été largement utilisé dans différents pays et a vu des actions dans de nombreux conflits de son temps.
 
-REMARQUES :
+REMARQUES:
 
-- A direct descendant of the MP18, but with more convenient fire control.
-- Variants chambered for several different cartridges were produced.
-- The design was so successful that it spawned several foreign copies.
-- It looks solid, shoots well, and weighs almost as much as a small kettlebell.
+- Un descendant direct du MP18, mais avec une commande d'incendie plus pratique.
+- Des variantes en chambre pour plusieurs cartouches différentes ont été produites.
+- Le dessin a été si réussi qu'il a engendré plusieurs copies étrangères.
+- Il a l'air solide, tire bien, et pèse presque autant qu'une petite cloche de bouilloire.

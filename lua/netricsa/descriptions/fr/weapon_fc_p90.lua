@@ -1,20 +1,20 @@
-FUSIL D'ASSAUT FN P90 
+FN P90 RISQUE D'ASSAULT
 
 
-ARME : FN P90 PDW (Arme de Défense Personnelle)
-MUNITIONS : cartouches FN de 5,7 x 28 mm
-ROF : ~900 coups par minute
-POIDS : 2,5 kg (déchargé)
-LONGUEUR : 500 mm
+ARME: FN P90 PDW (arme de défense personnelle)
+MUNITIONS:   Tours FN de 5,7x28 mm
+CADENCE DE TIR:    ~900 tours par minute
+POIDS: 2,5 kg (déchargement)
+LENGTH: 500 mm
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Le FN P90 est une arme de défense personnelle compacte développée par FN Herstal en Belgique à la fin des années 1980. Conçu pour les équipages de véhicules et les troupes de soutien, il offre une capacité de chargeur élevée et un faible recul dans un format compact.
-Il tire des obus perforants uniques de 5,7 x 28 mm, efficaces contre les gilets pare-balles modernes tout en conservant une excellente contrôlabilité. Le chargeur de 50 cartouches monté sur le dessus et la disposition bullpup le rendent court, léger et idéal pour le combat rapproché.
+Le FN P90 est une arme de défense compacte développée par FN Herstal en Belgique à la fin des années 1980. Conçu pour les équipages de véhicules et les troupes de soutien, il offre une grande capacité de magazines et un faible recul dans un facteur de forme compacte.
+Il tire unique 5,7x28 mm armure-piercing rounds, efficace contre l'armure du corps moderne tout en conservant une excellente maîtrise. Le magasin haut de gamme 50 tours et la disposition bullpup le rendent court, léger et idéal pour le combat de quartier rapproché.
 
-REMARQUES :
+REMARQUES:
 
-- Haute précision et recul minimal pour les engagements proches et moyens.
-- Capable de pénétrer les gilets pare-balles de niveau II et IIIA.
+- Haute précision et recul minimal pour des engagements proches de la moyenne.
+- Capable de pénétrer les armures de niveau II et IIIA.
 - Largement utilisé par les forces spéciales du monde entier.
 - Design ambidextre et excellente ergonomie.

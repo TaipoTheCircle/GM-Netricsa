@@ -1,20 +1,20 @@
-CYCLISTE DU ???
+CYCLER DU ???
 
 
-CLASS: Cycleur
-METABOLISM: Mimique xénobiologique de faible activité
+CLASSE:      Cyclisme
+MÉTABOLISME: Simime xénobiologique à faible activité
 PERCEPTION: Cycle sensoriel minimal
-SIZE: Variable (liée au formulaire sélectionné)
-ENDURANCE: Très faible
-HOSTILITY: Aucun
-WEAPONS: Aucun par défaut
-REWARD: ?
-THREAT: Faible
+TAILLE:       Variable (liée au formulaire sélectionné)
+ENDURANCE:  Très faible
+HOSTILITÉ:  Aucune
+ARMES:    Aucune par défaut
+RÉCOMPENSE:     ?
+MENACE:     Faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-An anomaly related to Generic Monsters and Generic-Actors an entity without a stable form of its own. The Cycler's existence consists of an endless simulation of other beings and objects: des hologrammes et objets inanimés aux individus clés (le conseiller de l'Alliance, Noriko, etc.). Son objectif n'est pas l'attaque directe, mais l'infiltration, l'observation et la désorientation. Lorsqu'il est endommagé ou exposé, sa forme "boucle" - il parcourt de manière aléatoire ses modèles de pose stockés, incapable de se stabiliser jusqu'à ce qu'il subisse un autre coup ou s'échappe.
+Une anomalie liée à Generic Monsters et Generic-Actors une entité sans forme stable propre. L'existence du Cycliste consiste en une simulation sans fin d'autres êtres et objets : des hologrammes et des objets inanimés aux individus clés (le conseiller de l'Alliance, Noriko, etc.). Son but n'est pas une attaque directe, mais une infiltration, une observation et une désorientation. Lorsqu'elle est endommagée ou exposée, sa forme « boucle » - elle passe au hasard à travers ses modèles de pose stockés, incapable de se stabiliser jusqu'à ce qu'elle prenne un autre coup ou s'échappe.
 
-TIPS: 
+CONSEILS:
 
-- Vérifiez les objets suspects avec une frappe légère ou un scan. Le Cycler se révélera par un dysfonctionnement.
+- Vérifier les objets suspects avec une frappe de lumière ou un balayage. Le Cycliste se révélera par défaut.

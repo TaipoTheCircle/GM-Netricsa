@@ -1,23 +1,23 @@
-MOOBLOOM COW FROM THE MINECRAFT OVERWORLD
+COUPE DE MOOBLOOM DE L'EXERCICE MINECRAFT
 
 
-CLASS: Vache Moobloom
-METABOLISM: Mammifère à sang chaud
+CLASSE:      Vache à l'ombre
+MÉTABOLISME: Mammifère à sang chaud
 PERCEPTION: Animal passif / Vache rare
-SIZE: 5,2 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Faible
-WEAPONS: Aucun
-REWARD:     75 FC
-THREAT: Faible
+TAILLE:       5,2 pi
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Faible
+ARMES:    Aucune
+RÉCOMPENSE:     75 FC
+MENACE:     Faible
 
 DESCRIPTION:
 
-La vache Moobloom est une variété rare de vache couverte de Mooblooms jaune vif au lieu de sa fourrure normale.
+La vache Moobloom est une rare variété de vaches recouvertes de jaune vif au lieu de sa fourrure normale.
 
-Il ressemble à une vache Mooshroom, mais au lieu de champignons, sa peau produit des fleurs jaunes et lorsqu'elle bouge, elle peut laisser une traînée de fleurs sur les blocs autour d'elle. Chaque plante qu'elle plante a une chance d'être un pissenlit, un tournesol ou une autre fleur jaune.
+Il ressemble à une Vache de Mooshroom, mais au lieu de champignons, sa peau pousse des fleurs jaunes, et quand elle bouge, elle peut laisser un sentier de fleurs sur des blocs autour. Chaque plante a une chance d'être un pissenlit, un tournesol ou une autre fleur jaune.
 
-TIPS:
+CONSEILS:
 
-- Vous pouvez le couper avec des ciseaux pour obtenir un seul Moobloom.
+- Vous pouvez le tailler avec des ciseaux pour obtenir un seul Moobloom.
 - La viande est nutritive.

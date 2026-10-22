@@ -1,23 +1,23 @@
-CERVEAU DE CHAUVE-SOURIS DU MOBIUS
+MÉTHODE DE MÉTHODE DU MOBIUS
 
 
-CLASS: Cerveau de chauve-souris
-METABOLISM: Nickel-cadmium
-PERCEPTION: Drone d'embuscade
-SIZE: 4 pieds
-ENDURANCE: Faible
-HOSTILITY: Moyen
-WEAPONS: Coque, bélier
-REWARD: 300FC
-THREAT: Faible
+CLASSE:      Cervelle de chauve-souris
+MÉTABOLISME: Nickel-cadmium
+PERCEPTION: Drone ambuscade
+TAILLE:       4 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Moyenne
+ARMES:    Housse, bélier
+RÉCOMPENSE:     300 FC
+MENACE:     Faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-When Doctor Eggman realized that maintaining caves and underground levels was more expensive than above-ground levels, a tender was announced for the creation of the most cost-effective security system. The winning design was based on old archives: des plans de chauve-souris, un moteur d'avion jouet et un processeur provenant d'une calculatrice Elektronika MK-52.
+Lorsque le docteur Eggman s'est rendu compte que le maintien des grottes et des niveaux souterrains était plus coûteux que les niveaux hors sol, un appel d'offres a été lancé pour la création du système de sécurité le plus rentable. Le design gagnant était basé sur de vieilles archives : des plans de chauve-souris, un moteur d'avion jouet et un processeur d'une calculatrice Elektronika MK-52.
 
-Batbrain est le seul robot de l'empire d'Eggman qui ne poursuit pas ses cibles, mais attend simplement qu'elles viennent à lui. En mode veille, il est suspendu à l'envers et se fond dans le plafond. Lorsqu’un objet vivant apparaît, il s’envole en émettant un bruit de cliquetis semblable à celui d’une sonnette cassée. Il attaque directement d’en haut, en visant le sommet de la tête. S'il le rate, il bat des ailes, impuissant, pendant un moment, essayant de prendre de l'altitude, puis s'accroche au premier rebord qu'il rencontre, comme si de rien n'était.
+Batbrain est le seul robot de l'empire d'Eggman qui ne chasse pas les cibles, mais qui attend simplement qu'ils viennent à lui. En mode veille, il s'accroche à l'envers et se mélange au plafond. Lorsqu'un objet vivant apparaît, il décolle, émettant un son de cliquetis semblable à une sonnette cassée. Il attaque directement d'en haut, visant le haut de la tête. S'il manque, il bat ses ailes sans défense pendant un moment, essayant de gagner de l'altitude, puis accroché à la première corniche qu'il a rencontrée, faisant semblant que rien n'était arrivé.
 
-TIPS: 
+CONSEILS:
 
-- Dangereux uniquement à proximité de gouffres et de ponts étroits.
-- Après avoir attaqué, il y a une pause d'une seconde et demie. C'est assez de temps pour se coiffer et passer à autre chose.
+- Dangereux seulement à proximité de chasmes et de ponts étroits.
+- Après avoir attaqué, il a une pause d'une seconde et demi. C'est assez de temps pour réparer ses cheveux et avancer.

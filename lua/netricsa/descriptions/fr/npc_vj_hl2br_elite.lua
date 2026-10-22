@@ -1,24 +1,24 @@
-COMBINEZ LE SOLDAT OVERWATCH ELITE BETA
+SURVEILLANCE DE LA COMBINE ELITE BETA SOLDIER
 
 
-CLASS: Combinez le soldat bêta d’Overwatch Elite
-METABOLISM: Humain augmenté, mâle
-PERCEPTION: Combiner les opérations au sol
-SIZE: 5,9 pieds
-ENDURANCE: Haut
-HOSTILITY: Extrême
-WEAPONS: Fusil à impulsion AR2, grenades énergétiques
-REWARD: 900 FC
-THREAT: Très élevé
+CLASSE:      Combiner Overwatch Elite Beta Soldier
+MÉTABOLISME: Augmenté Humain, Homme
+PERCEPTION: Combiner les opérations terrestres
+TAILLE:       5,9 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Extrême
+ARMES:    AR2 Pulse Rifle, Grenades énergétiques
+RÉCOMPENSE:     900 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine Elite Beta Soldier est le soldat Overwatch Combine Elite blanc standard, conçu pour supprimer la résistance et maintenir l’ordre dans n’importe quel environnement. Se distingue par son armure entièrement blanche avec des accents noirs pour le camouflage. Contrairement aux autres soldats d'élite, il a deux yeux rouges intégrés à son casque et trois bouches d'aération dans son respirateur qui filtrent l'air.
+Le Soldat Combine Elite Beta est le soldat standard blanc Overwatch Combine Elite, conçu pour supprimer la résistance et maintenir l'ordre dans n'importe quel environnement. Distingué par leur armure, qui est entièrement blanche avec des accents noirs pour le camouflage. Contrairement aux autres soldats Elite, il a deux yeux rouges intégrés dans son casque et trois évents dans son respirateur qui filtrent l'air.
 
-Ce type de soldat est conçu pour le combat à moyenne et longue portée, combinant un tir précis de fusil à impulsion avec l'utilisation de grenades énergétiques pour supprimer la couverture. Les augmentations améliorent le temps de réaction et l'endurance, permettant au soldat de résister à des tirs intenses et de combattre dans des conditions difficiles.
+Ce type de soldat est conçu pour le combat de moyenne et longue portée, combinant un tir précis de fusil à impulsions avec l'utilisation de grenades énergétiques pour supprimer le couvert. Les augmentations améliorent le temps de réaction et l'endurance, permettant au soldat de résister à un feu intense et de se battre dans des conditions difficiles.
 
-TIPS: 
+CONSEILS:
 
-- Deux yeux rouges le rendent très visible dans l'obscurité, mais lui permettent également de mieux réagir aux mouvements du joueur.
-- Les grenades énergétiques peuvent vous mettre hors de portée et vous incinérer - ne restez pas immobile.
-- Restez à couvert et utilisez des armes à longue portée pour réduire le risque de combat rapproché.
+- Deux yeux rouges le rendent très visible dans l'obscurité, mais lui permettent aussi de mieux réagir au mouvement du joueur.
+- Les grenades d'énergie peuvent vous éteindre et vous incinérer.
+- Restez derrière et utilisez des armes à longue portée pour réduire le risque de combat rapproché.

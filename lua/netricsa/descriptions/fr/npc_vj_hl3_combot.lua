@@ -1,26 +1,26 @@
-COMBINEZ DES COMBOTS
+COMMANDE
 
 
-CLASS: Combiner Combot
-METABOLISM: Plateforme biomécanique entièrement synthétique et autonome
-PERCEPTION: Précurseur du City Scanner, véhicule de reconnaissance mécanique Combine
-SIZE: 1,5 pied
-ENDURANCE: Moyen
-HOSTILITY: Moyen-élevé
-WEAPONS: Gaz toxiques, pointes de feu, fusées éclairantes
-REWARD: 300FC
-THREAT: Moyen
+CLASSE:      Combiner Combot
+MÉTABOLISME: Plateforme biomécanique entièrement synthétique et autonome
+PERCEPTION: Précurseur City Scanner, Combiner véhicule de reconnaissance mécanique
+TAILLE:       1,5 pi
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Moyenne-élevée
+ARMES:    Gaz de poison, pics d'incendie, éruptions de distraction
+RÉCOMPENSE:     300 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine Combot est une première version expérimentale du Combine City Scanner, conçu comme un drone de reconnaissance mécanique et de sentinelle autonome, mais avec des capacités défensives plus agressives.
+Le Combine Combot est une première version expérimentale du Combine City Scanner, conçu comme un drone de reconnaissance mécanique et sentinelle autonome, mais avec des capacités défensives plus agressives.
 
-Les Combots ressemblaient à des drones volants compacts dotés d'une caméra mobile "EYE" et de trois pointes cibles déployables. Ces « dards » mécaniques pourraient se déployer lorsqu'ils sont menacés, formant une arme capable d'émettre des gaz toxiques ou des tirs depuis des buses situées sur les côtés du drone, protégeant le drone lui-même ou créant une barrière pour les autres unités du Combine.
+Combots ressemblait à des drones volants compacts avec une caméra mobile "EYE" et trois pics de cible déployables. Ces "stingers" mécaniques pourraient se déployer lorsqu'ils sont menacés, formant une arme capable d'émettre du gaz toxique ou du feu à partir de buses sur les côtés du drone, protégeant le drone lui-même ou créant une barrière pour d'autres unités Combinées.
 
-Non seulement ils observent, mais ils interviennent également lorsque des menaces sont détectées, et parlent même aux citoyens avec des phrases préenregistrées telles que « Mains sur la tête » ou « Présentez votre carte d'identité », reflétant les ambitions du Combine en matière de contrôle de la population.
+Non seulement ils observent, mais ils interviennent lorsque des menaces sont détectées, et ils parlent même aux citoyens avec des expressions préenregistrées telles que « Mains sur la tête » ou « Présentez votre identité », reflétant les ambitions du Combine pour le contrôle de la population.
 
-TIPS: 
+CONSEILS:
 
-- Les Combots ne se brisent pas en morceaux lorsqu'ils sont détruits.
-- Leurs attaques de gaz et de feu sont dangereuses dans les couloirs étroits et les espaces confinés.
+- Les peignes ne se brisent pas en morceaux.
+- Leurs attaques au gaz et au feu sont dangereuses dans des couloirs étroits et des espaces confinés.
 

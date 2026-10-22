@@ -1,27 +1,27 @@
-GARGANTUA À QUATRE PATTES DE XEN
+GARGANTUA À QUATRE LÉGISLATIONS DE XEN
 
 
-CLASS: Gargantua à quatre pattes
-METABOLISM: Le mastodonte biomécanique Xen
+CLASSE:      Gargantua à quatre pattes
+MÉTABOLISME: Xen juggernaut biomécanique
 PERCEPTION: Proto-Titan de Xen (sous-espèce Gargantua)
-SIZE: ~ 14 pieds de haut (construction plus lourde que le Gargantua classique)
-ENDURANCE: Très Haut (armure exosquelettique renforcée avec stries jaunes)
-HOSTILITY: Extrême
-WEAPONS: Bite AttackGround Slam, Force Brute
-REWARD: 3000FC
-THREAT: Catastrophique de près
+TAILLE:       ~14 pieds de haut (bâtiment plus lourd que le Gargantua classique)
+ENDURANCE:  Très haute (armure exosquelettique renforcée avec des stries jaunes)
+HOSTILITÉ:  Extrême
+ARMES:    Bite AttackGround Slam, Brute Strength
+RÉCOMPENSE:     3000 FC
+MENACE:     Catastrophes dans les quartiers proches
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Gargantua à quatre pattes est une sous-espèce divergente, une brute conçue pour la simple domination physique plutôt que pour la destruction incendiaire. Son corps imposant est revêtu d'une carapace épaisse, semblable à une roche, striée de rayures jaunes brillantes, signe d'une croissance de tissus durcis unique à cette variante.
+Le Gargantua à quatre pattes est une sous-espèce divergente, une brute conçue pour la domination physique pure plutôt que la destruction incendiaire. Son corps imposant est revêtu d'une épaisse carapace semblable à une roche striée de rayures jaunes éclatantes, signe de croissance tissulaire durcie unique à cette variante.
 
-Contrairement à son homologue plus tristement célèbre, le Gargantua à quatre pattes n'a pas de griffes anti-feu. Au lieu de cela, il s'appuie sur des morsures qui écrasent les os, des coups au sol dévastateurs et une force de mêlée implacable. Cela le rend moins spectaculaire à distance, mais bien plus mortel en combat rapproché, car aucune armure ou barricade ne peut résister à ses coups écrasants.
+Contrairement à son homologue plus célèbre, le Gargantua à quatre pattes n'a pas de griffes ignifuges - au lieu de cela, il compte sur des morsures osseux, des claquements de sol dévastateurs et une force de mêlée incessante. Cela le rend moins spectaculaire à portée de gamme, mais beaucoup plus mort dans le combat étroit, car aucune armure ou barricade ne peut résister à ses coups écrasants.
 
-Les scientifiques pensent que cette sous-espèce était une conception alternative antérieure du Gargantua, optimisée pour une capacité de survie brute par rapport à une puissance de feu à distance. Bien que moins polyvalent, sa durabilité et ses attaques par ondes de choc ne le rendent pas moins terrifiant.
+Les scientifiques spéculent que cette sous-espèce était une conception antérieure, alternative de la Gargantua, optimisée pour la survie brute sur une puissance de feu variée. Bien que moins polyvalent, sa durabilité et ses attaques contre les ondes de choc ne le rendent pas moins terrifiant.
 
-TIPS: 
+CONSEILS:
 
-- Gardez vos distances - cette variante est la plus meurtrière de près.
-- Son attaque par morsure peut tuer instantanément des cibles non blindées.
-- Les frappes au sol par ondes de choc peuvent contourner la couverture - évitez sa ligne d'approche.
-- Des explosifs lourds ou un tir concentré sont nécessaires pour percer son blindage renforcé.
+- Gardez la distance - cette variante est la plus mortelle.
+- Son attaque de morsure peut immédiatement tuer des cibles non armées.
+- Les frappes au sol peuvent contourner la couverture - éviter sa ligne d'approche.
+- Des explosifs lourds ou un incendie concentré sont nécessaires pour percer son armure renforcée.

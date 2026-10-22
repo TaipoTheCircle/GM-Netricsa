@@ -1,6 +1,6 @@
-BLACK MESA
+MESA BLACK
 
 
-Black Mesa is a secret scientific corporation-a research complex located in the lifeless New Mexico desert. Funded by the US government, it's shrouded in secrecy: derrière ses laboratoires immaculés se cachent des expériences interdimensionnelles, des technologies avancées et des recherches sur la vie extraterrestre.
+Black Mesa est une société scientifique secrète, un complexe de recherche situé dans le désert du Nouveau-Mexique. Financé par le gouvernement américain, il est en secret : derrière ses laboratoires immaculés se trouvent des expériences interdimensionnelles, des technologies avancées et des recherches sur la vie extraterrestre.
 
-Black Mesa's staff is a fusion of scientists, security guards, maintenance staff, and administrators, unaware of the full scope of what's happening. They study everything: technologie, biologie, téléportation, physique théorique, parfois sans crainte des conséquences.
+Le personnel de Black Mesa est une fusion de scientifiques, de gardes de sécurité, de personnel d'entretien et d'administrateurs, ignorant toute la portée de ce qui se passe. Ils étudient tout : technologie, biologie, téléportation, physique théorique, parfois sans crainte des conséquences.

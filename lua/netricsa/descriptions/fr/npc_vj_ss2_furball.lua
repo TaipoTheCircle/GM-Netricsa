@@ -1,31 +1,31 @@
-MONSTRE DE FOURRURE
+FUR MONSTER
 
 
-CLASS: Monstre à fourrure
-METABOLISM: Carnivore
-PERCEPTION: Arme biologique (Clone / Unité de saut)
-SIZE: 2,7 pieds
-ENDURANCE: Faible
-HOSTILITY: Haut
-WEAPONS: Morsure, saut, griffes
-REWARD: 300FC
-THREAT: Moyen
+CLASSE:      Monstre de fourrure
+MÉTABOLISME: Carnivores
+PERCEPTION: Armes biologiques (clone / unité de saut)
+TAILLE:       2,7 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Haut
+ARMES:    Bite, saut, griffes
+RÉCOMPENSE:     300 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Une créature que tout le monde croit à tort être des matières fécales provenant de la planète géante Magnor. C'est la preuve que même le seigneur des ténèbres Mental a quelque chose que l'on pourrait appeler de la « pitié ».
+Une créature que tout le monde croit faussement être la matière fécale de la planète géante Magnor. C'est la preuve que même le seigneur Mental a quelque chose qui pourrait être appelé "pité"
 
-Lorsque Mental a vu cette créature pour la première fois, il l'a confondue avec un tas de merde. Il était petit, brun et rond, posé sur un rocher. Mais Mental l'a remarqué bouger et l'a volé. Quoi qu'il en soit, il l'a emmené sur son vaisseau, l'a cloné et a entraîné chaque exemplaire à sauter et à mordre.
+Quand Mental a vu cette créature, il l'a pris pour un tas de merde. Elle était petite, brune et ronde, assise sur un rocher. Mais Mental l'a remarqué et l'a volé. Quoi qu'il en soit, il l'a emmené à son vaisseau, l'a cloné et a entraîné chaque copie à sauter et à mordre.
 
-En apparence, le Fur Monster est un objet rond et poilu recouvert d'une courte fourrure brune. Il a de petits yeux verts qui brillent dans le noir et deux grandes oreilles qui sortent dans des directions opposées. Son visage entier est une immense gueule remplie de dents blanches et acérées. Il possède deux pattes solides avec des griffes blanches, sur lesquelles il se déplace exclusivement en sautant.
+En apparence, le Monstre de la fourrure est une fourrure ronde, recouverte de fourrure brune courte. Il a de petits yeux verts qui brillent dans le noir et deux grandes oreilles qui s'écartent dans des directions opposées. Son visage entier est une énorme mache remplie de dents blanches pointues. Il a deux jambes fortes avec des griffes blanches, sur lesquelles il se déplace exclusivement en sautant.
 
-Au combat, le Fur Monster n'a pas de tactique complexe. Il saute simplement sur l'ennemi, essayant de lui enfoncer ses dents dans le visage ou la jambe, puis réessaye. Il n’a aucun égard pour sa propre conservation et ne ressent aucune peur.
+Au combat, le monstre des fourrures n'a aucune tactique complexe. Il saute simplement à l'ennemi, essayant de couler ses dents dans leur visage ou leur jambe, puis essaie à nouveau. Il n'a aucun respect pour la conservation de soi et ne ressent aucune peur.
 
-TIPS: 
+CONSEILS:
 
-- Ils ressemblent à de la merde.
-- Ils ne sont pas dangereux seuls, mais en meute, ils peuvent mordre à mort.
-- Ils sautent selon une trajectoire prévisible, il est donc facile de les frapper avec un fusil de chasse ou un fusil d'assaut.
+- C'est de la merde.
+- Ils ne sont pas dangereux seuls, mais dans un paquet ils peuvent mordre à mort.
+- Ils sautent dans une trajectoire prévisible, donc les frapper avec un fusil de chasse ou un fusil d'assaut est facile.
 - Leur morsure est douloureuse.
-LE FIEND DES MARAIS DE RIGIL KENTAURUS
+- Ils sont vulnérables en sautant. Utilisez votre fusil quand ils volent vers vous.
 - Mental m'assure qu'ils ne puent pas.

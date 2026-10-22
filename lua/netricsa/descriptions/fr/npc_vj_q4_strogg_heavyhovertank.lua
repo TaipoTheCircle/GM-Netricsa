@@ -1,25 +1,25 @@
-RÉSERVOIR LOURD STROGG DE STROGGOS
+STROGG HEAVY HOUVER TANK DE STROGGOS
 
 
-CLASS: Char planant lourd Strogg
-METABOLISM: Suppresseur cybernétique/tactique
-PERCEPTION: Nœud mobile renforcé
-SIZE: 6,6 pieds
-ENDURANCE: Extrêmement élevé
-HOSTILITY: Haut
-WEAPONS: Missiles guidés (bras droit), blaster à tir rapide (poignet gauche), frappe puissante (mêlée)
-REWARD: 2500FC
-THREAT: Extrême
+CLASSE:      Réservoir de Hover lourd de Strogg
+MÉTABOLISME: Suppresseur cybernétique / tactique
+PERCEPTION: Noeud mobile durci
+TAILLE:       6,6 pieds
+ENDURANCE:  Extrêmement élevé
+HOSTILITÉ:  Haut
+ARMES:    Missiles guidés (bras droit), blastre à tir rapide (bras gauche), frappe de puissance (Mélé)
+RÉCOMPENSE:     2500 FC
+MENACE:     Extrême
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Lorsque les Strogg eurent besoin d'un appareil capable d'éliminer à la fois l'infanterie et les véhicules avec la même efficacité, ils prirent un fantassin lourd et lui arrachèrent les jambes. Ils les ont remplacés par une plateforme anti-gravité. Le résultat est un Heavy Hover Tank, une forteresse volante qui ne court pas, mais plane.
+Lorsque le Strogg avait besoin d'un dispositif capable de retirer l'infanterie et les véhicules avec la même efficacité, ils ont enlevé un fantassin lourd et lui ont arraché les jambes. Ils les ont remplacés par une plate-forme antigravité. Le résultat est un tank Hover Heavy - une forteresse volante qui ne court pas, mais qui vole.
 
-Le missile guidé est l'attaque principale du char lourd Hover. Il est très destructeur, infligeant de lourds dégâts et repoussant les ennemis de plusieurs dizaines de mètres avec des dégâts explosifs et parfois des dégâts de chute.
+Le missile guidé est l'attaque principale du Hover Tank. Il est hautement destructeur, infligeant de lourds dégâts et renversant des ennemis plusieurs dizaines de mètres avec des dommages explosifs et parfois des dommages de chute.
 
-En combat rapproché, si un fou s'approche trop près, le Tank l'écrasera simplement avec sa main.
+Dans un combat rapproché, si un fou s'approche trop, le Tank les écrasera simplement de sa main.
 
-TIPS: 
+CONSEILS:
 
-- Seules des armes puissantes, telles que le lance-roquettes, le pistolet à clous et le canon à matière noire, peuvent lui causer de graves dégâts.
-- Lorsque vous combattez d'autres ennemis, le Heavy Hover Tank doit être détruit en premier, car il peut infliger des dégâts importants.
+- Seules les armes puissantes, comme le lance-roquettes, le pistolet à ongles et le canon à matière noire, peuvent lui causer de graves dommages.
+- Lors de la lutte contre d'autres ennemis, le réservoir lourd devrait être détruit d'abord, car il peut causer des dommages importants.

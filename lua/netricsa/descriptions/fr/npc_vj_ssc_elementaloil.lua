@@ -1,22 +1,22 @@
-ÉLÉMENTAIRE D'HUILE
+ÉLÉMENTAIRE
 
 
-CLASS: Élémentaire d'huile
-METABOLISM: Inorganique
+CLASSE:      Huile élémentaire
+MÉTABOLISME: Matières inorganiques
 PERCEPTION: Créature magique
-SIZE: 54 pieds
-ENDURANCE: Haut
-HOSTILITY: Haut
-WEAPONS: Billes d'huile, poinçons
-REWARD: 22750 FC
-THREAT: Haut
+TAILLE:       54 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Haut
+ARMES:    Balles à huile, coups de poing
+RÉCOMPENSE:     22750 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Une collection de matériaux inanimés qui prennent vie. Les élémentaires de pétrole sont composés de pétrole et utilisent un pouvoir magique pour lancer des boules de pétrole et d'autres projectiles sur les ennemis.
+Une collection de matériaux inanimés a vu le jour. Huile Les éléments sont composés d'huile et utilisent la puissance magique pour lancer des boules d'huile et d'autres projectiles sur les ennemis.
 
-Leur principale différence avec les autres espèces d'élémentaires est leur incapacité à se diviser en spécimens plus petits. Au lieu de cela, à leur mort, ils lâchent de petits packs de santé et des armures.
+Leur principale différence par rapport aux autres espèces d'éléments est leur incapacité à se diviser en petits spécimens. Au lieu de cela, à la mort, ils laissent tomber de petits paquets de santé et d'armure.
 
-TIPS: 
+CONSEILS:
 
 - Les gros spécimens peuvent être extrêmement forts et dangereux.

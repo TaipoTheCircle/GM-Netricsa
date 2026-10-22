@@ -1,16 +1,16 @@
-MR-80-13T TRAUMATIC PISTOL
+PISTOL TRAUMATIQUE MR-80-13T
 
 
-WEAPON:     MR-80-13T
+ARME:     MR-80-13T
 AMMUNITION: .45 Cartouches en caoutchouc
-ROF: ~20 tours/min
+CADENCE DE TIR:        ~20 tours/min
 
 DESCRIPTION:
 
-Un pistolet d'autodéfense traumatique, modification du MP-79-9TM, conçu sur la base du pistolet Makarov. Fabriqué par l'usine mécanique d'Ijevsk.
+Un pistolet autodéfense traumatisant, modification du MP-79-9TM, conçu sur la base du pistolet Makarov. Fabriqué par l'usine mécanique Izhevsk.
 
-NOTES:
+REMARQUES:
 
-- Convient pour l'autodéfense, mais pas pour le combat.
-- Il est recommandé de tirer dans la tête si vous souhaitez tuer quelqu'un avec ce pistolet.
+- Pour la légitime défense, mais pas pour le combat.
+- Il est recommandé de tirer sur la tête si vous voulez tuer quelqu'un avec ce pistolet.
 

@@ -1,28 +1,28 @@
-COMBINEZ LE SYNTHÉ DE MORTIER
+VENDU TACTIQUE D'EXPLOITATION DE LA COMBINE
 
 
-CLASS: Combinez le soldat tactique Overwatch
-METABOLISM: Humain augmenté, mâle
+CLASSE:      Combiner le soldat tactique Overwatch
+MÉTABOLISME: Augmenté Humain, Homme
 PERCEPTION: Combiner une unité tactique lourde
-SIZE: 1,8 pi
-ENDURANCE: Très élevé
-HOSTILITY: Extrême
-WEAPONS: Fusil à impulsion AR2, SMG, Grenades
-REWARD: 750 FC
-THREAT: Très élevé
+TAILLE:       1,8 ft
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Extrême
+ARMES:    AR2 Rifle d'impulsions, SMG, Grenades
+RÉCOMPENSE:     750 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine Overwatch Combine Tactical Soldier est une version renforcée et améliorée du soldat standard, conçue pour les combats prolongés et la pression directe sur la résistance. Alors que le soldat standard est un outil de contrôle, le soldat tactique est un outil de suppression totale.
+Le Soldat tactique Combine Overwatch Combine est une version améliorée du soldat standard, conçue pour le combat prolongé et la pression directe sur la résistance. Bien que le soldat standard soit un outil de contrôle, le soldat tactique est un outil de suppression totale.
 
-His distinctive features are his blue visor and highly protective helmet. The helmet's design and internal augmentations completely eliminate vulnerability to headshots: les tirs à la tête n’ont pas d’effet immédiat. Le Combine a intentionnellement conçu ces soldats pour qu'ils tiennent bon sous un feu nourri.
+Ses traits distinctifs sont sa visière bleue et son casque hautement protecteur. La conception du casque et les augmentations internes éliminent complètement la vulnérabilité aux coups de tête : les coups de tête n'ont pas d'effet immédiat. Le Combine a intentionnellement conçu ces soldats pour maintenir leur sol sous un feu lourd.
 
-L'armure est multicouche et renforcée, avec des amortisseurs internes et des inserts synthétiques. Le soldat tactique ne compte pas sur la vitesse : il avance méthodiquement, en utilisant l'AR2 pour le tir de suppression, le SMG pour le combat rapproché et les grenades pour dégager la couverture.
+L'armure est multicouche et renforcée, avec amortisseurs internes et inserts synthétiques. Le soldat tactique ne compte pas sur la vitesse - ils avancent méthodiquement, utilisant l'AR2 pour le feu suppressif, le SMG pour le combat rapproché, et les grenades pour nettoyer la couverture.
 
-Au combat, ils agissent calmement et délibérément. Leur objectif n'est pas de prendre le flanc, mais de briser la ligne ennemie, le forçant à battre en retraite ou à mourir. Lorsqu’un tel soldat avance, le combat cesse d’être une affaire mobile et devient une épreuve de survie.
+Au combat, ils agissent calmement et délibérément. Leur but n'est pas de flanquer, mais de briser la ligne de l'ennemi, les forçant à battre en retraite ou à mourir. Quand un tel soldat avance, le combat cesse d'être une affaire mobile et devient un test de survie.
 
-TIPS: 
+CONSEILS:
 
-- Les tirs à la tête sont inutiles - visez le corps ou utilisez des explosifs.
-- L'AR2 est dangereux même à moyenne portée - une couverture est indispensable.
-- La meilleure façon de le combattre est d'utiliser des armes lourdes ou une attaque coordonnée.
+- Les coups de tête sont inutiles - viser le corps ou utiliser des explosifs.
+- L'AR2 est dangereux même à moyenne portée - couverture est essentielle.
+- La meilleure façon de le traiter est d'avoir des armes lourdes ou une attaque coordonnée.

@@ -1,35 +1,35 @@
 TATOOINE
 
 
-PLANET: Tatooine
-TYPE: Planète terrestre, planète désertique
-CLIMATE: Aride, extrêmement chaud le jour, froid la nuit
-MOONS: Aucun
-TERRAIN: Mers de sable sans fin, canyons rocheux, friches, plateaux
-LOCATION: Territoires de la Bordure Extérieure, secteur Arkanis, système Tatooine (double étoile : Tatooine I et Tatooine II)
-NATIVE RACES: Humains (colons), Jawas, Tusken Raiders (peuples des sables), Hutts
-ALLIANCE: Hutt Space (de facto), secteur Arkanis (de jure), Empire Galactique (anciennement), Nouvelle République (anciennement), Union Galactique (actuellement)
-LOCATIONS: Mos Eisley, Mos Espa, Anchorhead, Bestine, Palais de Jabba, Mer de dunes
+PLANET:       Tatooine
+TYPE:         Planète terrestre, Planète du désert
+CLIMATE:      Aride, extrêmement chaud pendant la journée, froid la nuit
+MOONS:        Aucune
+TERRAIN:      Mers de sable sans fin, canyons rocheux, friches, plateaux
+LOCATION:     Territoires périphériques, secteur de l'Arkanis, système des tatooines (double étoile: Tatooine I et Tatooine II)
+NATIVE RACES: Humains (négociants), Jawas, Tusken Raiders (Sand People), Hutts
+ALLIANCE:     Hutt Space (de facto), secteur Arkanis (de jure), Empire galactique (anciennement), Nouvelle République (anciennement), Union galactique (actuellement)
+LOCATIONS:    Mos Eisley, Mos Espa, Anchorhead, Bestine, Jabba's Palace, Dune Sea
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Une planète désertique inhospitalière en orbite autour d’un double soleil jaune.
+Une planète désertique inhospitalière autour d'un double soleil jaune.
 
-Autrefois riche en océans et en jungles, elle a été transformée en désert il y a des millénaires par les bombardements orbitaux de l'Empire Infini Rakata. Aujourd'hui, sa surface est constituée d'interminables mers de sable, brûlées par le double soleil, parfois coupées par des canyons rocheux, comme le Beggar's Canyon, formé il y a environ deux millions d'années.
+Autrefois prospère avec les océans et les jungles, il a été transformé en un désert il y a des millénaires par les bombardements orbitaux de l'Empire infini de Rakata. Aujourd'hui, sa surface est des mers de sable infinies, brûlées par le double soleil, parfois coupées par des canyons rocheux, comme le Canyon de Beggar, formé il y a environ deux millions d'années.
 
-The climate is harsh: il fait une chaleur insupportable pendant la journée et les températures chutent la nuit. L'eau couvre moins d'un pour cent de la surface et la principale source d'humidité pour les colons sont les récupérateurs d'humidité qui condensent l'eau de l'air sec. Grâce à une combinaison unique de minerais magnétiques dans le manteau et de vents atmosphériques, il existe plusieurs zones tempérées où les températures dépassent rarement 43 degrés Celsius. C'est ici que se concentrent les quelques colonies.
+The climate is harsh: une chaleur insupportable pendant la journée, et les températures chutent la nuit. L'eau couvre moins d'un pour cent de la surface, et la principale source d'humidité pour les colons est les moissonneurs d'humidité qui condensent l'eau de l'air sec. Grâce à une combinaison unique de minerais magnétiques dans le manteau et les vents atmosphériques, il existe plusieurs zones tempérées où les températures dépassent rarement 43 degrés Celsius-c'est ici que les quelques colonies sont concentrées.
 
-Tatooine se trouve au carrefour de nombreuses routes hyperspatiales, ce qui en fait un refuge pour les contrebandiers, les mercenaires et les chasseurs de primes fuyant la loi. La surface de la planète est littéralement parsemée d'épaves d'anciens navires enfouis dans le sable. Si la planète est légalement considérée comme faisant partie du secteur Arkanis, elle est de facto gouvernée par des clans criminels Hutt, comme celui de Jabba Desilijic, qui contrôle la contrebande et autres transactions louches.
+La tatooïne se trouve au carrefour de nombreuses routes hyperspatiales, ce qui en fait un refuge pour les passeurs, les mercenaires et les chasseurs de primes en fuite de la loi. La surface de la planète est littéralement parsemée d'épaves de navires anciens enterrés dans le sable. Alors que la planète est légalement considérée comme faisant partie du secteur d'Arkanis, elle est de facto gouvernée par des clans criminels de Hutt, comme le clan de Jabba Desilijic, qui contrôle la contrebande et d'autres transactions douteuses.
 
-La population indigène se compose de deux races descendantes d’un seul peuple ancien. Les Jawas sont de petits charognards animés vêtus de robes distinctives, voyageant à travers le désert sur des sandouls géants à la recherche de ferraille à revendre. Les Peuples des Sables, ou Tuskens, sont de grands nomades guerriers, hostiles aux étrangers et farouchement protecteurs de leur territoire. Les colons humains survivent principalement grâce à l'agriculture humide dans des colonies telles que Mos Eisley, Mos Espa, Anchorhead et la capitale Bestine.
+La population autochtone se compose de deux races issues d'un seul peuple ancien. Les Jawas sont de petits charognards animés dans des robes distinctives, voyageant à travers le désert sur des sables géants à la recherche de ferraille pour la revente. Les Sand People, ou Tuskens, sont de grands nomades guerriers, hostiles aux étrangers et extrêmement protecteurs de leur territoire. Les colons humains survivent principalement à la culture de l'humidité dans des établissements comme Mos Eisley, Mos Espa, Anchorhead et la capitale de Bestine.
 
-Malgré les conditions difficiles, la vie sur Tatooine est diversifiée. Il abrite les énormes banthas à fourrure utilisés par les Tusken Raiders, les rontos lents, les troupeaux d'eopie et de dangereux prédateurs tels que les dragons krayt, dont l'estomac contient de précieuses perles de dragon, et les monstrueux sarlaccs, qui mettent mille ans à digérer leurs proies. La plante la plus célèbre est la courge hubba, la principale source de nourriture des Jawas et des Tusken Raiders.
+Malgré les conditions difficiles, la vie sur la Tatooïne est diversifiée. Il abrite les énormes banthes à fourrure utilisées par les Tusken Raiders, les rontos lents, les troupeaux d'eopie et les prédateurs dangereux tels que les dragons krayts, dont l'estomac contient de précieuses perles de dragon, et les sarlaccs monstrueux, qui prennent mille ans pour digérer leurs proies. L'usine la plus célèbre est la gourde hubba, la principale source de nourriture pour Jawas et Tusken Raiders.
 
-KEY LOCATIONS: 
+KEY LOCATIONS:
 
-- Mos Eisley: Un port spatial majeur et le centre criminel de la planète, avec des bars, des hangars et des transactions louches.
-- Mos Espa: Ville portuaire connue pour son hippodrome, qui accueille les célèbres épreuves de poracing.
-- Anchorhead: La plus ancienne colonie de la planète, fondée par les premiers colons.
+- Mos Eisley: Un grand port spatial et le centre criminel de la planète, avec des bars, des hangars et des transactions louches.
+- Mos Espa : Une ville portuaire connue pour son hippodrome, qui abrite les célèbres événements podracing.
+- Anchorhead : La plus ancienne colonie de la planète, fondée par les premiers colons.
 - Bestine: La capitale officielle de Tatooine, située à environ deux cents kilomètres à l'ouest de Mos Eisley.
-- Jabba's Palace: Une puissante forteresse du désert servant de résidence au seigneur du crime Jabba le Hutt.
-- Dune Sea: Une vaste étendue de sables mouvants s’étendant sur plusieurs kilomètres.
+- Palais de Jabba: Une puissante forteresse désertique servant de résidence au seigneur du crime Jabba le Hutt.
+- Dune Sea: Une vaste étendue de sables décalés s'étirant sur plusieurs kilomètres.

@@ -1,16 +1,16 @@
-MITRAILLEUSE M1-A2 THOMPSON
+M1-A2 SUBMACHINE DE THOMPSON
 
 
-ARME : Mitraillette M1-A2 Thompson
-MUNITIONS : balles de 5,56 mm
-ROF : 600 balles/min
-BARIL: 10"
+ARME:    M1-A2 sous-machine Thompson
+MUNITIONS:      balles de 5,56 mm
+CADENCE DE TIR:       600 balles/min
+BARREL:    10"
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Inventée à l'origine par le général Thompson, cette mitraillette a survécu à deux guerres mondiales et, grâce à de récentes améliorations, elle est 
-retour sur la piste. Cet ancien modèle a été modifié pour accepter des munitions de 5,56 mm afin d'être compatible avec d'autres armes d'infanterie standard, et son conteneur de tambour universel peut être rempli à partir de n'importe quel pack de munitions standard.
+Inventée à l'origine par le général Thompson, cette mitrailleuse a survécu à deux guerres mondiales
+retour sur la piste. Ce vieux temps a été modifié pour accepter des munitions de 5,56 mm pour être compatible avec d'autres armes d'infanterie standard, et son conteneur de tambour universel peut être rempli à partir de n'importe quel paquet de munitions standard.
 
-REMARQUES :
+REMARQUES:
 
-- Fournit à la fois un mode de tir rapide et des rafales courtes contrôlées.
+- Fournit un mode d'incendie rapide et des rafales courtes contrôlées.

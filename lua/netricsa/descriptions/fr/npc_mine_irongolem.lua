@@ -1,27 +1,27 @@
-GOLEM DE FER DU MONDE MINECRAFT
+GOLEM DE L'EXTERIEUR MINECRAFT
 
 
-CLASS: Golem de fer
+CLASSE:      Golem de fer
 PERCEPTION: Structure défensive
-METABOLISM: Gardien du village
-SIZE: 8,8 pieds
-ENDURANCE: Très élevé
-HOSTILITY: Moyenne
-WEAPONS: Poings puissants, lancers ennemis
-REWARD: 100 FC
-THREAT: Moyenne
+MÉTABOLISME: Gardien du village
+TAILLE:       8,8 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Moyenne
+ARMES:    Les poings puissants, l'ennemi lance
+RÉCOMPENSE:     100 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-L'Iron Golem est une structure énorme et massive créée pour protéger les villageois des foules hostiles. Malgré son apparence imposante, il est amical envers les humains et les villageois.
+Le Iron Golem est une structure énorme et massive créée pour protéger les villageois des foules hostiles. Malgré son apparence imposante, elle est amicale avec les humains et les villageois.
 
-Il patrouille dans le village, répondant à toutes les menaces, qu'il s'agisse de zombies, de squelettes ou d'autres créatures hostiles.
+Il patrouille le village, répondant à toute menace, qu'il s'agisse de zombies, de squelettes ou d'autres créatures hostiles.
 
-Il peut soulever et projeter des foules sur de longues distances grâce à la force de ses bras métalliques.
+Il peut soulever et jeter des foules sur des distances en utilisant la force de ses bras métalliques.
 
-Possède une immense force physique et une grande capacité de survie, ce qui le rend pratiquement invincible face à la plupart des monstres courants.
+Possède une immense force physique et une grande survivabilité, ce qui le rend pratiquement invincible pour la plupart des foules.
 
-TIPS: 
+CONSEILS:
 
-- Utilisez le Golem comme bouclier - il distrait les ennemis et inflige des dégâts importants.
+- Utilisez le Golem comme bouclier - il distrait les ennemis et inflige des dommages importants.
 - Plusieurs Golems travaillant ensemble transforment un village en une forteresse presque impénétrable.

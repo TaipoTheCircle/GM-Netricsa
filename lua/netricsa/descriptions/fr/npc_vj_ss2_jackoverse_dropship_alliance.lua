@@ -1,27 +1,27 @@
-RÉSISTANCE APC 404-818 LIVRAISON DIRECTE
+RÉSISTANCE APC 404-818
 
 
-CLASSE : Résistance APC 404-818 Dropship
-MÉTABOLISME : Unité de transport aérien, module de largage blindé
-PERCEPTION : Transport de débarquement / Transport de troupes blindé aéroporté de Résistance
-TAILLE : 19,7 pieds
-ENDURANCE : Très élevée
-HOSTILITÉ : Faible
-ARMES : Aucune
-RÉCOMPENSE : 100 FC
-MENACE : Élevée
+CLASSE:      Résistance APC 404-818 Dropship
+MÉTABOLISME: Unité de transport aérien, balançoire blindée
+PERCEPTION: Transport et résistance à l'atterrissage Transporteur de personnel blindé aéroporté
+TAILLE:       19,7 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Faible
+ARMES:    Aucune
+RÉCOMPENSE:     100 FC
+MENACE:     Haut
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Il s'agit d'un trophée capturé par la Résistance auprès de l'armée de Mental. Extérieurement, il est presque identique à l'original, mais a maintenant été entièrement repeint en bleu, la couleur emblématique des Rebels. Tous les logos intimidants de la Horde ont été soigneusement effacés et à leur place se trouvent les marquages ​​« H » de la Résistance.
+C'est un trophée capturé par la Résistance de l'armée mentale. Extérieurement, il est presque identique à l'original, mais a maintenant été entièrement repeint en bleu-la couleur signature des rebelles. Tous les logos Horde intimidants ont été soigneusement effacés, et à leur place sont les marques de résistance "H".
 
-A l'intérieur, c'est tout de même le confort blindé que Mental a conçu autrefois : un jacuzzi, des fauteuils en cuir, une télévision plasma. Mais maintenant, ce n'est plus les soldats blindés de Mental qui l'occupent, mais les rebelles russes. Ils volent en mission, transportent des fournitures et parfois simplement naviguent, bénéficiant d'un confort qu'ils n'ont jamais eu auparavant.
+À l'intérieur, c'est tout le même confort blindé que Mental a conçu une fois : un jacuzzi, des chaises en cuir, une télévision plasma. Mais maintenant il est occupé non pas par les soldats blindés de Mental, mais par les rebelles russes. Ils volent en mission, transportent des approvisionnements, parfois simplement en croisière, bénéficiant d'un confort qu'ils n'avaient jamais eu auparavant.
 
-La navette n'est pas armée. Son but est de livrer les troupes à destination puis de repartir. Cependant, les rebelles l'utilisent parfois comme poste de commandement mobile voire comme refuge lors des combats.
+La navette n'est pas armée. Son but est de livrer les troupes à leur destination puis de partir. Cependant, les rebelles l'utilisent parfois comme poste de commandement mobile ou même comme refuge pendant le combat.
 
-CONSEILS :
+CONSEILS:
 
-- La navette n'est pas armée. Son but est de transporter les rebelles, pas de les combattre.
-- Si vous combattez Mental et l'Empire Galactique, cette navette est votre amie. Cela amène des renforts.
-- Si vous voyez une navette bleue s'approcher de votre position, ne tirez pas tout de suite. Il y a de fortes chances qu’il y ait des alliés à l’intérieur.
-- Le jacuzzi fonctionne toujours. Si vous êtes fatigué de la guerre, vous pouvez monter dans la navette et vous reposer, mais il n'y a pas de champagne là-bas, les rebelles l'ont bu.
+- La navette n'est pas armée. Son but est de transporter les rebelles, pas de se battre.
+- Si vous combattez Mental et l'Empire Galactique, cette navette est votre amie. Ça apporte des renforts.
+- Si vous voyez une navette bleue approcher de votre position, ne tirez pas tout de suite. Il y a des alliés à l'intérieur.
+- Le jacuzzi fonctionne toujours. Si vous êtes fatigué de la guerre, vous pouvez monter dans la navette et vous reposer, mais il n'y a pas de champagne, les rebelles l'ont bu.

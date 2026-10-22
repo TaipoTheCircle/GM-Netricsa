@@ -1,14 +1,14 @@
-COMPLEXE NOIR MESA LAMBDA, DERNIER H.E.C.U. RESTER
+BLACK MESA LAMBDA COMPLEXE, DERNIÈRE STAND
 
 
-Les égouts, et ce qui attend au-dessus, c'est le dernier H.E.C.U. détachement toujours accroché aux ordres.
+Les égouts, et ce qui attend ci-dessus est le dernier détachement de l'U.S.E.C. toujours accroché aux ordres.
 
-They've dug in hard: un périmètre défensif, des mitrailleuses lourdes et un M1 Abrams complet garé comme un monument obstiné à leur force décroissante.
+Ils ont creusé dans le dur: un périmètre défensif, des mitrailleuses lourdes, et un M1 Abrams plein garé comme un monument têtu à leur force de dépérissement.
 
-Intel chatter confirms it: Le commandement leur a dit d'oublier Freeman. Ce n'est plus leur problème. Mais voici la vérité : tout est leur problème désormais. Ils saignent des hommes, perdent du terrain et regardent Black Mesa s'éloigner petit à petit. Le front s’effondre, et ces soldats le savent.
+Intel chatter confirms it: le commandement leur a dit d'oublier Freeman. Il n'est plus leur problème. Mais voici la vérité - tout est leur problème maintenant. Ils saignent des hommes, perdent du terrain, et regardent Black Mesa glisser de pouce par pouce. Le front s'effondre, et ces soldats le savent.
 
-Cela ne les rend pas moins dangereux. Le désespoir alimente l'insouciance, et les Abrams peuvent transformer la rue en verre fondu d'un seul coup. Attendez-vous à ce qu’ils ne se battent pas pour la victoire, mais pour éliminer quelqu’un avec eux.
+Ça ne les rend pas moins dangereux. Le désespoir alimente l'imprudence, et les Abrams peuvent transformer la rue en verre fondu avec un seul coup. S'attendre à ce qu'ils ne se battent pas pour la victoire, mais pour faire tomber quelqu'un avec eux.
 
-Et pendant qu'ils s'éteignent... les Black Ops n'attendent pas.
+Et pendant qu'ils brûlent, les Black Ops n'attendent pas.
 
-Different uniforms, different orders: faire taire chaque témoin, effacer toute trace. Ils ne perdront pas de temps à tenir bon - ils se tailleront à travers H.E.C.U., à travers Xen, à travers vous, jusqu'à ce que l'installation ne soit plus que des cadavres et des cendres.
+Des uniformes différents, des ordres différents : faire taire chaque témoin, effacer chaque trace. Ils ne perdront pas de temps à tenir le sol - ils sculpteront à travers H.E.C.U., à travers Xen, à travers vous, jusqu'à ce que l'installation n'est que des cadavres et des cendres.

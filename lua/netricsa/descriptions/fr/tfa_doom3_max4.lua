@@ -1,18 +1,18 @@
-PISTOLET À PLASMA
+PLASMA GUN
 
 
-ARME : Plasma Gun
-MUNITIONS : Munitions plasma
-CC : ~600 tours/min
+ARME: Gun plasma
+MUNITIONS:   Ammo plasma
+CC:     ~600 tours/min
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Une arme énergétique qui utilise des éclairs à plasma accélérés pour détruire des cibles. Sa cadence de tir élevée et ses dégâts importants le rendent particulièrement efficace à courte et moyenne portée.
+Une arme énergétique qui utilise des boulons plasma accélérés pour détruire des cibles. Son taux d'incendie élevé et ses dommages importants le rendent particulièrement efficace à proximité et à moyenne distance.
 
-L'arme peut tirer un flux continu de plasma, éliminant rapidement les ennemis. Son principal inconvénient est la consommation rapide de munitions lors de tirs soutenus.
+L'arme peut tirer un flux continu de plasma, expédiant rapidement des ennemis. Son principal inconvénient est la consommation rapide de munitions pendant les tirs soutenus.
 
-REMARQUES :
+REMARQUES:
 
-- Cadence de tir élevée et bons dégâts.
-- Les éclairs énergétiques sont efficaces contre les cibles se déplaçant rapidement.
-- Les munitions sont consommées relativement rapidement lors d'un tir continu.
+- Taux élevé d'incendie et bon dommage.
+- Les boulons énergétiques sont efficaces contre les cibles rapides.
+- L'ammo est consommé relativement rapidement pendant le feu continu.

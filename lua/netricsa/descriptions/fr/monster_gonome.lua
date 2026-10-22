@@ -1,22 +1,22 @@
-ZOMBIE DE CRABE COMMUN, GONOME
+ZOMBIE, UNE TÊTE COMMUNE
 
 
-CLASS: Zombie de crabe commun, Gonome
-METABOLISM: variable
+CLASSE:      Cérame commun Zombie, Gonome
+MÉTABOLISME: nécrose parasitaire
 PERCEPTION: Mutation avancée
-SIZE: 7-8 pieds
-ENDURANCE: haut
-HOSTILITY: extrême
-WEAPONS: coup de griffe, projectile intestinal, morsure de poitrine
-REWARD: 1000FC
-THREAT: très élevé
+TAILLE:       7-8 pieds
+ENDURANCE:  élevé
+HOSTILITÉ:  extrême
+ARMES:    griffe, projectile intestinal, morsure thoracique
+RÉCOMPENSE:     1000 FC
+MENACE:     très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Gonome représente une évolution grotesque du Zombie Crabe Commun. Après une infection prolongée ou une exposition à des conditions spécifiques, l’hôte subit une transformation physique importante. La cavité thoracique du Gonome se développe en une gueule fonctionnelle, capable de lancer des projectiles organiques. Malgré la masse corporelle accrue de l'hôte, le crabe qui le contrôle semble se flétrir, laissant des traits squelettiques visibles sous la peau. Les gonomes présentent un comportement agressif, chargeant souvent les intrus et utilisant leurs membres griffus et leurs attaques mordantes.
+Le Gonome représente une évolution grotesque de la tête commune Zombie. Après une infection prolongée ou une exposition à des conditions particulières, l'hôte subit une transformation physique importante. La cavité thoracique du Gonome se développe en une mare fonctionnelle, capable de lancer des projectiles organiques. Malgré l'augmentation de la masse corporelle de l'hôte, le headcrab contrôle semble se faner, laissant des caractéristiques squelettiques visibles sous la peau. Les gonomes ont un comportement agressif, chargeant souvent les intrus et utilisant leurs membres griffés et les attaques de morsures.
 
-TIPS: 
+CONSEILS:
 
-- Maintenir la distance ; leur charge de sprint peut submerger des ennemis non préparés.
-- Évitez les combats rapprochés en raison de leurs puissantes attaques de morsures et de griffes.
-- Les armes explosives ou à tir rapide sont efficaces pour les neutraliser à distance.
+- Maintenir la distance; leur charge de sprint peut envahir les ennemis non préparés.
+- Éviter les combats à proximité du quartier en raison de leurs puissants coups et griffes.
+- Les explosifs ou les armes à feu rapide sont efficaces pour les neutraliser de loin.

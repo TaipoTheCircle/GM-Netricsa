@@ -1,27 +1,27 @@
-COMBINEZ L'ÉLITE DU SOLDAT SNIPER D'OVERWATCH
+ÉLITE SUPPLÉMENTAIRE DE L'EXPÉRIENCE DE COMBINE
 
 
-CLASS: Combinez Overwatch Sniper Soldier Elite
-METABOLISM: Humain fortement augmenté, mâle
-PERCEPTION: Infanterie transhumaine (tireur d'élite)
-SIZE: 5,9 pieds
-ENDURANCE: Haut
-HOSTILITY: Extrême
-WEAPONS: Fusil de précision combiné Elite MK1
-REWARD: 1000FC
-THREAT: Extrême
+CLASSE:      Combiner Sniper Sniper Elite
+MÉTABOLISME: Homme très élevé
+PERCEPTION: Infanterie transhumaine (Elite Marksman)
+TAILLE:       5,9 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Extrême
+ARMES:    Elite Combine le Sniper Rifle MK1
+RÉCOMPENSE:     1000 FC
+MENACE:     Extrême
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine Overwatch Sniper Soldier Elite représente le summum de l’infanterie à longue portée du Combine. Contrairement à leurs homologues standards, ces élites sont équipées d'uniformes furtifs avancés qui semblent presque transparents dans certaines conditions d'éclairage. En réalité, l'armure est noir de jais - leurs seules caractéristiques constamment visibles sont un masque tactique marron, des gants noirs, des bottes lourdes, des ceintures de munitions et la lueur menaçante de leurs lentilles de visière jaunes.
+Le Sniper Sniper Elite de Combine Overwatch représente le sommet de l'infanterie longue portée du Combine. Contrairement à leurs homologues standard, ces élites sont équipées d'un uniforme furtif avancé qui semble presque transparent dans certaines conditions d'éclairage. En réalité, l'armure est noire - leurs seules caractéristiques toujours visibles sont un masque tactique brun, des gants noirs, des bottes lourdes, des ceintures de munitions, et la lueur menaçante de leurs lentilles visières jaunes.
 
-Conçu à la fois pour la guerre psychologique et le contrôle absolu du champ de bataille, le Sniper Elite est capable d'éliminer les cibles prioritaires avant même qu'elles ne réalisent qu'elles sont sous surveillance. Leurs optiques améliorées leur permettent de voir à travers le brouillard, la fumée et même une couverture partielle, ce qui les rend presque impossibles à cacher.
+Conçu pour la guerre psychologique et le contrôle absolu du champ de bataille, le Sniper Elite est capable d'éliminer les cibles prioritaires avant même de se rendre compte qu'elles sont sous surveillance. Leur optique améliorée leur permet de voir à travers le brouillard, la fumée, et même la couverture partielle, les rendant presque impossibles à cacher.
 
-They are typically deployed in high-value operations: assassinats, répression des chefs rebelles et surveillance des complexes pénitentiaires comme Nova Prospekt. Leur seule présence peut déstabiliser le moral de la résistance, car même les combattants chevronnés savent qu’une seule erreur de mouvement pourrait être la dernière.
+They are typically deployed in high-value operations: assassinats, répression des chefs rebelles et surveillance dans les complexes pénitentiaires comme Nova Prospekt. Leur seule présence peut déstabiliser le moral de la résistance, car même les combattants chevronnés savent qu'une seule erreur de mouvement pourrait être leur dernière.
 
-TIPS: 
+CONSEILS:
 
 - Leurs visières jaunes sont le seul moyen fiable de les repérer à distance.
-- N'essayez pas de les affronter en terrain découvert - de flanc ou d'utiliser des explosifs.
-- Leur camouflage échoue sous une lumière vive ou sous l'optique thermique.
-- Une fois leur nid découvert, appuyez vigoureusement avant qu'ils ne se déplacent.
+- Ne tentez pas de les duper en plein sol - flanc ou utiliser des explosifs.
+- Leur camouflage échoue sous lumière vive ou optique thermique.
+- Une fois leur nid découvert, appuyez agressivement avant qu'ils ne déménagent.

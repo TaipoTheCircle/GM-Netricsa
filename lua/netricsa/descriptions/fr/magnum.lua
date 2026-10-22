@@ -1,16 +1,16 @@
-Ici, l'objectif est immédiat : atteindre l'entrée de Lambda sous le feu.
+MODÈLE SMITH & WESSON 28
 
 
-WEAPON: Smith & Wesson Modèle 28
-AMMO: .357 Magnum
-ROF: 40 tr/min
+ARME: Smith & Wesson Modèle 28
+MUNITIONS:   .357 Magnum
+CADENCE DE TIR:    40 tr/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le revolver Smith & Wesson modèle 28 Highway Patrolman est l'arme de poing standard des policiers d'Abbott et de nombreux autres organismes d'application de la loi du Maryland. Il tire des cartouches .357 Magnum et contient six cartouches. C'est une arme extrêmement meurtrière. Ceux qui sont experts dans l'utilisation d'une telle arme peuvent être beaucoup plus dangereux avec deux d'entre eux. Étant donné que la réglementation sur les armes à feu à Abbott est assez laxiste, ces revolvers se trouvent en abondance partout où les policiers les gardent. Les munitions sont également assez faciles à obtenir. Le premier peut être obtenu auprès de l'officier supérieur, soit en le tuant alors qu'il sort des toilettes, soit en le laissant mourir sur la chaise électrique de la pièce électrocutée. Le deuxième revolver, à double usage, se trouve au chapitre 2, "Descente", après avoir rencontré les trois fantômes de l'île et s'être familiarisé avec la folie et la créature, mais avant de rencontrer les premiers tireurs d'élite qui exécutent l'officier ligoté. Tirez sur le levier pour faire exploser le générateur dans la pièce inondée que vous traversez, et le deuxième revolver se trouve caché dans le mur derrière lui.
+Le revolver de patrouilleur routier Smith & Wesson Model 28 est l'arme de service standard pour les policiers d'Abbott et de nombreux autres organismes d'application de la loi du Maryland. Il tire .357 Magnum cartouches et tient six rondes. C'est une arme extrêmement mortelle. Ceux qui utilisent une telle arme peuvent être beaucoup plus dangereux avec deux d'entre eux. Comme les règlements sur les armes à feu à Abbott sont assez laxistes, ces revolvers sont trouvés en abondance partout où les policiers les gardent. Les munitions sont également très faciles à obtenir. La première peut être obtenue de l'officier supérieur, soit en le tuant alors qu'il sort des toilettes, soit en lui permettant de mourir dans la chaise électrique de la salle électrocutée. Le deuxième revolver, à double usage, se trouve au chapitre 2, « Descent », après avoir rencontré les trois fantômes de l'île et se familiariser avec la folie et la créature, mais avant de rencontrer les premiers tireurs qui exécutent l'officier lié. Tirez le levier pour faire exploser le générateur dans la pièce inondée que vous passez, et le deuxième revolver peut être trouvé caché dans le mur derrière lui.
 
-NOTES: 
+REMARQUES:
 
-- Revolver orienté cible - excellent pour le tir de précision.
+- Revolver orienté vers la cible - excellent pour le tir de précision.
 
-- " Restez immobile ou mourez ! Me comprenez-vous ? "
+- "Ne bougez pas, ou mourrez ! Vous me comprenez ?"

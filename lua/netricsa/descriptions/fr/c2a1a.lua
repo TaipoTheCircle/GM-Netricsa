@@ -1,20 +1,20 @@
-BLACK MESA, SECTEUR DE RESTAURATION D'ÉNERGIE
+MESA BLACK, SECTEUR DE LA RESTAURATION DES POUVOIRS
 
 
-Sam, you've reached the main junction for the rail power grid. This is the heart of the problem: les lignes électriques alimentant le train de marchandises ont été volontairement coupées. Qu'il s'agisse des protocoles de sécurité pendant la cascade... ou du sabotage des soldats, peu importe. Sans restaurer ce système, vous ne partirez pas.
+Sam, vous avez atteint la jonction principale pour le réseau électrique ferroviaire. C'est le cœur du problème : les lignes électriques alimentant le train de marchandises ont été délibérément fermées. Qu'il s'agisse de protocoles de sécurité pendant la cascade... ou de sabotage par les soldats, peu importe. Sans restaurer ce système, vous ne partirez pas.
 
-Complications: 
+Complications:
 
-La zone fourmille de H.E.C.U. marines, qui connaissent clairement l’importance de ce secteur. Ils ont installé des barricades, des mines déclenchantes et des zones de destruction dans les salles de maintenance.
+La région regorge de marines de l'U.S.E.C., qui connaissent clairement l'importance de ce secteur. Ils ont installé des barricades, des trémines et des zones de destruction dans les salles d'entretien.
 
-Les capteurs confirment qu'un détachement Black Ops est entré dans un secteur éloigné de l'installation. Ils ne sont pas encore là, mais le temps presse. Une fois arrivés, vous ne vous contenterez pas de combattre HECU ; vous serez pris entre deux feux entre des forces humaines rivales qui veulent toutes deux votre mort.
+Les détecteurs confirment qu'un détachement Black Ops est entré dans un secteur éloigné de l'installation. Ils ne sont pas encore là, mais l'horloge tourne. Une fois qu'ils arriveront, vous ne combattrez pas seulement HECU ; vous serez pris dans un feu croisé entre les forces humaines rivales qui veulent tous deux que vous mouriez.
 
-Les relais de puissance sont cachés derrière des couches de couloirs brisés et de puits de maintenance à moitié inondés. Attendez-vous à des embuscades à chaque étape.
+Les relais électriques sont cachés derrière des couches de couloirs brisés et des puits d'entretien à moitié inondés. Attendez-vous à des embuscades à chaque étape.
 
-Objective: 
+Objective:
 
-Localisez et réactivez le relais d’alimentation principal.
+Localiser et réactiver le relais de puissance primaire.
 
-Effacez suffisamment de soldats pour sécuriser le secteur suffisamment longtemps pour que les systèmes soient opérationnels.
+Assez de soldats pour sécuriser le secteur assez longtemps pour que les systèmes arrivent en ligne.
 
-BLACK MESA, PLANTE ACIDE
+Survivez jusqu'à ce que vous puissiez retourner au cargo et sortir de là.

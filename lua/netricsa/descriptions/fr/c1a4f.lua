@@ -1,13 +1,13 @@
-MESA NOIR, NOYAU DE CHAMBRE TENTACLE
+MESA BLACK, CONTRÔLE DE LA PUISSANCE
 
 
-D'accord, Sam, vous avez trouvé le secteur de contrôle de puissance, le deuxième système clé nécessaire pour activer la purge du réacteur. Sans cela, la séquence d'allumage dans le silo restera hors ligne et ce tentacule surdimensionné n'ira nulle part.
+Sam, tu as trouvé le secteur du contrôle de puissance, le deuxième système clé nécessaire pour activer la purge du réacteur. Sans cela, la séquence d'allumage dans le silo restera hors ligne, et ce tentacule surdimensionné n'ira nulle part.
 
-L'accès pose cependant problème. La seule voie à suivre vous mène à un ancien ascenseur de maintenance. Et j'utilise le terme « ascenseur » de manière vague : il semble que son dernier entretien ait eu lieu avant l'invention du ruban adhésif. Les câbles sont effilochés, le contrepoids est mal aligné et chaque vibration le fait osciller comme un marin ivre.
+L'accès est toutefois un problème. Le seul chemin vers l'avant vous emmène sur un ancien ascenseur d'entretien. Et j'utilise le terme "lifter" vaguement-il semble qu'il a été servi pour la dernière fois avant l'invention de ruban adhésif. Les câbles sont effilés, le contrepoids est désajusté, et chaque vibration fait osciller comme un marin ivre.
 
-Hazards: 
+Hazards:
 
-Les balanes ont niché le long des parois du puits, prêtes à vous entraîner hors de la plate-forme.
+Les barnacles ont niché le long des murs du puits, prêts à vous traîner hors de la plate-forme.
 
 
-Et bien sûr, le risque toujours présent que l’ascenseur abandonne tout simplement la vie à mi-chemin.
+Et bien sûr, le risque toujours présent que l'ascenseur abandonne simplement la vie à mi-chemin.

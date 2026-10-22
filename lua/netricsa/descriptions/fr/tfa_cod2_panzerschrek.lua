@@ -1,20 +1,20 @@
-LANCE-GRENADE ANTICHAR PANZERSHREK (RPZB. 54)
+PANZERSHREK ANTI-TANK GRENADE LAUNCHER (RPZB. 54)
 
 
-ARME : Lance-grenades antichar Panzerschreck (RPzB. 54)
-MUNITIONS : Grenade antichar propulsée par fusée de 88 mm
-ROF : ~1 tir/min
-POIDS : ~9,5kg
+ARME: Lance-grenades antichar Panzerschreck (RPzB. 54)
+MUNITIONS:   grenade antichar de 88 mm
+CADENCE DE TIR:    ~1 prise / min
+POIDS: ~9,5 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Le Panzerschreck, ou « tank terroriste », était un lance-grenades antichar allemand de la Seconde Guerre mondiale. Adoptée en 1943, il s'agissait d'une arme antichar propulsée par fusée et dotée d'un tube de lancement ouvert. La grenade avait une ogive à charge creuse et pouvait pénétrer jusqu'à 220 mm de blindage.
+Le Panzerschreck était un lance-grenades antichar allemand de la Seconde Guerre mondiale. Adopté en 1943, c'était une arme antichar propulsée par fusée avec un tube de lancement ouvert. La grenade avait une ogive en forme de charge et pouvait pénétrer jusqu'à 220 mm d'armure.
 
-Contrairement au précédent RPzB. 43 Ofenrohr, le Panzerschreck était doté d'un bouclier métallique protecteur qui protégeait le tireur des gaz propulseurs chauds pendant le tir. Le lance-grenades était piloté par un équipage de deux hommes : un tireur et un chargeur. La portée effective était d'environ 150 mètres.
+Contrairement au RPzB précédent. 43 Ofenrohr, le Panzerschreck était muni d'un bouclier métallique protecteur qui protégeait le tireur des gaz propulsifs chauds pendant le tir. Le lance-grenades a été opéré par un équipage de deux hommes : un tireur et un chargeur. La portée effective était d'environ 150 mètres.
 
-REMARQUES :
+REMARQUES:
 
-- Conçu principalement pour être utilisé contre les véhicules blindés. La grenade cumulative est capable de pénétrer même dans des cibles bien protégées.
-- Il fonctionne mieux à courte portée, où il est plus facile de toucher de grandes cibles blindées.
-- This is the only instance where the phrase "Let's Get Shrek" is followed not by a green ogre, but by an 88mm anti-tank missile.
-- The protective shield distinguishes the Panzerschreck from the early Ofenrohr and protects the gunner from hot gases.
+- Conçu principalement pour être utilisé contre les véhicules blindés. La grenade cumulée est capable de pénétrer même des cibles bien protégées.
+- Il fonctionne mieux à proximité, où il est plus facile de frapper de grandes cibles blindées.
+- C'est la seule fois où l'expression "Get Shrek" est suivie non pas d'un ogre vert, mais d'un missile antichar de 88 mm.
+- Le bouclier protecteur distingue le Panzerschreck du début de l'Ofenrohr et protège le canonneur des gaz chauds.

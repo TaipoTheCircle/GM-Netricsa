@@ -1,22 +1,22 @@
 XEN, ÎLE D'ENTRÉE
 
 
-The portal tears open, and the world turns inside-out. Pendant une fraction de seconde, vous apercevez le chaos – Freeman sprintant derrière vous, Shephard surgissant d'une entrée latérale et ouvrant le feu sur lui, des éclairs de bouche perdus dans la lueur d'une faille interdimensionnelle. Freeman plonge après vous, mais... n'atterrit pas avec vous.
+Le portail s'ouvre, et le monde tourne à l'intérieur. Pendant une seconde, vous entrez dans le chaos - Freeman sprinting up back you, Shephard éclatant d'une entrée latérale et ouvrant le feu sur lui, muselière flashs perdus dans la lueur de la rupture interdimensionnelle. Freeman plonge après toi, mais... ne atterrit pas avec toi.
 
-Silence. Vous êtes seul. The island of Xen breathes beneath your feet, floating in the endless void.
+Silence. Tu es seule. L'île de Xen respire sous vos pieds, flottant dans le vide infini.
 
-Puis la voix arrive. Ni parlé, ni entendu – implanté directement dans votre crâne.
+Alors la voix vient. Pas parlé, pas entendu - implanté directement dans votre crâne.
 
-"IDIOT".
+C'EST PAS VRAI.
 
-C'est Nihilanth. Aucun traducteur n'est nécessaire. Son ton est un venin enveloppé d'épuisement, un tonnerre télépathique qui fait trembler le roc lui-même. Il sait qui tu es. Il sait pourquoi tu es venu. Et il n'approuve pas.
+C'est Nihilanth. Pas besoin de traducteur. Son ton est venin enveloppé dans l'épuisement, tonnerre télépathique qui fait trembler la roche même. Il sait qui vous êtes. Il sait pourquoi tu es venu. Et il n'approuve pas.
 
-Objective: 
+Objective:
 
-Sécurisez l’île extérieure. Attendez-vous à une forte résistance de Xen – le Nihilanth ne fait pas preuve de subtilité dans son mécontentement.
+Sécurisez l'île extérieure. Attendez-vous à une forte résistance Xen - le Nihilanth n'est pas subtil à propos de son déplaisir.
 
 Localisez le portail. Ce n'est qu'en activant la porte intérieure que vous pourrez descendre plus profondément dans le domaine de Xen.
 
-Be wary: Les créatures de Mental saignent également dans cette dimension, leurs propres portails s'agrippant à l'espace le long des failles de Xen.
+Be wary: Les créatures de Mental saignent aussi dans cette dimension, leurs propres portails se griffant pour l'espace aux côtés des failles de Xen.
 
-Les relevés d'énergie augmentent au centre de l'île. C'est votre chemin vers le bas.
+Les lectures d'énergie pic dans le centre de l'île. C'est ton chemin.

@@ -1,10 +1,10 @@
-XEN, BAIE DES CAPSULE ABANDONNÉE
+XEN, ABANDOND CAPSULE BAY
 
 
-Ceci... n'est pas sur la carte. Les baies à capsules ici sont mortes – littéralement. Les cosses sont fissurées, les fluides asséchés, des étincelles jaillissent des conduits brisés. Tout ce qui couvait ici s'est échappé il y a des siècles ou s'est transformé en poussière. Pas de contrôleurs, pas de gardes, pas de Vortigaunts sifflants qui se cachent dans les coins.
+Ce n'est pas sur la carte. Les baies de la capsule ici sont mortes - littéralement. Les pods sont fissurés, les fluides sont secs, les étincelles jaillissent des conduits cassés. Ce qui incubait ici s'est échappé il y a des siècles ou s'est transformé en poussière. Pas de contrôleurs, pas de gardes, pas de Vortigaunts qui sifflent dans les coins.
 
-Même les « boutons » sur les colonnes – si l’on peut appeler des morceaux de tissus palpitants – ne répondent pas. Les lumières sont éteintes. Les systèmes sont silencieux. Toute cette section ressemble à un mausolée pour une usine de guerre qui a perdu tout intérêt.
+Même les boutons sur les colums - si vous pouvez appeler des boules pulsantes de boutons de tissus - ne répondent pas. Les lumières sont éteintes. Les systèmes sont silencieux. Toute cette section se sent comme un mausolée pour une usine de guerre qui a perdu l'intérêt.
 
-Les forces mentales ressemblent à des ombres reniflant autour d'un réfrigérateur vide. Ils sont juste... curieux.
+Des forces mentales comme des ombres reniflant autour d'un frigo vide. Ils sont juste... curieux.
 
-Recommendation: ne perdez pas votre temps. Il n'y a plus rien à récupérer ou à détruire. Faites demi-tour, revenez sur vos pas et dirigez-vous vers le portail du Nihilanth. C’est là que se situent réellement l’action – et la voie à suivre.
+Recommendation: ne perdez pas votre temps. Il n'y a plus rien à sauver ou à briser. Retournez en arrière, retracez vos pas, et dirigez-vous vers le portail de Nihilanth. C'est là que se trouve l'action et la voie à suivre.

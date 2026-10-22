@@ -1,23 +1,23 @@
-CUCURBITO LA CITROUILLE, PETITE
+CUCURBITO LA PUMPKINE, PETIT
 
 
-CLASS: Cucurbito la citrouille, petite
-METABOLISM: végétarien
+CLASSE:      Cucurbito la citrouille, petite
+MÉTABOLISME: végétalien
 PERCEPTION: génétiquement programmé
-SIZE: 0,8 pied
-ENDURANCE: faible
-HOSTILITY: moyen
-WEAPONS: tronçonneuse
-REWARD: 1500FC
-THREAT: moyen
+TAILLE:       0,8 ft
+ENDURANCE:  faible
+HOSTILITÉ:  moyenne
+ARMES:    tronçonneuse
+RÉCOMPENSE:     1500 FC
+MENACE:     moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un produit terrifiant de l'expérience génétique accidentelle de Mental, créé sous l'influence d'étranges artefacts du XXe siècle. Au réveil, même son créateur fut choqué par cette bête insatiable et effrayante. Cependant, l'expérience s'est poursuivie. Inspiré par le succès (si on peut l'appeler ainsi) de la réduction des taureaux siriens, Mental a continué à expérimenter la taille. Vous pouvez désormais rencontrer des Cucurbitos miniatures. Les versions plus petites conservent la même agressivité sourde et sont armées de minuscules tronçonneuses, mais non moins mortelles. Ils sont dangereux en meute et peuvent attaquer depuis des cachettes, comme des citrouilles.
+Un produit terrifiant de l'expérience génétique accidentelle de Mental, créée sous l'influence d'objets étranges du XXe siècle. Au réveil, même son créateur fut choqué par cette bête insatiable et effrayante. Cependant, l'expérience a continué. Inspiré par le succès (si vous pouvez l'appeler comme ça) de rétrécir les taureaux siriens, Mental continue d'expérimenter avec la taille. Vous pouvez maintenant rencontrer des Cucurbitos miniatures. Les versions plus petites conservent la même agressivité terne et sont armées de petites tronçonneuses, mais pas moins mortelles. Ils sont dangereux en paquets et peuvent attaquer des lieux cachés, comme les citrouilles.
 
-TIPS: 
+CONSEILS:
 
-- Très stupide, mais s'il est attrapé, extrêmement dangereux.
-- Sortez de la ligne de vue de l'attaque.
-- Les armes à zone d'effet sont efficaces contre les versions miniatures.
-- Méfiez-vous des essaims de Cucurbitos miniatures : ils peuvent soudainement émerger des citrouilles-lanternes troyennes.
+- Très stupide, mais si pris, extrêmement dangereux.
+- Sortez de la ligne de tir de l'attaque.
+- Les armes à effet de surface sont efficaces contre les versions miniatures.
+- Méfiez-vous des essaims de Cucurbitos miniatures - ils peuvent soudainement émerger de Trojan Jack-o'-lanterns.

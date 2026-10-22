@@ -1,23 +1,23 @@
-PISTOLET M1911
+M1911 PISTOL
 
 
-ARME : M1911 Pistol
-MUNITIONS : .45 ACP
-ROF : Semi-automatic, ~60 rounds / minute
-POIDS : ~1,1 kg
+ARME: M1911 Pistol
+MUNITIONS:   45 ACP
+CADENCE DE TIR:    Semi-automatique, ~60 tours / minute
+POIDS: ~1,1 kg
 
-DESCRIPTION :
+DESCRIPTION:
 
-Ce pistolet semi-automatique américain chambré pour la cartouche .45 ACP se caractérise par sa conception simple, sa grande fiabilité et son pouvoir d'arrêt important. Conçu par John Browning et adopté par l'armée américaine en 1911.
+Ce pistolet semi-automatique américain en chambre pour la cartouche ACP .45 se caractérise par sa conception simple, sa grande fiabilité et sa puissance d'arrêt importante. Conçu par John Browning et adopté par l'armée américaine en 1911.
 
-Le pistolet utilise un chargeur à 7 cartouches et fonctionne sur le principe d'un mécanisme à verrou verrouillé à recul court. Grâce à son gros calibre, le M1911 est capable d'engager efficacement des cibles à courte et moyenne portée.
+Le pistolet utilise un chargeur à 7 tours et fonctionne selon le principe d'un mécanisme à culot verrouillé à courte distance. Grâce à son grand calibre, le M1911 est capable d'engager efficacement des cibles à portée proche et moyenne.
 
-REMARQUES :
+REMARQUES:
 
-- Chargeur 7 coups.
-- Pouvoir d'arrêt élevé de la cartouche .45 ACP.
-- Bonne précision à courte et moyenne portée.
+- un magazine à 7 tours.
+- Haute puissance d'arrêt de la cartouche ACP .45.
+- Bonne précision à portée étroite et moyenne.
 - Conception simple et fiable.
-- Efficace principalement à courte et moyenne portée.
-- La petite capacité du chargeur nécessite un rechargement rapide.
-- Le mécanisme semi-automatique permet des prises de vue rapides.
+- efficace principalement à courte et moyenne portée.
+- Une petite capacité de magazines nécessite un rechargement rapide.
+- Mécanisme semi-automatique permettant un suivi rapide.

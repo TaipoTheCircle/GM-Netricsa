@@ -1,17 +1,17 @@
-SCIE CIRCULAIRE
+CIRCULAIRE
 
 
-WEAPON: Scie circulaire
-AMMO: Aucun
-ROF: Continu tout en maintenant la gâchette
+ARME: Scie circulaire
+MUNITIONS:   Aucune 
+CADENCE DE TIR:    En continu pendant la retenue du déclencheur 
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un outil de mêlée amélioré pour le combat. Scie circulaire avec lame chromée et corps jaune doté d'un petit écran et de tuyaux d'échappement. La scie inflige des dégâts élevés à courte portée, en particulier contre les ennemis faibles et les accessoires destructibles.
+Un outil de melee amélioré pour le combat. Scie circulaire avec une lame chromée et un corps jaune avec un petit écran et des tuyaux d'échappement. La scie est très endommagée, surtout contre les ennemis faibles et les accessoires destructibles.
 
-NOTES: 
+REMARQUES:
 
-- Max damage per slice: 50.
-- À courte portée uniquement ; pas efficace contre les tireurs à longue portée.
-- Excellent pour éliminer des foules d'ennemis plus faibles comme les lézards, les bouledogues épineux, les squelettes Kleer sans utiliser de munitions à distance.
-- Utile pour casser des caisses et des objets du monde destructibles sans coût en munitions.
+- Dégât maximal par tranche : 50.
+- Ferme portée seulement; pas efficace contre les tireurs à longue portée.
+- Excellent pour nettoyer les foules d'ennemis plus faibles comme Lizards, Bulldogs Spiky, Skeletons Kleer sans utiliser de munitions variées.
+- Utile pour casser des caisses et des objets du monde destructibles sans coût de munitions.

@@ -1,20 +1,20 @@
-TROPICAL GRASSHOPPER FROM THE KRIEGER ARCHIPELAGO
+GRASSHOPPER TROPIQUE DE L'ARCHIPELAGO KRIEGER
 
 
-CLASS: Sauterelle tropicale
-METABOLISM: Insecte, Orthoptères
+CLASSE:      Grasshopper tropical
+MÉTABOLISME: Insecte, Orthoptère
 PERCEPTION: Insecte de l'archipel
-SIZE: 0,03 pied
-ENDURANCE: Extrêmement faible
-HOSTILITY: Aucun
-WEAPONS: Aucun
-REWARD:     1 FC
-THREAT: Aucun
+TAILLE:       0,03 ft
+ENDURANCE:  Très bas
+HOSTILITÉ:  Aucune
+ARMES:    Aucune
+RÉCOMPENSE:     1 FC
+MENACE:     Aucune
 
 DESCRIPTION:
 
-A small tropical insect that lives in the grass and shrubs of the archipelago. It behaves similar to a fly: Lorsqu'il est menacé, il effectue un vol sauté court et bruyant sur plusieurs mètres, puis se fige à nouveau. Il n'attaque pas et n'interagit pas avec d'autres créatures.
+Petit insecte tropical qui vit dans l'herbe et les arbustes de l'archipel. Il se comporte comme une mouche : lorsqu'il est menacé, il fait un court et bruyant saut-vol pendant plusieurs mètres, puis il gèle à nouveau. Il n'attaque ni n'interagit avec d'autres créatures.
 
-TIPS:
+CONSEILS:
 
-- Attaquer ne sert à rien. Ce n'est pas une ressource.
+- L'attaque est inutile. Ce n'est pas une ressource.

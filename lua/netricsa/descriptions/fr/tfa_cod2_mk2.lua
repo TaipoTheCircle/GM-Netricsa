@@ -1,16 +1,16 @@
-MK2 HAND GRENADE
+MK2 MAIN GRENADE
 
 
-ARME : Mk2 Hand Grenade
-MUNITIONS : Fragmentation grenades
-ROF : Manual throw, ~12 throws / min
+ARME:      Grenade à main Mk2
+MUNITIONS:        Grenades à fragmentation
+CADENCE DE TIR:         Lancement manuel, ~12 lancers / min
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Grenade à fragmentation standard conçue pour une utilisation par l'infanterie. Délivre une explosion puissante avec un large éclat d'obus après une mèche chronométrée. Efficace pour chasser les ennemis de leur abri ou éliminer des groupes.
+Grenade à fragmentation standard conçue pour l'infanterie. Fournit une explosion puissante avec de larges éclats étalés après un fusible chronométré. Efficace pour chasser les ennemis de la couverture ou des groupes de compensation.
 
-REMARQUES :
+REMARQUES:
 
-- Dégâts de zone importants, mortels dans les espaces confinés.
-- Le fusible temporisé permet de cuisiner pour des lancers de précision.
-- Risk of self-harm if misused or poorly timed.
+- Dommages à grande surface, mortels dans les espaces confinés.
+- Fusée chronométrée permet la cuisson pour les lancers de précision.
+- Risque d'automutilation en cas d'abus ou de retard.

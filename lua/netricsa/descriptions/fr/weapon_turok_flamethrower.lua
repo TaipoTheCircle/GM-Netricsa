@@ -1,18 +1,18 @@
 ESUS "FIRE BLADE" FLAMETHROWER
 
 
-ARME : ESUS "Fire Blade" Flamethrower
-MUNITIONS : Gas, Incendiary Gel
+ARME: Lance-flammes ESUS "Lame d'incendie"
+MUNITIONS:   Gaz, gel incendiaire
 
-DESCRIPTIF :
+DESCRIPTION:
 
-A powerful, short-range flamethrower that unleashes a stream of red-hot flame. This weapon deals massive damage at close range and can literally fry anything it touches.
+Un puissant lance-flammes à courte portée qui déclenche un flot de flammes rouges. Cette arme inflige des dégâts massifs à portée de main et peut littéralement faire frire tout ce qu'elle touche.
 
-The secondary mode transforms the Fire Blade into a grenade launcher with napalm charges. The grenade travels a long distance and creates a fiery area upon detonation. This weapon is especially effective against large insects and other creatures.
+Le mode secondaire transforme la lame de feu en lance-grenades avec charge de napalm. La grenade voyage sur une longue distance et crée une zone de feu lors de la détonation. Cette arme est particulièrement efficace contre les gros insectes et d'autres créatures.
 
-REMARQUES :
+REMARQUES:
 
-- Primary mode is excellent for close-quarters combat.
-- The napalm grenade turns a distant target into very bad news.
-- Can detonate geothermal vents, causing a powerful explosion.
-- If the enemy hasn't burned, it means he's not close enough yet.
+- Le mode primaire est excellent pour le combat à proximité.
+- La grenade napalm transforme une cible lointaine en très mauvaise nouvelle.
+- Peut exploser des évents géothermiques, provoquant une explosion puissante.
+- Si l'ennemi n'a pas brûlé, il n'est pas encore assez proche.

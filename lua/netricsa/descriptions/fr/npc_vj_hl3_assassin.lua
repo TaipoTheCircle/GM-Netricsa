@@ -1,25 +1,25 @@
-COMBINEZ L'ASSASSIN ALIEN
+L'ASSASSIN DE L'ALIEN DE COMBINE
 
 
-CLASS: Combiner Alien Assassi
-METABOLISM: Organisme extraterrestre partiellement modifié
-PERCEPTION: Unité de frappe expérimentale Combine
-SIZE: 7,5 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Extrême
-WEAPONS: Griffes, couteaux, grenades leurres, fumigènes
-REWARD: 800 FC
-THREAT: Très élevé
+CLASSE:      Combiner Alien Assassi
+MÉTABOLISME: Organisme étranger partiellement modifié
+PERCEPTION: Unité expérimentale de frappe combinée
+TAILLE:       7,5 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Extrême
+ARMES:    Griffes, couteaux, grenades de leurre, dispositifs de fumée
+RÉCOMPENSE:     800 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-L'Alien Assassin est conçu comme un soldat Combine très mobile. C'est un extraterrestre humanoïde avec une peau extrêmement pâle, des pointes rouges sur la tête et un masque respiratoire. Des tubes dépassent de ses orbites et ses bras se terminent par de longues griffes acérées capables de trancher ses proies d'un seul coup. Ses pieds n'ont que deux orteils.
+L'Assassin Alien est conçu comme un soldat hautement mobile. C'est un alien humanoïde avec une peau extrêmement pâle, des pointes rouges sur la tête et un masque respiratoire. Les tubes sortent de ses bases oculaires, et ses bras se terminent par de longues griffes pointues capables de couper sa proie en un seul coup. Ses pieds n'ont que deux orteils.
 
-L'Assassin se distingue par une vitesse et une durabilité extrêmes. Au combat, il change constamment de position, effectuant des sauts, des roulades et des courses brusques, restant rarement au même endroit. Il peut créer un écran de fumée, disparaissant soudainement de la vue, puis attaquer par le flanc ou par l'arrière. Son arsenal comprend des couteaux de lancer et des grenades pièges, vraisemblablement placés sur son dos.
+L'Assassin se distingue par sa vitesse et sa durabilité extrêmes. Au combat, il change constamment de position, effectuant des sauts, des rouleaux et des tirets aigus, demeurant rarement à un seul endroit. Il peut créer un écran de fumée, soudainement disparaître de la vue, puis attaquer du flanc ou de l'arrière. Son arsenal comprend le lancement de couteaux et de grenades piégées, probablement placées sur son dos.
 
-Le bras gauche de l'Assassin porte une sphère orange distinctive, ressemblant visuellement à un Crémateur. La similitude dans la structure des avant-bras et des épaules suggère une possible relation de bio-ingénierie entre ces espèces, bien que le but de l'Assassin soit plus furtif et ciblé.
+Le bras gauche de l'Assassin porte une sphère orange caractéristique, ressemblant visuellement à un crémateur. La similarité de la structure des avant-bras et des épaules suggère une relation possible de bioingénierie entre ces espèces, bien que le but de l'Assassin soit plus furtif et ciblé.
 
-TIPS: 
+CONSEILS:
 
-- Gardez vos distances - un combat rapproché avec lui est presque toujours une proposition perdante.
-- Ne restez pas immobile - il aime attaquer à couvert.
+- Gardez votre distance - un combat étroit avec lui est presque toujours une proposition perdante.
+- Ne restez pas immobile - il aime attaquer de la couverture.

@@ -1,22 +1,22 @@
-CALMAR DE XEN
+BULLSQUIDES DE XEN
 
 
-CLASS: Calmar
-METABOLISM: omnivore agressif
-PERCEPTION: Prédateur terrestre
-SIZE: 7-8 pieds
-ENDURANCE: moyen-élevé
-HOSTILITY: extrême
-WEAPONS: tentacules, griffes, coup de queue, crachat toxique
-REWARD: 350FC
-THREAT: moyen-élevé
+CLASSE:      Taureau
+MÉTABOLISME: omnivore agressif
+PERCEPTION: Predator terrestre
+TAILLE:       7-8 pieds
+ENDURANCE:  moyenne-élevée
+HOSTILITÉ:  extrême
+ARMES:    tentacules, griffes, crachats toxiques
+RÉCOMPENSE:     350 FC
+MENACE:     moyenne-élevée
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Bullsquid est un prédateur sauvage de Xen, connu pour son agressivité imprévisible. Avec une constitution musclée et des mâchoires en forme de tentacules, il attaque tout ce qui pénètre sur son territoire : les humains, les extraterrestres ou même les siens. Il utilise des crachats toxiques à distance pour ramollir ses proies avant de se rapprocher avec ses griffes et un coup de queue dévastateur. Sur Terre, ils constituaient un danger constant dans le centre de recherche de Black Mesa, traquant les canaux et les tunnels. Leur hostilité implacable et leurs cris bizarres en font l'un des prédateurs Xen en liberté les plus redoutés.
+Le calmar est un prédateur sauvage de Xen, connu pour son agression imprévisible. Avec une construction musculaire et des mâchoires de type tentacule, il attaque tout ce qui entre sur son territoire-humains, extraterrestres, ou même son propre genre. Il utilise des crachats toxiques pour adoucir les proies avant de se refermer avec des griffes et une queue dévastatrice. Sur Terre, ils constituaient un danger constant dans le Centre de recherche Black Mesa, traquant les canaux d'eau et les tunnels. Leur hostilité incessante et leur effervescence bizarre font d'eux l'un des prédateurs Xen les plus craints.
 
-TIPS: 
+CONSEILS:
 
-- Ne sous-estimez pas leurs crachats à distance, c'est à la fois douloureux et désorientant.
-- Circuler en cercle pour éviter le coup de queue.
-- Utilisez des explosifs ou un tir rapide pour les abattre avant qu'ils ne se rapprochent.
+- Ne sous-estimez pas leur cracher-c'est à la fois douloureux et désorientant.
+- Cercle pour éviter la queue.
+- Utilisez des explosifs ou un feu rapide pour les faire tomber avant qu'ils ne se rapprochent.

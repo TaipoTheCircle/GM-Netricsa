@@ -1,22 +1,22 @@
-ARBUZINO LA Pastèque
+ARBUZINO L'EAU
 
 
-CLASS: Arbuzino La Pastèque
-METABOLISM: Végétarien
+CLASSE:      Arbuzino La pastèque
+MÉTABOLISME: Végétérien
 PERCEPTION: Génétiquement programmé
-SIZE: 7,5 pieds
-ENDURANCE: Moyen
-HOSTILITY: Moyen
-WEAPONS: Tronçonneuse
-REWARD: 2500FC
-THREAT: Moyen
+TAILLE:       7,5 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Moyenne
+ARMES:    Chaînes
+RÉCOMPENSE:     2500 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Ce monstre a été génétiquement modifié par Mental un week-end lorsque ses agents voyageant dans le temps sont revenus avec des échantillons de médias du 20e siècle.  Parmi les objets figuraient un CD d'un groupe dont le nom avait quelque chose à voir avec la destruction des légumes, un film mettant en vedette Brut Renyolds et un joueur de banjo souriant, ainsi qu'un vieil exemplaire de « Lumberjack Digest ». Alors qu'il insérait la dernière partie de 1979 dans cette abomination, celle-ci reprit vie et même le Notorius Mental vacilla à la vue de cette pastèque aux choses gourmandes. Juste un parfait exemple de Mental Rolling dans son Infinite Badness.
+Ce monstre a été génétiquement conçu par Mental un week-end quand ses agents de voyage temps est revenu avec des échantillons de médias du 20ème siècle. Un CD d'un groupe dont le nom avait quelque chose à voir avec la destruction de légumes, un film avec Brut Renyolds et un joueur de banjo souriant, et une vieille copie de "Lumberjack Digest". Alors qu'il inscrivait la dernière partie, 1979ème partie dans cette abomination, elle s'est étendue à la vie et même le Notorius Mental a fauché à la vue de cette pastèque aux choses gluttoneuses. Juste un parfait exemple de mental Rolling dans sa maladresse infinie.
 
-TIPS: 
+CONSEILS:
 
-- Ils sont plutôt bêtes mais dangereux lorsqu'ils commencent à te suivre.
+- Ils sont assez bêtes mais dangereux quand ils commencent à te suivre.
 - Plus dangereux que la citrouille.
-- Évitez-les en les contournant.
+- Évitez-les en les écartant.

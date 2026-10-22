@@ -1,42 +1,42 @@
-ROCKET RAIDER DU CYBERSTAN
+RAIDE DE ROCKET DU CYBESTAN
 
 
-CLASS: Pilleur de fusée
-METABOLISM: Mécanique
-PERCEPTION: Antichar, Anti-infanterie
-SIZE: 8,2 pieds
-ENDURANCE: Haut
-HOSTILITY: Absolu
-WEAPONS: Lance-roquettes à tambour
-REWARD: 150 FC
-THREAT: Absolu
+CLASSE:       Raider à la roche
+MÉTABOLISME:  Mécanique
+PERCEPTION:  Antidérapante, anti-infanterie
+TAILLE:        8,2 pi
+ENDURANCE:   Haut
+HOSTILITÉ:   Absolu
+ARMES:     Lance-roquette de type tambour
+RÉCOMPENSE:      150 FC
+MENACE:      Absolu
 
-DESCRIPTION: 
+DESCRIPTION:
 
-C'est l'une des unités de combat les plus dangereuses de la faction Automata. Extérieurement, il ressemble à un Raider standard, un robot bipède. Monté sur son épaule se trouve un puissant lance-roquettes à tambour, prêt à transformer n'importe quel Helldiver en une brume sanglante.
+C'est l'une des unités de combat les plus dangereuses de la faction Automata. À l'extérieur, il ressemble à un robot Raider standard. Monté sur son épaule est un puissant lance-roquettes de type tambour, prêt à transformer n'importe quel Helldiver en brouillard sanglant.
 
-Comme tous les Automates, le Rocket Raider a une forme humanoïde, un corps en métal gris, des yeux à capteur rouges et une tête montée sur une mitrailleuse. Il peut porter un bouclier sur son bras gauche et un lance-roquettes sur son bras droit. La principale différence réside dans le lance-roquettes sur son épaule et les indicateurs verts distinctifs qui indiquent qu'il est prêt au lancement.
+Comme tout Automata, le Rocket Raider a une forme humanoïde, un corps en métal gris, des yeux de capteur rouges et une tête montée par mitrailleuse. Il peut porter un bouclier sur son bras gauche et un lance-roquette sur sa droite. La principale différence est le lance-roquettes sur son épaule et les indicateurs verts distinctifs qui indiquent la préparation au lancement.
 
-Au combat, le Rocket Raider occupe une position à moyenne et longue portée. Il évite les combats rapprochés, préférant tirer des roquettes sur ses adversaires à couvert. Ses roquettes infligent des dégâts importants, ont un grand rayon d'explosion et peuvent pénétrer le blindage même des Helldivers les mieux équipés.
+Au combat, le Rocket Raider occupe une position de milieu à long terme. Il évite les combats serrés, préférant tirer des roquettes sur les adversaires de la couverture. Ses fusées causent des dégâts importants, ont un grand rayon d'explosion, et peuvent pénétrer l'armure même des Helldivers les mieux équipés.
 
-Le lance-roquettes tire en rafales. Une seule salve peut tirer jusqu'à 4 à 6 roquettes, qui se propagent dans différentes directions, couvrant une vaste zone.
+Le lance-roquettes tire en éclats. Un seul salvo peut tirer jusqu'à 4-6 roquettes, qui se sont répandues dans différentes directions, couvrant une grande zone.
 
-The Rocket Raider operates in a group with other Automatons: Raiders blindés, commandants et infanterie automatique régulière. Son travail consiste à détruire les Helldivers à longue portée, couvrant ainsi l'avancée des unités à courte portée.
+The Rocket Raider operates in a group with other Automatons: Raiders blindés, commandants, et l'infanterie régulière Automaton. Son travail est de détruire Helldivers à long terme, couvrant l'avance des unités de proximité.
 
-The Rocket Raider has several weak points: 
+The Rocket Raider has several weak points:
 
-Le moteur sur le dos. Frapper le moteur provoque des dégâts accrus et peut provoquer une détonation.
+Le moteur sur son dos. Le fait de frapper le moteur provoque des dommages accrus et peut provoquer une détonation.
 
 La tête est vulnérable, mais moins.
 
-Le lance-roquettes : s'il est touché, il peut provoquer une explosion prématurée, tuant le Raider et endommageant tout le monde autour de lui.
+Le lanceur de fusée - s'il est touché, il peut causer une explosion prématurée, tuer le Raider et endommager tout le monde autour.
 
-TIPS: 
+CONSEILS:
 
-- Lorsque le Rocket Raider apparaît, ne restez pas à découvert. Ses roquettes vous tueront en une seconde.
-- Use cover: bâtiments, rochers, cratères et même boucliers Helldiver.
-- Les fusées ont un son de lancement. Si vous entendez un sifflement distinctif, déplacez-vous immédiatement sur le côté ou plongez au sol.
-- The best weapons against a Rocket Raider are: Des RPG (EAT-17, Recoilless Rifle), des fusils de sniper (Anti-Matériel Rifle), des canons laser (comme le LAS-98) ou un fusil de chasse avec des cartouches perforantes à courte portée.
-- N'essayez pas d'attaquer de front avec un fusil ordinaire. Vous gaspillerez simplement vos munitions.
-- Si le Raider tire une volée et recharge, c'est votre chance d'attaquer.
-- En groupe avec des porteurs de bouclier, tuez d'abord le Rocket Raider, puis affrontez les ennemis proches.
+- Quand le Rocket Raider apparaît, ne reste pas ouvert. Ses fusées vous tueront dans une seconde.
+- Couverture : bâtiments, rochers, cratères, même boucliers Helldiver.
+- Les fusées ont un son de lancement. Si vous entendez le sifflet distinctif, passez immédiatement sur le côté ou plongez au sol.
+- Les meilleures armes contre un Rocket Raider sont : les RPG (EAT-17, Rifle sans recul), les fusils à sniper (Anti-Matériel Rifle), les canons laser (comme le LAS-98), ou un fusil avec des balles de tir à portée rapprochée.
+- N'attaquez pas la tête avec un fusil. Tu vas gâcher tes munitions.
+- Si le Raider tire un volley et se recharge, c'est votre chance d'attaquer.
+- Dans un groupe avec des porteurs de boucliers, tuer le Rocket Raider d'abord, puis traiter avec les ennemis voisins.

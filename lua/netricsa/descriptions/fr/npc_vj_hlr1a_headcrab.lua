@@ -1,22 +1,22 @@
-CRABE ALPHA DE XEN
+ALPHA HEADCRAB DE XEN
 
 
-CLASS: Crabe, Alpha
-METABOLISM: prédateur parasite
-PERCEPTION: Arme biologique
-SIZE: 3,5 pieds
-ENDURANCE: moyen
-HOSTILITY: extrême
-WEAPONS: morsure puissante, saut en embuscade
-REWARD: 400FC
-THREAT: haut
+CLASSE:      Gratte-tête, Alpha
+MÉTABOLISME: prédateur parasitaire
+PERCEPTION: Armes biologiques
+TAILLE:       3,5 pieds
+ENDURANCE:  moyenne
+HOSTILITÉ:  extrême
+ARMES:    bouchée puissante, saut d'embuscade
+RÉCOMPENSE:     400 FC
+MENACE:     élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-L'Alpha Headcrab est une évolution terrifiante du parasite standard. Plus grand, plus volumineux et de couleur rouge sang, il suscite la peur grâce à sa puissance brute. Contrairement à ses cousins ​​plus petits, la morsure de l'Alpha est instantanément mortelle pour un humain non protégé : un seul coup suffit à le tuer sur le coup. Il conserve toujours les tactiques d'embuscade classiques de son espèce, sautant des ombres ou des plafonds, mais sa vitesse et sa taille rendent son évasion bien plus difficile. Dans Xen, ces mutants agissent comme des parasites au sommet et sur Terre, ils constituent l’un des risques biologiques les plus redoutés.
+Le cabillaud Alpha est une évolution terrifiante du parasite standard. Plus grande, plus volumineuse et rouge sang, elle commande la peur avec sa puissance brute. Contrairement à ses cousins plus petits, la morsure de l'Alpha est instantanément mortelle pour un humain non protégé - une seule frappe suffit à tuer carrément. Il conserve toujours la tactique classique de l'embuscade de son espèce, bondissant des ombres ou des plafonds, mais sa vitesse et sa taille rendent l'évasion beaucoup plus difficile. À Xen, ces mutants agissent comme des parasites du sommet, et sur Terre, ils sont l'un des risques biologiques les plus redoutés.
 
-CONSEILS
+TIPS
 
-- Ne le laissez jamais s'approcher, sa morsure est instantanément mortelle.
-- Gardez vos distances et utilisez des armes à gros dégâts.
-- Attendez-vous à des embuscades depuis les plafonds, les bouches d'aération et les ombres.
+- Ne le laissez jamais s'approcher - sa morsure est instantanément fatale.
+- Gardez vos distances et utilisez des armes à haut risque.
+- S'attendre à des embuscades des plafonds, des évents et des ombres.

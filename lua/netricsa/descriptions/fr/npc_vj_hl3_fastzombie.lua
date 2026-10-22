@@ -1,23 +1,23 @@
-CRABE ZOMBIE RAPIDE, ARCTIQUE
+FAST ZOMBIE HEADCRAB, ARCTIC
 
 
-CLASS: Crabe-tête zombie, rapide (Arctique)
-METABOLISM: Hôte parasite, résistant au froid
+CLASSE:      Gratte de tête de zombie, rapide (arctique)
+MÉTABOLISME: Animateur parasitaire résistant au froid
 PERCEPTION: Entité zombifiée
-SIZE: 5,9 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Extrême
-WEAPONS: Griffes, saut, vitesse extrême
-REWARD: 280 FC
-THREAT: Moyen-élevé
+TAILLE:       5,9 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Extrême
+ARMES:    Griffes, saut, vitesse extrême
+RÉCOMPENSE:     280 FC
+MENACE:     Moyenne-élevée
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le crabe arctique rapide zombie est l’un des résultats les plus effrayants d’une infestation dans le froid perpétuel. Son corps, brisé par le parasite, conserve sa forme squelettique caractéristique, mais est désormais recouvert de fragments de glace et de chair gelée. Le crabe rapide s'enfouit profondément dans le crâne, se protégeant ainsi davantage du froid et des dommages.
+L'arctic Fast Zombie Headcrab est l'un des résultats les plus effrayants de l'infestation dans le froid perpétuel. Son corps, brisé par le parasite, conserve sa forme squelettique caractéristique, mais est maintenant recouvert de fragments de glace et de chair congelée. Le crâne se jette profondément dans le crâne, se protégeant davantage du froid et des dommages.
 
-Contrairement aux zombies rapides ordinaires, l'Arctique ne perd pas de vitesse sur la neige et la glace. La créature se déplace à quatre pattes, poussant brusquement avec ses membres griffus et s'accrochant aux surfaces avec une confiance effrayante. Il peut escalader des structures glacées et faire de longs sauts, utilisant le terrain environnant comme terrain de chasse.
+Contrairement aux zombies rapides réguliers, l'Arctique ne perd pas de vitesse sur la neige et la glace. La créature se déplace à quatre pattes, poussant brusquement avec ses membres griffés et s'accrochant aux surfaces avec une confiance effrayante. Il peut escalader des structures glacées et faire de longs sauts en utilisant le terrain environnant comme terrain de chasse.
 
-TIPS: 
+CONSEILS:
 
-- Ne le laissez pas entrer à portée de saut.
-- De courtes rafales de feu peuvent l'arrêter en pleine attaque.
+- Ne le laissez pas faire.
+- De courtes explosions de feu peuvent l'arrêter à mi-attaque.

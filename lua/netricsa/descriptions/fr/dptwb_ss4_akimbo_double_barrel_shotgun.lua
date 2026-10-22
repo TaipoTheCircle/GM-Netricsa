@@ -1,16 +1,16 @@
-PISTOLET D'ENTRAÎNEUR À DOUBLE CANON
+COUVERTURE DOUBLE DE LA CHAQUE
 
 
-ARME : Pistolet d'entraîneur à double canon
-MUNITIONS : obus de calibre 12
-ROF : deux obus à rechargement manuel
-CANON: 20"
+ARME:    Gun d'entraîneur double barre
+MUNITIONS:      12 Coques de jauge
+CADENCE DE TIR:       rechargement manuel de deux coquilles
+BARREL:    20"
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Fusil de chasse standard à double canon de calibre 12. Efficace pour l'élimination à courte portée des ennemis de taille moyenne, mais disperse trop les plombs pour être utilisé pour le tir à longue distance. 
+Fusil de chasse standard à double barre de calibre 12. Efficace pour l'élimination à courte portée des ennemis de taille moyenne, mais disperse les pastilles trop à utiliser pour le tir à longue distance.
 
-REMARQUES :
+REMARQUES:
 
-- Lent en raison d'un rechargement entièrement manuel.
-- Inefficace à longue portée.
+- Lentement en raison d'un rechargement complètement manuel.
+- Inefficient à long terme.

@@ -1,22 +1,22 @@
-MITRAILLEUSE BERETTA MAB 38
+BÉRETTA MAB 38 SUBMACHINE GUN
 
 
-ARME : Beretta MAB 38 Submachine Gun
-MUNITIONS : 9x19mm Parabellum
-RR:     ~600 rounds / min
-POIDS : ~4,2 kg
+ARME: Pistolet sous-machine Beretta MAB 38
+MUNITIONS:   Parabellum 9x19mm
+RR:     ~600 tours/min
+POIDS: ~4,2 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-The Beretta MAB 38, also known as the Modello 38, is an Italian submachine gun designed by Tulio Maregni and introduced in 1938. The weapon was designed with an emphasis on reliability, accuracy, and high build quality. Despite its relatively heavy weight, the MAB 38 earned a reputation as one of the most successful Italian small arms of World War II.
+La Beretta MAB 38, également connue sous le nom de Modello 38, est une mitrailleuse italienne conçue par Tulio Maregni et introduite en 1938. L'arme a été conçue en mettant l'accent sur la fiabilité, la précision et la qualité de construction. Malgré son poids relativement lourd, le MAB 38 a gagné une réputation comme l'une des armes légères italiennes les plus réussies de la Seconde Guerre mondiale.
 
-La mitraillette utilise une action de retour de flamme et tire à partir d'un verrou ouvert. Une caractéristique intéressante des premières variantes était leur double gâchette : celle de l'avant était destinée au tir à un coup, tandis que celle de l'arrière était destinée au tir entièrement automatique. Cela a éliminé la nécessité pour le tireur de basculer entre les modes de tir.
+Le pistolet à sous-machine utilise une action de rappel et tire d'un boulon ouvert. Une caractéristique intéressante des premières variantes était leurs deux déclencheurs: l'avant était pour les tirs à simple tir, tandis que l'arrière était pour l'auto. Cela a éliminé la nécessité pour le tireur de basculer entre les modes d'incendie.
 
-The MAB 38 was used by Italian military, police, and special forces units, including paratroopers and assault troops. Thanks to its excellent accuracy, the weapon remained effective not only in close combat but also at ranges of approximately 200 meters.
+Le MAB 38 a été utilisé par les unités militaires, policières et des forces spéciales italiennes, y compris les parachutistes et les troupes d'assaut. Grâce à son excellente précision, l'arme est restée efficace non seulement au combat rapproché, mais aussi à des distances d'environ 200 mètres.
 
-REMARQUES :
+REMARQUES:
 
-- It boasts good accuracy for a submachine gun and performs particularly well at close and medium ranges.
-- Les doubles gâchettes permettent à l'utilisateur de choisir entre un tir unique et un tir entièrement automatique du bout du doigt, sans sélecteur séparé.
-- The MAB 38 was long considered the weapon of choice for the most well-equipped units, including Italian paratroopers and assault troops.
-- Il est lourd, bien construit et tire très bien. Les Italiens ont clairement décidé qu'une mitraillette méritait également d'être bien assemblée.
+- Il dispose d'une bonne précision pour une mitrailleuse et se comporte particulièrement bien à proximité et à moyenne portée.
+- Doubles déclencheurs permettent à l'utilisateur de sélectionner entre un seul tir et un feu plein-auto avec un seul bout de doigt, sans sélecteur séparé.
+- Le MAB 38 a longtemps été considéré comme l'arme de choix pour les unités les plus bien équipées, y compris les parachutistes italiens et les troupes d'assaut.
+- C'est lourd, bien construit, et tire très bien. Les Italiens ont clairement décidé qu'une mitrailleuse méritait aussi d'être bien assemblée.

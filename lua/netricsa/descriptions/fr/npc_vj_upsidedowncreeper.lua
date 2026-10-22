@@ -1,37 +1,37 @@
-CREEPER À L'ENVERS DU MONDE MINECRAFT
+APRÈS LE CREEPER DU MINECRAFT
 
 
-CLASS: Creeper à l’envers
-METABOLISM: Poudre à canon à gravité
-PERCEPTION: Foule hostile, distorsion de la réalité
-SIZE: 5,5 pieds
-ENDURANCE: Faible
-HOSTILITY: Extrême
-WEAPONS: Explosion anti-gravité
-REWARD: 200FC
-THREAT: Moyen-élevé
+CLASSE:      À l'envers Creeper
+MÉTABOLISME: Gravité-Plante-Poudre
+PERCEPTION: Mob hostile, distortion de la réalité
+TAILLE:       5,5 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Extrême
+ARMES:    Blast antigravité
+RÉCOMPENSE:     200 FC
+MENACE:     Moyenne-haute
 
-DESCRIPTION: 
+DESCRIPTION:
 
-C’est l’une des plantes grimpantes élémentaires les plus étranges. Il ressemble à une plante grimpante normale, mais sa tête est à l'envers. Cela donne l'impression que quelqu'un a pris une plante grimpante normale, lui a retourné la tête et a oublié de retourner le corps.
+C'est l'un des plus étranges des rampants élémentaires. C'est normal, mais sa tête est à l'envers. Cela donne l'impression que quelqu'un a pris un rampant normal, s'est retourné la tête et a oublié de retourner le corps.
 
-When approached by a victim, an Upside Down creeper behaves like a normal creeper: il siffle, gonfle et explose. Cependant, son effet d’explosion est unique.
+Lorsqu'on s'approche d'une victime, un crapaud se comporte comme un crapaud normal : il siffle, gonfle et explose. Cependant, son effet d'explosion est unique.
 
-Lorsqu'une plante grimpante à l'envers explose, elle ne détruit pas de blocs et n'inflige pas de dégâts directs. Au lieu de cela, cela crée un champ de gravité qui modifie la gravité de toutes les créatures situées dans le rayon d'explosion.
+Lorsqu'un rampant à l'envers explose, il ne détruit pas les blocs ou n'endommage pas directement. Au lieu de cela, il crée un champ de gravité qui modifie la gravité de toutes les créatures dans le rayon d'explosion.
 
-Tous les ennemis dans le rayon de l'explosion « tombent » instantanément vers le haut.
+Tous les ennemis dans le rayon de l'explosion "chute" instantanément vers le haut.
 
-Les plantes grimpantes s'élèvent verticalement jusqu'à ce qu'elles atteignent un plafond (s'il y en a un) ou soient soufflées dans le ciel ou dans l'espace.
+Les cris s'élèvent verticalement jusqu'à ce qu'ils atteignent un plafond (s'il y en a un) ou qu'ils soient soufflés dans le ciel ouvert ou dans l'espace.
 
-S'il n'y a pas de plafond, la victime est projetée vers le haut sur des dizaines de centaines de blocs jusqu'à ce que l'effet disparaisse.
+S'il n'y a pas de plafond, la victime est soufflée vers le haut de dizaines de centaines de blocs jusqu'à ce que l'effet s'épuise.
 
-L'effet dure quelques secondes, après quoi la gravité revient à la normale. Si la victime était suffisamment haute lorsqu'elle est tombée, elle retombera et subira des dégâts de chute. S’ils sont projetés dans l’espace, ils sont considérés comme morts.
+L'effet dure quelques secondes, après quoi la gravité revient à la normale. Si la victime était assez élevée quand elle est tombée, elle tombera et subira des dommages. S'ils sont soufflés dans l'espace, ils sont considérés comme morts.
 
-TIPS: 
+CONSEILS:
 
-- Une plante grimpante à l'envers n'est pas dangereuse dans les pièces avec des plafonds bas. Vous vous cognerez simplement la tête contre le plafond et retomberez.
-- C'est mortel dans les zones ouvertes. Une explosion et vous serez envoyé voler dans la stratosphère.
-- Pour éviter d'être lancé, serrez un bloc au-dessus de vous. Si vous vous trouvez sous un surplomb, le champ de gravité ne s'activera pas.
-- Utilisez un bouclier pour bloquer l'onde de choc. Un bouclier n'arrête pas le déplacement de la gravité, mais il réduit la distance à laquelle vous êtes projeté.
-- Tuer une plante grimpante à l'envers a une chance de laisser tomber un éclat à l'envers. Vous pouvez en fabriquer une potion de lévitation, vous permettant de vous élever à volonté.
-- N'essayez pas de vous enfuir. Il siffle comme une plante grimpante ordinaire. Si vous l'entendez siffler, sautez sur le côté, pas vers le haut.
+- Une rampe à l'envers n'est pas dangereuse dans les pièces avec des plafonds bas. Tu vas juste frapper la tête au plafond et tomber.
+- C'est mortel en plein air. Une explosion et vous serez envoyé en vol dans la stratosphère.
+- Pour éviter d'être lancé, embrassez un bloc au-dessus de vous. Si vous êtes debout sous un surplomb, le champ de gravité ne s'activera pas.
+- Utilisez un bouclier pour bloquer l'onde de choc. Un bouclier n'arrête pas le changement de gravité, mais il réduit la distance que vous êtes repoussé.
+- Tuer un crapaud à l'envers a une chance de laisser tomber un crapaud à l'envers. Vous pouvez en fabriquer une potion de lévitation, vous permettant de vous lever à volonté.
+- N'essayez pas de fuir. Ça siffle comme un flippant. Si vous l'entendez, sautez sur le côté, pas en haut.

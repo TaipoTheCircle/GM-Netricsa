@@ -1,27 +1,27 @@
-GORDON FREEMAN
+ALLEMAGNE LIBRE
 
 
-CLASS: Gordon Freeman
-METABOLISM: Humain, mâle
-PERCEPTION: Physicien-Guerrier de la Résistance
-SIZE: 5,9 pieds
-ENDURANCE: Très élevé
-HOSTILITY: Haut
-WEAPONS: Du pied-de-biche aux armes lourdes
-REWARD: 10000FC
-THREAT: Très élevé
+CLASSE:      Gordon Freeman
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Médecin-guerrier résistant
+TAILLE:       5,9 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Haut
+ARMES:    De la barre d'appui aux armes lourdes
+RÉCOMPENSE:     10000 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Gordon Freeman est physicien théoricien au sein d'un H.E.V. Suit qui s'est retrouvé impliqué dans les événements les plus dangereux de l'humanité. Il était un employé de Black Mesa et a participé à l'expérience qui a conduit à la Résonance en Cascade et à l'invasion de la vie extraterrestre sur Terre.
+Gordon Freeman est un physicien théorique dans un H.E.V. Le costume qui s'est retrouvé mêlé aux événements les plus dangereux de l'humanité. Il était employé de Black Mesa et a participé à l'expérience qui a mené à la résonance de Cascade et à l'invasion de la vie extraterrestre sur Terre.
 
-Freeman est un homme de peu de mots, mais il est déterminé. Lors du désastre de Black Mesa, il a été forcé de survivre, de combattre des créatures extraterrestres et de se défendre contre H.E.C.U. forces.
+Freeman est un homme de peu de mots, mais il est déterminé. Pendant la catastrophe de Mesa noire, il a été forcé de survivre, de combattre des créatures extraterrestres et de se défendre contre les forces de S.E.C.U.
 
-En fin de compte, il a réussi à vaincre le Nihilanth, qui maintenait la fracture ouverte de l'autre côté du conflit.
+En fin de compte, il réussit à vaincre le Nihilanth, qui gardait la brèche ouverte de l'autre côté du conflit.
 
-Des années après les événements de Black Mesa, il devient une figure clé de la Résistance contre le Combine, symbole d'espoir et de résistance à l'occupation de la Terre.
+Des années après les événements de Black Mesa, il est devenu une figure clé de la Résistance contre le Combiné, symbole d'espoir et de résistance à l'occupation de la Terre.
 
-TIPS: 
+CONSEILS:
 
-- Il maîtrise une grande variété d'armes, du pied-de-biche aux mitrailleuses lourdes.
-- Gordon survit grâce à la réflexion tactique, à l'adaptation et à la maîtrise des armes.
+- C'est un maître d'une grande variété d'armes, d'une barre à corneilles à des mitrailleuses lourdes.
+Gordon survit par la pensée tactique, l'adaptation et la maîtrise des armes.

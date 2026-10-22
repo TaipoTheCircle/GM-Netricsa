@@ -1,26 +1,26 @@
-COMBINEZ LE SOLDAT BOMBARDIER AU NAPALM D'OVERWATCH
+SURVEILLANCE DES COMBINES
 
 
-CLASS: Combinez le soldat bombardier Overwatch Napalm
-METABOLISM: Humain augmenté, mâle
-PERCEPTION: Déni de zone et brûlage de couverture
-SIZE: 5,9 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Extrême
-WEAPONS: Combinez un bombardier au napalm (rafale de 3 coups)
-REWARD: 750 FC
-THREAT: Très élevé
+CLASSE:      Combinez le soldat bombardier Overwatch Napalm
+MÉTABOLISME: Augmenté Humain, Homme
+PERCEPTION: Incendie et incendie de la zone
+TAILLE:       5,9 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Extrême
+ARMES:    Combiner le bombardier Napalm (3 tours)
+RÉCOMPENSE:     750 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine Overwatch Napalm Bomber Soldier est une variante spécialisée du bombardier à grenade standard, conçu pour interdire totalement la zone. Il porte un camouflage désert, conçu pour les opérations dans les zones arides, les friches industrielles et les ruines, où le feu est l'allié le plus important du Combine.
+Le Combine Overwatch Napalm Bomber Soldier est une variante spécialisée du Grenade Bomber standard, conçu pour le déni total de surface. Il porte le camouflage du désert, conçu pour les opérations dans les zones arides, les friches industrielles et les ruines, où le feu est l'allié le plus important du Combiné.
 
-Extérieurement, il ressemble à un bombardier à grenade standard, mais sa visière rouge révèle immédiatement son véritable objectif. Son bombardier à grenades tire en rafales de trois coups, mais au lieu des explosions habituelles, les grenades explosent instantanément en nuages ​​de napalm, trempant le tout dans une flamme collante.
+À l'extérieur, il ressemble à une grenade standard Bomber, mais sa visière rouge révèle immédiatement son véritable but. Sa grenade Bomber tire en trois rafales, mais au lieu des explosions habituelles, les grenades explosent instantanément dans des nuages de napalm, diluant tout dans une flamme collante.
 
-Le napalm s'enflamme immédiatement au contact d'une surface, ne laissant pas le temps de réagir. Les sols, les murs, les couvertures et même les corps deviennent des sources d'incendie. Ces soldats sont utilisés pour nettoyer les tranchées, les niveaux inférieurs des bâtiments, les puits de ventilation et les zones où l'ennemi tente de se mettre à couvert ou de se creuser.
+Le napalm s'enflamme immédiatement au contact d'une surface, ne laissant aucun temps pour réagir. Les planchers, les murs, la couverture et même les corps deviennent des sources de feu. Ces soldats sont utilisés pour nettoyer les tranchées, les niveaux inférieurs des bâtiments, les puits de ventilation et les zones où l'ennemi essaie de se cacher ou de creuser.
 
-TIPS: 
+CONSEILS:
 
-- Ne reste pas immobile.
-- La visière rouge est facilement visible à travers la fumée et les flammes.
-- Éliminer le soldat avant la première salve.
+- Ne bougez pas.
+- La visière rouge est facilement visible par la fumée et les flammes.
+- Éliminer le soldat avant le premier salvo.

@@ -1,16 +1,16 @@
-PISTOLET-MACHINE MP5
+GUN DE SOUS-MACHINE MP5
 
 
-WEAPON: Mitraillette MP5
-AMMUNITION: Cartouches 9x19 mm
-ROF: ~700 tours/min
+ARME:     Sous-machine MP5
+AMMUNITION: cartouches 9x19 mm 
+CADENCE DE TIR:        ~700 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Une arme automatique polyvalente pour le combat rapproché et moyen terme. Fournit un tir de suppression continu avec une précision acceptable. Utilisé par les forces spéciales dans les opérations antiterroristes.
+Une arme automatique polyvalente pour le combat à portée étroite et moyenne. Fournit un feu coupe-feu continu avec une précision acceptable. Utilisé par les forces spéciales dans les opérations antiterroristes.
 
-NOTES: 
+REMARQUES:
 
-- Efficace contre l'infanterie légèrement blindée.
-- La précision diminue considérablement à longue distance.
-- Idéal pour les opérations en intérieur.
+- Efficace contre l'infanterie légère.
+- L'exactitude diminue significativement à de longues distances.
+- Idéal pour les opérations à l'intérieur.

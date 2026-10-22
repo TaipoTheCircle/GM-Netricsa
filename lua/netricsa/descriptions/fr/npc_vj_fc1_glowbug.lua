@@ -1,20 +1,20 @@
-FIREFLY FROM THE KRIEGER ARCHIPELAGO
+FIREFIELLEMENT DE L'ARCHIPELAGO KRIEGER
 
 
-CLASS: Luciole
-METABOLISM: Insecte
-PERCEPTION: Insecte bioluminescent
-SIZE: 0,06 pied
-ENDURANCE: Très faible
-HOSTILITY: Aucun
-WEAPONS: Aucun
-REWARD:     1 FC
-THREAT: Aucun
+CLASSE:      Feu
+MÉTABOLISME: Insectes
+PERCEPTION: Insecte bioluminescente
+TAILLE:       0,06 ft
+ENDURANCE:  Très faible
+HOSTILITÉ:  Aucune
+ARMES:    Aucune
+RÉCOMPENSE:     1 FC
+MENACE:     Aucune
 
 DESCRIPTION:
 
-Small flying insects that inhabit damp and dark areas of the archipelago (jungles, caves, coastlines at night). They possess bioluminescence, emitting a soft light in one of three colors: vert (le plus courant), jaune et bleu. Ils ne représentent aucune menace. Leur présence sert à créer une atmosphère et peut parfois éclairer des chemins ou des cachettes dans l'obscurité.
+Petits insectes volants qui habitent des zones humides et sombres de l'archipel (jungles, grottes, côtes la nuit). Ils possèdent une bioluminescence, émettant une lumière douce dans l'une des trois couleurs: vert (le plus commun), jaune et bleu. Ils ne posent aucune menace. Leur présence sert à créer de l'atmosphère et peut parfois illuminer des sentiers ou des cachettes dans l'obscurité.
 
-TIPS:
+CONSEILS:
 
-- Ce ne sont pas des ennemis ou des ressources. Les détruire est inutile et n’apporte pas beaucoup d’avantages.
+- Ce ne sont pas des ennemis ou des ressources. Les détruire est inutile et ne procure pas beaucoup d'avantages.

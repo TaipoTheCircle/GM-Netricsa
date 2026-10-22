@@ -1,36 +1,36 @@
-VEX DU MONDE MINECRAFT
+VEXE DE L'EXERCICE MINECRAFT
 
 
-CLASS: Vexer
-METABOLISM: Invocation magique
-PERCEPTION: Foule hostile volante, serviteur de l'Evoker
-SIZE: 2,6 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Absolu
-WEAPONS: Épée de fer
-REWARD: 20 FC
-THREAT: Haut
+CLASSE:      Vex
+MÉTABOLISME: Invocation magique
+PERCEPTION: Volant la foule hostile, serviteur de l'Evoker
+TAILLE:       2,6 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Absolu
+ARMES:    Épée de fer
+RÉCOMPENSE:     20 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Cette petite créature volante extrêmement ennuyeuse est invoquée par l'Evoker lorsqu'il veut faire de votre vie un enfer. Malgré leur petite taille, ces créatures peuvent traverser les murs et porter des coups dévastateurs. Si le Vindicator est la force brute et l'Evoker l'intellect, alors le Vex est une méchanceté pure et pure, piégée dans une forme miniature.
+Cette petite créature volante mais extrêmement agaçante est convoquée par l'Evoker quand il veut faire de votre vie un enfer vivant. Malgré leur taille réduite, ces créatures peuvent traverser les murs et donner des coups dévastateurs. Si le Vindicator est une force brute et que l'Evoker est un intellect, alors le Vex est une malice pure et non adultère, piégée sous forme miniature.
 
-Le Vex apparaît comme un petit spectre ailé gris armé d'une épée de fer. Lorsqu'il attaque, son corps devient rouge, annonçant une charge mortelle. Les Vex sont des Alai corrompus. On pense que les évocateurs utilisent la magie noire pour transformer les sympathiques Alai (aides à la collecte d'objets) en ces volants agressifs.
+Le Vex apparaît comme une petite wraith ailée, grise, armée d'une épée de fer. Quand il attaque, son corps brille rouge, annonçant une charge mortelle. Vex sont corrompus Alai. On pense que les évokers utilisent la magie noire pour transformer l'amiable Alai (assistants de collecte d'objets) en ces flyers agressifs.
 
-The Vex has three key features that make it one of the most dangerous mobs: 
+The Vex has three key features that make it one of the most dangerous mobs:
 
-Le Vex peut voler à travers n'importe quel bloc de terre, pierre, obsidienne et même substrat rocheux. Vous ne pouvez pas vous cacher derrière un abri.
+Le Vex peut voler à travers n'importe quel bloc-dirt, pierre, obsidienne, et même le substratum. Tu ne peux pas te cacher derrière.
 
-Lorsque le Vex attaque, il émet un son perçant, son corps brille en rouge et il se jette sur sa cible.
+Lorsque le Vex attaque, il émet un son perçant, son corps brille rouge, et il s'immisce à sa cible.
 
-Les Vex ne durent pas éternellement. Une fois invoqués par un Evoker, ils commencent à subir des dégâts et meurent d'eux-mêmes après 30 à 119 secondes (allant de 30 secondes à un peu moins de 2 minutes).
+Vex ne dure pas pour toujours. Une fois convoqués par un Evoker, ils commencent à prendre des dommages et meurent seuls après 30 à 119 secondes (de 30 secondes à un peu moins de 2 minutes).
 
-Les Vex attaquent rapidement, essayant de se placer derrière ou de les flanquer, ce qui rend difficile le blocage avec un bouclier. Ils ne brûlent pas dans la lave, ne se noient pas dans l'eau et ignorent les toiles à l'exception des blocs de miel.
+L'attaque Vex rapidement, en essayant de les prendre derrière ou les flanquer, rendant difficile de bloquer avec un bouclier. Ils ne brûlent pas dans la lave, ne se noient pas dans l'eau, et ignorent les toiles sauf les blocs de miel.
 
-TIPS: 
+CONSEILS:
 
-- Tuez d'abord l'Evoker. C’est le conseil le plus important. Tant que l'Evoker est en vie, il invoquera de nouveaux Vex encore et encore.
-- Ne reste pas immobile. Les Vex sont rapides et agressifs. Le mouvement et l’esquive constants sont essentiels.
-- Utiliser une arme à distance (Arc/Arbalète). Esquiver leurs attaques à bout portant est beaucoup plus difficile.
-- Si vous êtes entouré de Vex, utilisez des explosifs (comme des feux d'artifice). Leur santé est faible et l'explosion peut rapidement nettoyer la zone.
-- N'oubliez pas de vous autodétruire. Si vous vous sentez dépassé, essayez simplement d’esquiver et d’attendre. Dans une minute et demie, ils commenceront à mourir eux-mêmes.
+- Tuez l'Evoker d'abord. C'est le conseil le plus important. Tant que l'Evoker sera vivant, il convoquera encore et encore un nouveau Vex.
+- Ne bougez pas. Le Vex est rapide et agressif. Le mouvement constant et l'esquive sont essentiels.
+- Utiliser une arme variée (beau / arbalète). Il est beaucoup plus difficile d'éviter leurs attaques à proximité.
+- Si vous êtes entouré par Vex, utilisez des explosifs (comme Fireworks). Leur santé est faible, et l'explosion peut rapidement dégager la zone.
+- N'oubliez pas de vous détruire. Si vous avez l'impression d'être débordé, essayez simplement d'éviter et d'attendre. Dans une minute et demie, ils vont commencer à mourir eux-mêmes.

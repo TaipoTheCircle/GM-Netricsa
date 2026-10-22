@@ -1,22 +1,22 @@
-SOLDAT D'ASSAUT AVEC M4 DE L'ARCHIPEL KRIEGER
+TROOPER ASSAULT AVEC M4 DE L'ARCHIPELAGO KRIEGER
 
 
-CLASS: Soldat d'assaut avec M4
-METABOLISM: Humain, mâle
-PERCEPTION: Mercenaire de base de Krieger
-SIZE: 6 pieds
-ENDURANCE: Faible
-HOSTILITY: Moyenne
-WEAPON: M4
-REWARD: 150 FC
-THREAT: Faible
+CLASSE:      Trooper d'assaut avec M4
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Mercénaire de base de Krieger
+TAILLE:       6 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Moyenne
+ARME:     M4
+RÉCOMPENSE:     150 FC
+MENACE:     Faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-The basic infantry of the Krieger mercenaries, the most numerous and least trained fighters. They resemble scouts in appearance, but lack body armor, making them vulnerable. They are most often found in barracks, headquarters, and offices, where they can rest or perform support tasks (paperwork, radio). Their tactics are simple: comptez sur leur supériorité numérique et utilisez la couverture de troupes d'assaut plus blindées. Ils ne possèdent pas de compétences exceptionnelles, mais en grands groupes, ils peuvent constituer une menace en raison de la densité de leur tir. Vêtus de T-shirts bleus, ou plus rarement noirs ou verts, ils sont la « chair à canon » de l'armée de Krieger.
+L'infanterie de base des mercenaires Krieger, les combattants les plus nombreux et les moins entraînés. Ils ressemblent à des scouts en apparence, mais manquent d'armure corporelle, les rendant vulnérables. Ils se trouvent le plus souvent dans les casernes, les quartiers généraux et les bureaux, où ils peuvent se reposer ou effectuer des tâches de soutien (papier, radio). Leur tactique est simple : compter sur leur supériorité numérique et utiliser la couverture de troupes d'assaut plus blindées. Ils ne possèdent pas de compétences exceptionnelles, mais dans de grands groupes ils peuvent représenter une menace en raison de la densité de leur feu. Habillés en bleu, ou moins couramment en noir ou en vert, les T-shirts sont le «aliment de canon» de l'armée de Krieger.
 
-TIPS: 
+CONSEILS:
 
-- On les rencontre en groupe. Concentrez-vous d'abord sur l'infanterie pour réduire rapidement le nombre de l'ennemi, puis passez aux mercenaires les plus dangereux.
-- Ils se cachent souvent derrière des abris et des alliés. Utilisez des armes à cadence de tir élevée ou un fusil de chasse à courte portée pour éliminer rapidement les groupes.
-- Ils ne représentent pas une menace sérieuse individuellement, mais peuvent gaspiller des munitions et créer une distraction lors de grandes escarmouches.
+- Ils sont rencontrés en groupe. Concentrez-vous d'abord sur l'infanterie pour réduire rapidement le nombre de l'ennemi, puis passez aux mercenaires les plus dangereux.
+- Ils se cachent souvent derrière la couverture et les alliés. Utilisez des armes à fort taux de tir ou un fusil à portée de main pour éliminer rapidement les groupes.
+- Ils ne représentent pas une menace sérieuse individuellement, mais peuvent gaspiller des munitions et créer une distraction dans de grands escarmouches.

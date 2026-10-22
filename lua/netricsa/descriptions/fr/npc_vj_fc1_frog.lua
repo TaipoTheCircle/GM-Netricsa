@@ -1,21 +1,21 @@
-FROG FROM THE KRIEGER ARCHIPELAGO
+LES FROGS DE L'ARCHIPELAGO KRIEGER
 
 
-CLASS: Grenouille
-METABOLISM: Amphibie
-PERCEPTION: Animal amphibien
-SIZE: 0,6 pied
-ENDURANCE: Très faible
-HOSTILITY: Aucun
-WEAPONS: Aucun
-REWARD:     10 FC
-THREAT: Aucun
+CLASSE:      Grenouille
+MÉTABOLISME: Amphibien
+PERCEPTION: Animal amphibiens
+TAILLE:       0,6 ft
+ENDURANCE:  Très faible
+HOSTILITÉ:  Aucune
+ARMES:    Aucune
+RÉCOMPENSE:     10 FC
+MENACE:     Aucune
 
 DESCRIPTION:
 
-Petit amphibien, rarement rencontré dans les zones humides de l'archipel, à proximité des plans d'eau et dans les sous-bois. Facilement surpris et s'éloigne des créatures qui s'approchent. N'interagit pas avec d'autres ennemis.
+Un petit amphibiens, que l'on trouve rarement dans les zones humides de l'archipel, près des plans d'eau et dans le sous-bois. Facilement surpris et saute loin de l'approche des créatures. N'interagit pas avec d'autres ennemis.
 
-TIPS:
+CONSEILS:
 
-- Pas un ennemi ou une ressource. Attaquer ne sert à rien.
-- Tuer ne procure aucun avantage.
+- Pas un ennemi ou une ressource. L'attaque est inutile.
+- Tuer n'apporte aucun bénéfice.

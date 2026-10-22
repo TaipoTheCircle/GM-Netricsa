@@ -1,24 +1,24 @@
-CONTRÔLEUR ALIEN DE XEN
+CONTRÔLE DE L'ALIEN DE XEN
 
 
-CLASS: Contrôleur extraterrestre
-METABOLISM: entité psionique
-PERCEPTION: L'élite psychique de Nihilanth
-SIZE: ~8 pieds (flottant)
-ENDURANCE: moyen
-HOSTILITY: haut
-WEAPONS: boulons d'énergie psionique, vol, contrôle Vortigaunt
-REWARD: 600 FC
-THREAT: haut
+CLASSE:      Contrôleur étranger
+MÉTABOLISME: entité psionique
+PERCEPTION: L'élite psychiatrique de Nihilanth
+TAILLE:       ~8 pi (volant)
+ENDURANCE:  moyenne
+HOSTILITÉ:  élevé
+ARMES:    boulons d'énergie psioniques, vol, commande Vortigaunt
+RÉCOMPENSE:     600 FC
+MENACE:     élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-The Alien Controller is a floating psionic overseer from Xen, acting as the enforcer of the Nihilanth's will. While its own energy attacks are dangerous, its true power lies in remote domination: Les contrôleurs peuvent soumettre les Vortigaunts, les forçant à se battre contre leur gré. C'est pourquoi les Vortigaunts semblent hostiles au sein de Xen malgré leur réticence naturelle à se battre : les Contrôleurs agissent comme des gardiens psychiques, gardant la race asservie en ligne.
+Le Contrôleur Alien est un surveillant psionique flottant de Xen, agissant comme l'exécuteur de la volonté de Nihilanth. Bien que ses propres attaques énergétiques soient dangereuses, sa véritable puissance réside dans la domination à distance : les contrôleurs peuvent soumettre les Vortiguaunts, les forçant à la lutte contre leur volonté. C'est pourquoi les Vortigaunts semblent hostiles au sein de Xen malgré leur réticence naturelle à se battre - les contrôleurs agissent en tant que gardiens psychiques, gardant la race esclave en ligne.
 
-Ils dérivent dans les airs avec une grâce étrange, lançant aux intrus des orbes psioniques crépitants tout en commandant les troupes en contrebas.
+Ils dérivent à travers l'air avec une grâce épouvantable, plongeant des intrus avec des orbes psioniques crépitantes tout en commandant des troupes en bas.
 
-TIPS: 
+CONSEILS:
 
-- Ciblez rapidement les contrôleurs : une fois détruits, les Vortigaunts à proximité peuvent se libérer.
-- Leurs éclairs d'énergie se courbent en vol - continuez à avancer.
-- Des tirs de précision ou des explosifs peuvent les abattre rapidement.
+- Contrôleurs de cible rapidement - une fois détruit, les Vortigaunts proches peuvent se libérer.
+- Leurs boulons d'énergie courbent en vol - continuez à bouger.
+- Un feu de précision ou des explosifs peuvent les descendre rapidement.

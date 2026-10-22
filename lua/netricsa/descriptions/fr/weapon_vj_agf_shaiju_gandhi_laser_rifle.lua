@@ -1,17 +1,17 @@
-FUSIL LASER
+LASER RIFLE
 
 
-WEAPON: Fusil laser expérimental
-AMMO: Cellules énergétiques haute tension
-ROF: Faisceau semi-automatique/continu
-WEIGHT: 14,5 livres
+ARME:      Rifle laser expérimental
+MUNITIONS:        Cellules à haute tension
+CADENCE DE TIR:         Feu semi-automatique / continu
+POIDS:      14,5 lbs
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Créé dans les laboratoires secrets de Lord Anton, le fusil laser expérimental est une arme à énergie dirigée de pointe qui exploite l'électricité brute pour tirer des faisceaux de lumière brûlants. Capable de couper le métal et la chair, il est considéré comme l'un des prototypes les plus meurtriers jamais utilisés.
-Seuls quelques soldats sélectionnés sont autorisés à l'utiliser, tandis que d'autres le craignent comme un outil trop instable – et trop destructeur – pour être déployé à grande échelle.
+Créé dans les laboratoires secrets de Lord Anton, le Laser Rifle expérimental est une arme de pointe à énergie dirigée qui exploite l'électricité brute pour tirer des faisceaux de lumière. Capable de couper le métal et la chair, il est considéré comme l'un des prototypes les plus meurtriers jamais mis en champ.
+Seuls quelques soldats choisis ont confiance pour le manier, tandis que d'autres le craignent comme un outil trop instable - et trop destructeur - pour être largement déployé.
 
-NOTES: 
+REMARQUES:
 
-- Fond facilement à travers l'infanterie blindée.
-- Absolument interdit de le laisser tomber entre les mains de l'ennemi.
+- Il fond facilement dans l'infanterie blindée.
+- Il est interdit de le laisser tomber entre les mains de l'ennemi.

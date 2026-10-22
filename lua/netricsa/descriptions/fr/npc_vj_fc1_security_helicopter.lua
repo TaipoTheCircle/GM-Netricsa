@@ -1,20 +1,20 @@
-HÉLICOPTÈRE DE SÉCURITÉ UH-60 "BLACKHAWK" DE L'ARCHIPEL KRIEGER
+HÉLICOPTRE DE SÉCURITÉ « BLACKHAWK » UH-60 DE L'ARCHIPELAGO KRIEGER
 
 
-CLASS: Hélicoptère de sécurité UH-60 "Blackhawk"
-METABOLISM: Aéronef
-PERCEPTION: Avion ennemi
-SIZE: ~16,7 pieds
-ENDURANCE: Haut
-HOSTILITY: Comme un chacal
-WEAPONS: Minigun embarqué actionné par un tireur
-REWARD: 99999999 FC (si vous trouvez un moyen)
-THREAT: Haut
+CLASSE:      UH-60 Hélicoptère de sécurité "Blackhawk"
+MÉTABOLISME: Avion
+PERCEPTION: Aéronef ennemi
+TAILLE:       ~16,7 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Comme Jackal
+ARMES: Minigune de bord actionnée par un tireur
+RÉCOMPENSE:     99999999 FC (si vous trouvez un moyen)
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le principal hélicoptère polyvalent des forces Krieger. Utilisé pour la sécurité de la zone. L'équipage se compose d'un pilote, d'un mitrailleur aux commandes du minigun embarqué et de trois parachutistes maximum. Lorsqu'il est repéré, l'hélicoptère lance une attaque effrénée. Il est impossible de l'abattre.
+Le principal hélicoptère polyvalent des forces de Krieger. Utilisé pour la sécurité de la zone. L'équipage se compose d'un pilote, d'un artilleur qui actionne le minigun de bord et jusqu'à trois parachutistes. Lorsqu'il est repéré, l'hélicoptère commence une attaque frénétique. C'est impossible de l'abattre.
 
-TIPS: 
+CONSEILS:
 
-- Il vaut mieux ne pas discuter avec cette machine ; ça va vous tuer d'un seul coup.
+- Il vaut mieux ne pas discuter avec cette machine, ça te tuera d'un coup.

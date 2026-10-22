@@ -1,17 +1,17 @@
 RPG V2
 
 
-WEAPON: RPG V2 (Lance-grenades propulsé par fusée)
-AMMO: Roquettes hautement explosives
-ROF: ~4 fusées/min
+ARME:      RPG V2 (Propulseur à grenade)
+MUNITIONS:        Fusées à forte explosion
+CADENCE DE TIR:         ~4 fusées/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Lanceur anti-blindage lourd utilisé par la Résistance. Tire des roquettes hautement explosives capables d'anéantir des véhicules, des tourelles et des groupes d'ennemis. Equipé d'un viseur de base pour viser, ce qui le rend efficace à moyenne et longue portée.
+Lanceur anti-armure lourd utilisé par la Résistance. Incendie des fusées à forte explosion capables d'effacer les véhicules, les tourelles et les groupes d'ennemis. Équipé d'une vue de base pour viser, le rendant efficace à moyen à long terme.
 
-NOTES: 
+REMARQUES:
 
-- Dégâts explosifs massifs, idéaux pour les cibles blindées.
-- Approvisionnement limité en munitions ; les fusées doivent être utilisées avec précaution.
-- Le retour de souffle et l'utilisation à courte portée peuvent être dangereux.
-- Nécessite un rechargement après chaque tir.
+- Dommage explosif massif, idéal pour les cibles blindées.
+- Fourniture limitée de munitions; les fusées doivent être utilisées avec précaution.
+- L'utilisation à l'arrière et à proximité peut être dangereuse.
+- Nécessite une recharge après chaque tir.

@@ -1,22 +1,22 @@
-JEUNE REPTILOÏDE ALUDRAN, COMMUN
+JEUNES ALUDRAN REPTILOID, COMMUN
 
 
-CLASSE : Jeune Reptiloïde Aludran, Commun
-MÉTABOLISME : à sang froid, semblable à celui d'un reptile
-PERCEPTION : Race Primitive
-TAILLE : 3,94 pieds
-ENDURANCE : Moyenne
-HOSTILITÉ : Élevée
-ARMES : Missiles magiques à tête chercheuse
-RÉCOMPENSE : 5000 FC
-MENACE : Moyenne
+CLASSE:      Jeune Reptiloïde d'Aludran, Fréquent
+MÉTABOLISME: Brouillé à froid, comme un reptile
+PERCEPTION: Race primitive
+TAILLE:       3,94 pi
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Missiles d'hommage magique
+RÉCOMPENSE:     5000 FC
+MENACE:     Moyenne
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Un petit reptile à quatre mains vivant dans le système Aludran dans la constellation du Canis Major. Cette race primitive a accepté de se battre pour Mental en échange des pouvoirs de lancement de sorts qu'elle leur a donnés.
+Un petit reptile à quatre mains vivant dans le système Aludran dans la constellation de Canis Major. Cette race primitive a accepté de se battre pour le Mental en échange des pouvoirs qu'elle leur a conférés.
 
-Ils lancent des boules de feu automotrices dotées de capacités de guidage primitives. 
+Ils ont lancé des boules de feu autopropulsées avec des capacités primitives.
 
-CONSEILS :
+CONSEILS:
 
-- Gardez-les sous le feu constant et essayez d'abattre leurs missiles en l'air.
+- Gardez-les sous un feu constant et essayez d'abattre leurs missiles dans l'air.

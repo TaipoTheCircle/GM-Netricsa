@@ -1,16 +1,16 @@
-MESA NOIR, TUYAU EFFAÇABLE
+MESA BLACK, PIÈCES COLLAPSANTES
 
 
-Sam, Progress vous emmène à travers ce que les ingénieurs de Black Mesa ont généreusement appelé un tuyau de maintenance. En réalité, il s’agit d’un cylindre rouillé à peine assez solide pour supporter son propre poids, sans parler du vôtre.
+Sam, les progrès vous font découvrir ce que les ingénieurs de Black Mesa ont généreusement appelé un tuyau d'entretien. En réalité, il est un cylindre rouillé à peine assez fort pour tenir son propre poids, et encore moins le vôtre.
 
-Naturally, halfway through, the inevitable happens: le tuyau gémit, se plie, puis s'effondre. Vous tombez directement dans la chambre suivante.
+Naturellement, à mi-chemin, l'inévitable se produit : le tuyau gronde, se courbe, puis s'effondre. Vous tombez directement dans la prochaine chambre.
 
-Hazards relief: 
+Hazards relief:
 
-La zone d'impact contient un crabe solitaire tapi sous un bureau, attendant apparemment une embuscade parfaite.
+La zone d'impact contient un seul gratte-tête qui se cache sous un bureau, en attendant apparemment l'embuscade parfaite.
 
-Au lieu de cela, il reçoit tout le poids d’un Serious Sam tombant d’en haut.
+Au lieu de cela, il obtient le plein poids d'un Serious Sam tombant d'en haut.
 
-Result: un crabe à tête très plate et un Sam très confus, s'époussetant.
+Result: un cambriolage très plat et un Sam très confus, se dépoussiérant.
 
-Le tuyau a disparu, le crabe a disparu, mais votre voie à suivre est ouverte. N'oubliez pas que si l'infrastructure ici s'effondre déjà sous son propre poids, imaginez à quoi elle ressemblera lorsque de plus en plus de portails continueront de déchirer la réalité.
+Le tuyau est parti, le headcrab est parti, mais votre chemin est ouvert. Rappelez-vous-si l'infrastructure ici s'effondre déjà sous son propre poids, imaginez à quoi elle ressemblera quand d'autres portails déchireront la réalité.

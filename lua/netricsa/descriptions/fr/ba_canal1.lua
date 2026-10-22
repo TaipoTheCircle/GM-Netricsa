@@ -1,18 +1,18 @@
-LES CANAUX DE BLACK MESA, L'EXPLOSION DE LA RÉALITÉ
+LES CANAUX DU MESA BLACK, L'EXPLOSION DE LA RÉALITÉ
 
 
-Eh bien, Sam, c'est parti ! Pas doucement, pas proprement - avec un bang, des cris et un chaos complet.
+Sam, c'est parti ! Pas tranquillement, pas bien - avec un bang, des cris et un chaos complet.
 
-Nihilanth a décidé d'arrêter d'attendre. Ses créatures déferlèrent dans la Mesa Noire comme l'eau dans un barrage rompu.
+Nihilanth a décidé d'arrêter d'attendre. Ses créatures ont sauté dans la Mesa noire comme de l'eau dans un barrage rompu.
 
-Un train de marchandises avec des gardes a déraillé juste à côté d'un groupe de scientifiques. Le métal grince, des étincelles volent et ILS sortent déjà des décombres.
+Un train de marchandises avec des gardes a déraillé juste à côté d'un groupe de scientifiques. Le métal grince, les étincelles volent, et ils sortent déjà de l'épave.
 
-Les Houndai, ces créatures éternellement affamées, se précipitent après le scientifique comme s'ils avaient aperçu un casse-croûte. Cours, petit malin, cours !
+Les Houndai, ces créatures éternellement affamées, se précipitent après le scientifique comme s'ils avaient vu une collation. Cours, abruti, cours !
 
-Et celui qui s'est figé à la fenêtre... Surprise ! Vortigaunt. Il reste là et regarde. Eh bien oui, c'est probablement un mardi ordinaire pour eux.
+Et celui qui a gelé à la fenêtre... Surprise ! Vortigaun. Il est juste là et regarde. Oui, c'est probablement un mardi ordinaire pour eux.
 
-L’ascenseur dans lequel vous veniez de monter avec les « gentils » scientifiques ne pouvait pas supporter la pression de la réalité. Il est tombé comme une pierre. Deux d’entre eux sont confus. Vous êtes miraculeusement vivant.
+L'ascenseur dans lequel tu allais avec les "bons" scientifiques ne supportait pas la tension de la réalité. Il a abattu comme une pierre. Deux d'entre eux sont confus. Tu es miraculeusement vivant.
 
-You look around, and here's an oil painting: un garde qui semblait si courageux il y a une minute est maintenant... eh bien, disons simplement qu'il devient un dîner pour un chien. Délicieux, on ne peut rien dire.
+Vous regardez autour de vous, et voici une peinture à l'huile: un garde qui semblait si courageux il y a une minute est maintenant... Eh bien, disons juste qu'il devient un dîner pour un chien. Délicieux, tu ne peux rien dire.
 
-Il est temps de tirer !
+Il est temps de tirer !

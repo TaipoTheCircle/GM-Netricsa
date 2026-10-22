@@ -1,6 +1,6 @@
-THE MARTIAN EMPIRE OF R-A-C-E
+L'EMPIRE MARTIEN DE R-A-C-E
 
 
-The R-A-C-E Empire is an alien, ruthless race of aliens who have emerged from the depths of space and interdimensional portals to conquer Earth. Their technology permeates space: ils utilisent des armes à plasma, des soucoupes volantes et leur propre vaisseau-mère, tout ce qu'il faut pour imposer leur volonté aux plus forts.
+L'Empire R-A-C-E est une race extraterrestre et impitoyable d'extraterrestres qui sont sortis des profondeurs de l'espace et des portails interdimensionnels pour conquérir la Terre. Leur technologie imprègne l'espace : ils utilisent des armes à plasma, des soucoupes volantes et leur propre vaisseau-mère, tout ce qu'il faut pour imposer leur volonté aux plus forts.
 
-They're not simply invading-the R-A-C-E have been observing Earth for a long time: Black Mesa détient sa technologie et le gouvernement a tenté de reproduire une partie de sa technologie dans le cadre de recherches secrètes.
+Ils ne se contentent pas d'envahir - la R-A-C-E observe la Terre depuis longtemps: Black Mesa détient leur technologie, et le gouvernement a tenté de reproduire une partie de leur technologie dans la recherche secrète.

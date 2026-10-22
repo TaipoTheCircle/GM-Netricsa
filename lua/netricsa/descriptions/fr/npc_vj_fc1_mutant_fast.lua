@@ -1,24 +1,24 @@
-ÉCUREUIL (SAUTEUR) DE L'ARCHIPEL KRIEGER
+SQUIRREL (JUMPER) DE L'ARCHIPELAGO KRIEGER
 
 
-CLASS: Couineur (cavalier)
-METABOLISM: Humain muté par trigène
+CLASSE:      Squeaker (Jumper)
+MÉTABOLISME: Trigène humain
 PERCEPTION: Saboteur tactique
-SIZE: 5,9 pieds
-ENDURANCE: Moyen
-HOSTILITY: Haut
-WEAPONS: AG36, fusils automatiques P90, attaques sautées
-REWARD: 800 FC
-THREAT: Haut
+TAILLE:       5,9 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    AG36, fusils automatiques P90, attaques de saut
+RÉCOMPENSE:     800 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les couineurs sont la variété la plus intelligente de Trigen, conservant une pensée tactique. Basés sur des soldats, ils sont reconnaissables à leurs pantalons militaires, leurs coupes de cheveux et leur absence de chemise. Leurs membres sont hypermusclés et leur bouche s'étend jusqu'au menton. Les protège-bras en métal au-dessus de leurs coudes témoignent de leurs expériences. Ils sont capables de coordonner les actions d'autres mutants, les utilisant comme saboteurs vivants.
+Squeakers sont la variété la plus intelligente de Trigen, en conservant la pensée tactique. Selon les soldats, ils sont reconnaissables par leur pantalon militaire, leurs coupes de cheveux et leur manque de chemises. Leurs membres sont hyper musclés, et leur bouche s'étire au menton. Les gardes des bras métalliques au-dessus de leurs coudes témoignent de leurs expériences. Ils sont capables de coordonner les actions des autres mutants, en les utilisant comme saboteurs vivants.
 
-Leur principale tactique est la mobilité. Ils sautent à des distances que les autres Trigens ne peuvent atteindre, changeant constamment de position. En combat rapproché, ils utilisent des attaques faibles mais distrayantes. Ils sont extrêmement vulnérables lorsque leur saut est interrompu : à ce stade, ils perdent de la vitesse et ne peuvent pas contre-attaquer.
+Leur principale tactique est la mobilité. Ils sautent sur des distances que d'autres Trigens ne peuvent atteindre, changeant constamment de position. Au combat étroit, ils utilisent des attaques faibles mais distrayantes. Ils sont extrêmement vulnérables quand leur saut est interrompu - à ce stade, ils perdent de la vitesse et ne peuvent pas contre-attaquer.
 
-TIPS: 
+CONSEILS:
 
-- Tirez en vous préparant à sauter, cela les immobilise pendant 2-3 secondes.
-- Utilisez des armes avec une cadence de tir élevée : leur mobilité rend les tirs ciblés inefficaces.
-- Contrôlez les hauteurs : ils attaquent souvent depuis les niveaux supérieurs et les toits.
+- Tirez en se préparant à sauter-cela les immobilise pendant 2-3 secondes.
+- Utilisez des armes avec un taux élevé de tir-leur mobilité rend les tirs ciblés inefficaces.
+- Contrôler les hauteurs - ils attaquent souvent à partir de niveaux supérieurs et de toits.

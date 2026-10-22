@@ -1,25 +1,25 @@
-ROBOT ENVAHISSEUR DE SHAIJU GANDHI
+INVADER ROBOT DE SHAIJU GANDHI
 
 
-CLASS: Robot envahisseur
-METABOLISM: Artificiel (noyau mécanique)
-PERCEPTION: Guerrier-machine
-SIZE: 7-8 pieds
-ENDURANCE: Haut
-HOSTILITY: Extrême
-WEAPONS: Frappe de levage de bras (force d'écrasement)
-REWARD: 600 FC
-THREAT: Moyen-élevé
+CLASSE:      Robot Invander
+MÉTABOLISME: Artificiel (noyau mécanique)
+PERCEPTION: Guerrier automatique
+TAILLE:       7-8 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Extrême
+ARMES:    Grèves à main armée (forces de croisière)
+RÉCOMPENSE:     600 FC
+MENACE:     Moyenne-haute
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Depuis le monde lointain de Shaidzu-Gandi, les robots envahisseurs sont arrivés à l'avant-garde d'une conquête galactique menée par leur suzerain, Lord Anton. Ces machines n’ont pas été conçues pour la subtilité mais pour la destruction brute. Ils ne manient pas d'armes au sens traditionnel du terme, mais leur immense force leur permet de soulever et de projeter leurs ennemis au sol avec une force dévastatrice.
+Du monde lointain de Shaidzu-Gandi, les robots Invader sont arrivés comme l'avant-garde d'une conquête galactique menée par leur seigneur, le seigneur Anton. Ces machines n'ont pas été conçues pour la subtilité mais pour la destruction brute. Ils ne manient pas d'armes au sens traditionnel, mais leur immense force leur permet de soulever et de frapper les ennemis dans le sol avec une force dévastatrice.
 
-Le premier contact avec ces envahisseurs a eu lieu en Allemagne, où ils sont apparus comme des machines à tuer froides et implacables. Depuis lors, ils ont commencé à se propager à travers la Terre, se heurtant à la résistance combinée du Troisième Reich, de la Russie, de la Palestine et des États-Unis.
+Le premier contact avec ces envahisseurs s'est produit en Allemagne, où ils sont apparus comme des machines à tuer froides et incessantes. Depuis, ils ont commencé à se répandre sur la Terre, en s'opposant à la résistance combinée du Troisième Reich, de la Russie, de la Palestine et des États-Unis.
 
-TIPS: 
+CONSEILS:
 
-- Restez mobile - se faire prendre dans leur emprise écrasante est mortel.
-- Les munitions lourdes sont plus efficaces contre leurs obus blindés.
-- Ils attaquent souvent en groupe, écrasant par la force brute.
-- Attention, ils risquent de lever les armes.
+- Rester mobile - se faire prendre dans leur emprise est mortel.
+- Les munitions lourdes sont les plus efficaces contre leurs obus blindés.
+- Ils attaquent souvent en groupes, accablant avec la force brute.
+- Attention, ils peuvent lever leurs armes.

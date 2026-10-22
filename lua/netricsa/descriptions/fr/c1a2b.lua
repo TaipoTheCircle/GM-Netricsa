@@ -1,8 +1,8 @@
-MESA NOIRE, CAFÉTÉRIA
+MESA BLACK, CAFETERIA
 
 
-Sam, welcome to Black Mesa's cafeteria-once a place for lukewarm coffee and questionable sandwiches, now the setting for a cosmic food fight. Unfortunately, the menu has changed: au lieu de plateaux repas, vous éviterez les tirs de plasma, les tables renversées et les crabes occasionnels en vol.
+Sam, bienvenue à la cafétéria de Black Mesa-une fois un endroit pour café tiède et sandwichs douteux, maintenant le cadre d'un combat de nourriture cosmique. Malheureusement, le menu a changé : au lieu des plateaux de déjeuner, vous éviterez le feu de plasma, les tables renversées et le grabuge aérien occasionnel.
 
-Scans confirm: les créatures Xen et les troupes de Mental sont présentes ici, et la disposition de la cafétéria leur offre une grande couverture. Attendez-vous à des échanges de tirs autour des tables et à des embuscades depuis la porte de la cuisine.
+Scans confirm: tant les créatures Xen que les troupes de Mental sont présentes ici, et la disposition de la cafétéria leur donne beaucoup de couverture. S'attendre à des feux d'artifice sur les tables, des embuscades de la porte de la cuisine.
 
-Recommendation: utilisez le chaos à votre avantage. Pendant que Xen et les forces mentales se dévorent, glissez-vous dans le désordre et continuez à vous diriger vers les laboratoires supérieurs.
+Recommendation: utilisez le chaos à votre avantage. Alors que Xen et les forces mentales se mâchent, glissez dans le désordre et continuez à vous diriger vers les laboratoires supérieurs.

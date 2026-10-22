@@ -1,26 +1,26 @@
-COMBINEZ LE MINISTRIDER
+MINISTÈRE DE LA COMBINE
 
 
-CLASS: Combiner le ministre
-METABOLISM: Drone de première ligne entièrement mécanique et autonome
-PERCEPTION: Synthétiseur de combat expérimental combiné
-SIZE: 9,8 pieds
-ENDURANCE: Moyen
-HOSTILITY: Haut
-WEAPONS: Charges d'impulsions, fléchettes énergétiques, bras tranchants
-REWARD: 900 FC
-THREAT: Haut
+CLASSE:      Mélanger Ministrider
+MÉTABOLISME: Drone en première ligne entièrement mécanique et autonome
+PERCEPTION: Synthétisation expérimentale du combat
+TAILLE:       9,8 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Charges d'impulsion, fléchettes énergétiques, bras lames
+RÉCOMPENSE:     900 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Ministrider est un des premiers concepts et prototypes du Hunter développé par le Combine.
+Le Ministrider est un concept et un prototype du Hunter développé par le Combine.
 
-En apparence, le Ministrider ressemble à un chasseur plus petit, mais non moins menaçant : il se tient sur trois pattes, possède des bras mécaniques à lame et est capable d'attaques automatiques. Il tire des explosions d’énergie pulsée, ce qui rend dangereux sa mort, même à distance.
+En apparence, le Ministrider ressemble à un chasseur plus petit, mais non moins menaçant - il se tient sur trois jambes, a bras lames mécaniques, et est capable d'attaques automatiques. Il tire des explosions d'énergie pulsées, ce qui rend dangereux de tuer même à distance.
 
-Le Ministrerider poursuit non seulement sa cible, mais peut également exploiter son environnement, réagir rapidement aux menaces et s'engager dans des combats agressifs dans des zones ouvertes.
+Non seulement le ministre poursuit sa cible, mais il peut aussi exploiter son environnement, réagir rapidement aux menaces et mener des combats agressifs dans les zones ouvertes.
 
-TIPS: 
+CONSEILS:
 
-- Les volées d'impulsions du Ministrerider fonctionnent à moyenne portée et le repositionnement réduit le danger.
-- Ses lames sont mortelles en combat rapproché – évitez les contacts.
+- Les volley de pouls du ministre travaillent à couverture de portée moyenne et le repositionnement réduisent le danger.
+- Ses lames sont mortelles en contact étroit avec l'éviter.
 - Contrairement au Hunter, il possède une super vitesse.

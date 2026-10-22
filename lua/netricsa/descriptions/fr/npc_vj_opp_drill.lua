@@ -1,26 +1,26 @@
 DWIGHT T. BARNES
 
 
-CLASS: Dwight T. Barnes
-METABOLISM: Humain
-PERCEPTION: Instructeur d'exercices humains/militaires
-SIZE: ~6 pieds
-ENDURANCE: Moyen
-HOSTILITY: Faible
-WEAPONS: Aucun
-REWARD:     350 FC
-THREAT: Faible
+CLASSE:      Dwight T. Barnes
+MÉTABOLISME: Humain
+PERCEPTION: Instructeur de forage humain / militaire
+TAILLE:       6 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Faible 
+ARMES:    Aucune
+RÉCOMPENSE:     350 FC
+MENACE:     Faible
 
 DESCRIPTION:
 
-Dwight T. Barnes est instructeur principal de forage au H.E.C.U. (Hazardous Environment Combat Unit), stationnée à la base militaire de Santego en Arizona.
+Dwight T. Barnes est un instructeur principal de forage à l'U.S.E.C. (Unité de combat contre l'environnement de Hazardous), stationné à la base militaire de Santego en Arizona.
 
-Il est responsable de la formation des recrues, notamment Adrian Shephard et d'autres soldats affectés aux opérations de Black Mesa.
+Il est responsable de l'entraînement des recrues - y compris Adrian Shephard et d'autres soldats affectés aux opérations de Black Mesa.
 
-Il est connu pour ses lignes vocales dures et ses railleries classiques de sergent instructeur, telles que « Est-ce que je me fais comprendre ? » et « Quel est votre dysfonctionnement majeur, sale sac ? »
+Il est connu pour ses lignes vocales rudes et ses taniques classiques, comme « Est-ce que je me fais comprendre ? » et « Quel est votre dysfonctionnement majeur, sac à ordures ? »
 
-Ses cheveux sont noirs et ses yeux bruns.
+Ses cheveux sont noirs et les yeux bruns.
 
-TIPS:
+CONSEILS:
 
-- Aucun problème.
+- Pas de problème.

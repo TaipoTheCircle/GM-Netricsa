@@ -1,6 +1,6 @@
-BLACK MESA, BUREAUX D'ANOMALIE
+MESA BLACK, BUREAUX ANOMALY
 
 
 Ce ne sont pas les mêmes bureaux.
 
-À l’intérieur, vous rencontrerez des contrôleurs planant dans les couloirs, leurs explosions psychiques. Les Vortigaunts patrouillent dans les couloirs, lançant des éclairs sur tout ce qui bouge, et dispersent les H.E.C.U. Les escouades tentent désespérément de tenir bon. Pour aggraver les choses, des parasites extraterrestres infestent les bouches d'aération et les pièces latérales, parfaites pour les embuscades.
+A l'intérieur, vous rencontrerez des contrôleurs qui survolent les couloirs, leurs explosions psychiques. Les Vortigaunts patrouillent les couloirs, lancent des éclairs sur tout ce qui bouge, et dispersent les équipes de l'U.E.C.E. qui tentent désespérément de tenir le sol. Pour empirer les choses, les parasites étrangers infestent les évents et les chambres latérales - parfaits pour les embuscades.

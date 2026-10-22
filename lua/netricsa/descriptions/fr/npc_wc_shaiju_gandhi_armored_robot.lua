@@ -1,23 +1,23 @@
-ROBOT DE GUERRE LOURDE BLINDÉ DE SHAIJU GANDHI
+ROBOT DE LA CHAIJU GANDHI
 
 
-CLASS: Robot de guerre lourd blindé
-METABOLISM: Noyau énergétique / Réacteur avancé
+CLASSE:      Robot blindé de guerre lourde
+MÉTABOLISME: Énergie de base / réacteur avancé
 PERCEPTION: Machine de guerre mécanique
-SIZE: ~18 pieds
-ENDURANCE: Très élevé (blindage composite épais, blindage renforcé)
-HOSTILITY: Extrême
-WEAPONS: Lasers Twin Eye, Blade Arm (exécution en combat rapproché)
-REWARD: 4000FC
-THREAT: Très élevé
+TAILLE:       ~18 pieds
+ENDURANCE:  Très haute (armure composite épaisse, revêtement renforcé)
+HOSTILITÉ:  Extrême
+ARMES:    Twin Eye Lasers, Blade Arm (exécution de combat rapproché)
+RÉCOMPENSE:     4000 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Développé par les scientifiques japonais de Shaidzu-Gandi, le robot blindé à haute technologie a été conçu comme un outil d'annihilation planétaire. Contrairement aux unités d'invasion standard, cette machine de guerre est construite avec un blindage renforcé.
+Développé par des scientifiques japonais de Shaidzu-Gandi, le robot de technologie lourde blindée a été conçu comme un outil d'annihilation planétaire. Contrairement aux unités d'invasion standard, cette machine de guerre est construite avec des armures renforcées.
 
-En combat à distance, il libère de ses yeux des faisceaux laser dévastateurs, capables de traverser les véhicules, les bâtiments et les positions défensives. Lorsqu'il se rapproche, il utilise un bras de lame tranchant comme un rasoir, coupant les ennemis en deux avec une précision mécanique. Sa double conception offensive en fait l’une des constructions d’envahisseurs les plus meurtrières déployées contre la Terre.
+Dans les combats variés, il libère des faisceaux laser dévastateurs de ses yeux, capables de couper à travers des véhicules, des bâtiments et des positions défensives. Lorsqu'il se ferme, il utilise un bras de lame rasé, coupant les ennemis en deux avec une précision mécanique. Sa double conception offensive en fait l'une des constructions les plus meurtrières de l'envahisseur qui s'étend sur la Terre.
 
-TIPS: 
+CONSEILS:
 
-- Restez hors de la ligne directe de vue. Les lasers oculaires sont très précis.
-- Ne le laissez jamais entrer en mêlée – le bras de lame est instantanément mortel.
+- Restez hors de la ligne directe des lasers yeux de vue sont très précis.
+- Ne le laissez jamais entrer dans la gamme de melee - le bras de la lame est instantanément fatal.

@@ -1,8 +1,8 @@
 XEN, GONARCH'S LAIR
 
 
-The air thickens with spores and the stench of acid. into a cavern center waits the matriarch of Xen's horrors: Gonarque.
+L'air s'épaissit avec les spores et la puanteur de l'acide. dans un centre de cavernes attend la matriarche des horreurs de Xen: Gonarch.
 
-Avant même que vous puissiez stabiliser votre arme, la voix revient.
+Avant même que vous puissiez maintenir votre arme, la voix revient.
 
 "Vous ne pouvez pas gagner" - Nihilanth.

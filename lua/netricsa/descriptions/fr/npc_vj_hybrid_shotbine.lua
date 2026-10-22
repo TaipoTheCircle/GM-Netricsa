@@ -1,28 +1,28 @@
-COMBINEZ LE SHOTGUNNER HYBRIDE OVERWATCH
+COMBINE SURVEILLANCE HYBRID SHOTGUNNER
 
 
-CLASS: Combinez le fusil de chasse hybride Overwatch
-METABOLISM: Humain augmenté, mâle
-PERCEPTION: Unité d'assaut polyvalente au corps à corps pour le Combine
-SIZE: 5,9 pieds
-ENDURANCE: Haut
-HOSTILITY: Extrême
-WEAPONS: Fusil de combat SPAS-12, grenades, bâton paralysant
-REWARD: 650 FC
-THREAT: Haut
+CLASSE:      Combiner Overwatch Hybrid Shotgunner
+MÉTABOLISME: Augmenté Humain, Homme
+PERCEPTION: Unité de combat rapproché polyvalente pour le Combine
+TAILLE:       5,9 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Extrême
+ARMES:    SPAS-12 Fusil de combat, Grenades, Stun-Stick
+RÉCOMPENSE:     650 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine Overwatch Hybrid Shotgun Soldier est une modification du Shotgun Soldier standard, conçu pour les assauts agressifs à courte portée. Il conserve tout l'équipement du soldat hybride standard, y compris une armure améliorée et une vision nocturne, mais son rôle est radicalement modifié.
+Le Shotgun Hybrid Combine Overwatch Soldier est une modification du Shotgun Soldier standard, adapté pour l'assaut agressif à courte portée. Il conserve tout l'équipement du soldat hybride standard, y compris l'armure améliorée et la vision nocturne, mais son rôle est radicalement modifié.
 
-La visière orange identifie immédiatement le but recherché par le soldat. Le SPAS-12 est utilisé pour supprimer l'ennemi à la vitesse de l'éclair dans les couloirs, les tunnels, les quartiers d'habitation et les buanderies. Le Combine emploie ces soldats dans des situations où la rapidité et l'impact psychologique sont cruciaux.
+La visière orange identifie immédiatement l'objectif du soldat. Le SPAS-12 est utilisé pour la suppression de l'ennemi par la foudre dans les couloirs, les tunnels, les logements et les salles de service. Le Combine emploie ces soldats dans des situations où la vitesse et l'impact psychologique sont cruciaux.
 
-Le dispositif de vision nocturne permet au soldat d'opérer dans l'obscurité totale, et le mode binoculaire permet de localiser rapidement les abris et les routes ennemies. Le Stun-Stick est utilisé moins fréquemment, mais est utilisé pour achever, intimider ou capturer des cibles réelles.
+Le dispositif de vision nocturne permet au soldat de fonctionner dans l'obscurité totale, et le mode binoculaire aide à localiser rapidement la couverture et les routes ennemies. Le Stun-Stick est utilisé moins fréquemment, mais il est utilisé pour terminer, intimider ou capturer des cibles en direct.
 
-Au combat, le fusil de chasse hybride ne perd pas de temps dans les échanges de tirs. Il réduit la distance, contourne et transforme les espaces confinés en pièges mortels. Ses tactiques sont simples mais extrêmement efficaces.
+Au combat, le fusil hybride ne perd pas de temps en tirs. Il ferme la distance, les flancs et transforme les espaces confinés en pièges mortels. Sa tactique est simple mais extrêmement efficace.
 
-TIPS: 
+CONSEILS:
 
-- Ne le laissez jamais s'approcher - le SPAS-12 est presque assuré d'être mortel.
+Le SPAS-12 est presque garanti pour être mortel.
 - La visière orange est très visible dans l'obscurité.
-- Dans des espaces restreints, la retraite est plus sûre que l'attaque.
+- Dans les espaces restreints, la retraite est plus sûre que l'attaque.

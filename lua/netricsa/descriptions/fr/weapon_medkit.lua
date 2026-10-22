@@ -1,14 +1,14 @@
-TROUSSE SANTÉ
+KIT SANTÉ
 
 
-ITEM: Trousse de secours
+ITEM:      Trousse de premiers soins
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Trousse médicale portable utilisée pour restaurer la santé de l'utilisateur. Peut récupérer instantanément une partie importante de sa santé, fournissant un soutien critique pendant le combat ou après avoir subi des dégâts.
+Kit médical portable utilisé pour rétablir la santé de l'utilisateur. Peut récupérer une partie importante de la santé instantanément, fournissant un soutien critique pendant le combat ou après avoir pris des dommages.
 
-NOTES: 
+REMARQUES:
 
-- Restaure une quantité fixe de santé lors de son utilisation.
-- Indispensable pour la survie lors d'échanges de tirs prolongés.
+- Restaure une quantité fixe de santé lors de l'utilisation.
+- Essentiel pour la survie dans les combats prolongés.
 - Peut être combiné avec d'autres sources de santé pour une récupération maximale.

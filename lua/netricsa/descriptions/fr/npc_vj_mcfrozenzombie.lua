@@ -1,31 +1,31 @@
-ZOMBIE CONGELÉ DU MONDE MINECRAFT
+ZOMBIE FROZEN DU MINECRAFT
 
 
-CLASS: Zombie gelé
-METABOLISM: Mort-vivant cryogénique
-PERCEPTION: Fusilier de soutien / Infanterie gelée
-SIZE: ~6,3 pieds de hauteur
-ENDURANCE: Moyenne
-HOSTILITY: Haut
-WEAPONS: Boules de neige, Punch
-REWARD: 200FC
-THREAT: Moyenne
+CLASSE:      Zombie congelée
+MÉTABOLISME: Morts cryogéniques
+PERCEPTION: Soutien Rifleman / Infanterie Gelée
+TAILLE:       ~6,3 pi de haut
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Boules de neige, coup de poing
+RÉCOMPENSE:     200 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-C’est le résultat du fait que des morts-vivants normaux restent si longtemps dans des biomes glacés qu’ils sont gelés jusqu’aux os.
+C'est le résultat de la vie normale non morte dans les biomes glacés pendant si longtemps qu'ils sont congelés à l'os.
 
-A frozen zombie resembles a normal zombie in appearance, but with one important difference: sa peau entière a acquis une teinte bleu pâle et sa tête, ses épaules, sa poitrine, ses bras et ses jambes sont recouverts de petites calottes de neige. On dirait qu'il vient de ramper hors d'une congère et qu'il a décidé que puisqu'il est déjà mort, autant avoir froid.
+Un zombie congelé ressemble à un zombie normal en apparence, mais avec une différence importante: toute sa peau a acquis une teinte bleu pâle, et sa tête, les épaules, la poitrine, les bras et les jambes sont couverts de petites calottes de neige. On dirait qu'il est sorti d'une dérive et qu'il a décidé qu'étant déjà mort, il pourrait avoir froid.
 
-Au combat, les zombies gelés se comportent différemment de leurs homologues habituels. Au lieu de charger immédiatement dans un combat au corps à corps, ils attaquent d'abord à distance avec des boules de neige. Un coup bien placé, et la victime est ralentie pendant quelques secondes. À ce stade, tous les autres zombies gelés à proximité se précipitent, essayant d’achever la cible immobilisée.
+Au combat, les zombies congelés se comportent différemment de leurs homologues réguliers. Au lieu de se charger immédiatement au combat, ils attaquent d'abord à distance avec des boules de neige. Un coup bien placé, et la victime est ralentie pendant quelques secondes. À ce stade, tous les autres zombies gelés se précipitent à proximité, essayant de terminer la cible immobilisée.
 
-After the slow wears off, frozen zombies retreat to a safe distance and repeat the cycle: - La meilleure défense contre les crocs est de tuer l'Evoker avant qu'il ne puisse les invoquer.
+Après l'usure lente, les zombies gelés reculent à une distance sûre et répètent le cycle: boule de neige, attaque, retraite. Cette tactique les rend dangereux en groupes, surtout dans les couloirs étroits où il n'y a pas de place pour éviter les boules de neige volantes.
 
-Il existe également des versions blindées de ces zombies, qui sont encore plus dangereuses que les zombies ordinaires.
+Des versions blindées de ces zombies existent également, qui sont encore plus dangereux que les versions régulières.
 
-TIPS: 
+CONSEILS:
 
-- Si vous voyez un zombie gelé, ne restez pas immobile. Les boules de neige volent avec précision, mais elles peuvent être évitées en roulant.
-- Si vous êtes ralenti, pas de panique. Essayez de vous déplacer dos au mur pour éviter d’être encerclé.
-- Tuez les zombies gelés en premier dans le groupe. Leur contrôle des foules est pire que les dégâts directs.
-- Une arme à longue portée résout le problème avant de pouvoir lancer une boule de neige.
+- Si vous voyez un zombie congelé, ne restez pas immobile. Les boules de neige volent avec précision, mais elles peuvent être évitées en roulant.
+- Si vous êtes ralenti, ne paniquez pas. Essayez de vous déplacer avec le dos vers le mur pour éviter d'être encerclé.
+- Tuer les zombies gelés d'abord. Leur contrôle de la foule est pire que des dommages directs.
+- Une arme à longue portée résout le problème avant qu'ils ne lancent une boule de neige.

@@ -1,31 +1,31 @@
 SCORPION SOLDIER, COMMANDO
 
 
-CLASS:      Scorpion Soldier, Commando
-METABOLISM: Endothermic, Viviparous Arthropod
-PERCEPTION: Advanced Arachnid Race
-SIZE:       24,9 ft
-ENDURANCE:  Very High
-HOSTILITY:  Extreme
-WEAPONS:    Obliterator Cannon
-REWARD:     600 FC
-THREAT:     Very High
+CLASSE:      Soldat Scorpion, Commando
+MÉTABOLISME: Arthropodes endothermiques Viviparus
+PERCEPTION: Course Arachnid avancée
+TAILLE:       24,9 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Extrême
+ARMES:    Cannon d'oblitérateur
+RÉCOMPENSE:     600 FC
+MENACE:     Très élevé
 
-DESCRIPTIF :
+DESCRIPTION:
 
-These arachnids were dubbed "Scorpion Soldiers" by humans, though the official EDF database calls them "Arachnid Soldiers". However, "Scorpion Soldier" sounds cooler.
+Ces arachnidés ont été surnommés « Scorpion Soldiers » par les humains, bien que la base de données officielle EDF les appelle « Arachnid Soldiers ». Cependant, "Scorpion Soldier" semble plus cool.
 
-These alien arachnids originate from a distant, harsh planet, where they were the dominant species. They even managed to form an advanced society—at least as far as that's possible for giant insects.
+Ces arachnidés extraterrestres proviennent d'une planète lointaine et dure, où ils étaient l'espèce dominante. Ils ont même réussi à former une société avancée, du moins autant que possible pour les insectes géants.
 
-Mental has formed an alliance with their Matriarch, and she provides her warriors to fight for his cause in exchange for allowing her brood to infest the planets they help Mental conquer.
+Mental a formé une alliance avec leur Matriarche, et elle fournit à ses guerriers de se battre pour sa cause en échange de permettre à sa couvée d'infester les planètes qu'ils aident à conquérir Mental.
 
-Commanders are larger and stronger than Privates. They are armed with a more powerful Obliterator-class plasma cannon. Like their subordinates, they quickly fire a barrage of projectiles at targets.
+Les commandants sont plus grands et plus forts que les soldats. Ils sont armés d'un canon plasma de classe Oblitérateur plus puissant. Comme leurs subordonnés, ils lancent rapidement un barrage de projectiles sur des cibles.
 
-Their primary role on the battlefield is to destroy enemy armored and mechanized forces, while Privates handle the infantry.
+Leur rôle principal sur le champ de bataille est de détruire les forces blindées et mécanisées ennemies, tandis que les soldats s'occupent de l'infanterie.
 
-TIPS:
+CONSEILS:
 
-- Keep your distance and avoid their shots by moving to the side.
-- Their claws are even more dangerous than their shots.
-- Explosives are your best way to quickly dispatch them.
-- Do NOT call them "Arachnoids". They are enraged by comparison to a species far more primitive than themselves.
+- Gardez votre distance et évitez leurs tirs en se déplaçant sur le côté.
+- Leurs griffes sont encore plus dangereuses que leurs tirs.
+- Les explosifs sont votre meilleur moyen de les envoyer rapidement.
+- Ne les appelez pas "Arachnoïdes". Ils sont enragés par rapport à une espèce beaucoup plus primitive qu'eux-mêmes.

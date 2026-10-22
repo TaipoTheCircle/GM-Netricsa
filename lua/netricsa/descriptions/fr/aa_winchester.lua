@@ -1,23 +1,23 @@
-FUSIL À POMPE WINCHESTER MODÈLE 1894
+MODÈLE WINCHESTER 1894 POMMES D'ACTION
 
 
-ARME : Winchester Model 1894 Pump-Action Shotgun
-MUNITIONS : .30-30 Winchester
-ROF : Lever-action, ~30 rounds / min
-POIDS : 3,1 kg
+ARME:  Winchester Modèle 1894 Pump-Action fusil de chasse
+MUNITIONS:    30-30 Winchester
+CADENCE DE TIR:     Action de levier, ~30 tours/min
+POIDS:  3,1 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-A classic lever-action rifle designed by John Browning in 1894. The weapon features a simple and reliable design and is primarily intended for accurate shooting at medium ranges. The primary cartridge for this model is the .30-30 Winchester.
+Un fusil à levier classique conçu par John Browning en 1894. L'arme est dotée d'un design simple et fiable et est principalement destinée à un tir précis à portée moyenne. La cartouche principale de ce modèle est le .30-30 Winchester.
 
-After each shot, the shooter lowers the lever and returns it, ejecting the spent cartridge and chambering a fresh round. The standard version has a 10-round tubular magazine.
+Après chaque tir, le tireur abaisse le levier et le retourne, éjectant la cartouche usée et injectant un nouveau tour. La version standard dispose d'un magazine tubulaire de 10 tours.
 
-REMARQUES :
+REMARQUES:
 
-- Good accuracy at medium ranges.
-- Manual reloading lever after each shot.
-- 10-round tubular magazine.
-- The .30-30 Winchester cartridge offers good power against light and medium targets.
-- Effective at medium ranges, where it combines accuracy with relatively high power.
-- Slow rate of fire compared to semi-automatic rifles.
-- Weighing approximately 3.1 kg, it is relatively comfortable for extended carry.
+- Bonne précision aux gammes moyennes.
+- Le levier de recharge manuelle après chaque tir.
+- magazine tubulaire à 10 tours.
+- La cartouche .30-30 Winchester offre une bonne puissance contre les cibles légères et moyennes.
+- Efficace à des gammes moyennes, où il combine précision et puissance relativement élevée.
+- Lenteur du feu par rapport aux fusils semi-automatiques.
+- Avec un poids d'environ 3,1 kg, il est relativement confortable pour le transport prolongé.

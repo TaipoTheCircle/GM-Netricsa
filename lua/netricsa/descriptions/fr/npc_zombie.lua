@@ -1,21 +1,21 @@
-ZOMBIE CRABE, TERRE
+ZOMBIE DU SIÈGE, TERRE
 
 
-CLASS: TêteCrab Zombie, Terre
-METABOLISM: hôte parasite
+CLASSE:      Zombie Crabe, Terre
+MÉTABOLISME: hôte parasitaire
 PERCEPTION: Entité zombifiée
-SIZE: 6-7 pieds
-ENDURANCE: moyen
-HOSTILITY: haut
-WEAPONS: griffes, morsure, saut de crabe
-REWARD: 200FC
-THREAT: moyen
+TAILLE:       6-7 pieds
+ENDURANCE:  moyenne
+HOSTILITÉ:  élevé
+ARMES:    griffes, morsure, griffes de tête
+RÉCOMPENSE:     200 FC
+MENACE:     moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Ces malheureuses créatures étaient autrefois des humains, jusqu'à ce qu'un crabe s'accroche à leur crâne et prenne le contrôle total de leur système nerveux. Leurs corps tordus avancent en titubant avec des mouvements saccadés et contre nature, motivés uniquement par la faim du parasite. L'esprit de l'hôte est encore vaguement conscient, obligé de regarder, impuissant, le crabe utiliser son corps comme une marionnette. Leurs gémissements et cris déformés sont les derniers vestiges de l’humain emprisonné à l’intérieur.
+Ces créatures malheureuses étaient autrefois humaines, jusqu'à ce qu'un cratère se verrouille sur leur crâne et prenne le contrôle complet de leur système nerveux. Leurs corps tordus planent vers l'avant avec des mouvements incrustés et contre nature, poussés seulement par la faim du parasite. L'esprit de l'hôte est encore peu conscient à l'intérieur, forcé de regarder sans défense que le headcrab utilise leur corps comme une marionnette. Leurs gémissements déformés et leurs cris sont les derniers restes de l'homme piégé à l'intérieur.
 
-TIPS: 
+CONSEILS:
 
-- Visez le crabe pour neutraliser rapidement l'hôte.
-- Gardez vos distances : ils se jettent sans prévenir.
+- Visez le headcrab pour neutraliser rapidement l'hôte.
+- Gardez votre distance - ils se battent sans avertissement.

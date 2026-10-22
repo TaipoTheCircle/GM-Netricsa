@@ -1,15 +1,15 @@
 TRIPMINE
 
 
-WEAPON: Mine laser
-AMMO: Aucun (engin explosif plaçable)
+ARME:      Trimine laser
+MUNITIONS:        Aucun (engin explosif placé)
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Mine énergétique déployable avec déclencheur laser visible. Se fixe aux murs et explose lorsque le laser est traversé, causant d'énormes dégâts de zone.
+Mine à base d'énergie déployable avec un déclencheur laser visible. Se fixe aux murs et détone lorsque le laser est croisé, causant des dommages massifs à la zone.
 
-NOTES: 
+REMARQUES:
 
-- Arme piège extrêmement puissante.
-- Un laser visible peut alerter les ennemis observateurs.
-- Risqué à utiliser dans des espaces rapprochés.
+- Une arme à piège extrêmement puissante.
+- Le laser visible peut alerter les ennemis.
+- Risque d'utilisation dans les quartiers proches.

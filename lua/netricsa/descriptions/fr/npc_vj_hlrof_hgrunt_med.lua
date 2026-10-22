@@ -1,24 +1,24 @@
-H.E.C.U. MÉDICAL
+S.E.C.U. MEDIC
 
 
-CLASS: H.E.C.U. Médical
-METABOLISM: Humain, mâle
-PERCEPTION: Médecin de combat
-SIZE: ~5,9 pieds
-ENDURANCE: Moyen
-HOSTILITY: Haut
-WEAPONS: Pistolet, SMG, couteau de combat, trousse médicale
-REWARD: 800 FC
-THREAT: Moyen-élevé
+CLASSE:      Santé Canada
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Lutte contre les médicaments
+TAILLE:       ~5,9 pi
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Pistol, SMG, couteau de combat, kit médical
+RÉCOMPENSE:     800 FC
+MENACE:     Moyenne-haute 
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le H.E.C.U. Medic est un marin déployé sur le terrain, formé pour maintenir son unité en vie lors d'opérations prolongées. Bien qu'ils ne soient pas aussi lourdement armés que les soldats de première ligne, les médecins transportent des kits médicaux et des stimulants de combat, ce qui leur permet de soigner les soldats blessés et de maintenir l'escouade au combat à pleine puissance.
+Le S.E.C.U. Medic est un marine déployé sur le terrain formé pour maintenir son unité en vie pendant des opérations prolongées. Bien qu'ils ne soient pas aussi lourdement armés que les grogneurs de première ligne, Medics transporte des trousses médicales et des stimulants de combat, ce qui leur permet de rétablir les soldats blessés et de maintenir la force des combats.
 
-On the battlefield, they balance aggression with support - firing with SMGs or pistols, then darting behind cover to patch up their comrades. Their role makes them a force multiplier: une escouade avec un Medic peut endurer beaucoup plus de punitions qu'une patrouille régulière.
+Sur le champ de bataille, ils équilibrent l'agression avec le soutien - tirer avec des SMG ou des pistolets, puis flécher derrière la couverture pour arranger leurs camarades. Leur rôle en fait un multiplicateur de force: une équipe avec un Medic peut supporter beaucoup plus de punition qu'une patrouille régulière.
 
-TIPS: 
+CONSEILS:
 
-- Concentrez d'abord le feu sur les médecins : leurs soins peuvent prolonger les combats.
-- Les explosifs ou les munitions lourdes sont idéaux pour éliminer à la fois les médecins et leurs patients.
-- Les médecins isolés sont moins menaçants, mais n'en ignorent jamais un dans un groupe.
+- Concentrez-vous d'abord sur les médicaments - leur guérison peut prolonger les batailles.
+- Les explosifs ou les munitions lourdes sont idéales pour éliminer les médicaments et leurs patients en même temps.
+- Les médicaments isolés sont moins menaçants, mais n'ignorez jamais un membre d'un groupe.

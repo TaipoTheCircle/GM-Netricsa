@@ -1,22 +1,22 @@
-DREAMCAST BULLSQUID DE XEN
+BULLES DREAMCAST QUIDENT XEN
 
 
-CLASS: Calmar, Dreamcast
-METABOLISM: omnivore agressif
-PERCEPTION: Prédateur terrestre
-SIZE: 7-8 pieds
-ENDURANCE: moyen-élevé
-HOSTILITY: extrême
-WEAPONS: tentacules, griffes, coup de queue, crachat toxique
-REWARD: 375 FC
-THREAT: moyen-élevé
+CLASSE:      Taureau, Dreamcast
+MÉTABOLISME: omnivore agressif
+PERCEPTION: Predator terrestre
+TAILLE:       7-8 pieds
+ENDURANCE:  moyenne-élevée
+HOSTILITÉ:  extrême
+ARMES:    tentacules, griffes, crachats toxiques
+RÉCOMPENSE:     375 FC
+MENACE:     moyenne-élevée
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Dreamcast Bullsquid est un prédateur Xen rare, visuellement distinct grâce à sa peau unique à points bleus. Bien que génétiquement similaire au Bullsquid standard, sa peau tachetée offre un camouflage étrange dans les paysages bioluminescents de Xen, et ses yeux perçants semblent briller d'hostilité extraterrestre. Comme ses cousins, il chasse tout ce qui se trouve en vue, en utilisant son fameux crachat toxique pour affaiblir ses proies avant de les déchirer avec ses griffes, sa queue et ses mâchoires cassantes.
+Le calmar Dreamcast est un rare prédateur Xen, visuellement distinct grâce à sa peau à taches bleues. Bien que génétiquement similaire au calmar standard, sa peau tachetée offre un camouflage aéré dans les paysages bioluminescentes de Xen, et ses yeux perçants semblent briller d'hostilité extraterrestre. Comme ses cousins, il chasse n'importe quoi en vue en utilisant sa fameuse crache toxique pour affaiblir les proies avant de les déchirer avec des griffes, des queues et des mâchoires qui se cassent.
 
-TIPS: 
+CONSEILS:
 
-- Ne sous-estimez pas leurs crachats à distance, c'est à la fois douloureux et désorientant.
-- Circuler en cercle pour éviter le coup de queue.
-- Utilisez des explosifs ou un tir rapide pour les abattre avant qu'ils ne se rapprochent.
+- Ne sous-estimez pas leur cracher-c'est à la fois douloureux et désorientant.
+- Cercle pour éviter la queue.
+- Utilisez des explosifs ou un feu rapide pour les faire tomber avant qu'ils ne se rapprochent.

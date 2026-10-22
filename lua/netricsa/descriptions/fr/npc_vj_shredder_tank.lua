@@ -1,41 +1,41 @@
-RÉSERVOIR DE BROYAGE DU CYBERSTAN
+TANQUE DE CYBERSAN
 
 
-CLASSE : Réservoir broyeur
-MÉTABOLISME : Mécanique
-PERCEPTION : Armure lourde, Destructeur d'infanterie
-TAILLE : 13 pieds
-ENDURANCE : Extrême
-HOSTILITÉ : Absolue
-ARMES : Mitrailleuses lourdes jumelles (cycleurs à fusion lourde à quatre étages)
-RÉCOMPENSE : 4000 FC
-MENACE : Absolue
+CLASSE:      Citernes
+MÉTABOLISME: Mécanique
+PERCEPTION: Armure lourde, Détresse d'infanterie
+TAILLE:       13 pieds
+ENDURANCE:  Extrême
+HOSTILITÉ:  Absolu
+ARMES:    Deux mitrailleuses lourdes (cycleurs de fusion lourds à quatre étages)
+RÉCOMPENSE:     4000 FC
+MENACE:     Absolu
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Il s'agit d'une variante du char lourd Automaton, différant de son homologue "Annihilator" par son armement. Au lieu d'un seul puissant canon intermittent, le Shredder est équipé d'un quadruple support anti-aérien, reconfiguré pour l'attaque au sol.
+Il s'agit d'une variante du réservoir lourd Automaton, différente de son homologue "Annihilateur" dans son armement. Au lieu d'un seul canon intermittent puissant, le Shredder est équipé d'un support quadruple antiaérien, reconfiguré pour une attaque au sol.
 
-Extérieurement, ce char se distingue facilement par sa tourelle à quatre canons longs, qui rappelle le canon anti-aérien Flakpanzer IV Wirbelwind. Ces canons, initialement conçus pour détruire les avions, réduisent désormais l'infanterie Helldiver à une bouillie sanglante.
+De l'extérieur, ce réservoir se distingue facilement par sa tourelle à quatre longs barils, rappelant le canon antiaérien Flakpanzer IV Wirbelwind. Ces canons, conçus à l'origine pour détruire des avions, réduisent maintenant l'infanterie Helldiver à une pulpe sanglante.
 
-Le char est armé de quatre mitrailleuses lourdes jumelées (cycleurs à fusion lourde à quatre étages). La cadence de tir est de 1 200 tr/min. Le pistolet a deux modes :
+Le char est armé de quatre mitrailleuses doubles lourdes (cycleurs de fusion lourds à quatre étages). Le taux d'incendie est de 1200 RPM. Le pistolet a deux modes :
 
-Tir de précision : une courte rafale d'une durée d'une seconde.
+Precision Fire: Un court éclatement d'une seconde.
 
-Nettoyage : Une longue rafale de 2 secondes avec la tourelle se déplaçant sur les côtés, fauchant tous les êtres vivants.
+Cleansing: Une longue éclatement de 2 secondes avec la tourelle traversant les côtés, tondre toutes les choses vivantes.
 
-Au combat, le Shredder Tank tire en continu, en utilisant l'un des deux modes de tir. Grâce aux tourelles jumelles, il peut faire pivoter la tourelle très rapidement, poursuivant ainsi des cibles rapides.
+Au combat, le Shredder Tank tire continuellement, en utilisant l'un des deux modes de tir. Grâce aux tourelles jumelles, il peut tourner la tourelle très rapidement, en traçant des cibles rapides.
 
-Contrairement à l'Annihilator, qui laisse des ouvertures pour l'attaque entre les tirs de la batterie principale, le Shredder pulvérise la zone avec du plomb presque continuellement.
+Contrairement à l'Annihilator, qui laisse des ouvertures pour l'attaque entre les coups de batterie principaux, le Shredder pulvérise la zone avec du plomb presque continuellement.
 
-Le Shredder Tank a les mêmes points faibles que l'Annihilator :
+The Shredder Tank has the same weak points as the Annihilator:
 
-Moteur arrière, radiateur de tourelle arrière, bandes de roulement (La destruction d'une chenille immobilise le char, mais ne le détruit pas.) Il est également vulnérable au feu.
+Moteur arrière, radiateur de turbine arrière, fils (détruire une voie immobilise le réservoir, mais ne la détruit pas.) Il est également vulnérable au feu.
 
-CONSEILS :
+CONSEILS:
 
-- N'essayez pas de vous cacher derrière un mur mince. Ses mitrailleuses le transperceront.
-- Ne restez pas à l'air libre. Le char nettoie une zone rapidement.
-- Utilisez les ravins et les points bas pour approcher le char par l'arrière.
-- Détruire ses chenilles immobilise le char, mais il continue de tirer.
-- Une fois détruit, le char explose dans un rayon de 8 mètres. Éloignez-vous.
+- Ne vous cachez pas derrière un mur mince. Ses mitrailleuses vont le percer.
+- Ne restez pas ouvert. Le réservoir dégage rapidement une zone.
+- Utilisez des ravins et des points bas pour approcher le réservoir de l'arrière.
+- Détruire ses voies immobilise le réservoir, mais il continue à tirer.
+- Lorsqu'il est détruit, le réservoir explose dans un rayon de 8 mètres. Dégage.
 - Le Shredder est plus dangereux pour l'infanterie que l'Annihilator. Supprimez-le avec des armes lourdes avant qu'il ne se rapproche de votre position.

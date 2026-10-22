@@ -1,17 +1,17 @@
-COMPRIMÉ
+SR-25 RIVEAU D'AUTORISATION
 
 
-WEAPON: SR-25
-MUNITIONS Cartouches 7,62×51 OTAN
-ROF: ~20 tours/min
+ARME:      SR-25
+MUNITIONS:        7.62×51 Cartouches de l'OTAN
+CADENCE DE TIR:         ~20 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un fusil de précision à chargement automatique développé par Eugene Stoner dans les années 1990, basé sur la conception du fusil AR-15. Diverses modifications du SR-25 sont en service dans les forces armées et le corps des marines américains, ainsi que dans un certain nombre d'organismes chargés de l'application des lois en Australie, en Israël et en Pologne. Les versions civiles sont utilisées dans les sports de tir, dans les services de police et de gardes forestiers.
+Un fusil à sniper auto-chargeur développé par Eugene Stoner dans les années 90 sur la base de la conception du fusil AR-15. Diverses modifications du SR-25 sont en service auprès des forces armées américaines et du Corps maritime, ainsi qu'un certain nombre d'organismes chargés de l'application des lois en Australie, en Israël et en Pologne. Les versions civiles sont utilisées dans les sports de tir, la police et les services de ranger.
 
-NOTES: 
+REMARQUES:
 
-- Ce fusil est efficace à moyennes et longues portées.
-- Il ne dispose pas de mode de tir automatique.
-- Certaines personnes l'utilisent pour éliminer des personnes qu'elles n'aiment pas, comme les politiciens.
+- Ce fusil est efficace à portée moyenne à longue.
+- Il n'a pas de mode d'incendie automatique.
+- Certains l'utilisent pour éliminer les gens qu'ils n'aiment pas, comme les politiciens.
 

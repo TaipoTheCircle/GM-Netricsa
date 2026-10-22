@@ -1,16 +1,16 @@
-XEN, LE REPAIRE DE GONARCH (DERNIÈRE PARTIE)
+XEN, LAIT DE GONARCH (PARTIE FINALE)
 
 
-Ça y est : la chambre finale. Le Gonarch est acculé, enragé et plus fort que jamais. Pulvérisations d'acide, plates-formes qui s'effondrent, apparitions sans fin de crabes - elle vous jettera tout ce qu'il lui reste.
+C'est la dernière chambre. Le Gonarque est coincé, furieux et plus fort que jamais. Des vaporisateurs acides, des plates-formes qui s'effondrent, des géniteurs sans fin, elle jettera tout ce qu'elle vous a laissé.
 
-Une fois qu'elle tombe, ne faites pas la fête trop tôt. Le sol ici n'est pas stable. Vous devrez détruire le sol sous vous – c'est là que se trouve le portail caché, menant à des couches encore plus profondes de Xen.
+Une fois qu'elle tombe, ne fête pas trop tôt. Le sol n'est pas stable. Vous devrez détruire le sol sous vous - c'est là que se trouve le portail caché, menant à des couches encore plus profondes de Xen.
 
-Objective is clear: 
+Objective is clear:
 
-Battez le Gonarch une fois pour toutes.
+Vaincre le Gonarque une fois pour toutes.
 
-Réduisez le sol de la chambre.
+Effacer le plancher de la chambre.
 
-Entrez dans le portail et préparez-vous à la descente au cœur de Xen.
+Entrez dans le portail et préparez-vous à la descente dans le noyau de Xen.
 
-La présence de Nihilanth se renforce à mesure que vous avancez. Quoi qu’il arrive ensuite, il attend.
+La présence de Nihilanth se renforce plus vous allez plus loin. Quoi qu'il arrive, il attend.

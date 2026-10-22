@@ -1,25 +1,25 @@
-GROS EUGENE HAROLD KRABS DU BAS DE BIKINI
+BIG EUGENE HAROLD KRABS DE LA BOTTOM BIKINI
 
 
-CLASS: Grand Eugène Harold Krabs
-METABOLISM: Crustacé muté
-PERCEPTION: Stratège prédateur, organisateur de meurtres de masse
-SIZE: 6 pieds
-ENDURANCE: Très élevé
-HOSTILITY: Absolu
-WEAPONS: Griffes géantes, force physique dévastatrice
-REWARD: 1200FC
-THREAT: Critique
+CLASSE:        Gros Eugène Harold Krabs
+MÉTABOLISME:   Crustacés mutés
+PERCEPTION:   Stratège prédateur, organisateur de massacres
+TAILLE:         6 pieds
+ENDURANCE:    Très élevé
+HOSTILITÉ:    Absolu
+ARMES:      Griffes géantes, force physique dévastatrice
+RÉCOMPENSE:       1200 FC
+MENACE:       Critique
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Big Eugene Harold Krabs, mieux connu sous le nom de M. Krabs, n'est pas seulement le propriétaire de l'établissement, mais le cerveau derrière tout le projet alimenté par la viande. Il est le cerveau derrière la transformation du Krusty Krab en une usine cannibale cachée. Les galettes de crabe étaient fabriquées à partir de poisson, qui était ensuite mangé par d'autres poissons. Les clients solitaires disparaissaient sans laisser de trace et faisaient désormais partie du menu. Les affaires étaient parfaites.
+Big Eugene Harold Krabs, plus connu sous le nom de M. Krabs, n'est pas seulement le propriétaire de l'établissement, mais le cerveau derrière l'ensemble du régime de la viande. Il est le cerveau derrière la transformation du Krusty Krab en une usine de cannibales cachée. Krabby Patties ont été fabriqués à partir de poissons, qui ont ensuite été mangés par d'autres poissons. Les clients solitaires ont disparu sans laisser de trace, devenant une partie du menu. Les affaires étaient parfaites.
 
-Krabs est un fanatique de l'argent. Pas seulement gourmand, mais obsessionnel. Pour lui, le profit est plus important que la moralité, la logique et même l’instinct de conservation. Dans un souci de profit, il est prêt à exploiter n'importe qui, transformant la vie en marchandise et la peur en sauce. Son esprit est froid, calculateur et totalement dépourvu de doute.
+Krabs est un fanatique de l'argent. Pas seulement gourmand, mais obsessionnel. Pour lui, le profit est plus important que la morale, la logique et même la préservation de soi. Pour le bénéfice, il est prêt à exploiter n'importe qui, transformer la vie en marchandise et la peur en sauce. Son esprit est froid, calculateur, et complètement sans doute.
 
-Physiquement, c'est un crabe envahi par la végétation avec un corps massif et des griffes capables d'écraser un adversaire en quelques secondes. Il ne négocie pas. Toute approche est passible de représailles immédiates.
+Physiquement, c'est un crabe envahi avec un corps massif et des griffes capables d'écraser un adversaire en quelques secondes. Il ne négocie pas. Toute approche est passible de représailles immédiates.
 
-TIPS: 
+CONSEILS:
 
-- Le combat rapproché vous est fatal.
-- Il ne panique pas et ne s'enfuit pas.
+- Un combat rapproché est fatal pour vous.
+- Il ne panique ni ne s'enfuit.

@@ -1,21 +1,21 @@
-MOOSHROOM VACHE MINECRAFT OVERMONDE
+SURVEILLANCE DE LA COUPE DE MOOSHROOM
 
 
-CLASS: Vache Champi-Moos
-METABOLISM: Mammifère à sang chaud
-PERCEPTION: Animal sauvage/fongique
-SIZE: 5,2 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Faible
-WEAPONS: Aucun
-REWARD: 150 FC
-THREAT: Faible
+CLASSE:      Vache de Mooshroom
+MÉTABOLISME: Mammifère à sang chaud
+PERCEPTION: Animaux sauvages / fongiques
+TAILLE:       5,2 pi
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Faible
+ARMES:    Aucune
+RÉCOMPENSE:     150 FC
+MENACE:     Faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-La vache Mooshroom est une espèce inhabituelle de créature du biome champignon, une fusion de chair de vache biologique et d'un écosystème fongique. Les champignons poussent sur son dos et son corps est recouvert de peau de vache tachetée.
+La Vache de Mooshroom est une espèce inhabituelle de Biome de Champignon, une fusion de chair de vache organique et d'un écosystème fongique. Les champignons poussent sur son dos, et son corps est recouvert de cuir de vache tacheté.
 
-TIPS: 
+CONSEILS:
 
-- Les soupes aux champignons sont un moyen rapide de retrouver santé et satiété.
-- Après avoir coupé les champignons, elle se transformera en une vache ordinaire.
+- Les soupes de champignons sont un moyen rapide de reconstituer la santé et la satiété.
+- Après avoir coupé les champignons, elle deviendra une vache ordinaire.

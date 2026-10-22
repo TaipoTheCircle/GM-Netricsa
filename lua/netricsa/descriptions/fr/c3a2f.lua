@@ -1,4 +1,4 @@
-BLACK MESA REACTOR CORE, ACID PIT PORTAL
+CORE DE RÉACTEUR MESA BLACK, PORTAL ACIDES
 
 
-A small chamber: bassin acide en contrebas, portail unique planant à mi-niveau. La seule façon d’avancer est de sauter directement dans le portail. Pas de sorties alternatives, pas de chemins secondaires - il suffit de sauter ou de se dissoudre.
+A small chamber: piscine acide ci-dessous, portail unique planant à mi-niveau. La seule façon d'avancer est de sauter directement dans le portail. Pas de sorties alternées, pas de sentiers latéraux - sautent ou se dissolvent.

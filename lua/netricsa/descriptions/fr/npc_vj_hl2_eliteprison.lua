@@ -1,24 +1,24 @@
-COMBINEZ UN SOLDAT DE PRISON D'ÉLITE D'OVERWATCH
+ENGAGEMENT D'ÉLITE PRISON
 
 
-CLASS: Combinez le soldat de prison d'élite d'Overwatch
-METABOLISM: Humain augmenté, mâle
-PERCEPTION: Combiner gardien de prison
-SIZE: 5,9 pieds
-ENDURANCE: Très élevé
-HOSTILITY: Extrême
-WEAPONS: AR2, Grenades
-REWARD: 900 FC
-THREAT: Très élevé
+CLASSE:      Combinez le soldat de la prison Elite Overwatch
+MÉTABOLISME: Augmenté Humain, Homme
+PERCEPTION: Combiner les gardiens de prison
+TAILLE:       5,9 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Extrême
+ARMES:    AR2, Grenades
+RÉCOMPENSE:     900 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-L'Overwatch Combine Elite Prison Soldier est un agent spécialisé conçu pour garder les prisons et gérer les détenus dangereux. Son armure est celle du Nova Prospekt standard, offrant une protection renforcée, et son casque est celui du Combine Elite Soldier, mais avec une visière jaune, lui permettant d'observer les prisonniers et de répondre rapidement aux menaces.
+Le soldat de la prison Overwatch Combine Elite est un agent spécialisé conçu pour protéger les prisons et gérer les détenus dangereux. Son armure est standard Nova Prospekt, offrant une protection accrue, et son casque est pris du Soldat Combine Elite, mais avec une visière jaune, lui permettant d'observer les prisonniers et de réagir rapidement aux menaces.
 
-This type of fighter is equipped with a combination of long-range and close-range weapons: le fusil à impulsion AR2 permet de supprimer la résistance à différentes distances, tandis que les grenades sont efficaces pour détruire la couverture. Les augmentations offrent de l'endurance, de la vitesse de réaction et la capacité de se battre dans des espaces carcéraux confinés.
+This type of fighter is equipped with a combination of long-range and close-range weapons: le fusil à impulsion AR2 permet de supprimer la résistance à différentes distances, tandis que les grenades sont efficaces pour frapper le couvercle. Les augmentations fournissent l'endurance, la vitesse de réaction et la capacité de combattre dans les espaces de prison confinés.
 
-TIPS: 
+CONSEILS:
 
 - La visière jaune révèle sa position dans l'obscurité, mais l'aide à viser avec précision.
-- Gardez ses distances pour éviter les combats rapprochés.
-- Les grenades sont dangereuses dans les couloirs confinés des prisons ; utiliser un couvercle.
+- Gardez sa distance pour éviter les combats.
+- Les grenades sont dangereuses dans les couloirs de prison confinés.

@@ -1,24 +1,24 @@
-COMBINER OVERWATCH ELITE MEDIC
+ÉQUIPE DE SEAL 6 VENDU DE COMBINE SURVEILLANCE
 
 
-CLASS: Overwatch Combine SEAL Team 6 Soldat
-METABOLISM: Humain augmenté, mâle
-PERCEPTION: Forces spéciales marines d'élite
-SIZE: 5,9 pieds
-ENDURANCE: Très élevé
-HOSTILITY: Extrême
-WEAPONS: AK-47, AR2, M4A1, SMG2
-REWARD: 950 FC
-THREAT: Très élevé
+CLASSE:      Overwatch Combiner SEAL Team 6 Soldat
+MÉTABOLISME: Augmenté Humain, Homme
+PERCEPTION: Forces spéciales maritimes d'élite
+TAILLE:       5,9 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Extrême
+ARMES:    AK-47, AR2, M4A1, SMG2
+RÉCOMPENSE:     950 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Ces soldats étaient autrefois de véritables Navy SEALs des États-Unis, maîtres des raids surprises et des opérations de sauvetage dans les zones les plus dangereuses du monde.
+Ces soldats étaient autrefois de véritables SEAL de la marine américaine, maîtres des raids surprises et des opérations de sauvetage dans les zones les plus dangereuses du monde.
 
-Ils opéraient au sein d'une équipe capable de contourner toute sécurité et d'éliminer une cible derrière les lignes ennemies, risquant parfois leur vie pour quelques minutes d'avantage stratégique.
+Ils ont agi dans le cadre d'une équipe capable de contourner toute sécurité et d'éliminer une cible derrière les lignes ennemies, risquant parfois leur vie pendant quelques minutes d'avantage stratégique.
 
-Après que le Combine ait occupé la Terre, ils ont été recrutés dans Overwatch, se sont vu offrir la possibilité de « conserver leur emploi » et d'être transférés pour servir la nouvelle agence de « sécurité mondiale ».
+Après l'occupation de la Terre, ils ont été recrutés dans Overwatch, ont offert la chance de « garder leur emploi » et de transférer pour servir la nouvelle agence « sécurité mondiale ».
 
-TIPS: 
+CONSEILS:
 
-- Ce n'est pas une blague, il tire vite et avec précision.
+Il tire vite et avec précision.

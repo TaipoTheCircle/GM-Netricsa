@@ -1,21 +1,21 @@
-KRIEGER MUTANT DE L'ARCHIPEL KRIEGER
+MUTANT KRIEGER DE L'ARCHIPELAGO KRIEGER
 
 
-CLASS: Krieger mutant
-METABOLISM: Humain génétiquement modifié, mâle
+CLASSE:      Mutant Krieger
+MÉTABOLISME: Humain génétiquement modifié, Homme
 PERCEPTION: Le mutant parfait
-SIZE: ~8,2 pieds
-ENDURANCE: Haut
-HOSTILITY: Absolu
-WEAPONS: OICW, grenades, force surhumaine, saut
-REWARD: 100000FC
-THREAT: Maximum
+TAILLE:       ~8,2 pi
+ENDURANCE:  Haut
+HOSTILITÉ:  Absolu
+ARMES:    OICW, grenades, force surhumaine, saut
+RÉCOMPENSE:     100000 FC
+MENACE:     Maximum
 
-DESCRIPTION: 
+DESCRIPTION:
 
-The final form of Dr. George Krieger, achieved through the administration of an advanced Trigen serum. Unlike normal mutants, he retained full intelligence and reason, becoming the "perfect" Trigen - an apex predator. Combines technological weaponry (OICW, grenades) with phenomenal mutant abilities: sauter de vastes distances et améliorer la capacité de survie. C'est le point culminant de sa philosophie insensée sur la supériorité de la force et l'évolution accélérée.
+La forme finale du Dr George Krieger, obtenue par l'administration d'un sérum de Trigen avancé. Contrairement aux mutants normaux, il conserva toute son intelligence et sa raison, devenant le « parfait » Trigen - un prédateur du sommet. Combine l'armement technologique (OICW, grenades) avec des capacités phénoménales mutantes : sauter sur de grandes distances et améliorer la survie. C'est l'aboutissement de sa philosophie folle sur la supériorité de la force et l'évolution accélérée.
 
-TIPS: 
+CONSEILS:
 
-- Malgré ses capacités, sa santé n'est pas illimitée. Il est préférable d'utiliser des armes puissantes.
-- Continuez à avancer. Ses sauts lui permettent de réduire rapidement la distance.
+- Malgré ses capacités, sa santé n'est pas illimitée. Il vaut mieux utiliser des armes puissantes.
+- Continuez. Ses sauts lui permettent de fermer rapidement la distance.

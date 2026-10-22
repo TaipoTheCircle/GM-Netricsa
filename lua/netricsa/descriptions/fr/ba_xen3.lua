@@ -1,14 +1,14 @@
-LE MONDE FRONTIÈRE DE XEN, LES ÎLES
+LE MONDE FRONTIÈRE DE XEN, ÎLES
 
 
-LE MONDE FRONTIÈRE DE XEN, CASCADES DE XEN
+Xen a décidé d'aller encore plus loin et d'abandonner le concept de terre.
 
-Devant nous se trouvent des îles flottantes, en lévitation dans le vide.
+Avant nous sont des îles flottantes, lévitant dans le vide.
 
-Il y a beaucoup d'ennemis ici. Vortigaunts, la faune locale et tout ce que Xen cultive pour les invités non invités. Certains tirent. Certains sautent. Certains observent simplement depuis le bord de l'île, estimant jusqu'où vous allez tomber. Ils sont tous sûrs que vous n'êtes pas à votre place.
+Il y a de nombreux ennemis ici. Vortigaunts, faune locale, et tout ce que Xen pousse pour les invités non invités. Des tirs. Un peu de saut. Certains surveillent simplement le bord de l'île, en estimant jusqu'où vous allez tomber. Ils sont tous sûrs que tu n'es pas à la place.
 
-Il y a quelque part un chemin vers le dispositif de contrôle de téléportation. Bien entendu, vous n’êtes pas autorisé à y accéder directement. Tout d’abord, vous devez prouver que vous pouvez vous déplacer dans les airs sans ailes.
+Quelque part il y a un chemin vers l'appareil de contrôle de la téléportation. Bien sûr, vous n'êtes pas autorisé à y accéder directement. D'abord, vous devez prouver que vous pouvez vous déplacer dans l'air sans ailes.
 
-Les oiseaux Aflok locaux pullulent, créant l'illusion d'une vie non contaminée par la guerre. Une illusion qui dure précisément jusqu'au premier coup.
+Les oiseaux d'Aflok se promènent, créant l'illusion d'une vie non contaminée par la guerre. Une illusion qui dure jusqu'au premier coup.
 
-Alors sois précis, Sam.
+Sois précis, Sam.

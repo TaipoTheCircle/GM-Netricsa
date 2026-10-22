@@ -1,23 +1,23 @@
-PORTEUR DE L'ARMÉE COMBINÉE ARCTIQUE (APC)
+ARCTIC COMBINE ARMY CARRIER (APC)
 
 
-CLASS: Transporteur de l'armée combinée arctique (APC)
-METABOLISM: Véhicule de transport
-PERCEPTION: Transport de troupes blindé Arctic Combine
-SIZE: 26 pieds
-ENDURANCE: Très élevé
-HOSTILITY: Haut
-WEAPONS: Lanceur d'impulsions + Missiles guidés
-REWARD: 1500FC
-THREAT: Haut
+CLASSE:      Arctic Combine Army Carrier (APC)
+MÉTABOLISME: Véhicules de transport
+PERCEPTION: Arctic Combine le personnel blindé
+TAILLE:       26 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Haut
+ARMES:    Lanceur d'impulsions + missiles guidés
+RÉCOMPENSE:     1500 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-L'APC est un énorme véhicule blindé de transport de troupes Combine Arctic utilisé pour les patrouilles, le déploiement rapide de forces et le tir direct contre la résistance. Il combine une armure lourde, des armes redoutables et des systèmes mécaniques conçus pour supprimer tout signe d'insubordination. Ce véhicule est apparu au début du conflit et est particulièrement visible dans les zones urbaines et sur la côte, où il sert de colonne vertébrale aux unités de la Défense Civile et aux soldats d'Overwatch. Son blindage est conçu pour résister à des tirs nourris, tandis que de puissants missiles guidés et un lanceur à impulsions transforment l'APC d'un simple transport en une unité de frappe indépendante.
+L'APC est un important transporteur de personnel blindé de l'Arctique utilisé pour les patrouilles, le déploiement rapide de la force et le tir direct contre la résistance. Il combine armure lourde, armes redoutables, et systèmes mécaniques conçus pour supprimer tout signe d'insubordination. Ce véhicule est apparu au début du conflit et est particulièrement visible dans les zones urbaines et sur la côte, où il sert de base aux unités de la défense civile et aux soldats Overwatch. Son armure est conçue pour résister à un feu lourd, tandis que de puissants missiles guidés et un lanceur d'impulsions transforment l'APC d'un simple transport en une unité de frappe indépendante.
 
-Dans la pratique, l'APC est utilisé à la fois comme moyen de fournir rapidement des forces vers des points chauds et comme forteresse mobile pour la résistance aux bombardements.
+Dans la pratique, l'APC est utilisé à la fois comme un moyen de livrer rapidement des forces aux points chauds et comme une forteresse mobile pour pilonner la résistance.
 
-TIPS: 
+CONSEILS:
 
-- Utilisez des grenades ou du RPG V2.
-- Les missiles guidés de l'APC infligent des dégâts importants dans la zone de destruction - déplacez-vous à couvert.
+- Utiliser des grenades ou RPG V2.
+- Les missiles guidés de l'APC infligent des dommages importants dans la zone de destruction - se déplacent autour de la couverture.

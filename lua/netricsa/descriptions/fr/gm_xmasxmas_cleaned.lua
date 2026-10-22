@@ -1,10 +1,10 @@
-XMASXMAS, LA CARTE PERDUE DE L'HIVER
+XMASXMAS, LA CARTE LA PLUS HAUTE
 
 
-La carte xmasxmas.bsp est l'une des rares œuvres survivantes du mystérieux mappeur Garry's Mod connu sous le nom de zerozerozero, qui a disparu d'Internet en 2013 dans d'étranges circonstances.
+La carte xmasxmas.bsp est l'une des rares œuvres survivantes de la mystérieuse carte Mod de Garry connue comme zéro zéro zéro, qui a disparu d'Internet en 2013 dans des circonstances étranges.
 
-À première vue, la carte semble d'une simplicité trompeuse : un désert gelé, une voiture en panne et un seul corbeau debout dans la neige. Mais ceux qui y ont joué savent que quelque chose ne va pas. Le corbeau n'est pas normal. Lorsqu'il meurt, la fréquence d'images du jeu s'effondre et sv_cheats s'active soudainement. L'enquête a montré que la carte contenait secrètement six entités lua_run cachées, envoyant sans cesse des requêtes à un serveur mort.
+Au premier coup d'oeil, la carte semble d'une simplicité trompeuse - un désert gelé, une voiture cassée, et un seul corbeau debout dans la neige. Mais ceux qui l'ont joué savent que quelque chose ne va pas. Le corbeau n'est pas normal. Quand il meurt, le frame rate du jeu s'effondre, et sv cheats s'active soudainement. L'enquête a montré que la carte contenait secrètement six entités lua run cachées, envoyant sans cesse des requêtes à un serveur mort.
 
-Des tests plus approfondis ont révélé des résultats différents selon les jeux Source : dans Half-Life 2, le corbeau se comportait normalement, tandis que dans TF2, le joueur apparaissait en dehors de la carte et s'écrasait en quelques minutes.
+D'autres tests ont révélé différents résultats dans les jeux Source - dans Half-Life 2 le corbeau s'est comporté normalement, tandis que dans TF2 le joueur a frayé en dehors de la carte et s'est écrasé en quelques minutes
 
-When the map was cleaned of its scripts and the crow was killed again, the player's model stretched and distorted, and a single message appeared in the console: "Photographier!!!".
+Lorsque la carte a été nettoyée de ses scripts et que le corbeau a été tué à nouveau, le modèle du joueur s'est étendu et déformé, et un seul message est apparu dans la console: "Photographe!!!".

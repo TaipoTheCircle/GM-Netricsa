@@ -1,15 +1,15 @@
-M16A2 ASSAULT RIFLE
+CINQUANTE D'ASSAULT M16A2
 
 
-ARME : Colt M16A2
-AMMUNITION: 5.56x45 mm NATO cartridges 
-ROF : ~700 rounds / min
+ARME:     Colt M16A2
+AMMUNITION: Cartouches OTAN de 5,56x45 mm 
+CADENCE DE TIR:        ~700 tours/min
 
-DESCRIPTIF :
+DESCRIPTION:
 
-A reliable American-made assault rifle widely used by the US Armed Forces. Provides burst fire with acceptable accuracy. Its older brother, the M16A1, was used in the Vietnam War.
+Un fusil d'assaut fiable fabriqué par les Américains, largement utilisé par les forces armées américaines. Fournit un feu éclatant avec une précision acceptable. Son frère aîné, le M16A1, a été utilisé pendant la guerre du Vietnam.
 
-REMARQUES :
+REMARQUES:
 
-- Standard infantry weapon with reliable performance.
-- Accuracy suffers during prolonged firing.
+- Arme d'infanterie standard avec des performances fiables.
+- L'exactitude souffre pendant les tirs prolongés.

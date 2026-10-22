@@ -1,22 +1,22 @@
-TOURELLE DE PLAFOND XEN
+XEN CAILING TURRET
 
 
-CLASS: Tourelle de plafond Xen
-METABOLISM: Énergie électromagnétique
+CLASSE:      Tourelle de plafond Xen
+MÉTABOLISME: Énergie électromagnétique
 PERCEPTION: Système de défense techno-organique de Xen
-SIZE: Variable
-ENDURANCE: Moyen
-HOSTILITY: Haut
-WEAPONS: Décharges électriques
-REWARD: 300FC
-THREAT: Moyen
+TAILLE:       Variable
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Décharges électriques
+RÉCOMPENSE:     300 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-La tourelle de plafond Xen est un système de défense automatisé utilisé par les résidents extraterrestres de Xen. Ressemblant à une structure techno-organique, il est constitué d'une tige charnue suspendue au plafond, avec à son extrémité une ampoule noire recouverte d'un grillage violet, semblable à un bug zapper. Lorsqu'un mouvement organique est détecté, il tire des décharges électriques violettes sur la cible. Ces tourelles se trouvent généralement dans les îles flottantes de Xen et sont conçues pour protéger les zones clés des intrus. Malgré leur apparence redoutable, ils peuvent être détruits avec n'importe quelle arme et émettent un éclat de fumée violette lors de leur destruction.
+La tourelle de plafond Xen est un système de défense automatisé utilisé par les résidents extraterrestres de Xen. Ressemblant à une structure techno-organique, il se compose d'une tige charnue accrochée au plafond, avec une ampoule noire à l'extrémité recouverte d'un maillage violet, semblable à un zapper. Lorsque le mouvement organique est détecté, il tire des décharges électriques violettes à la cible. Ces tourelles se trouvent généralement dans les îles flottantes de Xen et sont conçues pour protéger les zones clés des intrus. Malgré leur apparence formidable, ils peuvent être détruits avec n'importe quelle arme et émettre une explosion de fumée pourpre lors de la destruction.
 
-TIPS: 
+CONSEILS:
 
-- Approchez-vous prudemment pour éviter de déclencher la tourelle.
-- Utilisez des armes à distance pour les désactiver à une distance sûre.
-- Faites attention à leur placement dans des zones à couverture limitée.
+- Approchez prudemment pour éviter de déclencher la tourelle.
+- Utiliser des armes variées pour les désactiver à distance.
+- Être attentif à leur placement dans des zones à couverture limitée.

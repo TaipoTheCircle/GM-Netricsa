@@ -1,21 +1,21 @@
-MARIO ROMAIN "PABLO"
+MARIO ROMAN "PABLO"
 
 
-CLASS: Mario Romain "Pablo"
-METABOLISM: Alimenté par la viande et les sandwichs
-PERCEPTION: Infanterie romaine, camée pop-culture
-SIZE: ~6 pieds
-ENDURANCE: Faible-Moyen
-HOSTILITY: Léger (jusqu'à attaque)
-WEAPONS: Canon à eau de type FLUDD
-REWARD: 200 FC, 1 casque et 1 référence décalée
-THREAT: Minimal
+CLASSE:      Mario Roman "Pablo"
+MÉTABOLISME: Viande et sandwich alimentés
+PERCEPTION: Infanterie romaine, culture pop Cameo
+TAILLE:       6 pieds
+ENDURANCE:  Faible-moyenne
+HOSTILITÉ:  Mild (jusqu'à l'attaque)
+ARMES:    Canon à eau semblable à FLUDD
+RÉCOMPENSE:     200 FC, 1 casque et 1 quirky Référence
+MENACE:     Minimal
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Mario Roman est moins un ennemi qu'un hommage ambulant au plombier préféré de tous. Arborant un casque rouge orné d'un "M" et brandissant un pulvérisateur d'eau rappelant FLUDD de Super Mario Sunshine. Pour rappeler à tous que vous venez de battre un cosplayeur plombier dans l'ancienne Gaule.
+Le Mario Roman est moins un ennemi et plus un hommage à pied au plombier préféré de tout le monde. Sportant un casque rouge emblazoned avec un "M" et maniant une water-spray qui rappelle FLUDD de Super Mario Sunshine. Pour rappeler à tout le monde que vous venez de battre un joueur de plombier dans l'ancienne Gaule.
 
-TIPS: 
+CONSEILS:
 
-- Pas besoin d'un coup de poing de guerre complet au bon moment qui le dégonflera comme un ballon mouillé.
-- Après l'avoir vaincu, vous réclamez un casque.
+- Pas besoin d'un coup de poing en pleine guerre.
+- Après l'avoir vaincu, vous avez un casque.

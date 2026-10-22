@@ -1,17 +1,17 @@
-FUSIL DE CHASSE A-24 "DEVASTATOR"
+A-24 "DÉVASTATEUR"
 
 
-ARME : Fusil de chasse A-24 "Devastator"
-Munitions : obus de calibre 24
-ROF: 300 tr/min
-POIDS : 24 livres.
+ARME: A-24 fusil de chasse "Devastator"
+MUNITIONS:   24 coquilles de jauge
+CADENCE DE TIR:    300 tr/min
+POIDS: 24 livres.
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Un fusil de chasse automatique dont la puissance de feu est à la hauteur de son redoutable surnom. Un design modernisé basé sur l'ancien système Atchisson. Tire des obus explosifs lourds à haute perforation (HPHE) capables de pénétrer plusieurs cibles.
-La vitesse initiale élevée et la fixation de lunette en option permettent une efficacité même à moyenne portée.
+Un fusil automatique dont la puissance de feu est à la hauteur de son terrible surnom. Un design modernisé basé sur l'ancien système Atchisson. Incendie des balles à forte pression explosive (HPHE) capables de pénétrer plusieurs cibles.
+Une vitesse de museau élevée et une fixation optionnelle de la portée permettent une efficacité même à portée moyenne.
 
-REMARQUES :
+REMARQUES:
 
-- Pouvoir perforant élevé, efficace contre les groupes concentrés et les cibles lourdes.
-- Recommandé pour éliminer les Technopolypes et les Épouses-Sorcières d'Achriman.
+- Puissance de perçage élevée efficace contre les groupes concentrés et les cibles lourdes.
+- Recommandé pour éliminer Technopolyps et Sorcières d'Achriman.

@@ -1,21 +1,21 @@
-SMC MARINE
+MARINE DU SMC
 
 
-CLASS: SMC Marine
-METABOLISM: Humain, mâle
-PERCEPTION: Marin terrien
-SIZE: 5,9 pieds
-ENDURANCE: Haut
-HOSTILITY: Haut
-WEAPONS: Mitrailleuse, fusil de chasse, lance-grenades, lance-roquettes, Hyper Blaster
-REWARD: 800 FC
-THREAT: Moyen-élevé
+CLASSE:      CSM Marine
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Marine terrestre
+TAILLE:       5,9 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Haut
+ARMES:    Pistolet automatique, Fusil, Lanceur de grenade, Lanceur de fusée, Hyper Blaster
+RÉCOMPENSE:     800 FC
+MENACE:     Moyenne-haute
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le SMC Marine est un membre clé des forces de combat humaines combattant l'invasion Strogg. Ils font partie d'unités militaires telles que la Global Defence Force (GDF) et le Space Marine Corps (SMC). Ils sont utilisés à la fois pour défendre la Terre et pour contre-attaquer sur le territoire de Strogg.
+Le SMC Marine est un membre clé des forces de combat humaines combattant l'invasion de Strogg. Ils font partie d'unités militaires comme la Force de défense mondiale (FDG) et le Corps de la marine spatiale (SMC). Ils servent à la fois à défendre la Terre et à contre-attaquer le territoire de Strogg.
 
-TIPS: 
+CONSEILS:
 
-- Utilisez un abri, car ils sont bien entraînés et utilisent des tirs de suppression.
-- Perturbez la coordination de l'escouade : l'infanterie isolée est beaucoup plus facile à vaincre.
+- Utilisez la couverture, car ils sont bien formés et utilisent le feu suppressif.
+L'infanterie isolée est beaucoup plus facile à vaincre.

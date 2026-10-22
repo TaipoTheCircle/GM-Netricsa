@@ -1,26 +1,26 @@
-POULET DU MINECRAFT OVERWORLD
+POULET DU MINECRAFT
 
 
-CLASS: Poulet
-METABOLISM: Oiseau
-PERCEPTION: Animal domestique/sauvage
-SIZE: 2,2 pieds
-ENDURANCE: Faible
-HOSTILITY: Faible
-WEAPONS: Aucun
-REWARD: 20 FC
-THREAT: Faible
+CLASSE:      Poulet
+MÉTABOLISME: Oiseaux
+PERCEPTION: Animaux domestiques / sauvages
+TAILLE:       2,2 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Faible
+ARMES:    Aucune
+RÉCOMPENSE:     20 FC
+MENACE:     Faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les poulets sont de petits oiseaux paisibles que l’on trouve dans presque tous les biomes Minecraft Overworld. Ils errent sans but, battant parfois des ailes, et pondent des œufs au fil du temps.
+Les poulets sont de petits oiseaux paisibles trouvés dans presque tous les biomes de Minecraft Overworld. Ils errent sans but, parfois battant leurs ailes, et pondent des œufs au fil du temps.
 
-Les poulets peuvent glisser en tombant, descendant lentement sans subir de dégâts dus à l'altitude.
+Les poulets peuvent glisser en tombant, descendre lentement sans endommager l'altitude.
 
-Les poulets peuvent être élevés avec des graines de blé.
+Les poulets peuvent être élevés à l'aide de graines de blé.
 
-TIPS: 
+CONSEILS:
 
-- Les œufs peuvent être utilisés pour élever des poulets ou comme armes jetables avec une chance de donner naissance à un poussin.
-- Des plumes sont nécessaires pour fabriquer des flèches.
+- Les œufs peuvent être utilisés pour élever des poulets ou comme armes jetables avec une chance de frayer un poussin.
+- Il faut des plumes pour faire des flèches.
 - Les poulets sont idéaux pour les fermes automatisées en raison de leur comportement simple.

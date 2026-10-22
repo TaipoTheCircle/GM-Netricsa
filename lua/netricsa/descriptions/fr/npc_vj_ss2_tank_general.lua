@@ -1,28 +1,28 @@
-BIOMECHANOID BULLTANK, GENERAL (LARGE)
+BIOMECHANOID BULLTANK, GÉNÉRAL (LARGE)
 
 
-CLASS:          Biomechanoid BullTank, General (Large)
-METABOLIZATION: Endothermic Cyborg
-PERCEPTION:     Cybernetically and Genetically Enhanced
-SIZE:           67,3 ft
-ENDURANCE:      Very High
-HOSTILITY:      Very High
-WEAPONS:        Missile Launchers
-REWARD:         2000 FC
-THREAT:         Very High
+CLASSE:          Biomécanoïde BullTank, Général (Grande)
+METABOLIZATION: Cyborg endothermique
+PERCEPTION:     Amélioration cybernétique et génétique
+TAILLE:           67,3 pieds
+ENDURANCE:      Très élevé
+HOSTILITÉ:      Très élevé
+ARMES:        Lanceurs de missiles
+RÉCOMPENSE:         2000 FC
+MENACE:         Très élevé
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Following the successful creation of Biomechanoid Walkers, Mental tasked its scientists with finding a way to convert existing troops into biomechanoids, so that they may continue to serve Mental even after suffering grievous wounds. The result was the Biomechanoid Tank.
+Après la création réussie de Biomechanoid Walkers, Mental a chargé ses scientifiques de trouver un moyen de convertir les troupes existantes en biomécanoïdes, afin qu'elles puissent continuer à servir Mental même après avoir souffert de blessures graves. Le résultat a été le réservoir biomécanique.
 
-Bullsoldiers that have been incapacitated in battle have their damaged body parts amputated, and cybernetic augmentations are surgically implanted in their place. The body is then connected to a tank chassis capable of traversing most forms of terrain, making them highly versatile.
+Les Bullsoldiers qui ont été incapables au combat ont leurs parties corporelles endommagées amputées, et les augmentations cybernétiques sont implantées chirurgicalement à leur place. La caisse est ensuite reliée à un châssis-citerne capable de traverser la plupart des formes de terrain, ce qui les rend très polyvalents.
 
-This variant is called "General" - they not only undergo cybernetic enhancement but also genetic modification, significantly increasing their size and strength. Their arms are replaced with missile launchers that fire volleys of rockets, making them excellent at destroying enemy fortifications.
+Cette variante est appelée « Général » - ils subissent non seulement l'amélioration cybernétique, mais aussi la modification génétique, augmentant significativement leur taille et leur force. Leurs armes sont remplacées par des lance-missiles qui tirent des volées de roquettes, les rendant excellents pour détruire les fortifications ennemies.
 
-Some Generals were given additional genetic enhancements in the hopes of further increasing their strength. However, this only increased their size without providing any durability boost.
+Certains généraux ont reçu des améliorations génétiques supplémentaires dans l'espoir d'accroître encore leur force. Cependant, cela n'a fait qu'augmenter leur taille sans fournir aucun boost de durabilité.
 
-TIPS:
+CONSEILS:
 
-- Destroy him as quickly as possible before you are overwhelmed by his missiles.
-- Bullets won't destroy these missiles; use heavier ammunition.
-- Keep your distance at all times.
+- Détruisez-le le plus rapidement possible avant d'être submergé par ses missiles.
+- Les balles ne vont pas détruire ces missiles.
+- Gardez vos distances en tout temps.

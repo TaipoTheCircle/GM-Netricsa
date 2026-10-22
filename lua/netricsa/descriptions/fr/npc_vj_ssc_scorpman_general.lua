@@ -1,24 +1,24 @@
-ARACHNOÏDE, ADULTE DU SCORPIUS
+ARACHNOID, ADULTE DU SCORPIUS
 
 
-CLASS: Arachnoïde, adulte
-METABOLISM: Ectotherme, arthropode
-PERCEPTION: Race sensible primitive
-SIZE: 20-25 pieds
-ENDURANCE: Haut
-HOSTILITY: Extrême
-WEAPONS: Pistolet à chaîne, piqûre de queue
-REWARD: 5000FC
-THREAT: Haut
+CLASSE:      Arachnoide, adulte
+MÉTABOLISME: Éctotherme, arthropodes
+PERCEPTION: Course sensible primitive
+TAILLE:       20-25 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Extrême
+ARMES:    Charnière, piqûre de queue
+RÉCOMPENSE:     5000 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un guerrier sacré issu d'une race primitive a évolué à partir d'arthropodes. Extrêmement hostile en raison de leurs convictions religieuses.
-Porte un Chaingun avec un réapprovisionnement en munitions dans une main. L'exosquelette couvre tout le corps de l'arachnoïde et offre une bonne protection contre les balles, les explosifs et le feu.
-Les adultes sont des guerriers adultes, dotés d'un exosquelette rouge fort et "mûr" et d'une taille beaucoup plus grande.
+Un guerrier sacré issu d'une race primitive a évolué à partir d'arthropodes. Très hostile en raison de leurs convictions religieuses.
+Il porte un fusil à chaîne avec une seule main. Exoskeleton couvre tout le corps d'Arachnoid et offre une bonne protection contre les balles, les explosifs et le feu.
+Les adultes sont des guerriers adultes, ayant un exosquelette rouge « mûr » et une taille beaucoup plus grande.
 
-TIPS: 
+CONSEILS:
 
-- Piqûre dangereuse - ne vous approchez pas de trop près.
-- Tireront sur leurs propres rangs avec fureur.
+- Merde dangereuse - ne pas approcher trop près.
+- Ils s'enfuient.
 

@@ -1,25 +1,25 @@
-GARDE DE SÉCURITÉ DELTA BASE ZOMBIE HEADCRAB, COMMUN (APERÇU)
+DELTA BASE ZOMBIE HEADCRAB SECURITE GUARD, COMMUN (PREVIEW)
 
 
-CLASS: Garde de sécurité Delta Base Zombie Headcrab, commun (aperçu)
-METABOLISM: Hôte humain + crabe parasite de Xen
-PERCEPTION: Entité zombifiée, ancien agent de sécurité
-SIZE: 6,2 pieds
-ENDURANCE: Haut
-HOSTILITY: Extrême
-WEAPONS: Griffes, mordre, saisir
-REWARD: 350FC
-THREAT: Haut
+CLASSE:      Delta Base Zombie Headcrab Security Guard, Common (Prévisualiser)
+MÉTABOLISME: Hôte humain + tête parasite de Xen
+PERCEPTION: Entité zombifiée, ancienne garde de sécurité
+TAILLE:       6,2 pi
+ENDURANCE:  Haut
+HOSTILITÉ:  Extrême
+ARMES:    Griffes, morsure, prise
+RÉCOMPENSE:     350 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-C'est ce que devient le personnel de sécurité de la base Delta après qu'un crabe ait pris le relais. Contrairement à leurs collègues scientifiques en blouse grise ou aux techniciens en combinaison tachée d'huile, les gardes étaient au départ plus forts, plus musclés et mieux préparés à l'effort physique. Malheureusement, cela ne les a pas sauvés de l'infection, mais cela a fait d'eux des adversaires bien plus dangereux sous leur forme zombifiée.
+C'est ce que deviennent les agents de sécurité de la base Delta après la prise de la tête. Contrairement à leurs collègues scientifiques enduits de gris ou aux techniciens en salopettes huilées, les gardes étaient initialement plus forts, plus musclés et mieux préparés à l'effort physique. Malheureusement, cela ne les a pas sauvés de l'infection - mais cela les a rendus beaucoup plus dangereux adversaires dans leur forme zombifiée.
 
-Les gardes portent des gilets de sécurité de la base Delta avec des étuis d'où leurs pistolets de service sont tombés depuis longtemps. Leurs corps sont moins déformés que ceux des scientifiques : apparemment, leurs muscles puissants résistent plus longtemps à la transformation parasitaire. Mais cela ne les rend pas plus faciles à gérer. Ils sont plus forts, plus résistants et plus agressifs que les zombies crabes ordinaires.
+Les gardes portent des gilets de sécurité Delta Base avec des étuis d'où leurs pistolets de service sont depuis longtemps tombés. Leurs corps sont moins déformés que ceux des scientifiques - apparemment, leurs muscles forts résistent à la transformation parasitaire plus longtemps. Mais ça ne les rend pas plus faciles à gérer. Ils sont plus forts, plus résilients et plus agressifs que les zombies classiques.
 
-TIPS: 
+CONSEILS:
 
-- Un garde zombie est plus résistant qu'un scientifique. Ne lésinez pas sur les balles.
-- He dies in the head the same way as everyone else: sa tête se détache.
-- Ne pensez pas que vous pouvez pénétrer un gilet pare-balles d'un seul coup. Visez la tête ou les jambes.
-- Dans un groupe, un garde est une cible prioritaire en raison de sa capacité de survie.
+- Un gardien zombie est plus résistant qu'un scientifique. Ne gâche pas les balles.
+- Il meurt dans la tête comme tout le monde : sa tête s'enlève.
+- Tu ne peux pas pénétrer un gilet pare-balles avec un seul coup. Visez la tête ou les jambes.
+- Dans un groupe, un gardien est une cible prioritaire à cause de sa survie.

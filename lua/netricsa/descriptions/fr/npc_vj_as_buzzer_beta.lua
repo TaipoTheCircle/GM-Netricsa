@@ -1,30 +1,30 @@
-BUZZER DE L'ESSAI BÊTA
+BETA SWARM BUZZER
 
 
-CLASSE : Buzzer d'essaim bêta
-MÉTABOLISME : Xénobiologique
-PERCEPTION : Éclaireur volant
-TAILLE : 2,3 pieds
-ENDURANCE : Très faible
-HOSTILITÉ : Moyenne
-ARMES : Trompe perçante, Morsure venimeuse
-RÉCOMPENSE : 100 FC
-MENACE : Faible
+CLASSE:      Buzzer Beta Swarm
+MÉTABOLISME: Xénobiologique
+PERCEPTION: Scout volant
+TAILLE:       2,3 pieds
+ENDURANCE:  Très faible
+HOSTILITÉ:  Moyenne
+ARMES:    Proboscis perçant, Bite venimeuse
+RÉCOMPENSE:     100 FC
+MENACE:     Faible
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Contrairement à ses frères ultérieurs, ce spécimen a un corps allongé et de grandes ailes membraneuses, lui permettant de rester en l'air pendant de longues périodes sans atterrir.
+Contrairement à ses frères ultérieurs, ce spécimen a un corps allongé et de grandes ailes membraneuses, ce qui lui permet de rester dans l'air pendant de longues périodes sans atterrir.
 
-L'arme principale de la créature est ses longues ailes poignardantes. Lors de l'attaque, le Buzzer plonge sur sa cible, vise un coup rapide puis recule immédiatement à une distance de sécurité. Cette action injecte à la victime une substance toxique, provoquant une douleur et une perte temporaire de coordination.
+L'arme principale de la créature est ses longues ailes poignardées. Lors de l'attaque, le Buzzer plonge à sa cible, visant un coup de couteau rapide puis se retirant immédiatement à une distance sûre. Cette action injecte la victime avec une substance toxique, causant une douleur et une perte temporaire de coordination.
 
-Un organe visuel sensible à la lumière situé à l’avant de la tête peut détecter les mouvements même dans des conditions de faible luminosité. Cela permet aux Buzzers d'apparaître fréquemment dans les grottes, les tunnels techniques et d'autres endroits où les plus grandes créatures de l'Essaim ont des difficultés à détecter leurs proies.
+Un organe visuel sensible à la lumière situé à l'avant de la tête peut détecter des mouvements même dans des conditions de faible luminosité. Cela permet aux Buzzers d'apparaître fréquemment dans des grottes, des tunnels techniques et d'autres endroits où les grandes créatures du Swarm ont de la difficulté à détecter les proies.
 
-Malgré son comportement agressif, cette espèce se caractérise par des défenses extrêmement faibles. La plupart des individus meurent après quelques coups, compensant cela par leur vitesse, leur nombre et leur persistance exceptionnelle.
+Malgré leur comportement agressif, cette espèce se caractérise par des défenses extrêmement faibles. La plupart des individus meurent après quelques coups, ce qui compense leur vitesse, leur nombre et leur persévérance exceptionnelle.
 
-Certains xénobiologistes pensent que les Buzzers modernes ont évolué à partir de ces créatures. Heureusement pour la science, les Buzzers eux-mêmes ne s’intéressent pas au débat scientifique.
+Certains xénobiologistes croient que les Buzzers modernes ont évolué de ces créatures. Heureusement pour la science, Buzzers eux-mêmes ne sont pas intéressés par le débat scientifique.
 
-CONSEILS :
+CONSEILS:
 
-- Surveillez le plafond et les espaces ouverts au-dessus de votre tête.
-- Ne laissez pas la meute tourner autour de vous.
-- La toxine est plus dangereuse que la morsure elle-même.
+- Surveillez le plafond et les espaces au-dessus de votre tête.
+- Ne laissez pas le cercle autour de vous.
+- La toxine est plus dangereuse que la morsure.

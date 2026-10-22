@@ -1,23 +1,23 @@
-M1911 PISTOL GOLD
+M1911 PISTOL OR
 
 
-ARME : M1911 Pistol GOLD
-MUNITIONS : .45 ACP
-ROF : Semi-automatic, ~60 rounds / minute
-POIDS : ~1,1 kg
+ARME: M1911 Pistolet GOLD
+MUNITIONS:   45 ACP
+CADENCE DE TIR:    Semi-automatique, ~60 tours / minute
+POIDS: ~1,1 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-This American semi-automatic pistol chambered for the .45 ACP cartridge is characterized by its simple design, high reliability, and significant stopping power. Designed by John Browning and adopted by the U.S. Army in 1911.
+Ce pistolet semi-automatique américain en chambre pour la cartouche ACP .45 se caractérise par sa conception simple, sa grande fiabilité et sa puissance d'arrêt importante. Conçu par John Browning et adopté par l'armée américaine en 1911.
 
-The pistol uses a 7-round magazine and operates on the principle of a short-recoil, locked-bolt mechanism. Thanks to its large caliber, the M1911 is capable of effectively engaging targets at close and medium ranges.
+Le pistolet utilise un chargeur à 7 tours et fonctionne selon le principe d'un mécanisme à culot verrouillé à courte distance. Grâce à son grand calibre, le M1911 est capable d'engager efficacement des cibles à portée proche et moyenne.
 
-REMARQUES :
+REMARQUES:
 
-- 7-round magazine.
-- High stopping power of the .45 ACP cartridge.
-- Good accuracy at close and medium ranges.
-- Simple and reliable design.
-- Effective primarily at short and medium ranges.
-- Small magazine capacity requires timely reloading.
-- Semi-automatic mechanism allows for quick follow-up shots.
+- un magazine à 7 tours.
+- Haute puissance d'arrêt de la cartouche ACP .45.
+- Bonne précision à portée étroite et moyenne.
+- Conception simple et fiable.
+- efficace principalement à courte et moyenne portée.
+- Une petite capacité de magazines nécessite un rechargement rapide.
+- Mécanisme semi-automatique permettant un suivi rapide.

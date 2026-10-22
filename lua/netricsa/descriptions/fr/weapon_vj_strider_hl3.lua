@@ -1,18 +1,18 @@
-CANON STRIDER DÉCHIRÉ
+CANNON DE STRIDER RIPPED
 
 
-WEAPON: Canon Grand-Pas déchiré
-AMMO: Piles à impulsions AR2
-ROF: ~120 tr/min
-WEIGHT: ~35 kg
+ARME: Cannon à crampons
+MUNITIONS:   AR2 Batteries à impulsions
+CADENCE DE TIR:    ~120 RPM
+POIDS: ~35 kg
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un canon à impulsions lourd arraché du module de combat d'un Strider et adapté pour une utilisation portable. Malgré la modification grossière, le système reste compatible avec les batteries d'énergie d'un fusil à impulsion AR2 standard.
+Un canon à impulsions lourdes arraché du module de combat d'un Strider et adapté pour une utilisation à main. Malgré la modification grossière, le système conserve sa compatibilité avec les batteries énergétiques d'un fusil à impulsion AR2 standard.
 
-L'arme est conçue pour détruire des cibles blindées et des véhicules à moyenne et longue portée. Chaque tir émet une puissante impulsion d'énergie capable de pénétrer dans la couverture et d'infliger des dégâts critiques. En raison de sa masse et de son manque de stabilisation complète, son utilisation nécessite un effort physique considérable.
+L'arme est conçue pour détruire des cibles blindées et des véhicules à moyenne et longue portée. Chaque tir émet une impulsion d'énergie puissante capable de pénétrer le couvercle et d'infliger des dommages critiques. En raison de sa masse et de son manque de stabilisation totale, il faut déployer des efforts physiques considérables.
 
-NOTES: 
+REMARQUES:
 
-- Compatible avec les piles AR2.
+- Compatible avec les batteries AR2.
 - Efficace contre les synthés lourds et les cibles mécanisées.

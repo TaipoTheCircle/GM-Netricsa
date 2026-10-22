@@ -1,22 +1,22 @@
 STUKA-BAT DE XEN
 
 
-CLASS: Stuka-Bat
-METABOLISM: carnivore
+CLASSE:      Stuka-Bat
+MÉTABOLISME: carnivore
 PERCEPTION: Le prédateur aérien de Xen
-SIZE: Envergure de 4 à 5 pieds
-ENDURANCE: moyen
-HOSTILITY: moyen
-WEAPONS: griffes, attaque en piqué, crachat acide
-REWARD: 30 FC
-THREAT: moyen
+TAILLE:       échelle de 4 à 5 pieds
+ENDURANCE:  moyenne
+HOSTILITÉ:  moyenne
+ARMES:    griffes, attaque de plongée, crachat acide
+RÉCOMPENSE:     30 FC
+MENACE:     moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Stuka-Bat est une créature ressemblant à une chauve-souris de Xen, dotée de six yeux et d'une anatomie unique qui lui permet de se suspendre aux plafonds ou de se déplacer au sol à l'aide de ses ailes et d'une seule patte arrière. On le rencontrerait dans les espaces ouverts. Le Stukabat attaque depuis les airs avec ses griffes et émet des bruits semblables à ceux d'un oiseau de proie.
+Le Stuka-Bat est une créature de type chauve-souris de Xen, avec six yeux et une anatomie unique qui lui permet de s'accrocher aux plafonds ou de se déplacer au sol en utilisant ses ailes et une seule jambe arrière. Ce serait rencontré dans les espaces ouverts. Le Stukabat attaque de l'air avec ses griffes et émet des bruits semblables à des oiseaux de proie.
 
-TIPS: 
+CONSEILS:
 
-- Gardez un œil sur le plafond ; il se cache peut-être ci-dessus.
-- Utilisez des armes à distance pour contrer ses attaques aériennes.
+- Gardez un œil sur le plafond; il peut se trouver au-dessus.
+- L'utilisation d'armes a varié pour contrer ses attaques aériennes.
 - Évitez les espaces confinés où il peut plonger efficacement.

@@ -1,22 +1,22 @@
-RÉCOLTEUSE STROGG DE STROGGOS
+STROGG HARVESTISSEUR DE STROGGOS
 
 
-CLASS: Moissonneuse Strogg
-METABOLISM: Cybernétique (bio-mécanique)
-PERCEPTION: Véhicules blindés lourds pour lutter contre les véhicules
-SIZE: 20 pieds
-ENDURANCE: Haut
-HOSTILITY: Extrême
-WEAPONS: Deux canons à plasma, pointes d'énergie, bras lames
-REWARD: 80000FC
-THREAT: Très élevé
+CLASSE:      Harvester Strogg
+MÉTABOLISME: Cybernétique (biomécanique)
+PERCEPTION: Véhicules blindés lourds pour le combat contre les véhicules
+TAILLE:       20 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Extrême
+ARMES:    Dual plasma canons, pics d'énergie, bras lames
+RÉCOMPENSE:     80000 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les moissonneurs sont de gigantesques robots robots ressemblant à des araignées de 15 mètres de haut, utilisés par les Strogg comme armure lourde anti-véhicule. Ce sont les unités Strogg les plus grandes et les plus puissantes jamais vues. Le Harvester se compose d'un « torse » humanoïde (équipé de deux bras blaster) attaché à quatre pattes en forme d'araignée.  Ils sont extrêmement résistants et très dangereux. Ils attaquent principalement avec un blaster entièrement automatique et peuvent périodiquement lancer un essaim de deux ou trois puissantes roquettes à tête chercheuse. Ils peuvent également empaler les ennemis et même les véhicules avec leurs jambes ; cette attaque tue instantanément même contre un hovertank.
+Les moissonneuses sont des robots gigantesques, de 50 pieds de haut, utilisés par les Strogg comme armure lourde antivéhicule. Ce sont les unités Strogg les plus grandes et les plus puissantes vues. La Harvester se compose d'un "torso" humanoïde (équipé de deux bras de blaster) attaché à quatre jambes de type araignée. Ils sont extrêmement résistants et très dangereux. Ils attaquent principalement à l'aide d'un blaster à moteur complet, et peuvent lancer périodiquement un essaim de deux ou trois puissantes fusées homométriques. Ils peuvent aussi empaler des ennemis et même des véhicules avec leurs jambes ; cette attaque est un meurtre instantané même contre un hovertank.
 
-TIPS: 
+CONSEILS:
 
-- Le Harvester utilisera le grand "tube" pour tirer les missiles guidés, désactiver le tube peut empêcher d'autres lancements.
-- Une meilleure façon de détruire un Harvester est de lui tirer dessus dans les jambes. Bien qu'il soit difficile de l'abattre, deux pattes détruites tueront instantanément un Moissonneur.
-- En marchant, il est possible d'éviter les Moissonneurs; à moins que vous n'ayez suffisamment de puissance de feu, ne gaspillez pas de munitions dessus.
+- La Harvester utilisera le grand "tube" pour tirer les missiles guidés, désactiver le tube peut empêcher de nouveaux lancements.
+- Une meilleure façon de détruire un Harvester est de tirer sur ses jambes. Bien qu'il soit difficile de l'abattre, deux jambes détruites tueront instantanément un Harvester.
+- Pendant qu'il est à pied, il est possible d'éviter les moissonneuses; à moins d'avoir assez de puissance de feu, ne gaspillez pas les munitions.

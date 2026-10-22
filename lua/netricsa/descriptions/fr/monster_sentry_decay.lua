@@ -1,25 +1,25 @@
-H.E.C.U. TOURELLE LOURDE DE SENTINELLE
+S.E.U. TURRET SENTRY LOURD
 
 
-CLASS: H.E.C.U. Tourelle de sentinelle lourde
-METABOLISM: Construction mécanique avancée
+CLASSE:      S.E.C.U. Tourelle lourde de Sentry
+MÉTABOLISME: Construction mécanique avancée
 PERCEPTION: Unité de défense automatisée avancée
-SIZE: ~5 pieds
-ENDURANCE: Haut
-HOSTILITY: Extrême
-WEAPONS: Mitrailleuse de gros calibre
-REWARD: 600 FC
-THREAT: Haut
+TAILLE:       ~5 pi 
+ENDURANCE:  Haut 
+HOSTILITÉ:  Extrême
+ARMES:    Mitrailleuse à haut calibre
+RÉCOMPENSE:     600 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-La tourelle Heavy Sentry est un modèle amélioré de la tourelle H.E.C.U. unité de défense, déployée dans des zones très restreintes comme l’installation Decay. Contrairement à son homologue plus faible, cette tourelle est renforcée par un blindage épais, lui permettant de résister à des tirs soutenus et à de petits explosifs. Son système de ciblage est plus rapide et son arme délivre des rafales plus lourdes, rendant la confrontation directe extrêmement dangereuse.
+Le Turret Heavy Sentry est un modèle amélioré de l'unité de défense standard de l'U.S.E., déployée dans des zones très restreintes comme l'installation Decay. Contrairement à sa contrepartie plus faible, cette tourelle est renforcée par un épais blindage, lui permettant de résister aux tirs soutenus et aux petits explosifs. Son système de ciblage est plus rapide et son arme produit des éclats plus lourds, rendant la confrontation directe extrêmement dangereuse.
 
-What makes this version especially lethal is its self-destruct mechanism: une fois détruite, la Sentinelle Lourde explose dans une violente explosion, garantissant que même un attaquant victorieux ne peut pas en sortir indemne. L’engagement tactique est donc une nécessité : la force brute entraîne souvent une destruction mutuelle.
+What makes this version especially lethal is its self-destruct mechanism: lorsqu'elle est détruite, le Heavy Sentry détone dans une violente explosion, faisant en sorte que même un attaquant victorieux ne puisse pas rester indemne. Cela fait de l'engagement tactique une nécessité - la force brute entraîne souvent une destruction mutuelle.
 
-TIPS: 
+CONSEILS:
 
-- Gardez vos distances - la destruction déclenche une explosion explosive.
+La destruction déclenche une explosion.
 - Utilisez des armes à longue portée pour désactiver en toute sécurité.
-- Le combat direct au corps à corps ou au corps à corps est suicidaire.
-- Une couverture importante et un timing minutieux sont essentiels à la survie.
+- Le combat direct à la mêlée ou au quartier proche est suicidaire.
+- Une couverture lourde et un timing soigné sont essentiels pour la survie.

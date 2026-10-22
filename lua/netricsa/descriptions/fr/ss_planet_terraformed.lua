@@ -1,34 +1,34 @@
-PLANÈTE TERRAFORMÉE
+PLANTE TERRAFORME
 
 
-PLANET: Planète terraformée
-TYPE: Planète terrestre, Planète artificiellement terraformée
-CLIMATE: Varié (tropical, aride, polaire)
-MOONS: Au moins 2 lunes
-TERRAIN: Jungles denses, chaînes de montagnes, déserts, marécages, calottes polaires
-LOCATION: Système stellaire inconnu
-NATIVE RACES: Humains, hommes sauvages, diverses espèces de dinosaures et créatures mutées
-ALLIANCE: Société Mendel-Gruman
-LOCATIONS: Forêts tropicales, régions désertiques, zones humides, systèmes de grottes souterraines
+PLANET:       Planète terrestre
+TYPE:         Planète terrestre, planète artificiellement terrifiée
+CLIMATE:      Varié (tropical, aride, polaire)
+MOONS:        Au moins 2 lunes
+TERRAIN:      Jungles denses, chaînes de montagnes, déserts, marécages, calottes polaires
+LOCATION:     Système étoile inconnu
+NATIVE RACES: Humains, Wildmen, diverses espèces de dinosaures et créatures mutées
+ALLIANCE:     Société Mendel-Gruman
+LOCATIONS:    Forêts pluviales, régions désertiques, zones humides, systèmes souterrains de grottes
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Depuis son orbite, cette planète ressemble à des continents vert terre entourés de mers bleues étincelantes. Cependant, sa véritable nature réside dans une expérience catastrophique. À l’origine, c’était un monde désertique instable avec une activité volcanique déchaînée, où la lave en fusion gisait juste sous une fine croûte.
+De l'orbite, cette planète ressemble à des continents vert-terre entourés de mers bleues pétillantes. Cependant, sa véritable nature réside dans une expérience catastrophique. A l'origine, c'était un monde instable et désertique avec une activité volcanique brûlante, où la lave fondue se trouvait juste sous une mince croûte.
 
-The Mendel-Gruman Corporation, led by Roland Kane, subjected the planet to massive terraforming. But the process took an unexpected turn: cela a déclenché une poussée exponentielle de l’activité évolutive. Le résultat fut l’apparition soudaine de dinosaures et d’autres créatures préhistoriques, dont beaucoup possédaient des mutations anormales.
+La Société Mendel-Gruman, dirigée par Roland Kane, a soumis la planète à des terraformations massives. Mais le processus a pris un tournant inattendu : il a déclenché une poussée exponentielle de l'activité évolutionnaire. Le résultat fut l'apparition soudaine de dinosaures et d'autres créatures préhistoriques, dont beaucoup possédaient des mutations anormales.
 
-La surface de la planète est principalement recouverte d'une jungle tropicale impénétrable, avec des arbres géants et d'imposants pics rocheux projetant de longues ombres. Il abrite des meutes de vélociraptors féroces, des rôdeurs furtifs en embuscade et des prédateurs plus grands tels que le T-Rex, le Dilophosaurus et le Giganotosaurus. Des herbivores paisibles tels que le Brachiosaurus et le Parasaurolophus coexistent avec des Triceratops agressifs.
+La surface de la planète est principalement couverte de jungle tropicale impénétrable, avec des arbres géants et des pics rocheux imposants qui jettent de longues ombres. Il abrite des paquets de Velociraptors féroces, d'embuscades furtives et de grands prédateurs comme T-Rex, Dilophosaurus et Giganotosaurus. Des herbivores pacifiques comme le Brachiosaurus et le Parasaurolophus coexistent avec des Triceratops agressifs.
 
-Outre les jungles, la planète contient des régions désertiques limitées avec des arbres morts et les restes d'anciennes créatures. Les zones humides sont de vastes marécages abritant des formes de vie aquatique uniques, notamment l'Utahraptor amphibie. Aux pôles se trouvent des calottes glaciaires dont la faune est inconnue.
+Outre les jungles, la planète contient des régions désertiques limitées avec des arbres morts et les restes de créatures anciennes. Les terres humides sont de vastes marais aux formes uniques de vie aquatique, y compris l'Utahraptor amphibie. Les calottes de glace se trouvent aux pôles, dont la faune est inconnue.
 
-Deep beneath the surface, a vast cave system extends, from vast grottoes to cramped tunnels. Creatures adapted to life without light dwell here in complete darkness: des prédateurs aveugles, des insectes soldats ressemblant à des scorpions géants et des monstres non identifiés ressemblant à des anguilles.
+Au fond de la surface, un vaste système de grottes s'étend, des vastes grottes aux tunnels exigus. Les créatures adaptées à la vie sans lumière habitent ici dans l'obscurité totale: prédateurs aveugles, bogues soldats géants ressemblant à du scorpion, et monstres anguilles non identifiés.
 
-La société Mendel-Gruman a exploité la flore et la faune uniques de la planète pour développer des armes biologiques destinées à être vendues à divers clients. Roland Kane a personnellement dirigé les forces militaires de la société sur la planète jusqu'à sa mort.
+La société Mendel-Gruman a exploité la flore et la faune uniques de la planète pour développer des armes biologiques à vendre à divers clients. Roland Kane a personnellement dirigé les forces militaires de la corporation sur la planète jusqu'à sa mort.
 
-KEY LOCATIONS: 
+KEY LOCATIONS:
 
-- Rainforests: Le principal biome de la planète, couvrant la majeure partie de la surface. Des jungles denses avec une végétation multicouche abritent la plupart des espèces de dinosaures.
-- Desert Regions: Zones limitées et arides aux conditions difficiles. Ils abritent des espèces de dinosaures cuirassés aux écailles ressemblant à des roches.
-- Wetlands: Des marécages et des marécages sans fin habités par des formes de vie aquatiques uniques, notamment des Utahraptors amphibies et de gigantesques T-Rex.
-- Subterranean Cave Systems: Un vaste réseau de tunnels sous la surface de la planète, abritant des créatures adaptées aux ténèbres éternelles.
-- Mendel-Gruman's Facilities: Stations de recherche et bases militaires de la société, y compris les installations construites sur la surface instable et pré-terraformée.
+- Forêts tropicales : Le biome principal de la planète, couvrant la plus grande partie de la surface. Les jungles denses à végétation multicouche abritent la plupart des espèces de dinosaures.
+- Régions désertiques : Zones arides limitées dans des conditions difficiles. Ils abritent des espèces de dinosaures blindés avec des écailles semblables à des roches.
+- Zones humides : marécages et marais sans fin habités par des formes de vie aquatiques uniques, y compris les Utahraptors amphibies et les gigantesques T-Rex.
+- Systèmes souterrains de grottes : Un vaste réseau de tunnels sous la surface de la planète, qui abrite des créatures adaptées à l'obscurité éternelle.
+- Installations de Mendel-Gruman : Stations de recherche et bases militaires de la société, y compris les installations construites sur la surface instable et pré-terrifiée.

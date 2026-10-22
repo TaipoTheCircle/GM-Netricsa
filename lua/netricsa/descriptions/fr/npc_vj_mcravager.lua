@@ -1,36 +1,36 @@
-RAVAGER DU MONDE MINECRAFT
+RAVAGER DE L'EXERCICE MINECRAFT
 
 
-CLASS: Ravager
-METABOLISM: Bête Illager
+CLASSE:      Ravage
+MÉTABOLISME: Bête d'Illager
 PERCEPTION: Arme de siège / Unité de choc lourd
-SIZE: 7,2 pieds
-ENDURANCE: Extrême
-HOSTILITY: Extrême
-WEAPONS: Coup de tête, rugissement, brise-bloc
-REWARD: 2000 FC
-THREAT: Extrême
+TAILLE:       7,2 pi
+ENDURANCE:  Extrême
+HOSTILITÉ:  Extrême
+ARMES:    Tête de cul, rugissement, disjoncteur
+RÉCOMPENSE:     2000 FC
+MENACE:     Extrême
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Il s’agit du bélier vivant et de l’arme de siège de l’armée Illager. C'est une bête gigantesque, ressemblant à un hybride d'un taureau, d'un rhinocéros et d'une manticore mythique, qui semble se nourrir uniquement de la peur et des murs du village.
+C'est le bélier et l'arme de siège de l'armée Illager. C'est une bête gigantesque, ressemblant à un hybride d'un taureau, d'un rhinocéros, et d'un manticore mythique, qui semble se nourrir uniquement de la peur et des murs du village.
 
-Le Ravage est une carcasse massive gris-brun avec d'énormes cornes et une selle enfoncée dans son garrot.
+Le Ravage est un massif, brun-gris avec d'énormes cornes et une selle encastrée dans son garrot.
 
-The Ravager doesn't just appear. It appears exclusively during Village Raids, starting with the 3rd wave. In the 5th and 7th waves, it is joined by riders: Pillagers armés d'arbalètes ou Mighty Evokers, transformant la bête en une plate-forme de combat mobile.
+Le Ravager n'apparaît pas seulement. Il apparaît exclusivement pendant Village Raids, en commençant par la 3ème vague. Dans les 5ème et 7ème vagues, elle est rejointe par des coureurs : Pillagers ou Mighty Evokers, transformant la bête en plate-forme de combat mobile.
 
-The Ravager has three main deadly mechanics: 
+The Ravager has three main deadly mechanics:
 
-Battering Ram (Charge): Il charge et se cogne la tête contre le sol, infligeant d'énormes dégâts et repoussant la cible de 5 blocs.
+Rameau de battement (charge): Il charge et claque la tête dans le sol, inflige des dégâts massifs et frappe la cible 5 blocs.
 
-Terrain Destruction: Le Ravageur démolit tout sur son passage. Il détruit facilement le feuillage, les cultures (blé, carottes, pommes de terre, betteraves) et même la canne à sucre, les champignons et les œufs de tortues.
+Terrain Destruction: Le Ravager démolit tout sur son chemin. Il détruit facilement le feuillage, les cultures (blé, carottes, pommes de terre, betteraves) et même la canne à sucre, les champignons et les œufs de tortue.
 
-Roar: Si son attaque est bloquée avec un bouclier, il a une chance de l'étourdir, mais lorsqu'il se réveille, il déclenche un rugissement qui inflige des dégâts et repousse tous ceux qui l'entourent.
+Roar: Si son attaque est bloquée avec un bouclier, il y a une chance de l'étouffer, mais quand il se réveille, il déclenche un Roar qui inflige des dommages et frappe tout le monde autour.
 
-TIPS: 
+CONSEILS:
 
-- Lorsque le Ravageur attaque avec ses cornes, utilisez votre bouclier. Vous bloquerez les dégâts et la bête aura 50 % de chances d'être étourdie et sans défense pendant quelques secondes.
-- Si vous n'esquivez pas la charge percutante, vous serez rejeté en arrière de dix pâtés de maisons, ce qui, dans le chaos de la bataille, conduit souvent à tomber d'une falaise ou à être encerclé.
-- Si le Ravageur est contrôlé par un archer ou un mage, tuez d'abord le cavalier.
-- Après être sorti de l'étourdissement, il rugit. Éloignez-vous, sinon cela vous renversera et vous infligera des dégâts.
-- Contrairement au bouclier, les dégâts des flèches et de l'arbalète sont inefficaces contre lui en raison de son armure, mais le tir à longue portée permet de contrôler la distance.
+- Quand le Ravager attaque avec ses cornes, utilisez votre bouclier. Vous bloquerez les dégâts, et la bête a 50% de chance d'être stupéfaite et sans défense pendant quelques secondes.
+- Si vous n'évitez pas la charge de ramification, vous serez repoussé dix blocs, qui dans le chaos de la bataille conduit souvent à tomber d'une falaise ou être encerclé.
+- Si le Ravager est contrôlé par un archer ou un mage, tuez le pilote d'abord.
+- Après avoir quitté l'étourdissement, ça gronde. Ecartez-vous, sinon ça vous fera du mal.
+- Contrairement au bouclier, flèche et arbalète dommages est inefficace contre elle en raison de son armure, mais le feu à longue portée aide à contrôler la distance.

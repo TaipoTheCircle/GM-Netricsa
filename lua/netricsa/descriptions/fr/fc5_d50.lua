@@ -1,16 +1,16 @@
 DESERT EAGLE PISTOL
 
 
-ARME : IMI Desert Eagle
-MUNITIONS : 357 Magnum rounds
-ROF : Semi-automatic, ~30 rds/min
+ARME:      IMI Aigle du désert
+MUNITIONS:        357 tours de Magnum
+CADENCE DE TIR:         Semi-automatique, ~30 rds/min
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Pistolet semi-automatique de gros calibre. Dispose d'un viseur laser intégré pour une précision accrue. Doté d'une grande puissance d'arrêt, ce qui en fait l'une des armes de poing les plus efficaces sur le terrain.
+Pistolet semi-automatique à haut calibre. Doté d'une vue laser intégrée pour une précision accrue. Emballe une puissance d'arrêt lourde, ce qui en fait l'un des bras latéraux les plus efficaces sur le terrain.
 
-REMARQUES :
+REMARQUES:
 
-- Superior damage compared to the standard 9mm pistol.
-- Integrated laser sight allows pinpoint accuracy.
-- Limited magazine capacity and rare ammunition.
+- Dommage supérieur au pistolet 9mm standard.
+- La vision laser intégrée permet une précision précise.
+- Capacité limitée des magazines et munitions rares.

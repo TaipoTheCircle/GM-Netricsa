@@ -1,22 +1,22 @@
-HYBRIDSQUIDE DE XEN
+HYBRIDSQUID FROM XEN
 
 
-CLASS: Bullsquid hybride, psionique
-METABOLISM: Inconnu (digestion basée sur l'énergie)
-PERCEPTION: Prédateur terrestre de Xen
-SIZE: 7 pieds
-ENDURANCE: Moyen-bas (mais extrêmement rapide)
-HOSTILITY: Extrême
-WEAPONS: Crachat de plasma blanc à longue portée, griffes, frappes à grande vitesse
-REWARD: 600 FC
-THREAT: Très élevé
+CLASSE:      Bullsquid hybride, psionique
+MÉTABOLISME: Inconnu (digestion à base d'énergie)
+PERCEPTION: Prédateur de terrain de Xen
+TAILLE:       7 pieds
+ENDURANCE:  Moyenne-faible (mais extrêmement rapide)
+HOSTILITÉ:  Extrême
+ARMES:    Cracher blanc à longue portée, griffes, frappes à grande vitesse
+RÉCOMPENSE:     600 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-L'Hybridsquid est une mutation albinos, conçue pour la vitesse et le combat à distance. Contrairement à ses cousins, il évite les distances rapprochées, crachant des éclairs de plasma blanc concentré sur de longues distances. Son agilité le rend presque impossible à toucher.
+L'Hybridesquid est une mutation albinos, construite pour la vitesse et le combat. Contrairement à ses cousins, il évite de se rapprocher, crachant des boulons plasmatiques blancs concentrés sur de longues distances. Son agilité le rend presque impossible à frapper.
 
-TIPS: 
+CONSEILS:
 
-- Utilisez des armes à tir rapide pour suivre et supprimer son mouvement.
-- Évitez les longs espaces ouverts – il domine à distance.
-- Les pièges et les explosifs sont le meilleur moyen de le localiser.
+- Utiliser des armes à feu rapide pour suivre et réprimer son mouvement.
+- Éviter les grands espaces - il domine à portée.
+- Les pièges et les explosifs sont le meilleur moyen de les piéger.

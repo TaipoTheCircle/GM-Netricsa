@@ -1,16 +1,16 @@
-SHIV
+VIH
 
 
-WEAPON: Shiv
-AMMO: Aucun (mêlée)
-ROF: 80 frappes/min
+ARME: C'est bon
+MUNITIONS:   Aucune
+CADENCE DE TIR:    80 grèves/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un surin est un terme fourre-tout désignant un petit outil improvisé de poignardage ou de coupe utilisé dans les combats rapprochés ou comme arme de mêlée de fortune. Il peut s'agir d'un morceau de métal aiguisé, de verre brisé, de plastique sculpté ou d'une petite lame insérée dans un manche.
+Un shiv est un terme « catch-all » pour un petit instrument improvisé à poignarder ou à couper utilisé dans le combat à proximité du quartier ou comme arme de fortune. Il peut s'agir d'un morceau de métal aiguisé, d'un verre cassé, d'un plastique sculpté ou d'une petite lame installée dans une poignée.
 
-NOTES: 
+REMARQUES:
 
-- Dégâts élevés sur les coups vitaux (tête, cou, poitrine) ; efficacité réduite contre les blindages ou les cibles durcies.
-- Excelle dans la furtivité, les embuscades et les espaces confinés ; mauvais choix pour les engagements à distance.
-- Fragile et courte portée par rapport aux armes de mêlée plus grosses ; nécessite une grande proximité avec la cible.
+- Des dommages élevés sur les coups vitaux (tête, cou, poitrine); efficacité réduite par rapport à l'armure ou cibles durcies.
+- Excels dans des espaces furtifs, embusqués et confinés; mauvais choix pour des engagements variés.
+- Fragilité et courte portée par rapport aux armes à plus grande portée; nécessite une proximité étroite de la cible.

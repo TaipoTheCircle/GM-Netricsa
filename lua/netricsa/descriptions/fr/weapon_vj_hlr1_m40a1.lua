@@ -1,16 +1,16 @@
-FUSIL DE SNIPER M-40A1
+RIFEUR M-40A1
 
 
-WEAPON: Fusil de précision M-40A1
-AMMO: Obus OTAN de 7,62 x 51 mm
-ROF: Action à verrou, ~20 coups/min
+ARME:      Rifle de sniper M-40A1
+MUNITIONS:        Cycles de l'OTAN de 7,62x51mm
+CADENCE DE TIR:         Action de boulonnage, ~20 rds/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Fusil de précision à verrou d'origine militaire chambré dans un calibre OTAN de 7,62 mm. Fournit une précision extrême à longue distance, capable d’éliminer les ennemis d’un seul tir bien placé. Équipé d'une lunette de grande puissance pour un ciblage précis lors de l'incident de Black Mesa.
+Fusil de chasse à l'action de l'armée dans une zone de 7,62 mm de l'OTAN. Fournit une précision extrême à de longues distances, capable d'éliminer les ennemis avec un seul coup bien placé. Équipé d'une portée haute puissance pour le ciblage de précision pendant l'incident Black Mesa.
 
-NOTES: 
+REMARQUES:
 
-- Dégâts très élevés ; tue d'un seul coup la plupart des cibles non blindées.
-- La précision à longue portée le rend idéal pour les embuscades et les attaques furtives.
-- L'action à verrou nécessite un rechambre après chaque tir, réduisant ainsi la cadence de tir.
+- Dégâts très élevés; une balle tue la plupart des cibles non armées.
+- La précision à longue portée le rend idéal pour les embuscades et les meurtres furtifs.
+- L'action du bolt nécessite une remise en état après chaque tir, réduisant le taux d'incendie.

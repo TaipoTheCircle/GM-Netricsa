@@ -1,24 +1,24 @@
-BIOPODE
+BIOPOD
 
 
-CLASS: Arthropode (Horde Mentale)
-METABOLISM: Insectoïde biologique
-PERCEPTION: Visuel + détection de mouvement
-SIZE: 3 pieds de haut
-ENDURANCE: Très faible (meurt en subissant des dégâts)
-HOSTILITY: Haut
-WEAPONS: Attaque de bélier
-REWARD: 500FC
-THREAT: Faible (individuellement)
+CLASSE:      Arthropodes
+MÉTABOLISME: Insectoïde organique
+PERCEPTION: Visual + détection de mouvement
+TAILLE:       3 pieds de haut 
+ENDURANCE:  Très faible (en cas de dommages éventuels) 
+HOSTILITÉ:  Haut
+ARMES:    Attaque de Ram
+RÉCOMPENSE:     500 FC
+MENACE:     Faible (individuel)
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les biopodes sont de petites créatures ressemblant à des arthropodes créées par la horde de Mental. Ils sont engendrés par la larve Exotech, des créatures sans membres qui glissent ou se précipitent sur le sol. Leurs deux longues antennes et leurs yeux vert bleuâtre marquent leur apparence distinctive.
+Les biopodes sont de petites créatures arthropodes créées par la horde du Mental. Ils sont engendrés par l'Exotech Larva pendant, les créatures sans membres qui s'étirent ou se détachent à travers le sol. Leurs deux longues antennes et leurs yeux bleuâtres marquent leur aspect distinctif.
 
-Bien qu’individuellement faibles, ils apparaissent en nombre et chargent rapidement, les percutant pour leur infliger des dégâts. La plus petite égratignure peut tuer un Biopod, mais son nombre peut l'écraser s'il est ignoré.
+Bien qu'individuellement faibles, ils frayent en nombre et chargent, rapidement, en rampant dans eux pour infliger des dommages. La plus petite égratignure peut tuer un Biopod, mais leur nombre peut submerger s'il est ignoré.
 
-TIPS: 
+CONSEILS:
 
-- Les biopodes ont une santé très faible ; un seul coup de mitraillette Schofield .45 ou Thompson les tuera facilement.
-- Pour les grands groupes de Biopods, la Tronçonneuse P-LAH est extrêmement efficace pour les détruire si vous souhaitez vous en occuper rapidement.
-- Puisque chacun meurt facilement, gérez le contrôle des foules plutôt que de vous concentrer sur chacun individuellement.
+- Les biopodes ont une très mauvaise santé; un seul coup de feu de la sous-machine Schofield .45 ou Thompson les tuera facilement.
+- Pour les grands groupes de Biopodes, la P-LAH Chainsaw est extrêmement efficace pour les détruire si vous voulez les traiter rapidement.
+- Puisque chacun meurt facilement, gérer le contrôle de la foule plutôt que de se concentrer sur chacun individuellement.

@@ -1,16 +1,16 @@
-KALASHNIKOV FOLDING ASSAULT RIFLE, 1974, SHORTENED
+KALASHNIKOV FOLDING ASSAULT RIFLE, 1974, SHORTED
 
 
-ARME : Folding Kalashnikov Assault Rifle, 1974, Shortened
-MUNITIONS : 5.45x39 mm
-ROF : 700 RPM
+ARME: Pliant Kalachnikov Assault Rifle, 1974, raccourci
+MUNITIONS:   5,45x39 mm
+CADENCE DE TIR:    700 RPM
 
-DESCRIPTIF :
+DESCRIPTION:
 
-A shortened version of the AKS-74 assault rifle, developed in the late 1970s and early 1980s to arm the crews of combat vehicles and aircraft of the Soviet Armed Forces. It saw service in Afghanistan and Chechnya and is currently used in the Soviet Military District. It was also very popular with Russian bandits in the 1990s. It is also used by law enforcement agencies of the USSR/Russian Federation and other CIS countries.
+Une version abrégée du fusil d'assaut AKS-74, développé à la fin des années 1970 et au début des années 1980 pour armer les équipages de véhicules de combat et d'aéronefs des forces armées soviétiques. Il a vu le service en Afghanistan et en Tchétchénie et est actuellement utilisé dans le district militaire soviétique. Il a également été très populaire auprès des bandits russes dans les années 1990. Il est également utilisé par les services de détection et de répression de l ' URSS/Fédération de Russie et d ' autres pays de la CEI.
 
-REMARQUES :
+REMARQUES:
 
-- Sa conception raccourcie permet à cette arme d'être transportée sans être détectée.
-- The buttstock can be folded to make it even shorter.
+- Sa conception raccourcie permet de transporter cette arme sans détection.
+- La crosse peut être repliée pour la rendre encore plus courte.
 - Très fiable, ne vous laissera pas tomber au combat.

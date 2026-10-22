@@ -1,21 +1,21 @@
-CRABE POURPRE DE XEN
+CHEADCRAB PURPLE DE XEN
 
 
-CLASS: Crabe, violet
-METABOLISM: Extraterrestre parasite
-PERCEPTION: Arme biologique
-SIZE: ~1 pied
-ENDURANCE: Faible
-HOSTILITY: Élevé (agressif, rapide)
-WEAPONS: Morsure (pour infecter l'hôte)
-REWARD: 20 FC
-THREAT: Faible individuellement, modéré en groupe
+CLASSE:      Gratte-tête, pourpre
+MÉTABOLISME: Alien parasite
+PERCEPTION: Armes biologiques
+TAILLE:       ~1 pi
+ENDURANCE:  Faible
+HOSTILITÉ:  Élevée (agressive, rapide)
+ARMES:    Bite (pour infecter l'hôte)
+RÉCOMPENSE:     20 FC
+MENACE:     Faible individuellement, modéré en groupes
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Purple Headcrab est un parasite Xen muté. Contrairement aux crabes communs, il est légèrement plus gros, plus rapide et plus agressif. Son objectif principal est de s'attacher à un hôte humain et de le transformer en zombie.
+Le cabillaud violet est un parasite de Xen muté. Contrairement aux têtes courantes, il est légèrement plus gros, plus rapide et plus agressif. Son but premier est de s'attacher à un hôte humain et de les transformer en zombie.
 
-TIPS: 
+CONSEILS:
 
-- Vite, surveillez vos mouvements - ils sautent de manière imprévisible.
-- Les armes à feu ou au corps à corps peuvent les arrêter, mais méfiez-vous des essaims.
+- Vite, regardez votre mouvement - ils sautent sans prétention.
+- Les armes à feu ou la mêlée peuvent les arrêter, mais méfiez-vous des essaims.

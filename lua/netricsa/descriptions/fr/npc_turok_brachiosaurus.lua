@@ -1,22 +1,22 @@
-BRACHIOSAURE DE LA PLANÈTE TERRAFORMÉE
+BRACHIOSAURUS DE LA PLANTE TERRAFORME
 
 
-CLASS: Brachiosaure
-METABOLISM: Herbivore, Sauropode
-PERCEPTION: Animal géant paisible
-SIZE: 66 pieds
-ENDURANCE: Extrême
-HOSTILITY: Aucun
-WEAPONS: Poids
-REWARD: 2000 FC (Si libéré)
-THREAT: Moyenne
+CLASSE:      Brachiosaurus
+MÉTABOLISME: Herbivore, Sauropod
+PERCEPTION: Animaux géants pacifiques
+TAILLE:       66 pieds
+ENDURANCE:  Extrême
+HOSTILITÉ:  Aucune
+ARMES:    Poids
+RÉCOMPENSE:     2000 FC (si publié)
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Il s'agit d'une montagne vivante qui se déplace lentement à travers la jungle, frôlant la cime des arbres où aucune autre créature ne peut atteindre.
+C'est une montagne vivante qui se déplace lentement dans la jungle, faisant paître les arbres où aucune autre créature ne peut atteindre.
 
-Les brachiosaures paissent à l'horizon et ne peuvent pas être tués.
+Les Brachiosaurus paissent à l'horizon et ne peuvent être tués.
 
-TIPS: 
+CONSEILS:
 
-- Ne touchez pas aux paisibles brachiosaures. Ils sont inutiles et inutiles.
+- Ne touchez pas aux brachiasaurus. Ils sont inutiles et inutiles.

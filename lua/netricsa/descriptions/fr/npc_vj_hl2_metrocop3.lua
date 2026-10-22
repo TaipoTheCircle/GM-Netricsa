@@ -1,24 +1,24 @@
-COMBINE RECRUTEUR DE PROTECTION CIVILE
+RECRUTEUR DE LA PROTECTION CIVILE DES COMBINES
 
 
-CLASS: Combiner Recruteur de la Protection Civile
-METABOLISM: Humain, mâle
-PERCEPTION: Application de la loi transhumaine (Métropolice)
-SIZE: 9 pieds
-ENDURANCE: Faible-moyen
-HOSTILITY: Haut
-WEAPONS: pistolet 9 mm
-REWARD: 250 FC
-THREAT: Faible-moyen
+CLASSE:      Combiner le recruteur de protection civile
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Transhuman Law Enforcement (Metropolice)
+TAILLE:       9 pieds
+ENDURANCE:  Moyenne faible
+HOSTILITÉ:  Haut
+ARMES:    pistolet 9 mm
+RÉCOMPENSE:     250 FC
+MENACE:     Moyenne faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les recruteurs de la protection civile du Combine sont du personnel spécialisé du Combine chargé de reconstituer les rangs des forces d'occupation à partir de la population locale. Contrairement aux patrouilleurs réguliers, leur travail ne consiste pas à supprimer, mais à sélectionner. Ils identifient les candidats appropriés en utilisant la peur, la pression et les promesses de stabilité en échange de leur loyauté.
+Combiner la protection civile Les recruteurs sont spécialisés Combiner le personnel chargé de reconstituer les rangs des forces d'occupation de la population locale. Contrairement aux patrouilleurs réguliers, leur travail n'est pas la suppression, mais la sélection. Ils identifient les candidats appropriés en utilisant la peur, la pression et les promesses de stabilité en échange de la loyauté.
 
-Leur particularité est leurs yeux bleu vif et brillants. Ces yeux renforcent l'effet de domination psychologique et permettent au recruteur de maintenir un contact visuel ininterrompu lors des « conversations explicatives ».
+Leur particularité est leur bleu vif, leurs yeux brillants. Ces yeux accentuent l'effet de la dominance psychologique et permettent au recruteur de maintenir un contact visuel ininterrompu pendant les « conversations explicatives »
 
-Dans les situations de combat, les recruteurs tentent d'éviter la confrontation directe, en s'appuyant sur les unités régulières de la Metropolitan Police. Leur valeur ne réside pas dans leur puissance de feu, mais dans leur capacité à transformer les citoyens en futurs soldats du Combine.
+Dans les situations de combat, les recruteurs tentent d'éviter les affrontements directs, en s'appuyant sur le soutien des unités régulières de la police métropolitaine. Leur valeur ne réside pas dans leur puissance de feu, mais dans leur capacité à transformer les citoyens en avenir.
 
-TIPS: 
+CONSEILS:
 
 - Les yeux bleus sont facilement visibles dans l'obscurité et révèlent leur position.

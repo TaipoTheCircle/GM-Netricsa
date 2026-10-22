@@ -1,18 +1,18 @@
-CLOUEUR
+NAILGUN
 
 
-WEAPON: Pistolet à clous
-AMMO: Clous
-ROF: ~240 tours/min
+ARME: Gun à ongles
+MUNITIONS:   Les ongles
+CADENCE DE TIR:    ~240 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Nailgun tire des clous à grande vitesse adaptés aux combats rapprochés et à moyenne portée. Chaque clou inflige des dégâts modestes, mais peut infliger de graves dégâts lorsqu'il touche des points faibles ou que plusieurs projectiles atterrissent en séquence. Il excelle dans les espaces restreints avec un recul gérable et une faible propagation.
+Le Nailgun tire des clous à haute vitesse adaptés au combat à proximité de la portée moyenne. Chaque clou inflige des dommages modestes, mais peut causer des dommages graves en frappant des points faibles ou plusieurs projectiles atterrissent en séquence. Il excelle dans les espaces restreints avec un recul gérable et une faible propagation.
 
-NOTES: 
+REMARQUES:
 
 - Bon contre les cibles légères à moyennes, en particulier dans les zones intérieures.
-- De faibles dégâts par tir nécessitent une visée précise.
-- Les améliorations du chargeur augmentent l'efficacité tactique dans les combats nuls.
-- Les clous peuvent pénétrer dans des matériaux fins comme le bois ou les portes, mais pas dans les armures lourdes.
-- Demandez à vos ennemis : « Voudriez-vous des ongles frits ?
+- Un faible dommage par coup nécessite un objectif précis.
+- Les mises à niveau de magazines augmentent l'efficacité tactique dans les combats tirés.
+- Les ongles peuvent pénétrer des matériaux fins comme le bois ou les portes, mais pas des armures lourdes.
+- Demandez à vos ennemis : "Vous voulez des ongles frits ?"

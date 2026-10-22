@@ -1,18 +1,18 @@
-PISTOLET SEMI-AUTOMATIQUE DE GROS CALIBRE DESERT EAGLE
+DESERT EAGLE LARGE-CALIBRE PISTOL SÉMI-AUTOMATIQUE
 
 
-WEAPON: Aigle du désert
-AMMUNITION: Cartouches .50 Action Express
-ROF: ~20 tours/min
+ARME:      Aigle du désert
+AMMUNITION:  .50 Cartouches Action Express
+CADENCE DE TIR:         ~20 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Pistolet semi-automatique de gros calibre. Il a été développé en 1983 aux États-Unis par Magnum Research, puis perfectionné par Israel Military Industries. En raison de sa taille et de son apparence intimidante, il est souvent utilisé.
+Pistolet semi-automatique grand calibre. Il a été développé en 1983 aux États-Unis par Magnum Research et ensuite raffiné par Israel Military Industries. En raison de sa taille et de son aspect intimidant, il est souvent utilisé.
 
-NOTES: 
+REMARQUES:
 
-- Ce pistolet est très puissant et possède une formidable pénétration.
-- Le recul extrêmement puissant rend impossible le tir à une seule main.
+- Ce pistolet est très puissant et a une énorme pénétration.
+- Un recul extrêmement puissant rend impossible de tirer d'une main.
 
 
 

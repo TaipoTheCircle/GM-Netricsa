@@ -1,32 +1,32 @@
-STATUE ANIMÉE D'UN DÉMON REPTILOÏDE FIENDIEN
+ÉTAT ANIMÉ D'UN DÉMON DE REPTILIEN DE FIENDIE
 
 
-CLASS: Statue animée d'un démon reptilioïde
-METABOLISM: Pierre animée par magie
+CLASSE:      Statue animée d'un démon réplicioïde
+MÉTABOLISME: Pierre magiquement animée
 PERCEPTION: Construction magique
-SIZE: 20 pieds
-ENDURANCE: Haut
-HOSTILITY: Haut
-WEAPONS: Projectile Lavaball, griffes
-REWARD: 6000FC
-THREAT: Moyen
+TAILLE:       20 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Haut
+ARMES:    Lavaball projectile, griffes
+RÉCOMPENSE:     6000 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-After three thousand years of service, even the most powerful spellcaster occasionally experiences bouts of incoherent Latin babbling. Mordekai, whose brain had been slightly damaged by the botched resurrection, once, in yet another fit of nonsense, demanded of Mental: Prix ​​central SSS
+Après trois mille ans de service, même le plus puissant des orthographes subit parfois des périodes de bablage latin incohérent. Mordekai, dont le cerveau avait été légèrement endommagé par la résurrection bâclée, une fois, dans un autre coup d'absurdité, exigé de Mental: "Necesse est magnitudinem daemonum Daemonicorum Reptilianorum dans lapide immortizare, ut cubula ab infidelibus gardienst!"
 
-(La grandeur des démons reptilioïdes fiendiens doit être immortalisée dans la pierre, afin qu'ils gardent les chambres des infidèles !)
+(Il faut immortaliser dans la pierre la grandeur des démons répticiens, afin qu'ils protègent les chambres des infidèles!)
 
-Mental, habitué à exécuter les ordres les plus absurdes de son précieux serviteur, commanda une réplique exacte du mutant de six mètres de haut, taillée dans le basalte et imprégnée de magie.
+Mental, habitué à exécuter même les ordres les plus absurdes de sa chère Servante, a commandé une réplique exacte du mutant à six mètres sculpté de basalte et infusé de magie.
 
-Le résultat est ce qu'il était.
+Le résultat est ce que c'était.
 
-Extérieurement, c'est une réplique parfaite de l'original. La différence est que la statue reste en place et ne bouge pas de son piédestal jusqu'à ce qu'elle ait repéré sa cible. Dans son état normal, il s’agit simplement d’une sculpture qui pourrait être confondue avec un élément décoratif. Mais dès qu'un ennemi s'approche d'une certaine distance, les yeux de la statue brillent en rouge et son programme de combat s'active.
+À l'extérieur, c'est une réplique parfaite de l'original. La différence est que la statue est en place et ne bouge pas de son piédestal jusqu'à ce qu'elle repère sa cible. Dans son état normal, c'est simplement une sculpture qui pourrait être confondue avec un élément décoratif. Mais dès qu'un ennemi approche d'une certaine distance, les yeux de la statue brillent en rouge, et son programme de combat est activé.
 
-Comme son homologue vivante, la statue peut créer des trous noirs miniatures d’où elle tire des boules de lave en fusion. Un champ magique retient le projectile juste le temps d'atteindre sa cible. Au fur et à mesure qu'elle vole, la balle se refroidit progressivement et finit par exploser, qu'elle touche quelqu'un ou non.
+Comme son homologue vivant, la statue peut créer des trous noirs miniatures à partir desquels elle tire des boules de lave fondue. Un champ magique tient le projectile juste assez longtemps pour atteindre sa cible. Comme il vole, la balle se refroidit progressivement et finit par exploser, peu importe si elle frappe quelqu'un.
 
-TIPS: 
+CONSEILS:
 
-- Les projectiles ne peuvent pas être détruits, alors esquivez-les jusqu'à ce qu'ils explosent.
-- Surveillez ses yeux. S'ils brillent en rouge, vous êtes à portée.
-- La statue ne bouge pas tant qu'elle n'a pas vu une cible, même si vous lui tirez dessus.
+- Les projectiles ne peuvent pas être détruits, alors évitez-les jusqu'à ce qu'ils explosent.
+- Regarde ses yeux. S'ils brillent en rouge, vous êtes à portée de main.
+- La statue ne bouge pas avant de voir une cible, même si vous tirez dessus.

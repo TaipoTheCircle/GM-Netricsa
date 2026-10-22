@@ -1,26 +1,26 @@
-LEE-ENFIELD RIFLE
+RIF LEE-ENFIELD
 
 
-ARME : Lee-Enfield Rifle
-MUNITIONS : .303 British (7.7×56mm R)
-ROF : ~20-30 tours/min
-POIDS : ~3,96 kg
+ARME: Lee-Enfield Rifle
+MUNITIONS:   .303 Anglais (7.7×56mm R)
+CADENCE DE TIR:    ~20-30 tours/min
+POIDS: ~3,96 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Ce fusil à verrou britannique a servi de fusil standard des forces armées britanniques et du Commonwealth au cours de la première moitié du 20e siècle. Il fut officiellement en service britannique de 1895 à 1957.
+Ce fusil de chasse britannique a servi de fusil de chasse standard aux forces armées britanniques et du Commonwealth pendant la première moitié du XXe siècle. Il fut officiellement en service britannique de 1895 à 1957.
 
-The rifle uses a 10-round magazine that can be quickly reloaded with five-round clips. Thanks to the bolt's sophisticated design, the shooter can quickly fire repeat shots without losing aim. This high bolt speed is one of the key features of the Lee-Enfield.
+Le fusil utilise un chargeur à 10 tours qui peut être rapidement rechargé avec des clips à cinq tours. Grâce au design sophistiqué du boulon, le tireur peut rapidement tirer des tirs répétés sans perdre de vue. Cette grande vitesse de boulonnage est l'une des caractéristiques clés du Lee-Enfield.
 
-La munition principale est la .303 British. Selon le modèle, la carabine pèse environ 4 kg. La portée effective est d'environ 500 mètres.
+Les principales munitions sont les .303 Britanniques. Selon le modèle, le fusil pèse environ 4 kg. La portée efficace est d'environ 500 mètres.
 
-REMARQUES :
+REMARQUES:
 
 - Efficace à moyenne et longue portée.
-- L'action rapide du verrou permet des tirs de suivi très rapides.
-- Le chargeur peut être rapidement rempli de deux clips à cinq tours.
-- La puissante cartouche britannique .303 offre une bonne portée et une bonne létalité.
-- Un tireur entraîné peut tirer beaucoup plus vite que prévu avec un fusil à verrou standard.
-- Le fusil excelle à longue portée, notamment lors du tir sur des cibles isolées.
-- Il ne s'agit pas d'une arme automatique, il est donc nécessaire de actionner le verrou après chaque tir.
-- Particulièrement adapté aux tireurs qui savent actionner le verrou rapidement et éviter de gaspiller des munitions.
+- L'action de boulon rapide permet un suivi très rapide.
+- Le magazine peut être rapidement rempli avec deux clips de cinq tours.
+- Le puissant .303 La cartouche britannique offre une bonne portée et la létalité.
+- Un tireur entraîné peut tirer beaucoup plus vite que prévu à partir d'un fusil à action standard.
+- Le fusil excelle à longue portée, surtout quand il tire sur des cibles isolées.
+- Ce n'est pas une arme automatique, il est donc nécessaire de faire tourner le boulon après chaque tir.
+- Particulièrement adapté pour les tireurs qui sont habiles à utiliser le boulon rapidement et éviter de gaspiller des munitions.

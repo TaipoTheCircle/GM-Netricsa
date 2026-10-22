@@ -1,24 +1,24 @@
-BARNIEL, GARDE DE SÉCURITÉ FEMME BLACK MESA
+BARNIEL, BLACK MESA FEMME GUARD DE SÉCURITÉ
 
 
-CLASS: Barniel, agente de sécurité de Black Mesa
-METABOLISM: Humain, Femelle
-PERCEPTION: Officier de sécurité de Black Mesa
-SIZE: ~5,9 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Neutre envers le personnel, hostile envers les extraterrestres
-WEAPONS: Glock17
-REWARD: 300FC
-THREAT: Modéré
+CLASSE:      Barniel, Garde de sécurité féminine de Mesa noire
+MÉTABOLISME: Humain, femme
+PERCEPTION: Agent de sécurité Black Mesa
+TAILLE:       ~5,9 pi
+ENDURANCE:  Moyenne
+HOSTILITÉ: Neutre envers le personnel, hostile envers les étrangers
+ARMES:    Glock 17
+RÉCOMPENSE:     300 FC
+MENACE:     Modéré
 
-DESCRIPTION: 
+DESCRIPTION:
 
-L'agent de sécurité Barniel fait partie de Black Mesa Security et est responsable de la protection des chercheurs, de l'équipement et des zones sensibles de l'installation. Malgré une formation et un équipement similaires à ceux des agents de sécurité masculins, elle patrouille souvent dans les couloirs, les laboratoires et les zones de maintenance, ce qui nécessite de la flexibilité et une réponse rapide.
+La Garde de sécurité Barniel fait partie de Black Mesa Security et est chargée de protéger les chercheurs, l'équipement et les zones sensibles de l'installation. Malgré une formation et un équipement semblables pour les gardes de sécurité, elle patrouille souvent les couloirs, les laboratoires et les zones d'entretien, ce qui exige souplesse et rapidité d'intervention.
 
-Au cours de la Resonance Cascade, les femmes agents de sécurité ont fait preuve d'adaptabilité et de travail d'équipe, aidant à évacuer les scientifiques, à protéger les installations critiques et à se coordonner avec les autres membres du personnel. Malgré leur manque d'armure lourde, ils sont entraînés à affronter les créatures Xen hostiles et les intrus, ce qui les rend précieux dans les premières étapes des opérations de confinement et de défense.
+Pendant la Cascade de Résonance, les gardiennes de sécurité ont fait preuve d'adaptabilité et de travail d'équipe, aidant à évacuer les scientifiques, à protéger les installations essentielles et à coordonner leurs activités avec celles d'autres membres du personnel. Malgré leur manque d'armure lourde, ils sont entraînés à engager des créatures Xen hostiles et des intrus, les rendant précieux dans les premiers stades des opérations de confinement et de défense.
 
-TIPS: 
+CONSEILS:
 
-- Protégez-les autant que possible : ils peuvent participer aux missions d'escorte.
-- Ils sont vulnérables aux attaques puissantes, il est donc crucial de les garder à l'écart des tirs directs.
-- Surveiller leurs itinéraires de patrouille ; ils peuvent indiquer des points clés ou des itinéraires sûrs.
+- Les protéger dans la mesure du possible - ils peuvent aider dans les missions d'escorte.
+- Ils sont vulnérables aux attaques puissantes, il est donc crucial de les empêcher de tirer.
+- Surveiller leurs itinéraires de patrouille; ils peuvent indiquer des points clés ou des itinéraires sûrs.

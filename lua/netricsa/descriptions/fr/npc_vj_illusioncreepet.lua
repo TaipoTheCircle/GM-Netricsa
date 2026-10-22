@@ -1,29 +1,29 @@
-CLONE D'ILLUSON CREEPER DU MINECRAFT OVERWORLD
+CLONE CREEPER D'ILLUSON DE L'EXPLOITATION MINECRAFT
 
 
-CLASSE : Clone d'Illusion Creeper
-MÉTABOLISME : Illusoire
-PERCEPTION : Illusion tactique, trompeur vivant
-TAILLE : 5,5 pieds
-ENDURANCE : Infinie
-HOSTILITÉ : Absolue
-ARMES : simulation d'explosion
-RÉCOMPENSE : Aucune
-MENACE : psychologique
+CLASSE:      Clone d'écailles
+MÉTABOLISME: Illusoire
+PERCEPTION: Illusion tactique, Déceiver vivant
+TAILLE:       5,5 pieds
+ENDURANCE:  Infinite
+HOSTILITÉ:  Absolu
+ARMES:    Simulation d'explosion
+RÉCOMPENSE:     Aucune
+MENACE:     Psychologique
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Ce n'est pas une vraie plante grimpante, mais un sosie trompeur créé par l'Illusion Creeper pour intimider sa proie. Il ressemble exactement à l’original : mêmes proportions, même texture, même sifflement menaçant. Mais à l’intérieur, il n’y a pas de poudre à canon, pas de chair explosive, pas même la volonté de tuer. Il n'y a qu'un seul objectif : distraire, confondre et forcer votre adversaire à gaspiller son énergie dans un espace vide.
+Ce n'est pas un vrai rampeur, mais un doppelganger trompeur créé par le Crise d'Illusion pour intimider ses proies. Il ressemble exactement à l'original : les mêmes proportions, la même texture, le même sifflement menaçant. Mais à l'intérieur, il n'y a pas de poudre, pas de chair explosive, pas même la volonté de tuer. Il n'y a qu'un seul but : distraire, confondre et forcer votre adversaire à gaspiller son énergie dans l'espace vide.
 
-Le Clone n'a aucune forme physique. Lorsque vous essayez de le frapper avec une épée ou de lui tirer dessus avec un arc, l'arme le traverse. Il ne subit aucun dégât, n'est pas repoussé et n'explose pas.
+Le clone n'a aucune forme physique. Lorsque vous essayez de le frapper avec une épée ou de le tirer avec un arc, l'arme passe à travers. Il ne faut aucun dommage, il n'est pas renversé, et n'explose pas.
 
-Cependant, le Clone est dangereux non pas physiquement, mais tactiquement. Dans le chaos de la bataille, la victime peut le prendre pour un vrai creeper et soit gaspiller de précieuses munitions sur un espace vide, soit, à l'inverse, ignorer le vrai, le prenant pour un clone. Dans le pire des cas, vous pouvez essayer de fuir le clone et tomber sur le vrai qui attend au coin de la rue.
+Cependant, le Clone n'est pas dangereux physiquement, mais tactiquement. Dans le chaos de la bataille, la victime peut l'erreur pour un vrai rampant et soit gaspiller des munitions précieuses sur un espace vide ou, inversement, ignorer le vrai, le prendre pour un clone. Dans le pire des cas, vous pouvez essayer de fuir le Clone et courir dans le vrai qui attend au coin de la rue.
 
-Le Clone peut simuler une explosion : il gonfle, siffle et émet un son caractéristique, mais lors de la détonation, il disparaît simplement sans laisser de trace, ne causant aucun dommage ni détruisant aucun bloc.
+The Clone can simulate an explosion: il gonfle, siffle et fait un son caractéristique, mais lors de la détonation, il disparaît tout simplement sans trace, ne causant aucun dommage ni destruction de blocs.
 
-CONSEILS :
+CONSEILS:
 
-- Ne gaspillez pas de ressources sur le Clone. Vous ne pourrez pas le tuer.
-- Ignorez le clone et cherchez la vraie plante grimpante.
-- S'il y a plusieurs copies, la vraie se cache probablement quelque part sur le côté ou derrière ton dos.
-- Le Clone ne peut pas vous faire de mal. N'en ayez pas peur.
+- Ne gaspillez pas les ressources du Clone. Vous ne pourrez pas le tuer.
+- Ignorez le Clone et cherchez le vrai monstre.
+- S'il y a plusieurs copies, la vraie est probablement cachée quelque part sur le côté ou derrière votre dos.
+- Le Clone ne peut pas te faire de mal. N'aie pas peur.

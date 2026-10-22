@@ -1,6 +1,6 @@
-BLACK MESA, ACID PLANT
+MESA BLACK, PLANTE ACIDE
 
 
-OK, ce secteur pue la corrosion. La salle de traitement est remplie de citernes imposantes d’acide toxique, dont le contenu bouillonne et siffle comme une usine à cauchemars. Des fissures dans les canalisations déversent des eaux de ruissellement vertes sur le sol, où les cafards pullulent sans fin.
+Ce secteur sent la corrosion. La salle de traitement est remplie de gigantesques citernes d'acide toxique, leur contenu bouillonnant et sifflant comme une usine pour les cauchemars. Les fissures dans les tuyaux déversent le ruissellement vert à travers le sol, où les cafards s'entremêlent sans fin.
 
-Passez à autre chose, rien d'intéressant pour l'instant.
+Continuez, rien d'intéressant.

@@ -1,15 +1,15 @@
-12 GAUGE PUMP ACTION SHOTGUN
+12 ÉQUIPEMENTS D'ACTION POUR LES POMMES D'EAU
 
 
-WEAPON: Fusil à pompe de calibre 12
-AMMO: Coquilles de calibre 12
-ROF: rechargement d'une pompe à obus
+ARME: Fusil d'action de la pompe à gaz 12
+MUNITIONS:   12 Coques de jauge
+CADENCE DE TIR:    un rechargement de pompe à coque
 BARREL: 18"
 
 DESCRIPTION:
 
-Un fusil à pompe à canon unique de calibre 12. Efficace pour l’élimination à courte et moyenne portée des petits ennemis.
+Un fusil de chasse à pompe à 12 barres. Efficace pour l'élimination des petits ennemis à courte et moyenne portée.
 
-NOTES:
+REMARQUES:
 
-- Puissance de feu pas très élevée, bonne cadence de tir.
+- Pas très haute puissance de feu, bon taux de feu.

@@ -1,17 +1,17 @@
 AK-47
 
 
-WEAPON: Fusil d'assaut AK-47
-AMMO: Rondes de 7,62x39 mm
-ROF: ~600 tours/min
+ARME:      AK-47 Rifle d'assaut
+MUNITIONS:        rondes de 7,62 x 39 mm
+CADENCE DE TIR:         ~600 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Fusil automatique emblématique connu pour sa fiabilité et sa durabilité. Tire de puissants obus de 7,62 mm avec un recul modéré. Efficace à moyenne portée et capable de tirs soutenus pour la suppression ou les engagements directs.
+Fusil automatique iconique reconnu pour sa fiabilité et sa durabilité. Feu de puissants rounds de 7,62 mm avec un recul modéré. Efficace à portée moyenne et capable d'un feu soutenu pour la suppression ou les fiançailles directes.
 
-NOTES: 
+REMARQUES:
 
 - Très durable et simple à utiliser.
-- Recul modéré ; contrôlable en courtes rafales.
-- Efficace contre les cibles non blindées et légèrement blindées.
-- La capacité du chargeur nécessite des rechargements périodiques lors de combats prolongés.
+- Recul modéré; contrôlable en courts éclats.
+- Efficace contre les cibles non armées et légèrement blindées.
+- La capacité des chargeurs nécessite des recharges périodiques pendant les combats prolongés.

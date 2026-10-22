@@ -1,26 +1,26 @@
-GROSSE TÊTE, KOREY "WUSSBOY" PETERS
+GRANDS PÉTRES DE CORÉE
 
 
-CLASS: Grosse tête, Koray "Wussboy" Peters
-METABOLISM: Humanoïde, mâle
+CLASSE:      Grosse tête, Koray "Wussboy" Peters
+MÉTABOLISME: Humanoïde, Homme
 PERCEPTION: Fan enthousiaste
-SIZE: 5,9 pieds
-ENDURANCE: Faible
-HOSTILITY: Neutre
-WEAPONS: Aucun (sauf en difficulté I Am Ugh-Zan)
-REWARD: 100 FC
-THREAT: Ennui
+TAILLE:       5,9 pieds
+ENDURANCE:    Faible
+HOSTILITÉ:  Neutre
+ARMES:    Aucune (sauf sur I Am Ugh-Zan difficulté)
+RÉCOMPENSE:     100 FC
+MENACE:     Annoyance
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les Big-Heads sont de minces humanoïdes aux crânes exagérés contenant le cerveau des développeurs de Croteam. Ils portent l'uniforme de Serious Sam, mais ont les traits du visage uniques de l'équipe de développement. Ils affichent un enthousiasme obsessionnel et vous poursuivent aux cris de « Bonjour ! » et "Hé, attends!" Ils sont totalement inoffensifs, mais dans la difficulté "Je suis Ugh-Zan", ils gagnent des modificateurs de feu et de glace. Ils apparaissent spontanément dans les zones secrètes, bloquant les passages par leur grand nombre.
+Les grandes têtes sont de minces humanoïdes avec des crânes exagérés contenant les cerveaux des développeurs de Croteam. Ils portent l'uniforme de Serious Sam, mais ont les caractéristiques faciales uniques de l'équipe de développement. Ils montrent un enthousiasme obsessionnel, vous poursuivant avec des cris de "Bonjour!" et "Hé, attendez!" Ils sont complètement inoffensifs, mais dans la difficulté "Je suis Ugh-Zan" ils gagnent le feu et les modificateurs de glace. Ils apparaissent spontanément dans des zones secrètes, bloquant les passages avec leur nombre.
 
-Koray "Wussboy" Peters est un spécimen unique dans le panthéon Croteam. Sa contribution ne se mesure pas en lignes de code ou en polygones, mais en une monnaie intangible mais vitale : le moral (Moral Boost). Tandis que d'autres testeurs étaient occupés à rechercher des bugs, Wussboy semblait être occupé à rechercher les esprits affaissés et à les recharger instantanément. Son crâne surdimensionné dégage des vagues d'optimisme et de soutien féroces, qui ont probablement sauvé l'équipe plus d'une fois lors de crises épuisantes.
+Koray "Wussboy" Peters est un spécimen unique dans le panthéon Croteam. Sa contribution est mesurée non pas en lignes de code ou de polygones, mais dans une monnaie intangible mais vitale - moral (Moral Boost). Tandis que d'autres testeurs étaient occupés à chercher des bugs, Wussboy semblait être occupé à chercher des esprits en train de les recharger instantanément. Son crâne surdimensionné rayonne de vagues d'optimisme et de soutien féroces, qui ont probablement sauvé l'équipe plus d'une fois pendant les grognements.
 
-His name, modestly listed in the credits of everything from The First Encounter to the HD remasters and Classics: Revolution, rappelle que derrière chaque grand jeu se cache non seulement un travail technique mais aussi une atmosphère humaine.
+Son nom, modestement énuméré dans les crédits de tout de The First Encounter aux remasters HD et Classics: Revolution, est un rappel que derrière chaque grand jeu se trouve non seulement le travail technique mais aussi une atmosphère humaine.
 
-TIPS: 
+CONSEILS:
 
 - Utilisez un couteau de combat ou un pistolet pour dégager le chemin.
-- En difficulté "I Am Ugh-Zan", détruisez-le à distance grâce à leurs modificateurs.
-- Une masse à frappe horizontale est efficace en groupe.
+- Sur la difficulté "Je suis Ugh-Zan", détruisez-le à distance à cause de leurs modificateurs.
+- Un lugehammer avec une frappe horizontale est efficace dans un groupe.

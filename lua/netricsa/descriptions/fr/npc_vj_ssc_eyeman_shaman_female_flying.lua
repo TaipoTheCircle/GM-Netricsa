@@ -1,28 +1,28 @@
-GNAAR PRIMITIVE, CHAMANE FEMME
+GNAAR PRIMTIF, FEMME SHAMAN
 
 
-CLASS: Gnaar primitif, chamane féminine
-METABOLISM: Mammifère
-PERCEPTION: Animal de guerre reproducteur dressé
-SIZE: 5 pieds
-ENDURANCE: Faible
-HOSTILITY: Faible
-WEAPONS: Morsures, coups de poing
-REWARD: 1200FC
-THREAT: Moyen
+CLASSE:      Gnaar primitif, Chaman femelle
+MÉTABOLISME: Mammifère
+PERCEPTION: Animaux de guerre formés
+TAILLE:       5 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Faible
+ARMES:    Morceaux, coups de poing
+RÉCOMPENSE:     1200 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un petit animal bipède sans tête, avec un œil et une grande bouche. Originaire de Sirius et entraîné par Mental pour attaquer les forces adverses. Les chamanes féminines ont un motif de crâne sur le dos et sont plus grandes et plus fortes que les hommes.
+Un petit animal bipède sans tête, un œil et une grande bouche. Originaire de Sirius, et entraîné par Mental à attaquer les forces opposées. Les chamanes femelles ont un patron de crâne sur le dos, et sont plus grandes et plus fortes que les mâles.
 
-Le sommet de la pyramide sociale de la sous-espèce primitive. Contrairement aux hommes, qui servent simplement et portent des pantalons en peau de léopard, absolument toutes les femmes de la tribu deviennent chamanes. Il n'y a pas de sélection, pas de test : elle est née femme, a grandi et devient chamane par défaut. Dans les tribus primitives des Gnaar, ce n'est pas un privilège, mais un devoir.
+Le sommet de la pyramide sociale de la sous-espèce primitive. Contrairement aux mâles, qui servent et portent simplement des pantalons en peau de léopard, toutes les femelles de la tribu deviennent chamanes. Il n'y a pas de sélection, pas de test, elle est née une femme, élevée, et devient un chaman par défaut. Dans les tribus primitives de Gnaar, ce n'est pas un privilège, mais un devoir.
 
-In appearance, the female shaman is radically different from the males. Her skin is green, a swampy shade, making her less noticeable. But the main difference is the huge red skull painted on her back. A ritual symbol visible from afar, it serves as a reminder: c'est cette personne qui commande et se disputer avec elle est risqué.
+En apparence, le chaman féminin est radicalement différent des mâles. Sa peau est verte, une ombre marécageuse, ce qui la rend moins visible. Mais la principale différence est l'énorme crâne rouge peint sur son dos. Symbole rituel visible de loin, il sert de rappel : cette personne est responsable, et discuter avec elle est risqué.
 
-Les chamanes ne gouvernent pas simplement la tribu. Ils dirigent les mâles, résolvent les problèmes de commerce et de guerre et maintiennent le contact avec Mental. Lorsqu'ils ne gouvernent pas, ils, comme les mâles, font souvent du commerce avec les espèces tropicales de Gnaar, échangeant des ressources et, peut-être, des secrets de tatouage.
+Les chamans ne gouvernent pas simplement la tribu. Ils dirigent les hommes, résolvent les problèmes commerciaux et de guerre, et maintiennent le contact avec Mental. Quand ils ne gouvernent pas, ils, comme les mâles, commercent souvent avec l'espèce Gnaar tropicale, échangeant des ressources et, peut-être, des secrets de tatouage.
 
-TIPS: 
+CONSEILS:
 
-- Ils n'ont pas d'armes de tir, restez simplement à l'écart.
+- Ils n'ont pas d'armes.
 - Certaines espèces peuvent léviter.
-- Des spécimens rares seraient invisibles.
+- Des spécimens rares ont été signalés comme invisibles.

@@ -1,18 +1,18 @@
-FUSIL DE SNIPER SCOUT SSG-08
+SSG-08 RENFORCEMENT DU SNIPER
 
 
-WEAPON: Fusil de précision SSG-08
-AMMO: Rondes de 7,62x51 mm
-ROF: Action à verrou, ~25 coups/min
+ARME: SSG-08 Sniper Rifle
+MUNITIONS: tours de 7,62 x 51 mm
+CADENCE DE TIR: Action de boulonnage, ~25 rds/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Fusil de précision léger à verrou conçu pour un déploiement et une mobilité rapides. Idéal pour les tireurs qui ont besoin de précision sans l'encombrement des fusils de précision plus lourds. Tire des obus à grande vitesse capables de neutraliser les ennemis à moyenne et longue portée d'un seul coup bien placé.
+Fusil sniper léger à action de boulon conçu pour un déploiement et une mobilité rapides. Idéal pour les tireurs qui ont besoin de précision sans le gros des fusils de sniper plus lourds. Feu des rondes à grande vitesse capables de neutraliser les ennemis à moyenne à longue portée avec un seul tir bien placé.
 
-NOTES: 
+REMARQUES:
 
-- Extrêmement léger et facile à manœuvrer par rapport aux fusils de précision lourds.
-- Recul modéré ; permet des prises de vue de suivi rapides.
-- Equipé d'une lunette standard pour un ciblage à longue portée.
-- Les munitions limitées nécessitent un placement soigneux des tirs.
-- Favorisé pour la mobilité et le repositionnement rapide dans les scénarios de combat.
+- Extrêmement léger et facile à manœuvrer par rapport aux fusils à sniper lourds.
+- Recul modéré; permet un suivi rapide.
+- Équipé d'une portée standard pour le ciblage à longue distance.
+- Des munitions limitées nécessitent un placement prudent.
+- Favorable pour la mobilité et le repositionnement rapide dans les scénarios de combat.

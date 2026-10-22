@@ -1,15 +1,15 @@
-CROWBAR
+CROISSANCE
 
 
-WEAPON: Pied de biche
-AMMO: Aucun (mêlée)
-ROF: ~75 balançoires/min
+ARME:      Crowbar
+MUNITIONS:        Aucune
+CADENCE DE TIR:         ~75 oscillations/min
 
 DESCRIPTION:
 
-Outil de mêlée emblématique et arme de secours. Pied de biche en acier simple utilisé à la fois pour le combat et pour l'utilité. Toujours fiable, ne manque jamais de « munitions ».
+Outil de melee et arme d'urgence. Barre en acier simple utilisée à la fois pour le combat et l'utilité. Toujours fiable, jamais à court de "ammo".
 
-NOTES:
+REMARQUES:
 
 - Durabilité infinie, toujours disponible.
-- Efficace contre les caisses, les verrous et les ennemis faibles.
+- Efficace contre les caisses, les serrures et les ennemis faibles.

@@ -1,27 +1,27 @@
-RÉCOLTEUSE D'ESSAIMS "BETA"
+HARVESTISSEUR "BETA"
 
 
-CLASSE : Moissonneur d'essaims "Bêta"
-MÉTABOLISME : Xénobiologique
-PERCEPTION : Soutien en essaim
-TAILLE : 8,2 pieds
-ENDURANCE : Moyenne
-HOSTILITÉ : Très élevée
-ARMES : Apparition de parasites explosifs, Bélier, Peau corrosive
-RÉCOMPENSE : 30 FC
-MENACE : Élevée
+CLASSE:     Harvester "Beta"
+MÉTABOLISME: Xénobiologique
+PERCEPTION: Soutien au swarm
+TAILLE:       8,2 pi
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Très élevé
+ARMES:    Spawn, Ram, peau corrosive
+RÉCOMPENSE:     30 FC
+MENACE:     Haut
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Le Harvester "Beta" Swarm est un spécimen de support spécialisé conçu pour fournir à l'Essaim des munitions vivantes. Son abdomen massif sert de chambre d'incubation, où les parasites explosifs se développent continuellement. Contrairement à la plupart des spécimens de Swarm Beta, le Moissonneur s'engage rarement dans des combats directs et a tendance à rester derrière les principaux spécimens attaquants.
+Le Swarm "Beta" Harvester est un spécimen de soutien spécialisé conçu pour fournir au Swarm des munitions vivantes. Son abdomen massif sert de chambre d'incubation, où les parasites explosifs se développent continuellement. Contrairement à la plupart des spécimens de Swarm Beta, la moissonneuse se livre rarement au combat direct et a tendance à rester derrière les principaux spécimens attaquants.
 
-Pendant le combat, le Moissonneur libère régulièrement des Parasites Explosifs de la Bêta Swarm. Ces créatures se comportent comme des parasites normaux : elles bondissent rapidement sur la cible la plus proche et la poursuivent avec beaucoup de persévérance. Cependant, au lieu d'infecter, ils explosent au contact, brisant leur corps et endommageant tout ce qui les entoure avec une explosion et des tissus biologiques.
+Pendant le combat, le Harvester libère régulièrement des parasites explosifs du Swarm Beta. Ces créatures se comportent comme des parasites normaux : elles sautent rapidement à la cible la plus proche et la poursuivent avec une grande persévérance. Cependant, au lieu d'infecter, ils détonent au contact, détruisent leur corps et endommagent tout autour d'eux avec une explosion et des tissus biologiques.
 
-Même après sa mort, un Faucheur reste dangereux. La destruction de son corps provoque une ouverture d'urgence de la chambre d'incubation, d'où surgissent quatre parasites explosifs "Beta" Swarm, lançant immédiatement une attaque. Si un Faucheur est détruit à proximité, les parasites survivants sont capables de terminer ce que leur hôte a laissé inachevé.
+Même après la mort, un Reaper reste dangereux. La destruction de son corps provoque une ouverture d'urgence de la chambre d'incubation, à partir de laquelle quatre parasites explosifs "Beta" Swarm éclatent, lançant immédiatement une attaque. Si un Récipient est détruit à proximité, les parasites survivants peuvent terminer ce que leur hôte a laissé inachevé.
 
-Malgré ses défenses relativement faibles, un Reaper constitue une menace sérieuse lorsqu'il est accompagné de drones, de boucliers ou d'autres chasseurs Swarm. Alors que l'ennemi est distrait par les combats rapprochés, il parvient à créer une nouvelle vague de parasites, transformant progressivement le champ de bataille en chaos.
+Malgré ses défenses relativement faibles, un Reaper constitue une menace sérieuse lorsqu'il est accompagné de drones, de boucliers ou d'autres combattants du Swarm. Alors que l'ennemi est distrait par un combat serré, il parvient à créer une nouvelle vague de parasites, transformant progressivement le champ de bataille en chaos.
 
-CONSEILS :
+CONSEILS:
 
 - Détruisez le Reaper le plus tôt possible avant qu'il ne libère trop de parasites.
 - Après sa mort, préparez-vous immédiatement à l'apparition de quatre parasites explosifs.

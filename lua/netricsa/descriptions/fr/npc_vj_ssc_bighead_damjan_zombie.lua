@@ -1,28 +1,28 @@
-ZOMBIE À GROSSE TÊTE, DAMJAN MRAVUNAC
+ZOMBIE, DAMJAN MRAVUNAC
 
 
-CLASS: Zombie à grosse tête, Damjan Mravunac
-METABOLISM: Humanoïde, masculin (musique pure à 99 %)
+CLASSE:      Big-Head Zombie, Damjan Mravaunac
+MÉTABOLISME: Humanoïde, Homme (99% de musique pure)
 PERCEPTION: Fanatique enthousiaste / Dieu de la musique
-SIZE: 5,9 pieds
-ENDURANCE: Faible
-HOSTILITY: Neutre
-WEAPONS: Aucun (sauf en difficulté I Am Ugh-Zan)
-REWARD: 100 FC
-THREAT: Facteur de gêne (avec pitch parfait)
+TAILLE:       5,9 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Neutre
+ARMES:    Aucune (sauf sur I Am Ugh-Zan difficulté)
+RÉCOMPENSE:     100 FC
+MENACE:     Facteur d'annoyance (avec emplacement parfait)
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les Big-Heads sont de minces humanoïdes aux crânes exagérés contenant le cerveau des développeurs de Croteam. Ils portent l'uniforme de Serious Sam, mais avec les traits du visage uniques de l'équipe de développement. Ils affichent un enthousiasme obsessionnel et vous poursuivent aux cris de « Bonjour ! » et "Hé, attends!" Ils sont totalement inoffensifs, mais dans le niveau de difficulté "Je suis Ugh-Zan", ils gagnent des modificateurs de feu et de glace. Ils apparaissent spontanément dans les zones secrètes, bloquant les passages par leur grand nombre.
+Les grandes têtes sont de minces humanoïdes avec des crânes exagérés contenant les cerveaux des développeurs de Croteam. Ils portent l'uniforme Serious Sam, mais avec les caractéristiques faciales uniques de l'équipe de développement. Ils montrent un enthousiasme obsessionnel, vous poursuivant avec des cris de "Bonjour!" et "Hé, attendez!" Ils sont complètement inoffensifs, mais dans le niveau de difficulté "I Am Ugh-Zan" ils gagnent feu et des modificateurs de glace. Ils apparaissent spontanément dans des zones secrètes, bloquant les passages avec leur nombre.
 
-Damjan Mravunac est l'homme dont la musique est la bande originale du chaos de l'univers Serious Sam. Son crâne surdimensionné est le résultat direct de son incroyable talent musical, englobant tout, des arrangements orchestraux épiques aux riffs heavy metal tonitruants. Compositeur Croteam depuis 1999, Damjan est l'architecte de ce son « sérieux » qui plonge chacun dans l'atmosphère d'une action frénétique dès les premières notes.
+Damjan Mravaunac est l'homme dont la musique est la bande-son du chaos dans l'univers Serious Sam. Son crâne surdimensionné est le résultat direct de son incroyable talent musical, englobant tout, des arrangements orchestraux épiques aux riffs de heavy metal. Compositeur Croteam depuis 1999, Damjan est l'architecte de ce son « sérieux » qui plonge tout le monde dans l'atmosphère d'action frénétique dès les premières notes.
 
-Son style est un cocktail unique de percussions puissantes, de mélodies entraînantes, de motifs ethniques et d'électro moderne. Il ne se contente pas de composer de la musique de fond ; il crée des paysages sonores qui font désormais partie intégrante du gameplay. Des thèmes emblématiques de The First Encounter à la dynamique orchestrale de The Talos Principe 2, son travail est autant une marque distinctive du studio que Sam Stone lui-même.
+Son style est un cocktail unique de percussions puissantes, de mélodies accrocheuses, de motifs ethniques et d'électronique moderne. Il ne compose pas seulement de la musique de fond ; il crée des paysages sonores qui sont devenus une partie intégrante du gameplay. Des thèmes emblématiques de La première rencontre au balayage orchestral du principe 2 du Talos, son travail est autant la marque du studio que Sam Stone lui-même.
 
-Il était autrefois vivant, mais après que vous l'ayez tué dans le temple d'Hatchepsout, il est ressuscité des morts, devenant un zombie démoniaque.
+Il était une fois vivant, mais après que vous l'ayez tué dans le Temple de Hatshepsut, il est ressuscité d'entre les morts - devenant un zombie démoniaque.
 
-TIPS: 
+CONSEILS:
 
 - Utilisez un couteau de combat ou un pistolet pour dégager le chemin.
-- En difficulté "I Am Ugh-Zan", éliminez-les à distance grâce à leurs modificateurs.
-- Une masse à frappe horizontale est efficace en groupe.
+- Sur la difficulté "Je suis Ugh-Zan", les éliminer à distance en raison de leurs modificateurs.
+- Un lugehammer avec une frappe horizontale est efficace dans un groupe.

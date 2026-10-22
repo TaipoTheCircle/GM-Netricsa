@@ -1,27 +1,27 @@
 BURROBOT DU MOBIUS
 
 
-CLASS: Burrobot
-METABOLISM: Batterie animale
-PERCEPTION: Embuscade souterraine
-SIZE: 4 pieds
-ENDURANCE: Faible
-HOSTILITY: Moyen
-WEAPONS: Foret nez, coque
-REWARD: 400FC
-THREAT: Faible
+CLASSE:      Burrobot
+MÉTABOLISME: Batterie animale
+PERCEPTION: Ambush souterrain
+TAILLE:       4 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Moyenne
+ARMES:    Perceuse de nez, Hull
+RÉCOMPENSE:     400 FC
+MENACE:     Faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Lorsque le Dr Eggman a eu besoin de surveiller les communications souterraines et les labyrinthes, il a tourné son attention vers les taupes. Leur capacité à creuser des tunnels et à émerger soudainement du sous-sol était idéale pour tendre des embuscades. Ainsi est né Burrobot - un lointain ancêtre du plus célèbre Grunder.
+Quand le Dr Eggman avait besoin de surveiller les communications souterraines et les labyrinthes, il a tourné son attention vers les taupes. Leur capacité à creuser des tunnels et à sortir soudainement du fond était idéale pour poser des embuscades. Ainsi est né Burrobot - un ancêtre lointain de la plus célèbre Grunder.
 
-In place of ears are gray disks, in place of a nose is a massive cone-shaped drill. On top of its head is a yellow helmet. Instead of legs, it has treads with two wheels on the sides: un petit, un plus grand.
+Au lieu des oreilles sont des disques gris, au lieu d'un nez est une foreuse massive en forme de cône. Sur sa tête se trouve un casque jaune. Au lieu des jambes, il a des marches avec deux roues sur les côtés: une petite, une plus grande.
 
-Dans des modifications ultérieures, il a reçu des lunettes jaunes et la possibilité de poursuivre des cibles sous terre.
+Dans les modifications ultérieures, il a reçu des lunettes jaunes et la capacité de poursuivre des cibles sous terre.
 
-TIPS: 
+CONSEILS:
 
-- Surveille ton nez. Si une foreuse grise dépasse du sol, il y a un lotte sous vous.
-- Attaquez au moment où il saute, avant qu'il n'atterrisse.
-- En apparence, c'est impuissant et lent, il n'y a pas besoin de se précipiter.
-- Il vaut mieux ne pas viser les marches, elles sont plus solides que le corps.
+- Surveille ton nez. Si une perceuse grise sort du sol, il y a un Burrobot sous vous.
+- Attaque quand elle saute, avant qu'elle atterrisse.
+- A la surface, c'est sans défense et lent-il n'y a pas besoin de se précipiter.
+- Il vaut mieux ne pas viser les marches, elles sont plus fortes que le corps.

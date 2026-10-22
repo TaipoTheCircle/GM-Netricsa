@@ -1,16 +1,16 @@
-PISTOLET AIGLE DU DÉSERT
+DESERT EAGLE PISTOL
 
 
-WEAPON: Aigle du désert IMI
-AMMO: 357 cartouches Magnum
-ROF: Semi-automatique, ~30 coups/min
+ARME:      IMI Aigle du désert
+MUNITIONS:        357 tours de Magnum
+CADENCE DE TIR:         Semi-automatique, ~30 rds/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Arme de poing semi-automatique de gros calibre délivrée à H.E.C.U. agents. Dispose d'un viseur laser intégré pour une précision accrue. Doté d'une grande puissance d'arrêt, ce qui en fait l'une des armes de poing les plus efficaces sur le terrain.
+Arme de poing semi-automatique à haut calibre délivrée aux agents de l'Union européenne. Doté d'une vue laser intégrée pour une précision accrue. Emballe une puissance d'arrêt lourde, ce qui en fait l'un des bras latéraux les plus efficaces sur le terrain.
 
-NOTES: 
+REMARQUES:
 
-- Dégâts supérieurs par rapport au pistolet standard de 9 mm.
-- La visée laser intégrée permet une précision extrême.
-- Capacité de chargeur limitée et munitions rares.
+- Dommage supérieur au pistolet 9mm standard.
+- La vision laser intégrée permet une précision précise.
+- Capacité limitée des magazines et munitions rares.

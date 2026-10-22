@@ -1,25 +1,25 @@
-CLAIRE DE L'ÉDUCATION FONDAMENTALE DU PAPIER
+RÉCLAMATION DE L'ENSEIGNEMENT DU PAPIER FONDAMENTAL
 
 
-CLASS: Claire
-METABOLISM: Organisme anthropomorphe en papier
-PERCEPTION: Étudiant en école de papier
-SIZE: 5,3 pieds
-ENDURANCE: Faible
-HOSTILITY: Aucun
-WEAPONS: Aucun
-REWARD: 1 FC
-THREAT: Aucun
+CLASSE:      Claire
+MÉTABOLISME: Organisme anthropomorphe du papier
+PERCEPTION: Élève de l ' école de papier
+TAILLE:       5,3 pi
+ENDURANCE:  Faible
+HOSTILITÉ:  Aucune
+ARMES:    Aucune
+RÉCOMPENSE:     1 FC
+MENACE:     Aucune
 
-DESCRIPTION: 
+DESCRIPTION:
 
-A diligent and hardworking student at Paper School. Easily recognizable by her bob haircut with a bow. She wears the standard school uniform: une chemise blanche, un short, des chaussettes et des chaussures. Calme et réfléchie, elle se met facilement en colère face aux brimades constantes d'intimidateurs comme Zip, Oliver, Edward et Alekoth. Elle possède un fort instinct de conservation, qui se manifeste par son incroyable agilité et sa résilience pour une créature de papier : elle peut survivre à des chutes de hauteur, échapper à des enseignants tueurs pendant de longues périodes et même résister brièvement à l'entité ∆lice.
+Un étudiant diligent et travailleur à l'école de papier. Facilement reconnaissable par sa coupe de cheveux de bob avec un arc. Elle porte l'uniforme standard de l'école : une chemise blanche, un short, des chaussettes et des chaussures. Calme et réfléchie, elle est facilement en colère par l'intimidation constante des brutes comme Zip, Oliver, Edward et Alekoth. Elle possède un fort instinct d'auto-préservation, qui se manifeste dans son incroyable agilité et résilience pour une créature de papier - elle peut survivre à des chutes de hauteur, échapper aux enseignants tueurs pendant de longues périodes, et même résister brièvement à l'entité de Poux.
 
-Elle fait confiance à Engel (son ami d'enfance). Elle est amie avec Bubble, Biscuit et Anova. Elle a un chat, Mo-Mo (Moe-Moe). Elle est victime d'intimidateurs et d'enseignants.
+Elle fait confiance à Engel (son amie d'enfance). Elle est amicale avec Bubble, Biscuit et Anova. Elle a un chat, Mo-Moe. Elle est victime d'intimidations et d'enseignants.
 
-TIPS: 
+CONSEILS:
 
-- Toute attaque sérieuse de la part des enseignants lui est fatale.
-- Lorsqu'elle est en danger, elle compte sur la fuite et l'évasion. Elle n'attaque pas. Elle peut être sauvée par l'intervention des autres.
-- Elle peut accidentellement déclencher une menace encore plus grande (∆lice).
-- Dans des versions alternatives, elle peut avoir une apparence différente (couleur de cheveux, vêtements), mais l'essence du personnage reste inchangée : une étudiante consciencieuse piégée dans un cauchemar.
+- Toute attaque sérieuse de la part d'enseignants est fatale pour elle.
+- Quand elle est en danger, elle compte sur le vol et l'évasion. Elle n'attaque pas. Elle peut être sauvée par l'intervention des autres.
+- Elle peut accidentellement déclencher une menace encore plus grande (-).
+- Dans d'autres versions, elle peut avoir une apparence différente (couleur des cheveux, vêtements), mais l'essence du personnage reste inchangée - une étudiante consciencieuse piégée dans un cauchemar.

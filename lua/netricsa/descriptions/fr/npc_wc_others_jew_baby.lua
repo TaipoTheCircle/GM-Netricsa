@@ -1,23 +1,23 @@
-BÉBÉ JUIF RÉSISTANT
+BABY JEWISH RESISTEUR
 
 
-CLASS: Résistance juive, bébé
-METABOLISM: Humain, mâle
+CLASSE:      Résistor juif, Bébé
+MÉTABOLISME: Humain, Homme
 PERCEPTION: Rebelle humain
-SIZE: 5,5-6 pieds
-ENDURANCE: Moyen
-HOSTILITY: Dirigé contre les forces allemandes
-WEAPONS: aucun
-REWARD: 250 FC
-THREAT: Faible-Moyen
+TAILLE:       5,5-6 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Dirigé contre les forces allemandes
+ARMES:    aucune
+RÉCOMPENSE:     250 FC
+MENACE:     Faible-moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un membre de la population opprimée qui s'est soulevée contre la domination allemande. Bien qu'il n'ait pas été formé comme soldat, le résistant juif compte sur la ruse, la détermination et l'improvisation. Ils incarnent la résistance contre toute attente, motivée non pas par le pouvoir, mais par la volonté de survivre et de s’opposer à leurs ennemis.
+Un membre de la population opprimée qui s'est élevé contre la domination allemande. Bien qu'il ne soit pas entraîné comme soldat, le Resistor juif s'appuie sur la ruse, la détermination et l'improvisation. Ils incarnent la résistance contre les grandes difficultés, motivée non pas par le pouvoir, mais par la volonté de survivre et de s'opposer à leurs ennemis.
 
-TIPS: 
+CONSEILS:
 
 - Individuellement faible, mais peut être dangereux en groupe.
-ROBOT ENVAHISSEUR, ASSAUT DE SHAIJU GANDHI
-- Manque d'armure - le tir de précision est efficace.
+- Leur imprévisibilité les rend difficiles à suivre.
+- Manque d'armure - feu de précision est efficace.
 

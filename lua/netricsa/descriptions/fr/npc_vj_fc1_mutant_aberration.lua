@@ -1,23 +1,23 @@
-GORILLE ABERRÉ DE L'ARCHIPEL KRIEGER
+GORILLA ABERRÉ DE L'ARCHIPELAGO KRIEGER
 
 
-CLASS: Gorille aberré
-METABOLISM: Primate muté par trigène
-PERCEPTION: Combattant d'assaut
-SIZE: 4,8 pieds
-ENDURANCE: Haut
-HOSTILITY: Extrêmement élevé
-WEAPONATS: Membres en forme de pince, frappes puissantes
-REWARD: 600 FC
-THREAT: Critique
+CLASSE:      Gorille aberrée
+MÉTABOLISME: Primate muté au trigène
+PERCEPTION: Chasseur d'assaut
+TAILLE:       4,8 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Extrêmement élevé
+WEAPONATS:  Membres semblables à des pincers, frappes puissantes
+RÉCOMPENSE:     600 FC
+MENACE:     Critique
 
-DESCRIPTION: 
+DESCRIPTION:
 
-La version la plus résistante du primate trigène. Complètement glabre, avec un crâne déformé fusionné à la cage thoracique. Leurs membres antérieurs ont évolué vers de gigantesques pinces en forme de faucille, semblables à celles d’une mante religieuse. Bien qu'ils soient moins agiles que les chimpanzés, ils possèdent une santé accrue et infligent des dégâts dévastateurs au corps à corps.
+La version la plus résistante du primate trigène. Complètement sans poils, avec un crâne déformé fusionné au cage thoracique. Leurs membres antérieurs ont évolué en gigantesques pincers en forme de faucille, semblables à ceux d'une mante priante. Bien qu'ils soient moins agiles que les chimpanzés, ils ont une meilleure santé et infligent des dommages dévastateurs au combat rapproché.
 
-TIPS: 
+CONSEILS:
 
-- Nécessite un tir concentré - en raison de leur capacité de survie accrue, les tirs simples sont inefficaces.
-- Utilisez des explosifs - la zone d'effet compense leur vitesse élevée.
-- Ne les laissez pas s'approcher trop près : même une armure ne vous protégera pas de leurs griffes.
+- Nécessite un feu concentré - en raison de leur survie accrue, les tirs uniques sont inefficaces.
+- Utiliser des explosifs - la zone d'effet compense leur vitesse élevée.
+Ne les laissez pas s'approcher, même les armures ne vous protégeront pas de leurs griffes.
 

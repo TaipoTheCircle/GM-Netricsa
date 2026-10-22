@@ -1,24 +1,24 @@
-ZOMBI
+ZOMBINE
 
 
-CLASS: Zombies
-METABOLISM: hôte parasite (ancien soldat du Combine)
+CLASSE:      Zombine
+MÉTABOLISME: hôte parasitaire (ancien soldat Combiné)
 PERCEPTION: Entité zombifiée
-SIZE: 6 pieds
-ENDURANCE: moyen
-HOSTILITY: extrême
-WEAPONS: griffes, grenade combinée (ruée vers le suicide)
-REWARD: 400FC
-THREAT: élevé (à courte portée)
+TAILLE:       6 pieds
+ENDURANCE:  moyenne
+HOSTILITÉ:  extrême
+ARMES:    griffes, Combiner grenade (fuite de suicide)
+RÉCOMPENSE:     400 FC
+MENACE:     haute (proche)
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Zombine est ce qui arrive lorsqu'un crabe décide que transformer un soldat du Combine en marionnette est une bonne idée. Et apparemment, l’entraînement au combat des soldats persiste juste assez pour aggraver les choses. Contrairement aux zombies ordinaires, les zombies sortent parfois une grenade réelle et sprintent sur leurs ennemis comme une sorte de kamikaze mort-vivant.
+Le Zombine est ce qui se passe quand un crâne décide que transformer un soldat Combine en marionnette est une bonne idée. Et apparemment, l'entraînement de combat du soldat est suffisant pour aggraver les choses. Contrairement aux zombies réguliers, les zombies tirent parfois une grenade en direct et du sprint sur leurs ennemis comme une sorte de terroriste suicide non mort.
 
-Ils gémissent et trébuchent encore, mais avec cette grenade à la main, ils attirent soudain l'attention de tout le monde. On ne sait pas si cette tactique vient de l’ingéniosité des crabes ou d’une simple chance, mais dans tous les cas, cela fonctionne. Les résistants ont inventé le terme **Zombine** à moitié par peur, à moitié parce que c'est sombre et drôle.
+Ils gémissent et trébuchent encore, mais avec cette grenade à la main, soudain ils ont l'attention de tous. Sa difficulté à savoir si cette tactique vient de l'ingéniosité des têtes ou juste la chance stupide, mais de toute façon, cela fonctionne. Les résistants ont inventé le terme **Zombine** à moitié de peur, à moitié parce qu'il est sombrement drôle.
 
-TIPS: 
+CONSEILS:
 
-- Lorsqu'ils sortent une grenade, tirez sur l'explosif ou sortez de là.
-- Keep distance: les griffes et les explosions sont un mauvais mélange.
-- Si vous entendez un tintement sourd de grenade... commencez à courir.
+- Quand ils sortent une grenade, tuez l'explosif ou sortez.
+- Gardez la distance : les griffes et les explosions sont un mauvais mélange.
+- Si tu entends un clin d'oeil de Granade... commence à courir.

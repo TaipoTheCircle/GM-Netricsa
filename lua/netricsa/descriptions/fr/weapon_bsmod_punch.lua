@@ -1,17 +1,17 @@
-POINGS
+FISTES
 
 
-WEAPON: Poings nus
-AMMO: Aucun (mêlée)
-ROF: ~90 frappes/min
+ARME:      Bare Fists
+MUNITIONS:        Aucune
+CADENCE DE TIR:         ~90 grèves/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Arme standard de combat rapproché. Les mains délivrent des frappes rapides capables de stupéfier les ennemis et d'infliger des dégâts modérés. Idéal comme solution de repli lorsque d’autres armes ne sont pas disponibles.
+Arme de combat rapproché standard. Les mains livrent des frappes rapides capables d'atterrir les ennemis et d'infliger des dommages modérés. Idéal comme un repli lorsque d'autres armes ne sont pas disponibles.
 
-NOTES: 
+REMARQUES:
 
-- Utilisation illimitée ; aucune munition requise.
-- Effective at close range only.
-- Peut être combiné avec des objets de mouvement et environnementaux pour un impact supplémentaire.
+- Utilisation illimitée; pas de munitions nécessaires.
+- Efficace à proximité.
+- Peut combo avec mouvement et objets environnementaux pour un impact supplémentaire.
 - Utile pour conserver les munitions.

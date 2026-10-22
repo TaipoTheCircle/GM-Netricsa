@@ -1,25 +1,25 @@
-FRELON DE XEN
+HORNET DE XEN
 
 
-CLASS: Frelon
-METABOLISM: Extraterrestre insectoïde (cultivé en ruche)
-PERCEPTION: Organisme de projectile Xen
-SIZE: ~1 pied
-ENDURANCE: Très faible (fragile, facilement détruit en plein vol)
-HOSTILITY: Élevé (attaque sans réfléchir la cible la plus proche)
-WEAPONS: Piqûre perçante (fléchette biologique)
-REWARD: 5 FC
-THREAT: Faible (individuellement), Élevé (en essaims)
+CLASSE:      Hornet
+MÉTABOLISME: Insectoïde extraterrestre
+PERCEPTION: Xen Organisme projectile
+TAILLE:       ~1 pi
+ENDURANCE:  Très faible (fragile, facilement détruite en mi-vol)
+HOSTILITÉ:  Élevée (attaque la cible la plus proche)
+ARMES:    Piétage (fléche biologique)
+RÉCOMPENSE:     5 FC
+MENACE:     Faible (individuellement), Haut (en essaims)
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les frelons sont des projectiles extraterrestres vivants, élevés en ruche, tirés par des Alien Grunts depuis leurs canons à bras organiques. Une fois lancés, ils bourdonnent rapidement vers leur cible, ajustant leur trajectoire avec une précision de recherche de chaleur. Bien qu’individuellement faibles, leur persistance et leur nature grouillante les rendent mortels en grand nombre.
+Les Hornets sont des projectiles extraterrestres vivants, de race ruche, tirés par Alien Grunts à partir de leurs canons organiques. Une fois lancés, ils bourdonnent rapidement vers leur cible, ajustant la trajectoire avec la précision de recherche de chaleur. Bien qu'individuellement faibles, leur persistance et leur nature en plein essor les rendent mortels en grand nombre.
 
-Les frelons se dissolvent après l'impact ou s'ils sont détruits en plein vol, ne laissant aucun matériau récupérable. Leur existence reflète la guerre bio-ingénierie de Xen – transformant même les munitions en une arme vivante.
+Les cornets se dissolvent après l'impact ou s'ils sont détruits en mi-vol, ne laissant aucun matériau récupérable. Leur existence reflète la guerre biologique de Xen - transformer même des munitions en une arme vivante.
 
-TIPS: 
+CONSEILS:
 
-- Continuez à bouger - Les frelons suivent facilement les cibles stationnaires.
-- Tirez-leur dessus en plein vol pour réduire les dégâts causés par les essaims.
-- Utilisez des explosifs ou des tirs nourris pour éclaircir les groupes d'Alien Grunts avant qu'ils ne libèrent trop de frelons.
-- Ils n'ont pas d'aiguille ni de robe rouge.
+- Continuez à bouger - Hornets suivre les cibles fixes facilement.
+- Tuez-les en mi-vol pour réduire les dommages causés par les essaims.
+- Utilisez des explosifs ou un feu lourd pour des groupes minces d'Alien Grunts avant qu'ils libèrent trop de Hornets.
+- Ils n'ont ni aiguille ni robe rouge.

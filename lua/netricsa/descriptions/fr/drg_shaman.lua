@@ -1,36 +1,36 @@
-RÉPARATEUR D'ESSAI
+MENDEUR DE LA MER
 
 
-CLASSE : Réparateur d'essaims
-MÉTABOLISME : créature biologique extraterrestre
-PERCEPTION : Médecin biologique, soutien en essaim
-TAILLE: 5,2 pieds
-ENDURANCE : Moyenne
-HOSTILITÉ : Élevée
-ARMES : Régénérateur biologique, Griffes, Sécrétion acide
-RÉCOMPENSE : 350 FC
-MENACE : Moyenne
+CLASSE:      Swarm Mender
+MÉTABOLISME: Créature biologique étrangère
+PERCEPTION: Médicament biologique, soutien au swarm
+TAILLE:       5,2 pi
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Régénérateur biologique, griffes, secret acide
+RÉCOMPENSE:     350 FC
+MENACE:     Moyenne
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Les Swarm Menders sont une variété spécialisée de Swarm Beetles qui agissent comme des médecins vivants au sein des colonies extraterrestres. Ils s'engagent rarement dans les combats, préférant rester derrière le gros de l'essaim et soutenir les individus blessés pendant qu'ils continuent à se battre.
+Swarm Menders sont une variété spécialisée de swarm Beetles qui agissent comme des médecins vivants dans des colonies étrangères. Ils se livrent rarement au combat, préférant rester derrière le corps principal de l'essaim et soutenir les personnes blessées pendant qu'ils continuent à se battre.
 
-Leur corps produit une sécrétion régénératrice spéciale qui accélère la réparation des tissus chez les extraterrestres. Le Swarm Keeper s'attache à un individu blessé et recouvre ses blessures d'une fine couche de matériel biologique, après quoi le tissu endommagé commence à se régénérer rapidement.
+Leur corps produit une sécrétion régénérative spéciale qui accélère la réparation des tissus chez les extraterrestres. Le Swarm Keeper s'attache à un individu endommagé et couvre ses blessures d'une fine couche de matériel biologique, après quoi le tissu endommagé commence à se régénérer rapidement.
 
-Cependant, ce procédé présente une particularité malheureuse : le matériau régénératif ne se contente pas toujours de réparer les dégâts. Il remplace progressivement les tissus endommagés par des tissus provenant de l'Essaim lui-même. Par conséquent, les individus traités à plusieurs reprises par Swarm Keepers deviennent de plus en plus recouverts par un exosquelette étranger au fil du temps.
+Cependant, ce processus a un problème malheureux : le matériel régénératif ne répare pas toujours les dommages. Il remplace progressivement le tissu endommagé par le tissu du Swarm lui-même. Par conséquent, les individus traités à plusieurs reprises par des gardiens de swarm deviennent de plus en plus couverts par un exosquelette étranger au fil du temps.
 
-On pense que les Swarm Keepers sont l’une des raisons pour lesquelles certaines colonies infectées commencent à présenter des formes inhabituelles d’hybridation. Ce n'est pas un problème pour l'essaim lui-même. L'organisme endommagé devient partie intégrante du système biologique global et continue de remplir ses fonctions.
+On croit que les gardiens de swarms sont l'une des raisons pour lesquelles certaines colonies infectées commencent à présenter des formes inhabituelles d'hybridation. Ce n'est pas un problème pour l'essaim. L'organisme endommagé fait partie du système biologique global et continue d'exercer ses fonctions.
 
-Les Swarm Keepers présentent un comportement communautaire et ne tentent presque jamais de se sauver aux dépens des autres créatures. Si un individu blessé se trouve à proximité, il continuera à guérir même sous le feu jusqu'à ce que la menace devienne immédiate.
+Swarm Keepers expose le comportement communal et presque jamais tenter de se sauver aux dépens d'autres créatures. Si un blessé est à proximité, il continuera à guérir même sous le feu jusqu'à ce que la menace devienne immédiate.
 
-Lorsqu'il est menacé, le Mender peut se défendre avec ses griffes et sécréter une petite quantité d'acide corrosif, puis s'enfuir. Cependant, sa principale force ne réside pas dans son attaque, mais dans sa capacité à maintenir un essaim prêt au combat beaucoup plus longtemps que prévu.
+Lorsqu'il est menacé, le Mender peut se défendre avec ses griffes et sécréter une petite quantité d'acide corrosif, puis fuir. Toutefois, sa principale force n'est pas dans son attaque, mais dans sa capacité à maintenir un essaim prêt au combat pour une période beaucoup plus longue que prévu.
 
-Pour cette raison, la destruction du Mender devient souvent une priorité pour les combattants : tant qu'il est vivant, les extraterrestres déjà endommagés peuvent se relever et retourner au combat.
+De ce fait, détruire le Mender devient souvent une priorité pour les combattants : bien qu'il soit vivant, les extraterrestres déjà endommagés peuvent remonter et revenir au combat.
 
-CONSEILS :
+CONSEILS:
 
-- Détruisez d'abord le Mender s'il se trouve à proximité d'un groupe d'extraterrestres blessés.
-- Ne gaspillez pas inutilement des munitions sur son épais exosquelette : il n'est pas conçu pour le combat direct.
-- Si le Mender commence à soigner un ennemi puissant, il est préférable d'interrompre d'abord la guérison.
-- Dans les espaces clos, les groupes dans lesquels les Menders sont positionnés derrière plusieurs rangées d'extraterrestres de combat sont particulièrement dangereux.
-- Une fois le Mender détruit, les extraterrestres déjà endommagés deviennent nettement moins résistants.
+- Détruisez le Mender d'abord si c'est près d'un groupe d'étrangers blessés.
+- Ne gaspillez pas inutilement de munitions sur son exosquelette épais: il n'est pas conçu pour le combat direct.
+- Si le Mender commence à guérir un ennemi puissant, il vaut mieux interrompre la guérison d'abord.
+- Dans les espaces clos, les groupes dans lesquels les meneurs sont placés derrière plusieurs rangées d'étrangers de combat sont particulièrement dangereux.
+- Après la destruction du Mender, les aliens déjà endommagés deviennent nettement moins résistants.

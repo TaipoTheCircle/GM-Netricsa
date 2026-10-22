@@ -1,16 +1,16 @@
-FUSIL D'ASSAUT M4
+RIFLE D'ASSAULT M4
 
 
-ARME : Colt M4
-Munitions : obus OTAN 5,56 x 45 mm + grenades 40 mm
-ROF : ~700 tours/min
+ARME:      Colt M4
+MUNITIONS:        5.56x45mm rondes de l'OTAN + grenades de 40mm
+CADENCE DE TIR:         ~700 tours/min
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Fusil d'assaut fiable de fabrication américaine. Fournit un tir automatique soutenu avec une précision décente.
+Un fusil d'assaut américain fiable. Fournit un feu automatique soutenu avec une précision décente.
 
-REMARQUES :
+REMARQUES:
 
-- Arme d'infanterie standard avec de solides performances.
-- Lance-grenades efficace pour le contrôle des foules et les ennemis retranchés.
-- La précision souffre en cas de rafales prolongées.
+- Arme d'infanterie standard avec des performances solides.
+- Lanceur de grenade efficace pour le contrôle de la foule et les ennemis retranchés.
+- L'exactitude souffre sous des rafales prolongées.

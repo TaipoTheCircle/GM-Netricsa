@@ -1,22 +1,22 @@
-AFLOCK DE XEN
+APRÈS XEN
 
 
-CLASS: Aflock
-METABOLISM: Inconnu
-PERCEPTION: Dépliant curieux
-SIZE: Envergure de 3 pieds
-ENDURANCE: Faible
-HOSTILITY: Aucun
-WEAPONS: Aucun
-REWARD: 50 FC
-THREAT: Aucun
+CLASSE:      Blocage
+MÉTABOLISME: Inconnu
+PERCEPTION: Curieux flyer
+TAILLE:       échelle de 3 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Aucune
+ARMES:    Aucune
+RÉCOMPENSE:     50 FC
+MENACE:     Aucune
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les aflocks sont de petites créatures paisibles de Xen. Ils passent la plupart de leur temps à voler en groupes lâches, à émettre d'étranges sons extraterrestres et à observer leur environnement. Totalement inoffensifs, ils agissent souvent comme des éclaireurs ou pour améliorer l'humeur de l'écosystème Xen.
+Les cadenas sont de petites créatures paisibles de Xen. Ils passent la plupart de leur temps à voler en groupes lâches, à faire des sons extraterrestres étranges et à observer leur environnement. Complètement inoffensifs, ils agissent souvent comme scouts ou ambulanciers pour l'écosystème Xen.
 
-TIPS: 
+CONSEILS:
 
 - Ils n'attaquent jamais.
-- Écoutez leurs gazouillis extraterrestres pour les localiser.
-- Peut être trouvé volant en groupe ou à proximité de zones ouvertes.
+- Écoutez leurs aliens pour les localiser.
+- Peut être trouvé en vol en groupes ou près des zones ouvertes.

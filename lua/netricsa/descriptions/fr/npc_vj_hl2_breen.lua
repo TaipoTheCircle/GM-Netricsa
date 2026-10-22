@@ -1,23 +1,23 @@
-DR. WALLACE BREEN
+DR WALLACE BREEN
 
 
-CLASS: Dr Wallace Breen
-METABOLISM: Humain, mâle
-PERCEPTION: Administrateur de la Terre / Méchant type en costume
-ENDURANCE: Moyen (physiquement vulnérable, mais politiquement intouchable)
-HOSTILITY: Extrême (en tant qu'exécuteur de la propagande)
-WEAPONS: Pistolet à gravité (brève utilisation du flash)
-REWARD: Inconnu
-THREAT: Élevé (pas en combat, mais en autorité)
+CLASSE:      Dr Wallace Breen
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Administrateur de la Terre / Guy-in-a-Suit Villain
+ENDURANCE:  Moyenne (physiquement vulnérable, mais politiquement intouchable)
+HOSTILITÉ:  Extreme (en tant qu'exécuteur de propagande)
+ARMES:    Gun gravity (brève utilisation flash)
+RÉCOMPENSE:     Inconnu
+MENACE:     Haut (pas au combat, mais en autorité)
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Dr Wallace Breen était l'administrateur de Black Mesa pendant la fatidique Cascade de Résonance, et lorsque la Terre est tombée pendant la guerre de Sept Heures, il a négocié sa reddition. En retour, le Combine l'a installé comme dirigeant fantoche de l'humanité, avec City 17 comme base d'opérations et l'imposante Citadelle comme siège du pouvoir.
+Le Dr Wallace Breen était l'administrateur de Black Mesa pendant la fatidique Cascade de Résonance, et quand la Terre est tombée pendant la guerre de sept heures, il a négocié sa reddition. En retour, le Combine l'a installé comme chef de marionnettes de l'humanité, avec la ville 17 comme base d'opérations et la citadelle imposante comme siège du pouvoir.
 
-Diffusant constamment via Breencasts des discours publics sur des moniteurs et des écrans muraux, Breen renforce verbalement son contrôle, se référant au Combine comme à « Nos bienfaiteurs » et dissimulant sa tyrannie sous un vernis de pragmatisme.
+Radiodiffusion constante via Breencasts-adresses publiques au-dessus des écrans et des écrans-Breen renforce verbalement son contrôle, se référant au Combine comme "Nos bienfaiteurs" et en dissimulant sa tyrannie sous un placage de pragmatisme.
 
-Mais derrière ces émissions se cache un opportunisme calculé. Breen fétichise l'ordre et l'héritage, se positionnant comme le sauveur de la Terre tout en exploitant son alliance avec le Combine pour conserver son pouvoir personnel, même si l'humanité souffre.
+Cependant, derrière les émissions se trouve l'opportunisme calculé. Breen fétichise l'ordre et l'héritage, se positionnant comme sauveur de la Terre tout en exploitant son alliance avec le Combine pour conserver le pouvoir personnel-même que l'humanité souffre.
 
-TIPS: 
+CONSEILS:
 
-- Ne croyez jamais ses paroles, ce sont de la pure propagande.
+- Ne croyez jamais ses mots, ils sont de pure propagande.

@@ -1,26 +1,26 @@
 DR. ELI VANCE
 
 
-CLASS: Dr Eli Vance
-METABOLISM: Humain, mâle
-PERCEPTION: Scientifique humain / Leader de la Résistance
-SIZE: ~6 pieds
-ENDURANCE: Faible-Moyen (physiquement limité, mais esprit résilient)
-HOSTILITY: Faible (amical, défensif lorsqu'il est menacé)
-WEAPONS: Connaissances scientifiques, armes à feu improvisées (rarement utilisées)
-REWARD: 1000FC
-THREAT: Moyen (pas au combat, mais en tant que leader stratégique)
+CLASSE:      Dr Eli Vance
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Scientifique humain / Chef de la résistance
+TAILLE:       6 pieds
+ENDURANCE:  Faible-Moyen (esprit physiquement limité, mais résistant)
+HOSTILITÉ:  Faible (amiable, défensif quand menacé)
+ARMES:    Connaissances scientifiques, armes à feu improvisées (rarement utilisées)
+RÉCOMPENSE:     1000 FC
+MENACE:     Moyenne (pas au combat, mais en tant que leader stratégique)
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Dr Eli Vance est l'une des figures fondatrices de la Résistance et un survivant de l'incident de Black Mesa. Brillant scientifique doté d'une expertise en téléportation et en physique expérimentale, Eli a consacré sa vie à résister à l'occupation de la Terre par les Combine. Il dirige la base de Black Mesa East.
+Le Dr Eli Vance est l'une des figures fondatrices de la Résistance et un survivant de l'incident de Mesa noire. Un brillant scientifique avec une expertise en téléportation et en physique expérimentale, Eli a consacré sa vie à résister à l'occupation combinée de la Terre. Il dirige la base de Black Mesa East.
 
-IL a perdu une jambe lors de la catastrophe de Black Mesa et s'appuie sur une prothèse. Il a perdu sa jambe lors d'une tempête de particules dévastatrice, arrachée en un instant, seulement pour que le membre coupé soit retrouvé et dévoré par un Bullsquid qui rôdait. Sa sagesse, son charisme et sa compassion inspirent aussi bien les combattants que les civils. Il est également le père dévoué d'Alyx Vance, qu'il a élevée dans le chaos d'une Terre conquise.
+Il perd une jambe pendant le désastre de Black Mesa et compte sur une prothèse. Il a perdu sa jambe lors d'une tempête de particules dévastatrice qui s'est évanouie en un instant, seulement pour que le membre coupé soit retrouvé et dévoré par un calmar rôdeur. Sa sagesse, son charisme et sa compassion inspirent les combattants comme les civils. Il est aussi le père dévoué d'Alyx Vance, qu'il a élevé au milieu du chaos d'une terre conquise.
 
-Bien qu'il ne soit pas un soldat de première ligne, la véritable arme d'Eli est son esprit. Il orchestre les opérations, construit des alliances et fournit les bases scientifiques qui font de la Résistance plus qu'une simple rébellion armée. Le Combine reconnaît son importance, faisant de lui une cible constante à capturer.
+Bien que pas un soldat de première ligne, la vraie arme d'Eli est son esprit. Il orchestre les opérations, construit des alliances et fournit la base scientifique qui rend la Résistance plus qu'une simple rébellion armée. Le Combiné reconnaît son importance, en faisant de lui une cible constante de capture.
 
-TIPS: 
+CONSEILS:
 
 - Protégez Eli à tout prix, il est irremplaçable pour la cause de la Résistance.
-- Source précieuse de conseils tactiques et technologiques.
+- Une source précieuse de conseils tactiques et technologiques.
 - Son lien avec Alyx renforce souvent sa détermination dans des situations désastreuses.

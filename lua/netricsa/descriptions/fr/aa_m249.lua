@@ -1,16 +1,16 @@
-M249 SAW LIGHT MACHINE GUN
+M249 MACHINE DE LUMIÈRE
 
 
-ARME : Mitrailleuse légère M249 SAW
-MUNITIONS : 5.56x45mm NATO, belt-fed
-ROF : ~750 rounds / min
+ARME: M249 SAW mitrailleuse légère
+MUNITIONS:   5.56x45mm OTAN, alimenté par ceinture
+CADENCE DE TIR:    ~750 tours/min
 
-DESCRIPTIF :
+DESCRIPTION:
 
-A heavy squad support weapon designed for sustained automatic fire. The belt-fed cartridges provide a large ammunition capacity, making it ideal for suppressing enemy positions and eliminating groups of enemies with overwhelming firepower.
+Une arme de soutien lourde conçue pour un tir automatique soutenu. Les cartouches alimentées à la ceinture fournissent une grande capacité de munitions, ce qui en fait l'idéal pour supprimer les positions ennemies et éliminer les groupes d'ennemis avec une puissance de feu écrasante.
 
-REMARQUES :
+REMARQUES:
 
-- Extremely high rate of fire, effective for area suppression.
-- Large ammunition capacity allows for prolonged combat.
-- Reduced mobility and high recoil during sustained fire.
+- Taux d'incendie extrêmement élevé, efficace pour la suppression de la zone.
+- Une grande capacité de munitions permet un combat prolongé.
+- Mobilité réduite et recul élevé pendant le feu soutenu.

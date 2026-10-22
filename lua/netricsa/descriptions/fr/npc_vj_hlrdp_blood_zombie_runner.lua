@@ -1,30 +1,30 @@
-CRABE ZOMBIE, COUREUR DE SANG
+ZOMBIE HEADCRAB, BLOOD RUNNER
 
 
-CLASS: Crabe zombie, coureur de sang
-METABOLISM: Hôte humain + crabe parasite de Xen
+CLASSE:      Casse-tête de zombie, Coureur de sang
+MÉTABOLISME: Hôte humain + tête parasite de Xen
 PERCEPTION: Entité zombifiée
-SIZE: 6 pieds
-ENDURANCE: Moyen-élevé
-HOSTILITY: Extrême
-WEAPONS: Griffes, Morsure, Vitesse
-REWARD: 600 FC
-THREAT: Très élevé
+TAILLE:       6 pieds
+ENDURANCE:  Moyenne-haute
+HOSTILITÉ:  Extrême
+ARMES:    Griffes, morsure, vitesse
+RÉCOMPENSE:     600 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Il s’agit d’une variété spéciale de crabe zombie du Nevada, qui s’est répandue dans l’État le plus sec d’Amérique – le Nevada, à Delta Base. Le désert et la chaleur de l'Arizona n'ont pas tué ces créatures, mais les ont seulement rendues plus en colère, plus rapides et plus mortelles.
+C'est une variété spéciale, Nevada de headcrab zombie, qui est devenu répandu dans l'état le plus sec en Amérique – Nevada, à Delta Base. Le désert et la chaleur de l'Arizona n'ont pas tué ces créatures, mais les ont seulement rendu plus en colère, plus rapides et plus mortelles.
 
-L'apparence du Blood Runner diffère de celle de son homologue normal. Il est vêtu de vêtements sombres et en lambeaux, entièrement recouverts de sang séché. Son corps est déformé, ses muscles anormalement allongés, adaptés aux courses longues et rapides sur des terrains accidentés.
+L'apparence du Blood Runner diffère de celle de son homologue normal. Elle est vêtue de vêtements sombres et tapis, entièrement recouverte de sang séché. Son corps est déformé, ses muscles contre nature allongés, adaptés pour les longues et rapides descentes sur terrain accidenté.
 
-Au combat, le Blood Runner est encore plus dangereux que d'habitude. Il ne s'agit pas seulement de courir en sprintant, d'éviter les obstacles et de sortir de l'obscurité aux moments les plus inattendus.
+Au combat, le Blood Runner est encore plus dangereux que d'habitude. Il ne se contente pas de lancer des sprints, d'éviter les obstacles et de sortir de l'obscurité aux moments les plus inattendus.
 
-Lorsqu'un Blood Runner est tué à la tête, sa tête est arrachée de son corps.
+Quand un Coureur de sang est tué dans la tête, sa tête est arrachée de son corps.
 
-TIPS: 
+CONSEILS:
 
-- Le Blood Runner est plus rapide que d'habitude. N'essayez pas de vous enfuir, il vous rattrapera.
-- Utiliser des passages étroits et des pièges.
-- S'il est tué par une balle dans la tête, la tête est arrachée.
-- Dans des vêtements sombres, il est difficile à repérer la nuit.
-NID DE FRELONS DU XEN
+- Le Blood Runner est plus rapide que d'habitude. N'essayez pas de fuir, ça vous rattrapera.
+- Utilisez des passages étroits et des pièges.
+- S'il est tué par un coup de tête, la tête est arrachée.
+- Dans les vêtements sombres, il est difficile de repérer la nuit.
+- Un combat serré est extrêmement risqué. Gardez votre distance et utilisez le fusil à bout portant quand il court.

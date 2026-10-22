@@ -1,29 +1,29 @@
-VÉHICULE TOUT-TERRAIN BLINDÉ Y.S.M. HMMWV, JAUNE
+VÉHICULE OFFROAD Y.S.M. HMMWV, YELOW
 
 
-CLASS: Véhicule blindé tout-terrain Y.S.M. HMMWV, jaune
-METABOLISM: Mécanique, actionné par un mercenaire
+CLASSE:      Véhicule hors route blindé Y.S.M. HMMWV, jaune
+MÉTABOLISME: Mécanique, exploité par Mercenary
 PERCEPTION: Véhicule, capsule blindée
-SIZE: 6 pieds
-ENDURANCE: Haut
-HOSTILITY: À charge du conducteur
-WEAPONS: Bélier
-REWARD: 1000FC
-THREAT: Moyen
+TAILLE:       6 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Personnes à charge du conducteur
+ARMES:    Ram
+RÉCOMPENSE:     1000 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Il s'agit d'une capsule blindée destinée à acheminer en toute sécurité les mercenaires vers leur destination. Contrairement aux versions militaires, qui sont armées de mitrailleuses et de lance-roquettes, cette version est un SUV militaire standard, renforcé de panneaux blindés et de vitres pare-balles.
+C'est une capsule blindée pour la livraison sûre de mercenaires à leur destination. Contrairement aux versions militaires, qui sont armées de mitrailleuses et de lance-roquettes, cette version est un VUS militaire standard, renforcé de panneaux blindés et de verre pare-balles.
 
-Le véhicule n'est pas armé. Aucun. Pas de mitrailleuse sur le toit, pas de lance-grenades sur la tourelle. Y.S.M. les conducteurs préfèrent compter sur l'armure et la vitesse, et si une menace survient, ils écrasent simplement les ennemis avec leurs roues. Le HMMWV se déplace lentement – ​​le blindage est lourd et le moteur n'est pas caoutchouteux. Mais c'est suffisant pour aller du point A au point B.
+Le véhicule n'est pas armé. Aucune. Pas de mitrailleuse sur le toit, pas de lance-grenades sur la tourelle. Les pilotes Y.S.M. préfèrent compter sur l'armure et la vitesse, et s'il y a une menace, ils courent simplement sur les ennemis avec leurs roues. Le HMMWV se déplace lentement - l'armure est lourde, et le moteur n'est pas caoutchouteux. Mais il suffit de passer du point A au point B.
 
-The vehicle has two rows of seats: le conducteur et le passager à l'avant, et jusqu'à quatre mercenaires en tenue de combat complète à l'arrière. Les vitres sont blindées, mais teintées, la visibilité de l'intérieur est donc quasiment impossible.
+The vehicle has two rows of seats: le conducteur et le passager devant, et jusqu'à quatre mercenaires en matériel de combat complet dans le dos. Les fenêtres sont blindées, mais teintées, donc la visibilité de l'intérieur est presque impossible.
 
-À la base Delta, Y.S.M. utilise le HMMWV pour les patrouilles périmétriques, les livraisons de fournitures et, bien sûr, pour les vols - il n'y a pas toujours de place pour le véhicule à l'intérieur, vous devez donc traîner les marchandises à la main jusqu'au véhicule, puis les charger.
+À Delta Base, Y.S.M. utilise le HMMWV pour les patrouilles de périmètre, les livraisons d'approvisionnement et, bien sûr, pour les vols - il n'y a pas toujours de place pour le véhicule à l'intérieur, donc vous devez traîner les marchandises au véhicule à la main et les charger.
 
-TIPS: 
+CONSEILS:
 
-- Non armé, le HMMWV est inoffensif sauf si vous vous mettez en travers de son chemin. Ne vous tenez pas devant le véhicule, il pourrait vous écraser.
-- Le blindage est solide, mais le dessous est vulnérable aux explosifs. Une grenade sous les roues et la voiture se transforme en un tas de métal.
-- Le chauffeur ne sort pas pour tirer.
-- Sur une route sombre, le HMMWV est facile à repérer grâce à ses phares.
+- Sans arme, le HMMWV est inoffensif à moins que vous ne vous y opposent. Ne vous tenez pas devant le véhicule, il vous écrasera.
+- L'armure est forte, mais le dessous est vulnérable aux explosifs. Une grenade sous les roues et la voiture se transforme en un tas de métal.
+- Le chauffeur ne tire pas.
+- Sur une route sombre, le HMMWV est facile à repérer par ses phares.

@@ -1,20 +1,20 @@
-PRÉCISION INTERNATIONALE AW50
+ACCURACITÉ INTERNATIONALE AW50
 
 
-WEAPON: AH50
-AMMO: .50 BMG (12,7 × 99 mm OTAN)
-ROF: Action à verrou - coup unique
-MAGAZINE: Chargeur boîte amovible, 5 coups
-WEIGHT: 15kg
-LENGTH: 1 350 millimètres
+ARME:   AW50 
+MUNITIONS:     50 BMG (12,7×99 mm OTAN)
+CADENCE DE TIR:      Bolt-action - prise unique
+MAGAZINE: Magazine de boîtes amovibles, 5 tours
+POIDS:   15 kg
+LENGTH:   1 350 mm
 
-DESCRIPTION: 
+DESCRIPTION:
 
-L'AW50 est un fusil anti-matériel/sniper de gros calibre construit sur la plate-forme Arctic Warfare et chambré en .50 BMG. Il est destiné à engager des cibles matérielles, des blindés légers et du personnel éloigné ; la conception équilibre la précision à longue portée avec une fiabilité robuste sur le terrain.
+L'AW50 est un fusil anti-matériel/sniper de calibre large construit sur la plate-forme Arctic Warfare. Il est destiné à engager des cibles matérielles, des armures légères et du personnel éloigné; la conception équilibre la précision à longue portée avec la fiabilité du champ robuste.
 
-NOTES: 
+REMARQUES:
 
-- Role: tireur d'élite anti-matériel / longue portée - désactivez l'équipement, détruisez les cibles sensibles et engagez le personnel à des distances étendues.
-- Equipé d'un frein de bouche lourd et d'un bipied ; les options de stock pliables améliorent la transportabilité.
-- La portée d'engagement effective est d'environ 1 500 m (varie selon les munitions, l'observation et l'environnement) ; Les cartouches perforantes et spécialisées de calibre .50 sont couramment utilisées.
-- Une masse et une longueur considérables nécessitent un support (bipied/trépied ou déploiement en équipe) ; ne convient pas aux rôles agiles et rapprochés.
+- Rôle : sniper anti-matériel/à longue portée - désactiver l'équipement, détruire les cibles sensibles et engager le personnel sur de longues distances.
+- Monté avec un frein à museau lourd et un bipode; les options de pliage du stock améliorent la transportabilité.
+- Une portée d'engagement efficace est d'environ 1 500 m (varie avec munitions, observation et environnement); des tirs d'armure et des cartouches spécialisées de 0,50 sont couramment utilisés.
+- Une masse et une longueur considérables nécessitent un soutien (déploiement bipode/tripode ou en équipe); ne conviennent pas aux rôles agiles et rapprochés.

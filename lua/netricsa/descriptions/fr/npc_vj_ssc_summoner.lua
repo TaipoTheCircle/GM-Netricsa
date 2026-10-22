@@ -1,23 +1,23 @@
-MORDEKAI, L'INVOCATEUR
+MORDEKAI, LE SUMMONER
 
 
-CLASS: Mordekaï, l'invocateur
-METABOLISM: mort-vivant
-PERCEPTION: entité ancienne
-SIZE: 80 pieds
-ENDURANCE: haut
-HOSTILITY: extrême
-WEAPONS: invocation de sorts
-REWARD: 1000000FC
-THREAT: haut
+CLASSE:      Mordekai, l'invocateur
+MÉTABOLISME: non décédés
+PERCEPTION: entité ancienne 
+TAILLE:       80 pieds
+ENDURANCE:  élevé
+HOSTILITÉ:  extrême
+ARMES:    appel aux sorts
+RÉCOMPENSE:     1000000 FC
+MENACE:     élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-L'un des sorciers les plus puissants ayant jamais vécu dans l'univers connu, Mordekai a servi Mental pendant plus de 3000 ans.  Il l'a si bien servi que Mental l'a beaucoup manqué et l'a ressuscité après sa mort dans un accident bizarre impliquant le Necronomicon, 20 000 livres d'ectoplasme et un proverbe latin mal prononcé.  Il fut automatiquement chargé de former les créatures de Mental à l'art de lancer des sorts et d'utiliser la magie à des fins véritablement « maléfiques ».
+L'un des sorciers les plus puissants qui ait jamais vécu dans l'univers connu, Mordekai a servi Mental pendant plus de 3000 ans. Il l'a si bien servi, que Mental l'a manqué beaucoup et l'a ressuscité après sa mort dans un accident de bizzare impliquant le nécronomicon, 20 000 livres d'ectoplasme et un proverbe latin mal prononcé. Il a été automatiquement affecté à former les créatures de Mental dans l'art de l'épeautre et d'employer la magie à des fins vraiment « viles ».
 
-P.S. Mental était un peu en retard dans le processus de résurrection, donc le cerveau de Mordekai est légèrement endommagé ; On l’entend souvent dire des bêtises totales, ou comme on dirait, des conneries totales.  En latin.
+P.S. Mental était un peu en retard avec le processus de résurrection, de sorte que le cerveau de Mordekai est légèrement endommagé; il est souvent entendu pour dire des absurdités complètes, ou comme on dirait, des conneries. En latin.
 
-TIPS: 
+CONSEILS:
 
-- Il peut disparaître rapidement alors assurez-vous de l'initier à l'artillerie moderne pendant qu'il est en état de caporal.
-- Ses pouvoirs magiques sont très susceptibles de se disperser s'il est tué ; cela provoquerait également la désintégration de ses méchants serviteurs.
+- Il peut disparaître rapidement alors soyez sûr de le présenter à l'artillerie moderne pendant qu'il est en état corporel.
+- Ses pouvoirs magiques sont très susceptibles de se disperser s'il est tué; cela provoquerait également la désintégration de ses minions maléfiques.

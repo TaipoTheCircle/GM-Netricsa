@@ -1,28 +1,28 @@
-SPECTACLE DEMI-SÉMEMENT, ÉVASION DU LABYRINTHE
+HALF-QUAKE SHOW, ESCAPE DE LA LABYRENTH
 
 
 Concernant la Garde...
 
-Le bloc de pierre a tout décidé plus rapidement que n'importe quel dialogue. Un garde, deux rats et toute une série de phrases non prononcées étaient désormais réparties uniformément sur le sol. La série n'aime pas les témoins. Et il n'aime certainement pas qu'ils aient l'occasion de dire quelque chose.
+Le bloc de pierre a décidé tout plus vite que tout dialogue. Un garde, deux rats et toute une série de phrases non parlées étaient maintenant uniformément distribuées à travers le sol. Le spectacle n'aime pas les témoins. Et il n'aime certainement pas qu'ils aient une chance de dire quelque chose.
 
-Vous êtes entré par la salle de sécurité. L’ironie est dense, presque tangible. C'est ici que commence le labyrinthe.
+Vous êtes entré par la salle de sécurité. L'ironie est dense, presque tangible. C'est là que commence le labyrinthe.
 
-C'est vivant.
+Il est vivant.
 
-Pas dans un sens poétique, mais dans un sens pratique.
+Pas dans un sens poétique, mais pratique.
 
-Les couloirs se tordent, les murs se rejoignent selon des angles étranges. Les forces mentales sont déjà là. Les Vortigaunts aussi.
+Les couloirs tournent, les murs se rencontrent sous des angles étranges. Les forces mentales sont déjà là. Les Vortigaunts aussi.
 
-Quelque part au-dessus se trouvent les boutons de contrôle de test. Le panneau de commande central. Le cerveau de ce hachoir à viande. Si l'on en croit la logique, et la logique est un invité rare ici, c'est à partir de là que les pièges se déclenchent, que les chemins s'ouvrent et se ferment, et que se décide aujourd'hui qui "a ravi le public".
+Les boutons de contrôle d'essai sont quelque part ci-dessus. Le panneau de commande central. Le cerveau de cette meuleuse. Si la logique est à croire, et que la logique est un invité rare ici, c'est de là que les pièges sont déclenchés, les chemins sont ouverts et fermés, et qui a "déjoué le public" aujourd'hui est décidé.
 
-The task is simple in formulation and unpleasant in execution: 
+The task is simple in formulation and unpleasant in execution:
 
-Sortir.
+Dehors.
 
-Et si possible, fermez également cet endroit, au moins pendant quelques secondes.
+Et si possible, aussi fermer cet endroit, au moins pendant quelques secondes.
 
 Bouge, Sam.
 
 Les labyrinthes ne tolèrent pas le doute.
 
-Et celui-ci déteste particulièrement ceux qui réfléchissent trop longtemps.
+Et celui-ci déteste particulièrement ceux qui pensent trop longtemps.

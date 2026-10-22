@@ -1,22 +1,22 @@
-FUSIL PROFESSIONNEL
+RIF PROFESSIONNEL
 
 
-WEAPON: Fusil professionnel
-AMMO: 7,62x51mm OTAN
-ROF: ~12 tours/min
+ARME: Rifle professionnel
+MUNITIONS:   OTAN 7,62x51mm
+CADENCE DE TIR:    ~12 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-The Professional Rifle is a high-precision bolt-action rifle based on the Accuracy International L96A1 / Arctic Warfare platform and designed for professional long-range combat. Its design retains all the advantages of the original: un canon flottant lourd, une précision exceptionnelle et une stabilité à longue portée.
+Le fusil professionnel Rifle est un fusil à action de haute précision basé sur la plate-forme Accuracy International L96A1 / Arctic Warfare et conçu pour le combat professionnel à longue portée. Sa conception conserve tous les avantages de l'original : un tonneau flottant lourd, une précision exceptionnelle et une stabilité à longue portée.
 
-However, the rifle has one frightening feature: un puissant haut-parleur intégré à l’intérieur du cadre, enregistrant des centaines de cris humains déformés et enragés. A chaque plan, l'enceinte les joue simultanément au plan, créant un choc acoustique assourdissant. Le haut-parleur est soudé de manière permanente au cadre interne et ne peut être retiré sans détruire complètement l'arme.
+Cependant, le fusil a une caractéristique effrayante: un haut-parleur puissant intégré dans le cadre, enregistrant des centaines de cris humains déformés et enragés. À chaque tir, l'enceinte joue simultanément avec le tir, créant un choc acoustique assourdissant. Le haut-parleur est soudé en permanence au cadre interne et ne peut être enlevé sans détruire complètement l'arme.
 
-L'arme élimine efficacement les cibles, mais présente un risque auditif sérieux pour le tireur et toute personne à proximité.
+L'arme élimine efficacement les cibles, mais présente un risque auditif grave pour le tireur et toute personne à proximité.
 
-NOTES: 
+REMARQUES:
 
-- Précision exceptionnelle et dégâts élevés à longue distance.
-- Chaque tir crée un bruit extrême, capable de provoquer une perte auditive temporaire ou permanente.
-- Démoralise les ennemis et désoriente les cibles proches.
-- L'utilisation sans protection auditive est fortement déconseillée.
-- Considéré comme une arme psychologique, et non comme un simple fusil de sniper.
+- Précision exceptionnelle et dommages importants à longue portée.
+- Chaque tir crée un bruit extrême, capable de causer une perte auditive temporaire ou permanente.
+- Démoralise les ennemis et désoriente les cibles voisines.
+- L'utilisation sans protection auditive est fortement découragée.
+- Considéré comme une arme psychologique, pas comme un simple fusil de sniper.

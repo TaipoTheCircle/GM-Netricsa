@@ -1,21 +1,21 @@
-RECRUTEUR DE RÉSISTANCE
+RECRUTEMENT DE RÉSISTANCE
 
 
-CLASS: Recruteur de la Résistance
-METABOLISM: Humain, mâle
-PERCEPTION: Combattant de la Résistance Humaine
-SIZE: 5,9 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Haut
-WEAPONS: Fusil à impulsion AR2
-REWARD: 400FC
-THREAT: Haut
+CLASSE:      Recruteur de résistance
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Chasseur de résistance humaine
+TAILLE:       5,9 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Rifle d'impulsion AR2
+RÉCOMPENSE:     400 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Résistant expérimenté et charismatique, remplissant un double rôle de combattant principal et d'instructeur de terrain. Son rôle premier n'est pas seulement de combattre, mais aussi de former et intégrer rapidement les nouvelles recrues lors des missions. Il est toujours en première ligne aux côtés des rebelles réguliers, montrant l'exemple en matière de tactique, dirigeant le feu et remontant le moral.
+Un chasseur de résistance expérimenté et charismatique, remplissant un double rôle de chasseur de tête et d'instructeur de terrain. Son rôle principal est non seulement de combattre, mais aussi de former et d'intégrer rapidement de nouvelles recrues pendant les missions. Il est toujours sur les lignes de front aux côtés de rebelles réguliers, menant par l'exemple dans la tactique, dirigeant le feu, et le moral.
 
-TIPS: 
+CONSEILS:
 
-- Reste toujours près de lui. Il augmente l'efficacité et la capacité de survie des recrues rebelles à proximité.
-- Il vaut plus qu'un combattant ordinaire. Lorsque vous attaquez des positions de l'Alliance, couvrez-le pendant qu'il établit une position ou coordonne l'attaque.
+- Restez toujours près de lui. Il augmente l'efficacité et la survie des recrues Rebel voisines.
+- Il est plus précieux qu'un combattant régulier. Lorsque vous attaquez des positions de l'Alliance, couvrez-le pendant qu'il établit une position ou coordonnez l'attaque.

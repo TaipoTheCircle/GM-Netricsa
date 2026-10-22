@@ -1,31 +1,31 @@
-GROSSE ÉPONGE "VIANDE" BOB, CARRÉS DU BAS DE BIKINI
+BOB DE BIKINI
 
 
-CLASS: Éponge mutante
-METABOLISM: Biologie déformée, dépendante des stimulants
+CLASSE:      Éponge mutante
+MÉTABOLISME: Biologie déformée, dépendante des stimulants
 PERCEPTION: Prédateur intelligent
-SIZE: ~2,5 m
-ENDURANCE: Très élevé
-HOSTILITY: Absolu
-WEAPONS: Force physique, grappin, hachoir à viande
-REWARD: 100000FC
-THREAT: Critique
+TAILLE:       ~2,5 m
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Absolu
+ARMES:    Force physique, lutte, broyeur de viande
+RÉCOMPENSE:     100000 FC
+MENACE:     Critique
 
-DESCRIPTION: 
+DESCRIPTION:
 
-"Meat" Bob est une version mutée du bon gars autrefois naïf et joyeux. Dans le passé, il a travaillé aux côtés d'Eugene Harold Krabs, mieux connu sous le nom de M. Krabs, et était considéré comme son meilleur employé. C'est Bob qui a préparé les Krabby Patties qui ont fait la renommée de l'établissement. Personne n'a jamais connu la recette du plat. Et personne n’était censé le savoir.
+Bob "Meat" est une version mutée du bon gars autrefois naïf et joyeux. Par le passé, il travaillait avec Eugene Harold Krabs, plus connu sous le nom de M. Krabs, et était considéré comme son meilleur employé. C'est Bob qui a préparé les Patties de Krabby qui ont rendu l'établissement célèbre. Personne n'a jamais connu la recette du plat. Et personne n'était censé savoir.
 
-Civil extrêmement irritable
+Sous l'influence des stéroïdes et des additifs inconnus, le corps de Bob muta. Son corps gonfle à des proportions monstrueuses, les muscles éclatent à travers la structure spongieuse, et la surface jaune devient dense et pourrie. Son sourire restait, mais maintenant il manquait toutes les onces de bonté.
 
-Bob est fanatiquement dévoué à la formule secrète. Quiconque s’en approchera sera détruit. Quiconque tente de s’échapper deviendra un ingrédient.
+Bob est fanatiquement dévoué à la formule secrète. Quiconque s'approchera sera détruit. Quiconque essaie de s'échapper deviendra un ingrédient.
 
-Les Krabby Patties n'étaient pas faites de crabes. Ils ont été fabriqués à partir de clients. Du poisson. Les poissons mangeaient les leurs, sans se rendre compte qu’ils faisaient partie d’un cycle de recyclage sans fin. Meaty Bob poursuit ses victimes, puis les dirige vers un hachoir à viande industriel. Il n'y a pas d'échappatoire à l'intérieur. La résistance est vaine.
+Crabby Patties n'était pas fait de crabes. Ils étaient faits de clients. Du poisson. Les poissons ont mangé leur propre espèce, ignorant qu'ils faisaient partie d'un cycle de recyclage sans fin. Meaty Bob poursuit ses victimes, puis les dirige vers un broyeur industriel. Il n'y a pas de fuite à l'intérieur. La résistance est futile.
 
-La viande obtenue est vendue.
+La viande qui en résulte est vendue.
 
-TIPS: 
+CONSEILS:
 
-- Il possède une force physique extraordinaire, capable de déchirer un homme en deux.
+- Il a une force physique extraordinaire, capable de déchirer un homme en deux.
 - Il ne ressent pratiquement aucune douleur.
-- Évitez les combats rapprochés.
+- Éviter les combats rapprochés.
 - Seul Shrek peut le tuer.

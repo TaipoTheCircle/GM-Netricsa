@@ -1,28 +1,28 @@
-SOLDAT ORC, Destructeur DE L'ORAZIO
+ORC SOLDIER, Détruire de l'Orazio
 
 
-CLASS: Soldat orc, destructeur
-METABOLISM: Mammifère
-PERCEPTION: Race de guerriers primitifs, anciens Zorgs
-HEIGHT: 6,3 pieds
-ENDURANCE: Très faible
-HOSTILITY: Très faible
-WEAPONS: Laser Blaster V2
-REWARD: 10 FC
-THREAT: Faible
+CLASSE:      Orc Soldat, Destroyer
+MÉTABOLISME: Mammifère
+PERCEPTION: Course guerrière primitive, ex-Zorgs
+HEIGHT:     6,3 pieds
+ENDURANCE:  Très faible
+HOSTILITÉ:  Très faible
+ARMES:    Blaster laser V2
+RÉCOMPENSE:     10 FC
+MENACE:     Faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-C'est un exemple clair du dicton « ils voulaient le meilleur, mais cela s'est avéré comme d'habitude ». Ils faisaient autrefois partie de la grande race Zorg de Bilmez IV, forts, féroces et, surtout, bronzés. Mais les bains de soleil constants ont fait perdre aux Zorgs presque toute leur peau. Cherchant une solution, ils ont créé un mutagène qui leur redonnerait leur ancienne apparence. Au lieu de cela, le mutagène les a transformés en orcs...
+C'est un exemple clair du dicton « ils voulaient le meilleur, mais il s'est avéré comme d'habitude ». Ils faisaient autrefois partie de la grande course Zorg de Bilmez IV, forte, féroce et, surtout, bronzée. Mais un bain de soleil constant a fait perdre aux Zorgs presque toute leur peau. En cherchant une solution, ils ont créé un mutagène qui restaurerait leur apparence ancienne. Au lieu de cela, le mutagène les a transformés en orcs...
 
-La drogue fut immédiatement interdite et les expérimentateurs, ainsi que toutes les victimes, furent exilés sur la planète isolée d'Orazio. Là, les exilés ont fait bon usage de leur temps, fondant la société minière Altani et ont commencé à extraire du minerai, tombant finalement entre les mains de Mental.
+La drogue a été immédiatement interdite, et les expérimentateurs, avec toutes les victimes, ont été exilés sur la planète isolée d'Orazio. Là, les exilés ont fait bon usage de leur temps, créant la société minière Altani et ont commencé à exploiter le minerai, tombant finalement entre les mains de Mental.
 
-Les destructeurs constituent l'échelon le plus bas de la hiérarchie orque. Leur armure est rouillée.
+Les destructeurs sont le rang le plus bas de la hiérarchie orc. Leur armure est rouillée.
 
-La principale différence entre les orcs et les autres soldats mentaux est qu'ils savent utiliser la technologie. Et ils l’utilisent aussi bien que vous.
+La principale différence entre les orcs et les autres soldats mentaux est qu'ils savent utiliser la technologie. Et ils l'utilisent aussi bien que toi.
 
-TIPS: 
+CONSEILS:
 
-- Contrairement à la plupart des serviteurs de Mental, ils essaieront de garder une distance lorsqu'ils seront proches de vous.
-- Ils constituent une unité mentale puissante, car ils peuvent utiliser les véhicules aussi bien que vous.
-- Si un orc monte dans une voiture, écrase-la.
+- Contrairement à la plupart des minions de Mental, ils vont essayer de garder une distance quand près de vous.
+- Ils sont une unité mentale puissante, car ils peuvent utiliser des véhicules aussi bien que vous.
+- Si un orc monte dans une voiture, écrasez-la.

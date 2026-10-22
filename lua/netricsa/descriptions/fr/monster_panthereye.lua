@@ -1,28 +1,28 @@
-H.E.C.U. Balbuzard pêcheur V-22
+PANTHER EYE DE XEN, COMMUN
 
 
-CLASS: Oeil de panthère
-METABOLISM: Faune carnivore Xen
+CLASSE:      Oeil panthère
+MÉTABOLISME: Faune carnivore Xen
 PERCEPTION: Prédateur Xen
-SIZE: 5 pieds de haut
-ENDURANCE: Moyen
-HOSTILITY: Haut
-WEAPONS: Griffes, attaque par bonds, victimes de lutte avec la bouche sous le menton, bond furtif
-REWARD: 120 FC
-THREAT: Haut
+TAILLE:       5 pieds de haut
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Griffes, saut d'attaque, lutte des victimes avec bouche sous le menton, coup furtif 
+RÉCOMPENSE:     120 FC
+MENACE:     Haut 
 
-DESCRIPTION: 
+DESCRIPTION:
 
 Le Panther Eye (ou Panthereye) est un prédateur extraterrestre de Xen.
 
-Il est destiné à fonctionner comme un félin prédateur, capable de ramper, de sprinter et de sauter sur ses victimes, en utilisant une bouche étrangement placée sous son menton pour les épingler avant de leur infliger une morsure vicieuse.
+Il est destiné à fonctionner comme un félin prédateur capable de ramper, de sprinter et de sauter sur les victimes, en utilisant une bouche étrangement placée sous son menton pour les épingler avant de donner une morsure vicieuse.
 
-Two visual variants are noted: 
+Two visual variants are noted:
 
-Oeil de panthère bleue femelle et oeil de panthère rouge mâle.
+Oeil panthère bleu femelle et oeil panthère rouge mâle.
 
-TIPS: 
+CONSEILS:
 
-- Stay alert: Panther Eyes s'appuierait sur la furtivité et les embuscades, s'attendant à des bonds soudains sous des angles invisibles.
-- Keep moving: Leur vitesse et leur capacité de saut rendent les cibles stationnaires vulnérables.
-- Prioritize elimination in enclosed spaces: Un seul Panther Eye dans des couloirs étroits pourrait être mortel.
+- Restez vigilants : Panther Eyes compterait sur la furtivité et l'attente d'embuscades soudaines sous des angles invisibles.
+- Continuez à bouger : leur vitesse et leur capacité à sauter rendent les cibles fixes vulnérables.
+- Prioriser l'élimination dans les espaces clos : Un seul oeil panthère dans des couloirs serrés pourrait être mortel.

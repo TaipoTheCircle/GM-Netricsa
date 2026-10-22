@@ -1,25 +1,25 @@
-COMBINEZ UN SOLDAT OVERWATCH DE L'ARCTIQUE
+VENDU DE SURVEILLANCE ARCTIQUE COMBINE
 
 
-CLASS: Combinez le soldat Overwatch de l'Arctique
-METABOLISM: Améliorations humaines, masculines / biomécaniques améliorées
-PERCEPTION: Soldat transhumain (Combine Infantry, Arctic Squad)
-HEIGHT: 5,9 pieds
-ENDURANCE: Haut
-HOSTILITY: Extrême
-WEAPONS: Fusil à impulsion AR2, SMG3, Grenades
-REWARD: 500FC
-THREAT: Haut
+CLASSE:      Combiner le soldat Arctic Overwatch
+MÉTABOLISME: Améliorations humaines, masculines / biomécaniques
+PERCEPTION: Soldat transhumain (Infanterie des combines, escouade arctique)
+HEIGHT:     5,9 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Extrême
+ARMES:    AR2 Pulse Rifle, SMG3, Grenades
+RÉCOMPENSE:     500 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine Arctic Overwatch Soldier est une version spécialisée du Combine trooper standard, adapté aux régions extrêmement froides et enneigées. Il porte un uniforme de camouflage blanc et gris composé d'une veste et d'un pantalon chaud qui couvrent tout le corps. À leurs pieds se trouvent d'énormes bottes noires, assurant la stabilité sur la glace et la neige.
+Le Soldat Combine Arctic Overwatch est une version spécialisée du Soldat Combine standard, adapté aux régions extrêmement froides et enneigées. Il porte un uniforme de camouflage blanc et gris composé d'une veste et d'un pantalon chaud qui couvrent tout le corps. Sur leurs pieds, des bottes noires massives assurent la stabilité sur la glace et la neige.
 
-La tête du soldat est protégée par un casque en métal avec des lentilles bleues brillantes qui assurent la vision nocturne, la détection thermique et l'intégration avec le réseau tactique Combine. Un gilet pare-balles à motif camouflage assorti à l'uniforme et offre un haut niveau de protection contre les armes à feu.
+La tête du soldat est protégée par un casque en métal muni d'objectifs lumineux bleus qui fournissent une vision nocturne, une détection thermique et une intégration au réseau tactique Combine. Une veste en flocons à motif camouflage correspond à l'uniforme et offre un haut niveau de protection contre les armes à feu.
 
-Arctic soldiers operate according to the same tactical principles as standard Overwatch soldiers: ils coordonnent les attaques, utilisent Manhack et des unités lourdes pour le soutien, tiennent des positions et suppriment la résistance du Combine dans des conditions de visibilité et de couverture de neige limitées. Leur adaptation au froid et leur camouflage les rendent pratiquement invisibles dans le paysage glacé, renforçant ainsi l'efficacité des embuscades et des manœuvres furtives.
+Arctic soldiers operate according to the same tactical principles as standard Overwatch soldiers: ils coordonnent les attaques, utilisent Manhack et des unités lourdes pour soutenir, maintenir les positions et supprimer Combiner la résistance dans des conditions de visibilité limitée et de couverture de neige. Leur adaptation au froid et au camouflage les rend pratiquement invisibles contre le paysage glacé, renforçant l'efficacité des embuscades et des manœuvres furtives.
 
-TIPS: 
+CONSEILS:
 
-- Leur grande endurance leur permet de conserver des positions même dans des conditions extrêmes.
-- Les tirs à la tête restent efficaces, mais nécessitent de la précision.
+- Une endurance élevée leur permet de tenir position même dans des conditions extrêmes.
+- Les prises de vue sont toujours efficaces, mais nécessitent une précision.

@@ -1,17 +1,17 @@
-COMBINEZ LE REAGER
+RÉAGER DE LA COMBINE
 
 
-WEAPON: Combiner Reager
-AMMO: Cellules énergétiques haute tension
-ROF: ~120 chocs/min
+ARME:      Combiner le récif
+MUNITIONS:        Cellules à haute tension
+CADENCE DE TIR:         ~120 chocs/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Arme électrique expérimentale délivrée aux ingénieurs du Combine. Tire des arcs électriques concentrés qui délivrent un choc paralysant aux cibles. Efficace contre l'infanterie et les systèmes électroniques, neutralisant les ennemis tout en causant de graves dégâts grâce à une décharge prolongée.
+Arme électrique expérimentale délivrée aux ingénieurs de Combine. Les incendies ont concentré des arcs d'électricité qui produisent un choc paralysant aux cibles. Efficace contre les systèmes d'infanterie et d'électronique, invalidant les ennemis tout en causant de graves dommages par décharge prolongée.
 
-NOTES: 
+REMARQUES:
 
-- Le feu primaire déclenche des arcs électriques continus.
-- Extrêmement efficace contre les cibles non blindées et biologiques.
+- Le feu primaire libère des arcs électriques continus.
+- Extrêmement efficace contre les cibles non armées et biologiques.
 - Peut désactiver les machines, les tourelles et les appareils électroniques.
-- Portée limitée ; nécessite une proximité moyenne à étroite.
+- Portée limitée; nécessite une proximité moyenne à étroite.

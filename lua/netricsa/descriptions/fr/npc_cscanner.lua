@@ -1,24 +1,24 @@
-COMBINEZ LE SCANNER DE VILLE
+SCANNER DE LA VILLE DE COMBINE
 
 
-CLASS: Combiner le scanner de ville
-METABOLISM: Synthétique (Combiner noyau énergétique, cadre aérien)
-PERCEPTION: Drone de reconnaissance
-SIZE: ~2,5 pieds de longueur
-ENDURANCE: Faible
-HOSTILITY: Faible
-WEAPONS: Flash (lumière aveuglante), décharge de choc mineure
-REWARD: 100 FC
-THREAT: Faible
+CLASSE:      Combiner le scanner de ville
+MÉTABOLISME: Synthétique (noyau d'énergie composite, cadre aérien)
+PERCEPTION: Reconnaissance Drone
+TAILLE:       ~2,5 pi de longueur
+ENDURANCE:  Faible
+HOSTILITÉ:  Faible 
+ARMES:    Unité éclair (lumière aveuglante), décharge de choc mineure
+RÉCOMPENSE:     100 FC
+MENACE:     Faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine City Scanner est un drone de surveillance en vol stationnaire déployé dans les centres urbains sous le contrôle du Combine. Équipés d'un puissant œil de caméra et d'une liaison montante tactique, les scanners patrouillent dans le ciel au-dessus des rues, des cours et des zones réglementées, photographiant constamment les civils et transmettant les données au commandement du Combine.
+Le scanner Combine City est un drone de surveillance en vol stationnaire déployé dans les centres urbains sous le contrôle de Combine. Équipés d'un puissant œil de caméra et d'une liaison ascendante tactique, les scanners patrouillent le ciel au-dessus des rues, des cours et des zones réglementées, photographient constamment les civils et transmettent des données pour combiner le commandement.
 
-Bien qu'ils ne soient pas lourdement armés, les scanners jouent un rôle essentiel dans le maintien du contrôle des villes occupées. Leur flash aveugle et désoriente les cibles, permettant aux unités terrestres de capturer ou d'éliminer plus facilement les ennemis.
+Bien qu'ils ne soient pas lourdement armés, les scanners jouent un rôle vital dans le maintien du contrôle des villes occupées. Leur unité flash aveugle et désoriente les cibles, ce qui facilite la capture ou l'élimination des ennemis par les unités au sol.
 
-TIPS: 
+CONSEILS:
 
-- Facile à détruire avec des tirs d'armes légères - mais attendez-vous à combiner des renforts après.
-- Leur attaque éclair peut vous rendre vulnérable - détournez le regard lorsqu'ils la chargent.
-- Ils ont une armure faible – même les frappes au corps à corps peuvent les abattre.
+- Facile à détruire avec des tirs de petites armes - mais attendez-vous à combiner les renforts après.
+- Leur attaque éclair peut vous laisser vulnérable - regardez loin quand ils chargent.
+- Ils ont de faibles armures - même les frappes de mêlée peuvent les faire tomber.

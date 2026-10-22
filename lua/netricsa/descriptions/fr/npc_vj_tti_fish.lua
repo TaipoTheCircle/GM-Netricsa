@@ -1,25 +1,25 @@
-GROS POISSON TOM DU BAS DE BIKINI
+BIG FISH TOM DU BOTTOM BIKINI
 
 
-CLASS: Gros poisson Tom
-METABOLISM: Poisson mutant humanoïde biologique brandissant un bras
-PERCEPTION: Civil extrêmement irritable
-SIZE: 6,5 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Haut
-WEAPONS: Cri, agression
-REWARD: 300FC
-THREAT: Moyenne
+CLASSE:      Grand poisson Tom
+MÉTABOLISME: Poissons mutés humanoïdes organiques, porteurs de bras
+PERCEPTION: Des civils extrêmement irritables
+TAILLE:       6,5 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Cri, agression
+RÉCOMPENSE:     300 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Big Tom Fish est un habitant massif et extrêmement colérique de Bikini Bottom, connu pour sa passion insatiable pour le chocolat et son intolérance pathologique envers les autres. Il est presque certain que toute interaction avec lui se terminera par des cris, des menaces et des accès de rage incontrôlable.
+Big Tom Fish est un habitant de Bikini Bottom, connu pour sa passion insatiable pour le chocolat et l'intolérance pathologique des autres. Toute interaction avec lui est presque garantie de finir par des cris, des menaces et des éclats de rage incontrôlable.
 
-Tom critique le mauvais service, en particulier au Krusty Krab, où la moindre erreur du personnel peut le plonger dans une colère alimentée par la rage. Il n'a aucune connaissance de la formule secrète du Krabby Patty, ce qui le rend dangereux mais inutile en termes d'informations.
+Tom critique le mauvais service, surtout au Krusty Krab, où la moindre erreur du personnel peut l'envoyer dans une fureur passionnée. Il n'a aucune connaissance de la formule secrète du Krabby Patty, le rendant dangereux mais inutile en termes d'information.
 
 Sa principale méthode d'attaque est un cri assourdissant, agressif et furieux.
 
-TIPS: 
+CONSEILS:
 
-- Ne l'approchez pas sauf si nécessaire, toute attention l'irrite.
-- Garder ses distances et l'ignorer sont les meilleurs moyens d'éviter les agressions.
+- Ne l'approchez pas sauf si nécessaire - toute attention l'irrite.
+- Garder votre distance et l'ignorer sont les meilleurs moyens d'éviter l'agression.

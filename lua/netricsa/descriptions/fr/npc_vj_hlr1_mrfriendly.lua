@@ -1,22 +1,22 @@
-M. CONVIVIAL DE XEN
+M. FRIENDLY DE XEN
 
 
-CLASS: M. Amical
-METABOLISM: carnivore
-PERCEPTION: Charognard de Xen
-SIZE: 4-5 pieds
-ENDURANCE: haut
-HOSTILITY: extrême
-WEAPONS: prise de tentacules, vomi, copulation mortelle
-REWARD: 100 FC
-THREAT: haut
+CLASSE:      M. Friendly
+MÉTABOLISME: carnivores
+PERCEPTION: Récupérateur de Xen
+TAILLE:       4-5 pieds
+ENDURANCE:  élevé
+HOSTILITÉ:  extrême
+ARMES:    grappe tentaculaire, vomi, copulation fatale
+RÉCOMPENSE:     100 FC
+MENACE:     élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-M. Friendly est un grotesque, conçu à l'origine comme un charognard qui consommait les cadavres des ennemis tombés au combat. il présente une démarche bizarre et traînante avec des pattes arrière sabotées et des membres antérieurs éperonnés. La créature aurait attaqué en luttant avec ses bras ressemblant à des tentacules, en vomissant de l'acide et en tentant un accouplement mortel.
+M. Friendly est un grotesque, conçu à l'origine comme un trésorier qui a consommé les cadavres des ennemis tombés. Il est doté d'une démarche bizarre et émouvante avec des jambes arrière sabotées et des membres avant aiguisés. La créature aurait attaqué en s'attaquant à ses bras de tentacule, en vomissant de l'acide et en essayant de se copuler.
 
-TIPS: 
+CONSEILS:
 
-- Évitez les rencontres rapprochées ; son grappin peut le neutraliser.
-- Gardez vos distances pour échapper à ses attaques de vomissements.
-- Utilisez des armes à distance pour éliminer de loin.
+- Éviter les rencontres rapprochées; son grappin peut être incapable.
+- Gardez la distance pour échapper à ses attaques de vomi.
+- L'utilisation d'armes a varié pour éliminer de loin.

@@ -1,22 +1,22 @@
-ORO "ENFORCER" SHOTGUNS
+ORO "ENFORCEUR"
 
 
-ARME : ORO "Enforcer" Shotguns
-MUNITIONS : 12 Gauge Shotgun
-ROF : ~140 rounds / min
-POIDS : ~8 kg
+ARME: ORO "Enforcer" fusils de chasse
+MUNITIONS:   12 fusil de chasse
+CADENCE DE TIR:    ~140 tours/min
+POIDS: ~8 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-The ORO "Enforcer" is a powerful combat shotguns manufactured by ORO, used by the Mendel Gruman Corporation military. Despite its limited effective range, it offers tremendous stopping power at close range and is designed to quickly dispatch opponents.
+L'ORO "Enforcer" est un puissant fusil de combat fabriqué par l'ORO, utilisé par l'armée Mendel Gruman Corporation. Malgré sa portée efficace limitée, il offre une puissance d'arrêt énorme à distance et est conçu pour envoyer rapidement des adversaires.
 
-In addition to its normal firing mode, the shotgun has a special flare function. The flare can be fired to attract the attention of nearby creatures, including dinosaurs, turning the weapon into a rather unusual way to give your opponent a very unpleasant encounter.
+En plus de son mode de tir normal, le fusil a une fonction de fusée spéciale. La fusée peut être tirée pour attirer l'attention des créatures voisines, y compris les dinosaures, faisant de l'arme une façon assez inhabituelle de donner à votre adversaire une rencontre très désagréable.
 
-REMARQUES :
+REMARQUES:
 
-- Very high damage at close range.
-- Uses 12 gauge shotgun shells. - Effective primarily at close range, where most of the pellets hit their target.
-- A special mode allows you to launch a flare.
-- The flare can attract dinosaurs to a target area.
-- At long range, its effectiveness drops sharply due to pellet dispersion.
-- Particularly common among MG RPG units, despite the unit's name implying the use of a flare gun.
+- Très gros dégâts à proximité.
+- Utilise des obus de fusil de calibre 12. - Efficace principalement à proximité, où la plupart des boulettes ont atteint leur cible.
+- Un mode spécial vous permet de lancer une fusée.
+- La fusée peut attirer les dinosaures vers une zone cible.
+- À long terme, son efficacité diminue fortement en raison de la dispersion des granules.
+- Particulièrement fréquent parmi les unités RPG MG, malgré le nom de l'unité impliquant l'utilisation d'une fusée éclairante.

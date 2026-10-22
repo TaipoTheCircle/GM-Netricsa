@@ -1,4 +1,4 @@
-BLACK MESA DEVTEST, LIFTS AND AIRSTRIKE
+DEVESTISSEMENT DU MESA BLACK, FRUITS ET AÉRIENNE
 
 
-Cette carte de développement compresse un chapitre entier en un court morceau. Au lieu de passerelles tentaculaires et d'exploration, le spectacle commence dans une section verticale sous un bombardement aérien intense. Les explosions secouent les murs, la poussière tombe du plafond et l'environnement ressemble plus à un champ de tir qu'à un centre de recherche.
+Cette carte dévtest compresse un chapitre entier en un court ensemble. Au lieu d'étaler les promenades et l'exploration, les départs dans une section de levage vertical sous bombardement aérien lourd. Les explosions secouent les murs, la poussière tombe du plafond, et l'environnement ressemble davantage à un champ de tir qu'à une installation de recherche.

@@ -1,19 +1,19 @@
-FUSIL DE CHASSE
+COUVERTURE
 
 
-ARME : Fusil de chasse
-MUNITIONS : Calibre 12
-ROF : ~60 tours/min
+ARME: Fusée
+MUNITIONS:   12 Gauge
+CADENCE DE TIR:    ~60 tours/min
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Un fusil à pompe conçu pour les engagements à courte portée. Il utilise des obus de calibre 12 et peut infliger des dégâts importants grâce à la grande quantité de plombs tirés en un seul coup.
+Un fusil à pompe conçu pour les engagements à proximité. Il utilise 12 obus de jauge et peut causer des dommages importants grâce à la grande quantité de pellets tirés en un seul coup.
 
-Le pistolet dispose d'un chargeur de 8 cartouches et nécessite un pompage manuel de l'avant après chaque tir. À courte portée, le fusil de chasse a un pouvoir d'arrêt élevé, mais son efficacité diminue rapidement avec la distance.
+L'arme a un chargeur de 8 tours et nécessite un pompage manuel de l'avant après chaque tir. À portée de main, le fusil a une puissance d'arrêt élevée, mais son efficacité diminue rapidement avec la distance.
 
-REMARQUES :
+REMARQUES:
 
-- Très puissant à courte portée.
-- Le rechargement par pompe permet une préparation rapide du prochain tir.
-- Plus la cible est éloignée, plus les plombs se dispersent.
-- Si l'ennemi est trop proche, c'est qu'il a choisi la mauvaise distance.
+- Très puissant à proximité.
+- Le rechargement par pompe permet de préparer rapidement le prochain tir.
+- Plus la cible est grande, plus les pellets se dispersent.
+- Si l'ennemi est trop proche, ils ont choisi la mauvaise distance.

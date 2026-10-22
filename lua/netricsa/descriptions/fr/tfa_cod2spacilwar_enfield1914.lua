@@ -1,23 +1,23 @@
-PATTERN 1914 ENFIELD RIFLE
+PATTERNE 1914 FREELD RIFLE
 
 
-ARME : Pattern 1914 Enfield Rifle
-MUNITIONS : .303 British (7.7x56mm R)
-ROF : ~15-20 rounds / min
-POIDS : ~4,25 kg
+ARME: Modèle 1914 Enfield Rifle
+MUNITIONS:   .303 Anglais (7.7x56mm R)
+CADENCE DE TIR:    ~15-20 tours/min
+POIDS: ~4,25 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-The Pattern 1914 Enfield, or P14, was a British repeating rifle from World War I, based on the Pattern 1913 Enfield design. It was developed in Great Britain, but due to limited production capacity, most of the rifles were manufactured by American companies Winchester, Remington, and Eddystone. Approximately 1.24 million were produced.
+Le motif 1914 Enfield, ou P14, était un fusil de répétition britannique de la Première Guerre mondiale. Il a été développé en Grande-Bretagne, mais en raison de la capacité de production limitée, la plupart des fusils ont été fabriqués par des sociétés américaines Winchester, Remington et Eddystone. Environ 1,24 million ont été produits.
 
-The rifle uses a bolt-action mechanism and is chambered for the powerful .303 British cartridge. The internal magazine holds 6 rounds, but the standard clip holds 5 rounds. The unusual design of the bolt and the position of the handle made it quite fast to operate, and the protected aperture sight ensured good accuracy.
+Le fusil utilise un mécanisme d'action du boulon et est en chambre pour la puissante cartouche britannique .303. Le magazine interne contient 6 tours, mais le clip standard contient 5 tours. La conception inhabituelle du boulon et la position de la poignée l'ont rendu assez rapide pour fonctionner, et la vue d'ouverture protégée a assuré une bonne précision.
 
-The P14 gained a reputation as a very accurate and rugged rifle. During World War I, it was particularly frequently used as a sniper rifle, as it was superior in accuracy to the standard SMLE. The P14 was later used as a backup weapon and again served as a sniper rifle during World War II.
+Le P14 a acquis une réputation de fusil très précis et robuste. Pendant la Première Guerre mondiale, il était particulièrement utilisé comme fusil de sniper, car il était supérieur à la norme SMLE. Le P14 a ensuite été utilisé comme arme de secours et a de nouveau servi comme fusil de sniper pendant la Seconde Guerre mondiale.
 
-In 1917, the M1917 Enfield, chambered for the American .30-06 Springfield cartridge, was developed in the United States based on the P14.
+En 1917, le M1917 Enfield, en chambre pour la cartouche américaine .30-06 Springfield, a été développé aux États-Unis sur la base du P14.
 
-REMARQUES :
+REMARQUES:
 
-- Renowned for its high accuracy and particularly well-established among snipers.
-- The unusual aperture sight with protective "ears" was one of the P14's main advantages.
-- The Americans developed the M1917 Enfield based on the P14.
+- Réputé pour sa grande précision et particulièrement bien établi parmi les snipers.
+- La vue d'ouverture inhabituelle avec des "oreilles" protectrices était l'un des principaux avantages du P14.
+- Les Américains ont développé le M1917 Enfield basé sur le P14.

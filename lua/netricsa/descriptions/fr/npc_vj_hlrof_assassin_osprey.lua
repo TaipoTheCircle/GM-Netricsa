@@ -1,25 +1,25 @@
-Balbuzard pêcheur BLACK OPS V-22
+OPS BLACK V-22 OSPREY
 
 
-CLASS: Balbuzard pêcheur Black Ops V-22
-METABOLISM: construction mécanique
-PERCEPTION: Transport secret à rotors basculants
-SIZE: ~ 57 pieds de long
-ENDURANCE: très élevé
-HOSTILITY: extrême
-WEAPONS: canons latéraux, déploiement de troupes
-REWARD: 4000FC
-THREAT: catastrophique
+CLASSE:      Black Ops V-22 Osprey
+MÉTABOLISME: construction mécanique
+PERCEPTION: Couverture Tiltrotor Transport
+TAILLE:       ~57 pieds de long
+ENDURANCE:  très élevé 
+HOSTILITÉ:  extrême
+ARMES:    canons montés sur les côtés, déploiement de troupes
+RÉCOMPENSE:     4000 FC
+MENACE:     catastrophique
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Black Ops Osprey est un V-22 modifié utilisé par des agents secrets pour des missions d'insertion. Contrairement au standard H.E.C.U. transport, cette version déploie souvent des assassins d'élite ou des escouades de démolition. Sa coque sombre, son avionique avancée et son blindage renforcé en font une cible plus difficile à abattre.
+Le Black Ops Osprey est un V-22 modifié utilisé par les agents secrets pour les missions d'insertion. Contrairement au transport standard de H.E.C.U., cette version déploie souvent des assassins d'élite ou des équipes de démolition. Sa coque obscurcie, son avionique avancé et son armure renforcée en font une cible plus difficile à faire tomber.
 
-While it rarely engages directly, it sometimes mounts defensive side guns to suppress attackers during troop deployment. Its true lethality is in the soldiers it delivers: Unités Black Ops entraînées aux frappes chirurgicales et à l’élimination totale des survivants. En voir un dans le ciel signale généralement le début d’un massacre.
+Bien qu'il s'engage rarement directement, il monte parfois des canons latéraux défensifs pour réprimer les agresseurs pendant le déploiement des troupes. Sa véritable létalité est dans les soldats qu'il livre : les unités Black Ops formés pour les frappes chirurgicales et l'élimination totale des survivants. Voir quelqu'un dans le ciel indique généralement le début d'un massacre.
 
-TIPS: 
+CONSEILS:
 
-- Donnez la priorité à la destruction avant de pouvoir larguer des troupes.
-- Les agents des Black Ops sont plus meurtriers que les marines - ne sous-estimez pas.
-- Des roquettes, des tourelles montées ou des explosifs lourds sont nécessaires pour l'abattre.
-- S'il atterrit, attendez-vous à un assaut furtif mais dévastateur.
+- Privilégier la destruction avant qu'elle ne lâche des troupes.
+- Noir Les operateurs sont plus morts que les marins.
+- Des fusées, des tourelles montées ou des explosifs lourds sont nécessaires pour les faire tomber.
+- Si ça atterrit, attendez-vous à une attaque furtive mais dévastatrice.

@@ -1,21 +1,21 @@
-CARL GUSTAF M/45 SUBMACHINE GUN
+GUSTAF CARL M/45 GUN DE SOUS-MACHINE
 
 
-ARME : Carl Gustaf M/45 submachine gun
-MUNITIONS : 9x19mm Parabellum
-ROF : ~600 rounds / min
-POIDS : ~3,43 kg
+ARME: Sous-machine Carl Gustaf M/45
+MUNITIONS:   Parabellum 9x19mm
+CADENCE DE TIR:    ~600 tours/min
+POIDS: ~3,43 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-The Carl Gustaf M/45, also known as the "Swedish K", is a Swedish submachine gun developed after World War II to replace the Suomi submachine gun in service with the Swedish Army. It was adopted in 1945. The weapon was noted for its simple design, high reliability, and good performance in cold climates and when the mechanism was wet.
+Le Carl Gustaf M/45, également connu sous le nom de "Swedish K", est une mitrailleuse suédoise développée après la Seconde Guerre mondiale pour remplacer la mitrailleuse Suomi au service de l'armée suédoise. Il a été adopté en 1945. L'arme a été notée pour sa conception simple, sa fiabilité élevée et sa bonne performance dans les climats froids et lorsque le mécanisme était mouillé.
 
-The M/45 uses a blowback action and fires the 9x19mm Parabellum cartridge. It is fed from box magazines holding 36 or 50 rounds. The standard M/45B used 36-round magazines, while an early M/45 variant could also use 50-round Suomi magazines.
+Le M/45 utilise une action de rappel et allume la cartouche Parabellum 9x19mm. Il est alimenté par des box magazines contenant 36 ou 50 tours. La norme M/45B utilisait des magazines 36 tours, tandis qu'une variante M/45 ancienne pouvait également utiliser des magazines Suomi 50 tours.
 
-The submachine gun gained fame far beyond Sweden. In particular, American special forces and the CIA used it during the Vietnam War, where it was unofficially nicknamed the "Swedish K".
+La mitrailleuse est devenue célèbre bien au-delà de la Suède. En particulier, les forces spéciales américaines et la CIA l'ont utilisé pendant la guerre du Vietnam, où il a été officieusement surnommé le "K suédois".
 
-REMARQUES :
+REMARQUES:
 
-- Functions well in cold climates and is resistant to water ingress into the mechanism.
-- Its simple design and high reliability made it one of the most famous Swedish submachine guns.
-- The Swedes made a submachine gun that the Americans liked so much that they simply took it to Vietnam, earning it its own nickname, the "Swedish K".
+- Fonctionne bien dans les climats froids et est résistant à l'infiltration d'eau dans le mécanisme.
+- Sa conception simple et sa grande fiabilité en font l'une des plus célèbres mitrailleuses suédoises.
+- Les Suédois ont fait une mitrailleuse que les Américains aimaient tellement qu'ils l'ont simplement emmenée au Vietnam, ce qui lui a valu son surnom, le "K suédois".

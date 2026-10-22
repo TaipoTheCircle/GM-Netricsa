@@ -1,20 +1,20 @@
-SPECTACLE DEMI-SÉMEMENT, RÉPÉTITION
+POÊLE À CHAPEAUX, RÉPLIQUÉE
 
 
 Bien sûr.
 
-Répéter. Parce que si le public a aimé, alors il doit faire la même chose. Seulement pire.
+Je répète. Parce que si le public l'aimait, alors ils doivent faire la même chose. Encore pire.
 
-Nous sommes de retour là où nous étions avant. Les mêmes murs, les contours familiers, la sensation de déjà vu qui est ici considérée comme faisant partie du design. Mais maintenant, tout est « amélioré ». La lave n'offre plus le choix de trois dalles. Au lieu de cela, il y a une seule plate-forme rotative. Il tourne avec assurance, sans hésitation, comme s'il savait que l'équilibre est temporaire.
+Nous sommes de retour où nous étions avant. Les mêmes murs, les contours familiers, le sens de déjà vu qui est considéré comme faisant partie du design ici. Mais maintenant tout est « amélioré ». La lave n'offre plus un choix de trois dalles. Au lieu de cela, il y a une seule plate-forme tournante. Il tourne avec confiance, sans hésitation, comme s'il savait que l'équilibre est temporaire.
 
-Il y a d'autres pointes derrière la lave. Visiblement plus. Les organisateurs ont clairement décidé que vous aviez fait preuve de trop de confiance la dernière fois. Ils sont en train de le réparer.
+Il y a d'autres pics derrière la lave. Surtout plus. Les organisateurs ont clairement décidé que vous étiez trop confiant la dernière fois. Ils le réparent.
 
-L'ascenseur a disparu. Il a été supprimé. Remplacé par un autre passage. On ne sait toujours pas où cela mène.
+L'ascenseur est parti. Il a été enlevé. Remplacé par un autre passage. On ne sait toujours pas où elle mène.
 
-Les troupes de Mental sont bien entendu toujours là. Ils ont également reçu une mise à niveau. De nouvelles positions, plus d'agressivité, moins de patience. Ils aiment que le scénario se répète, mais que l’issue soit encore incertaine.
+Les troupes de Mental, bien sûr, sont toujours là. Ils ont également reçu une mise à niveau. Nouvelles positions, plus d'agression, moins de patience. Ils aiment quand le scénario se répète, mais le résultat est encore incertain.
 
-Ils testent votre capacité à gérer la douleur.
+Ils testent à quel point vous pouvez gérer la douleur.
 
-À quelle vitesse vous vous adaptez.
+Tu t'adaptes vite.
 
-Et combien vous les décevez.
+Et combien tu les déçois.

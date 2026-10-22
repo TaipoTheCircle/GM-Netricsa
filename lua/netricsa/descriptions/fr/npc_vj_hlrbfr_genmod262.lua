@@ -1,22 +1,22 @@
-GENMOD 262 DEPUIS UH-1
+GENMOD 262 DE L ' UH-1
 
 
-CLASS: GenMod 262
-METABOLISM: Carnivore / Parasite
-PERCEPTION: Xénien génétiquement modifié
-SIZE: Comparable à un petit Nihilanth
-ENDURANCE: Haut
-HOSTILITY: Extrême
-WEAPONS: Attaques basées sur la langue ; fait apparaître des Snarks et des contrôleurs
-REWARD: 800 FC
-THREAT: Très élevé
+CLASSE:      Groupe 262
+MÉTABOLISME: Carnivore / Parasitique
+PERCEPTION: Xénien génétiquement modifié 
+TAILLE:       Comparable à un petit Nihilanth
+ENDURANCE:  Haut
+HOSTILITÉ:  Extrême
+ARMES:    Attaques basées sur la langue; fraie des pièges et des contrôleurs
+RÉCOMPENSE:     800 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Genmod 262 - c'est une grosse créature, qui ressemble à un Nihilanth.  à un moment donné, Genmod 262 était retenu à bord d'un navire de recherche de Black Rock mais finit par s'échapper, provoquant des ravages tandis que des créatures xéniennes le suivaient dans son sillage.
+Genmod 262 - il est grand Créature, ressemble à un Nihilanth. À un moment donné, Genmod 262 a été retenu à bord d'un navire de recherche Black Rock, mais a fini par s'échapper, provoquant des ravages comme les créatures Xenian le suivaient dans son sillage.
 
-TIPS: 
+CONSEILS:
 
-- Maintenez vos distances : sa langue est mortelle à courte portée.
-- Éliminez rapidement les contrôleurs apparus pour éviter les bombardements psychiques.
-- Méfiez-vous des essaims de Snark, ils sont explosifs et implacables.
+- Maintenez la distance - sa langue est létale à proximité.
+- Éliminer rapidement les contrôleurs engendrés pour éviter les bombardements psychiques.
+- Méfiez-vous des essaims Snark, ils sont explosifs et implacables.

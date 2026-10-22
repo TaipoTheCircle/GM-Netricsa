@@ -1,15 +1,15 @@
-FUSIL À IMPULSIONS M41A
+RISQUE M41A PULSE
 
 
-WEAPON: Fusil à impulsion M41A
-AMMO: Cellules énergétiques de 10 mm /
-ROF: ~600 tours/min (primaire)
+ARME:      M41A Rifle d'impulsion
+MUNITIONS:        cellules énergétiques de 10 mm /
+CADENCE DE TIR:         ~600 tours/minute (primaire)
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Fusil automatique de haute technologie tirant des rafales d'énergie rapides. Conçu pour les troupes d'élite, efficace contre les cibles organiques et blindées.
+Un fusil automatique de haute technologie tire rapidement de l'énergie. Conçu pour les troupes d'élite, efficace contre les cibles organiques et blindées.
 
-NOTES: 
+REMARQUES:
 
-- Le tir principal délivre des éclairs d'énergie rapides et précis.
-- Arme à moyenne portée ; la précision diminue sur de longues distances.
+- Le feu primaire délivre des boulons d'énergie rapides et précis.
+- Arme de moyenne portée; la précision diminue à de longues distances.

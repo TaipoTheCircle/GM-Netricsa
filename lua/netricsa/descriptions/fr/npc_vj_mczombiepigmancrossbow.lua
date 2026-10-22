@@ -1,32 +1,32 @@
-ARBALIER PIGLIN ZOMBIFIÉ DE MINECRAFT NETHER
+ZOMBIFIED PIGLIN CROSSBOWMAN DU RÉSEAU MINECRAFT
 
 
-CLASS: Arbalétrier Piglin zombifié
-METABOLISM: Humanoïde mort-vivant ressemblant à un cochon
-PERCEPTION: Foule neutre du Nether
-SIZE: 6,3 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Conditionnel
-WEAPONS: Épée d'or
-REWARD: 350FC
-THREAT: Moyenne
+CLASSE:       Acrobatie de Pigline zombifiée
+MÉTABOLISME:  Humanoïde non mort, semblable à un porc
+PERCEPTION:  Une mafia neutre
+TAILLE:        6,3 pieds
+ENDURANCE:   Moyenne
+HOSTILITÉ:   Conditionnel
+ARMES:     Épée dorée
+RÉCOMPENSE:      350 FC
+MENACE:      Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Une carcasse bipède ressemblant à un cochon zombifié, vêtue de morceaux d'armure autrefois dorée.
+Une carcasse de porc zombifiée bipédique, vêtue de débris d'armure une fois dorée.
 
-C'est ce que deviennent les arbalétriers Piglin ordinaires s'ils restent dans l'Overworld ou la Fin pendant plus de 15 secondes. On les appelait autrefois des piglins zombies, mais ce nom a été changé par la suite.
+C'est ce que deviennent les Piglin Crossbowman ordinaires s'ils restent dans le monde ou dans la fin pendant plus de 15 secondes. Ils s'appelaient des cochons zombies, mais ce nom a été changé plus tard.
 
-Contrairement à leurs parents vivants, ces piglins ne se soucient pas de l'or. Ils ne se soucient de rien tant qu'ils restent seuls.
+Contrairement à leur famille vivante, ces cochons se fichent de l'or. Ils se fichent de tout tant qu'ils restent seuls.
 
-Ils peuvent également émerger de porcs ordinaires s'ils sont frappés par la foudre. Ou directement depuis les portails du Nether dans l'Overworld : plus le portail est grand, plus souvent.
+Ils peuvent aussi émerger de porcs réguliers s'ils sont frappés par la foudre. Ou directement à partir des portails Nether dans le monde entier - plus le portail, le plus souvent.
 
-Les piglins zombifiés sont immunisés contre le feu et la lave : ils brûlent mais ne brûlent pas. Cependant, ils se noient dans l’eau, comme il sied aux morts-vivants.
+Les porchines zombifiées sont immunisées contre le feu et la lave, elles brûlent mais ne brûlent pas. Cependant, ils se noient dans l'eau, comme il convient non mort.
 
-Ils guérissent grâce aux potions de dégâts et subissent des dégâts grâce aux soins.
+Ils guérissent de potions endommagées et prennent des dommages de guérison.
 
-TIPS: 
+CONSEILS:
 
-- Ne frappez jamais en premier à moins d'être prêt à frapper tout le monde. Un coup et tout le pack est à vous.
+- Ne frappez jamais avant, sauf si vous êtes prêt à frapper tout le monde. Un coup et tout le paquet est à toi.
 - Ils tirent vite et douloureusement.
 - Ils sont impuissants dans l'eau.

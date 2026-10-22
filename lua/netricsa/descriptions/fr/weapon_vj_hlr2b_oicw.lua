@@ -1,16 +1,16 @@
-FUSIL D'ASSAUT OICW
+RISQUE D'ASSAULT
 
 
-WEAPON: Arme de Combat Individuelle Objectif (OICW)
-AMMO: Cartouches de 5,56 x 45 mm / grenades de 20 mm
-ROF: ~650 coups/min (primaire), 1 grenade/2 sec (secondaire)
+ARME:      Objectif Armes de combat individuelles
+MUNITIONS:        ballons de 5,56x45mm / grenades de 20mm
+CADENCE DE TIR:         ~650 rondes/minutes (primaire), 1 grenade/2 sec (secondaire)
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Fusil d'assaut prototype combinant des obus balistiques à tir rapide et un lance-grenades intégré. Destiné aux troupes de surveillance combinées comme arme de combat de nouvelle génération. Fournit à la fois un tir automatique de précision et un soutien explosif, permettant aux soldats de s'adapter instantanément entre la suppression à distance et les engagements anti-blindés.
+Fusil d'assaut prototype combinant des balles balistiques à tir rapide et un lance-grenades intégré. Destiné à combiner les troupes de surveillance comme une arme de combat de prochaine génération. Fournit à la fois un feu automatique de précision et un soutien explosif, permettant aux soldats de s'adapter instantanément entre la suppression variée et les engagements anti-armor.
 
-NOTES: 
+REMARQUES:
 
-- Primary fire: cartouches automatiques de 5,56 mm, précises à moyenne portée.
-- Secondary fire: grenades sous le canon de 20 mm avec des dégâts explosifs élevés.
+- Feu primaire : rondes automatiques de 5,56 mm, précises à portée moyenne.
+- Incendie secondaire : grenades de 20 mm avec des dommages explosifs élevés.
 - Conçu comme une arme d'infanterie tout-en-un.

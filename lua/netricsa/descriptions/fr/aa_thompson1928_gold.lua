@@ -1,16 +1,16 @@
 THOMPSON M1928 SUBMACHINE GUN GOLD
 
 
-ARME : M1928 Thompson Submachine Gun GOLD
-MUNITIONS : .45APS
+ARME: M1928 Thompson mitrailleuse mitrailleuse OR
+MUNITIONS:   .45APS
 RR:     600 RPM
-LONGUEUR : 25,4 cm
+LENGTH: 25,4 cm
 
-DESCRIPTIF :
+DESCRIPTION:
 
-The Thompson submachine gun (also known as the "Tommy Gun"), popularized in the 1930s by Al Capone and other gangsters, offers decent stopping power, reloads quickly, and is the island's go-to submachine gun. Less popular with officers than the revolver, it is nonetheless a common weapon.
+La mitrailleuse Thompson (aussi connue sous le nom de "Tommy Gun"), popularisé dans les années 1930 par Al Capone et d'autres gangsters, offre une puissance d'arrêt décente, se recharge rapidement, et est la mitrailleuse de l'île. Moins populaire auprès des officiers que le revolver, c'est néanmoins une arme commune.
 
-REMARQUES :
+REMARQUES:
 
-- Tirez en rafales longues et courtes.
-- Al Capone vous envoie ses salutations.
+- Feu en rafales courtes et longues.
+- Al Capone envoie ses salutations.

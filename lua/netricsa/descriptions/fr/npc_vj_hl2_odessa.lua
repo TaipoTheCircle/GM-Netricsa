@@ -1,24 +1,24 @@
-CUBAGE D'ODESSA
+CUBBAGE ODESSA
 
 
-CLASS: Chou d'Odessa
-METABOLISM: Humain, mâle
-PERCEPTION: Coordinateur de terrain de la Résistance
-SIZE: 9,5 pieds
-ENDURANCE: Moyen
-HOSTILITY: Moyen
-WEAPONS: RPG-V2
-REWARD: 10 FC
-THREAT: Faible
+CLASSE:      Odessa Cubbage
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Coordonnateur des opérations de résistance
+TAILLE:       9,5 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Moyenne
+ARMES:    RPG-V2
+RÉCOMPENSE:     10 FC
+MENACE:     Faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Odessa Cubbage est un homme qui se qualifie de colonel avec une telle assurance que la plupart des gens préfèrent ne pas développer. Il dirige une petite cellule de Résistance sur la côte et dirige les opérations de combat à distance en utilisant une radio et un ton de commandement bien établi.
+Odessa Cubbage est un homme qui se dit colonel avec une telle confiance que la plupart des gens préfèrent ne pas élaborer. Il dirige une petite cellule de résistance sur la côte et dirige les opérations de combat à une distance sûre en utilisant une radio et un ton de commandement bien établi.
 
-La principale contribution de Cubbage à la lutte contre le Cartel est la logistique. Il distribue des RPG, explique où les tirer, puis supervise le processus sans interférer. His military uniform is adorned with patches whose origins are questionable, but in the face of a total invasion, such trifles are considered insignificant.
+La principale contribution de Cubbage à la lutte contre le Combine est la logistique. Il distribue des RPG, explique où les virer, puis supervise le processus sans interférer. Son uniforme militaire est orné de patchs dont les origines sont douteuses, mais face à une invasion totale, ces trifles sont considérés comme insignifiants.
 
-Malgré sa participation limitée aux combats, Cubbage croit sincèrement en la victoire de la Résistance et qu'une communication efficace par radio est parfois plus efficace qu'une présence personnelle sur le champ de bataille.
+Malgré sa participation limitée au combat, Cubbage croit sincèrement en la victoire de la Résistance et qu'une communication efficace à la radio est parfois plus efficace que la présence personnelle sur le champ de bataille.
 
-TIPS: 
+CONSEILS:
 
-- S'il dit "nous les avons presque", alors vous devrez quand même tirer.
+- S'il dit "on les a presque", tu devras quand même tirer.

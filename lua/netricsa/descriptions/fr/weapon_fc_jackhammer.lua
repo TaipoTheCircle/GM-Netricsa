@@ -1,23 +1,23 @@
-FUSIL AUTOMATIQUE PANCOR JACKHAMMER
+PANCOR JACKHAMMER HÔTEL AUTOMATIQUE
 
 
-ARME : Fusil automatique Pancor Jackhammer
-MUNITIONS : Fusil de chasse de calibre 12
-ROF : automatique, ~ 171 tours/min
-POIDS : ~7,9 kg.
+ARME:   Pancor Jackhammer Automatic Shotgun
+MUNITIONS:     Fusil à 12 gaz
+CADENCE DE TIR:      Automatique, ~171 Rondes / Min
+POIDS:   ~7,9 kg.
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Une arme lourde de combat rapproché avec une cadence de tir élevée et un énorme pouvoir d'arrêt. Il utilise un chargeur de 10 cartouches et est capable de tirer de manière entièrement automatique. Chaque tir libère une grande quantité de plombs, ce qui rend l'arme particulièrement efficace pour dégager des pièces et des passages étroits.
+Une arme de combat rapproché lourde avec un taux élevé de tir et une puissance d'arrêt énorme. Il utilise un magazine de 10 tours et est capable de feu entièrement automatique. Chaque tir libère une grande quantité de pellets, rendant l'arme particulièrement efficace pour les salles de nettoyage et les passages serrés.
 
-La conception est basée sur un magasin à tambour rotatif inhabituel. Conçu à l'origine comme un fusil de chasse Bullpup de calibre 12, il n'a jamais été produit en série, restant au stade de prototype.
+Le design est basé sur un magazine de tambour rotatif inhabituel. Conçu à l'origine comme un fusil de chasse à balles de calibre 12, il n'a jamais vu la production de masse, restant dans le stade prototype.
 
-REMARQUES :
+REMARQUES:
 
 - Feu entièrement automatique.
-- Le chargeur contient 10 tours.
-- Un seul coup tire plusieurs plombs, vous permettant de toucher de grandes cibles avec plusieurs coups.
-- Plus efficace à courte portée ; la précision et les dégâts diminuent fortement à moyenne et longue portée.
+- Le magazine tient 10 tours.
+- Un seul tir tire plusieurs boulettes, vous permettant de frapper de grandes cibles avec plusieurs coups.
+- Le plus efficace à distance; la précision et les dommages diminuent fortement à distance moyenne et longue.
 - Particulièrement efficace dans les couloirs, les pièces et autres espaces confinés.
-- Son poids élevé et sa cadence de tir élevée rendent difficile le tir pendant de longues périodes.
+- Son poids lourd et son fort taux de feu rendent difficile le feu pendant de longues périodes.
 - Les munitions sont rares, il n'est donc pas recommandé de les gaspiller inutilement.

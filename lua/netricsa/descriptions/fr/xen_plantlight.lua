@@ -1,23 +1,23 @@
-TIGE LUMINEUSE DE XEN
+ÉTALON DE LUMIÈRE DE XEN
 
 
-CLASS: Tige lumineuse
-METABOLISM: Inconnu / photosynthétique + absorption d'énergie
-PERCEPTION: Flore extraterrestre de Xen
-SIZE: ~0,3 pied de hauteur
-ENDURANCE: Élevé (structure durable)
-HOSTILITY: Moyen (défensif)
-WEAPONS: aucun
-REWARD: 0 FC
-THREAT: Aucun
+CLASSE:      Stalk léger
+MÉTABOLISME: Inconnu / photosynthèse + absorption d'énergie
+PERCEPTION: Alien Flora de Xen
+TAILLE:       ~0,3 pi de hauteur
+ENDURANCE:  Haut
+HOSTILITÉ:  Moyenne
+ARMES:    aucune
+RÉCOMPENSE:     0 FC
+MENACE:     Aucune
 
-DESCRIPTION: 
+DESCRIPTION:
 
-La tige lumineuse est l'un des organismes caractéristiques de Xen : des tiges avec des noyaux radiants qui brillent dans le noir. Ces plantes fournissent une lumière ambiante sur les îles flottantes de Xen.
+La tache de lumière est l'un des organismes caractéristiques de Xen - tiges avec des noyaux radieux qui brillent dans l'obscurité. Ces plantes fournissent une lumière ambiante à travers les îles flottantes de Xen.
 
-While primarily passive, these stems can defend themselves: lorsqu'ils sont attaqués, ils se cachent. Ils semblent étroitement liés à l'écosystème de Xen, souvent trouvés à proximité des arbres Xen et d'autres flores extraterrestres, formant des repères naturels sur un terrain hostile.
+Bien que principalement passives, ces tiges peuvent se défendre : lorsqu'elles sont attaquées, elles se cachent. Ils semblent imbriqués avec l'écosystème de Xen, souvent trouvé près de Xen Trees et d'autres flores exotiques, formant des repères naturels dans le terrain hostile.
 
-TIPS: 
+CONSEILS:
 
-- Utilisez Light Stalk comme balises dans les sombres cavernes de Xen.
-- Ils se regroupent souvent autour des bosquets de Xen Tree - surveillez les embuscades.
+- Utilisez Light Stalk comme balises dans les cavernes Xen sombres.
+- Ils se côtoient souvent autour de Xen Tree.

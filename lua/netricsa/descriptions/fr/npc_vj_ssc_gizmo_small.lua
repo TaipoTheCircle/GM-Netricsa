@@ -1,24 +1,24 @@
-MARSH-HOPPER DE RIGIL KENTAURUS, PETIT
+MARSH-HOPPER DU KENTAUR RIGIL, PETITE
 
 
-CLASS: Marsh-Hopper de Rigil Kentaurus, petit
-METABOLISM: amphibien terrestre
-PERCEPTION: animal sauvage
-SIZE: 0,03 pied
-ENDURANCE: aucun
-HOSTILITY: extrême
-WEAPONS: éclaboussure de boue toxique
-REWARD: 500FC
-THREAT: très faible
+CLASSE:      Marsh-Hopper de Rigil Kentaurus, Petite
+MÉTABOLISME: amphibiens terrestres
+PERCEPTION: animaux sauvages
+TAILLE:       0,03 ft
+ENDURANCE:  aucune
+HOSTILITÉ:  extrême
+ARMES:    éclaboussures toxiques
+RÉCOMPENSE:     500 FC
+MENACE:     très faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un étrange organisme originaire des friches marécageuses du système de Rigil Kentaurus. Ils vivent en grands groupes et ont un instinct suicidaire pour protéger leur territoire. Dans un chaos dévastateur, tous les individus tentent de bondir sur l'intrus et d'exploser en se gonflant excessivement. Lors de l'explosion, la bave toxique contenue dans leurs intestins éclabousse la cible.
+Un étrange organisme issu de friches marécageuses du système de Rigil Kentaurus. Ils vivent en grands groupes et ont l'instinct suicidaire de protéger leur territoire. Dans les ravages dévastateurs, tous les individus essaient de sauter à l'intrus et d'exploser, en se gonfleant trop. Au moment de l'explosion, la boue toxique contenue dans leurs intestins éclabousse la cible.
 
-The pinnacle of Mental's miniaturization technology are the microscopic hoppers. These microscopic organisms lack everything but a basic instinct: Détectez une cible, atteignez-la et faites exploser. Ils se déplacent incroyablement rapidement, comme des puces, et sont pratiquement invisibles dans l'air et dans la poussière. Chacun transporte une gouttelette de neurotoxine concentrée, qui est injectée au contact ou pulvérisée lors d’une mini-explosion. Individuellement, ils sont presque inoffensifs, mais lorsqu'ils sont lâchés en essaim de 60, ils créent un brouillard mortel capable de recouvrir et d'empoisonner tout dans un rayon de dix mètres en quelques secondes. Ils n'attaquent jamais individuellement, ils pullulent toujours.
+Le pinacle de la technologie de miniaturisation de Mental sont les trémies microscopiques. Ces organismes microscopiques manquent de tout sauf d'un instinct de base : détecter une cible, l'atteindre et détoner. Ils se déplacent dans des houblons incroyablement rapides, ressemblant à des puces et sont pratiquement invisibles dans l'air et la poussière. Chacun porte une gouttelette de neurotoxine concentrée, qui est injectée au contact ou pulvérisée dans une mini-explosion. Individuellement, ils sont presque inoffensifs, mais quand ils sont libérés dans un essaim de 60, ils créent un brouillard mortel capable de couvrir et d'empoisonner tout dans un rayon de dix mètres en secondes. Ils n'attaquent jamais individuellement, ils essaiment toujours.
 
-TIPS: 
+CONSEILS:
 
-- Une armure ordinaire est inutile.
+- Une armure régulière est inutile.
 - Les armes légères sont inutiles.
-- Un lance-flammes et un lance-fusées sont les meilleures options.
+- Un lance-flammes et un lance-flammes sont les meilleures options.

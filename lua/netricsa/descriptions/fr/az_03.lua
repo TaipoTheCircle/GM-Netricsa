@@ -1,8 +1,8 @@
-BLACK MESA, SECTEUR ÉCHO
+MESA BLACK, RETOUR AUX BUREAUX
 
 
-Ce sont des bureaux, mais pas ceux que vous avez vus auparavant. Disposition différente, même odeur de café rassis. Black Mesa aimait vraiment ses cabines.
+Ce sont des bureaux, mais pas ceux que vous avez vus. Différente disposition, même odeur de café. Black Mesa adorait ses cabines.
 
-Malheureusement, vous n'êtes pas le seul visiteur. Les troupes de Mental ont déjà occupé une partie de ce secteur, transformant le labyrinthe de bureaux en un champ de bataille de bureaux renversés et de verre brisé. Attendez-vous à une forte résistance dans les couloirs étroits.
+Malheureusement, vous n'êtes pas le seul visiteur. Les troupes de Mental ont déjà occupé des parties de ce secteur, transformant le labyrinthe de bureau en un champ de bataille de bureaux renversés et de verre brisé. Attendez-vous à une forte résistance dans les couloirs serrés.
 
-And then there's him again: l'homme à la mallette. J'ai été aperçu en train de marcher calmement dans l'un des couloirs, sans être touché par le chaos, comme si tout cela était programmé.
+Et puis il y a encore lui: l'homme avec la mallette. Spotté se promenant calmement dans un des couloirs, intouché par le chaos, comme si tout cela était prévu.

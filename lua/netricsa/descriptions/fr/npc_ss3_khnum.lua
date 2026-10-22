@@ -1,26 +1,26 @@
-KHNUM DU SYSTÈME LAMBDA BÉLIER
+KHNUM DU SYSTÈME DES ARIES DE LAMBDA
 
 
-CLASS: Khnoum
-METABOLISM: Forme de vie extraterrestre hypertrophiée
-PERCEPTION: Titan de l'espace
-SIZE: 45 pieds
-ENDURANCE: Extrêmement élevé
-HOSTILITY: Haut
-WEAPONS: Projectiles à plasma, coups écrasants, éperonnage
-REWARD: 10000FC
-THREAT: Très élevé
+CLASSE:      Khnum
+MÉTABOLISME: Forme de vie hypertrophiée
+PERCEPTION: Titan spatial
+TAILLE:       45 pieds
+ENDURANCE:  Extrêmement élevé
+HOSTILITÉ:  Haut
+ARMES:    Projectiles plasmatiques, coups écrasants, ramming
+RÉCOMPENSE:     10000 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Une créature bipède massive et un parent direct des Barons de l'Enfer d'une planète du système Lambda Bélier, dont la race, se croyant des dieux, a volontairement rejoint l'armée de Mental, occupant des postes de commandement élevés.
+Une créature bipède massive et un parent direct des Barons de l'enfer d'une planète du système de Lambda Aries, dont la race, croyant être des dieux, a volontairement rejoint l'armée de Mental, occupant des positions de commandement élevées.
 
-Reconnaissable à ses cornes de chèvre géantes, à sa peau grise et épaisse, à ses sabots au lieu de pieds et à ses yeux brillants, son apparence a peut-être inspiré l'ancien dieu égyptien Khnoum.
+Reconnu par ses cornes géantes de chèvre, sa peau grise épaisse, ses sabots au lieu de ses pieds et ses yeux brillants, son apparence a peut-être inspiré l'ancien dieu égyptien Khnum.
 
-Il possède une grande intelligence et des compétences tactiques, commandant souvent des escouades d'ennemis plus petits. Au combat, il combine de puissantes attaques à distance, en lançant spécifiquement des gouttes de plasma impossibles à abattre dans les airs, avec des attaques mortelles à courte portée.
+Il possède une haute intelligence et des compétences tactiques, commandant souvent des équipes de petits ennemis. Au combat, il combine de puissantes attaques à portée de champ, en particulier lancer des taches de plasma qui sont impossibles à abattre en plein air, avec des attaques mortelles à portée rapprochée.
 
-TIPS: 
+CONSEILS:
 
-- Ses boules de feu infligent des dégâts colossaux et il est presque invulnérable à courte portée.
-- Complètement immunisé contre les balles. Utilisez uniquement des armes explosives, comme le C4 ou un pistolet lance-fusées.
-- Prédisez la trajectoire de ses boules de feu et esquivez au dernier moment.
+- Ses boules de feu causent des dégâts colossaux, et il est presque invulnérable à portée de main.
+- Tout à fait à l'abri des balles. N'utilisez que des armes explosives, comme C4 ou une fusée éclairante.
+- Prévoyez la trajectoire de ses boules de feu et d'esquive au dernier moment.

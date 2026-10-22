@@ -1,19 +1,19 @@
-PB 6P9 SILENT PISTOL
+PB 6P9 PISTOL SILENT
 
 
-ARME : PB 6P9 Silent Pistol
-MUNITIONS : 9x18 mm PM
-ROF : ~30 rounds / min
-POIDS : ~0,95 kg (unloaded)
+ARME: PB 6P9 Pistol silencieux
+MUNITIONS:   9 x 18 mm
+CADENCE DE TIR:    ~30 tours/min
+POIDS: ~0,95 kg (déchargement)
 
-DESCRIPTIF :
+DESCRIPTION:
 
-The PB 6P9, silent pistol, is a Soviet self-loading pistol developed by Alexander Deryagin and adopted for service in 1967. It was created to arm army reconnaissance groups, the KGB, and other special forces. Despite its external resemblance to the PM, the PB is a separate design, although it uses the same trigger mechanism and an 8-round magazine.
+Le PB 6P9, pistolet silencieux, est un pistolet soviétique développé par Alexander Deryagin et adopté pour le service en 1967. Il a été créé pour armer des groupes de reconnaissance de l'armée, le KGB et d'autres forces spéciales. Malgré sa ressemblance avec le PM, le PB est un design distinct, bien qu'il utilise le même mécanisme de déclenchement et un magazine de 8 tours.
 
-The PB's main feature is its detachable, two-piece silencer. Even with the silencer installed, the pistol is not completely silent, but the subsonic speed of the bullet and the design of the silencer significantly reduce the gunshot sound. With the front part of the silencer removed, the PB remains capable of firing.
+La caractéristique principale du PB est son silencieux amovible en deux parties. Même avec le silencieux installé, le pistolet n'est pas complètement silencieux, mais la vitesse subsonique de la balle et la conception du silencieux réduisent considérablement le bruit de tir. La partie avant du silencieux étant enlevée, le PB reste capable de tirer.
 
-REMARQUES :
+REMARQUES:
 
-- Designed for concealed use and silent shooting.
-- The silencer is two-piece, so the front part can be removed and stored separately.
-- Despite its external similarities, the PB is not simply a PM with a silencer.
+- Conçu pour une utilisation cachée et des tirs silencieux.
+- Le silencieux est deux pièces, de sorte que la partie avant peut être enlevée et stockée séparément.
+- Malgré ses similarités extérieures, le PB n'est pas simplement un PM avec un silencieux.

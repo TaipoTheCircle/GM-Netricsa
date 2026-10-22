@@ -1,6 +1,6 @@
-XEN, GONARCH'S LAIR (PART 2)
+XEN, LAIT DE GONERCH (PARTIE 2)
 
 
-Très bien, vous avez surmonté le premier désordre. La grotte s'ouvre à nouveau, plus grande et plus odorante, et cette reine pourrie n'a pas encore fini.
+D'accord, tu as traversé le premier bazar. La grotte s'ouvre encore, plus grande et plus puante, et cette reine pourrie n'est pas encore finie.
 
-The immediate plan is simple: poussez dans la chambre suivante, achevez le Gonarch et empêchez d'autres de ces petits parasites d'éclore. Attendez-vous à des piscines acides, des chutes de pierres et un second souffle d'apparition lorsqu'elle se met en colère. Continuez à avancer ; rester immobile est une mauvaise idée.
+The immediate plan is simple: poussez dans la chambre suivante, terminez le Gonarch et arrêtez ces petits parasites d'éclore. Attendez-vous à des piscines acides, à une chute de roche et à un second vent de frayères quand elle s'énerve. Continuez à bouger ; rester debout est une mauvaise idée.

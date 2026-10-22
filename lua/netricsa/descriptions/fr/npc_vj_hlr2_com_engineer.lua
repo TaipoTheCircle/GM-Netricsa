@@ -1,26 +1,26 @@
-COMBINER INGÉNIEUR SOLDAT OVERWATCH
+ENGINIER SUPPLÉMENTAIRE DE COMBINE
 
 
-CLASS: Combiner l'ingénieur soldat Overwatch
-METABOLISM: Humain augmenté, mâle
-PERCEPTION: Infanterie transhumaine - Ingénieur de combat
-SIZE: 5,9 pieds
-ENDURANCE: Haut
-HOSTILITY: Extrême
-WEAPONS: Fusil Reager (arme à décharge électrique), tourelles déployables
-REWARD: 950 FC
-THREAT: Haut
+CLASSE:      Combiner l'ingénieur soldat Overwatch
+MÉTABOLISME: Augmenté Humain, Homme
+PERCEPTION: Transhuman Infantry - Ingénieur de combat
+TAILLE:       5,9 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Extrême
+ARMES:    Reager Rifle (arme à décharge électrique), Tourelles déployables
+RÉCOMPENSE:     950 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine Overwatch Soldier Engineer est une unité transhumaine spécialisée chargée de la fortification du champ de bataille et de la guerre technologique. Se distinguant par ses lentilles de visière orange, il porte des armes combinées avancées, notamment le fusil Reager - un prototype d'arme électrique capable d'étourdir et d'électrocuter des cibles en succession rapide.
+L'Ingénieur Soldat Combine Overwatch est une unité transhumaine spécialisée chargée de la fortification du champ de bataille et de la guerre technologique. Distingué par ses lentilles visières orange, il transporte des armes avancées Combine, notamment le Reager Rifle - un prototype d'arme électrique capable de réaliser des cibles étonnantes et électrocutantes en succession rapide.
 
-Au-delà de son rôle offensif, l'Ingénieur peut déployer des tourelles Overwatch automatisées, établissant instantanément des zones de destruction et renforçant les positions du Combine. Ces soldats sont souvent affectés à des points d'étranglement stratégiques, des nids défensifs et des prisons forteresses de style Nova Prospekt, où leurs compétences sont les plus efficaces.
+Au-delà de son rôle offensif, l'ingénieur peut déployer des tourelles Overwatch automatisées, établir instantanément des zones d'abattage et renforcer les positions Combiner. Ces soldats sont souvent affectés à des points d'étranglement stratégiques, à des nids défensifs et à des forteresses carcérales de style Nova Prospekt, où leurs compétences sont les plus efficaces.
 
-L'Ingénieur est moins courant que l'infanterie régulière mais bien plus dangereux, surtout lorsqu'il est retranché avec des défenses automatisées. Les forces de la Résistance le considèrent comme une cible prioritaire, car l'élimination des ingénieurs perturbe les lignes défensives du Combine et affaiblit leur avantage technologique.
+L'ingénieur est moins commun que l'infanterie régulière, mais beaucoup plus dangereux, surtout lorsqu'il est enchâssé avec des défenses automatisées. Les forces de résistance le considèrent comme une cible prioritaire, car l'élimination des ingénieurs perturbe Combine les lignes défensives et affaiblit leur avantage technologique.
 
-TIPS: 
+CONSEILS:
 
-- Détruisez les tourelles rapidement après le déploiement avant qu'elles ne vous submergent.
-- Le fusil Reager est mortel à moyenne portée - utilisez des armes à longue portée pour les neutraliser.
-- La lueur orange de la visière est le moyen le plus simple de les identifier.
+- Détruisez les tourelles rapidement après le déploiement avant qu'elles ne vous écrasent.
+- Le Reager Rifle est mortel à mi-chemin - utilisez des armes à longue portée pour les neutraliser.
+- La lumière orange est la meilleure façon de les identifier.

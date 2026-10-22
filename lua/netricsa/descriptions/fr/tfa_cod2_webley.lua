@@ -1,21 +1,21 @@
 WEBLEY MK IV REVOLVER
 
 
-ARME : Webley Mk IV Revolver
-MUNITIONS : .455 Webley Mk II
-ROF : ~20-30 rounds / min
-POIDS : ~1,1 kg
+ARME: Revolver Webley Mk IV
+MUNITIONS:   .455 Webley Mk II
+CADENCE DE TIR:    ~20-30 tours/min
+POIDS: ~1,1 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-The Webley Mk IV, also known as the Boer War Model, is a British break-action revolver adopted in 1899. It saw widespread use by British troops during the Second Boer War and earned a reputation as a reliable and powerful military revolver.
+Le Webley Mk IV, aussi connu sous le nom de Boer War Model, est un revolver britannique à action discontinue adopté en 1899. Pendant la Seconde Guerre des Boers, les troupes britanniques se sont largement utilisées et ont acquis une réputation de revolver militaire fiable et puissant.
 
-The revolver uses the powerful .455 Webley Mk II cartridge and has a six-shot cylinder. The break-action design allows the spent cartridges to be ejected simultaneously when the revolver is opened, significantly speeding up reloading compared to revolvers where the cylinder must be loaded through a separate door.
+Le revolver utilise la puissante cartouche .455 Webley Mk II et dispose d'un cylindre à six prises. La conception par rupture permet d'éjecter simultanément les cartouches épuisées lorsque le revolver est ouvert, ce qui accélère considérablement le rechargement par rapport aux revolvers où le cylindre doit être chargé par une porte séparée.
 
-The Webley Mk IV operates in double-action mode, so a single pull of the trigger is sufficient for each shot. The revolver was characterized by its robust construction and high reliability, making it particularly suitable for military service.
+Le Webley Mk IV fonctionne en mode double action, de sorte qu'une seule touche de la gâchette est suffisante pour chaque tir. Le revolver se caractérise par sa construction robuste et sa grande fiabilité, le rendant particulièrement adapté au service militaire.
 
-REMARQUES :
+REMARQUES:
 
-- The powerful .455 Webley provides excellent stopping power at close range.
-- The break-open frame and automatic six-casing ejection allow for relatively quick reloading.
-- Best suited for close-quarters combat, although the iron sights allow for fairly accurate shooting.
+- Le puissant 455 Webley fournit une excellente puissance d'arrêt à proximité.
+- Le cadre ouvert et l'éjection automatique à six cases permettent un rechargement relativement rapide.
+- Convient le mieux pour le combat de quartier rapproché, bien que les vues de fer permettent un tir assez précis.

@@ -1,26 +1,26 @@
-CARDARD DE CHOC DE LA DIMENSION X
+LA ROUTE DE LA DIMENSION X
 
 
-CLASS: Cafard de choc
-METABOLISM: Parasite / Bio-électrique
-PERCEPTION: Arme biologique de la race X
-SIZE: ~2 pieds
-ENDURANCE: Faible (détaché), Moyen (avec hôte)
-HOSTILITY: Moyen-élevé
-WEAPONS: Boulons d'énergie bioélectrique, attaque mordante
-REWARD: 100 FC
-THREAT: Moyen
+CLASSE:      Rouleau de choc
+MÉTABOLISME: Parasitique / Bio-électrique
+PERCEPTION: Bio-arme de course X
+TAILLE:       ~2 pi
+ENDURANCE:  Faible (détaché), moyen (avec hôte)
+HOSTILITÉ:  Moyenne-haute
+ARMES:    Boulons d'énergie bioélectriques, attaque de morsure
+RÉCOMPENSE:     100 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-The Shock Roach is a living biological weapon developed by Race X and commonly wielded by Shock Troopers. When bonded to a host, the roach functions as an organic firearm, firing concentrated blasts of bio-electric energy. The symbiosis is mutually beneficial: le soldat gagne en puissance à distance, tandis que le cafard se nourrit du métabolisme de l'hôte.
+Le Shock Roach est une arme biologique vivante développée par Race X et couramment maniée par Shock Troopers. Lorsqu'il est relié à un hôte, le cafard fonctionne comme une arme à feu biologique, tirant des explosions concentrées d'énergie bio-électrique. La symbiose est mutuellement bénéfique : les gains du soldat ont varié la puissance, tandis que le cafard se nourrit du métabolisme de l'hôte.
 
-Si un Shock Trooper est tué, le Shock Roach se détache et continue de se battre de manière indépendante. À lui seul, il est beaucoup moins précis et durable, mais reste capable d'attaquer des cibles proches avec une morsure désespérée.
+Si un soldat de choc est tué, le shock Roach se détache et continue de se battre indépendamment. Seule, elle est beaucoup moins précise et durable, mais elle est encore capable d'attaquer des cibles voisines avec une morsure désespérée.
 
-Certains cafards de choc sont connus pour présenter des mutations, modifiant leur production d'énergie. Des variantes jaunes ont été documentées, déclenchant des décharges électriques plus puissantes que la souche bleue standard.
+Certains Choc Roaches sont connus pour présenter des mutations, modifiant leur production d'énergie. Des variantes jaunes ont été documentées, tirant des décharges électriques plus puissantes que la souche bleue standard.
 
-TIPS: 
+CONSEILS:
 
-- Isolez et détruisez rapidement les cafards de choc détachés. Ils sont fragiles mais dangereux s'ils sont ignorés.
-- Les cafards jaunes doivent être considérés comme des menaces prioritaires en raison de leurs explosions plus puissantes.
-- Sans hôte, ils sont lents et vulnérables. Ils exploitent cette faiblesse.
+- Isolez et détruisez rapidement les Choc Roaches détachés - ils sont fragiles mais dangereux si ignorés.
+- Les cailloux jaunes devraient être considérés comme des menaces prioritaires en raison de leurs explosions plus fortes.
+- Sans hôte, ils sont lents et vulnérables - exploiter cette faiblesse.

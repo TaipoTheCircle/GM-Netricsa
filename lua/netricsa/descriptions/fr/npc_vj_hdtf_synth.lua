@@ -1,23 +1,23 @@
-COMBINEZ LE SOLDAT DU SINTH
+DÉPÔT DE COMBINE
 
 
-CLASS: Combiner un soldat synthétique
-METABOLISM: Synthé / Organisme biomécanique
-PERCEPTION: Première élite de l'armée du Combine
-SIZE: 5,9 pieds
-ENDURANCE: Très élevé
-HOSTILITY: Extrême
-WEAPONS: AR2, SPAS-12, OICW
-REWARD: 2000 FC
-THREAT: Très élevé
+CLASSE:      Combiner le soldat Synth
+MÉTABOLISME: Synthétique / Organisme biomécanique
+PERCEPTION: Première élite du Combine militaire
+TAILLE:       5,9 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Extrême
+ARMES:    AR2, SPAS-12, OICW
+RÉCOMPENSE:     2000 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine Synth Soldier est une unité de combat oubliée développée pour le Combine pendant la guerre des Sept Heures. Il s'agit d'un organisme biomécanique hautement adapté, combinant un corps organique avec une structure synthétique avancée, conçu pour remplacer les soldats standards grâce à sa combinaison de mobilité, de durabilité et de puissance de feu.
+Le Soldat Combine Synth est une unité de combat précoce oubliée développée pour le Combine pendant la guerre de Sept Heures. C'est un organisme biomécanique très adapté, combinant un corps organique avec une structure Synth avancée, conçue pour remplacer les soldats standard par sa combinaison de mobilité, durabilité et puissance de feu.
 
-Leurs tactiques combinaient une grande maniabilité, des attaques surprises et la capacité de résister à des coups qui arrêteraient un soldat normal.
+Leur tactique combine une grande maniabilité, des attaques surprises et la capacité de résister à des coups qui empêcheraient un soldat normal.
 
-TIPS: 
+CONSEILS:
 
-- Résiste à plusieurs coups grâce à l'armure biomécanique ; un ou deux coups ne les arrêteront pas.
-- Dans les espaces ouverts, il est préférable de les encadrer et d'essayer de les isoler.
+- Résiste à plusieurs coups grâce à l'armure biomécanique; un ou deux coups ne les arrêteront pas.
+- Dans les espaces ouverts, il vaut mieux les flanquer et essayer de les isoler.

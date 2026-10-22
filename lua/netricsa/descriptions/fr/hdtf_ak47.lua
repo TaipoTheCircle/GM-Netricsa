@@ -1,17 +1,17 @@
-AKMS ASSAULT RIFLE
+RIFLE AKMS ASSAULT
 
 
-ARME : AKMS
-MUNITIONS : 7.62x39 mm
-ROF : ~600 rounds / min
+ARME: AKMS
+MUNITIONS:   7,62x39 mm
+CADENCE DE TIR:    ~600 tours/min
 
-DESCRIPTIF :
+DESCRIPTION:
 
-A lightweight folding-stock variant of the AKM designed originally for paratroopers. It serves as a reliable 7.62×39 mm carbine - offering strong close-range stopping power with acceptable mid-range accuracy. Its relatively low cyclic rate for an automatic weapon improves controllability versus higher-rate assault rifles.
+Une variante légère pliante de l'AKM conçue à l'origine pour les parachutistes. Il sert de carbine fiable de 7,62×39 mm - offrant une forte puissance d'arrêt à proximité avec une précision moyenne acceptable. Son taux cyclique relativement faible pour une arme automatique améliore la maîtrise par rapport aux fusils d'assaut à plus haut taux.
 
-REMARQUES :
+REMARQUES:
 
-- Highly durable and simple to operate.
-- Recul modéré ; contrôlable en courtes rafales.
-- Efficace contre les cibles non blindées et légèrement blindées.
-- Magazine capacity requires periodic reloads during prolonged combat.
+- Très durable et simple à utiliser.
+- Recul modéré; contrôlable en courts éclats.
+- Efficace contre les cibles non armées et légèrement blindées.
+- La capacité des chargeurs nécessite des recharges périodiques pendant les combats prolongés.

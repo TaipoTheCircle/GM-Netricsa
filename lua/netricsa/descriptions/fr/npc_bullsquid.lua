@@ -1,24 +1,24 @@
-CALMAR, TERRE
+BULLSQUID, TERRE
 
 
-CLASS: Calmar, Terre
-METABOLISM: Omnivore agressif
-PERCEPTION: Prédateur terrestre
-SIZE: 6-7 pieds
-ENDURANCE: Moyen
-HOSTILITY: Haut
-WEAPONS: Tentacules (6), griffes, coup de queue, crachat corrosif
-REWARD: 300FC
-THREAT: Moyen
+CLASSE:      Taureau, Terre
+MÉTABOLISME: Omnivore agressif
+PERCEPTION: Predator terrestre
+TAILLE:       6-7 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Tentacles (6), griffes, crache corrosive
+RÉCOMPENSE:     300 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Earth Bullsquid est une ramification terrestre du prédateur Xen qui s'est adaptée aux écosystèmes terrestres après la Cascade de Résonance. Cette sous-espèce est plus volumineuse, avec une charpente épaisse et grasse lui donnant un aspect gonflé. Sa peau est d'un ton rouge foncé, ce qui la distingue des originaux Xen verdâtres.
+Le calmar de la Terre est une sortie terrestre du prédateur Xen qui s'est adapté aux écosystèmes de la Terre après la cascade de résonance. Cette sous-espèce est plus volumineuse, avec un cadre épais et gras lui donnant un aspect gonflé. Sa peau est d'un rouge foncé, ce qui la distingue des originaux de Xen vert.
 
-Plus gros que ses véritables parents Xen, le Earth Bullsquid compense sa taille par sa masse brute et son agressivité. Sa bile corrosive est plus forte et brûle plus longtemps au contact, ce qui en fait un danger sérieux dans les ruines urbaines et les zones industrielles. Malgré son apparence lente, il peut se précipiter à une vitesse effrayante, utilisant son poids pour submerger ses proies.
+Plus grand que ses vrais parents Xen, le calmar de la Terre compense sa taille avec masse brute et agression. Sa bile corrosive est plus forte et brûle plus longtemps au contact, ce qui en fait un grave danger dans les ruines urbaines et les zones industrielles. Malgré son aspect lugubre, il peut se précipiter avec une vitesse effrayante, en utilisant son poids pour submerger les proies.
 
-TIPS: 
+CONSEILS:
 
-- Son corps gras absorbe bien les dégâts – ne sous-estimez pas son endurance.
-- Plus dangereux de près, évitez de le laisser charger.
-- Les explosifs restent le moyen le plus fiable pour l'abattre.
+- Le corps gras absorbe les dommages, ne sous-estime pas son endurance.
+- Plus dangereux que ça.
+- Les explosifs restent la façon la plus fiable de les faire tomber.

@@ -1,18 +1,18 @@
-AR-CL SNIPER RIFLE
+RIFLE DE RETRAITE AR-CL
 
 
-ARME : Fusil de précision AR-CL
-MUNITIONS : Rifle cartridge
-ROF : ~600 rounds/min
+ARME: AR-CL Sniper Rifle
+MUNITIONS:   Cartouche de spiral
+CADENCE DE TIR:    ~600 tours/min
 
-DESCRIPTIF :
+DESCRIPTION:
 
-This sniper rifle is based on the same design as the AR-C assault rifle. It features a longer barrel and increased damage, making it better suited for medium to long-range shooting. The standard magazine holds 10 rounds, and an extended magazine increases this to 15.
+Ce fusil de sniper est basé sur le même modèle que le fusil d'assaut AR-C. Il dispose d'un baril plus long et de dommages accrus, ce qui le rend mieux adapté pour la prise de vue moyenne à longue portée. Le magazine standard compte 10 tours, et un magazine élargi le porte à 15.
 
-Unlike most sniper rifles, the AR-CL can fire semi-automatically, in three-round bursts, or fully automatically. It uses the same ammunition as the AR-C, so finding ammo is usually easy.
+Contrairement à la plupart des fusils de sniper, l'AR-CL peut tirer semi-automatiquement, en trois rafales, ou entièrement automatiquement. Il utilise les mêmes munitions que le AR-C, donc trouver des munitions est généralement facile.
 
-REMARQUES :
+REMARQUES:
 
-- Well suited for medium to long range shooting.
-- Can be equipped with various scopes and a suppressor.
-- Unusual for a sniper rifle, the ability to fire automatically.
+- Bien adapté pour la prise de vue moyenne à longue portée.
+- Peut être équipé de divers champs et d'un suppresseur.
+- Inhabituel pour un fusil de sniper, la capacité de tirer automatiquement.

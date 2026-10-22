@@ -1,24 +1,26 @@
-GOLEM DE LAVE, GRAND
+LAVA GOLEM, LARGE DU STRUNA
 
 
-CLASS: Golem de lave, grand
-METABOLISM: inorganique
-PERCEPTION: créature magique
-SIZE: 100 pieds
-ENDURANCE: moyen à extrême
-HOSTILITY: haut
-WEAPONS: boules de feu
-REWARD: 50000FC
-THREAT: faible à extrême
+CLASSE:      Lava Golem, grande
+MÉTABOLISME: Matières inorganiques
+PERCEPTION: Créature magique
+TAILLE:       100 pieds
+ENDURANCE:  Extrême
+HOSTILITÉ:  Haut
+ARMES:    Boules de feu
+RÉCOMPENSE:     50000 FC
+MENACE:     Extrême
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un gros tas de matériaux inanimés animés par magie. Les golems de lave sont constitués de magma à basse température et utilisent les pouvoirs magiques qu'ils contiennent pour invoquer des boules de feu et des projectiles similaires à lancer sur leurs ennemis.
-La puissance et la résistance d'un golem particulier dépendent de sa taille et de la quantité de force magique qu'il contient.
-À mesure qu'un golem s'use, s'il est très gros, il peut engendrer plusieurs golems plus petits qui continuent leur vie indépendamment de leur auteur.
-Le golem de lave est la base de toutes les créatures élémentaires, elles ont une puissance d'attaque et une santé normales par rapport aux autres élémentaires.
+Une grande pile de matériel inanimé a par magie donné vie. Les lava golems sont faits de magma à basse température et ils utilisent les pouvoirs magiques qu'ils contiennent pour appeler des boules de feu et des projectiles similaires à jeter sur leurs ennemis.
 
-TIPS: 
+La puissance et la résistance de tout golem dépend de sa taille et de la quantité de force magique contenue.
 
-- Les plus gros peuvent être extrêmement résistants et dangereux.
+Comme un golem s'use, s'il est très grand, il peut engendrer plusieurs plus petits dans le processus qui continuent leur vie indépendamment de leur initiateur.
 
+Le golem de lave est la base de toutes les créatures élémentaires, ils ont un pouvoir d'attaque normal et la santé par rapport aux autres éléments.
+
+CONSEILS:
+
+- Les gros spécimens sont extrêmement forts et dangereux.

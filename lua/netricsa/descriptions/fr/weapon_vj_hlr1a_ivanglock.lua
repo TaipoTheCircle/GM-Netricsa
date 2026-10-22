@@ -1,16 +1,16 @@
-PISTOLET IVAN 9MM
+IVAN 9MM PISTOL
 
 
-WEAPON: Pistolet IVAN 9mm
-AMMO: Rondes de 9x19mm
-ROF: Semi-automatique, ~15 coups/min efficaces
+ARME:      Pistolet IVAN 9mm
+MUNITIONS:        tours 9x19mm
+CADENCE DE TIR:         Semi-automatique, ~15 rds/min efficace
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Arme de poing semi-automatique standard. Fiable, léger et toujours la première arme à portée de main. Manque de puissance d'arrêt mais efficace pour des tirs de précision contre des ennemis faibles ou éloignés.
+Arme latérale semi-automatique standard. Fiable, légère et toujours la première arme à portée de main. Manque de puissance d'arrêt mais efficace pour des tirs de précision contre des ennemis faibles ou éloignés.
 
-NOTES: 
+REMARQUES:
 
 - Précision modérée, faible recul.
-- Inefficace contre les cibles blindées.
-- Utile pour conserver les types de munitions plus lourdes.
+- Inefficacité contre les cibles blindées.
+- Utile pour la conservation de types de munitions plus lourds.

@@ -1,17 +1,17 @@
-ARC DE CHARGE
+CHARGE
 
 
-WEAPON: Arc de charge
-AMMO: Boulons d'énergie
-ROF: ~20 bolts/min (primaire), 1 volée/5 sec (alternatif)
+ARME:      Charger Bow
+MUNITIONS:        Boulons d'énergie
+CADENCE DE TIR:         ~20 boulons/min (primaire), 1 volley/5 sec (remplaçant)
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Arme énergétique expérimentale développée par les ingénieurs de la Résistance. Tire des boulons énergétiques uniques à haute vitesse avec précision. Le mode de tir alternatif charge et libère une volée de trois carreaux simultanément, augmentant les dégâts infligés aux cibles de groupe ou aux ennemis blindés.
+Arme expérimentale d'énergie développée par les ingénieurs de résistance. Incendie des boulons d'énergie simples à haute vitesse avec précision. Alternativement le mode incendie charge et libère une volley de trois boulons simultanément, augmentant la sortie de dommages pour les cibles de groupe ou les ennemis blindés.
 
-NOTES: 
+REMARQUES:
 
-- Le tir primaire délivre des éclairs d'énergie précis et rapides.
-- Un tir alternatif lance trois éclairs chargés à la fois.
-- Efficace à moyenne et longue portée.
-- Nécessite une visée prudente en raison de la lenteur de la cadence de tir et du temps de charge.
+- Le feu primaire fournit des boulons d'énergie précis et rapides.
+- Trois boulons chargés.
+- Efficace à moyen ou long terme.
+- Nécessite un objectif prudent en raison de la vitesse d'incendie lente et du temps de charge.

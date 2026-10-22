@@ -1,22 +1,22 @@
-MITRAILLEUSE M3 "GREASE PISTOLET"
+M3 SUBMACHINE GUN
 
 
-ARME : Mitraillette M3 "Grease Gun"
-MUNITIONS : .45 ACP (11,43 x 23 mm)
-ROF : ~450 tours/min
-POIDS : ~3,7 kg
+ARME: M3 pistolet sous-machine "Grâce"
+MUNITIONS:   .45 ACP (11,43x23 mm)
+CADENCE DE TIR:    ~450 tours/min
+POIDS: ~3,7 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Le M3, surnommé « Grease Gun », était une mitraillette américaine de la Seconde Guerre mondiale. Il a été développé comme une alternative moins chère et plus simple à la mitraillette Thompson, coûteuse et complexe. La conception est fortement orientée vers la production de masse : le cadre est principalement constitué d'acier embouti et les pièces sont soudées ensemble.
+Le M3, célèbre surnommé le "Grease Gun", était une mitrailleuse américaine de la Seconde Guerre mondiale. Il a été développé comme une alternative moins chère et plus simple à la mitrailleuse Thompson coûteuse et complexe. La conception est fortement orientée vers la production de masse: le cadre est principalement en acier estampillé, et les pièces sont soudées ensemble.
 
-Le M3 utilise une action de retour de flamme et tire uniquement en mode automatique. Il est alimenté par un chargeur de 30 cartouches. Une faible cadence de tir d'environ 450 coups par minute rend l'arme tout à fait contrôlable pour une mitraillette.
+Le M3 utilise une action de rappel et des feux uniquement en mode automatique. Il est alimenté par un magazine de 30 tours. Un faible taux d'incendie d'environ 450 balles par minute rend l'arme assez contrôlable pour une mitrailleuse.
 
-L'arme est entrée en service en 1943 et était initialement destinée à remplacer la mitraillette Thompson. Une version améliorée, le M3A1, a ensuite été introduite, présentant une conception simplifiée et plusieurs modifications du mécanisme de rechargement. Des variantes chambrées pour Parabellum 9x19 mm étaient également disponibles.
+L'arme est entrée en service en 1943 et devait initialement remplacer la mitrailleuse Thompson. Une version améliorée, la M3A1, a ensuite été introduite, avec une conception simplifiée et plusieurs modifications au mécanisme de rechargement. Des variantes en chambre pour Parabellum 9x19mm étaient également disponibles.
 
-REMARQUES :
+REMARQUES:
 
-- The low rate of fire for a submachine gun allows for better control of the weapon when firing bursts.
-- The M3's core philosophy is: cheap, simple, and effective. It was deliberately made significantly less labor-intensive to manufacture than the Thompson.
-- Thanks to its compact size and folding wire stock, the M3 was particularly well-suited for armored vehicle crews and other soldiers who found a full-powered rifle inconvenient.
-- It looks like a mechanic accidentally forgot to lock the garage and went to war with an Grease Gun. But this is really a combat submachine gun.
+- Le faible taux de tir d'une mitrailleuse permet de mieux contrôler l'arme lors des rafales.
+- La philosophie de base du M3 est : bon marché, simple et efficace. Il a été délibérément fait beaucoup moins de main-d'oeuvre pour la fabrication que la Thompson.
+- Grâce à sa taille compacte et à son stock de fils pliants, le M3 a été particulièrement bien adapté pour les équipages de véhicules blindés et d'autres soldats qui ont trouvé un fusil à pleine puissance gênant.
+- On dirait qu'un mécanicien a accidentellement oublié de verrouiller le garage et est allé en guerre avec un pistolet Grease. Mais c'est vraiment une mitrailleuse de combat.

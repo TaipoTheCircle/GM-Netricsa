@@ -1,27 +1,27 @@
-DRAGON HEADCRAB SPECTACLE DEMI-SÉMEMENT
+HALF-QUAKE SHOW HEADCRAB DRAGON
 
 
-CLASS: HALF-QUAKE Show Crabe, Dragon
-METABOLISM: Xénofaune parasitaire
+CLASSE:      HALF-QUAKE Show Headcrab, Dragon
+MÉTABOLISME: Xénofaune parasite
 PERCEPTION: Arme biologique
-SIZE: ~2 pieds
-ENDURANCE: Moyen
-HOSTILITY: Haut
-WEAPONS: Morsure, attachement permanent
-REWARD: 200
-THREAT: Moyen
+TAILLE:       ~2 pi
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Bite, fixation permanente
+RÉCOMPENSE:     200
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-When the producers of HALF-QUAKE decided to launch a medieval MMORPG-style zone, they faced a problem: le bestiaire local n'était pas à la hauteur. Les dragons étaient nécessaires de toute urgence, mais le budget avait déjà été dépensé en latex et en peinture pour les vortintons gris.
+Lorsque les producteurs de HALF-QUAKE ont décidé de lancer une zone médiévale de style MMORPG, ils ont dû faire face à un problème : le bestiaire local n'était pas à la hauteur. Les dragons étaient d'urgence nécessaires, mais le budget avait déjà été dépensé en latex et en peinture pour les vortintons gris.
 
-Ils ont trouvé une solution dans leur propre arrière-boutique. Les crabes ordinaires, déjà modifiés pour le Monde des Ténèbres, ont été retirés du stockage et envoyés pour un traitement ultérieur. Chacun avait le mot « Dragon » gravé sur le dessus de la tête. Apparemment, il a été sculpté avec un clou chauffé au rouge, donc les lettres sont restées.
+Ils ont trouvé une solution dans leur propre pièce. On a retiré de l'entreposage les cabillauds réguliers, déjà modifiés pour le monde des ténèbres, et on les a envoyés pour un traitement ultérieur. Chacun avait le mot "Dragon" gravé dans le haut de sa tête. Apparemment, il a été sculpté avec un clou rouge chaud, alors les lettres sont restées.
 
-After that, the sadistic development team spent several weeks training the creatures to pronounce a single phrase: "Je suis un Dragon".
+Après cela, l'équipe de développement sadique a passé plusieurs semaines à former les créatures à prononcer une seule phrase : « Je suis un Dragon ».
 
-Désormais, ces créatures gardent les lieux de quête, les entrées des donjons des toilettes et d'autres lieux importants.
+Maintenant, ces créatures gardent des emplacements de quête, des entrées de donjons de toilette, et d'autres endroits importants.
 
-TIPS: 
+CONSEILS:
 
-- N'essayez pas d'engager un dialogue. Il n'a qu'une seule phrase et il l'a déjà dite.
-- En meute, ils crient à l'unisson. Cela ressemble à une fête de dragon dans une maison de retraite. Courir.
+- N'essaie pas de dialoguer. Il n'a qu'une phrase, et il l'a déjà dit.
+- Ils crient à l'unisson. On dirait une fête de dragon dans une maison de retraite. Cours.

@@ -1,25 +1,25 @@
-COMBINEZ APC-TRANSPORTEUR
+COMBINE APC-TRANSPORTEUR
 
 
-CLASS: Combiner APC-Transporteur
-METABOLISM: Plateforme de combat mécanisée
-PERCEPTION: Combinez un véhicule blindé de transport de troupes lourd
-SIZE: 29,5 pieds
-ENDURANCE: Extrêmement élevé
-HOSTILITY: Extrême
-WEAPONALS: Mitrailleuse lourde (cabine supérieure)
-REWARD: 3000FC
-THREAT: Critique
+CLASSE:      Combiner APC-Transporter
+MÉTABOLISME: Plateforme de combat mécanisée
+PERCEPTION: Combiner le transporteur de personnel blindé lourd
+TAILLE:       29,5 pieds
+ENDURANCE:  Extrêmement élevé
+HOSTILITÉ:  Extrême
+WEAPONALS:  Mitrailleuse lourde (cabine supérieure)
+RÉCOMPENSE:     3000 FC
+MENACE:     Critique
 
-DESCRIPTION: 
+DESCRIPTION:
 
-The Combine Heavy APC is a 1,5-times larger version of the standard Combine APC, redesigned to carry only Combine Guardsman Soldiers. Unlike the base model, this vehicle uses a six-wheel drive system: deux essieux avant directeurs et quatre roues arrière, offrant une stabilité maximale sous de lourdes charges.
+Le Combine Heavy APC est une version de 1,5 fois plus grande de la norme Combine APC, redessiné pour transporter seulement Combine Guardsman Soldats. Contrairement au modèle de base, ce véhicule utilise un système de traction à six roues: deux essieux avant dirigeables et quatre roues arrière, assurant une stabilité maximale sous des charges lourdes.
 
-Ce châssis permet au Transporter de rester mobile même lorsqu'il est entièrement chargé de troupes et d'équipement de combat, et de naviguer sur des routes en ruine, des décombres et des terrains urbains accidentés sans perte significative de stabilité.
+Ce châssis permet au Transporteur de rester mobile même lorsqu'il est entièrement chargé de troupes et de matériel de combat, et de naviguer sur des routes ruinées, des décombres et des terrains urbains accidentés sans perte de stabilité importante.
 
-Le véhicule est équipé de deux cabines. La cabine avant est réservée au conducteur et est entièrement isolée par une capsule blindée. La cabine supérieure sert de poste de mitrailleur, offrant une visibilité panoramique et un tir de suppression pendant le mouvement et le déploiement.
+Le véhicule est équipé de deux cabines. La cabine avant est pour le conducteur et est entièrement isolée par une capsule blindée. La cabine supérieure sert de poste de mitrailleuse, offrant une visibilité complète et un feu coupe-feu pendant le mouvement et le déploiement.
 
-TIPS: 
+CONSEILS:
 
-- Ne laissez pas le Transporter s'arrêter à un point clé.
-- S'il arrive, l'opération a déjà commencé.
+- Ne laissez pas le téléporteur s'arrêter.
+- Si elle arrive, l'opération a déjà commencé.

@@ -1,24 +1,24 @@
-CREEPER-DZIGURDA DU MONDE MINECRAFT
+CREEPER-DZIGURDA DE LA SURVEILLANCE MINECRAFT
 
 
-CLASS: Plante grimpante Dzigurda
-METABOLISM: Produits chimiques végétaux
-PERCEPTION: Créature végétale à poudre à canon
-SIZE: 5,5 pieds
-ENDURANCE: Faible
-HOSTILITY: Extrême
-WEAPONS: Auto-détonation avec Soul Scream
-REWARD: 500FC
-THREAT: Moyen-élevé
+CLASSE:      Dzigurda Creeper
+MÉTABOLISME: Produits végétaux chimiques
+PERCEPTION: Créature de la poudre végétale
+TAILLE:       5,5 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Extrême
+ARMES:    Détonation par l'âme
+RÉCOMPENSE:     500 FC
+MENACE:     Moyenne-haute
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Cette plante grimpante n'est pas seulement une foule explosive de Minecraft Overworld. Non, il est possédé par Nikita Dzigurda lui-même, ce qui en fait une créature extrêmement... émotionnelle. Il s'approche de vous en poussant des cris terrifiants.
+Ce monstre n'est pas qu'une mafia explosive du Minecraft Overworld. Non, il est possédé par Nikita Dzigurda lui-même, en faisant une créature extrêmement... émotionnelle. Ça te fait flipper, en émettant des cris terrifiants.
 
-Lorsque Dzigurda Creeper explose, son corps se désintègre en une multitude de visages miniatures de Dzigurda, qui continuent de crier.
+Lorsque Dzigurda Creeper explose, son corps se désintègre dans une multitude de visages miniatures de Dzigurda, qui continuent de crier.
 
-TIPS: 
+CONSEILS:
 
-- Ne vous tenez pas trop près : l'explosion inflige non seulement des dégâts mais peut également étourdir.
-- Essayer de bouger trop lentement entraînera... des cris de Dzhigurda.
-- Si vous possédez des écouteurs antibruit, mettez-les immédiatement.
+- Ne restez pas trop près de l'explosion non seulement cause des dégâts, mais peut aussi stupéfier.
+- En essayant de bouger trop lentement, Dzhigurda criera.
+- Si vous avez des écouteurs de bruit, mettez-les immédiatement.

@@ -1,21 +1,21 @@
-ZUMB'UL DE LA PLANÈTE RAS-AD-NYK
+ZUMB'UL DE PLANET RAS-AD-NYK
 
 
-CLASS: Zumb'ul
-METABOLISM: mammifère
+CLASSE:      Zumb'ul
+MÉTABOLISME: mammifère
 PERCEPTION: race primitive entraînée
-SIZE: 10 pieds
-ENDURANCE: moyen
-HOSTILITY: moyen
-WEAPONS: lanceurs de plasma à deux mains
-REWARD: 3000
-THREAT: moyen
+TAILLE:       10 pieds 
+ENDURANCE:  moyenne
+HOSTILITÉ:  moyenne
+ARMES:    lanceurs plasma à deux mains
+RÉCOMPENSE:     3000
+MENACE:     moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-C'est ce que vous obtenez lorsque vous présentez le concept d'arme à feu à une créature qui a des problèmes de dents de sagesse. Mental a entraîné ces brutes dans son redoutable institut « East Clintwood », qui doit son nom à un célèbre acteur armé d'armes à feu du XXe siècle.  Il avait l'habitude de renforcer la discipline en leur disant que s'ils ne travaillaient pas dur, ils finiraient par prendre des photos de ponts. Ils ont tous obtenu leur diplôme.
+C'est ce que vous obtenez quand vous introduisez le concept d'armes à feu à une créature qui a des problèmes de dents de sagesse. Mental a formé ces brutes dans son terrible institut 'East Clintwood', qui a été nommé d'après un célèbre acteur armé du 20ème siècle. Il construisait la discipline en leur disant que s'ils ne travaillaient pas dur, ils finiraient par prendre des photos de ponts. Ils sont tous diplômés.
 
-TIPS: 
+CONSEILS:
 
-- Ils tireront un projectile devant vous, alors faites attention à ne pas rentrer dedans.
+- Ils tireront un projectile devant vous, alors faites attention de ne pas le rencontrer.
                                                                                                                                                                                                                                                                                                                                                                                                                                                      

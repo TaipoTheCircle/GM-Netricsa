@@ -1,23 +1,23 @@
 LE COCKTAIL DE MOVODKOV
 
 
-WEAPON: Le cocktail de Movodkov
-AMMO: Vodka transformée par l'ivrogne qui ne sèche jamais
-ROF: 1 lancer par minute
+ARME: Cocktail de Movodkov
+MUNITIONS:   Vodka traité par le Drunk Never-Drying
+CADENCE DE TIR:    1 lancer par minute
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Une arme incendiaire improvisée créée grâce à une « biochimie » hautement discutable, mais efficace. Chez l'utilisateur Never-Drying Drunk, la vodka est traitée par le corps, ce qui entraîne une concentration d'alcool anormalement élevée, après quoi elle est excrétée et collectée dans une bouteille.
+Une arme incendiaire improvisée créée par une « biochimie » hautement douteuse mais efficace. Chez l'utilisateur Never-Drying Drunk, la vodka est traitée par le corps, ce qui entraîne une concentration anormalement élevée d'alcool, après quoi elle est excrétée et recueillie dans une bouteille.
 
-Le liquide résultant est hautement inflammable. Une fois enflammée, la bouteille se transforme en un dispositif incendiaire entièrement fonctionnel, fonctionnant sur le même principe qu'un cocktail Molotov. Lorsqu'il est écrasé contre une surface, il crée une zone de brûlure persistante, endommageant tout le monde dans un rayon.
+Le liquide résultant est très inflammable. Une fois enflammée, la bouteille se transforme en un dispositif incendiaire entièrement fonctionnel, fonctionnant sur le même principe qu'un cocktail Molotov. Lorsqu'elle est écrasée contre une surface, elle crée une zone de combustion persistante, endommageant tout le monde dans un rayon.
 
-L’origine de cette méthode reste discutable, mais son efficacité ne fait aucun doute.
+L'origine de cette méthode reste douteuse, mais son efficacité est incontestable.
 
-NOTES: 
+REMARQUES:
 
-- Lorsqu'il est brisé, il crée une zone de feu semblable à un cocktail Molotov.
-- Plus le matériau source est « fort », plus la brûlure est longue et brillante.
+- Lorsqu'il est écrasé, il crée une zone de feu semblable à un cocktail Molotov.
+- Plus la source est forte, plus la brûlure est longue et brillante.
 - Efficace contre les groupes d'ennemis et pour contrôler les passages étroits.
-- Très utile à courte et moyenne portée.
+- Très utile à proximité et à moyenne distance.
 - Risque élevé d'auto-inflammation en cas d'utilisation négligente.
-- Nécessite une préparation de « munitions », qui peut prendre un temps indéfini.
+- Nécessite une préparation « munitions », qui peut prendre un temps indéfini.

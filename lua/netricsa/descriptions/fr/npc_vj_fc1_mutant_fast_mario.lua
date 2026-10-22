@@ -1,20 +1,20 @@
-PLOMBIER CAVALIER DE L'ARCHIPEL KRIEGER
+JUMPER PLUMBRE DE L'ARCHIPELAGO KRIEGER
 
 
-CLASS: Plombier cavalier
-METABOLISM: Mutant trigène à physiologie adaptée
-PERCEPTION: Ingénieur-saboteur tactique
-SIZE: 5,9 pieds
-ENDURANCE: Haut
-HOSTILITY: Haut
-WEAPONS: Attaques sautées boostées, AG36
-REWARD: 1200FC
-THREAT: Haut
+CLASSE:      Le plombier
+MÉTABOLISME: Mutant trigen avec physiologie adaptée
+PERCEPTION: Moteur-saboteur tactique
+TAILLE:       5,9 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Haut
+ARMES:    Attaques de saut boostées, AG36
+RÉCOMPENSE:     1200 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Une mutation Jumper unique, créée après être tombée accidentellement dans les égouts du laboratoire de Krieger. Au lieu d'une dégradation, le mutagène et les connaissances techniques de l'ancien soldat ont fusionné, créant le Plombier Squeaker. Il porte un uniforme bleu rentré dans son pantalon avec un insigne distinctif « M » sur sa casquette, qui a en quelque sorte survécu à la mutation. Ses membres hypertrophiés sont désormais parfaitement adaptés aux super-sauts hydrauliques, lui permettant de s'élever à des hauteurs énormes et d'atterrir avec un impact dévastateur.
+Une mutation unique de Jumper, créée après une chute accidentelle dans les égouts du laboratoire de Krieger. Au lieu de se dégrader, le mutagène et les connaissances techniques de l'ancien soldat ont fusionné, créant le Squeaker Plumber. Il porte un uniforme bleu cousu dans son pantalon avec un insigne distinctif "M" sur sa casquette, qui a en quelque sorte survécu à la mutation. Ses membres hypertrophiés sont maintenant parfaitement adaptés aux super-jumps hydrauliquement améliorés, lui permettant de monter à des hauteurs énormes et de atterrir avec un impact dévastateur.
 
-TIPS: 
+CONSEILS:
 
-- N'en parlez pas à la Compagnie Japonaise Rouge.
+- Ne dis rien à la Compagnie Japonaise Rouge.

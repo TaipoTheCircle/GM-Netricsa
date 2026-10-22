@@ -1,24 +1,24 @@
-RÉFUGIÉ DE LA RÉSISTANCE
+RÉFUGIÉ DE RÉSISTANCE
 
 
-CLASS: Réfugié de la Résistance
-METABOLISM: Humain
-PERCEPTION: Civil / Survivant déplacé
-SIZE: 5,9 pieds
-ENDURANCE: Faible
-HOSTILITY: Faible
-WEAPONS: Improvisé
-REWARD: 100 FC
-THREAT: Très faible
+CLASSE:      Réfugié résistant
+MÉTABOLISME: Humain
+PERCEPTION: Survivant civil/déplacé
+TAILLE:       5,9 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Faible
+ARMES:    Improvisé
+RÉCOMPENSE:     100 FC
+MENACE:     Très faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les réfugiés sont des civils ordinaires qui ont fui les zones d’occupation de l’Alliance. Non entraînés, ils survivent en cherchant de la nourriture et des médicaments. Beaucoup sont des familles et des personnes âgées obligées de se déplacer dans des villes déchirées par la guerre, sous la menace constante des patrouilles et des synthés de l'Alliance.
+Les réfugiés sont des civils ordinaires qui ont fui les zones d'occupation de l'Alliance. Sans formation, ils survivent en cherchant de la nourriture et des médicaments. Beaucoup sont des familles et des personnes âgées contraintes de naviguer dans des villes déchirées par la guerre sous la menace constante des patrouilles et des synthés de l'Alliance.
 
-Bien qu'ils ne soient pas des combattants, les réfugiés peuvent fournir des informations précieuses sur les mouvements ennemis ou les caractéristiques du terrain. Ils voyagent souvent en groupe pour des raisons de sécurité et peuvent être gardés ou accompagnés par des résistants. Leur moral est fragile et le fait d’être témoin de violences peut les conduire à la panique ou à la désorientation.
+Bien que non combattants, les réfugiés peuvent fournir des informations précieuses sur les mouvements ennemis ou les caractéristiques du terrain. Ils voyagent souvent en groupe pour la sécurité et peuvent être gardés ou accompagnés par des résistants. Leur moral est fragile, et le témoignage de la violence peut conduire à la panique ou à la désorientation.
 
-TIPS: 
+CONSEILS:
 
-- Protéger les réfugiés autant que possible – ils sont vulnérables mais essentiels aux missions.
-- Ils peuvent vous suivre ou suivre les unités de la Résistance, créant une menace temporaire de contrôle des foules pour les ennemis.
-- Les réfugiés transportent parfois de petites fournitures ou connaissent des itinéraires cachés et sûrs.
+- Protéger les réfugiés dans la mesure du possible - ils sont vulnérables mais critiques pour les missions.
+- Ils peuvent vous suivre ou les unités de résistance, créant une menace temporaire de contrôle de foule pour les ennemis.
+- Les réfugiés transportent parfois de petites fournitures ou des connaissances sur des itinéraires cachés et sûrs.

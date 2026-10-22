@@ -1,16 +1,16 @@
-FUSIL DE CHASSE SPAS-12
+ESPAS-12 FEUILLE
 
 
-WEAPON: Fusil de chasse SPAS-12
-AMMO: Coquilles de calibre 12
-ROF: Action de pompe, ~60 coups/min
+ARME:      Feux de chasse SPAS-12
+MUNITIONS:        coques de 12 calibres
+CADENCE DE TIR:         Pompe-action, ~60 rds/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Fusil à courte portée offrant une puissance d'arrêt écrasante. Capable de tirer des obus simples pour plus d'efficacité ou des explosions doubles pour un maximum de dégâts au détriment de la consommation de munitions.
+Fusil à portée étroite offrant une puissance d'arrêt écrasante. Capable de tirer des obus simples pour l'efficacité ou des explosions doubles pour des dommages maximums au coût de la consommation de munitions.
 
-NOTES: 
+REMARQUES:
 
-- Très efficace en combat rapproché.
-- Le mode Double-shot délivre des rafales dévastatrices.
-- Très mauvaise précision à longue portée.
+- Très efficace au combat rapproché.
+- Le mode double-coup offre des éclats dévastateurs.
+- Très peu de précision à long terme.

@@ -1,4 +1,4 @@
-EGYPT, CITY IN THE SAHARA
+EGYPTE, VILLE DANS LA SAHARA
 
 
-Bienvenue en Egypte. Ce n'est pas du genre brochure touristique, c'est la ville enfouie dans le désert, où la moitié des rues sont englouties par les dunes.
+Bienvenue en Egypte. Pas le genre touriste-brochure - c'est la ville enterrée dans le désert, où la moitié des rues sont avalées par les dunes.

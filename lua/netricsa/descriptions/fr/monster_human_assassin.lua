@@ -1,24 +1,24 @@
-ASSASSIN FEMME DES OPS NOIRES
+OPS FÉMIÈRE NOIR ASSASSIN
 
 
-CLASS: Assassin féminin des Black Ops
-METABOLISM: Humain, Femelle
-PERCEPTION: L'assassin furtif des Black Ops
-SIZE: ~ 5,5 pieds de hauteur
-ENDURANCE: moyen
-HOSTILITY: extrême
-WEAPONS: SMG silencieux, grenades, arts martiaux, acrobaties
-REWARD: 1000FC
-THREAT: très élevé
+CLASSE:      Femelle Black Ops Assassin
+MÉTABOLISME: Humain, femme
+PERCEPTION: L'Assassin Voleur des Ops Noirs
+TAILLE:       ~5,5 pieds de haut
+ENDURANCE:  moyenne 
+HOSTILITÉ:  extrême
+ARMES:    sMG, grenades, arts martiaux, acrobaties
+RÉCOMPENSE:     1000 FC
+MENACE:     très élevé 
 
-DESCRIPTION: 
+DESCRIPTION:
 
-L'Assassin Humain est membre de l'unité obscure Black Ops, déployée à Black Mesa après que le H.E.C.U. échoue. Contrairement aux soldats standards, les assassins sont des tueurs d’élite entraînés à la furtivité, au sabotage et à l’élimination silencieuse de cibles. Ils se déplacent à une vitesse terrifiante, utilisant des acrobaties et des sauts sur les murs pour désorienter leurs adversaires.
+L'Assassin humain est membre de l'unité noire d'opérations, déployée à Black Mesa après l'échec de l'unité. Contrairement aux soldats classiques, les assassins sont des tueurs d'élite entraînés à la fureur, au sabotage et à l'élimination silencieuse des cibles. Ils se déplacent avec une vitesse terrifiante, en utilisant des acrobaties et des restes de mur pour désorienter les adversaires.
 
-Dressed in sleek black suits with night-ops gear, they often strike from the shadows and vanish before retaliation. Unlike H.E.C.U. grunts, their mission is even darker: éliminez tout le personnel survivant de Black Mesa et nettoyez les dégâts laissés derrière, même si cela signifie effacer le H.E.C.U. eux-mêmes.
+Habillés de costumes noirs élégants avec un équipement de nuit, ils frappent souvent de l'ombre et disparaissent avant les représailles. Contrairement aux grognements de S.E.C.U., leur mission est encore plus sombre : éliminer tout le personnel de Black Mesa survivant et nettoyer le désordre laissé derrière, même si cela signifie effacer le S.E.C.U. eux-mêmes.
 
-TIPS: 
+CONSEILS:
 
-- Gardez vos oreilles attentives – leurs pas sont faibles mais peuvent les trahir.
-- Regardez toujours vers le haut ; les assassins adorent frapper depuis les murs ou les rebords.
-- Utilisez des explosifs ou des tirs à grande échelle pour contrer leur vitesse et leur agilité.
+- Gardez vos oreilles vives - leurs pas sont faibles mais peuvent les donner.
+- Toujours regarder vers le haut; les assassins aiment frapper des murs ou des rebords.
+- Utilisez des explosifs ou un feu à grande surface pour contrer leur vitesse et leur agilité.

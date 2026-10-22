@@ -1,22 +1,22 @@
 MP 41 SUBMACHINE GUN
 
 
-ARME : Mitraillette MP 41
-MUNITIONS : 9x19mm Parabellum
-ROF : ~500 rounds / min
-POIDS : ~3,9 kg
+ARME: MP 41 Gun sous-machine
+MUNITIONS:   Parabellum 9x19mm
+CADENCE DE TIR:    ~500 tours/min
+POIDS: ~3,9 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-A German submachine gun from World War II, developed by Louis Schmeisser based on the proven MP 40. The main differences were the new wooden stock and a redesigned trigger mechanism. Unlike the MP 40, the MP 41 is capable of both single-shot and automatic fire.
+Une mitrailleuse allemande de la Seconde Guerre mondiale, développée par Louis Schmeisser sur la base du MP 40 éprouvé. Les principales différences étaient le nouveau stock de bois et un mécanisme de déclenchement remanié. Contrairement au MP 40, le MP 41 est capable d'un seul tir et d'un feu automatique.
 
-L'arme utilise une action de retour de flamme et tire à partir d'un verrou ouvert. Le sélecteur de mode est situé directement au-dessus de la gâchette. Il est alimenté par un chargeur de 32 cartouches.
+L'arme utilise une action de rappel et tire d'un boulon ouvert. Le sélecteur de mode est situé directement au-dessus du déclencheur. Il est alimenté par un magazine de 32 tours.
 
-The MP 41 received a wooden stock instead of the folding metal stock of the MP 40, making the weapon more reminiscent of a traditional rifle. The flip-up rear sight is designed for ranges of 100 and 200 meters. Serial production was carried out by C.G. Haenel, but production soon ceased after a lawsuit with Erma, the manufacturer of the MP 40. A total of approximately 26,000 units were manufactured, primarily for the Waffen-SS and police.
+Le MP 41 a reçu un stock de bois au lieu du stock de métal pliant du MP 40, ce qui rend l'arme plus rappelant un fusil traditionnel. La vue arrière est conçue pour des gammes de 100 et 200 mètres. La production en série a été réalisée par C.G. Haenel, mais la production a bientôt cessé après un procès avec Erma, le fabricant du MP 40. Au total, environ 26 000 unités ont été fabriquées, principalement pour le Waffen-SS et la police.
 
-REMARQUES :
+REMARQUES:
 
-- Not to be confused with the MP 41 (R).
-- Well suited for close and medium ranges, and single-shot fire allows for more accurate shooting.
-- A rate of approximately 500 rounds per minute makes automatic fire quite controllable compared to faster-firing submachine guns.
-- The wooden stock gives the MP 41 the appearance of a small rifle and makes it noticeably different from the MP 40.
+- Ne pas confondre avec le MP 41 (R).
+- Bien adapté pour les gammes proches et moyennes, et le feu à simple tir permet une prise de vue plus précise.
+- Un taux d'environ 500 tours par minute rend le feu automatique assez contrôlable par rapport aux mitrailleuses à allumage rapide.
+- Le stock en bois donne au MP 41 l'apparence d'un petit fusil et le rend remarquablement différent du MP 40.

@@ -1,27 +1,27 @@
-KOLYVAN, A MERCHANT-SCHEMESTER FROM ANCIENT KIEVAN RUS
+KOLYVAN, CHEMESTRE MERCHANT DE L'ANCIEN KIEVAN RUS
 
 
-CLASS:      Kolyvan, A Merchant-Schemer
-MÉTABOLISME : humain, masculin
-PERCEPTION: Merchant, Adventurer, Agent Of Mental
-SIZE:       10 ft 
-ENDURANCE:  Low
-HOSTILITY:  Average
-WEAPONS:    Cunning, Summon Werebulls, Rocket Launchers
-REWARD:     2200 FC
-THREAT:     Average
+CLASSE:      Kolyvan, un marchand-shemer
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Marchand, Aventurier, Agent de Mental
+TAILLE:       10 pieds 
+ENDURANCE:  Faible
+HOSTILITÉ:  Moyenne
+ARMES:    Cunning, Invocation de Werebulls, Lanceurs de Rocket
+RÉCOMPENSE:     2200 FC
+MENACE:     Moyenne
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Kolyvan is a noble and wealthy merchant from the times of Kievan Rus, a man who managed to lose literally everything, including himself. In yet another gambling gamble, he put his own freedom on the line-and, of course, lost. His opponent was Mental. Thus, Kolyvan became part of Mental's Horde, the first merchant in history to sell his soul directly.
+Kolyvan est un marchand noble et riche de l'époque de Kievan Rus, un homme qui a réussi à perdre littéralement tout, y compris lui-même. Dans un autre jeu de hasard, il a mis sa propre liberté sur la ligne- et, bien sûr, perdu. Son adversaire était Mental. Ainsi, Kolyvan est devenu partie de la Horde de Mental, le premier marchand de l'histoire à vendre son âme directement.
 
-While retaining his outward appearance-his height, plumpness, long-sleeved green robes, red boots, and cap-Kolyvan's inner being changed little. Greed, cunning, and cowardice remained, but now reinforced by an alien power. As a reward for his service, Mental endowed him with rocket launchers and the ability to summon two Sirian werebulls. This ability is activated strictly by a voice command, pronounced with particular pathos:
+Tout en conservant son apparence extérieure, sa hauteur, sa plomberie, ses robes vertes à manches longues, ses bottes rouges et l'intérieur du cap-Kolyvan ont peu changé. L'avidité, la ruse et la lâcheté sont restées, mais maintenant renforcées par une puissance étrangère. Comme récompense pour son service, Mental lui a donné des lance-roquettes et la capacité d'appeler deux siriens ont étébulles. Cette capacité est activée strictement par une commande vocale, prononcée avec des pathos particuliers :
 
-"And now, Hunchback!"
+-- Et maintenant, Hunchback
 
 Mental promised Kolyvan a generous reward: for his assistance in eliminating Sam Stone, Mental would assist in the massacre of the other heroes. This prospect warms Kolyvan's merchant heart more than gold, for he values ​​personal scores almost as highly as profit.
 
 ADVICE:
 
-- Heard the phrase about Hunchback? Get ready for the bulls.
-- Avenge everyone who owed him 40 thousand.
+- Vous avez entendu parler de Hunchback ? Préparez-vous pour les taureaux.
+- Venge tous ceux qui lui devaient 40 000.

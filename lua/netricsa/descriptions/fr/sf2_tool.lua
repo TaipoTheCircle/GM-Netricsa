@@ -1,21 +1,21 @@
-OUTIL STORMFOX 2
+OUTILS STORMFOX 2
 
 
-WEAPON: Outil StormFox 2
-AMMO: Énergie environnementale / Météo et impulsions lumineuses
-ROF: ~2 à 4 actions par seconde
+ARME: Outil StormFox 2
+MUNITIONS:   Énergie environnementale / Météo et Pulses légères
+CADENCE DE TIR:    ~2-4 actions par seconde
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un dispositif spécialisé de contrôle de l’environnement qui vous permet de modifier les conditions météorologiques et d’éclairage dans une zone donnée.
+Un dispositif de contrôle environnemental spécialisé qui vous permet de modifier les conditions météorologiques et d'éclairage dans une zone donnée.
 
-Le premier mode est un éditeur de surface. Lors de chutes de neige, l'utilisateur peut spécifier les zones où la neige apparaîtra ou disparaîtra complètement. Cela permet de déblayer la neige ou, à l'inverse, de laisser l'ennemi découvert.
+Le premier mode est un éditeur de surface. Pendant les chutes de neige, l'utilisateur peut spécifier des zones où la neige apparaîtra ou disparaîtra complètement. Cela vous permet de dégager de la neige ou, inversement, de laisser l'ennemi tranquille.
 
-Le deuxième mode est un éditeur léger. L'appareil vous permet de placer des sources lumineuses et d'activer des lampes dans une zone sélectionnée, modifiant instantanément la visibilité sur le champ de bataille.
+Le second mode est un éditeur de lumière. L'appareil vous permet de placer des sources lumineuses et d'activer des lampes dans une zone sélectionnée, changeant instantanément la visibilité sur le champ de bataille.
 
-NOTES: 
+REMARQUES:
 
-- Controls the presence of snow: ajoute ou supprime une couverture (uniquement en cas de chute de neige).
+- Contrôle la présence de neige : ajoute ou retire le couvert (seulement pendant la chute de neige).
 - Permet de placer des sources lumineuses et d'activer l'éclairage.
-- Efficace pour le contrôle du territoire et l'avantage tactique.
-- Enlever la neige prive les ennemis camouflés de couverture neigeuse, tandis que l'ajout de neige, au contraire, masque leurs positions.
+- Efficacité pour le contrôle du territoire et l'avantage tactique.
+- L'élimination de la neige prive les ennemis camouflés de la couverture de neige, tout en ajoutant de la neige, au contraire, cache leurs positions.

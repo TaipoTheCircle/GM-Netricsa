@@ -1,28 +1,28 @@
-COMBINER OVERWATCH ELITE GÉNÉRAL
+ELITE DE SURVEILLANCE DE LA COMBINE GÉNÉRALE
 
 
-CLASS: Combiner Overwatch Elite Général
-METABOLISM: Humain augmenté, mâle
-PERCEPTION: Combiner le haut commandement
-SIZE: 5,9 pieds
-ENDURANCE: Très élevé
-HOSTILITY: Extrême
-WEAPONS: Fusil à impulsion AR2
-REWARD: 5000FC
-THREAT: Extrême
+CLASSE:      Combiner Overwatch Elite Général
+MÉTABOLISME: Augmenté Humain, Homme
+PERCEPTION: Combiner la commande haute
+TAILLE:       5,9 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Extrême
+ARMES:    Rifle d'impulsion AR2
+RÉCOMPENSE:     5000 FC
+MENACE:     Extrême
 
-DESCRIPTION: 
+DESCRIPTION:
 
-The Overwatch Elite General is the Combine's highest field commander, combining tactical intelligence, combat experience, and full body augmentation. His appearance is deliberately intimidating and subservient: un béret noir sur un casque tactique avec une seule visière blanche brillante crée un sentiment d'observation froide et inhumaine.
+Le général Overwatch Elite est le plus haut commandant sur le terrain du Combine, alliant renseignement tactique, expérience de combat et augmentation totale du corps. Son aspect est délibérément intimidant et subservent : un béret noir sur un casque tactique avec une visière blanche éclatante crée un sentiment d'observation froide et inhumaine.
 
-Il porte une veste de camouflage avec des motifs noirs et verts et une longue cape sombre avec des bordures dorées, symbole de rang et d'autorité absolue sur ses troupes. La cape cache également une armure supplémentaire et un équipement de commandement.
+Il porte une veste de camouflage avec des motifs noirs et verts et une longue cape sombre avec des garnitures d'or-un symbole de rang et d'autorité absolue sur ses troupes. Le cap cache également des armures et des équipements de commandement supplémentaires.
 
-Au combat, le Général ne se limite pas au commandement. Il participe activement aux affrontements, utilisant un AR2 aux modes de tir modifiés et à la stabilisation améliorée. Ses implants lui permettent de traiter les données tactiques en temps réel et d'ajuster les actions de ses escouades.
+Au combat, le général ne se limite pas au commandement. Il participe activement aux affrontements en utilisant un AR2 avec des modes de tir modifiés et une stabilisation améliorée. Ses implants lui permettent de traiter les données tactiques en temps réel et d'ajuster les actions de ses équipes.
 
-La présence du général sur le champ de bataille augmente considérablement l'efficacité de toutes les unités d'Overwatch. Les soldats autour de lui agissent plus rapidement, avec plus de précision et de manière plus agressive, comme s'ils obéissaient non pas aux ordres, mais à l'algorithme de guerre lui-même.
+La présence du général sur le champ de bataille augmente considérablement l'efficacité de toutes les unités Overwatch. Les soldats qui l'entourent agissent plus rapidement, plus précisément et plus agressivement, comme s'ils obéissaient non aux ordres, mais à l'algorithme de la guerre elle-même.
 
-TIPS: 
+CONSEILS:
 
-- Il est rarement sans surveillance, à l'exception des unités et véhicules d'élite.
-- Les armes de combat à longue portée et les armes de tireur d'élite offrent les meilleures chances d'infliger des dégâts critiques.
-- Si le général s'engage personnellement dans la bataille, la situation échappe déjà au contrôle de la résistance.
+- Il est rarement des unités et des véhicules d'élite.
+- Les armes de combat et de sniper à longue portée offrent la meilleure chance d'infliger des dommages critiques.
+- Si le général s'engage personnellement dans la bataille, la situation est déjà sortie du contrôle de la résistance.

@@ -1,19 +1,19 @@
-BERETTA PX4 STORM PISTOL
+PISTOLE DE BÉRETTA PX4
 
 
-ARME : Pistolet tempête Beretta Px4
-MUNITIONS : 9x19mm Parabellum
-ROF : ~40 tours/min
-POIDS : ~0,785kg
+ARME: Beretta Px4 Pistolet de tempête
+MUNITIONS:   Parabellum 9x19mm
+CADENCE DE TIR:    ~40 tours/min
+POIDS: ~0,785 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Ce pistolet semi-automatique italien moderne, développé par Beretta et produit depuis 2004, est conçu pour l'autodéfense, la police et d'autres applications d'application de la loi. Il utilise une action de recul court et un système de verrouillage du canon rotatif unique.
+Ce pistolet semi-automatique italien moderne, développé par Beretta et produit depuis 2004, est conçu pour l'autodéfense, la police et d'autres applications policières. Il utilise une action de court-recoil et un système de verrouillage rotatif unique.
 
-Le Px4 Storm est doté d'un cadre en polymère avec des inserts en acier, des poignées interchangeables et un rail Picatinny sous le canon. La version 9 mm utilise des chargeurs de 10, 14, 17 ou 20 coups. Sa poignée ergonomique et son faible recul le rendent idéal pour un tir rapide et précis.
+Le Px4 Storm dispose d'un cadre en polymère avec des inserts en acier, des poignées interchangeables et un rail Picatinny sous le baril. La version 9mm utilise 10, 14, 17 ou 20 magazines. Sa poignée ergonomique et son faible recul le rendent idéal pour une prise de vue rapide et précise.
 
-REMARQUES :
+REMARQUES:
 
-- Un Beretta moderne qui semble complètement différent du familier M9.
-- Le canon tourne pendant le rechargement, pas seulement en arrière.
-- Un faible recul et une prise en main confortable permettent de ramener rapidement l'arme sur la ligne de visée.
+- Une Beretta moderne qui semble complètement différente du M9 familier.
+- Le tonneau tourne pendant le rechargement, pas seulement en arrière.
+- Faible recul et une prise confortable aident à ramener rapidement l'arme à la ligne de visée.

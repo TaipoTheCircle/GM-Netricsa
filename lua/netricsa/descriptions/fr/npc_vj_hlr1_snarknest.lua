@@ -1,20 +1,20 @@
-NID DE SNARK DE XEN
+NEST NARK DE XEN
 
 
-CLASS: Nid de snark
-METABOLISM: prédateur parasite
-PERCEPTION: Insecte extraterrestre
-SIZE: 3 pieds
-ENDURANCE: moyen
-HOSTILITY: haut
-WEAPONS: morsure, coup de griffe, mort explosive
-REWARD: 500FC
-THREAT: haut
+CLASSE:      Nid Snark
+MÉTABOLISME: prédateur parasitaire
+PERCEPTION: Insecte étranger
+TAILLE:       3 pieds
+ENDURANCE:  moyenne
+HOSTILITÉ:  élevé
+ARMES:    morsure, griffe, mort explosive
+RÉCOMPENSE:     500 FC
+MENACE:     élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Snark Nest est le stade complètement mature du snark Xen commun. Contrairement à sa petite progéniture hyperactive, l’adulte se déplace lentement sur quatre pattes semblables à celles d’un insecte, traînant son corps lourd sur le sol. Sa peau prend une teinte verte maladive, tandis que son dos se gonfle de grappes d'œufs rouges brillants - la prochaine génération de snarks attendant d'éclore. À la mort, les œufs sur son dos peuvent se rompre, libérant de nouvelles larves de snark.
+Snark Le nid est l'étape complètement mature du snark commun de Xen. Contrairement à sa petite progéniture hyperactive, l'adulte se déplace lentement sur quatre pattes semblables à des insectes, traînant son corps lourd à travers le sol. Sa peau prend un ton vert malade, tandis que son dos gonfle avec des grappes d'oeufs rouges brillants - la prochaine génération de pièges attendant d'éclore. À la mort, les œufs sur le dos peuvent se rompre, libérant de nouvelles larves de snark
 
-TIPS: 
+CONSEILS:
 
-- Les œufs sur son dos permettent de le repérer plus facilement, mais ne sous-estimez pas le danger.
+- Les œufs sur le dos facilitent la détection, mais ne sous-estimez pas le danger.

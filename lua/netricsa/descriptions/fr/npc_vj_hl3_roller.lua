@@ -1,25 +1,25 @@
-COMBINEZ LA MINE À ROULEAU CACHÉE
+MINE DE COMMANDE DE ROLLER HIDDEN
 
 
-CLASS: Combiner la mine à rouleaux cachée
-METABOLISM: Moteur synthétique avec masquage de phase
-PERCEPTION: Mine d'intercepteur cachée autonome
-SIZE: 1 pied
-ENDURANCE: Moyenne
-HOSTILITY: Extrêmement élevé
-WEAPONS: Détonateur de saut avec explosion directionnelle
-REWARD: 500FC
-THREAT: Haut
+CLASSE:      Mélanger la mine de rouleaux cachés
+MÉTABOLISME: Moteur synthétique avec revêtement en phase
+PERCEPTION: Mine autonome d'intercepteur caché
+TAILLE:       1 pi
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Extrêmement élevé
+ARMES:    Détonateur de saut avec explosion directionnelle
+RÉCOMPENSE:     500 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-La Hidden Roller Mine est une version avancée de la Combine Roller Mine standard, conçue pour les embuscades et l'élimination instantanée des cibles. Lorsqu'il est actif, il est complètement invisible, grâce au masquage de phase et à la suppression des reflets, ce qui le rend visuellement indétectable.
+La mine Hidden Roller est une version avancée de la norme Combine Roller Mine, conçue pour l'embuscade et l'élimination instantanée des cibles. Lorsqu'il est actif, il est totalement invisible, en utilisant la suppression de phase et de réflexion, ce qui le rend indétectable visuellement.
 
-Lorsqu'un mouvement est détecté dans la zone de destruction, la mine fait un bond brusque vers la cible et explose dans les airs, ne laissant pas le temps de réagir ou de battre en retraite.
+Lorsque des mouvements sont détectés dans la zone d'abattage, la mine fait un bond en avant vers la cible et détone en plein air, ne laissant aucun temps de réaction ou de recul.
 
-Une caractéristique de conception distinctive est l’isolation complète de ses systèmes internes. L'eau, l'humidité et même une immersion complète n'ont aucun effet sur sa fonctionnalité. Cela permet de placer des mines à rouleaux dissimulées dans des zones inondées, sous la neige, dans la glace et dans des zones marécageuses.
+Une caractéristique distinctive du design est l'isolement complet de ses systèmes internes. L'eau, l'humidité et même l'immersion complète n'ont aucun effet sur sa fonctionnalité. Cela permet de placer des Roller Mines cachées dans des zones inondées, sous la neige, dans la glace et dans des zones marécageuses.
 
-TIPS: 
+CONSEILS:
 
-- La couverture est inefficace - la détonation se produit lors d'un saut, au-dessus du niveau du sol.
-BARNIEL, GARDE DE SÉCURITÉ FEMME BLACK MESA
+- La couverture est inefficace - la détonation se produit lors d'un saut au-dessus du sol.
+- Il faut 3-4 missiles Inferno pour désamorcer la mine.

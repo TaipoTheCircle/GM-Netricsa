@@ -1,21 +1,21 @@
-ARBALÈTE LOURDE DE SURVIE
+SURVEILLANCE LOURDITE
 
 
-WEAPON: Arbalète de survie lourde
-AMMO: Carreaux d'arbalète
-ROF: ~0,7 coups par seconde
+ARME: Grosse surface de survie
+MUNITIONS:   Acrobaties
+CADENCE DE TIR:    ~0,7 coups par seconde
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Une version renforcée de l'arbalète, conçue pour infliger un maximum de dégâts par tir. La conception est nettement plus lourde et renforcée, permettant aux boulons de tirer avec une force destructrice supérieure aux modèles standard et améliorés.
+Une version renforcée de l'arborescence, conçue pour infliger un maximum de dommages par tir. La conception est significativement plus lourde et renforcée, permettant aux boulons de tirer avec une force destructrice supérieure aux modèles standard et améliorés.
 
-Cette arme est efficace contre les adversaires légèrement blindés et de durabilité moyenne, leur permettant d'être rapidement neutralisés avec de puissants tirs simples. Avec les compétences appropriées, il peut utiliser des éclairs empoisonnés, infligeant des dégâts supplémentaires au fil du temps.
+Cette arme est efficace contre les adversaires légèrement blindés et moyenne-durabilité, leur permettant d'être rapidement neutralisés avec de puissants tirs simples. Avec les compétences appropriées, il peut utiliser des boulons empoisonnés, infligeant des dommages supplémentaires au fil du temps.
 
-NOTES: 
+REMARQUES:
 
-- Dégâts élevés.
-- Peut infliger des dégâts de poison supplémentaires lors de l'utilisation de boulons empoisonnés.
-- La lenteur de tir est compensée par sa puissance.
-- Efficace à portée proche et moyenne.
-- N'a pas de pénétration d'armure, ce qui réduit son efficacité contre les armures lourdes.
-- Utilise des boulons standards, qui peuvent être fabriqués à partir de matériaux de récupération.
+- De grands dégâts.
+- Peut causer d'autres dommages au poison en utilisant des boulons empoisonnés.
+- La vitesse lente du feu est compensée par sa puissance.
+- Efficace à proximité de gammes moyennes.
+- N'a pas de pénétration d'armure, réduisant son efficacité contre l'armure lourde.
+- Utilise des boulons standard, qui peuvent être fabriqués à partir de déchets.

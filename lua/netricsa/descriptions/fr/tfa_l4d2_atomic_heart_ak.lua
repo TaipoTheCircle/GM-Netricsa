@@ -1,16 +1,16 @@
-KALASH ASSAULT RIFLE
+KALASSH ASSAULT RIFLE
 
 
-ARME : Kalash Assault Rifle
-CARBON: 7.62x39mm
-ROF : ~600 rounds/min.
+ARME: Fusil d'assaut Kalash
+CARBON: 7,62x39mm
+CADENCE DE TIR:    ~600 tours/min.
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Un fusil d'assaut soviétique basé sur le fusil d'assaut Kalachnikov. Une arme automatique puissante et fiable chambrée pour la cartouche 7,62x39 mm. Sa puissance élevée et sa bonne cadence de tir rendent le Kalash particulièrement efficace à courte et moyenne portée.
+Un fusil d'assaut soviétique basé sur le fusil Kalachnikov. Une arme automatique puissante et fiable en chambre pour la cartouche de 7,62x39mm. Sa puissance élevée et sa bonne vitesse de feu rendent le Kalash particulièrement efficace à des gammes proches et moyennes.
 
-REMARQUES :
+REMARQUES:
 
-- Well suited for close and medium range combat.
-- A powerful cartridge allows for serious damage to enemies.
-- Its robust design makes it a versatile weapon.
+- Bien adapté pour le combat à portée étroite et moyenne.
+- Une cartouche puissante permet des dommages graves aux ennemis.
+- Sa conception robuste en fait une arme polyvalente.

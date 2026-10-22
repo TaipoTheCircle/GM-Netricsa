@@ -1,16 +1,16 @@
-MESA NOIRE, INTERCEPTION GARGANTUA
+MESA BLACK, INTERCEPTION DE GARGANTUA
 
 
-Sam, the situation escalated-fast. The collapse dropped you deeper into the facility, right into a railway sector designed for heavy cargo. Unfortunately, this area has become a playground for something far less logistical: MESA NOIR, FERROVIAIRE DE FRET
+Sam, la situation s'est accélérée. L'effondrement vous a plongé plus profondément dans l'installation, dans un secteur ferroviaire conçu pour les marchandises lourdes. Malheureusement, cette zone est devenue un terrain de jeu pour quelque chose de beaucoup moins logistique: un bio-béhème de classe Gargantua.
 
-Ce monstre n'est pas simplement une autre brute extraterrestre, c'est un prédateur suprême conçu pour la guerre. Ses griffes déchirent l'acier comme du papier et ses arcs d'énergie peuvent incinérer des escouades en quelques secondes. Tenter de le combattre avec des armes standards serait un suicide.
+Ce monstre n'est pas juste une autre brute extraterrestre, c'est un prédateur au sommet conçu pour la guerre. Ses griffes déchirent l'acier comme du papier, et ses arcs d'énergie peuvent incinérer les équipes en quelques secondes. Essayer de le combattre avec des armes standard serait un suicide.
 
-Complications: 
+Complications:
 
-Le train de marchandises ici est le seul moyen de transport viable vers les secteurs suivants. Sans cela, vous êtes coincé.
+Le train de marchandises est ici le seul transport viable vers les secteurs suivants. Sans ça, tu es coincé.
 
-Cependant, l’électricité est hors ligne. Le système ferroviaire ne peut pas fonctionner tant que l’électricité n’est pas rétablie ailleurs.
+Cependant, la puissance est hors ligne. Le système ferroviaire ne peut fonctionner que si vous rétablissez l'électricité ailleurs.
 
-Pour rendre les choses plus étranges, des capteurs ont une fois de plus détecté la présence de l'homme mystérieux en costume d'affaires, observant tranquillement depuis l'ombre de la plate-forme.
+Pour rendre les choses étranges, les capteurs ont de nouveau saisi la présence de l'homme mystérieux dans un costume d'affaires, observant tranquillement les ombres de la plateforme.
 
-Recommendation: éviter la confrontation directe. Le Gargantua soit détruit avec votre arsenal explosif actuel. Concentrez-vous sur le rétablissement du courant sur le rail de chargement, puis utilisez le train pour vous échapper.
+Recommendation: éviter la confrontation directe. Les Gargantua seront détruits avec votre arsenal explosif actuel. Concentrez-vous sur le rétablissement de la puissance du train de marchandises, puis utilisez le train pour s'échapper. 

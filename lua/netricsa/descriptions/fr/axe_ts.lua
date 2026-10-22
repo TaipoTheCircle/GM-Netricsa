@@ -1,16 +1,16 @@
-HACHE À INCENDIE
+AXE DE FEU
 
 
-WEAPON: Hache de feu
-AMMO:   Aucun (mêlée)
-ROF:    ~60 coups/min
+ARME: Axe de feu
+MUNITIONS:   Aucune
+CADENCE DE TIR:    ~60 hits/min
 
 DESCRIPTION:
 
-La Fire Axe est une arme de mêlée rudimentaire mais fiable. Son tranchant de lame tranchant et son dos massif permettent de puissants coups tranchants, brisant la chair et détruisant les barrières en bois. Facile à utiliser et efficace lorsqu'il est associé à des mouvements rapides ou à des embuscades : une ou deux frappes précises peuvent neutraliser des adversaires plus faibles ou endommager sérieusement des ennemis plus gros. Fait amusant : dans la première partie de "The Suffering", une hache à incendie repose à côté d'un cadavre en décomposition au milieu du labyrinthe de haies de l'asile. Il s'agit d'une référence au livre et au film de Stephen King "The Shining".
+La hache de feu est une arme brute mais fiable. Son bord tranchant de lame et son dos massif permettent des coups puissants, brisant la chair et détruisant les barrières en bois. Facile à utiliser et efficace lorsqu'il est associé à des mouvements rapides ou des embuscades : une ou deux frappes précises peuvent neutraliser des adversaires plus faibles ou endommager gravement des ennemis plus grands. Fait amusant: Dans la première partie de "La souffrance", une hache de feu se trouve à côté d'un cadavre en décomposition au milieu du labyrinthe de haie dans l'asile. C'est une référence au livre et au film d'Étienne King "The Shining"
 
-NOTES:
+REMARQUES:
 
-- Dégâts élevés sur les coups directs ; bon pour briser des groupes denses d’ennemis à courte portée.
+- Les dommages élevés sur les coups directs; bon pour briser des groupes denses d'ennemis à portée de main.
 - Peut détruire des objets en bois et une certaine couverture dans l'environnement.
-- Mécanique simple - faible difficulté à utiliser, mais nécessite un combat rapproché.
+- Mécanique simple - faible difficulté à utiliser, mais nécessite un combat serré.

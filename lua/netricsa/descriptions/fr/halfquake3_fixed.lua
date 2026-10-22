@@ -1,16 +1,16 @@
-SPECTACLE DEMI-SÉISMENTATION, BOUTONS
+POÊLE À CHAPEAUX, BOUTONS
 
 
-Nous sommes dans une pièce, Sam. Encore une pièce. Très bientôt, elle commencera à tourner et cessera de se faire passer pour une architecture. Les murs vont bouger, le sol va se tordre et tout autour se transformera en un désordre soigneusement mélangé de métal, de chair et de solutions de conception du spectacle.
+On est dans une chambre, Sam. Toujours une chambre. Très bientôt, il va commencer à tourner et arrêter de prétendre être l'architecture. Les murs vont se déplacer, le plancher va se tordre, et tout autour se transformera en un gâchis soigneusement mélangé de métal, chair, et les solutions de conception du spectacle.
 
-Deux crabes sont assis derrière un mur. Patiemment. Comme s'ils savaient qu'ils étaient censés jouer un petit rôle de soutien. Des grenades et des snarks se trouvent derrière eux. Un joli bonus pour ceux qui ont l’habitude de tester l’honnêteté des murs. Lorsqu'ils l'ont créé, les organisateurs l'ont appelé « opportunité ». J'appelle cela une erreur de calcul.
+Deux têtes de lit derrière un mur. Patiemment. Comme s'ils savaient qu'ils étaient censés jouer un petit rôle de soutien. Des grenades et des pièges sont derrière eux. Un bon bonus pour ceux qui testaient les murs pour l'honnêteté. Quand ils l'ont créé, les organisateurs l'ont appelé « opportunité ». J'appelle ça une erreur de calcul.
 
-Ahead is a tunnel leading to the next rooms. Everything here is built on the principle of "there and back." The buttons are arranged so that you're constantly running: appuyez sur un, revenez en arrière. Appuyez sur la seconde, revenez à nouveau. Et ainsi de suite jusqu’à ce que le système admette enfin que vous avez suffisamment souffert pour ouvrir la porte.
+Ahead est un tunnel menant aux prochaines pièces. Tout ici est construit sur le principe de "là et derrière". Les boutons sont disposés de manière à ce que vous couriez constamment: appuyez sur un, retournez. Appuyez sur la seconde, revenez. Et ça va jusqu'à ce que le système admette que vous avez assez souffert pour ouvrir la porte.
 
-Et oui. Tout au bout, derrière un tuyau, se cache un bouton secret. Petit. Discret. Pour ceux qui y prêtent un peu plus attention que prévu. La série n'aime pas que de telles choses soient découvertes, mais elle n'ose pas non plus les supprimer. L’illusion du fair-play doit être entretenue.
+Et oui. Au bout, derrière une pipe, il y a un bouton secret caché. Petite. C'est discret. Pour ceux qui font un peu plus attention que prévu. Le spectacle n'aime pas quand de telles choses sont trouvées, mais il n'ose pas les enlever non plus. L'illusion du fair-play doit être maintenue.
 
 Alors cours, Sam.
 
-Presse. Retour. Dépêchez-vous.
+Appuyez. Retour. Vite.
 
-Et essayez de ne pas faire partie du décor pendant que la scène tourne.
+Et essayez de ne pas faire partie du paysage pendant que la scène tourne.

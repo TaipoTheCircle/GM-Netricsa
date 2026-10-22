@@ -1,28 +1,28 @@
-ZOMBIE À GROSSE TÊTE, IVAN MIKA
+GRANDE ZOMBIE, IVAN MIKA
 
 
-CLASS: Zombie à grosse tête, Ivan Mika
-METABOLISM: Humanoïde, mâle
+CLASSE:      Grande tête Zombie, Ivan Mika
+MÉTABOLISME: Humanoïde, Homme
 PERCEPTION: Fanatique enthousiaste
-SIZE: 5,9 pieds
-ENDURANCE: Faible
-HOSTILITY: Neutre
-WEAPONS: Aucun (sauf en difficulté I Am Ugh-Zan)
-REWARD: 100 FC
-THREAT: Ennui
+TAILLE:       5,9 pieds
+ENDURANCE:    Faible
+HOSTILITÉ:  Neutre
+ARMES:    Aucune (sauf sur I Am Ugh-Zan difficulté)
+RÉCOMPENSE:     100 FC
+MENACE:     Annoyance
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les Big-Heads sont de minces humanoïdes aux crânes exagérés contenant le cerveau des développeurs de Croteam. Ils portent l'uniforme de Serious Sam, mais ont les traits du visage uniques de l'équipe de développement. Ils affichent un enthousiasme obsessionnel et vous poursuivent aux cris de « Bonjour ! » et "Hé, attends!" Ils sont totalement inoffensifs, mais au niveau de difficulté "Je suis Ugh-Zan", ils gagnent des modificateurs de feu et de glace. Ils apparaissent spontanément dans les zones secrètes, bloquant les passages par leur grand nombre.
+Les grandes têtes sont de minces humanoïdes avec des crânes exagérés contenant les cerveaux des développeurs de Croteam. Ils portent l'uniforme de Serious Sam, mais ont les caractéristiques faciales uniques de l'équipe de développement. Ils montrent un enthousiasme obsessionnel, vous poursuivant avec des cris de "Bonjour!" et "Hé, attendez!" Ils sont totalement inoffensifs, mais sur le niveau de difficulté "I Am Ugh-Zan" ils gagnent feu et des modificateurs de glace. Ils apparaissent spontanément dans les zones secrètes, bloquant les passages avec leur nombre.
 
-Ivan Mika is a legendary level designer whose very first contribution to Serious Sam: La Deuxième Rencontre (TSE) est entrée dans l’histoire et hante encore les joueurs aujourd’hui. Son crâne exagéré est le résultat direct de l'étendue monumentale de son imagination : inspiré par Teotihuacan, il a créé un lieu aux proportions si épiques qu'il a dû être divisé en trois niveaux complets, représentant un quart du total du jeu. C'est lui qui a donné au monde les expériences emblématiques (et détestées) avec les rampes et la gravité, qui sont devenues à la fois une signature et un test d'endurance pour des générations de fans.
+Ivan Mika is a legendary level designer whose very first contribution to Serious Sam: La deuxième rencontre (TSE) a fait l'histoire et hante encore les joueurs à ce jour. Son crâne exagéré est un résultat direct de la portée monumentale de son imagination: inspiré par Teotihuacan, il a créé un emplacement de proportions si épiques qu'il a dû être divisé en trois niveaux complets, comprenant un quart du total du jeu. C'est lui qui a donné au monde les expériences emblématiques (et détestées) avec des rampes et de la gravité, qui sont devenues à la fois une signature et un test d'endurance pour des générations de fans.
 
-Mais Ivan n'est pas seulement un artiste, mais aussi un brillant optimiseur autodidacte. Au plus fort du développement de TSE, alors que le nouveau système de particules tuait les performances, il a à lui seul doublé la fréquence d'images en trouvant et en supprimant une seule et malheureuse ligne de code qui provoquait un double rendu de la scène entière. Ayant travaillé chez Croteam pendant plus de 15 ans et devenu concepteur principal, il est devenu la force « incurable » du studio : un créateur infatigable dont les niveaux font toujours admirer et maudire son génie dans le même souffle.
+Mais Ivan n'est pas seulement un artiste, mais aussi un brillant autodidacte. Au plus fort du développement de TSE, lorsque le nouveau système de particules tuait les performances, il double à lui seul la vitesse de l'image en trouvant et en enlevant une seule ligne de code mal nourrie qui faisait que la scène entière était rendue deux fois. Ayant travaillé à Croteam pendant plus de 15 ans et étant devenu le concepteur principal, il est devenu la force « incurable » du studio.
 
-Il était autrefois vivant, mais après que quelqu'un l'ait tué, il est ressuscité d'entre les morts, devenant un zombie démoniaque.
+Il était vivant, mais après que quelqu'un l'ait tué, il est sorti d'un Zombie démoniaque.
 
-TIPS: 
+CONSEILS:
 
 - Utilisez un couteau de combat ou un pistolet pour dégager les chemins.
-- En difficulté "I Am Ugh-Zan", détruisez-les à distance grâce à leurs modificateurs.
-- Une masse à frappe horizontale est efficace en groupe.
+- Sur la difficulté "Je suis Ugh-Zan", les détruire à distance en raison de leurs modificateurs.
+- Un lugehammer avec une frappe horizontale est efficace dans un groupe.

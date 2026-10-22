@@ -1,28 +1,28 @@
-RANGER ESSAMIN
+RANGER SWARM
 
 
-CLASSE : Swarm Ranger
-MÉTABOLISME : Xénobiologique
-PERCEPTION : Prédateur à distance
-TAILLE : 6,8 pieds
-ENDURANCE : Moyenne
-HOSTILITÉ : Élevée
-ARMES : Blobs d'acide
-RÉCOMPENSE : 350 FC
-MENACE : Élevée
+CLASSE:        Ranger Swarm
+MÉTABOLISME:   Xénobiologique
+PERCEPTION:   Prédateur rangé
+TAILLE:         6,8 pieds
+ENDURANCE:    Moyenne
+HOSTILITÉ:    Haut
+ARMES:      Blocs acides
+RÉCOMPENSE:       350 FC
+MENACE:       Haut
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Les Rangers occupent le créneau de l'artillerie vivante à courte portée au sein de la hiérarchie Swarm. Contrairement aux drones, qui préfèrent déchirer leurs proies avec leurs propres griffes, ces créatures ont appris à faire face aux menaces à distance.
+Les Rangers occupent la niche de l'artillerie vivante à courte portée dans la hiérarchie du Swarm. Contrairement aux drones, qui préfèrent déchirer leurs proies avec leurs propres griffes, ces créatures ont appris à faire face aux menaces à distance.
 
-L'arme principale du Ranger est constituée de glandes acides spécialisées situées à l'avant de son corps. En les utilisant, la créature lance des volées de matière biologique caustique capable de brûler la chair, les armures légères et le moral de toute personne prise dans la ligne de mire.
+L'arme primaire du Ranger est constituée de glandes acides spécialisées situées à l'avant de son corps. À l'aide de ceux-ci, la créature lance des volleys de matière biologique caustique capable de brûler par la chair, des combinaisons d'armures légères, et le moral de quiconque pris dans la ligne de feu.
 
-Les observations indiquent que les Rangers agissent rarement seuls. Ils restent généralement derrière les principales forces de l'Essaim, bombardant la victime avec de l'acide pendant que les drones se rapprochent pour l'attaque. De telles tactiques semblent étonnamment intelligentes pour une espèce qui résout généralement les problèmes en utilisant ses griffes.
+Les observations indiquent que les Rangers agissent rarement seuls. Ils restent généralement derrière les forces principales du Swarm, bombardant la victime d'acide pendant que les drones se rapprochent de l'attaque. De telles tactiques semblent étonnamment intelligentes pour une espèce qui résout habituellement les problèmes en utilisant des griffes.
 
-Certains chercheurs émettent l'hypothèse que le Ranger est une émanation évolutive spécialisée du drone standard. D'autres le considèrent comme une espèce distincte. Malheureusement, aucune des deux parties n’a encore réussi à obtenir un commentaire de la part des Rangers eux-mêmes.
+Certains chercheurs estiment que le Ranger est une source évolutive spécialisée du Drone standard. D'autres le considèrent comme une espèce distincte. Malheureusement, aucune des parties n'a encore réussi à obtenir un commentaire des Rangers eux-mêmes.
 
-CONSEILS :
+CONSEILS:
 
 - Ne restez pas immobile sous le feu.
-- Éliminez les Rangers avant les Drones standards.
-- La volée acide est plus dangereuse qu'il n'y paraît à première vue.
+- Éliminer les Rangers avant les Drones standard.
+- L'acide volley est plus dangereux qu'à première vue.

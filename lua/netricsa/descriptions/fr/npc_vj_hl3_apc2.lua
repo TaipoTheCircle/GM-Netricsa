@@ -1,26 +1,26 @@
-COMBINEZ LE CRAWLER APC
+COMBINE APC CRAWLER
 
 
-CLASS: Combiner le robot d'exploration APC
-METABOLISM: Véhicule de combat mécanisé
-PERCEPTION: Combiner une plateforme d'assaut blindée
-SIZE: 26 pieds
-ENDURANCE: Très élevé
-HOSTILITY: Extrême
-WEAPONS: Canon à impulsions, missiles guidés
-REWARD: 2000 FC
-THREAT: Critique
+CLASSE:      Combiner APC Crawler
+MÉTABOLISME: Véhicule de combat mécanisé
+PERCEPTION: Combiner la plate-forme d'assaut blindée
+TAILLE:       26 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Extrême
+ARMES:    Canon pulsé, missiles guidés
+RÉCOMPENSE:     2000 FC
+MENACE:     Critique
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine APC Crawler est une version modifiée du Combine APC standard, conçu pour les opérations dans les zones où les véhicules à roues sont inefficaces. Marécages, ruines, décombres, forêts denses et pâtés de maisons détruits : voilà les endroits où le Crawler remplace le APC standard.
+Le Combine APC Crawler est une version modifiée de la norme Combine APC, conçue pour les opérations dans les zones où les véhicules à roues sont inefficaces. Les marais, les ruines, les décombres, les forêts denses et les blocs de ville détruits-ce sont les endroits où le Crawler remplace l'APC standard.
 
-La principale différence de conception réside dans l'installation de modules de chenilles sur les roues, augmentant considérablement la capacité de cross-country et la stabilité sur des surfaces instables. En raison du changement d'équilibre et du rôle tactique, les ailes du véhicule ont été complètement supprimées, abaissant la silhouette du véhicule et simplifiant l'entretien sur le terrain.
+La principale différence de conception est l'installation de modules de voie sur les roues, ce qui augmente considérablement la capacité et la stabilité du pays sur des surfaces instables. En raison du changement d'équilibre et du rôle tactique, les ailes du véhicule ont été complètement retirées, ce qui a réduit la silhouette du véhicule et simplifié l'entretien sur le terrain.
 
-Le Crawler se déplace plus lentement que l'APC standard, mais compense cela par un élan incessant vers l'avant.
+Le Crawler se déplace plus lentement que le standard APC, mais compense cela avec un élan continu vers l'avant.
 
-L'armement a été modifié, supprimant les missiles.
+L'armement a été changé, enlevant les missiles.
 
-TIPS: 
+CONSEILS:
 
-- Ne comptez pas sur la maniabilité, mais sur la couverture et la distance.
+- Ne vous fiez pas à la maniabilité.

@@ -1,22 +1,22 @@
-CHEVEUX DE XEN
+HAIR DE XEN
 
 
-CLASS: Cheveux Xen
-METABOLISM: Flore inconnue / passive
-PERCEPTION: Flore extraterrestre / Plante Xen
-SIZE: ~ 1-2 pieds (ressemble aux cheveux noirs d'un mammifère)
-ENDURANCE: Faible (délicat, fragile)
-HOSTILITY: Aucun
-WEAPONS: Aucun
-REWARD: 0 FC
-THREAT: Aucun
+CLASSE:      Cheveux Xen
+MÉTABOLISME: Flore inconnue / passive
+PERCEPTION: Alien Flora / Xen Plante
+TAILLE:       ~1-2 pi (semble aux cheveux de mammifères noirs)
+ENDURANCE:  Faible (délicate, fragile)
+HOSTILITÉ:  Aucune
+ARMES:    Aucune
+RÉCOMPENSE:     0 FC
+MENACE:     Aucune
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Xen Hair, également connu sous le nom de Xen Cilia, est un organisme végétal originaire du monde frontalier Xen. Il ressemble superficiellement à des cheveux noirs, ondulant doucement sous la brise ou les courants environnementaux. Il ne répond pas à la présence des entités ; il bat simplement au vent.
+Xen Hair, aussi connu sous le nom de Xen Cilia, est un organisme de type végétal originaire du monde frontalier Xen. Il ressemble superficiellement aux cheveux noirs, agitant doucement dans la brise ou les courants environnementaux. Il n'a pas répondu à la présence des entités; il se contente de se faufiler dans le vent.
 
-Ces organismes se trouvent généralement près des bassins de guérison ou dans les régions humides et sauvages de Xen. Ils peuvent pousser seuls ou en petites grappes (jusqu'à quatre environ). Leur présence ajoute des détails atmosphériques aux paysages de Xen.
+Ces organismes se trouvent souvent près des piscines de guérison ou dans des régions humides et sauvages de Xen. Ils peuvent se développer seuls ou en petits groupes (jusqu'à environ quatre). Leur présence ajoute des détails atmosphériques aux paysages de Xen.
 
-TIPS: 
+CONSEILS:
 
-- Ils sont purement décoratifs – leur nuire ne rapporte aucun gain.
+- Ils sont purement décoratifs - leur nuire ne donne aucun gain.

@@ -1,14 +1,14 @@
-CARBINE CLASSIQUE SIG SAUER SIG556
+SIG SAUER SIG556 CARBIN CLASSIQUE
 
 
-WEAPON: SIG Sauer SIG556 Classique
-AMMO: 5,56x45 mm OTAN (.223 Rem.)
-ROF: Semi-automatique à piston à gaz (système de gaz à deux positions)
+ARME: SIG Sauer SIG556 Classique
+MUNITIONS:   5.56x45 mm OTAN (223 Rem.)
+CADENCE DE TIR:    Gaz-piston semi-automatique (système à gaz à deux positions)
 
-DESCRIPTION: 
+DESCRIPTION:
 
-La SIG556 Classic est une carabine américaine conçue pour ressembler à la famille Swiss SG. Il comprend une crosse triangulaire synthétique pliable avec réglage de la longueur à trois positions, un devant en deux parties avec des dispositions pour les rails Picatinny et un système de gaz à piston avec une valve réglable pour les réglages standard et d'urgence. Les tests de portée ont montré une très bonne précision avec plusieurs charges commerciales de 0,223/5,56, un recul en feutre doux et un fonctionnement impeccable sur plusieurs centaines de cartouches.
+Le SIG556 Classic est une carbine américaine qui ressemble à la famille suisse SG. Il dispose d'un stock de pliage synthétique triangulaire avec réglage de la longueur à trois positions, d'un avant-plan en deux parties avec des dispositions pour les rails Picatinny, et d'un système à gaz à piston avec une vanne réglable pour les réglages standard et d'urgence. Les essais à distance ont montré une très bonne précision avec plusieurs charges commerciales de 0,223/556, un recul de feutre doux et une fonction impeccable sur plusieurs centaines de rondes.
 
-NOTES: 
+REMARQUES:
 
-- La chaleur du canon peut influencer la précision lors d'un tir soutenu.
+- La chaleur des barres peut influencer la précision dans le feu soutenu.

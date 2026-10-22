@@ -1,17 +1,14 @@
-FUSIL À POMPE REMINGTON 870, AVEC MUNITIONS ALÉATOIRES
+REMINGTON 870 ARRÊT POUR L'ACTION DE POMMES, AVEC AMÉLIORATION RANDOM
 
 
-WEAPON: Remington 870
-MUNITIONS Cartouches de calibre 12/70 et cartouches vides
-ROF: ~60 tours/min
+ARME:     Remington 870 Pump-Action fusil, avec munitions aléatoires
+MUNITIONS:       cartouches de calibre 12/70 et coquilles vides 
+CADENCE DE TIR:        ~60 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Fusil à pompe américain. Conçu pour l'autodéfense, la chasse, le tir sportif et l'armement des unités de l'armée et de la police. Cette version diffère de la version classique en ce sens qu'elle est chargée d'un nombre inconnu de cartouches réelles et vides. Il peut être utilisé pour jouer à une version « améliorée » de la roulette russe.
+Un fusil à pompe américain. Conçu pour l'autodéfense, la chasse, le tir sportif et l'armement de l'armée et des unités de police. Cette version diffère de la version classique en ce qu'elle est chargée d'un nombre inconnu de cartouches réelles et vides. Il peut être utilisé pour jouer une version « améliorée » de la roulette russe.
 
-NOTES: 
+REMARQUES:
 
-- J'espère que tout ira pour le mieux en jouant.
-
-
-
+- J'espère le meilleur en jouant.

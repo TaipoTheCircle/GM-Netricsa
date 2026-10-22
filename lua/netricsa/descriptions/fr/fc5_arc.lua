@@ -1,20 +1,20 @@
-AR-C ASSAULT RIFLE
+RIFLE AR-C ASSAULT
 
 
-ARME : AR-C Assault Rifle
-MUNITIONS : 5.56x45mm NATO / .223 Remington
-ROF : ~800 RPM
+ARME: Rifle d'assaut AR-C
+MUNITIONS:   OTAN / .223 Remington
+CADENCE DE TIR:   ~800 RPM
 
-DESCRIPTIF :
+DESCRIPTION:
 
-This modular assault rifle is based on the AR platform. A former military rarity, it has become popular among DIY gun modders. The AR-C can fire single shots, three-round bursts, and fully automatic.
+Ce fusil d'assaut modulaire est basé sur la plateforme AR. Une ancienne rareté militaire, elle est devenue populaire parmi les modificateurs de canon de bricolage. L'AR-C peut tirer un seul coup, trois coups de feu et entièrement automatique.
 
-The standard magazine holds 30 rounds, and an extended magazine increases this capacity to 40. The AR-C has a high rate of fire but relatively low damage, making it particularly well-suited for close- and medium-range combat. The weapon can be used with various scopes, suppressors, and an extended magazine.
+Le magazine standard compte 30 tours, et un magazine élargi augmente cette capacité à 40. L'AR-C a un taux d'incendie élevé mais des dommages relativement faibles, ce qui le rend particulièrement adapté pour les combats à courte et moyenne portée. L'arme peut être utilisée avec divers objectifs, suppresseurs, et un magazine étendu.
 
-The AR-C's external appearance resembles an AR-15 rifle. In particular, its appearance combines elements of various AR platforms.
+L'aspect extérieur de l'AR-C ressemble à un fusil AR-15. En particulier, son apparence combine des éléments de différentes plateformes AR.
 
-REMARQUES :
+REMARQUES:
 
-- The high rate of fire makes the AR-C particularly effective in heavy automatic fire.
-- You can switch between single-shot bursts, including a three-shot burst, and full-auto mode.
-- A true customization enthusiast's dream: scope, suppressor, extended magazine, and other modifications.
+- Le taux élevé d'incendie rend l'AR-C particulièrement efficace en cas d'incendie automatique.
+- Vous pouvez basculer entre les rafales à prise unique, y compris une rafale à trois prises, et le mode plein-auto.
+- Un vrai rêve d'un passionné de personnalisation : portée, suppresseur, magazine étendu et autres modifications.

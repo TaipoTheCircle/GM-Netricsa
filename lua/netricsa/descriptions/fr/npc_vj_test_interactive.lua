@@ -1,21 +1,21 @@
-CITOYEN INTERACTIF
+CITOYENS INTERACTIFS
 
 
-CLASS: Citoyen interactif
-METABOLISM: Humain, mâle
-PERCEPTION: Civil humain / Expérimental
-SIZE: ~5,9 pieds
-ENDURANCE: Faible (fragile, non armé)
-HOSTILITY: Très faible (non-combattant)
-WEAPONS: Aucun
-REWARD: 18 FC
-THREAT: Minimal
+CLASSE:      Citoyen interactif
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Humain civil / expérimental
+TAILLE:       ~5,9 pi
+ENDURANCE:  Faible (fragile, non armée)
+HOSTILITÉ:  Très faible (non combattant)
+ARMES:    Aucune
+RÉCOMPENSE:     18 FC
+MENACE:     Minimal
 
-DESCRIPTION: 
+DESCRIPTION:
 
-L'Interactive Citizen est un citoyen expérimental bizarre conçu pour l'interaction sandbox. Contrairement aux citoyens ordinaires, cette variante peut être commandée par se suicider, offrant des options de jeu à l'humour noir.
+The Interactive Citizen est un Citizen expérimental bizarre conçu pour l'interaction de bac à sable. Contrairement aux citoyens ordinaires, cette variante peut être commandée en s'engageant à vous tuer, fournissant des options de gameplay sombrement humoristiques.
 
-TIPS: 
+CONSEILS:
 
-- Peut être utilisé pour l'exploration à la troisième personne ou des scénarios créatifs.
-- Déclencher son action suicide peut avoir un caractère expérimental ou humoristique.
+- Peut être utilisé pour l'exploration de tiers ou des scénarios créatifs.
+- Déclencher son action peut fournir expérimentale ou humoristique.

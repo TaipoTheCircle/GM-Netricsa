@@ -1,15 +1,15 @@
-LUNETTES DE VISION NOCTURNE AN/PVS-7
+AN / PVS-7 GOGLES DE VISION DE NUIT
 
 
-ITEM: Dispositif de vision nocturne bioculaire AN/PVS-7
-WEIGHT: 680g
+ITEM: Dispositif bioculaire de vision nocturne AN/PVS-7
+POIDS: 680 g
 
-DESCRIPTION: 
+DESCRIPTION:
 
-The AN/PVS-7 is a single-tube bi-ocular night vision goggle: un intensificateur d'image alimente deux oculaires, offrant une alternative plus légère et plus simple aux systèmes à double tube. Mis en service depuis les années 1980, il est devenu un outil NVG performant pour les forces militaires et de sécurité en raison de sa robustesse et de sa capacité à être monté sur un casque.
+Le AN/PVS-7 est un goggle de vision nocturne bi-oculaire monotube : un intensifificateur d'image alimente deux oculaires, offrant une alternative plus légère et plus simple aux systèmes bitubes. Expédié depuis les années 1980, il est devenu un NVG de travail pour les forces militaires et de sécurité en raison de sa robustesse et de sa capacité à monter des casques.
 
 
-NOTES: 
+REMARQUES:
 
-- Le contrôle automatique de la luminosité (ABC) et la coupure de la lumière vive/le déclenchement automatique protègent le tube et préservent les détails de l'image sous une lumière changeante.
-- L'illuminateur IR intégré permet un fonctionnement dans l'obscurité totale.
+- Contrôle automatique de la luminosité (ABC) et coupe-lumière / auto-gage protègent le tube et préservent le détail de l'image sous la lumière changeante.
+- Illuminateur IR intégré permet de fonctionner dans l'obscurité totale.

@@ -1,30 +1,30 @@
-SLAYER FROM THE CARNATE ISLAND
+SLAYER DE L'ÎLE CARNATE
 
 
-CLASS:      Slayer Of Carnate Island
-METABOLISM: Supernatural
-PERCEPTION: Malefactor / Horror Entity
-SIZE:       ~6 ft
-ENDURANCE:  High 
-HOSTILITY:  Extreme
-WEAPONS:    Blade Limbs (Arms And Legs Are Long, Sharp Blades)
-REWARD:     1000 FC 
-THREAT:     Very High
+CLASSE:      Tueuse de l'île Carnate
+MÉTABOLISME: Surnaturel
+PERCEPTION: Mâle-facteur / entité horror
+TAILLE:       6 pieds
+ENDURANCE:  Haut 
+HOSTILITÉ:  Extrême
+ARMES:    Membres des lames (les bras et les jambes sont longs, les lames pointues)
+RÉCOMPENSE:     1000 FC 
+MENACE:     Très élevé
 
-DESCRIPTIF :
+DESCRIPTION:
 
-The Slayer is one of the most iconic and terrifying enemies on the island. Created as a representation of execution by beheading, its body is gruesomely melded: its head is detached and held above its body by flesh and steel apparati, while its limbs have transformed into long, lethal blades. 
+La Tueuse est l'un des ennemis les plus emblématiques et terrifiants de l'île. Créée en tant que représentation de l'exécution par décapitation, son corps est épouvantablement mêlé : sa tête est détachée et maintenue au-dessus de son corps par la chair et l'acier, tandis que ses membres se sont transformés en longues lames mortelles.
 
-Slayers move with unnatural agility, able to skulk along walls and ceilings, drop down on victims, or slash at them from "above". They are often heard before seen - their blade-limbs scrape and whisper, giving away their approach.
+Les tueuses se déplacent avec une agilité anti-naturelle, capables de s'écraser le long des murs et des plafonds, de tomber sur les victimes ou de les abattre de « plus haut ». Ils sont souvent entendus avant d'être vus - leurs lames grattent et murmurent, donnant leur approche.
 
-I first witnessed these creatures jumping out of the ground itself, their heads are detached from their torso, held aloft by hideous contraptions. their limbs have been replaced by blades of the sharpest steel.
+J'ai d'abord vu ces créatures sauter du sol lui-même, leur tête est détachée de leur torse, tenue à l'écart par des contraptions hideuses. leurs membres ont été remplacés par des lames d'acier le plus tranchant.
 
-To my eyes, they appear to be a manifestation of decapitation, yet it seems improbable anyone ever had their head chopped off in Abbott. I suppose on carnage anything is possible.
+À mes yeux, ils semblent être une manifestation de décapitation, mais il semble improbable que quelqu'un ait jamais eu sa tête coupée à Abbott. Sur le carnage, tout est possible.
 
-I have dubbed these monstrosities slayers.
+J'ai surnommé ces monstres tueuses.
 
-TIPS:
+CONSEILS:
 
-- Always aim to destroy the head - slayers lose awareness without it.
-- Keep moving - standing still invites their ambush.
-- Listen carefully - their blades on walls and ceilings often warn you before they strike.
+- Toujours viser à détruire la tête - les tueuses perdent conscience sans elle.
+- Continuez à bouger - debout invite toujours leur embuscade.
+- Écoutez attentivement - leurs lames sur les murs et les plafonds vous avertissent souvent avant qu'ils frappent.

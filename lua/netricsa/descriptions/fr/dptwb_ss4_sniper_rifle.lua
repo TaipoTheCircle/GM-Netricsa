@@ -1,19 +1,19 @@
-SNIPER RAPTOR 16MM
+SNIPER RAPTEUR 16MM
 
 
-ARME : Sniper RAPTOR 16 mm
-Munitions : balles de sniper AP de 16 mm
-ROF : Manuel
-PORTÉE : 1 400 mètres
+ARME:    Sniper RAPTOR 16mm
+MUNITIONS:      Bullets de sniper AP 16mm
+CADENCE DE TIR:       Manuel
+RANGE:     1400 ans
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Le RAPTOR Sniper est l’une des armes à longue portée les plus puissantes au monde.  Les balles à revêtement kevlar perforant de 16 mm traverseront la plupart des types d'armures connus.  Il provoque la mort instantanée des espèces de petite et moyenne taille.
+Le sniper RAPTOR est l'une des armes à longue portée les plus puissantes au monde. Les balles enduites de kevlar perforant 16mm passeront à travers la plupart des types d'armures connus. Elle cause la mort instantanée des petites et moyennes espèces.
 
-Le Raptor dispose d'un mécanisme d'échappement automatique de surpression qui réduira la vitesse de sortie de la balle lorsqu'elle n'est pas tirée à partir d'un mode de tir équilibré.  Cela offre une sécurité maximale et minimise les blessures du porteur de l'arme. 
+Le Raptor a un mécanisme automatique d'échappement de surpression qui va abaisser la vitesse de sortie de la balle lorsqu'il n'est pas tiré à partir d'un mode de tir équilibré. Cela assure une sécurité maximale et réduit au minimum les blessures à la manivelle des armes.
 
 
-REMARQUES :
+REMARQUES:
 
-- Assurez-vous d'utiliser le Raptor en mode tireur d'élite (zoom), car il infligera beaucoup plus de dégâts lorsqu'il sera tiré de cette façon.
-- Utiliser le sniper sur des méchants plus gros comme les Biomécanoïdes, les Élémentaires de Lave,... est beaucoup moins efficace.
+- Assurez-vous d'utiliser le Raptor en mode sniping (zoom), car il apportera beaucoup plus de dommages lors du tir de cette façon.
+- L'utilisation de snipers sur de plus grandes nasties comme les biomécanoïdes, Lava Elementals,... est beaucoup moins efficace.

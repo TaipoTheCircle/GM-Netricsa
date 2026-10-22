@@ -1,20 +1,20 @@
-CANON STATIQUE
+CANNON STATIQUE
 
 
-CLASS: Canon statique
-METABOLISM: machine
+CLASSE:      Canon statique
+MÉTABOLISME: machine
 PERCEPTION: système de défense automatique
-SIZE: 12 pieds
-VIEW ANGLE: 15 degrés. (fixé)
-HOSTILITY: haut
-WEAPONS: boulets de canon
-REWARD: 750 FC
-THREAT: haut
+TAILLE:       12 pieds
+VIEW ANGLE: 15 deg. (fixé) 
+HOSTILITÉ:  élevé
+ARMES:    boulettes de canon
+RÉCOMPENSE:     750 FC
+MENACE:     élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Mental a été émerveillé par le concept de son arme la plus puissante et a donc essayé de créer quelque chose de similaire.  Mental a amélioré un canon médiéval ordinaire avec un système de chargement automatique, un radar et un réapprovisionnement en munitions, ce qui en fait une unité de défense autonome assez efficace et dangereuse.
+Mental a été étonné par le concept de votre arme la plus puissante et a donc essayé de créer quelque chose de similaire. Mental amélioré un canon médiéval ordinaire avec un système de chargement automatique, radar et des munitions réapprovisionner, ce qui en fait une unité de défense autonome assez efficace et dangereuse.
 
-TIPS: 
+CONSEILS:
 
-- Évitez les boulets de canon par un mouvement constant.
+- Évitez les boulettes de canon par mouvement constant.

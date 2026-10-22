@@ -1,22 +1,22 @@
-RAT SAUVAGE DE TERRE
+RAT FERAL DE LA TERRE
 
 
-CLASS: Rat sauvage
-METABOLISM: Mammifère
-PERCEPTION: Environnement dangereux Rongeur
-SIZE: ~1 pied
-ENDURANCE: Faible-Moyen
-HOSTILITY: Modéré
-WEAPONS: Morsure (modérée), attaques sautées
-REWARD: 10 FC
-THREAT: Faible-Modéré
+CLASSE:      Rat sauvage
+MÉTABOLISME: Mammifère
+PERCEPTION: Environnement dangereux Rodent
+TAILLE:       ~1 pi
+ENDURANCE:  Faible-moyenne
+HOSTILITÉ:  Modéré
+ARMES:    Bite (modérée), attaques de saut
+RÉCOMPENSE:     10 FC
+MENACE:     Faible-modéré
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les rats sauvages sont des variantes agressives des rats standards, mutés ou stressés par l'environnement Cascade Resonance. Ils sautent pour mordre leurs cibles et attaquent en petits groupes. Bien qu’individuellement faibles, les essaims peuvent harceler efficacement les intrus.
+Les rats feraux sont des variantes agressives de rats standard, mutés ou stressés par l'environnement de résonance de Cascade. Ils sautent pour mordre des cibles et attaquer en petits groupes. Bien que individuellement faibles, les essaims peuvent harceler efficacement les intrus.
 
-TIPS: 
+CONSEILS:
 
-- Gardez vos distances - surveillez les attaques sautées.
-- Les fusils de chasse ou les attaques au corps à corps fonctionnent mieux dans les zones confinées.
+- Gardez la distance - surveillez les attaques de saut.
+- Les fusils de chasse ou les attaques à la mêlée fonctionnent mieux dans les zones confinées.
 - Dangereux seulement en nombre.

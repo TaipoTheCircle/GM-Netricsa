@@ -1,21 +1,21 @@
-DÉMON REPTILOÏDE FIENDIEN, LANCEUR DE BOULET DE CANON
+DÉMON, CANNONBALL-TROWER
 
 
-CLASS: Démon reptiloïde fiien, lanceur de boulets de canon
-METABOLISM: à sang froid, ressemblant à un reptile
+CLASSE:      Démon réptiloïde de Fiendian, Thrower de Cannonball
+MÉTABOLISME: sang-froid, comme un reptile
 PERCEPTION: race primitive modifiée
-SIZE: 20 pieds
-ENDURANCE: moyen
-HOSTILITY: haut
-WEAPONS: Projectile boulet de canon, griffes
-REWARD: 6000FC
-THREAT: moyen
+TAILLE:       20 pieds
+ENDURANCE:  moyenne
+HOSTILITÉ:  élevé
+ARMES:    Projectile de bouleau, griffes
+RÉCOMPENSE:     6000 FC
+MENACE:     moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Une autre mutation hideuse, gracieuseté de Notorius Mental. Un simple organisme ressemblant à un lézard de Fíendia Prime a été croisé et muté sur plusieurs générations, et a finalement été renforcé par un squelette en titane. Il a la capacité unique de former un trou noir miniature à travers lequel il peut invoquer des boulets de canon. De faibles forces magiques maintiendront ce projectile rempli d'uranium cohérent pendant une courte période de temps. En touchant le sol, il explosera et finalement explosera.
+Une autre mutation hideuse, grâce à Notorius Mental. Un simple organisme de type lézard de Fíendia Prime a été croisé et muté pendant plusieurs générations, et a finalement été renforcé avec un squelette de titane. Il a une capacité unique de former un trou noir miniature à travers lequel il peut appeler des boules de canon à l'existence. Des forces magiques faibles maintiendront ce projectile rempli d'uranium cohérent pour une courte période de temps. Alors qu'il frappe le sol, il explosera et explosera.
 
-TIPS: 
+CONSEILS:
 
-- Évitez les boulets de canon à tout prix !
-- Les boulets de canon sont plus lents lorsque vous êtes plus éloigné, alors gardez vos distances.
+- Évitez les boulettes à tout prix !
+- Les boulettes sont plus lentes quand vous êtes plus loin, alors gardez votre distance.

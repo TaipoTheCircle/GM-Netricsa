@@ -1,22 +1,22 @@
-GRENADE À MAIN RGD-33
+RGD-33 HAND GRENADE
 
 
-ARME : Grenade à main RGD-33
-MUNITIONS : Explosif
-ROF : Usage unique
-POIDS : ~0,5 kg
+ARME: RGD-33 Grenade à main
+MUNITIONS:   Explosifs
+CADENCE DE TIR:    Usage unique
+POIDS: ~0,5 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-A Soviet fragmentation hand grenade, developed in 1933 and used by the Red Army before and during World War II. It was an offensive/defensive grenade and could be used with an additional metal protective jacket.
+Une grenade à main de fragmentation soviétique, développée en 1933 et utilisée par l'Armée rouge avant et pendant la Seconde Guerre mondiale. C'était une grenade offensive/défensive et pouvait être utilisée avec une veste de protection métallique supplémentaire.
 
-The grenade had a distinctive handle with a trigger mechanism and a cylindrical warhead. Depending on the configuration, it could be used without the jacket or with the protective jacket installed, which increased the number of fragments generated.
+La grenade avait un manche distinctif avec un mécanisme de déclenchement et une ogive cylindrique. Selon la configuration, il peut être utilisé sans la veste ou avec la veste de protection installée, ce qui augmente le nombre de fragments générés.
 
-The RGD-33 had a rather complex design and required more careful handling than later Soviet grenades. For this reason, it was later replaced by the simpler and more convenient RG-42.
+Le RGD-33 avait une conception assez complexe et devait être manipulé plus soigneusement que les grenades soviétiques ultérieures. Pour cette raison, il a été remplacé par le RG-42 plus simple et plus pratique.
 
-REMARQUES :
+REMARQUES:
 
-- The good old Soviet "Pocket Artillery" with a lot of character.
-- Sans la gaine de protection, la grenade était plus adaptée à un usage offensif, mais avec la gaine, elle devenait nettement plus dangereuse pour l'ennemi.
-- The design turned out to be so complex that over time, the army decided, "No, it's all rubbish, let's start over!".
-- The RGD-33 saw action in several conflicts, including Khalkhin Gol, the Winter War, and the Great Patriotic War.
+- Le bon vieux soviétique "Pocket Artillery" avec beaucoup de caractère.
+- Sans la veste de protection, la grenade était plus appropriée pour une utilisation offensive, mais avec la veste, il est devenu beaucoup plus dangereux pour l'ennemi.
+- La conception s'est avérée si complexe qu'au fil du temps, l'armée a décidé : "Non, c'est tout, recommençons !".
+- Le RGD-33 a été le théâtre de plusieurs conflits, dont Khalkhin Gol, la guerre d'hiver et la Grande Guerre patriotique.

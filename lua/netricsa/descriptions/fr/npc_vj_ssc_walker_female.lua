@@ -1,24 +1,24 @@
-BIO-MÉCANOÏDE, FEMELLE
+BIO-MÉCHANOIDES, FEMMES
 
 
-CLASS: Bio-Mécanoïde, Majeur
-METABOLISM: cyborg endotherme
+CLASSE:      Biomécanoïde, major
+MÉTABOLISME: cyborg endotherme
 PERCEPTION: génétiquement programmé
-SIZE: 55 pieds debout
-ENDURANCE: haut
-HOSTILITY: haut
-WEAPONS: lance-roquettes, invoquer des Ememies
-REWARD: 12500FC
-THREAT: haut
+TAILLE:       55 pieds debout
+ENDURANCE:  élevé
+HOSTILITÉ:  élevé
+ARMES:    lance-roquettes, Invoquez les Ememies
+RÉCOMPENSE:     12500 FC
+MENACE:     élevé
 
-DESCRIPTION: 
-
-
-Un mécanisme biologique cultivé dans les bio-réservoirs de Mental. Son génome est programmé pour lui donner des pièces mécaniques cultivées biologiquement et des fentes latérales où les lance-roquettes sont fixés et directement connectés à son système nerveux.
-Ajusté pour attaquer sans réfléchir. Bio-mécanoïde femelle, de grande taille et rose, avec des caractéristiques cosmétiques qui contiennent toujours des attaques de roquettes mortelles.
+DESCRIPTION:
 
 
-TIPS: 
+Un mécanisme biologique cultivé dans les réservoirs biologiques de Mental. Son génome est programmé pour lui donner biologiquement des pièces mécaniques et des fentes latérales où les lance-roquettes sont attachés et directement connectés à son système nerveux.
+Ajusté à l'attaque sans penser. Femme Bio-Mécanoïde un grand et rose avec des caractéristiques cosmétiques qui emballe toujours des attaques de fusée mortelles.
 
-- Très dangereux, éliminer rapidement.
-- Soit vous esquivez les roquettes, soit vous tirez dessus avant qu'elles ne vous atteignent.
+
+CONSEILS:
+
+- Très dangereux, éliminez vite.
+- Ou évitez les fusées ou tirez-les avant qu'ils ne vous atteignent.

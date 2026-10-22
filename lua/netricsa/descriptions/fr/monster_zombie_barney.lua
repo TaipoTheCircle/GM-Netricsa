@@ -1,23 +1,23 @@
-HEADCRAB ZOMBIE COMMUN, GARDE DE SÉCURITÉ
+CHEADCRAB ZOMBIE COMMUN, GUARD DE SÉCURITÉ
 
 
-CLASS: Headcrab Zombie Common , Agent de sécurité
-METABOLISM: Hôte humain + crabe parasite commun
+CLASSE:      Cramoisi Zombie Common , Garde de sécurité
+MÉTABOLISME: Hôte humain + cratère parasitaire commun
 PERCEPTION: Entité zombifiée
-SIZE: ~6 pieds
-ENDURANCE: Moyen
-HOSTILITY: Élevé (lent mais implacable)
-WEAPONS: Attaques de mêlée (griffes, balançoires), grappling
-REWARD: 200FC
-THREAT: Modéré individuellement, élevé en groupe
+TAILLE:       6 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut (lent mais implacable)
+ARMES:    Attaques de Melee ( griffes, balançoires)
+RÉCOMPENSE:     200 FC
+MENACE:     Modéré individuellement, élevé en groupes
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Zombie Security Guard est un ancien agent de sécurité de Black Mesa infecté par un crabe commun. Autrefois amical et loyal, il se déplace désormais sans but dans l'installation, attaquant tout ce qui bouge. L'armure de sécurité est partiellement fusionnée avec des tissus extraterrestres, ajoutant une apparence grotesque mais offrant une protection minimale.
+Zombie Security Guard est un ancien garde de sécurité Black Mesa infecté par un cambriolage commun. Une fois amical et loyal, il s'en prend à tout ce qui bouge. L'armure de sécurité est partiellement fusionnée avec des tissus étrangers, ajoutant une apparence grotesque mais offrant une protection minimale.
 
-Malgré leur lenteur, les gardes de sécurité zombies sont implacables et coincent souvent les intrus dans les couloirs et les zones de service. La vue d’un ancien allié devenu monstre rappelle sinistrement la cruauté parasitaire de Xen.
+Malgré leur vitesse lente, les Zombies Security Guards sont des intrus inlassables, souvent dans les couloirs et les zones de service. La vue d'un ancien monstre devenu allié rappelle la cruauté parasitaire de Xen.
 
-TIPS: 
+CONSEILS:
 
-- Gardez vos distances ; les attaques au corps à corps sont dangereuses.
-- Les armes à feu sont efficaces en raison de leur lenteur.
+- Gardez votre distance; les attaques de mêlée sont dangereuses.
+- Les armes à feu sont efficaces en raison de leur rythme lent.

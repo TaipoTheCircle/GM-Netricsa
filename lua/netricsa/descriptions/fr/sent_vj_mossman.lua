@@ -1,26 +1,26 @@
-DR. JUDITH MOSMAN
+DR. JUDITH MOSSMAN
 
 
-CLASS: Dr Judith Mossman
-METABOLISM: Humain, Femelle
-PERCEPTION: Scientifique humain / Agent double de la Résistance
-SIZE: ~5,8 pieds
-ENDURANCE: Moyen
-HOSTILITY: Variable
-WEAPONS: Expertise scientifique, levier politique
-REWARD: 1000FC
-THREAT: Moyen-élevé (psychologique, pas physique)
+CLASSE:      Dr Judith Mossman
+MÉTABOLISME: Humain, femme
+PERCEPTION: Humain scientifique / Résistance double agent
+TAILLE:       ~5,8 pieds
+ENDURANCE:  Moyenne 
+HOSTILITÉ:  Variable
+ARMES:    Expertise scientifique, influence politique
+RÉCOMPENSE:     1000 FC
+MENACE:     Moyenne-haute (psychologique, pas physique)
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Dr Judith Mossman est une brillante scientifique travaillant pour la Résistance, même si sa loyauté n'est jamais claire. Alors qu'elle se présente comme une alliée d'Eli Vance, Isaac Kleiner et Gordon Freeman, elle communique secrètement avec le Dr Breen, offrant au Combine des renseignements sur les opérations de la Résistance. Ambitieux, calculateur et motivé par son instinct de conservation, Mossman franchit la frontière entre trahison et rédemption.
+La Dre Judith Mossman est une brillante scientifique travaillant avec la Résistance, bien que ses loyautés ne soient jamais claires. Alors qu'elle se présente comme un allié à Eli Vance, Isaac Kleiner et Gordon Freeman, elle communique secrètement avec le Dr Breen, offrant l'intelligence Combine sur les opérations de résistance. Ambitieux, calculant et animé par l'auto-préservation, Mossman marche la ligne entre trahison et rédemption.
 
-Her true motives remain conflicted: qu'elle soit une survivante pragmatique cherchant les faveurs du Combine ou une scientifique prise entre deux camps, ses actions façonnent le cours de la Résistance. Malgré sa duplicité, Mossman fait finalement preuve de courage, comme se retourner contre Breen lorsque la vie d'Eli est en jeu.
+Her true motives remain conflicted: qu'il s'agisse d'une survivante pragmatique cherchant la faveur avec le Combiné, ou d'un scientifique pris entre deux côtés, ses actions façonnent le cours de la Résistance. Malgré sa duplicité, Mossman démontre finalement des moments de courage, comme se retourner contre Breen quand la vie d'Eli est en jeu.
 
-Mossman n'est pas un soldat, mais son intelligence et sa ruse la rendent dangereuse d'une manière que les balles ne peuvent égaler. Pour la Résistance, elle est à la fois un handicap et un sauveur potentiel, selon le côté de sa nature qui prévaut.
+Mossman n'est pas un soldat, mais son intelligence et sa ruse la rendent dangereuse d'une manière que les balles ne correspondent pas. Pour la Résistance, elle est à la fois une responsabilité et un sauveur potentiel, selon le côté de sa nature l'emporte.
 
-TIPS: 
+CONSEILS:
 
-- Traitez ses paroles avec prudence : son allégeance change rapidement.
-- Surveillez ses actions, pas ses promesses.
-- Malgré ses trahisons, elle a des moments de véritable loyauté envers la survie de l'humanité.
+- Traitez ses paroles avec prudence.
+- Surveille ses actions, pas ses promesses.
+- Malgré ses trahisons, elle a des moments de fidélité à la survie de l'humanité.

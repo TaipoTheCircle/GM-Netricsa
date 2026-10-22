@@ -1,15 +1,15 @@
-DRACO SEMI-AUTOMATIC PISTOL
+PISTOL DRACO-AUTOMATIQUE
 
 
-ARME : Draco Semi-Automatic Pistol
-MUNITIONS : 7.62x39mm Rounds
-ROF : ~30 rounds/min
+ARME: Pistol semi-automatique Draco
+MUNITIONS:   7.62x39mm Rondes
+CADENCE DE TIR:    ~30 tours/min
 
-DESCRIPTIF :
+DESCRIPTION:
 
-The Draco semi-automatic pistol is a shortened version of the AK pistol without the automatic fire mode. Most Draco models are manufactured in Romania by the Cugir arms factory and imported to the United States. Popular with gangsters.
+Le pistolet semi-automatique Draco est une version abrégée du pistolet AK sans mode d'incendie automatique. La plupart des modèles Draco sont fabriqués en Roumanie par l'usine d'armes Cugir et importés aux États-Unis. Populaire avec les gangsters.
 
-REMARQUES :
+REMARQUES:
 
-- It shares the same caliber as the AK, making it a powerful pistol.
-- You can change hand positions by pressing ALT + E.
+- Il partage le même calibre que l'AK, ce qui en fait un puissant pistolet.
+- Vous pouvez changer de position en appuyant sur ALT + E.

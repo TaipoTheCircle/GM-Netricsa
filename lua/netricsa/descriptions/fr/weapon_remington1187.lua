@@ -1,23 +1,23 @@
-REMINGTON MODEL 11-87 SEMI-LOADING SHOTGUN
+MODÈLE DE REMINGTON 11-87 SÉMI-LOADING SHOTGUN
 
 
-ARME : Remington Model 11-87 semi-automatic shotgun
-MUNITIONS : 12-gauge
-ROF : ~60-80 rounds / min
-POIDS : ~3,7 kg
+ARME: Modèle Remington 11-87 fusil semi-automatique
+MUNITIONS:   12 calibres
+CADENCE DE TIR:    ~60-80 tours/min
+POIDS: ~3,7 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Ce fusil de chasse semi-automatique américain a été introduit en 1987. Basé sur le célèbre Remington 1100, il est disponible en différents modèles, notamment des modèles de chasse, de police et tactiques.
+Ce fusil semi-automatique américain a été introduit en 1987. Basé sur le célèbre Remington 1100, il est disponible en différents modèles, y compris la chasse, la police et des modèles tactiques.
 
-Le fusil de chasse fonctionne à gaz et est chambré pour les cartouches de calibre 12 et 20. Selon le modèle, la capacité du chargeur est d'environ 4 à 8 cartouches. Des versions spéciales de police et tactiques sont également disponibles, notamment le Entry Gun avec un canon raccourci.
+Le fusil est à gaz et en chambre pour les cartouches de calibre 12 et 20. Selon le modèle, la capacité du magazine est d'environ 4-8 tours. Des versions spéciales de la police et de la tactique sont également disponibles, y compris le canon d'entrée avec un canon raccourci.
 
-Le système semi-automatique élimine le besoin de recharger manuellement le boulon après chaque tir, permettant ainsi des tirs de suivi rapides. Le modèle 11-87 est devenu populaire non seulement comme arme de chasse, mais également dans les versions policières et tactiques.
+Le système semi-automatique élimine la nécessité de recharger manuellement le boulon après chaque prise de vue, ce qui permet un suivi rapide. Le modèle 11-87 est devenu populaire non seulement en tant qu'arme de chasse, mais aussi en version policière et tactique.
 
-REMARQUES :
+REMARQUES:
 
-- Excellent pour le combat rapproché, où toute la puissance du fusil à pompe est révélée.
-- The semi-automatic system allows for quick follow-up shots without manually reloading.
-- Specialized police and tactical versions exist.
-- This is the same shotgun used by Anton Chigurh in "No Country for Old Men".
-- Anton Chigurh never killed anyone.
+- Excellent pour le combat de proximité, où le fusil de chasse est révélé.
+- Le système semi-automatique permet un suivi rapide sans rechargement manuel.
+- La police spécialisée et les versions tactiques existent.
+- C'est le même fusil utilisé par Anton Chigurh dans "No Country for Old Men".
+- Anton Chigurh n'a jamais tué personne.

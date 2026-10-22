@@ -1,4 +1,4 @@
-EGYPT, COURTYARD OF GERALION
+EGYPTE, COUR DE GÉRALITÉ
 
 
-Petite arène située dans une petite tombe égyptienne en ruine.
+Petite arène située dans une cour égyptienne ruinée petite tombe.

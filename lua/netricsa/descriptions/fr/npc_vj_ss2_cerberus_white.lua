@@ -1,41 +1,41 @@
-CHIEN D'ATTAQUE CERBÈRE BLANC
+CÉRBÉRUS BLANC ATTACK DOG
 
 
-CLASSE:      Chien d'attaque Cerbère blanc
-MÉTABOLISME: Mammifère
-PERCEPTION:  Animal d'attaque dressé
-TAILLE:      1,07 m (3,5 pieds)
-ENDURANCE:   Moyenne
-HOSTILITÉ:   Élevée
-ARMES:       Morsure
-RÉCOMPENSE:  150 FC
-MENACE:      Moyenne
+CLASSE:      Chien d'attaque Cerberus blanc
+METABOLIZM: Mammifère
+PERCEPTION: Animal d'attaque entraîné
+TAILLE:       3,5 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Bite
+RÉCOMPENSE:     150 FC
+MENACE:     Moyenne
 
 DESCRIPTION:
 
-Il s'agit d'un chien d'attaque agressif à trois têtes, utilisé pour garder les bases de Mental ou accompagner les chasseurs lors de leurs expéditions.
+Il s'agit d'un chien d'attaque agressif à trois têtes utilisé pour garder les bases de Mental ou accompagner les chasseurs lors de leurs voyages de chasse.
 
-Le Cerbère a été créé grâce à l'intérêt malsain de Mental pour la mythologie grecque. Dès qu'il a eu un moment de libre, Mental s'est empressé de créer un chien à trois têtes : le Cerbère.
+Cerberus a été créé grâce à l'intérêt malsain de Mental pour la mythologie grecque. Après que Mental ait trouvé du temps libre, il s'est précipité pour créer un chien à trois têtes – Cerberus.
 
-Cependant, après la naissance de l'animal, des problèmes inattendus sont apparus : le cerveau de chaque tête ordonnait des actions différentes au reste du corps.
+Mais après la naissance du nouvel animal, des problèmes inattendus se sont posés : le cerveau de chaque tête a ordonné des tâches différentes du reste du corps.
 
-En fin de compte, le chien ne représentait aucun danger ; il n'était qu'un simple « pouf » de compagnie pour Mental, car le conflit entre les têtes entravait son objectif premier : semer la douleur et la colère. Le créateur rusé a donc décidé de retirer purement et simplement les cerveaux de toutes les têtes.
+En fin de compte, le chien n'a posé aucun danger, simplement un précieux « haricot » dans la vie de Mental, car le conflit entre les têtes a interféré avec son but principal-douleur et la colère. Par conséquent, le créateur rusé a choisi de retirer le cerveau de toutes les têtes.
 
-Pour éviter de gaspiller la petite bête, on lui a inculqué par instinct une tâche simple : attaquer tout ce qui bouge (sachant que « tout ce qui bouge », c'est vous).
+Et pour s'assurer que la petite bête ne se perde pas, elle a été instillée instinctivement par une tâche simple: attaquer tout ce qui bouge (note, "tout" c'est Toi).
 
-Tel un petit taureau, le Cerbère fonce sur l'ennemi. Et lorsque ce dernier, repoussé par le choc, reprend ses esprits, les trois têtes de la créature tentent chacune d'en arracher un morceau savoureux.
+Cerberus, comme un petit taureau, frappe l'ennemi. Et quand l'ennemi, repoussé par le chien, vient à ses sens, les trois têtes de la créature essaient de déchirer un morceau savoureux.
 
-Il est bien plus dangereux que n'importe quel chien terrestre, et sa morsure est bien plus douloureuse. Que peut-on attendre d'autre d'un chien à trois têtes dont les têtes sont en feu ?
+Il est nettement plus dangereux que tout chien sur Terre, et sa morsure est beaucoup plus douloureuse. Que pouvez-vous attendre d'autre d'un chien à trois têtes dont la tête est en feu ?
 
-Cependant, comme la plupart des sbires de Mental, il est d'une stupidité crasse. Éliminez-le à distance ou attirez-le vers vous pour lui tirer soudainement en pleine face avec un fusil à double canon.
+Cependant, comme la plupart des minions de Mental, il est aussi stupide qu'un tas de briques. Tuez-les de loin, ou attirez-les et tirez sur lui avec un fusil à double barre.
 
-Comme vous l'avez sans doute remarqué à sa couleur, il fait partie du programme secret de Mental baptisé « Purge Guard ». Cette initiative d'élite inclut également d'autres types de sbires clés ayant subi d'importantes modifications génétiques.
+Comme vous l'avez peut-être remarqué de sa couleur, il appartient au programme secret de Mental "Purge Guard". Cette initiative d'élite comprend également d'autres types clés de Minions qui ont subi une augmentation génétique importante.
 
-Sa robe blanche résulte de l'intégration de nano-alliages et d'une stérilisation chimique des tissus. Ces spécimens sont plus résistants et d'un tempérament plus agressif ; ils agissent comme les hommes de main personnels de Mental sur les secteurs les plus difficiles du front.
+La coloration blanche est le résultat de l'intégration des nanoalliages et de la stérilisation des tissus chimiques. Ces spécimens possèdent une durabilité accrue et un tempérament plus agressif, servant d'exécuteurs personnels de Mental sur les secteurs les plus difficiles du front.
 
-CONSEILS :
+CONSEILS:
 
-- Évitez ses attaques en effectuant une esquive latérale ou en sautant.
-- Utilisez le fusil à double canon à courte portée pour éliminer les petits groupes.
-- Utilisez une arme à tir rapide pour éliminer les groupes plus importants à distance.
-- Les explosifs sont très efficaces contre lui, à condition qu'il ne soit pas trop près.
+- Éviter ses attaques en s'enfuyant ou en sautant.
+- Utilisez le fusil à double canon à portée de main pour enlever les petits groupes.
+- Utilisez une arme à feu rapide pour enlever de grands groupes à distance.
+- Les explosifs sont très efficaces contre lui, tant qu'il n'est pas trop proche.

@@ -1,23 +1,23 @@
-PREMIER ARACHNOÏDE, ANCIEN DU SCORPIUS
+ARACHNOID, ELDER DU SCORPIUS
 
 
-CLASS: Arachnoïde précoce, aîné
-METABOLISM: ectotherme, arthropode
-PERCEPTION: race sensible primitive
-SIZE: 35-45 pieds
-ENDURANCE: haut
-HOSTILITY: extrême
-WEAPONS: pistolet à chaîne, piqûre de queue
-REWARD: 10000FC
-THREAT: extrême
+CLASSE:      Arachnoide précoce, Aîné
+MÉTABOLISME: ectothermes, arthropodes
+PERCEPTION: race primitive sensible
+TAILLE:       35-45 pieds
+ENDURANCE:  élevé
+HOSTILITÉ:  extrême
+ARMES:    fusil à chaîne, piqûre de queue
+RÉCOMPENSE:     10000 FC
+MENACE:     extrême
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un guerrier sacré issu d'une race primitive a évolué à partir d'arthropodes. Extrêmement hostile en raison de leurs convictions religieuses.
-Porte un Chaingun avec un réapprovisionnement en munitions dans une main. L'exosquelette couvre tout le corps de l'arachnoïde et offre une bonne protection contre les balles, les explosifs et le feu.
-Les Anciens sont incroyablement rares puisque seuls quelques arachnoïdes peuvent survivre aussi longtemps, et de ce fait, ils sont incroyablement forts. Ils ont un exosquelette solide, mais flétri et rouillé et une taille beaucoup plus grande que les adultes.
+Un guerrier sacré issu d'une race primitive a évolué à partir d'arthropodes. Très hostile en raison de leurs convictions religieuses.
+Il porte un fusil à chaîne avec une seule main. Exoskeleton couvre tout le corps d'Arachnoid et offre une bonne protection contre les balles, les explosifs et le feu.
+Les Aînés sont incroyablement rares car seuls quelques Arachnoïdes peuvent survivre aussi longtemps, et de ce fait, ils sont incroyablement forts. Ils ont un exosquelette fort, mais flétri, rouillé et une taille beaucoup plus grande que les adultes.
 
-TIPS: 
+CONSEILS:
 
-- Piqûre dangereuse - ne vous approchez pas de trop près.
-- Tireront sur leurs propres rangs avec fureur.
+- Merde dangereuse - ne pas approcher trop près.
+- Ils s'enfuient.

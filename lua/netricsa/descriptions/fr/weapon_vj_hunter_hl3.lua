@@ -1,20 +1,20 @@
-PIOLET
+PISTOL DU MINISTÈRE
 
 
-WEAPON: Pistolet MiniStrider
-AMMO: Tours d'impulsions
-ROF: ~300 tr/min
-WEIGHT: 1,3kg
+ARME: MiniStrider Pistol
+MUNITIONS:   Pouls ronds
+CADENCE DE TIR:    ~300 RPM
+POIDS: 1,3 kg
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Une arme à impulsion compacte développée grâce à la technologie Strider et adaptée pour un pistolet personnel. Son apparence est pratiquement identique à une arme à feu standard, ce qui permet de l'utiliser discrètement jusqu'au coup de feu.
+Une arme à impulsion compacte développée avec la technologie Strider et adaptée pour un pistolet personnel. Son apparence est pratiquement identique à celle d'une arme à feu standard, ce qui permet de l'utiliser discrètement jusqu'à ce que le tir soit tiré.
 
-L'arme utilise des batteries à impulsions compactes et est conçue pour 7 tirs avant de nécessiter un rechargement. Malgré sa taille compacte, chaque obus à impulsion a une pénétration modérée, suffisante pour infliger des dégâts efficaces.
+L'arme utilise des piles à impulsions compactes et est conçue pour 7 tirs avant d'exiger un rechargement. Malgré sa taille compacte, chaque cycle d'impulsions a une pénétration modérée, suffisante pour endommager efficacement.
 
-NOTES: 
+REMARQUES:
 
-- Magazine capacity: 7 tours d'impulsion.
-- Efficace à portée proche et moyenne.
-- Compatible avec les alimentations à impulsions simplifiées Combine.
-- Utilisé par les Mini-Metrocops et les Unités de Support Autonomes.
+- Capacité du chargeur : 7 pulsations.
+- Efficace à proximité de gammes moyennes.
+- Compatible avec Combiner des alimentations d'impulsion simplifiées.
+- Utilisé par les mini-métrocops et les unités de soutien autonomes.

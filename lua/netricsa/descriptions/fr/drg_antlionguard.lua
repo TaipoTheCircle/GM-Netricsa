@@ -1,22 +1,22 @@
-GARDE ANTLION DE XEN
+ANTLION GUARD DE XEN
 
 
-CLASSE : Fourmilion, Garde
-MÉTABOLISME : Insectoïde
-PERCEPTION : Sensibilisation accrue, protecteur de la ruche
-TAILLE : 12-15 pieds
-ENDURANCE : Très élevée
-HOSTILITÉ : Extrême
-ARMES : Charge par force brute, coups de griffes, jets de débris
-RÉCOMPENSE : 800 FC
-MENACE : Très élevée
+CLASSE:      Antlion, garde
+MÉTABOLISME: Insectoïde
+PERCEPTION: Sensibilisation accrue, protecteur de ruche
+TAILLE:       12-15 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Extrême
+ARMES:    Charge de force brute, coups de griffe, détritus
+RÉCOMPENSE:     800 FC
+MENACE:     Très élevé
 
-DESCRIPTIF :
+DESCRIPTION:
 
-La Garde Antlion est l'imposant exécuteur de la ruche, redouté pour sa force et sa fureur. Presque imperméable aux tirs d'armes à feu conventionnels, il s'appuie sur la puissance brute pour écraser les intrus en chargeant à grande vitesse, en brisant les obstacles et en projetant même des débris comme armes. Bien que terrifiante, sa mort est très précieuse, car elle produit la glande phéropode qui permet aux humains de contrôler les petits fourmilions. Les gardes sont rarement rencontrés seuls ; leur présence signale le cœur d’une ruche de fourmilions.
+La Garde d'Antlion est le maître d'œuvre de la ruche, craint pour sa force et sa fureur. Presque imperméable aux tirs classiques, il compte sur la puissance brute pour écraser les intrus - recharger à grande vitesse, briser les obstacles, et même lancer des débris comme armes. Bien que terrifiant, sa mort est très précieuse, car elle produit la glande phéropode qui donne aux humains le contrôle sur les antlions moindres. Les gardes sont rarement rencontrés seuls; leur présence indique le cœur d'une ruche aux antlions.
 
-CONSEILS :
+CONSEILS:
 
-- Continuez à avancer, ne le laissez jamais vous coincer.
+- Continuez à bouger, ne le laissez jamais vous coincer.
 - Utiliser des armes lourdes ou des risques environnementaux.
-- En vaincre un donne le contrôle de l'essaim.
+- Défaut d'un don pour contrôler l'essaim.

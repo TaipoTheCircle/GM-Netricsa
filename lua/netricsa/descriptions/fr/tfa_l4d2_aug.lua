@@ -1,18 +1,18 @@
-FUSIL D'ASSAUT STEYR AUG
+RISQUE D'ASSAULT
 
 
-ARME:            Fusil d'assaut Steyr AUG
-MUNITIONS:       5,56 x 45 mm OTAN
-CADENCE DE TIR : ~680-750 coups/min
+ARME: Steyr AUG Assault Rifle
+MUNITIONS:   5.56x45mm OTAN
+CADENCE DE TIR:    ~680-750 tours/min
 
-DESCRIPTION :
+DESCRIPTION:
 
-Ce fusil d'assaut autrichien de type « bullpup » a été mis au point en 1977 et adopté en 1978. Le chargeur est situé derrière la détente, ce qui permet à l'AUG d'être compact tout en conservant un canon de longueur standard.
+Ce fusil d'assaut autrichien a été développé en 1977 et adopté en 1978. Le magazine est situé derrière la gâchette, ce qui permet à l'AUG d'être compact tout en maintenant un baril pleine longueur.
 
-L'arme se distingue par sa conception modulaire, son corps en polymère et, sur les premières versions, une lunette de visée intégrée caractéristique. Elle utilise des chargeurs de 30 ou 42 cartouches et se décline en diverses versions dotées, selon les cas, de canons courts, de canons lourds ou d'autres configurations.
+L'arme dispose d'un design modulaire, d'un corps en plastique et d'une vue optique intégrée distinctive sur les premières versions. Il utilise des magazines de 30 ou 42 tours, et diverses versions ont des barils raccourcis, des barils lourds et d'autres configurations.
 
-REMARQUES :
+REMARQUES:
 
-- La conception « bullpup » rend le fusil nettement plus court qu'un modèle standard à longueur de canon équivalente. - L'une des silhouettes les plus reconnaissables parmi les fusils d'assaut.
-- Son design semble tourné vers l'avenir.
-- Il se démonte et se remonte de manière tout à fait unique grâce à sa conception modulaire.
+- La conception du bullup rend le fusil nettement plus court qu'un fusil standard avec une longueur de canon comparable. - Oui. Une des silhouettes les plus reconnaissables parmi les fusils d'assaut.
+- On dirait qu'il a été conçu dans le futur.
+- Il démonte et réassemble de façon unique grâce à sa conception modulaire.

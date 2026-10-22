@@ -1,17 +1,17 @@
-PISTOLET TEMPÊTE BERRETA PX4
+BERRETA PX4 STORM PISTOL
 
 
-WEAPON: Beretta Px4 Tempête
-MUNITIONS Cartouches 9x19 mm
-ROF: Semi-automatique, ~15 tours/min
+ARME:      Beretta Px4 Tempête 
+MUNITIONS:        cartouches 9x19 mm
+CADENCE DE TIR:         Semi-automatique, ~15 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un pistolet à chargement automatique fabriqué par la société italienne Beretta, conçu pour les forces de l'ordre et les forces de l'ordre.
+Un pistolet autochargeur fabriqué par la société italienne Beretta, conçu pour les organismes d'autodéfense et de répression.
 
-NOTES: 
+REMARQUES:
 
 - Précision modérée, faible recul.
-- Inefficace contre les cibles blindées.
-- Utile pour conserver les types de munitions plus lourdes.
-- Compact et peut être transporté caché.
+- Inefficacité contre les cibles blindées.
+- Utile pour la conservation de munitions plus lourdes.
+- Compact et peut être porté caché.

@@ -1,23 +1,23 @@
-ARCHÉOLOGUE Décapitée, COMMANDO FÉMININ DE L'ÎLE MYSTÉRIEUSE
+ARCHÉOLOGISTE décapité, COMMANDEMENT FEMME DE L'ÎLE MYSTERIEUSE
 
 
-CLASS:      Beheaded Archaeologist, Female Commando
-METABOLISM: Cyber-Zombie
-PERCEPTION : Insensible, contrôlé par LCU
-SIZE:       6 ft
-ENDURANCE : Moyenne
-HOSTILITY:  Average
-WEAPONS:    Magic Ammo, Hand Grenades
-REWARD:     3000 FC
-THREAT:     Average
+CLASSE:      Archéologue décapité, Commando féminin
+MÉTABOLISME: Cyber-Zombie
+PERCEPTION: Insensible, contrôlé par LCU
+TAILLE:       6 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Moyenne
+ARMES:    Ammo magique, grenades à main
+RÉCOMPENSE:     3000 FC
+MENACE:     Moyenne
 
-DESCRIPTIF :
+DESCRIPTION:
 
-A Beheaded Archaeologist from a Mysterious Island, raised from the dead by Mental and remote controlled by Life Control Unit (LCU). 
+Archéologue décapité d'une île mystérieuse, ressuscité d'entre les morts par Mental et télécommandé par Life Control Unit (LCU).
 
-The Commando carries his own head in one hand to receive audio/visual information. A seasoned veteran of the Beheaded Troops special forces unit and a veteran of numerous combat encounters, the female commando is a far more dangerous and powerful opponent than her "Orange" rookie comrades. She fires five magical projectiles from a rocket launcher built into her head and also throws five hand grenades at a time. Unlike other Beheaded soldiers, the female commando uses a different combat tactic: when she senses she's about to die, she lunges at the enemy with her last strength and explodes when she gets close enough to her target. The commando is invulnerable to her own rockets, but can be damaged by her own grenades.
+Le Commando porte sa propre tête d'une main pour recevoir des informations audiovisuelles. Vétéran chevronné de l'unité des forces spéciales des troupes décapités et vétéran de nombreuses rencontres de combat, le commando féminin est un adversaire bien plus dangereux et puissant que ses camarades « Orange ». Elle tire cinq projectiles magiques d'un lance-roquettes dans sa tête et lance cinq grenades à la fois. Contrairement à d'autres soldats décapités, le commando féminin utilise une tactique de combat différente : lorsqu'elle sent qu'elle est sur le point de mourir, elle frappe l'ennemi avec sa dernière force et explose quand elle se rapproche suffisamment de sa cible. Le commando est invulnérable à ses propres roquettes, mais peut être endommagé par ses propres grenades.
 
-TIPS:
+CONSEILS:
 
-- Avoid her grenades.
-- After taking enough damage, the female commando switches to kamikaze mode.
+- Evitez ses grenades.
+- Après avoir pris assez de dégâts, le commando féminin passe en mode kamikaze.

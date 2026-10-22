@@ -1,24 +1,24 @@
-OTIS LAUREY
+LAURE D'OTIS
 
 
-CLASS: Otis Laurey
-METABOLISM: Humain, mâle
-PERCEPTION: Agent de sécurité Black Mesa
-SIZE: 5,9 pieds
-ENDURANCE: Faible-Moyen
-HOSTILITY: Défensif / Allié
-WEAPONS: Aigle du désert
-REWARD: 100 FC
-THREAT: Faible
+CLASSE:      Otis laurey
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Garde de sécurité Black Mesa
+TAILLE:       5,9 pieds
+ENDURANCE:  Faible-moyenne
+HOSTILITÉ:  Défendeur / Allié
+ARMES:    Aigle du désert
+RÉCOMPENSE:     100 FC
+MENACE:     Faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Otis est un agent de sécurité de Black Mesa, souvent aussi paresseux, distrait et lent à réagir. Malgré sa maladresse, il est équipé d'un puissant Desert Eagle, ce qui le rend étonnamment dangereux dans les échanges de tirs à courte portée.
+Otis est un garde de sécurité Black Mesa, souvent aussi paresseux, distrait et lent à réagir. Malgré sa maladresse, il est équipé d'un puissant Aigle du désert, ce qui le rend étonnamment dangereux dans les combats de proximité.
 
-Contrairement aux gardes standards, Otis est plutôt une figure de bande dessinée dans le chaos de Black Mesa. Sa mauvaise forme physique limite son efficacité, mais sa volonté d'aider et son arme de poing solide le rendent utile en tant qu'allié défensif.
+Contrairement aux gardes standard, Otis est plus une figure de secours dans le chaos de Black Mesa. Sa mauvaise condition physique limite son efficacité, mais sa volonté d'aider et son bras fort le maintiennent utile comme allié défensif.
 
-TIPS: 
+CONSEILS:
 
-- Protégez-le - son Desert Eagle est un coup de poing, mais son ENDURANCE est faible.
-- Ne comptez pas sur lui pour de longues poursuites ou des combats acharnés.
-- Gardez les ennemis à une distance où ils peuvent tirer en toute sécurité.
+- Protégez-le - son Aigle du désert un coup de poing, mais son ENDURANCE est faible.
+- Ne comptez pas sur lui pour de longues poursuites ou de gros combats.
+- Gardez vos ennemis à distance.

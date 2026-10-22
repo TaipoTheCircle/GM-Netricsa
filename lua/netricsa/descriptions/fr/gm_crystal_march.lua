@@ -1,10 +1,10 @@
-CRYSTAL MARCH
+MARQUE CRYSTAL
 
 
-Sam, tu as atterri à Crystal March, un endroit où même les cristaux semblent suspects.
+Sam, vous avez atterri à Crystal March - un endroit où même les cristaux semblent suspect.
 
-Ici, vous allez sauter.
+Tiens, tu vas sauter.
 
 Features:
 
-Environment: Espaces ouverts avec formations cristallines et structures en ruine.
+Environment: Espaces ouverts avec formations cristallines et structures ruinées.

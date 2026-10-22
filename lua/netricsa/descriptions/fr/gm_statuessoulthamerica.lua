@@ -1,22 +1,22 @@
-TEOTIHUACAN, VALLÉE DES MONOLITHES - SALLE DES DIEUX ANCIENS
+TEOTIHUACAN, VALLÉE DES MONOLITS - HALL DES DIEUS ANCIENS
 
 
-Sam, nous sommes là. La Vallée des Monolithes. Rien que des idoles, un sol en pierre et... du silence. Pas de clôtures, pas de murs, aucune de vos « merveilles mayas transparentes ». Juste une salle remplie de dieux qui nous regardent.
+Sam, on est là. La Vallée des Monolithes. Rien que des idoles, un sol en pierre, et... silence. Pas de clôtures, pas de murs, pas de ces « merveilles mayas » transparentes. Juste une salle remplie de dieux qui nous regardent.
 
-Regarder. Le serpent à plumes – Quetzalcoatl, également connu sous le nom de Kukulkan. Il présidait au vent, au ciel, à l'eau et à la sagesse. S'il décide de vous accorder un boost d'agilité ou de vitesse, ne le refusez pas. Un vent arrière n’a jamais fait de mal à personne !
+Regarde. Le Serpent-Quetzalcoatl, également connu sous le nom de Kukulkan. Il présida le vent, le ciel, l'eau et la sagesse. S'il décide de vous donner un coup de pouce en agilité ou en vitesse, ne le refusez pas. Un vent arrière ne fait de mal à personne !
 
-A côté se dresse un pilier en pierre sculptée. Une stèle maya. Une chronique historique, un calendrier, un registre des ancêtres. Si vous trouvez un indice là-dessus, lisez-le attentivement. Cela pourrait bien nous dire comment échapper à cette folie.
+A côté se trouve un pilier en pierre sculptée. Une stèle Maya. Une chronique historique, un calendrier, un registre des ancêtres. Si vous trouvez un indice dessus, lisez-le attentivement. Ça pourrait nous dire comment échapper à cette folie.
 
-Plus loin, il y a une idole assise. Une divinité domestique. Ces gars cachent généralement des trésors ou des packs de santé. Donnez-lui un coup, quelque chose d'utile pourrait tomber. Ou peut-être rien. Mais ça vaut le coup d'essayer !
+Plus loin, il y a une idole assise. Une divinité domestique. Ces gars cachent généralement des trésors ou des paquets de santé. Donnez-lui un coup — quelque chose d'utile pourrait abandonner. Ou peut-être rien. Mais ça vaut le coup d'essayer !
 
-Une tête olmèque massive en pierre. Il a un regard sévère. Mieux vaut lui laisser une large place !
+Une grosse tête de pierre Olmec. Il a un regard sévère. Il vaut mieux lui donner une grande couchette !
 
-A pedestal with a Jaguar. Lord of the jungle, god of night and war. If aggressive music suddenly kicks in and enemies start swarming when you're near it—don't be surprised. That's his doing!
+Un piédestal avec une Jaguar. Seigneur de la jungle, dieu de la nuit et de la guerre. Si des musiques agressives s'enchaînent soudainement et que les ennemis commencent à s'embraser quand on est près d'elle, ne soyez pas surpris. C'est lui qui fait ça !
 
-Et enfin, le grand dieu totem, la figure atlante de Tula. Un guerrier toltèque, pilier des cieux, gardien des portes. Placez-le à côté de quelque chose d'important et il montera la garde. Ou il vous regardera simplement passer.
+Et enfin, le grand dieu totem, la figure atlante de Tula. Un guerrier Toltèque, un pilier des cieux, un gardien des portes. Placez-le à côté de quelque chose d'important, et il tiendra garde. Ou il regardera en marchant.
 
-You know, Sam, there are no traps here, no enemies, no fences. Just the gods. Ancient, made of stone, silent. And every one of them holds meaning.
+Sam, il n'y a pas de pièges ici, pas d'ennemis, pas de clôtures. Juste les dieux. Ancien, fait de pierre, silencieux. Et chacun d'eux a un sens.
 
-Walk calmly. Take a look around. Maybe these gods will tell you more than all our gauges and sensors put together!
+Marchez calmement. Regarde autour de toi. Peut-être que ces dieux vous en diront plus que tous nos jauges et capteurs réunis !
 
-Let's go, Sam. It's beautiful here, but we need to move on!
+Allons-y. C'est magnifique ici, mais il faut avancer !

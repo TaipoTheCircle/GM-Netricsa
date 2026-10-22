@@ -1,21 +1,21 @@
-BLACK MESA ON BREAK SECURITY GUARD
+MESA BLACK SUR LA SÉCURITÉ DE BREAK
 
 
-CLASS: Black Mesa On Break Agent de sécurité
-METABOLISM: Humain, mâle
-PERCEPTION: Garde de sécurité de Black Mesa (non armé)
-SIZE: ~5,9 pieds
-ENDURANCE: Faible
-HOSTILITY: Aucun
-WEAPONS: Aucun
-REWARD:     50 FC
-THREAT: Aucun
+CLASSE:      Black Mesa Sur Break Security Guard
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Garde de sécurité de Mesa noire (non armé)
+TAILLE:       ~5,9 pi
+ENDURANCE:  Faible
+HOSTILITÉ:  Aucune
+ARMES:    Aucune
+RÉCOMPENSE:     50 FC
+MENACE:     Aucune
 
 DESCRIPTION:
 
-Un agent de sécurité paniqué et sans arme. Au lieu de se battre, il fuit immédiatement le danger.
+Un garde de sécurité paniqué sans armes. Au lieu de se battre, il fuit immédiatement le danger.
 
-TIPS:
+CONSEILS:
 
-- Inoffensif - ignorer ou capturer.
-- Peut attirer les ennemis en courant.
+- Sans danger - ignorer ou capturer.
+- Peut attirer des ennemis en courant.

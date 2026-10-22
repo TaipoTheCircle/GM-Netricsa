@@ -1,21 +1,21 @@
-BOMBARDIER DÉCAPÉ, BÊTA
+BOMBRE, BETA
 
 
-CLASS: Bombardier décapité, bêta
-METABOLISM: cyber-zombie
+CLASSE:      Bombier décapité, Beta
+MÉTABOLISME: cyber-zombie
 PERCEPTION: insensible, contrôlé par LCU
-SIZE: 6 pieds
-ENDURANCE: très faible
-HOSTILITY: très faible
-WEAPONS: grenades à main
-REWARD: 500FC
-THREAT: faible
+TAILLE:       6 pieds
+ENDURANCE:  très faible
+HOSTILITÉ:  très faible
+ARMES:    grenades à main
+RÉCOMPENSE:     500 FC
+MENACE:     faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un soldat sirien exécuté, ressuscité des morts par Mental et télécommandé par Life Control Unit (LCU).
-race primitive entraînée
+Un soldat sirien exécuté, ressuscité d'entre les morts par Mental et télécommandé par l'Unité de contrôle de la vie.
+Le Bomber porte sa propre tête dans une main pour recevoir des informations audiovisuelles et a une grande quantité de bombes gonflables dans ses poches.
 
-TIPS: 
+CONSEILS:
 
-- Le bombardier décapité explose peu après la mort.
+- Le Bombier décapité explose peu après la mort.

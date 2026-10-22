@@ -1,15 +1,15 @@
-PISTOLET À OUTILS
+OUTILS
 
 
-WEAPON: Pistolet à outils
+ARME:      Pistolet à outils
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Appareil utilitaire multifonctionnel pour manipuler des objets et des mécanismes de jeu. Permet de souder, geler, contraindre et ajuster les propriétés des accessoires et des entités. Indispensable pour construire, personnaliser et expérimenter l’environnement.
+Appareil d'utilité multifonctionnel pour la manipulation des objets et la mécanique de jeu. Permet la soudure, le gel, la contrainte et l'ajustement des propriétés des accessoires et des entités. Essentiel pour construire, personnaliser et expérimenter dans l'environnement.
 
-NOTES: 
+REMARQUES:
 
-- Utilisation infinie ; aucune munition requise.
-- Prend en charge des dizaines d'outils pour la construction, la physique et les scripts.
-- Peut interagir à la fois avec des accessoires et des créatures en fonction de l'outil sélectionné.
-- Non mortel ; uniquement à des fins créatives et expérimentales.
+- Utilisation infinie; pas de munitions nécessaires.
+- Supporte des dizaines d'outils pour la construction, la physique et le scénario.
+- Peut interagir avec les accessoires et les créatures selon l'outil sélectionné.
+- Non létaux; purement à des fins créatives et expérimentales.

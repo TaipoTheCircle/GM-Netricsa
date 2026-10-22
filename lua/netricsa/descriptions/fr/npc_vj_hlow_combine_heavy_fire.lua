@@ -1,27 +1,27 @@
-LOURDE COMBINE OVERWATCH LANCE-FLAMME SOLDAT
+SOLDATEUR DE COMBINE LOURDIT
 
 
-CLASS: Soldat blindé lourd d'Overwatch avec lance-flammes de l'Alliance
-METABOLISM: Humain augmenté, mâle
-PERCEPTION: Unité de déminage et de suppression des incendies
-SIZE: 5,9 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Extrême
-WEAPONS: Combinez lance-flammes et réservoir de carburant
-REWARD: 800 FC
-THREAT: Très élevé
+CLASSE:      Forte montre blindée soldat avec Alliance Flamethrower
+MÉTABOLISME: Augmenté Humain, Homme
+PERCEPTION: Groupe de la lutte contre les incendies
+TAILLE:       5,9 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Extrême
+ARMES:    Combiner lance-flammes, réservoir de carburant
+RÉCOMPENSE:     800 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le soldat lance-flammes Combine Overwatch est une ironie ambulante de l'ingénierie Combine lourdement blindée. Il est vêtu d'une combinaison orange vif contre les matières dangereuses avec un énorme respirateur, ce qui le fait ressembler plus à un dépanneur qu'à une unité de combat. Mais cette couleur a été choisie délibérément : il est fait pour être vu. Et craint.
+Le Soldat Flamethrower Combine Overwatch est une ironie de l'ingénierie Combine. Il est vêtu d'un costume de hazmat orange brillant avec un respirateur massif, ce qui le rend plus comme un épave qu'une unité de combat. Mais cette couleur a été choisie délibérément-il est destiné à être vu. Et craignait.
 
-A large fuel tank powering a flamethrower is attached to the soldier's back. The tank is unstable and highly explosive: plusieurs coups précis provoquent une détonation qui tue à la fois le soldat et toute personne à proximité avec la même indifférence. Le Combine considère que c'est un prix acceptable pour l'efficacité et l'intimidation.
+Un grand réservoir de carburant alimentant un lance-flammes est fixé au dos du soldat. Le char est instable et très explosif : plusieurs coups précis provoquent une détonation qui tue à la fois le soldat et toute personne à proximité avec la même indifférence. Le Combine considère cela comme un prix acceptable pour l'efficacité et l'intimidation.
 
-Au combat, ce soldat ne se soucie pas de sa propre survie. Il avance lentement, engloutissant la zone dans les flammes, chassant l'ennemi de sa couverture et transformant les couloirs en fournaises. Sa mission est de briser les défenses à tout prix, même au prix de sa propre vie.
+Au combat, ce soldat se fiche de sa propre survie. Il avance lentement, engouffrant la zone en flammes, en tirant l'ennemi hors de la couverture et en transformant les couloirs en fours. Sa mission est de briser les défenses à tout prix, même au prix de sa propre vie.
 
-TIPS: 
+CONSEILS:
 
-- Tirez sur le char sur le dos - une explosion est garantie.
+Une explosion est garantie.
 - Ne vous approchez pas, même s'il est déjà blessé.
-- L'explosion tue tout le monde à portée - mettez-vous à couvert.
-- La combinaison lumineuse est très visible, mais on a peu de temps pour réagir.
+- L'explosion tue tout le monde à portée de la main.
+- Le costume brillant est très visible, mais il y a peu de temps pour réagir.

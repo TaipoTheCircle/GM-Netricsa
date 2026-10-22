@@ -1,22 +1,22 @@
-AN-M8 HC SMOKE GRENADE
+AN-M8 HC FROMAGE GRENADE
 
 
-ARME : AN-M8 HC Smoke Grenade
-MUNITIONS : HC Smoke Mixture
-ROF : Single Use
-POIDS : ~680 g
+ARME: AN-M8 HC Grenade de fumée
+MUNITIONS:   Mélange de fumée de SC
+CADENCE DE TIR:    Usage unique
+POIDS: 680 g
 
-DESCRIPTIF :
+DESCRIPTION:
 
-This American smoke grenade was developed in the 1940s to create a dense smoke screen. It was used by American and other allied forces to conceal movement, hide positions, signal, and designate targets from the ground or air.
+Cette grenade à fumée américaine a été développée dans les années 1940 pour créer un écran de fumée dense. Il a été utilisé par les forces américaines et autres alliés pour dissimuler les mouvements, cacher les positions, signaler et désigner des cibles du sol ou de l'air.
 
-The grenade has a cylindrical body made of sheet steel and is filled with a smoke-generating mixture. After the fuse is triggered, thick white or gray smoke begins to emerge from the body, creating a thick smoke screen. Depending on conditions, the smoke can last for approximately 105-150 seconds.
+La grenade a un corps cylindrique en tôle d'acier et est remplie d'un mélange générateur de fumée. Une fois le fusible déclenché, une épaisse fumée blanche ou grise commence à émerger du corps, créant ainsi un écran de fumée épais. Selon les conditions, la fumée peut durer environ 105 à 150 secondes.
 
-The AN-M8 saw widespread use beginning in World War II and remained in service with the US and allied forces in various forms until the end of the 20th century. It was later gradually replaced by the more modern M83.
+Le AN-M8 a été largement utilisé à partir de la Seconde Guerre mondiale et est resté en service avec les forces américaines et alliées sous diverses formes jusqu'à la fin du XXe siècle. Il a ensuite été progressivement remplacé par le M83 plus moderne.
 
-REMARQUES :
+REMARQUES:
 
-- Primary purpose: creating a dense smoke screen to conceal movements and positions.
-- Can be used to designate targets and send signals, including from the ground to the air.
-- Smoke lasts for approximately 1,75-2,5 minutes, allowing complete obstruction of vision for some time.
-- The AN-M8 smoke contains harmful substances and can irritate the eyes, throat, and lungs, making the grenade especially dangerous when used indoors.
+- Objectif principal : créer un écran de fumée dense pour cacher les mouvements et les positions.
+- Peut être utilisé pour désigner des cibles et envoyer des signaux, y compris du sol aux airs.
+- La fumée dure environ 1,75-2,5 minutes, ce qui permet une obstruction complète de la vision pendant un certain temps.
+- La fumée AN-M8 contient des substances nocives et peut irriter les yeux, la gorge et les poumons, rendant la grenade particulièrement dangereuse lorsqu'elle est utilisée à l'intérieur.

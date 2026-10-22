@@ -1,24 +1,24 @@
-COMBINEZ LE COMMANDANT DE METROCOP DE LA PROTECTION CIVILE
+COMBINE PROTECTION CIVILE METROCOP COMMANDER
 
 
-CLASS: SMG1, Kit de santé médical
-METABOLISM: Humain, mâle
-PERCEPTION: Commandant D'Unité De Protection Civile
-SIZE: 9 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Très élevé
-WEAPONS: AR3
-REWARD: 600 FC
-THREAT: Haut
+CLASSE:      Combiner la protection civile Metrocop Commander
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Commandant d'unité de la protection civile
+TAILLE:       9 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Très élevé
+ARMES:    AR3
+RÉCOMPENSE:     600 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-The MetroCop Commander is a rare and dangerous member of the Civil Protection, appearing in high-resistance zones. His black uniform, reinforced body armor, and white mask with gas mask immediately distinguish him from ordinary Metropolitan Police officers. The face is completely concealed: le masque comporte des trous de respiration distinctifs et des panneaux latéraux ronds, rendant l'identification impossible.
+Le commandant MetroCop est un membre rare et dangereux de la Protection Civile, apparaissant dans les zones de haute résistance. Son uniforme noir, son armure renforcée et son masque blanc avec masque à gaz le distinguent immédiatement des policiers de la police métropolitaine ordinaire. Le visage est complètement caché : le masque présente des trous de respiration distinctifs et des panneaux latéraux ronds, rendant l'identification impossible.
 
-On the left sleeve is a red armband with a white circle and a black Combine symbol-a sign of authority and unconditional subordination to the highest hierarchy. This symbol doesn't so much denote rank as it warns: ce n'est pas un patrouilleur, mais un observateur d'ordres sans droit de question.
+Sur la manche gauche se trouve un brassard rouge avec un cercle blanc et un symbole noir Combinez-un signe d'autorité et de subordination inconditionnelle à la plus haute hiérarchie. Ce symbole n'indique pas tant le rang qu'il le prévient : ce n'est pas un patrouilleur, mais un suiveur d'ordre sans droit de questionner.
 
-Le commandant détient un AR3, une arme à impulsion lourde dont le véritable objectif et la désignation officielle ne sont connus que d'un nombre limité d'officiers du Combine. Cette arme n’est pas conçue pour disperser les foules, mais pour supprimer complètement la résistance.
+Le commandant détient une arme à impulsions lourdes AR3 dont le véritable but et la désignation officielle ne sont connus que d'un nombre limité d'officiers du Combine. Cette arme n'est pas conçue pour la dispersion de la foule, mais pour la suppression complète de la résistance.
 
-TIPS: 
+CONSEILS:
 
-- Ne vous engagez pas dans un combat direct sans couverture : l'AR3 supprime l'espace, pas la cible.
+- Ne vous livrez pas au combat direct sans couvrir - l'AR3 supprime l'espace, pas la cible.

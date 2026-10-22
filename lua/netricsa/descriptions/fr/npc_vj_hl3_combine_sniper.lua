@@ -1,23 +1,23 @@
-OVERWATCH COMBINEZ SNIPER FEMME
+ENSEMBLE DE COMBINE DE FEMME SURVEILLANCE
 
 
-CLASS: Overwatch Combine Femme Sniper
-METABOLISM: Implants humains, féminins / neuro-biomécaniques améliorés
-PERCEPTION: Tireur d'élite transhumain
-HEIGHT: 5,9 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Extrême
-WEAPONS: Fusil de précision Overwatch Mk1
-REWARD: 800 FC
-THREAT: Très élevé
+CLASSE:      Overwatch Combiner le sniper femelle
+MÉTABOLISME: Implants humains, femelles / neurobiomécaniques améliorés
+PERCEPTION: Sniper combiné transhumain
+HEIGHT:     5,9 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Extrême
+ARMES:    Surveillez le sniper de précision Mk1 Rifle
+RÉCOMPENSE:     800 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-L'Overwatch Combine Female Sniper est un agent transhumain spécialisé conçu exclusivement pour les assassinats à longue portée. Contrairement aux soldats standards d’Overwatch, ces agents ne se lancent pas dans des assauts ouverts ni n’opèrent en groupe. Leur mission est de contrôler les zones clés, de réprimer la résistance et d’éliminer les commandants, les dirigeants et les cibles à haut risque.
+L'Overwatch Combine Female Sniper est un agent transhumain spécialisé conçu exclusivement pour l'assassinat à longue portée. Contrairement aux soldats de Surveillant standard, ces agents ne se livrent pas à des attaques ouvertes ou n'opèrent pas en groupe. Leur mission est de contrôler les zones clés, de supprimer la résistance et d'éliminer les commandants, les dirigeants et les cibles à haut risque.
 
-Les tireurs d'élite sont déployés sur les toits, les tours, les structures industrielles et d'autres endroits difficiles d'accès. Ils peuvent rester immobiles pendant des heures, en attendant des ordres ou une confirmation de cible.
+Des tireurs d'élite sont déployés sur les toits, les tours, les structures industrielles et d'autres endroits difficiles d'accès. Ils peuvent rester immobiles pendant des heures, en attendant les ordres ou la confirmation de la cible.
 
-TIPS: 
+CONSEILS:
 
-- Ne vous tenez jamais dans des espaces ouverts sans couverture.
+- Ne restez jamais dans les espaces ouverts sans couverture.
 - La meilleure façon de survivre est de ne pas être détecté.

@@ -1,6 +1,6 @@
-BLACK MESA, ERROR
+MESA BLACK, ERREUR
 
 
-Sam, environmental mapping is scrambled. The cascade has flooded this sector with interference. I can't read the tunnels ahead - only lifeforms and weapon signatures. Translation: toi
-Je vais devoir conduire à l'aveugle, mais je vais te dire qui
-j'attends avec le doigt sur la gâchette
+Sam, la cartographie environnementale est brouillée. La cascade a inondé ce secteur d'interférences. Je ne peux pas lire les tunnels à l'avance - seulement les formes de vie et les signatures d'armes. Traduction: vous
+je vais devoir conduire aveugle, mais je vais vous dire qui
+s attendre avec le doigt de la gâchette

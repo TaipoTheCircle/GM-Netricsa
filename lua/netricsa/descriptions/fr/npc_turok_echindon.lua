@@ -1,26 +1,26 @@
-ECHINDON DE LA PLANÈTE TERRAFORMÉE
+ECHINDON DE LA PLANTE TERRAFORME
 
 
-CLASS: - Les harceleurs se trouvent souvent dans les zones fortifiées ; attendez-vous à ce que les unités de soutien Combine se trouvent à proximité.
-METABOLISM: Omnivore
+CLASSE:      Échindon
+MÉTABOLISME: Omnivore
 PERCEPTION: Petit animal grégaire
-SIZE: 3 pieds
-ENDURANCE: Très faible
-HOSTILITY: Moyenne
-WEAPONS: Morsure, griffes
-REWARD: 50 FC
-THREAT: Moyenne
+TAILLE:       3 pieds
+ENDURANCE:  Très faible
+HOSTILITÉ:  Moyenne
+ARMES:    Morceaux, griffes
+RÉCOMPENSE:     50 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Ce sont de proches parents des mini-rapaces, mais plus foncés, avec des yeux plus petits et des griffes moins prononcées. Leur peau brune, leurs petits yeux naturels et l’absence de plumes brillantes les font ressembler à des versions miniatures de quelque chose de plus grand et de plus dangereux. Dans l’ensemble, ils sont indescriptibles, gris et discrets.
+Ce sont des parents proches de mini-rapteurs, seulement plus foncés, avec des yeux plus petits et des griffes moins prononcées. Leur peau brune, leurs petits yeux naturels et le manque de pousses brillantes de plumes les font ressembler à des versions miniatures de quelque chose de plus grand et plus dangereux. Dans l'ensemble, ils sont non descriptifs, gris et peu visibles.
 
-La principale différence entre les échindons et les mini-rapaces réside dans leur personnalité. Les mini-raptors sont agressifs par défaut et attaquent tout ce qui bouge. Les échindons sont passifs et ne dérangent pas les gens à moins qu'ils ne soient dérangés. Si vous passez devant une meute d’Echindons, ils resteront simplement assis et regarderont. Mais si vous en tirez un ou si vous en frappez un accidentellement, le groupe entier devient instantanément fou furieux et attaque.
+La principale différence entre les échindons et les mini-raptors est leur personnalité. Les mini-rapteurs sont agressifs par défaut et attaquent tout ce qui bouge. Les Echindons sont passifs et ne dérangent pas les gens à moins qu'ils ne soient dérangés. Si vous passez par un paquet d'Echindons, ils vont juste s'asseoir et regarder. Mais si vous en tirez un ou en frappez un accidentellement, tout le pack est immédiatement en colère et attaque.
 
-Otherwise, Echindons behave similarly to mini-raptors: ils sautent, mordent et tentent d'entourer et de coincer leurs proies. Seuls, ils sont impuissants et meurent d’un seul coup de couteau ou d’un seul coup de couteau. En meute, ils peuvent être une nuisance, surtout s'ils sont pris au dépourvu dans la jungle, où il y a beaucoup de couverture et peu de marge de manœuvre.
+Sinon, les Echindons se comportent de la même façon que les mini-rapteurs : ils sautent, mordent et essaient d'entourer et d'épingler leurs proies. Seul, ils sont impuissants et meurent avec un seul coup de couteau. Dans une meute, ils peuvent être une nuisance, surtout si pris hors garde dans la jungle, où il y a beaucoup de couverture et peu de place à manœuvrer.
 
-TIPS: 
+CONSEILS:
 
-- Ne tirez pas en premier. Si vous laissez la meute tranquille, ils passeront.
-- Un couteau, ça marche très bien. Un coup en tue un.
-- Les échindons sont petits mais rapides. Ne les laissez pas vous entourer.
+- Ne tirez pas en premier. Si tu laisses le paquet tranquille, ils passeront.
+- Un couteau marche bien. Une frappe en tue une.
+- Les Echindons sont petits mais rapides. Ne les laissez pas vous entourer.

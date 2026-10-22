@@ -1,28 +1,28 @@
-ANGE À GROSSE TÊTE, ROBERT WESTMORELAND
+GRANDE ANGEL, ROBERT WESTMORELAND
 
 
-CLASS: Ange à grosse tête, Robert Westmoreland
-METABOLISM: Humanoïde, mâle
+CLASSE:      Big-Head Angel, Robert Westmoreland
+MÉTABOLISME: Humanoïde, Homme
 PERCEPTION: Fanatique enthousiaste
-SIZE: 5,9 pieds
-ENDURANCE: Faible
-HOSTILITY: Neutre
-WEAPONS: Aucun (sauf en difficulté I Am Ugh-Zan)
-REWARD: 100 FC
-THREAT: Ennui
+TAILLE:       5,9 pieds
+ENDURANCE:    Faible
+HOSTILITÉ:  Neutre
+ARMES:    Aucune (sauf sur I Am Ugh-Zan difficulté)
+RÉCOMPENSE:     100 FC
+MENACE:     Annoyance
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les Big-Heads sont de minces humanoïdes aux crânes exagérés contenant le cerveau des développeurs de Croteam. Ils portent l'uniforme de Serious Sam, mais ont les traits du visage uniques de l'équipe de développement. Ils affichent un enthousiasme obsessionnel et vous poursuivent aux cris de « Bonjour ! » et "Hé, attends!" Ils sont totalement inoffensifs, mais dans la difficulté "Je suis Ugh-Zan", ils gagnent des modificateurs de feu et de glace. Ils apparaissent spontanément dans les zones secrètes, bloquant les passages par leur grand nombre.
+Les grandes têtes sont de minces humanoïdes avec des crânes exagérés contenant les cerveaux des développeurs de Croteam. Ils portent l'uniforme de Serious Sam, mais ont les caractéristiques faciales uniques de l'équipe de développement. Ils montrent un enthousiasme obsessionnel, vous poursuivant avec des cris de "Bonjour!" et "Hé, attendez!" Ils sont complètement inoffensifs, mais dans la difficulté "Je suis Ugh-Zan", ils gagnent le feu et les modificateurs de glace. Ils apparaissent spontanément dans les zones secrètes, bloquant les passages avec leur nombre.
 
-Robert Westmoreland is the "invisible" strategist behind the business success of this madness. His oversized cranium is a treasure trove of market wisdom, gleaned over decades of his career, from a buyer at Walmart to the CEO of publishing divisions. While the Croteam developers were creating digital worlds, Robert was handling an equally challenging task: développement des affaires. C'est lui qui a aidé à trouver des éditeurs, à établir des partenariats et à garantir que "Serious Sam" existe non seulement en tant que classique culte, mais également en tant que produit commercialement viable atteignant les joueurs du monde entier.
+Robert Westmoreland est le stratège « invisible » derrière le succès commercial de cette folie. Son crâne surdimensionné est un trésor de sagesse du marché, glané pendant des décennies de sa carrière, d'un acheteur à Walmart au PDG des divisions d'édition. Alors que les développeurs de Croteam créaient des mondes numériques, Robert s'occupait d'une tâche tout aussi difficile : le développement des affaires. C'est lui qui a aidé à trouver des éditeurs, à établir des partenariats et à s'assurer que "Serious Sam" n'existait pas seulement comme un classique culte, mais aussi comme un produit commercialement viable touchant les joueurs du monde entier.
 
-His influence can be traced from the very first The First Encounter to the HD remasters and Classics: Révolution.
+His influence can be traced from the very first The First Encounter to the HD remasters and Classics: La révolution.
 
-GROSSE TÊTE, JOHN J. DICK "BOOGER"
+Il était une fois vivant, mais après que quelqu'un l'ait tué, il a été ressuscité - devenir un ange.
 
-TIPS: 
+CONSEILS:
 
 - Utilisez un couteau de combat ou un pistolet pour dégager le chemin.
-- En difficulté "I Am Ugh-Zan", détruisez-les à distance grâce à leurs modificateurs.
-- Une masse à frappe horizontale est efficace en groupe.
+- Sur la difficulté "Je suis Ugh-Zan", les détruire à distance en raison de leurs modificateurs.
+- Un lugehammer avec une frappe horizontale est efficace dans un groupe.

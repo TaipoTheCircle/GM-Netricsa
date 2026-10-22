@@ -1,28 +1,28 @@
-ZOMBIE À GROSSE TÊTE, DARKO MARTINOVIC
+ZOMBIE, DARKO MARTINOVIC
 
 
-CLASS: Zombie à grosse tête, Darko Martinovic
-METABOLISM: Humanoïde, mâle
+CLASSE:      Grande tête Zombie, Darko Martinovic
+MÉTABOLISME: Humanoïde, Homme
 PERCEPTION: Fanatique enthousiaste
-SIZE: 5,9 pieds
-ENDURANCE: Faible
-HOSTILITY: Neutre
-WEAPONS: Aucun (sauf en difficulté I Am Ugh-Zan)
-REWARD: 100 FC
-THREAT: Ennui
+TAILLE:       5,9 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Neutre
+ARMES:    Aucune (sauf sur I Am Ugh-Zan difficulté)
+RÉCOMPENSE:     100 FC
+MENACE:     Annoyance
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les Big-Heads sont de minces humanoïdes aux crânes exagérés contenant le cerveau des développeurs de Croteam. Ils portent l'uniforme de Serious Sam, mais ont les traits du visage uniques de l'équipe de développement. Ils affichent un enthousiasme obsessionnel et vous poursuivent aux cris de « Bonjour ! » et "Hé, attends!" Ils sont totalement inoffensifs, mais en difficulté "Je suis Ugh-Zan", ils gagnent des modificateurs de feu et de glace. Ils apparaissent spontanément dans les zones secrètes, bloquant les passages par leur grand nombre.
+Les grandes têtes sont de minces humanoïdes avec des crânes exagérés contenant les cerveaux des développeurs de Croteam. Ils portent l'uniforme de Serious Sam, mais ont les caractéristiques faciales uniques de l'équipe de développement. Ils montrent un enthousiasme obsessionnel, vous poursuivant avec des cris de "Bonjour!" et "Hé, attendez!" Ils sont complètement inoffensifs, mais sur la difficulté "Je suis Ugh-Zan" ils gagnent le feu et les modificateurs de glace. Ils apparaissent spontanément dans des zones secrètes, bloquant les passages avec leur nombre.
 
-Darko Martinovic est l'un des principaux programmeurs qui ont été les pionniers des mécanismes de jeu de la série. Son crâne surdimensionné est le résultat direct de sa profonde immersion dans le code, créant ce chaos « sérieux » à l’écran. Même si les noms des principaux développeurs sont souvent connus, ce sont des spécialistes comme Darko qui constituent la base sur laquelle repose le gameplay.
+Darko Martinovic est l'un des programmateurs clés qui a lancé la mécanique de gameplay de la série. Son crâne surdimensionné est un résultat direct de son immersion profonde dans le code, créant ce chaos « grave » à l'écran. Alors que les noms des principaux développeurs sont souvent des noms de famille, ce sont des spécialistes comme Darko qui forment la base sur laquelle le gameplay est construit.
 
-His contribution to the series is particularly noticeable in two landmark projects: Serious Sam : La Deuxième Rencontre (2001) et Serious Sam II (2005). Dans ces jeux, il a travaillé sur des aspects critiques, depuis l'optimisation des innombrables ennemis à l'écran jusqu'à la mise en œuvre des commandes réactives qui sont devenues la marque de fabrique de la franchise. Darko est un exemple typique du « génie invisible » du développement de jeux, dont le travail reste dans l'ombre, mais sans qui la dynamique et la perfection caractéristiques pour lesquelles les joueurs apprécient tant Serious Sam ne seraient pas possibles.
+His contribution to the series is particularly noticeable in two landmark projects: Serious Sam : la deuxième rencontre (2001) et Serious Sam II (2005). Dans ces jeux, il a travaillé sur des aspects critiques - de l'optimisation des innombrables ennemis à l'écran à la mise en œuvre des contrôles réactifs qui sont devenus la marque de la franchise. Darko est un exemple typique du « génie invisible » du développement du jeu, dont le travail reste dans l'ombre, mais sans lequel la dynamique de signature et le défaut pour lequel les joueurs apprécient si Serious Sam ne serait pas possible.
 
-Il était autrefois vivant, mais après que quelqu'un l'ait tué, il est ressuscité des morts, devenant un zombie démoniaque.
+Il était une fois vivant, mais après que quelqu'un l'ait tué, il est ressuscité d'entre les morts - devenant un zombie démoniaque.
 
-TIPS: 
+CONSEILS:
 
 - Utilisez un couteau de combat ou un pistolet pour dégager un chemin.
-- En difficulté "I Am Ugh-Zan", détruisez-les à distance grâce à leurs modificateurs.
-- En groupe, une masse à frappe horizontale est efficace.
+- Sur la difficulté "Je suis Ugh-Zan", les détruire à distance en raison de leurs modificateurs.
+- Dans une grappe de groupe, un luge avec une frappe horizontale est efficace.

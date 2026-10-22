@@ -1,17 +1,17 @@
-PISTOLET À MATIÈRE NOIRE
+ÉQUIPEMENT
 
 
-WEAPON: Pistolet à matière noire
-AMMO: Limaces de matière noire
-ROF: ~30 tours/min
+ARME: Gun matière noire
+MUNITIONS:   Matières noires
+CADENCE DE TIR:    ~30 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Dark Matter Gun tire des balles concentrées de matière noire qui génèrent un trou noir miniature lors de l'impact. L'effet qui en résulte attire les ennemis vers l'intérieur et leur inflige des dégâts continus. Idéal pour contrôler les foules et percer les positions défensives.
+Les feux du Dark Matter Gun ont concentré des limaces de matière noire qui génèrent un trou noir miniature à l'impact. L'effet qui en résulte attire les ennemis vers l'intérieur et inflige des dommages continus. Idéal pour le contrôle de la foule et le bris des positions défensives.
 
-NOTES: 
+REMARQUES:
 
-- "Gravity pull" effect: les cibles proches sont aspirées vers le point d’impact.
-- Instability risk: des explosions puissantes peuvent repousser l'utilisateur si elles sont utilisées trop près.
+- "Effet de gravité" : les cibles voisines sont aspirées vers le point d'impact.
+- Risque d'instabilité : des explosions puissantes peuvent repousser l'utilisateur s'il est utilisé trop près.
 - Très efficace dans les couloirs et les espaces clos.
-- Les munitions sont rares : utilisez chaque tir de manière stratégique.
+- L'ammo est rare.

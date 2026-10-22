@@ -1,17 +1,17 @@
-PISTOLET ZAP
+ZAP GUN
 
 
-WEAPON: Pistolet Zap
-AMMO: Plasma provenant d'un micro-synthétiseur à plasma interne
-ROF: ~120-240
+ARME: Gun Zap 
+MUNITIONS:   Plasme du micro-synthésiseur plasma interne
+CADENCE DE TIR:    ~120-240 
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Une arme énergétique introduite.
-Tire un projectile dont la puissance dépend de la durée pendant laquelle la gâchette est maintenue. Faible lorsqu'il est légèrement chargé, très puissant à pleine charge. À pleine charge, le tir se déclenche automatiquement une fois complètement chargé. Une petite quantité de carbone dans le plasma permet au projectile de se diriger légèrement vers des cibles organiques et lui permet de se courber légèrement autour des obstacles.
+Une arme énergétique a été introduite.
+Incendie un projectile dont la puissance dépend de la durée de maintien du déclencheur. Faible quand il est légèrement chargé, très puissant à pleine charge. À pleine charge, le tir tire automatiquement une fois complètement chargé. Une petite quantité de carbone dans le plasma donne le projectile doux homing aux cibles organiques et lui permet de courber légèrement autour des obstacles.
 
-NOTES: 
+REMARQUES:
 
-- Les tirs non chargés sont faibles et peu utiles contre les ennemis rapides.
-- Les tirs entièrement chargés sont efficaces contre les ennemis faibles à moyens, en particulier ceux qui sont stationnaires.
-- Idéal pour toucher des cibles partiellement masquées ou tirer à travers un abri.
+- Les tirs non chargés sont faibles et pas très utiles vs ennemis rapides.
+- Les tirs en pleine charge sont efficaces contre les ennemis faibles à mi-niveau, particulièrement les ennemis stationnaires.
+- Bon pour frapper des cibles partiellement obscurcies ou tirer à travers la couverture.

@@ -1,30 +1,30 @@
-BRIMLAND
+BRIMLANDE
 
 
 PLANET:       Brimland
-TYPE:         Terrestrial Planet, Military Industrial World, Poultry Farm
-CLIMATE:      Mild, humid
-MOONS:        Unknown
-TERRAIN:      Vast canyons, giant mushroom forests, open plains, mega-grain fields
-LOCATION:     Unknown star system, controlled by the Mental Horde
-NATIVE RACES: Giant pigeons, enslaved Brimland farmers
-ALLIANCE:     Brimland farmers (formerly), Mental Horde (currently)
-LOCATIONS:    Nesting canyons, mushroom forests, mega-grain fields, rocky salt flats, training camp bases
+TYPE:         Planète terrestre, Monde industriel militaire, Ferme de la volaille
+CLIMATE:      Mince, humide
+MOONS:        Inconnu
+TERRAIN:      Vastes canyons, forêts de champignons géants, plaines ouvertes, champs mégagrains
+LOCATION:     Système stellaire inconnu, contrôlé par la Horde Mentale
+NATIVE RACES: Pigeons géants, asservis agriculteurs de Brimland
+ALLIANCE:     Agriculteurs brimlands (anciennement), Horde mentale (actuellement)
+LOCATIONS:    Canyons de nidification, forêts de champignons, champs de mégagrains, plateaux de sel rocheux, bases de camps d'entraînement
 
-DESCRIPTIF :
+DESCRIPTION:
 
-A unique world whose natural conditions are ideal for the existence of giant flying creatures. The planet has a dense atmosphere, which facilitates the suspension of massive bodies, low gravity, allowing large creatures to take flight without expending colossal amounts of energy, and high oxygen levels, which provide a highly efficient metabolism for the flight of heavy birds.
+Un monde unique dont les conditions naturelles sont idéales pour l'existence de créatures volantes géantes. La planète a une atmosphère dense, qui facilite la suspension de corps massifs, une faible gravité, permettant aux grandes créatures de prendre le vol sans dépenser des quantités colossales d'énergie, et des niveaux élevés d'oxygène, qui fournissent un métabolisme très efficace pour le vol d'oiseaux lourds.
 
-The planet's landscape is shaped by vast canyons that serve as urban eaves for titanic-sized nesting sites for birds, gigantic mushroom forests that support the weight of multi-ton birds, and abundant open plains, essential for the takeoff and landing of large flying creatures. The food supply includes fields of mega-grains with seeds the size of watermelons, giant insects, and rocky salt flats.
+Le paysage de la planète est façonné par de vastes canyons qui servent d'anguilles urbaines à des sites de nidification de taille titanique pour les oiseaux, de gigantesques forêts de champignons qui supportent le poids d'oiseaux de plusieurs tonnes et d'abondantes plaines ouvertes, essentielles au décollage et à l'atterrissage de grandes créatures volantes. L'approvisionnement alimentaire comprend des champs de mégagrains avec des graines de la taille des pastèques, des insectes géants et des plats de sel rocheux.
 
-After the conquest of the planet by Mental's forces, Brimland was converted into a military complex. The native giant pigeons became the basis for the creation of the Flying Kleers—hybrid creatures combining the flesh of birds and the skeletons of cattle killed during the bombardment of the planet Kleer. The fusion process is accomplished using "Skin-o-Master" technology, which fuses organic and bony tissues to create obedient and deadly flying soldiers.
+Après la conquête de la planète par les forces de Mental, Brimland fut converti en un complexe militaire. Les pigeons géants indigènes sont devenus la base de la création des Flying Kleers – créatures hybrides combinant la chair des oiseaux et les squelettes de bétail tués lors du bombardement de la planète Kleer. Le processus de fusion est accompli à l'aide de la technologie "Skin-o-Master", qui fusionne des tissus organiques et osseux pour créer des soldats volants obéissants et mortels.
 
-After four years of intensive training and genetic adaptation, these creatures were integrated into the Mental Air Force. The planet continues to function as an incubator, where pigeons are raised, crossbred, and trained for deployment to war zones.
+Après quatre années d'entraînement intensif et d'adaptation génétique, ces créatures ont été intégrées dans la Force aérienne mentale. La planète continue de fonctionner comme un incubateur, où les pigeons sont élevés, croisés et entraînés pour être déployés dans des zones de guerre.
 
 KEY LOCATIONS:
 
-- Nesting Canyons: Natural rock formations used for the hatching and initial maintenance of giant pigeons before their transformation.
-- Fungal Forests: Massive forested areas that serve as shelters for training camps and temporary warehouses.
-- Mega-Cereal Fields: The primary feeding ground for adults, also used to fatten up young before the fusion procedure.
-- Salt Flats: Mining sites for minerals needed to strengthen pigeon bone tissue before implanting the Clear skeletons.
-- Training Camp Bases: Fortified complexes where the final training and combat coordination of Flying Clears takes place before deployment.
+- Canyons de nidification : formations rocheuses naturelles utilisées pour l'éclosion et l'entretien initial des pigeons géants avant leur transformation.
+- Forêts fongiques : Zones forestières massives qui servent de refuges aux camps d ' entraînement et aux entrepôts temporaires.
+- Champs Mega-Céréaux: La principale source d'alimentation pour les adultes, également utilisée pour engraisser les jeunes avant la fusion.
+- Salt Flats : sites miniers pour les minéraux nécessaires pour renforcer le tissu osseux des pigeons avant d'implanter les squelettes Clear.
+- Bases de camp d'entraînement : complexes fortifiés où l'entraînement final et la coordination de combat de Flying Clears ont lieu avant le déploiement.

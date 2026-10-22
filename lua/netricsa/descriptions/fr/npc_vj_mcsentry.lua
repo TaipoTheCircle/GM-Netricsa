@@ -1,27 +1,27 @@
-SENTIÈRE DE DÉTONATION DU MONDE MINECRAFT AETHER
+SENTRE DE DÉTONATION DU MINECRAFT AUTRE MONDE
 
 
-CLASSE : Sentinelle de détonation
-MÉTABOLISME : Mécanique, Golem de pierre
-PERCEPTION : foule hostile, piège stationnaire
-TAILLE : 3,2 pieds
-ENDURANCE : Moyenne
-HOSTILITÉ : Absolue
-ARMES : Explosion à recul élevé
-RÉCOMPENSE : 90 FC
-MENACE : Moyenne
+CLASSE:      Détonation Entrée
+MÉTABOLISME: Mécanique, Stone Golem
+PERCEPTION: Mob hostile, piège stationnaire
+TAILLE:       3,2 ft
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Absolu
+ARMES:    Explosion à haute charge
+RÉCOMPENSE:     90 FC
+MENACE:     Moyenne
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Il s’agit d’un type de mécanisme de sécurité du royaume éthéré. Il apparaît comme un bloc de pierre avec un symbole ou un œil sculpté, fixé au sol, au mur ou au plafond. Il reste longtemps immobile, se fondant dans son environnement, mais lorsqu'un ennemi s'approche, il s'active.
+C'est un type de mécanisme de sécurité Ethereal Realm. Il apparaît comme un bloc de pierre avec un symbole ou un œil sculpté, attaché au sol, au mur ou au plafond. Il reste immobile pendant longtemps, se mélangeant dans son environnement, mais quand un ennemi s'approche, il s'active.
 
-Contrairement aux autres Sentinelles, qui tirent des lasers ou des projectiles, celle-ci est spécialisée dans l'autodestruction. Lors de la détection d'une cible, le Detonation Sensate commence à clignoter, émet un bip, puis explose. L'explosion elle-même inflige des dégâts mineurs, mais son principal danger réside dans le recul qu'elle provoque. La victime est lancée haut dans les airs, et s'il n'y a pas de plafond au-dessus, une chute mortelle de hauteur peut être fatale.
+Contrairement aux autres Sentinelles, qui brûlent des lasers ou des projectiles, celui-ci se spécialise dans l'autodestruction. Lorsqu'il détecte une cible, le détecteur de détonation commence à clignoter, émet un bip, puis explose. L'explosion elle-même cause des dommages mineurs, mais son principal danger est le retour en arrière qu'elle provoque. La victime est lancée haut dans l'air, et s'il n'y a pas de plafond au-dessus, une chute fatale d'une hauteur peut être fatale.
 
-Les sentinelles à détonation se trouvent principalement dans les donjons Slider, où elles apparaissent à partir de blocs de pièges sculptés ou via des géniteurs spéciaux. Ils peuvent parfois être invoqués par les Gardiens Sentinelles.
+Détonation Les entrées se trouvent principalement dans les donjons Slider, où elles apparaissent à partir de blocs de piège sculptés ou par des géniteurs spéciaux. Ils peuvent parfois être convoqués par les Gardiens Sentinel.
 
-CONSEILS :
+CONSEILS:
 
-- Avant d'entrer dans un donjon, inspectez les murs, le sol et le plafond. Si vous voyez un bloc avec un symbole suspect, évitez-le.
-- Si vous combattez à l'intérieur, assurez-vous qu'il y a un plafond au-dessus de vous. Cela vous protégera des dommages causés par les chutes.
-- Utilisez un arc ou une arbalète pour détruire la Sentinelle à distance avant qu'elle ne s'active.
-- Si le Detonation Sentry clignote déjà, revenez en courant et attendez l'explosion. N'essayez pas de vous précipiter.
+- Avant d'entrer dans un donjon, inspecter les murs, le plancher et le plafond. Si vous voyez un bloc avec un symbole suspect, évitez.
+- Si vous vous battez à l'intérieur, assurez-vous qu'il y a un plafond au-dessus de vous. Cela vous protégera des dommages causés par les chutes.
+- Utilisez un arc ou une arbalète pour détruire le Sentinel à distance avant qu'il ne s'active.
+- Si la Détonation Sentry clignote déjà, retourne et attend l'explosion. N'essayez pas de vous précipiter.

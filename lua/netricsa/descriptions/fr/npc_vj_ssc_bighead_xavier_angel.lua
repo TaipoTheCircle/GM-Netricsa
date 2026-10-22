@@ -1,28 +1,28 @@
-ANGE À GROSSE TÊTE, NICK "XAVIER" MACRON
+GRANDE ANGEL, NICK "XAVIER" MACRON
 
 
-CLASS: Ange à grosse tête, Nick « Xavier » Macron
-METABOLISM: Humanoïde, mâle
+CLASSE:      Big-Head Angel, Nick "Xavier" Macron
+MÉTABOLISME: Humanoïde, Homme
 PERCEPTION: Fanatique enthousiaste
-SIZE: 5,9 pieds
-ENDURANCE: Faible
-HOSTILITY: Neutre
-WEAPONS: Aucun (sauf en difficulté I Am Ugh-Zan)
-REWARD: 100 FC
-THREAT: Ennui
+TAILLE:       5,9 pieds
+ENDURANCE:    Faible
+HOSTILITÉ:  Neutre
+ARMES:    Aucune (sauf sur I Am Ugh-Zan difficulté)
+RÉCOMPENSE:     100 FC
+MENACE:     Annoyance
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les Big-Heads sont de minces humanoïdes aux crânes exagérés contenant le cerveau des développeurs de Croteam. Ils portent l'uniforme de Serious Sam, mais ont les traits du visage uniques de l'équipe de développement. Ils affichent un enthousiasme obsessionnel et vous poursuivent aux cris de « Bonjour ! » et "Hé, attends!" Ils sont totalement inoffensifs, mais dans la difficulté "Je suis Ugh-Zan", ils gagnent des modificateurs de feu et de glace. Ils apparaissent spontanément dans les zones secrètes, bloquant les passages par leur grand nombre.
+Les grandes têtes sont de minces humanoïdes avec des crânes exagérés contenant les cerveaux des développeurs de Croteam. Ils portent l'uniforme de Serious Sam, mais ont les caractéristiques faciales uniques de l'équipe de développement. Ils montrent un enthousiasme obsessionnel, vous poursuivant avec des cris de "Bonjour!" et "Hé, attendez!" Ils sont complètement inoffensifs, mais dans la difficulté "Je suis Ugh-Zan" ils gagnent le feu et les modificateurs de glace. Ils apparaissent spontanément dans les zones secrètes, bloquant les passages avec leur nombre.
 
-Nick "Xavier" Macron is one of the most technically savvy members of the legendary modding team "A Few Screws Loose." His oversized cranium houses not only the design vision he applied to the iconic Seriously Warped Deathmatch mod for The Second Encounter, but also the deep engineering knowledge that later led him to become the Lead Engineer on projects like *Area-51* and *Blacksite: Area-51*, puis directeur des outils et de la technologie pour la série NBA 2K.
+Nick "Xavier" Macron est l'un des membres les plus habiles de l'équipe légendaire "A Few Viss Loose". Son crâne surdimensionné abrite non seulement la vision de design qu'il a appliquée à l'emblématique mod Deathmatch sérieusement Warped pour The Second Encounter, mais aussi les connaissances techniques profondes qui l'ont ensuite amené à devenir l'ingénieur principal sur des projets comme *Area-51* et *Blacksite: Area-51*, puis le directeur des outils et de la technologie pour la série NBA 2K.
 
-Son parcours, de fan moddeur améliorant les combats en ligne de Serious Sam à ingénieur principal et directeur des outils dans l'industrie AAA, raconte comment la passion pour les jeux et le talent technique peuvent conduire au sommet d'une carrière. Nick Macron est la preuve vivante que la communauté des moddeurs constitue un vivier de talents florissant pour l’ensemble du secteur.
+Son voyage d'un modder de fans améliorant les batailles en ligne de Serious Sam à un ingénieur principal et directeur des outils dans l'industrie AAA est une histoire de la façon dont la passion pour les jeux et le talent technique peut conduire à l'apogée d'une carrière. Nick Macron est la preuve vivante que la communauté de la mouture est un bassin de talents florissant pour toute l'industrie.
 
-GROSSE TÊTE, JOHN J. DICK "BOOGER"
+Il était une fois vivant, mais après que quelqu'un l'ait tué, il a été ressuscité - devenir un ange.
 
-TIPS: 
+CONSEILS:
 
 - Utilisez un couteau de combat ou un pistolet pour dégager un chemin.
-- En difficulté "I Am Ugh-Zan", éliminez-les à distance grâce à leurs modificateurs.
-- Une masse à frappe horizontale est efficace en groupe.
+- Sur la difficulté "Je suis Ugh-Zan", les éliminer à distance en raison de leurs modificateurs.
+- Un lugehammer avec une frappe horizontale est efficace dans un groupe.

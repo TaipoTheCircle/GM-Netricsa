@@ -1,34 +1,34 @@
-TANTE PLUS RAPIDE DU FAVERSHOLM
+TANTE FAVORISE DE LA FAVERSHOLM
 
 
-CLASS: Tante plus rapide
-METABOLISM: Apparition de cauchemar
-PERCEPTION: Tueur d'embuscade
-SIZE: 5,6 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Absolu
-WEAPONS: Lames prothétiques pour bras et jambes
-REWARD: 250 FC
-THREAT: Haut
+CLASSE:      Plus vite tante
+MÉTABOLISME: Marteaux de nuit
+PERCEPTION: Tueur d'ambush
+TAILLE:       5,6 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Absolu
+ARMES:    Lames prothétiques pour bras et jambes
+RÉCOMPENSE:     250 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-C'est l'un des monstres les plus frappants et les plus effrayants rencontrés pour la première fois dans un immeuble résidentiel.
+C'est l'un des monstres les plus frappants et effrayants, rencontré pour la première fois dans un immeuble résidentiel.
 
-C'est une femme défigurée vêtue d'une robe bleue tachée de sang. Elle n'a ni yeux ni bouche : à leur place se trouvent des trous noirs béants. Elle n'a ni bras ni jambes tels que nous les connaissons ; à leur place se trouvent de longues pointes métalliques pointues. Avec ces lames, elle coupe et poignarde ses victimes. Parce que les jambes ont des appendices similaires, un bruit métallique distinctif se fait entendre lors de la marche.
+C'est une femme défigurée dans une robe bleue, tachée de sang. Elle n'a pas d'yeux ni de bouche à leur place. Elle n'a ni bras ni jambes comme nous les connaissons; à leur place, il y a des pointes métalliques longues et pointues. Avec ces lames, elle frappe et poignarde ses victimes. Parce que les jambes ont des appendices similaires, un son de claquage métallique distinctif est entendu en marchant.
 
-Le Quick préfère opérer en embuscade. Il se cache dans les coins sombres ou derrière des obstacles, pour ensuite bondir, enfoncer la porte et attaquer. Lorsqu’il attaque, il crie fort pour tenter d’intimider. Il court plutôt lentement, mais la soudaineté et les cris sont désorientants.
+Le Quick préfère opérer à partir de l'embuscade. Il se cache dans les coins sombres ou derrière les obstacles, seulement pour sauter soudainement, casser la porte, et attaquer. En attaquant, il crie fort, en essayant d'intimider. Il court assez lentement, mais la soudaineté et les cris sont désorientants.
 
-Une fois tué, le Quick ne tombe pas simplement. Il s'empale le cou avec des lames, émettant un cri douloureux et lugubre, et tombe au sol.
+Quand il est tué, le Quick ne tombe pas simplement. Il empale son cou avec des lames, émet un cri douloureux et triste, et tombe à terre.
 
-Comme la plupart des monstres, le Quick symbolise la blessure. Les pointes métalliques au lieu des membres représentent un fauteuil roulant en métal.
+Comme la plupart des monstres, le Quick symbolise les blessures. Les pointes métalliques au lieu des membres représentent un fauteuil roulant métallique.
 
-Il représente les personnes de l’environnement qui ont été source d’irritation et de douleur. L'acte de suicide du monstre après sa mort est un parallèle direct avec les tendances suicidaires.
+Il représente des gens dans l'environnement qui ont été une source d'irritation et de douleur. L'acte de suicide du monstre à la mort est un parallèle direct aux tendances suicidaires.
 
-TIPS: 
+CONSEILS:
 
-- Soyez prudent dans les longs couloirs comportant de nombreuses portes et des coins sombres. Le Fast One aime sauter soudainement.
-- Le monstre court assez lentement, mais les cris et la soudaineté facilitent la panique. Ne pas paniquer.
-- Frapper le Fast One est difficile en raison de sa vitesse. La meilleure tactique est d'attendre qu'il essaie d'attaquer, puis de reculer et de commencer à tirer avec une bonne visée.
-- You can try hand-to-hand combat: courir, frapper, puis s'enfuir. Mais c'est risqué.
-- Si vous entendez un bruit métallique et un cri perçant, c'est à proximité. Préparez votre arme et regardez autour de vous.
+- Soyez prudent dans de longs couloirs avec de nombreuses portes et coins sombres. Le rapide aime sauter soudainement.
+- Le monstre court assez lentement, mais les cris et la soudaineté rendent la panique facile. Ne paniquez pas.
+- Frapper le Fast One est difficile en raison de sa vitesse. La meilleure tactique est d'attendre qu'il essaie d'attaquer, puis de reculer et de commencer à tirer avec un bon but.
+- Vous pouvez essayer le combat main dans la main: courir, frapper, puis fuir. Mais c'est risqué.
+- Si vous entendez un claquage métallique et un cri perçant, c'est à proximité. Préparez votre arme et regardez autour de vous.

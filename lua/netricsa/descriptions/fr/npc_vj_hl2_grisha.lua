@@ -1,27 +1,27 @@
 PÈRE GRIGORI
 
 
-CLASS: Père Grigori
-METABOLISM: Humain, mâle
-PERCEPTION: Prêtre psychotique / Survivant de Ravenholm
-SIZE: ~6 pieds
-ENDURANCE: Haut
-HOSTILITY: Moyen
-WEAPONS: Fusil de chasse Annabelle
-REWARD: Passage sécurisé à travers Ravenholm + appui-feu allié
-THREAT: Modéré
+CLASSE:      Père Grigori
+MÉTABOLISME: Humain, Homme 
+PERCEPTION: Prêtre psychotique / Ravenholm Survivant
+TAILLE:       6 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Moyenne
+ARMES:    Fumer Annabelle
+RÉCOMPENSE:     Passage sûr par Ravenholm + support de feu allié
+MENACE:     Modéré
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le père Grigori est le dernier habitant de Ravenholm, autrefois une ville minière devenue nécropole après le bombardement de crabes par le Combine. Homme de foi tordu par la solitude et la guerre sans fin contre les morts-vivants, il est devenu à la fois le protecteur et le bourreau de la colonie en ruine.
+Le père Grigori est le dernier habitant de Ravenholm, une fois qu'une ville minière est devenue nécropole après Combiner les écailles. Homme de foi tordu par la solitude et la guerre sans fin contre les morts-vivants, il est devenu à la fois protecteur et bourreau de la colonie ruinée.
 
-Armé de son fusil de chasse Annabelle, Grigori chasse les zombies avec un zèle presque joyeux, riant pendant qu'il les brûle, les piège et les fait exploser. Bien qu'apparemment fou, il fait preuve d'une véritable gentillesse envers Gordon Freeman, l'aidant à traverser les horreurs de Ravenholm.
+Armé de son fusil Annabelle, Grigori chasse les zombies avec un zèle presque joyeux, riant alors qu'il brûle, piège et les explose. Bien qu'apparemment fou, il fait preuve de bonté envers Gordon Freeman, l'aidant par les horreurs de Ravenholm.
 
-Contrairement à d’autres, Grigori est mystérieusement immunisé contre la zombification. Le venin du crabe affecte son corps mais ne le transforme pas. Son sang porte des traces d'infection, ce qui suggère que sa résistance est temporaire et que la corruption en lui se renforce avec le temps. En attendant, il assume son destin de berger éternel de Ravenholm, luttant contre la marée infinie des damnés.
+Contrairement à d'autres, Grigori est mystérieusement immunisé contre la zombification. Le poison des céphalées affecte son corps mais ne le transforme pas. Son sang porte des traces d'infection, et suggère que sa résistance est temporaire, et la corruption en lui se renforce avec le temps. Jusqu'à ce moment, il embrasse son destin en tant que berger éternel de Ravenholm, luttant contre la marée sans fin des damnés.
 
-TIPS: 
+CONSEILS:
 
-- Il est un allié et n'attaquera que s'il est provoqué.
-- Son fusil de chasse est extrêmement puissant : gardez vos distances en cas d'hostilité.
-- Faites attention à ses pièges disséminés à travers Ravenholm.
-- Sa survie laisse présager une fatalité tragique : son immunité pourrait ne pas durer éternellement.
+- C'est un allié et il n'attaquera que s'il est provoqué.
+- Son fusil est extrêmement puissant.
+- Méfiez-vous de ses pièges disséminés à Ravenholm.
+- Sa survie laisse penser à une fatalité tragique - son immunité ne peut pas durer éternellement.

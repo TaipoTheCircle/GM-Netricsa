@@ -1,16 +1,16 @@
-PISTOLET À GLUONS
+GLUON GUN
 
 
-WEAPON: Pistolet à Gluon (Accélérateur de Particules Expérimental)
-AMMO: Cellules à l'uranium 235
-ROF: Flux de particules continu
+ARME:      Gluon Gun (Accélérateur de particules expérimentales)
+MUNITIONS:        Cellules Uranium-235
+CADENCE DE TIR:         Flux continu de particules
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Arme expérimentale avancée projetant un faisceau d'énergie constante qui désintègre les cibles au contact. Connu pour son apparence distinctive et sa consommation élevée de munitions.
+Arme expérimentale avancée projetant un faisceau d'énergie constante qui désintègre les cibles au contact. Connu pour son aspect distinctif et sa forte consommation de munitions.
 
-NOTES: 
+REMARQUES:
 
-- Puissance de feu soutenue et dévastatrice.
+- Dévastation d'une puissance de feu soutenue.
 - Consomme rapidement des cellules d'uranium.
-- Réservé au personnel de recherche avancé de Black Mesa.
+- Restricté au personnel de recherche avancé de Black Mesa.

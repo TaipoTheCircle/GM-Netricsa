@@ -1,31 +1,31 @@
-COCHON TROPICAL ROUGE DU MINECRAFT OVERWORLD
+PIG TROPIQUE ROUGE DU MINECRAFT
 
 
-CLASS: Cochon Tropical Rouge
-METABOLISM: Mammifère à sang chaud
-PERCEPTION: Animal sauvage/domestique
-SIZE: 3 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Faible
-WEAPONS: Aucun
-REWARD: 25 FC
-THREAT: Faible
+CLASSE:      Porc Tropical Rouge
+MÉTABOLISME: Mammifère chaud
+PERCEPTION: Animaux sauvages / domestiques
+TAILLE:       3 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Faible
+ARMES:    Aucune
+RÉCOMPENSE:     25 FC
+MENACE:     Faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Contrairement à leurs homologues roses classiques, ces porcs se sont adaptés à la vie dans les régions chaudes et ont développé un pelage rouge-rouge caractéristique avec des marques feu, qui les aide à se fondre dans le sol rougeâtre des savanes et des déserts.
+Contrairement à leurs homologues roses classiques, ces porcs se sont adaptés à la vie dans des régions chaudes et ont développé une couche rouge-rouge caractéristique avec des marques de bronzage, ce qui les aide à se fondre dans le sol rougeâtre des savanes et des déserts.
 
-Les porcs tropicaux se trouvent exclusivement dans des biomes à températures élevées.
+Les porcs tropicaux se retrouvent exclusivement dans les biomes à haute température.
 
-In behavior, these are still the same peaceful pigs: ils se déplacent en groupes de 2 à 4, grignotent de l'herbe, ne sont pas agressifs et préfèrent battre en retraite rapidement lorsqu'ils sont endommagés.
+Dans le comportement, ce sont encore les mêmes porcs paisibles: ils errent en groupes de 2-4, munch sur l'herbe, ne sont pas agressifs, et préfèrent rapidement se retirer quand endommagés.
 
-Comme les porcs ordinaires, les porcs tropicaux sont faciles à élever (carottes, pommes de terre, betteraves), peuvent être sellés et contrôlés avec une canne à pêche à pointe de carotte.
+Comme les porcs réguliers, les porcs tropicaux sont faciles à se reproduire (carottes, pommes de terre, betteraves), peuvent être selled, et contrôlés avec une canne à pêche à bout de carottes.
 
-Monter un cochon tropical dans des biomes chauds est un excellent moyen d’éviter de gaspiller des ressources en marchant.
+L'équitation d'un porc tropical dans des biomes chauds est un excellent moyen d'éviter de gaspiller les ressources en marchant.
 
-TIPS: 
+CONSEILS:
 
-- Cherchez-les dans les savanes et les jungles, c'est là qu'ils sont les plus courants.
-- Croisez-les avec des carottes, des pommes de terre ou des betteraves pour une source de nourriture constante dans les régions chaudes.
-- Un cochon tropical sellé est le meilleur moyen de transport à travers le désert si aucun cheval n'est disponible.
-- Lors du croisement d'un porc tropical avec d'autres variétés, les porcelets peuvent avoir n'importe quelle couleur de leurs parents.
+- Cherchez-les dans les savanes et les jungles, ils sont les plus communs.
+- Racontez-les avec des carottes, des pommes de terre ou des betteraves pour une source de nourriture constante dans les régions chaudes.
+- Un porc tropical en selle est le meilleur moyen de transport à travers le désert si un cheval n'est pas disponible.
+- En croisant un porc tropical avec d'autres variétés, les porcelets peuvent avoir n'importe quelle couleur des parents.

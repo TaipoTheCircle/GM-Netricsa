@@ -1,21 +1,21 @@
-FUSIL DE SNIPER SVD DRAGUNOV
+VIOLATION DES RISQUES DE DRAGUNOV
 
 
-ARME : SVD Dragunov Sniper Rifle
-MUNITIONS : 7,62x54mm R
-ROF : ~30 tours/min
-POIDS : ~4,3 kg
+ARME: SVD Dragunov Sniper Rifle
+MUNITIONS:   7,62 x 54 mm R
+CADENCE DE TIR:    ~30 tours/min
+POIDS: ~4,3 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-The SVD, or Dragunov Sniper Rifle, is a Soviet semi-automatic rifle developed by Yevgeny Dragunov between 1958 and 1963 and adopted into service in 1963. It was designed not so much as a specialized rifle for concealed snipers, but rather as a weapon for marksmen capable of engaging targets at long ranges and enhancing the firepower of a regular infantry squad.
+Le SVD, ou Dragunov Sniper Rifle, est un fusil semi-automatique soviétique développé par Yevgeny Dragunov entre 1958 et 1963 et adopté en 1963. Il a été conçu non pas comme un fusil spécialisé pour les tireurs d'élite dissimulés, mais comme une arme pour les tireurs d'élite capables d'attaquer des cibles à de longues distances et d'améliorer la puissance de feu d'une équipe d'infanterie régulière.
 
-The SVD uses a gas-operated, short-stroke piston and rotating bolt action. It is fed from a detachable 10-round magazine. The rifle fires only in semi-automatic mode. The standard optical sight is the PSO-1, and the effective firing range is stated to be approximately 800 meters.
+La SVD utilise un piston à gaz à courte course et une action de boulon rotatif. Il est alimenté par un magazine détachable de 10 tours. Le fusil ne tire qu'en mode semi-automatique. La vue optique standard est le PSO-1, et la portée de tir efficace est déclarée être d'environ 800 mètres.
 
-One of the SVD's distinctive features is its skeletal stock with a separate cheekpiece and the distinctive body shape, which sometimes leads the rifle to be mistaken for a variant of the AK. In fact, the SVD is an independent design and was specifically developed for the powerful 7.62x54mm R rifle cartridge.
+L'un des traits distinctifs de la SVD est son corps squelettique avec une pommette séparée et une forme corporelle distinctive, ce qui conduit parfois le fusil à être confondu avec une variante de l'AK. En fait, le SVD est un design indépendant et a été spécialement développé pour la puissante cartouche de fusil 7.62x54mm R.
 
-REMARQUES :
+REMARQUES:
 
-- Conçu principalement pour l'engagement précis de cibles à moyenne et longue portée.
-- The PSO-1 has practically become the SVD's signature weapon.
-- The semiautomatic system allows for rapid follow-up shots without manual reloading.
+- Conçu principalement pour l'engagement précis des cibles à moyenne et longue portée.
+- Le PSO-1 est pratiquement devenu l'arme signature du SVD.
+- Le système semi-automatique permet un suivi rapide sans rechargement manuel.

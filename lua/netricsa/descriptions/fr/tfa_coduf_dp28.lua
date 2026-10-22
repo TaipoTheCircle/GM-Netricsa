@@ -1,21 +1,21 @@
-DP-28 LIGHT MACHINE GUN
+DP-28 MACHINE LUMIÈRE GUN
 
 
-ARME : DP-28 Light Machine Gun
-MUNITIONS : 7.62x54 mm R
-ROF : ~500-600 rounds / min
-POIDS : ~11,8 kg
+ARME: DP-28 pistolet à machine légère
+MUNITIONS:   7,62 x 54 mm R
+CADENCE DE TIR:    ~500-600 tours/min
+POIDS: ~11,8 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-The DP-28, better known as the DP, or "Degtyaryov Infantry", is a Soviet light machine gun designed by Vasily Degtyaryov and adopted by the Red Army in 1927. It was designed as an infantry fire support weapon and was widely used during the Great Patriotic War.
+Le DP-28, plus connu sous le nom de DP, est une mitrailleuse soviétique conçue par Vasily Degtyaryov et adoptée par l'Armée rouge en 1927. Il a été conçu comme une arme de tir d'infanterie et a été largement utilisé pendant la Grande Guerre patriotique.
 
-The machine gun uses a gas-operated system and fires from an open bolt. Its main external feature, the famous flat, top-mounted drum magazine, earned it the nickname "the saucer" among soldiers. Later magazines held 47 rounds.
+La mitrailleuse utilise un système à gaz et tire d'un boulon ouvert. Sa caractéristique externe principale, le célèbre magazine de tambour plat, monté au sommet, lui a valu le surnom de « la soucoupe » parmi les soldats. Plus tard, les magazines ont tenu 47 tours.
 
-The DP was mounted on a folding bipod and was primarily intended for infantry support. Despite its relatively low rate of fire, it was capable of delivering concentrated fire at ranges of up to several hundred meters. The thin barrel quickly heated up during intense fire, requiring short bursts.
+Le DP était monté sur un bipode pliant et était principalement destiné au soutien de l'infanterie. Malgré son taux d'incendie relativement faible, il était capable de produire un feu concentré à des distances allant jusqu'à plusieurs centaines de mètres. Le canon mince s'échauffe rapidement pendant un feu intense, nécessitant de courtes explosions.
 
-REMARQUES :
+REMARQUES:
 
-- Well suited for suppressing enemies at close and medium ranges, especially when fired from a rest.
-- Le chargeur de tambour à chargement par le haut est devenu l'une des caractéristiques les plus reconnaissables du DP. Bien que d'apparence inhabituelle, il permettait l'utilisation de cartouches à rebord.
-- For shooting in deep snow, a special device, resembling a small snowshoe, was used to prevent the bipod from slipping.
+- Bien adapté pour supprimer les ennemis à portée proche et moyenne, particulièrement lorsqu'on tire du repos.
+- Le chargeur de tambours est devenu l'une des caractéristiques les plus reconnaissables du DP. Bien qu'inhabituel en apparence, il a permis l'utilisation de cartouches bordées.
+- Pour tirer dans la neige profonde, un dispositif spécial, ressemblant à une petite raquette, a été utilisé pour empêcher le bipode de glisser.

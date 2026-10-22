@@ -1,29 +1,29 @@
-OLIVIA FINCH LA LOUTRE DE LA PLAGE BROADSIDE
+L'OLIVIE DÉFINIT L'AUTRE DE LA CHAQUE BROADSIDE
 
 
-CLASS: Olivia Finch la loutre
-METABOLISM: Loutre anthropomorphe
+CLASSE:      Olivia Finch l'Otter
+MÉTABOLISME: Loutre anthropomorphe
 PERCEPTION: Le joyeux compagnon de Bucky, victime du crime
-SIZE: 5 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Faible
-WEAPONS: Compétences culinaires, recherche de noix de coco
-REWARD: 100 FC
-THREAT: Minimal
+TAILLE:       5 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Faible
+ARMES:    Compétences culinaires, alimentation en noix de coco
+RÉCOMPENSE:     100 FC
+MENACE:     Minimal
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Il s'agit du joyeux compagnon de Bucky le Castor, l'une des principales stars de Broadside Animation. Une loutre marron clair en maillot de bain rayé, elle sourit, et elle sourit presque toujours. Lors de présentations au Frontier Street Museum, elle est décrite comme « pétillante » et « pétillante ». Elle est toujours prête à aider ses amis, attrape du poisson pour le stand de poissons de Bucky et apparaît rarement sans un sourire sur son visage.
+C'est le compagnon joyeux de Bucky the Beaver, l'une des principales stars de Broadside Animation. Une loutre brun clair dans un maillot rayé, elle sourit, et elle sourit presque toujours. Lors de présentations au musée Frontier Street, elle est décrite comme "sparkling" et "bubbly". Elle est toujours prête à aider ses amis, à attraper du poisson pour le stand de Bucky, et apparaît rarement sans sourire sur son visage.
 
-Elle est partie pêcher avec Bucky et Giovanni l'Oie, mais leur bateau a fait naufrage au large de la mystérieuse île de Nulla Terra. Le chef des loups local charge Olivia de ramasser des noix de coco pour compenser les dégâts.
+Elle allait pêcher avec Bucky et Giovanni the Goose, mais leur bateau a été détruit au large de la mystérieuse île de Nulla Terra. Le chef du loup local charge Olivia de collecter les noix de coco pour compenser les dégâts.
 
-Derrière l'image joyeuse et caricaturale d'Olivia se cache une réalité terrifiante. L'actrice qui a interprété le personnage était Olivia Finch. Elle a déménagé à Broadside Beach Island pour le climat tropical et y a travaillé, enfilant occasionnellement un costume de loutre pour des spectacles. Là, elle croise la route de Brandon Lester, l'acteur habillé en Bucky le Castor.
+Derrière l'image joyeuse d'Olivia se trouve une réalité terrifiante. L'actrice qui a prononcé le personnage était Olivia Finch. Elle a déménagé à Broadside Beach Island pour le temps tropical et y a travaillé, parfois en portant un costume de loutre pour des performances. Là, elle croise des chemins avec Brandon Lester, l'acteur qui s'habille en Bucky le Beaver.
 
-Brandon a commencé à traquer Olivia. Il est resté à sa fenêtre pendant des heures, a frappé à sa porte et a un jour laissé une tache sanglante sur la vitre en se cognant la tête dessus. Olivia s'est plainte, mais la situation n'a fait qu'empirer. Une nuit, alors qu'elle essayait une nouvelle fois d'enregistrer sa plainte, Brandon a enfoncé la porte, l'a attaquée et a traîné son corps inconscient jusqu'au lac. Olivia s'est noyée.
+Brandon a commencé à traquer Olivia. Il s'est tenu à sa fenêtre pendant des heures, a frappé à sa porte, et a laissé une tache sanglante sur le verre quand il s'est cogné la tête dessus. Olivia se plaignait, mais la situation ne faisait qu'empirer. Un soir, alors qu'elle tentait d'enregistrer une nouvelle fois sa plainte, Brandon a brisé la porte, l'a attaquée et a traîné son corps inconscient jusqu'au lac. Olivia est noyée.
 
-Pour dissimuler le crime, Broadside Animation a utilisé le corps d'Olivia pour créer "Starling", un costume vivant d'Olivia la Loutre destiné à remplacer l'actrice disparue.
+Pour couvrir le crime, Broadside Animation a utilisé le corps d'Olivia pour créer "Starling" - un costume vivant Olivia l'Otter destiné à remplacer l'actrice disparue.
 
-TIPS: 
+CONSEILS:
 
-- Elle est inoffensive.
-- Olivia's task is simple: trouvez des noix de coco dispersées dans toute la région.
+- Elle est sans pitié.
+- La tâche d'Olivia est simple : trouver des noix de coco dispersées dans la région.

@@ -1,22 +1,22 @@
-TEOTIHUACAN, SUNSET COURTYARDS - ARRIVAL
+TÉOTIHUACAN, COURTES SUNSET - ARRIVÉE
 
 
-Sam... looked at this. Teotihuacan. City of the Gods. Translated from the Aztec, it means "Where Men Become Gods". Well, now we'll check if it's officially true.
+Sam... a regardé ça. Teotihuacan. Ville des Dieux. Traduit des Aztèques, cela signifie "Où les hommes deviennent des dieux". On va vérifier si c'est officiellement vrai.
 
-Tout autour se trouvent des quartiers résidentiels délabrés, coincés entre des murs de pierre. Il était une fois des centres de culte, des maisons de prêtres, des enclos. Et maintenant... maintenant, il n'y a ici que des créatures mentales, qui se sont installées dans chaque maison, comme si elles avaient élu domicile ici.
+Tout autour sont des zones résidentielles délabrées, pressées entre les murs de pierre. Il était une fois, il y avait des centres de culte, des maisons de prêtres, des enclos. Et maintenant... il n'y a que des créatures mentales ici, qui se sont installées dans chaque maison, comme s'ils s'étaient installés ici.
 
-Trees have grown through the stones, the courtyards are overgrown, and every corner could become a trap.
+Les arbres ont grandi à travers les pierres, les cours sont envahies, et chaque coin pourrait devenir un piège.
 
-By the way, do you see the stepped ziggurats above the horizon? They dominate the entire city. Priests, when they perform rituals there. Now, utensils sit there, too, aiming at anything that moves.
+Au fait, vous voyez les ziggurats au-dessus de l'horizon ? Ils dominent toute la ville. Les prêtres, quand ils font des rituels là-bas. Maintenant, les ustensiles sont assis là, aussi, en vue de tout ce qui bouge.
 
-And there's a lake here. Almost calm. But I don't believe in silence in a place Mental visited.
+Et il y a un lac ici. Presque calme. Mais je ne crois pas au silence dans un endroit visité par Mental.
 
-There's also a stone tower here. It leads higher—to the suburbs, where ordinary people once lived. Before Mental got here. Before the Ark-al-Magi mages abandoned this place.
+Il y a aussi une tour en pierre ici. Elle mène plus haut, vers les banlieues, où vivaient autrefois des gens ordinaires. Avant que Mental n'arrive. Avant que l'Arche-al-Mages n'abandonne cet endroit.
 
-I, who knew the secrets of the Sirians, once lived here. Mages who could have helped us. But they're gone. Or not quite... Now this tower is the only way up. And up there, Mental's freaks await us, having already seized everything that could be seized.
+Moi, qui connaissais les secrets des Siriens, j'habitais ici. Des mages qui auraient pu nous aider. Mais ils sont partis. Ou pas... Cette tour est le seul moyen de remonter. Et là-haut, les fous de Mental nous attendent, ayant déjà saisi tout ce qui pouvait être saisi.
 
-The suburbs were the last stronghold of civilization in this city. Now they're just another arena for slaughter.
+Les banlieues étaient le dernier bastion de la civilisation dans cette ville. Ce n'est qu'une autre arène de massacre.
 
-Be careful, Sam. Places like these usually hide the most dangerous things. Or the most useful materials. Or both!
+Soyez prudent, Sam. Des endroits comme ça cachent généralement les choses les plus dangereuses. Ou les matériaux les plus utiles. Ou les deux !
 
-Let's go to the tower. Let's see what's left of the Ark-Al mages... And it's good that Mental has officially established himself here!
+Allons à la tour. Voyons ce qui reste des mages de l'Arche-Al... Et c'est bien que Mental se soit officiellement établi ici !

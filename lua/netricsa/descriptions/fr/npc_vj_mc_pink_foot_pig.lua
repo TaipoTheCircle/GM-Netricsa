@@ -1,27 +1,27 @@
-COCHON AUX PIEDS ROSE DU MONDE MINECRAFT
+PINK FOOTED PIG DE L'OUVERTURE MINECRAFT
 
 
-CLASS: Cochon à pattes roses
-METABOLISM: Mammifère à sang chaud
-PERCEPTION: Amical Sauvage / Domestique
-SIZE: 3 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Faible
-WEAPONS: Aucun
-REWARD: 35 FC
-THREAT: Minimal
+CLASSE:      Porc à pied rose
+MÉTABOLISME: Mammifère à sang chaud
+PERCEPTION: Animaux sauvages / domestiques
+TAILLE:       3 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Faible
+ARMES:    Aucune
+RÉCOMPENSE:     35 FC
+MENACE:     Minimal
 
-DESCRIPTION: 
+DESCRIPTION:
 
-L'une des variantes les plus élégantes du cochon standard. Les porcs sont divers et uniques. Celui-ci a les pattes roses.
+Une des variantes les plus élégantes du porc standard. Les porcs sont différents et uniques. Celui-ci a des pieds roses.
 
-L'apparence de ce cochon est vraiment remarquable. Le corps principal est foncé, presque noir, avec une petite tache gris clair sur le côté gauche du ventre. Les pattes sont rose vif, séparées par des zones gris clair au niveau des genoux. Les oreilles sont foncées, le museau est gris clair et le museau lui-même est rose. On dirait que le cochon a trempé ses pattes dans de la peinture rose alors que personne ne le regardait et qu'il affiche désormais fièrement ses traits manucurés.
+L'apparence de ce cochon est vraiment remarquable. Le corps principal est sombre, presque noir, avec une petite tache grise claire sur le côté gauche du ventre. Les jambes sont rose vif, séparées par des zones grises claires aux genoux. Les oreilles sont sombres, le museau est gris clair, et le museau lui-même est rose. Il semble que le cochon ait trempé ses pieds dans de la peinture rose quand personne ne regardait et maintenant montre fièrement ses caractéristiques manucurées.
 
-Behaviorally, it's no different from a normal pig: il parcourt le monde, évite la lave et les falaises, et lorsqu'il est endommagé, s'enfuit pendant quelques secondes avant de reprendre sa routine habituelle.
+Comportementalement, il n'est pas différent d'un porc normal : il erre dans le monde, évite la lave et les falaises, et quand il est endommagé, s'enfuit pendant quelques secondes avant de revenir à sa routine habituelle.
 
-TIPS: 
+CONSEILS:
 
 - La valeur de ce cochon réside dans son apparence.
-- Élevez ces porcs pour obtenir une progéniture avec la même coloration inhabituelle.
-- Monté en selle, ce cochon est particulièrement frappant : ses pattes roses contrastent avec son corps sombre.
+- Racontez ces porcs pour obtenir la progéniture avec la même coloration inhabituelle.
+- Sur une selle, ce cochon semble particulièrement frappant- ses jambes roses contrastent avec son corps sombre.
 - Si vous en rencontrez un dans la nature, considérez-vous chanceux.

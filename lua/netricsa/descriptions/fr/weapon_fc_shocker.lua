@@ -1,21 +1,21 @@
-CHOQUANT
+CHEMIN
 
 
-ARME : Choc
-MUNITIONS : Électrique
-ROF : 600 frappes/min
-POIDS : ~1,5kg
+ARME: Attaque
+MUNITIONS:   Électrique
+CADENCE DE TIR:    600 grèves/min
+POIDS: ~1,5 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Une arme de mêlée compacte conçue pour délivrer une décharge électrique prolongée. Lorsqu'il est activé, l'appareil choque continuellement la cible avec de l'électricité sans nécessiter de munitions. Sa portée d'attaque est d'environ 2,2 mètres, ce qui la rend adaptée pour être utilisée contre des adversaires dangereux à courte portée.
+Une arme compacte conçue pour fournir une décharge électrique soutenue. Lorsqu'il est activé, l'appareil choque continuellement la cible avec de l'électricité sans avoir besoin de munitions. Sa portée d'attaque est d'environ 2,2 mètres, ce qui le rend approprié pour une utilisation contre les adversaires qui sont dangereux à portée rapprochée.
 
-Le Shocker est particulièrement efficace contre les adversaires blindés. Par rapport à une machette standard, elle a une vitesse d'attaque et une portée plus grandes, ce qui lui permet de délivrer des frappes électriques fréquentes à courte portée.
+Le Shocker est particulièrement efficace contre les adversaires blindés. Par rapport à une machette standard, elle a une vitesse et une portée d'attaque plus grandes, ce qui lui permet d'effectuer de fréquentes frappes électriques à portée rapprochée.
 
-REMARQUES :
+REMARQUES:
 
-- N'a pas de munitions limitées, peut attaquer en continu.
-- Inflige des dégâts électriques au contact de la cible.
+- N'a pas de munitions limitées, peut attaquer continuellement.
+- Inflige les dommages électriques au contact de la cible.
 - Efficace contre les adversaires blindés.
-- Portée d'attaque d'environ 2,2 m.
-- Conçu exclusivement pour le combat rapproché.
+- portée d'attaque d'environ 2,2 m.
+- Conçu exclusivement pour le combat à proximité.

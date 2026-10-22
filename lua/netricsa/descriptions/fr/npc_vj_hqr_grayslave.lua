@@ -1,30 +1,30 @@
-DEMI-QUAKE SHOW GRIS VORTIGAUNT (ESCLAVE)
+VORTIGAUN DE CHAUFFAGE (ÉCRAN)
 
 
-CLASS: HALF-QUAKE Show Grey Vortigaunt, esclave
-METABOLISM: Mammifère intelligent
-PERCEPTION: Race extraterrestre asservie
-SIZE: 5,9 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Forcé
-WEAPONS: Décharge bioélectrique, griffes
-REWARD: 400FC
-THREAT: Moyenne
+CLASSE:      HALF-QUAKE Show Gray Vortigaunt, Esclave
+MÉTABOLISME: Mammifère intelligent
+PERCEPTION: Race d'esclaves
+TAILLE:       5,9 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Forced
+ARMES:    Décharge bioélectrique, griffes
+RÉCOMPENSE:     400 FC
+MENACE:     Moyenne 
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Lorsque le thème du HALF-QUAKE Sadistic Show est passé des ruines industrielles à un monde sombre et déprimant, les anciens Vortigaunts n'ont plus leur place. Leurs couleurs naturelles rappelaient celles de Xena, tandis que l'esthétique nécessaire était celle du désespoir, de l'unification et de l'uniformité de l'entreprise.
+Lorsque le thème du HALF-QUAKE Sadistic Show est passé des ruines industrielles à un monde sombre et déprimant, les vieux Vortigaunts ne s'intègrent plus. Leurs couleurs naturelles rappellent Xena, tandis que l'esthétique nécessaire était le désespoir, l'unification et l'uniformité d'entreprise.
 
-The solution came from the hardware department: peinture au latex noir, quarante litres, rouleaux et pulvérisateurs. Les Vortigaunts ont été parqués dans le hangar, dotés de respirateurs (pas pour eux, mais pour les sadiques, pour les empêcher de respirer les fumées), et chaque individu a reçu un nouveau manteau. La peinture s'est appliquée de manière inégale, avec des stries et quelques taches bleues d'usine, mais dans l'ensemble, le travail a été fait : les Vortigaunts sont devenus d'un gris noir brillant et les voix des pauvres créatures sont devenues grinçantes.
+The solution came from the hardware department: peinture en latex noir, quarante litres, rouleaux et pulvérisateurs. Les Vortigaunts ont été élevés dans le hangar, ont donné des respirateurs (non pour eux, mais pour les sadiques, pour les empêcher de respirer dans les fumées), et chaque individu a reçu une nouvelle couche. La peinture a continué inégalement, avec des stries et quelques taches bleues d'usine, mais dans l'ensemble, le travail a été fait: les Vortigaunts sont devenus un noir brillant-gris, et les voix des pauvres créatures sont devenues sournoises.
 
-Les yeux du nouveau mannequin sont blancs, soit à cause de la peinture, soit à cause de ce qu'ils ont suffisamment vu dans leur vie. Il s’avère que la peinture elle-même agit comme une protection supplémentaire. Désormais, ces créatures ont non seulement l'air terrifiantes, mais vivent également légèrement plus longtemps que leurs homologues non peintes.
+Les yeux du nouveau modèle sont blancs - soit de la peinture, soit de ce qu'ils ont vu assez dans leur vie. La peinture elle-même, il s'avère, agit comme une protection supplémentaire. Maintenant, ces créatures non seulement semblent terrifiantes, mais aussi vivent un peu plus longtemps que leurs homologues non peints.
 
-Ils servent la nouvelle version de la divinité de la série, Somos V2, le Fils du Sadisme.
+Ils servent la nouvelle version de la divinité-Somos V2, le Fils du sadisme.
 
-Les Vortigaunts eux-mêmes ne le savent pas ; ils ne semblent pas s'en soucier. Ils entrent simplement dans l’arène, leurs nouveaux corps brillants, et tirent des éclairs sur tout ce qui bouge.
+Les Vortigaunts eux-mêmes ne sont pas au courant; ils ne semblent pas s'en soucier. Ils entrent simplement dans l'arène, leurs nouveaux corps brillent, et tirent la foudre sur tout ce qui bouge.
 
-TIPS: 
+CONSEILS:
 
-- Leurs yeux blancs sont visibles à des kilomètres dans l'obscurité. Utilisez-le pour localiser leur position avant qu’ils ne vous voient.
-- Leur peinture est brillante : si un Vortigaunt se trouve sous la lumière, il peut être vu grâce à l'éblouissement.
-- Ils ont une défense plus élevée que les Vortigaunts classiques. Visez la tête ou utilisez des explosifs.
+- Leurs yeux blancs peuvent être vus à un kilomètre dans le noir. Utilisez ceci pour identifier leur position avant qu'ils ne vous voient.
+- Leur peinture est brillante - si un Vortigaun est debout sous la lumière, ils peuvent être vus par l'éblouissement.
+- Ils ont plus de défense que les Vortigaunts. Visez la tête ou utilisez des explosifs.

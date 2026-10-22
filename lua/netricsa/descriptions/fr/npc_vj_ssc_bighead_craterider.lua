@@ -1,23 +1,23 @@
-GROSSES TÊTES, CHET FALICEK ET ERIK WOLPAW
+GRANDES CHARGES, FALICEK ET ERIK WOLPAW
 
 
-CLASS: Grosses Têtes, Erik Falisek et Chet Wolpaw
-METABOLISM: Humanoïde, mâle
-PERCEPTION: Légendes du journalisme de jeux
-SIZE: 5,9 pieds (chacun)
-ENDURANCE: Faible
-HOSTILITY: Neutre ironique
-WEAPONS: Voiture de marque OMM (véhicule tactique)
-REWARD: 200FC
-THREAT: Phénomène culturel
+CLASSE:      Grandes têtes, Erik Falisek et Chet Wolpaw
+MÉTABOLISME: Humanoïde, Homme
+PERCEPTION: Légendes des Jeux Journalisme
+TAILLE:       5,9 pieds (chaque)
+ENDURANCE:  Faible
+HOSTILITÉ:  Neutre ironique
+ARMES:    Voiture de marque OMM (véhicule tactique)
+RÉCOMPENSE:     200 FC
+MENACE:     Phénomènes culturels
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Au cœur de la pyramide secrète des niveaux "Sacred Courts", vivait le duo unique des Grosses Têtes composé d'Erik Wolpaw et Chet Falisek, fondateurs du site satirique Old Man Murray. Contrairement à leurs homologues, ils ne se contentent pas d'errer sans but dans les couloirs, mais émergent plutôt de façon spectaculaire des profondeurs de la pyramide dans un véhicule arborant le fier logo OMM.
+Au cœur de la pyramide secrète dans les niveaux "Cours sacrées", vécut le duo unique Big-Heads d'Erik Wolpaw et Chet Falisek, fondateurs du site satirique Old Man Murray. Contrairement à leurs homologues, ils ne errent pas simplement sans but à travers les couloirs, mais émergent plutôt de façon spectaculaire des profondeurs de la pyramide dans un véhicule emblazoned avec le logo OMM fier.
 
-Cet équipage dynamique représente l'œuf de Pâques ultime des développeurs Croteam. Erik, le propriétaire de la plus grosse tête du jeu, et Chet, son fidèle compagnon, symbolisent les « critiques venimeuses » qui ont inspiré et diverti les développeurs dans les premières années de la franchise. Leur apparition sur un véhicule n'est pas seulement une référence à leur statut dans l'industrie du jeu vidéo, mais aussi une sorte de "briser le quatrième mur", où les critiques entrent littéralement dans le jeu qu'ils ont examiné autrefois.
+Cette équipe dynamique représente l'oeuf de Pâques ultime des développeurs Croteam. Erik, le propriétaire de la plus grande tête du jeu, et Chet, son fidèle compagnon, symbolisent la très « critique venimeuse » qui a inspiré et diverti les développeurs dans les premières années de la franchise. Leur apparition sur un véhicule n'est pas seulement une référence à leur statut dans l'industrie du jeu, mais aussi une sorte de « rupture du quatrième mur », où les critiques se jettent littéralement dans le jeu qu'ils ont passé en revue.
 
-TIPS: 
+CONSEILS:
 
 - N'attaquez pas le véhicule, c'est un trésor culturel de l'industrie du jeu.
 - En difficulté "I Am Ugh-Zan", le duo peut développer un niveau de danger plus élevé.

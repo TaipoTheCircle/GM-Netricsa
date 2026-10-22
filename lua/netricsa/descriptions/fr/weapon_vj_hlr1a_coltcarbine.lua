@@ -1,16 +1,16 @@
-CARABINE COLT M4A1
+COLTE M4A1 CARBINE
 
 
-WEAPON: Carabine Colt M4A1
-AMMO: Obus OTAN 5,56x45 mm + grenades 40 mm
-ROF: ~700 tours/min
+ARME:      Colt M4A1 Carbine
+MUNITIONS:        5.56x45mm rondes de l'OTAN + grenades de 40mm
+CADENCE DE TIR:         ~700 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Fusil d'assaut standard pour H.E.C.U. forces. Fournit un tir automatique fiable avec une bonne précision à moyenne portée. Équipé d'un lance-grenades M203 sous le canon, offrant une puissance de feu explosive supplémentaire pour une flexibilité tactique.
+Fusil d'assaut standard pour les forces de l'UE. Fournit un feu automatique fiable avec une bonne précision à moyenne portée. Équipé d'un lance-grenades M203, offrant une puissance de feu explosive supplémentaire pour une flexibilité tactique.
 
-NOTES: 
+REMARQUES:
 
 - Arme équilibrée pour la plupart des scénarios de combat.
-- Le lance-grenades est efficace contre les ennemis retranchés.
-- Perd de la précision à longue portée lors d'un tir soutenu.
+- Le lanceur de grenade est efficace contre les ennemis.
+- Perte de précision à long terme pendant un incendie.

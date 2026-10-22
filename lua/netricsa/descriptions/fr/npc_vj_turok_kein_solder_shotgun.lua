@@ -1,33 +1,33 @@
-MENDEL-GRUMAN GRUNT SOLDIER WITH SHOTGUN
+MENDEL-GRUMAN GRUNT SOLDIER AVEC CHARGE
 
 
-CLASS:      Mendel-Gruman Grunt Soldier
-METABOLISM: Human, Male
-PERCEPTION: Standard Infantry, Close Combat Assault
-SIZE:       ~5,9 ft
-ENDURANCE:  Medium
-HOSTILITY:  High
-WEAPONS:    ORO "Enforcer" Shotgun, Frag Grenades
-REWARD:     250 FC
-THREAT:     Medium
+CLASSE:      Mendel-Gruman Grunt Soldat
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Infanterie standard, attaque rapprochée
+TAILLE:       ~5,9 pi
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Frag Grenades
+RÉCOMPENSE:     250 FC
+MENACE:     Moyenne
 
-DESCRIPTIF :
+DESCRIPTION:
 
-This Grunt is a specialized variant of the standard corporation trooper. Externally, he is virtually indistinguishable from the standard Grunt: the same protective armor, the same helmet with a dynamic visor, and the same standard equipment. The difference lies in the weapon, as instead of a standard small arms weapon, this soldier is issued the Enforcer ORO.
+Ce Grunt est une variante spécialisée de la compagnie standard. De l'extérieur, il est pratiquement indissociable du Grunt standard : la même armure de protection, le même casque avec une visière dynamique, et le même équipement standard. La différence réside dans l'arme, comme au lieu d'une arme standard d'armes de petit calibre, ce soldat se voit délivrer l'ORO enforceur.
 
-The Enforcer is designed for close-range combat and turns this Grunt into a dangerous assault trooper. Unlike a standard soldier, who thrives at medium range, a shotgun requires getting close to the enemy, after which a single well-placed volley can cause serious damage.
+L'Exécuteur est conçu pour le combat à portée rapprochée et transforme ce Grunt en un dangereux soldat d'assaut. Contrairement à un soldat ordinaire, qui prospère à moyenne portée, un fusil de chasse nécessite de se rapprocher de l'ennemi, après quoi une seule volley bien placée peut causer de graves dommages.
 
-Because of this, shotgunners tend to be somewhat more aggressive than other Grunt. They try to close the distance, flank cover, and force the enemy into close combat. In tight corridors, rooms, and other confined spaces, this soldier is especially dangerous: the range at which a standard Grunt gradually loses its effectiveness becomes an ideal killing zone for them.
+De ce fait, les fusiliers ont tendance à être un peu plus agressifs que les autres Grunt. Ils essaient de fermer la distance, de couvrir les flancs et de forcer l'ennemi à se battre. Dans des couloirs serrés, des pièces et d'autres espaces confinés, ce soldat est particulièrement dangereux : la portée à laquelle un Grunt standard perd peu à peu son efficacité devient pour lui une zone de destruction idéale.
 
-However, the rifleman himself does not have increased durability. His armor remains practically the same as that of a standard Grunt, so he does not become a heavy fighter just because he has a shotgun. Mendel-Gruman simply took a regular soldier, gave him a weapon that says, "Get in close and take a good shot", and sent him off to find trouble.
+Cependant, le fusilier lui-même n'a pas augmenté sa durabilité. Son armure reste pratiquement la même que celle d'un Grunt standard, donc il ne devient pas un combattant lourd juste parce qu'il a un fusil de chasse. Mendel-Gruman a simplement pris un soldat régulier, lui a donné une arme qui dit, "Venez à proximité et prendre un bon coup", et l'a envoyé pour trouver des ennuis.
 
-Shotguns are especially effective in conventional units. While some soldiers fire from a distance and force the enemy to hide behind cover, a rifleman with an Enforcer can attempt to flank the enemy and attack from close range.
+Les fusils de chasse sont particulièrement efficaces dans les unités classiques. Tandis que certains soldats tirent à distance et forcent l'ennemi à se cacher derrière la couverture, un fusilier avec un Enforceur peut tenter de flanquer l'ennemi et d'attaquer de près.
 
-Like other Mendel-Gruman Grunt, he uses a dynamic visor. Blue indicates normal operation, yellow indicates heightened alertness, and red indicates full combat readiness.
+Comme les autres Mendel-Gruman Grunt, il utilise une visière dynamique. Le bleu indique une opération normale, le jaune indique une vigilance accrue et le rouge indique une pleine disponibilité au combat.
 
-TIPS:
+CONSEILS:
 
-- Don't let him get close. The closer the distance, the more dangerous the Enforcer is.
-- In open spaces, he's less effective than a regular rifleman with an automatic weapon.
-- Surveillez vos flancs. Le fusil de chasse est particulièrement dangereux lorsqu'un soldat tente de se mettre à couvert. Les grenades sont efficaces contre les groupes, surtout si le tireur se trouve parmi plusieurs soldats réguliers.
-- If the visor turns red, the Grunt has already detected a threat and is ready to open fire. It's best not to check how close he wants to get.
+- Ne le laisse pas se rapprocher. Plus la distance est proche, plus l'Exécuteur est dangereux.
+Dans les espaces ouverts, il est moins efficace qu'un fusilier avec une arme automatique.
+- Surveillez vos flancs. Le fusil est particulièrement dangereux lorsqu'un soldat tente de se couvrir. Les grenades sont efficaces contre les groupes, surtout si le tireur de chasse est parmi plusieurs soldats réguliers.
+- Si la visière devient rouge, le Grunt a déjà détecté une menace et est prêt à ouvrir le feu. Il vaut mieux ne pas vérifier à quel point il veut se rapprocher.

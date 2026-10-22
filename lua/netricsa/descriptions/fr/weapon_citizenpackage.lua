@@ -1,14 +1,14 @@
-FORFAIT CITOYEN
+EMBALLAGE CITOYEN
 
 
-WEAPON: Forfait Citoyen
+ARME:      Paquet citoyen
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Objet non militaire représentant un emballage en carton souvent vu entre les mains des réfugiés et des citoyens. Ne peut pas être utilisé pour attaquer ou interagir avec des ennemis. Sert uniquement d’accessoire ou d’outil symbolique de survie sous le régime Combine.
+Objet non-combat représentant un paquet en carton souvent vu entre les mains des réfugiés et des citoyens. Ne peut pas être utilisé pour attaquer ou interagir avec les ennemis. Servant uniquement comme un accessoire ou un outil symbolique de survie sous le régime Combine.
 
-NOTES: 
+REMARQUES:
 
 - Aucune fonctionnalité de combat.
-- Utilisation infinie ; ne peut pas être épuisé ou rechargé.
+- Utilisation infinie; ne peut être épuisée ou rechargée.
 - Symbolise le fardeau porté par les citoyens opprimés.

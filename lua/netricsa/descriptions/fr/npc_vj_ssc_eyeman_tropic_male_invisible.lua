@@ -1,25 +1,25 @@
-GNAAR TROPICAL, MÂLE
+GNAAR TROPIQUE, MALE
 
 
-CLASS: Gnaar tropical, mâle
-METABOLISM: Mammifère
-PERCEPTION: Animal de guerre dressé
-SIZE: 4 pieds
-ENDURANCE: Faible
-HOSTILITY: Faible
-WEAPONS: Morsures, coups de poing
-REWARD: 700FC
-THREAT: Très faible
+CLASSE:      Gnaar tropical, Homme
+MÉTABOLISME: Mammifère
+PERCEPTION: Animal de guerre formé
+TAILLE:       4 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Faible
+ARMES:    Morceaux, coups de poing
+RÉCOMPENSE:     700 FC
+MENACE:     Très faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un petit animal bipède sans tête, avec un œil et une grande bouche. Originaire de Sirius et entraîné par Mental pour attaquer les forces adverses. Les mâles sont de couleur noire et rouge, ils sont plus petits et plus faibles que les femelles.
+Un petit animal bipède sans tête, un œil et une grande bouche. Originaire de Sirius, et entraîné par Mental à attaquer les forces opposées. Les mâles sont de couleur noire et rouge, ils sont plus petits et plus faibles que les femelles.
 
-La variante tropicale est considérée comme l’une des branches les plus primitives de l’espèce gnaar – leur développement tribal étant effectivement bloqué à ce stade. Ils n’ont jamais dépassé les structures claniques rudimentaires et restent enfermés dans un comportement social simple et axé sur le combat.
+La variante tropicale est considérée comme l'une des branches les plus primitives de l'espèce gnaar - leur développement tribal effectivement bloqué à ce stade. Ils n'ont jamais dépassé les structures du clan rudimentaire et restent enfermés dans un comportement social simple et axé sur le combat.
 
-TIPS: 
+CONSEILS:
 
-- Ils n'ont pas d'armes à distance, restez simplement à l'écart.
+- Ils n'ont pas d'armes.
 - Certains spécimens peuvent léviter.
-- De rares individus seraient invisibles.
-- Les sous-espèces tropicales n'ont jamais dépassé le stade tribal précoce, ce qui rend leur comportement primitif et hautement prévisible.
+- Des individus rares auraient été invisibles.
+- La sous-espèce tropicale n'a jamais progressé au-delà d'un stade tribal précoce, rendant leur comportement primitif et hautement prévisible.

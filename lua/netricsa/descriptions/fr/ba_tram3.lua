@@ -1,14 +1,14 @@
-BLACK MESA, RENCONTRE AVEC "OTIS"
+MESA BLACK, RÉUNION AVEC "OTIS"
 
 
-Hey, look, the Otis is waving ahead. Just don't be in a hurry to be happy: Ce n'est pas lui. Un autre acteur de Generick‑L'a essayé le déguisement de quelqu'un d'autre. Et, apparemment, pendant que le vrai Otis se bourre le ventre à la cafétéria, ce sosie devrait jouer le rôle d'un collègue sympathique.
+Hé, regarde, l'Otis est devant. Ne soyez pas pressé d'être heureux. Ce n'est pas lui. Un autre générique L'acteur a essayé le déguisement de quelqu'un d'autre. Et, apparemment, alors que le vrai Otis se fourre le ventre dans la cafétéria, ce doppelganger devrait jouer le rôle d'un collègue amical.
 
-Remember, the Generics are masters of disguise. They can pretend to be anyone: un scientifique, un agent de sécurité ou même un objet - un livre sur la table ou une peau de banane à l'entrée. Des motivations ? Peu clair.
+Rappelez-vous, les Generics sont des maîtres du déguisement. Ils peuvent prétendre être n'importe qui : un scientifique, un gardien de sécurité, ou même un objet du tout - un livre sur la table ou une peau de banane à l'entrée. Motifs ? C'est faux.
 
-This "Otis" is smiling, calling you by your first name - "Barney Calhoun". It sounds like you're supposed to be on this train. The only question is: où allait le vrai Barney ? Et pourquoi il a pris sa place... Eh bien, disons vous ? Même si une situation similaire avec un physicien théoricien ne me surprend plus.
+Cette "Otis" sourit, vous appelant par votre prénom - "Barney Calhoun". On dirait que tu es censé être dans ce train. La seule question est : où allait le vrai Barney ? Et pourquoi il a pris sa place... Bien, disons-le vous ? Bien qu'une situation similaire avec un physicien théorique ne me surprend plus.
 
-Le train avance tranquillement, des tunnels clignotent devant la fenêtre. Il y a une zone de sécurité devant. Là où tout a commencé la dernière fois. Quelque part là-bas, un autre Sam se dirige déjà vers la chambre de test, ou peut-être qu'il ne l'a pas encore compris. Le désastre arrive bientôt. Mais pour l'instant... Pour l'instant, vous n'êtes qu'un passager. Presque.
+Le train se déplace tranquillement, les tunnels clignotent à l'extérieur de la fenêtre. Il y a une zone de sécurité devant. Où tout a commencé la dernière fois. Quelque part dehors, un autre Sam se dirige déjà vers la chambre d'essai, ou peut-être qu'il ne l'a pas encore compris. Le désastre arrive bientôt. Mais pour l'instant... Pour l'instant, tu n'es qu'un passager. Presque.
 
-Gardez les yeux ouverts. Si Zhenya vous parle, cela signifie qu'il a besoin de quelque chose. Ou il vérifie simplement dans quelle mesure vous jouez le rôle de « l'un des vôtres ».
+Gardez les yeux ouverts. Si Zhenya te parle, ça veut dire qu'il a besoin de quelque chose. Ou il vérifie à quel point vous jouez le rôle d'un des vôtres
 
-Vas-y, "Barney". La zone de sécurité est déjà fermée. Et il n’y aura certainement pas de temps pour les masques.
+Allez-y, "Barney". La zone de sécurité est déjà proche. Et il n'y aura pas de temps pour les masques.

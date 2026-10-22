@@ -1,26 +1,26 @@
 BARNEY CALHOUN
 
 
-CLASS: Agent de la Résistance Humaine / Ancien Agent de Sécurité
-METABOLISM: Humain, mâle
-PERCEPTION: Moyen (instincts vifs, sens de la rue)
-SIZE: ~6 pieds
-ENDURANCE: Moyen
-HOSTILITY: Faible (ami des alliés, hostile au Combine)
-WEAPONS: Fusil de chasse, SMG, fusil à impulsion AR2
-REWARD: 1000FC
-THREAT: Moyen
+CLASSE:      Résistance humaine opérationnelle / Ancienne garde de sécurité
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Moyenne (instincts de l'animal dans la rue)
+TAILLE:       6 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Faible (amiable aux alliés, hostile à combiner)
+ARMES:    Fusil de chasse, SMG, AR2
+RÉCOMPENSE:     1000 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Barney Calhoun a commencé sa vie en tant qu'humble agent de sécurité à Black Mesa, l'un des innombrables travailleurs impliqués dans la catastrophe de Resonance Cascade. Survivant de la catastrophe, il a refait surface plus tard dans la ville 17 sous l'occupation du Combine. Désormais, Barney agit comme un membre essentiel de la Résistance, servant à la fois de combattant et d'infiltré.
+Barney Calhoun a commencé sa vie en tant qu'humble gardien de sécurité à Black Mesa, l'un des innombrables travailleurs pris dans le désastre de Resonance Cascade. Survivant de la catastrophe, il resurvint plus tard dans la ville 17 sous l'occupation combinée. Barney agit comme un membre vital de la Résistance, servant à la fois de combattant et d'infiltrateur.
 
-Opérant sous l'apparence d'un officier de la protection civile, Barney fait souvent passer clandestinement des informations, des armes et des fournitures à la Résistance. Son esprit vif, son humour sarcastique et ses capacités d'improvisation font de lui à la fois un booster de moral et un agent rusé. Malgré son attitude désinvolte et plaisante, Barney est profondément engagé dans la lutte contre le Cartel et risque sa vie pour ses amis et camarades.
+Opérant sous le couvert d'un agent de protection civile, Barney fait souvent de la contrebande d'informations, d'armes et de fournitures à la Résistance. Son esprit rapide, son humour sarcastique et ses compétences d'improvisation font de lui un stimulant moral et un agent rusé. Malgré son comportement frustrant, Barney est profondément engagé dans la lutte contre le Combiné et met sa vie en jeu pour ses amis et camarades.
 
-Il entretient une amitié étroite avec Gordon Freeman et partage des liens fraternels avec Alyx et Eli Vance, ce qui fait de lui l'un des agents les plus fiables de la Résistance. Bien qu'il ne soit pas aussi agile qu'Alyx ou aussi surhumain que Gordon, la fiabilité et l'expérience de Barney à la fois sur Black Mesa et sur Terre occupée par Combine font de lui un allié inestimable.
+Il entretient une amitié étroite avec Gordon Freeman et partage un lien fraternel avec Alyx et Eli Vance, faisant de lui l'un des agents les plus fiables de la Résistance. Bien que pas aussi agile qu'Alyx ou surhumaine que Gordon, la fiabilité et l'expérience de Barney dans Black Mesa et Combine-occupée Terre en font un allié inestimable.
 
-TIPS: 
+CONSEILS:
 
-- Un soutien fiable au combat fournit un appui-feu et un soutien tactique.
-- Agit souvent comme guide, aidant les combattants de la résistance à travers le territoire du Combine.
-- Son déguisement en Protection Civile lui permet d'infiltrer les rangs ennemis sans se faire remarquer.
+- Des renforts fiables au combat permettent de couvrir les tirs et le soutien tactique.
+- Il sert souvent de guide, aidant les résistants à travers le territoire Combiner.
+- Son déguisement en tant que Protection Civile lui permet de s'infiltrer dans les rangs de l'ennemi.

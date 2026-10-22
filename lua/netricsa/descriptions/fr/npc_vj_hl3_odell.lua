@@ -1,22 +1,22 @@
-ODELL, INGÉNIEUR DU NAVIRE SCIENTIFIQUE BOREALIS
+ODELL, ENGINEER DU BOREALIS DU BESSEL SCIENCES
 
 
-CLASS: Odell, ingénieur du navire scientifique Borealis
-METABOLISM: Humain, mâle
-PERCEPTION: Ingénieur de la Résistance Rebelle
-HEIGHT: 5,9 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Moyenne
-WEAPONS: AR1
-REWARD: 150 FC
-THREAT: Faible
+CLASSE:      Odell, ingénieur du vaisseau scientifique Borealis
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Ingénieur de résistance rebelle
+HEIGHT:     5,9 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Moyenne
+ARMES: AR1
+RÉCOMPENSE:     150 FC
+MENACE:     Faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Odell est un ingénieur de la Résistance et membre de l'équipage du navire scientifique Borealis, échoué dans les glaces de l'Arctique après une attaque de l'Alliance.
+Odell est ingénieur en résistance et membre d'équipage du vaisseau scientifique Borealis, qui a été échoué dans la glace arctique après une attaque de l'Alliance.
 
-Son rôle est d'ouvrir un chemin, de réparer et d'assurer la survie dans les conditions extrêmes de l'Arctique où le Borealis est échoué.
+Son rôle est d'ouvrir un chemin, de réparer et d'assurer la survie dans les conditions arctiques extrêmes où le Borealis est échoué.
 
-TIPS: 
+CONSEILS:
 
-- Malgré son entraînement au combat limité, ses compétences en ingénierie pourraient s'avérer utiles dans des situations difficiles.
+- Malgré son entraînement de combat limité, ses compétences en génie pourraient s'avérer utiles dans des situations difficiles.

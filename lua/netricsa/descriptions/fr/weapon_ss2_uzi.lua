@@ -1,14 +1,14 @@
 UZI
 
 
-WEAPON: Uzi
-AMMO: cartouches de 5,56 mm
-ROF: 600 tours/min
+ARME: Uzi
+MUNITIONS:   tours de 5,56 mm
+CADENCE DE TIR:    600 tours/min
 
 DESCRIPTION:
 
-L'Uzi est une mitraillette compacte. Il offre une grande précision et ne nécessite pas de rechargement, ce qui permet des engagements efficaces à longue portée avec une perte de précision minimale.
+L'Uzi est une mitrailleuse compacte. Il dispose d'une haute précision et ne nécessite pas de rechargement, permettant des engagements à longue portée efficaces avec une baisse de précision minimale.
 
-NOTES:
+REMARQUES:
 
-- Idéal pour affronter de nombreux ennemis de force faible à moyenne, tels que les Kamikazes et les Clowns décapités.
+- Idéal pour faire face à de nombreux ennemis faibles à moyens, tels que Kamikazes décapités et Clowns.

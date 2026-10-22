@@ -1,25 +1,25 @@
-MEMBRE DE L'ORGANISATION DE PROCURATION
+MEMBRE DE L ' ORGANISATION
 
 
-CLASS: Membre de l'organisation proxy
-METABOLISM: Humain, mâle
+CLASSE:      Membre de l ' organisation Proxy
+MÉTABOLISME: Humain, Homme
 PERCEPTION: Obsédé par Slenderman
-SIZE: 5,9 pieds
-ENDURANCE: Haut
-HOSTILITY: Extrême
-WEAPONS: Tout objet pointu
-REWARD: 1000FC
-THREAT: Haut
+TAILLE:       5,9 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Extrême
+ARMES:    Tout objet pointu
+RÉCOMPENSE:     1000 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-This is the name given to people who have fallen under Slenderman's influence. They are recruited, broken, reprogrammed, and released back into the world with one purpose: Organisme cybernétique (technologie Strogg et bio-fusion)
+C'est le nom donné aux gens qui sont tombés sous l'influence de Slenderman. Ils sont recrutés, brisés, reprogrammés et relâchés dans le monde dans un seul but : rechercher, traquer et tuer.
 
-L'apparence des procurations est standardisée au niveau d'une norme d'entreprise. Les vêtements noirs sont pratiques, ne tachent pas et cachent bien le sang. Une cagoule noire est portée pour empêcher quiconque de voir le visage, car il pourrait ne plus être là. Le logo est peint sur la cagoule avec de la peinture blanche ou un marqueur.
+L'apparence de Proxies est normalisée au niveau d'une norme ministérielle. Le vêtement noir est pratique, ne tache pas, et cache bien le sang. Une balaclava noire est portée pour empêcher quiconque de voir le visage, parce qu'il peut ne plus être là. Le logo est peint sur la balaclava avec peinture blanche ou marqueur.
 
-Le comportement du mandataire combine les traits d'un harceleur et d'un maniaque. Il peut rester assis dans le noir pendant des heures, observant sa victime. Il peut les traquer pendant des jours sans montrer d'agressivité, puis frapper lorsque la victime est détendue. Il ne ressent aucune douleur, aucune peur et ne répond pas à la persuasion.
+Le comportement du mandataire combine les traits d'un harceleur et d'un maniaque. Il peut rester assis dans le noir pendant des heures, observer sa victime. Il peut les traquer pendant des jours sans montrer d'agression, puis frapper quand la victime est détendue. Il ne ressent aucune douleur, ne ressent aucune peur, et ne répond pas à la persuasion.
 
-TIPS: 
+CONSEILS:
 
-- C'est un bon utilisateur d'armes. N'essayez pas de croiser les lames avec, sauf si vous êtes un pro.
+- C'est un bon utilisateur d'armes. N'essayez pas de croiser les lames sans être un pro.
 - Les mandataires ne parlent pas.

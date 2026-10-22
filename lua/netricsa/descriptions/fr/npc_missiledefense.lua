@@ -1,25 +1,25 @@
-COMBINEZ LA TOURELLE DE DÉFENSE MISSILE HK-707
+DÉFENSE MISSILE DE COMBINE TURRET HK-707
 
 
-CLASS: Combinez la tourelle de défense antimissile HK-707
-METABOLISM: Entièrement synthétique
-PERCEPTION: Tourelle de défense antimissile
-SIZE: ~4-5 pieds de hauteur
-ENDURANCE: Moyen
-HOSTILITY: Haut
-WEAPONS: Canons doubles intercepteurs
-REWARD: 800 FC
-THREAT: Moyen-élevé
+CLASSE:      Combiner la tourelle de défense antimissile HK-707
+MÉTABOLISME: Entièrement synthétique
+PERCEPTION: Touret antimissile de défense
+TAILLE:       ~4-5 pieds de haut
+ENDURANCE:  Moyenne 
+HOSTILITÉ:  Haut
+ARMES:    Canons intercepteurs doubles
+RÉCOMPENSE:     800 FC
+MENACE:     Moyenne-haute
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Cette unité de défense stationnaire, nom de code HK-707, a été conçue à l'origine pour intercepter et détruire les roquettes avant qu'elles n'atteignent leurs cibles.
+Cette unité de défense stationnaire, le nom de code HK-707, a été conçue à l'origine pour intercepter et détruire les fusées entrantes avant qu'elles n'atteignent leurs cibles.
 
-The turret locks onto incoming missiles using onboard sensors and radar, firing rapid interceptor bursts to neutralize the threat mid-air. Its external chassis is painted bright orange, marking it as a specialized anti-missile system. However, the unit is single-use: une fois déployé et activé, il ne peut être ni déplacé ni réparé.
+La tourelle se verrouille sur les missiles entrants en utilisant des capteurs à bord et des radars, tirant des rafales d'interception rapide pour neutraliser la menace en plein air. Son châssis externe est peint orange vif, le marquant comme un système anti-missile spécialisé. Cependant, l'unité est à usage unique : une fois déployée et activée, elle ne peut être déplacée ou réparée.
 
-TIPS: 
+CONSEILS:
 
-- Détruisez la tourelle avant qu'elle ne se verrouille sur vos roquettes.
-- Il est plus efficace pour l'interception à courte et moyenne portée.
-- Accablez-le d'explosifs pour contourner ses défenses.
-- Une fois inactif, l'appareil devient un débris inoffensif.
+- Détruisez la tourelle avant qu'elle ne ferme vos fusées.
+- Il est plus efficace à l'interception de portée proche du milieu.
+- Débordez-le d'explosifs pour contourner ses défenses.
+- Une fois inactif, l'unité devient inoffensive.

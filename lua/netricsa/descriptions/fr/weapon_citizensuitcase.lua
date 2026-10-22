@@ -1,12 +1,12 @@
-CITIZEN SUITCASE
+CITOYENNE
 
 
-WEAPON: Valise citoyenne
+ARME:      Valise citoyenne
 
 DESCRIPTION:
 
-Initialement utilisé comme accessoire par les citoyens.
+Utilisé à l'origine comme un accessoire par les citoyens.
 
-NOTES:
+REMARQUES:
 
-- Utilisation infinie ; aucune munition requise.
+- Utilisation infinie; pas de munitions nécessaires.

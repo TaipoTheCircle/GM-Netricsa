@@ -1,20 +1,20 @@
 LÉGIONNAIRE
 
 
-CLASS: Légionnaire
-METABOLISM: Alimenté par la viande et les sandwichs
-PERCEPTION: Infanterie romaine, fantassin de base
-SIZE: ~6 pieds
-ENDURANCE: Faible
-HOSTILITY: Doux jusqu'à ce que tu le frappes dans le casque
-WEAPONS: Pilum (bâton pointu), charge de combat
-REWARD: 90 FC et 1 Casque
-THREAT: Minimal
+CLASSE:      Légionnaire
+MÉTABOLISME: Viande et sandwich alimentés
+PERCEPTION: Infanterie romaine, Soldat pied basique
+TAILLE:       6 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Jusqu'à ce que tu le frappes dans le casque
+ARMES:    Pilum (bouton pointu), charge de combat
+RÉCOMPENSE:     90 FC et 1 casque
+MENACE:     Minimal
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Légionnaire est comme la sentinelle hors marque de Rome, armée d'une lance et de la conviction inébranlable que facturer votre ennemi avec des bâtons pointus résout tout. Vêtu d'une tunique verte et de bottes sandales, il avance d'un pas lourd, presque machinalement. Son temps de charge rivalise avec celui des escargots lors d'une pause-café, ce qui le rend moins menaçant et plus comique... jusqu'à ce qu'il fasse équipe avec des Romains plus coriaces, il devient alors soudainement moins risible et plus direct.
+Le Légionnaire est comme la sentinelle hors marque de Rome armé d'une lance et la croyance indéfectible que la facturation de votre ennemi avec des bâtons pointus résout tout. Clad dans une tunique verte et des bottes sandalées, il bois en avant, presque mécaniquement. Son temps d'accusation rivalise avec des escargots sur une pause café, ce qui le rend moins menaçant et plus comique... jusqu'à ce qu'il s'associe avec des Romains plus durs, puis il est soudainement moins risible et plus shovel-to-the-face matériel.
 
-TIPS: 
+CONSEILS:
 
-- Une promenade tranquille et un coup de poing le font généralement voler.
+- Une promenade tranquille et un coup de poing l'envoient en vol.

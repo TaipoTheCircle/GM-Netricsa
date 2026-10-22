@@ -1,15 +1,15 @@
-MP5 SUBMACHINE GUN
+GUN DE SOUS-MACHINE MP5
 
 
-ARME : MP5 Submachine Gun
-MUNITIONS : 9x19mm rounds + 40mm grenades
-ROF : ~700 rounds / min
+ARME:      Pistolet sous-machine MP5
+MUNITIONS:        tours 9x19mm + grenades 40mm
+CADENCE DE TIR:         ~700 tours/min
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Versatile close-to-medium range automatic weapon. Provides sustained suppressive fire with reasonable accuracy.
+Arme automatique polyvalente de portée proche de moyenne. Fournit un feu suppresseur soutenu avec une précision raisonnable.
 
-REMARQUES :
+REMARQUES:
 
-- Effective against lightly armored infantry.
-- Accuracy decreases significantly at long range.
+- Efficace contre l'infanterie légère.
+- L'exactitude diminue significativement à long terme.

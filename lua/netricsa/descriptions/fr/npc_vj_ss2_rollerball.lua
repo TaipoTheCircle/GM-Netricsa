@@ -1,23 +1,23 @@
-DRONE À ROULEAU
+CHEMIN DE ROLLER
 
 
-CLASS: Drone à roulettes
-METABOLISM: Véhicule contrôlé par Al
-PERCEPTION: Al primitif
-SIZE: 7 pieds (longueur, largeur, hauteur)
-ENDURANCE: Moyen
-HOSTILITY: Moyen
-WEAPONS: Chargement
-REWARD: 200FC
-THREAT: Moyen
+CLASSE:      Drone à rouleaux
+MÉTABOLISME: Véhicule contrôlé par Al
+PERCEPTION: primitive Al
+TAILLE:       7pieds (longueur, largeur, hauteur)
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Moyenne
+ARMES:    Chargement
+RÉCOMPENSE:     200 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-On ne sait pas pourquoi Mental a construit ces gigantesques boules roulantes. Certains pensent qu'ils ont été conçus pour le combat en montagne, de sorte qu'ils roulent d'en haut et écrasent les attaquants. D'autres pensent qu'il s'agissait peut-être de jouets pour le hamster de compagnie de Mental. Personne n'est certain de leurs origines.
+On ne sait pas pourquoi Mental a construit ces énormes boules de roulement. Certains spéculent qu'ils ont été conçus pour le combat montagneux, de sorte qu'ils roulent d'en haut et écrasent les attaquants. D'autres pensent qu'ils ont été des jouets pour le hamster de Mental. Personne n'est certain de leurs origines.
 
-Cependant, ce sur quoi tout le monde s’accorde, c’est qu’ils sont très ennuyeux à gérer. Comme vous l'avez peut-être deviné, les Roller Drones essaieront de vous rouler dessus. Ils sont très rapides et peuvent manœuvrer sur tout type de terrain. Essayez d’en faire une cible prioritaire.
+Cependant, tout le monde est d'accord sur le fait qu'ils sont très ennuyeux à gérer. Roller Drones va, comme vous l'avez deviné, essayer de vous rouler dessus. Ils sont très rapides et peuvent manœuvrer sur n'importe quel terrain. Essayez de faire d'eux une cible prioritaire.
 
-TIPS: 
+CONSEILS:
 
-- Esquivez leurs charges en évitant.
-- Leur tirer dessus ralentira leur élan, et pourrait même les repousser.
+- Débarrassez-vous de leurs charges.
+- Les tuer ralentira leur élan, et pourrait même les repousser.

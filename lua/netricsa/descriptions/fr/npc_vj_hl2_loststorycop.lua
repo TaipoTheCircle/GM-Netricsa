@@ -1,27 +1,27 @@
-COMBINEZ LA COP DE LA PROTECTION CIVILE
+COMBINE PROTECTION CIVILE COP
 
 
-CLASS: Combinez le flic de la protection civile
-METABOLISM: Humain, mâle
-PERCEPTION: Occupation Police / Application de la loi
-SIZE: 6 pieds
-ENDURANCE: Faible
-HOSTILITY: Moyen
-WEAPONS: Pistolet, Stun Stun-Stick, Manhack
-REWARD: 350FC
-THREAT: Moyen
+CLASSE:      Combiner Protection civile Cop
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Profession Police / Application de la loi
+TAILLE:       6 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Moyenne
+ARMES:    Pistol, Stun Stun-Stick, Manhack
+RÉCOMPENSE:     350 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Civil Protection Cop is the most recognizable "down-to-earth" representative of the Combine. Once upon a time, they were ordinary people: les anciens policiers, les gardes de sécurité, les bénévoles ou simplement ceux qui ont décidé de siffler et de Stun-Stick valaient mieux que de devenir un harceleur. Désormais, eux et les Metrocops sont le visage de l'ordre dans la Ville 17 et dans d'autres villes.
+Protection civile Cop est le représentant le plus reconnaissable du Combine. Il était une fois des gens ordinaires: anciens policiers, gardes de sécurité, volontaires, ou tout simplement ceux qui ont décidé un sifflet et Stun-Stick étaient mieux que de devenir un Stalker. Maintenant, ils et les Metrocops sont le visage de l'ordre dans la ville 17 et d'autres villes.
 
-He wears a dark gray uniform: veste, pantalon, gants et bottes, tous uniformément uniformes. Des bandes d'identification jaunes portant l'inscription « C17 » sont épinglées sur sa manche. Un casque noir avec un masque à gaz lui enlève son individualité, tandis que la bande orange sert presque de symbole décoratif de son affiliation à un système qui voit le monde à travers des filtres.
+He wears a dark gray uniform: veste, pantalon, gants et bottes, tous uniformes. Les bandes d'identification jaune portant l'inscription "C17" sont épinglées sur sa manche. Un casque noir avec un masque à gaz le vole d'individualité, tandis que la bande orange sert presque comme un symbole décoratif de son affiliation à un système qui voit le monde à travers des filtres.
 
-Un manhack, un « assistant » mécanique qui se déploie en un clic, est attaché au dos du flic. Le manhack fonctionne à la fois comme un épouvantail, un éclaireur et un punisseur, et semble parfois plus intelligent que son propriétaire. Le flic lui-même préfère souvent les menaces, les frappes paralysantes et les démonstrations d'autorité au combat réel.
+Un manhack-un "assistant" mécanique qui se déploie avec un clic-est attaché au dos du flic. Le manhack fonctionne comme un épouvantail, scoutant et punisseur à la fois, et parfois semble plus intelligent que son propriétaire. Le flic lui-même préfère souvent les menaces, les grèves de Stun-Stick, et les démonstrations d'autorité sur le combat réel.
 
-Ils n'ont presque pas d'armure et un entraînement minimal. Leur force ne réside pas dans leurs capacités individuelles, mais dans leur nombre, leur peur et le soutien du Combine. Cependant, associé à un manhack, un tel flic peut poser de sérieux problèmes, en particulier pour les civils non préparés.
+Ils n'ont presque aucune armure, et un entraînement minimal. Leur force ne réside pas dans leurs capacités individuelles, mais dans leur nombre, leur peur et le soutien du Combiné. Cependant, jumelé à un manhack, un tel flic peut poser un grave problème, surtout pour les civils non préparés.
 
-TIPS: 
+CONSEILS:
 
-- Un flic est faible en soi, mais un piratage augmente considérablement le danger.
-- Détruisez d'abord le manhack - sans lui, un flic perd rapidement le pouvoir.
+- Un flic est faible tout seul, mais un manhack augmente considérablement le danger.
+Sans lui, un flic perd rapidement le pouvoir.

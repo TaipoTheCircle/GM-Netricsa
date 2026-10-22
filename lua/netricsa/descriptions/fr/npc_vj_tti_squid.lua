@@ -1,28 +1,28 @@
-BIG SQUIDWARD J. QUINCY TENTACULES DU BAS DU BIKINI
+BIG SQUIDWARD J. QUINCY TANTACLES DE LA BOTTOM BIKINI
 
 
-CLASS: Tentacules Big Squidward J. Quincy
-METABOLISM: Créature ressemblant à une pieuvre
-PERCEPTION: Intellectuel, obligé de survivre parmi les idiots
-SIZE: 6 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Faible
-WEAPONS: Personnalité
-REWARD: 600 FC
-THREAT: Faible
+CLASSE:      Grand calmar J. Quincy Tentacles
+MÉTABOLISME: Une créature de type octopus
+PERCEPTION: Intellectuel, forcé de survivre parmi les idiots
+TAILLE:       6 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Faible
+ARMES:    Personnalité
+RÉCOMPENSE:     600 FC
+MENACE:     Faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Big Squidward J. Quincy Tentacles est une pieuvre intellectuellement supérieure à son environnement et qui en souffre profondément. Forcé d'endurer des années de compagnie avec Bob l'éponge et Big Patrick Star, ce qui a conduit à une irritabilité chronique, un cynisme et un épuisement émotionnel.
+Big Squidward J. Quincy Tentacles est une pieuvre intellectuellement supérieure à son environnement et qui en souffre profondément. Forced to enduring years of companyship with SpongeBob SquarePants and Big Patrick Star, qui a conduit à l'irritabilité chronique, le cynisme, et l'épuisement émotionnel.
 
-Il travaille comme caissier dans un endroit qu'il méprise. L'art n'est pas pour lui un passe-temps, mais une ultime tentative pour prouver sa valeur au monde. Il se considère comme un génie, sous-estimé par le public.
+Il travaille comme caissier dans un endroit qu'il méprise. L'art n'est pas un passe-temps pour lui, mais une tentative pour prouver sa valeur au monde. Il se considère comme un génie, sous-estimé par la foule.
 
-Malgré sa passivité extérieure, Squidward est extrêmement instruit, peut conduire presque n'importe quel véhicule et est capable de penser logiquement. Dans de rares moments d'inspiration, il fait preuve d'un véritable talent, notamment en musique, mais sabote presque toujours son propre succès.
+Malgré sa passivité extérieure, Squidward est extrêmement instruit, peut fonctionner presque n'importe quel véhicule, et est capable de pensée logique. Dans de rares moments d'inspiration, il démontre un véritable talent, surtout en musique, mais presque toujours sabote son propre succès.
 
-Sous une pression et un harcèlement constants, il est capable d'actes cruels, mais après avoir réalisé les conséquences, il se sent presque toujours coupable et essaie de se racheter.
+Sous la pression et l'intimidation constantes, il est capable d'actes cruels, mais après avoir pris conscience des conséquences, il se sent presque toujours coupable et tente de s'amender.
 
-TIPS: 
+CONSEILS:
 
-- Ne le provoquez pas. - Squidward est vindicatif, mais intelligent.
-- Ne touchez pas à son art, c'est personnel.
-- Il n'aime pas quand les gens ne le paient pas pour une commande.
+Squidward est vindicatif, mais intelligent.
+- Ne touchez pas à son art - c'est personnel.
+- Il n'aime pas que les gens ne le paient pas.

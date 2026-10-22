@@ -1,27 +1,27 @@
-COMBINEZ UN SOLDAT DE LA GARDE UNIE
+COMBINE UNITED GUARD SOLDIER
 
 
-CLASS: Combiner un soldat de la Garde unie
-METABOLISM: Mâle humain amélioré / Augmentations biomécaniques limitées
-PERCEPTION: Soldat transhumain, Garde combinée
-SIZE: 6,5 pieds
-ENDURANCE: Très élevé
-HOSTILITY: Extrême
-WEAPONS: Fusil lourd SPAS-12, grenades
-REWARD: 600 FC
-THREAT: Très élevé
+CLASSE:      Combiner le soldat de la Garde unie
+MÉTABOLISME: Augmentations accrues de l'effectif humain masculin / limité de la biomécanique
+PERCEPTION: Transhuman Soldier, Combiner Garde
+TAILLE:       6,5 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Extrême
+ARMES:    SPAS-12 Fusil lourd, Grenades
+RÉCOMPENSE:     600 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les soldats de la Combine United Guard constituent une force d'infanterie transhumaine d'élite, servant entre les forces régulières d'Overwatch et les unités de frappe spécialisées. Contrairement aux soldats du Combine standard, les gardes conservent un plus grand degré d'autonomie physiologique, mais sont soumis à un conditionnement psychologique plus profond et à des améliorations sélectives d'implants.
+Les soldats de la Guarde unie sont une force d'infanterie transhumaine d'élite qui sert entre les forces régulières de Overwatch et les unités de frappe spécialisées. Contrairement à la norme Combinez les soldats, les gardiens conservent une plus grande autonomie physiologique, mais sont soumis à un conditionnement psychologique plus profond et à des améliorations sélectives des implants.
 
-Leur rôle principal est d'occuper des positions clés, de protéger les actifs stratégiques et d'escorter des transports de grande valeur tels que l'APC Transporter et le Combine Track. Les gardes sont les premiers à se déployer et les derniers à quitter la zone opérationnelle.
+Leur rôle principal est d'occuper des postes clés, de protéger les biens stratégiques et d'escorter des transports de grande valeur comme le transporteur APC et Combiner la voie. Les gardes sont les premiers à se déployer et les derniers à quitter la zone opérationnelle.
 
-A Combined Guard soldier's equipment is heavier than standard equipment: un blindage renforcé, des stabilisateurs de recul et des systèmes intégrés de surveillance des signes vitaux. Leurs casques et respirateurs déforment leur voix, lui donnant un ton froid et impersonnel, dénué d'émotion et d'individualité.
+L'équipement d'un soldat de la Garde combinée est plus lourd que l'équipement standard : armure renforcée, stabilisateurs de recul et systèmes intégrés de surveillance des signaux vitaux. Leurs casques et leurs respirateurs déforment leurs voix, leur donnent un ton froid et impersonnel, dépourvu d'émotion et d'individualité.
 
-Les gardes ne recherchent pas un nettoyage rapide ; leur objectif est la répression et le maintien, même si cela nécessite une bataille prolongée.
+Les gardiens ne cherchent pas des nettoyages rapides; leur but est la suppression et la tenue, même si cela nécessite une bataille prolongée.
 
-TIPS: 
+CONSEILS:
 
-- Ne les engagez pas dans une bataille prolongée : les gardes ont une endurance supérieure à la moyenne.
-- Les grenades et les tirs concentrés sont le meilleur moyen de percer leurs défenses.
+- Ne les engagez pas dans une bataille prolongée - les gardes ont plus d'endurance que la moyenne.
+- Les grenades et le feu concentré sont le meilleur moyen de briser leurs défenses.

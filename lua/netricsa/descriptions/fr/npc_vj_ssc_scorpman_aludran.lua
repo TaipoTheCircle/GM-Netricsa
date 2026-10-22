@@ -1,27 +1,27 @@
-ARACHNOÏDE ALUDRAN DU SYSTÈME ALUDRAN
+ALUDRAN ARACHNOID DU SYSTÈME ALUDRAN
 
 
-CLASS: Arachnoïde d'Aludran
-METABOLISM: Ectotherme, Arthropode
-PERCEPTION: Race Sapiente Primitive
-SIZE: 10 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Extrême
-WEAPONS: Mitrailleuse à flamme magique, queue de Stinger
-REWARD: 2000 FC
-THREAT: Haut
+CLASSE:      Aludran Arachnoid
+MÉTABOLISME: Éctotherme, Arthropodes
+PERCEPTION: Race Sapient Primitive
+TAILLE:       10 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Extrême
+ARMES: Pistolet à flamme magique, queue d'attache
+RÉCOMPENSE:     2000 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
 Cet ennemi rampant à huit pattes est l'un des principaux adversaires de Mental dans la guerre contre l'humanité.
 
-Hybride de scorpion, son attaque par piqûre à courte portée est puissante, mais pas aussi mortelle que son minigun à flammes à rechargement rapide. L'Arachnoïde n'est pas particulièrement rapide et préfère tenir ses adversaires à distance, en ouvrant le feu le plus tôt possible.
+Un hybride scorpion, son attaque par piqûre à portée de main est puissante, mais pas aussi mortelle que son mini-gun à flammes à recharge rapide. L'Arachnoide n'est pas particulièrement rapide et préfère garder ses adversaires à l'écart, ouvrant le feu le plus tôt possible.
 
-Dans une main, l'arachnoïde tient une mitrailleuse à flamme magique équipée d'un régénérateur de plasma. Son corps est recouvert d'un exosquelette qui le protège des balles, des explosifs et du feu.
+Dans une main, l'arachnoide tient une mitrailleuse magique équipée d'un régénérateur de plasma. Son corps est recouvert d'un exosquelette qui le protège des balles, des explosifs et du feu.
 
-On ne sait pas comment les Arachnoïdes du Scorpius sont arrivés dans le système Aludran.
+On ignore comment les Arachnoïdes de Scorpius sont arrivés dans le système Aludran.
 
-TIPS: 
+CONSEILS:
 
-- Le dard sur sa queue est dangereux, ne vous approchez pas trop.
-- Lorsqu'il est enragé, il tirera même à travers le sien.
+- La queue est dangereuse, ne vous approchez pas trop.
+- Quand elle est en colère, elle tire même à travers la sienne.

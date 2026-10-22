@@ -1,8 +1,8 @@
-MESA NOIR, LIAISON MONTANTE
+MESA BLACK, LINK
 
 
-Sam, l'accès au complexe Lambda reste scellé. Les scientifiques à l'intérieur sont vivants, mais ils ne peuvent pas risquer d'ouvrir les portes du réacteur jusqu'à ce que les autorités extérieures soient alertées. La procédure standard exige qu'un signal soit transmis à la Commission américaine de réglementation nucléaire (USNRC), confirmant la crise de Black Mesa.
+Sam, l'accès au complexe Lambda reste scellé. Les scientifiques à l'intérieur sont vivants, mais ils ne peuvent pas risquer d'ouvrir les portes du réacteur tant que les autorités extérieures ne sont pas alertées. La procédure standard exige qu'un signal soit transmis à la Nuclear Regulatory Commission (USNRC), confirmant la crise de Black Mesa.
 
-The problem? The uplink array was damaged during bombardment. The antenna has to be realigned manually. Of course, the entire communications sector is under heavy assault: frappes d'artillerie ci-dessus, H.E.C.U. des unités retranchées à l'intérieur et des rapports faisant état de forces de Mental saignant à travers des portails instables.
+Le problème ? Le réseau de liaisons montantes a été endommagé lors du bombardement. L'antenne doit être réalignée manuellement. Bien sûr, l'ensemble du secteur des communications fait l'objet d'un assaut lourd : frappes d'artillerie au-dessus, unités de l'U.S.E.S. implantées à l'intérieur, et rapports des forces de Mental qui saignent à travers des portails instables.
 
-Mais vous ne serez pas seul. Un scientifique survivant et un agent de sécurité tentent également d'atteindre Lambda. Ils veulent sortir, mais jusqu'à ce que ce signal passe, les portes du réacteur restent verrouillées. Ils comptent sur vous, ou plutôt sur "Freeman", pour réinitialiser la liaison montante.
+Mais tu ne seras pas seule. Un scientifique survivant et un gardien de sécurité tentent d'atteindre Lambda. Ils veulent sortir, mais jusqu'à ce que ce signal passe, les portes du réacteur restent verrouillées. Ils comptent sur toi ou plutôt, "Freeman" - pour réinitialiser la liaison ascendante.

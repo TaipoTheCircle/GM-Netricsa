@@ -1,24 +1,24 @@
-H.E.C.U. MARIN
+S.E.C.U
 
 
-CLASS: H.E.C.U. Marin
-METABOLISM: Humain, mâle
-PERCEPTION: Grunt humain
-SIZE: ~6 pieds de haut
-ENDURANCE: Moyen-élevé
-HOSTILITY: Extrême (vers le personnel et les intrus de Black Mesa)
-WEAPONS: MP5 avec grenades, fusil de chasse (variante), arme de poing, grenades tactiques
-REWARD: 600 FC
-THREAT: Fort individuellement, catastrophique en effectif
+CLASSE:      S.E.C.U. Marine
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Groupe humain
+TAILLE:       6 pieds de haut
+ENDURANCE:  Moyenne-élevée
+HOSTILITÉ:  Extreme (en direction du personnel de Mesa noir et intrus)
+ARMES:    MP5 avec grenades, fusil de chasse (variant), bras de côté, grenades tactiques
+RÉCOMPENSE:     600 FC
+MENACE:     Élevé individuellement, catastrophique dans les équipes
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Human Grunt est un soldat de la Hazardous Environment Combat Unit (H.E.C.U.), déployé à Black Mesa pendant la cascade de résonance. Officiellement envoyés pour « contenir la situation », ils ont en réalité reçu l'ordre d'éliminer à la fois la menace extraterrestre et tous les témoins survivants (extraterrestres, scientifiques, gardes, forces spéciales du secteur Delta et tout le monde).
+Le Grunt humain est un soldat de l'Unité de combat pour l'environnement dangereux (U.S.E.C.), déployé à Mesa noire pendant la cascade de résonance. En réalité, ils ont reçu l'ordre d'éliminer à la fois la menace étrangère et les témoins survivants (étrangers, scientifiques, gardiens, forces spéciales du secteur Delta et tout le monde).
 
-Ces soldats sont bien armés, disciplinés et travaillent en escouades coordonnées. Ils utilisent efficacement leur couverture, lancent des grenades pour débusquer les ennemis et prendront le flanc si on leur en donne l'occasion. Leurs radios crépitent de bavardages, ajoutant au sentiment d’une opération militaire bien organisée. Bien qu'ils ne soient qu'humains, ils sont l'un des ennemis les plus meurtriers de tout l'incident en raison de leur entraînement et de leur équipement.
+Ces soldats sont bien armés, disciplinés et travaillent dans des équipes coordonnées. Ils utilisent la couverture efficacement, lancent des grenades pour chasser les ennemis, et flanquer si donné la chance. Leurs radios craquent avec le bavardage, ajoutant au sens d'une opération militaire bien organisée. Bien qu'étant uniquement humains, ils sont l'un des ennemis les plus meurtriers de l'incident en raison de leur entraînement et de leur équipement.
 
-TIPS: 
+CONSEILS:
 
-- Ne sous-estimez jamais leurs grenades : ils adorent les lancer dans les coins.
-- Briser la cohésion de leur escouade ; Les Grunts solitaires sont beaucoup plus faciles à gérer.
-- Utilisez des embuscades, des mines ou des explosifs pour contrer leur supériorité numérique.
+- Ne jamais sous-estimer leurs grenades - ils aiment les lobber autour des coins.
+- Briser leur cohésion d'équipe; les Grunts solitaires sont beaucoup plus faciles à gérer.
+- Utilisez des embuscades, des tripmines ou des explosifs pour contrer leur nombre supérieur.

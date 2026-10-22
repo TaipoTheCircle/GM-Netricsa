@@ -1,22 +1,22 @@
-HÉLICOPTÈRE DE PATROUILLE UH-60 « BLACKHAWK » DEPUIS L'ARCHIPEL DE KRIEGER
+UH-60 "BLACKHAWK" PATROL HELICOPTER DE L'ARCHIPELAGO KRIEGER
 
 
-CLASS: Hélicoptère de patrouille UH-60 "Blackhawk"
-METABOLISM: Aéronef
-PERCEPTION: Avion ennemi
-SIZE: ~16,7 pieds
-ENDURANCE: Haut
-HOSTILITY: Moyen-élevé
-WEAPONATORY: Minigun embarqué contrôlé par un tireur
-REWARD: 1000FC
-THREAT: Haut
+CLASSE:       Hélicoptère de patrouille UH-60 "Blackhawk"
+MÉTABOLISME:  Avion
+PERCEPTION:  Aéronef ennemi
+TAILLE:        ~16,7 pieds
+ENDURANCE:   Haut
+HOSTILITÉ:   Moyenne-haute
+WEAPONATORY: Minigune de bord contrôlée par un tireur
+RÉCOMPENSE:      1000 FC
+MENACE:      Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le principal hélicoptère polyvalent des forces Krieger. Utilisé pour les patrouilles, le déploiement rapide de renforts et l'appui-feu rapproché. Il présente un motif de camouflage standard avec le logo de l'entreprise. L'équipage se compose d'un pilote, d'un tireur utilisant un minigun embarqué et de trois parachutistes maximum. Lorsqu'il est détecté, l'hélicoptère lance une recherche et une attaque actives, agissant comme un point de tir mobile et une plate-forme d'atterrissage pour les troupes.
+L'hélicoptère multirôle primaire des forces de Krieger. Utilisé pour les patrouilles, le déploiement rapide de renforts et le soutien rapproché aux tirs. Il a un motif camouflage standard avec le logo de l'entreprise. L'équipage se compose d'un pilote, d'un artilleur exploitant un mini-gun à bord et de trois parachutistes. Lorsqu'il est détecté, l'hélicoptère commence une recherche active et attaque, agissant comme point de tir mobile et plate-forme d'atterrissage des troupes.
 
-TIPS: 
+CONSEILS:
 
-- Pilote et tireur. Tuer le pilote provoque le crash de l'hélicoptère. Tuer le tireur le prive de son arme principale, après quoi l'hélicoptère bat généralement en retraite.
-- Les tirs de lance-grenades sous le canon et les tirs précis de fusil de sniper dans le cockpit sont les plus efficaces.
+- Pilote et tireur. Tuer le pilote provoque l'accident de l'hélicoptère. Tuer le tireur les prive de leur arme principale, après quoi l'hélicoptère recule habituellement.
+- Les tirs de lance-grenades et les tirs précis de fusil de sniper dans le cockpit sont les plus efficaces.
 - L'hélicoptère ne peut pas poursuivre sous les toits.

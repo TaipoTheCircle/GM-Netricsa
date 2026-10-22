@@ -1,24 +1,24 @@
-ALPHA H.E.C.U. SERGENT (SPÉCIALISTE DE MÊLÉE)
+ALPHA H.E.C.U. SERGEANT (SPÉCIALISTE MELÉE)
 
 
-CLASS: Alpha H.E.C.U. Sergent (spécialiste de mêlée)
-METABOLISM: Humain, mâle
-PERCEPTION: Infanterie de combat rapproché Alpha Elite
-SIZE: ~5,9 pieds
-ENDURANCE: Très élevé
-HOSTILITY: Extrême
-WEAPONS: Entraînement au corps à corps renforcé, couteaux de combat.
-REWARD: 2200 FC
-THREAT: Grave
+CLASSE:      Sergent Alpha H.E.C.U. (spécialiste des métaux)
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Alpha Elite Close-Quarters Infantry
+TAILLE:       ~5,9 pi
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Extrême
+ARMES:    Entraînement renforcé, couteaux de combat.
+RÉCOMPENSE:     2200 FC
+MENACE:     Sévère
 
-DESCRIPTION: 
+DESCRIPTION:
 
-L'Alpha H.E.C.U. Le sergent (spécialiste de mêlée) est un expert brutal du combat rapproché, déployé pour neutraliser la résistance dans des zones confinées ou lorsque les tirs de suppression ne sont pas disponibles. Leur armure renforcée leur permet de soutenir des attaques tout en réduisant la distance, et leurs compétences mortelles en mêlée en font des bourreaux ambulants.
+Le sergent Alpha H.E.C.U. (spécialiste du melee) est un expert brutal de la lutte rapprochée, déployé pour neutraliser la résistance dans les zones confinées ou lorsque l'incendie suppressif n'est pas disponible. Leur armure renforcée leur permet de soutenir les attaques tout en fermant la distance, et leurs compétences létales de mêlée en font un bourreau marchant.
 
-Contrairement aux marines standards, ces sergents sont entraînés à contourner les abris, à sauter sur leurs adversaires et à neutraliser plusieurs cibles en utilisant leur force et leurs frappes précises. Ils accompagnent souvent des escouades de H.E.C.U. régulières, agissant comme troupes de choc pour briser les lignes ennemies.
+Contrairement aux marines classiques, ces sergents sont entraînés à contourner la couverture, à sauter sur les adversaires et à invalider plusieurs cibles en utilisant la force pure et les frappes de précision. Ils accompagnent souvent des escouades de S.E.C.U., agissant comme troupes de choc pour briser les lignes ennemies.
 
-TIPS: 
+CONSEILS:
 
-- Gardez vos distances : leurs attaques au corps à corps sont dévastatrices.
-- Les explosifs ou les armes à feu lourdes sont efficaces ; s’ils sont disponibles, les armes à énergie peuvent rapidement égaliser les chances.
-- Utiliser les risques environnementaux ou les points d'étranglement pour limiter leur approche ; les précipiter de front est suicidaire.
+- Gardez la distance - leurs frappes de mêlée sont dévastatrices.
+- Les explosifs ou les armes à feu lourdes sont efficaces; s'ils sont disponibles, les armes à feu énergétiques peuvent même être rapides.
+- Utiliser des risques environnementaux ou des points d'étranglement pour limiter leur approche; les précipiter de front est suicidaire.

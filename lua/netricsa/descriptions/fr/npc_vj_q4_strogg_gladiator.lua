@@ -1,20 +1,20 @@
-GLADIATEUR STROGG DE STROGGOS
+GLADIATEUR DE STROGGOS
 
 
-CLASS: Gladiateur Strogg
-METABOLISM: Organisme cybernétique (technologie Strogg et bio-fusion)
-PERCEPTION: Combattant lourd Strogg
-SIZE: ~ 7 pieds de haut (blindé)
-ENDURANCE: Très élevé
-HOSTILITY: Extrême
-WEAPONS: Canon Vulcain lourd (tir rapide), lance-grenades / charges explosives
-REWARD: ~1200FC
-THREAT: Très élevé
+CLASSE:      Strogg Gladiator
+MÉTABOLISME: Organisme cybernétique (Strogg tech & biofusion)
+PERCEPTION: Strogg Combattant lourd
+TAILLE:       ~7 pieds de haut (armure)
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Extrême
+ARMES:    Cannon Vulcain lourd (incendie rapide), lance-grenade / charges explosives
+RÉCOMPENSE:     ~1200 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Gladiator est un combattant Strogg lourdement blindé, conçu à la fois pour la suppression à distance et les combats rapprochés brutaux. Souvent vu dans les enceintes fortifiées et les patrouilles d'élite, le Gladiator combine puissance de feu et défense. Ils possèdent également un bouclier énergétique circulaire visible monté sur leur bras, qui repousse complètement toute l'énergie qui leur est tirée (y compris les dégâts explosifs des missiles à impact direct). Le bouclier est suffisamment grand pour couvrir la majeure partie du corps d'un gladiateur, bien que sa tête, ses épaules et ses tibias soient encore partiellement exposés. Les gladiateurs lèvent leur bouclier immédiatement après avoir subi des dégâts et ne l'abaissent qu'immédiatement avant un tir de Railgun, après quoi ils le relèvent à nouveau.
+Le Gladiator est un combattant Strogg fortement blindé construit pour la suppression à la fois variée et les quartiers proches brutal. Vu souvent dans des complexes fortifiés, et des patrouilles d'élite, le Gladiator combine puissance de feu et défense. Ils possèdent également un bouclier d'énergie circulaire visible monté sur leur bras, qui repousse complètement toute énergie tirée sur eux (y compris les dommages explosifs causés par des missiles à impact direct). Le bouclier est assez grand pour couvrir la plupart du corps d'un Gladiator, bien que leur tête, les épaules et les tibias soient encore partiellement exposés. Les gladiateurs lèvent leur bouclier immédiatement après avoir pris des dommages et ne le baissent que immédiatement avant un coup de fusil, après quoi ils le lèvent de nouveau.
 
-TIPS: 
+CONSEILS:
 
-- Le Gladiateur ne lève son bouclier qu'après avoir reçu un coup, donc le premier tir touche presque toujours et inflige des dégâts. Si le bouclier est abaissé, cela offre une bonne opportunité de frapper le Gladiator avec une roquette ou un spray du Nailgun. Le pistolet éclair peut être utilisé pour supprimer les générateurs de bouclier et les désactiver brièvement, ouvrant ainsi la porte aux attaques. De plus, le railgun monté sur l'épaule est toujours vulnérable, vous pouvez donc lui tirer dessus pour lui infliger des dégâts.
+- Le Gladiator ne lève son bouclier qu'après avoir pris un coup, donc le premier coup frappe presque toujours et inflige des dommages. Si le bouclier est baissé, cela offre une bonne occasion de frapper le Gladiator avec une fusée ou un spray du Nailgun. Le Pistolet Lightning peut être utilisé pour supprimer les générateurs de boucliers et les désactiver brièvement, ouvrant la porte aux attaques. De plus, le canon à l'épaule est toujours vulnérable, de sorte qu'il peut être abattu pour des dommages.

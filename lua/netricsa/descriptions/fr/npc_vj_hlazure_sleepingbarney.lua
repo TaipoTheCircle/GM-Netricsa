@@ -1,22 +1,22 @@
-BLACK MESA SLEEPING ON BREAK SECURITY GUARD
+LE MESA BLACK SLEEPING SUR LA SÉCURITÉ BREAK
 
 
-CLASS: Black Mesa dormant pendant la pause, agent de sécurité
-METABOLISM: Humain, mâle
-PERCEPTION: Garde de sécurité Black Mesa (inactif)
-SIZE: ~5,9 pieds
-ENDURANCE: Faible
-HOSTILITY: Aucun
-WEAPONS: Aucun
-REWARD:     10 FC
-THREAT: Aucun
+CLASSE:      Black Mesa Dormir en cas de rupture Garde de sécurité
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Garde de sécurité de Mesa noire (inactive)
+TAILLE:       ~5,9 pi
+ENDURANCE:  Faible
+HOSTILITÉ:  Aucune
+ARMES:    Aucune
+RÉCOMPENSE:     10 FC
+MENACE:     Aucune
 
 DESCRIPTION:
 
-Un agent de sécurité retrouvé endormi pendant le chaos. Il ne se réveille jamais et ne joue aucun rôle au combat.
+Un garde de sécurité trouvé endormi pendant le chaos. Il ne se réveille jamais et ne joue aucun rôle dans le combat.
 
-TIPS:
+CONSEILS:
 
-- Totalement inoffensif.
+- Complètement inoffensif.
 - Ignorer - pas une menace ou un allié.
-- Laissez l'Homme dormir.
+- Laisse l'homme dormir.

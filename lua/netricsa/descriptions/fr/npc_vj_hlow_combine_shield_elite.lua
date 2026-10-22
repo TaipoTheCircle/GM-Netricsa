@@ -1,29 +1,29 @@
-SOLDAT DU BOUCLIER D'ÉLITE D'OVERWATCH COMBINE AUX YEUX JAUNES
+ÉLÉMENT D'ÉLITE DU SHIEL DE LA COMBINE YELLOWYED
 
 
-CLASS: Soldat de bouclier de cartel d'élite d'Overwatch de Combine aux yeux jaunes
-METABOLISM: Humain augmenté, mâle
-PERCEPTION: Unité de suppression du bouclier d'assaut
-SIZE: 5,9 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Extrême
-WEAPONS: Bouclier tactique CMB, pistolet silencieux
-REWARD: 700FC
-THREAT: Haut
+CLASSE:      Jaune-Eyed Combiner Overwatch Elite Combiner Shield Soldier
+MÉTABOLISME: Augmenté Humain, Homme
+PERCEPTION: Unité de répression du bouclier d ' assaut
+TAILLE:       5,9 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Extrême
+ARMES:    Bouclier tactique du CMB, pistol silencieux
+RÉCOMPENSE:     700 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Soldat Bouclier d'Élite aux Yeux Jaunes est une unité d'Élite, intentionnellement dégradée en équipement mais pas en compétences. Contrairement aux Élites standards, il ne porte pas d'armure lourde pour ressembler à un porteur de bouclier standard et éviter de semer la panique jusqu'à ce que le contact soit établi.
+Le soldat Elite Shield Yellow-Eyed est une unité Elite, intentionnellement dégradée dans l'équipement mais pas dans les compétences. Contrairement à Elites standard, il ne porte pas d'armure lourde pour apparaître comme un porteur de bouclier standard et éviter de provoquer la panique jusqu'à ce que le contact soit fait.
 
-His yellow visor betrays his Elite status, but most resistance fighters realize it too late. His demeanor deliberately mimics that of a standard shield-wielding soldier: avançant lentement, couvrant les alliés, supprimant les cibles.
+Sa visière jaune trahit son statut d'élite, mais la plupart des résistants le réalisent trop tard. Son comportement imite délibérément celui d'un soldat qui manie les boucliers : avancer lentement, couvrir ses alliés, supprimer ses cibles.
 
-Cependant, au corps à corps, sa véritable nature se révèle. Son pistolet silencieux est utilisé non seulement pour le tir mais aussi comme matraque improvisée. Il repousse l'ennemi, le renverse, crée de la distance, puis l'achève d'un tir précis à bout portant. Ses tactiques semblent d’un calme moqueur, comme si le combattant avait confiance dans l’issue de la rencontre.
+Cependant, au combat étroit, sa vraie nature est révélée. Son pistolet silencieux est utilisé non seulement pour tirer, mais aussi comme un bâton improvisé. Il repousse l'ennemi, les frappe, crée de la distance, puis les termine par un tir précis à bout portant. Sa tactique semble se moquer du calme, comme si le combattant était confiant dans le résultat de la rencontre.
 
-Le Combine utilise ces soldats pour exercer une pression psychologique et contrôler les foules dans les zones urbaines, où maintenir le contrôle tout en démontrant une supériorité absolue est crucial.
+Le Combine utilise ces soldats pour la pression psychologique et le contrôle de la foule dans les zones urbaines, où le maintien du contrôle tout en démontrant une supériorité absolue est crucial.
 
-TIPS: 
+CONSEILS:
 
-- N'essayez pas de pénétrer son bouclier de front - contournez-le ou utilisez des explosifs.
-- His weak armor is deceptive: ses compétences d'élite le rendent extrêmement dangereux.
-- S'il s'approche trop près, préparez-vous à une poussée et à un coup final.
-- Détruisez-le par les flancs ou par le haut, là où le bouclier est inutile.
+- N'essayez pas de pénétrer son bouclier, faites le tour ou utilisez des explosifs.
+- Sa faible armure est trompeuse : ses compétences Elite le rendent extrêmement dangereux.
+- S'il est trop près, préparez-vous à un coup de pouce et à un tir final.
+- Détruisez-le des flancs ou d'en haut, où le bouclier est inutile.

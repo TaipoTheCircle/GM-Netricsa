@@ -1,22 +1,22 @@
-M1 GARAND SELF-LOADING RIFLE
+M1 RIVEAU D'AUTORISATION
 
 
-ARME : M1 Garand Self-Loading Rifle
-MUNITIONS : .30-06 Springfield (7.62x63mm)
-ROF : ~40-50 rounds / min
-POIDS : ~4,32 kg
+ARME: Rifle autoportant M1 Garand
+MUNITIONS:   .30-06 Springfield (7.62x63mm)
+CADENCE DE TIR:    ~40-50 tours/min
+POIDS: ~4,32 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Ce fusil américain à chargement automatique a été développé par John Garand pendant la Seconde Guerre mondiale. Il est devenu l'arme standard de l'infanterie américaine et combinait une cartouche de fusil puissante avec la capacité de tirer rapidement des coups répétés sans actionner manuellement le verrou.
+Ce fusil d'autochargement américain a été développé par John Garand pendant la Seconde Guerre mondiale. Il est devenu l'arme standard de l'infanterie américaine et a combiné une puissante cartouche de fusil avec la capacité de tirer rapidement des tirs répétés sans faire tourner manuellement le boulon.
 
-Le fusil fonctionne au gaz et utilise un verrou rotatif. Il est alimenté par un chargeur spécial à 8 cartouches, monté sur le dessus. Une fois toutes les cartouches épuisées, le chargeur vide est automatiquement éjecté avec un son métallique distinctif.
+Le fusil est à gaz et utilise un boulon rotatif. Il est alimenté par un magazine spécial de 8 tours, qui est monté sur le dessus. Après que toutes les cartouches ont été dépensées, le magazine vide est automatiquement éjecté avec un son métallique distinctif.
 
-Le M1 Garand offre une bonne précision, puissance et une portée effective d'environ 550 mètres. Son système semi-automatique permet un tir nettement plus rapide que les fusils à verrou conventionnels.
+Le M1 Garand bénéficie d'une bonne précision, puissance et d'une autonomie d'environ 550 mètres. Son système semi-automatique permet un feu beaucoup plus rapide que les fusils à action conventionnelle.
 
-REMARQUES :
+REMARQUES:
 
-- Excellent pour les moyennes et longues portées, notamment contre les cibles isolées.
-- The semiautomatic system allows for quick follow-up shots without the need to manually reload after each shot.
-- Après le tir final, la cartouche vide est éjectée avec un « ding ! » distinctif. Ce son est devenu l'une des caractéristiques les plus célèbres de Garand.
-- Be careful of your thumb when loading. The Garand's thumb didn't just appear out of nowhere.
+- Excellent pour les distances moyennes et longues, particulièrement contre les cibles isolées.
+- Le système semi-automatique permet un suivi rapide sans avoir à recharger manuellement après chaque prise de vue.
+- Après le tir final, la cartouche vide est éjectée avec un "ding" distinctif. Ce son est devenu l'une des caractéristiques les plus célèbres du Garand.
+- Attention au pouce. Le pouce de Garand n'est pas sorti de nulle part.

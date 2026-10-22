@@ -1,23 +1,23 @@
-VACHE MOOLIP DU MONDE MINECRAFT
+COUPE MOOLIP DU MINECRAFT SURVEILLANCE
 
 
-CLASS: Vache Moolip
-METABOLISM: Mammifère à sang chaud
+CLASSE:      Vache à museau
+MÉTABOLISME: Mammifère à sang chaud
 PERCEPTION: Animal passif / Vache rare
-SIZE: 5,2 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Faible
-WEAPONS: Aucun
-REWARD: 75 FC
-THREAT: Faible
+TAILLE:       5,2 pi
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Faible
+ARMES:    Aucune
+RÉCOMPENSE:     75 FC
+MENACE:     Faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-La vache Moolip est une variété rare de vache. Il ressemble à une vache ordinaire en apparence, mais a un pelage rose, des yeux noirs et de nombreuses marguerites roses sur le dos et la tête.
+La vache Moolip est une variété rare de vaches. Il ressemble à une vache ordinaire, mais a un manteau rose, des yeux noirs et de nombreuses marguerites roses sur le dos et la tête.
 
-Une particularité des vaches Moolip est qu'elles laissent des fleurs roses sur les blocs sur lesquels elles marchent. Chaque fleur a une chance de devenir un oignon, un lilas ou une pivoine, faisant de ces vaches un objet convoité pour la collection de fleurs et la décoration du monde.
+Un trait spécial de la vache Moolip est qu'ils laissent des fleurs roses sur les blocs sur lesquels ils marchent. Chaque fleur a une chance de devenir un oignon, lilas, ou pivoine, faisant de ces vaches un objet convoité pour la collecte de fleurs et la décoration du monde.
 
-TIPS: 
+CONSEILS:
 
 - Peut être cisaillé avec des ciseaux pour obtenir une seule marguerite rose.
-- Les vaches Moolip peuvent être traites avec un seau, tout comme les vaches ordinaires.
+- On peut traire les vaches Moolip avec un seau, comme les vaches ordinaires.

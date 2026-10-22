@@ -1,8 +1,8 @@
-BLACK MESA, TRIPLE PROBLÈME
+MESA BLACK, TROUBLE TRIPLE
 
 
-Sortir de la chambre du missile ne signifie pas un soulagement. Cela signifie que le cauchemar vient de changer de décor.
+Sortir de la chambre des missiles ne veut pas dire un soulagement. Ça veut dire que le cauchemar a changé de décor.
 
-The outside staging yard is a warzone. A Bradley IFV prowls the asphalt, its turret sweeping with the lazy confidence of a predator that knows it owns the ground. Across the shattered lot, Xen forces have already dug in - Alien Grunts. Soldiers isn't on your side either: plus d'un Stone Sniper a pris racine dans les fenêtres supérieures, leurs silhouettes rocheuses à peine visibles jusqu'à ce qu'un reflet les trahisse.
+La cour extérieure est une zone de guerre. Un Bradley IFV propulse l'asphalte, sa tourelle balayant avec la confiance paresseuse d'un prédateur qui sait qu'il possède le sol. A travers le lot brisé, les forces Xen ont déjà creusé dans - Alien Grunts. Les soldats ne sont pas de votre côté non plus : plus d'un sniper de pierre a pris racine dans les fenêtres supérieures, leurs silhouettes rocheuses à peine visibles jusqu'à ce qu'une lueur leur donne.
 
-Et parce que la misère aime la compagnie, le radar confirme l'arrivée d'un Balbuzard pêcheur. Ce n'est pas encore là, mais vous entendrez les rotors bien assez tôt. Attendez-vous à ce qu'il dégorge une autre équipe de H.E.C.U. sur le champ de bataille - des troupes fraîches pour renforcer celles qui se coordonnent déjà avec les Bradley.
+Et parce que la misère aime la compagnie, le radar confirme un Osprey entrant. Ce n'est pas encore là, mais vous entendrez les rotors assez tôt. Attendez-vous à dégourdir une autre équipe de S.E.C.U. sur le champ de bataille - de nouvelles troupes pour renforcer celles déjà en coordination avec le Bradley.

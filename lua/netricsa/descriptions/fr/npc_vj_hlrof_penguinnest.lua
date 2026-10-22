@@ -1,22 +1,22 @@
-NID DE PINGOUINS BONHOMME DE NEIGE
+SNOWMAN PENGUIN NEST
 
 
-CLASS: Nid de pingouin bonhomme de neige
-METABOLISM: cluster organique
-PERCEPTION: Construction de ruche
-SIZE: 6 pieds de hauteur
-ENDURANCE: moyen
-HOSTILITY: aucun jusqu'à ce qu'il soit provoqué
-WEAPONS: engendre des pingouins armés à leur mort
-REWARD: 300FC
-THREAT: moyen-élevé (au décès)
+CLASSE:      Nid de pingouin de Snowman
+MÉTABOLISME: groupe biologique
+PERCEPTION: Construction de la cage
+TAILLE:       hauteur de 6 pieds
+ENDURANCE:  moyenne
+HOSTILITÉ:  aucun jusqu'à ce qu'il soit provoqué
+ARMES:    fraie des pingouins armés à la mort
+RÉCOMPENSE:     300 FC
+MENACE:     moyennement élevée (au décès)
 
-DESCRIPTION: 
+DESCRIPTION:
 
-This towering snowman-like creature is a bizarre hive. It is slow-moving and harmless as long as it is left undisturbed. The Snowman wears a top hat and carries a small sign with a penguin drawing and the warning: "Attention aux pingouins !" À l’intérieur de son corps givré, il abrite un grand nombre de pingouins, chacun attaché à une grenade. Lorsque le bonhomme de neige est tué, les pingouins sortent de son corps, attaquant toute personne à proximité avec un chaos explosif. Son apparence inhabituelle et sa cargaison mortelle cachée en font une menace unique.
+Cette créature imposante comme un bonhomme de neige est une ruche bizarre. Il est lent et inoffensif tant qu'il n'est pas perturbé. Le Snowman porte un chapeau haut et porte un petit signe avec un dessin de pingouin et l'avertissement: "Mettez garde aux pingouins!" À l'intérieur de son corps glacé, il abrite un grand nombre de pingouins, chacun attaché avec une grenade. Quand le Snowman est tué, les pingouins sortent de son corps, attaquant quiconque à proximité avec le chaos explosif. Son apparence inhabituelle et sa cargaison cachée mortelle en font une menace unique.
 
-TIPS: 
+CONSEILS:
 
-- Évitez de tuer le bonhomme de neige à moins d'être préparé à un essaim de grenades.
-- Observer à distance sécuritaire; il ne représente aucune menace s’il n’est pas touché.
+- Évitez de tuer le Snowman à moins de se préparer à un essaim de grenades.
+- Observer à distance; il ne représente aucune menace s'il est intact.
 - Utilisez des armes à longue portée pour l'éliminer tout en minimisant l'exposition aux pingouins.

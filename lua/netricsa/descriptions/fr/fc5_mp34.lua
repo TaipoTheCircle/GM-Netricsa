@@ -1,21 +1,21 @@
-STEYR-SOLOTHURN S1-100 SUBMACHINE GUN (MP.34(ö))
+STELOTHURN S1-100 SUBMACHINE GUN (MP.34(ö))
 
 
-ARME : Steyr-Solothurn S1-100 submachine gun (MP.34(ö))
-MUNITIONS : 9x19 mm Parabellum
-ROF : ~400 rounds / min
-POIDS : ~3,5kg
+ARME: Sous-machine Steyr-Solothurn S1-100 (MP.34(ö))
+MUNITIONS:   9x19 mm Parabellum
+CADENCE DE TIR:    ~400 tours/min
+POIDS: ~3,5 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-An Austrian-Swiss submachine gun developed in the late 1920s based on the experimental German Rheinmetall MP19. Serial production began in 1930 and continued until 1940. The weapon was widely exported and saw service in various countries, including during the Chaco War and World War II.
+Une mitrailleuse auxiliaire autrichienne-suisse a été développée à la fin des années 1920 sur la base de l'expérience allemande Rheinmetall MP19. La production en série débute en 1930 et se poursuit jusqu'en 1940. Cette arme a été largement exportée et a servi dans divers pays, y compris pendant la guerre du Chaco et la Seconde Guerre mondiale.
 
-The S1-100 uses a blowback action and can fire in single or full-auto mode. The 9x19mm Parabellum version feeds from a 20- or 32-round box magazine. The design was highly robust, but the large number of machined parts made the weapon quite heavy and expensive.
+Le S1-100 utilise une action de rappel et peut tirer en mode simple ou automatique. La version Parabellum 9x19mm provient d'un magazine de 20 ou 32 tours. La conception était très robuste, mais le grand nombre de pièces usinées rendait l'arme assez lourde et coûteuse.
 
-After the Anschluss of Austria, the Austrian army's weapon received the German designation MP.34(ö) and continued to be used by German troops, police, and the Armed SS.
+Après l'Anschluss d'Autriche, l'armée autrichienne a reçu la désignation allemande MP.34(ö) et a continué à être utilisée par les troupes allemandes, la police et les SS armées.
 
-REMARQUES :
+REMARQUES:
 
-- Very well made, but the quality came at the cost of weight and cost.
-- Peut tirer en mode simple et entièrement automatique.
-- Some variants could be fitted with a bayonet.
+- Très bien fait, mais la qualité est venue au coût du poids et du coût.
+- Peut faire feu en mode simple et automatique.
+- Certaines variantes pourraient être équipées d'une baïonnette.

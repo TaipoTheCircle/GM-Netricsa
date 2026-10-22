@@ -1,29 +1,29 @@
-ARME SCRIPTÉE
+ARMES CRIMÉES
 
 
-ARME : Arme de script
-MUNITIONS : Munitions universelles
-ROF : ~60 tours/min
-POIDS : ~1,1 kg.
+ARME: Arme Script
+MUNITIONS:   Ammo universel
+CADENCE DE TIR:    ~60 Rondes / min
+POIDS: - 1,1 kg.
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Un pistolet extrêmement puissant d'origine inconnue. Son apparence ressemble généralement à un pistolet standard de 9 mm, mais prend parfois la forme d'un revolver .357 Magnum. Malgré sa taille compacte, un seul tir peut tuer instantanément une cible.
+Un pistolet extrêmement puissant d'origine inconnue. Son apparence ressemble généralement à un pistolet 9mm standard, mais prend parfois la forme d'un revolver Magnum .357. Malgré sa taille compacte, un seul tir peut instantanément tuer une cible.
 
-L'arme dispose de deux modes de tir. Le premier tire des coups simples et puissants, chacun utilisant une cartouche. Le deuxième mode transforme l'arme en une arme semblable à un fusil de chasse, tirant huit coups à la fois.
+L'arme a deux modes de tir. Les premiers tirent des tirs simples, puissants, chacun utilisant un tour. Le deuxième mode transforme l'arme en arme de chasse, tirant huit coups de feu en même temps.
 
-Une caractéristique unique du système est son système de rechargement unique. Si les huit cartouches de fusil de chasse ont été utilisées, l'arme peut être rechargée, dépensant huit cartouches. Cependant, le rechargement est facultatif. Si vous ne le faites pas, le tir normal continue d'utiliser les munitions restantes sans le coût supplémentaire lié à la recharge du mode fusil de chasse.
+Une caractéristique unique du système est son système de rechargement unique. Si les huit obus de fusil ont été utilisés, l'arme peut être rechargée, dépensant huit balles. Toutefois, le rechargement est facultatif. Si vous ne faites pas cela, le feu normal continue d'utiliser les munitions restantes sans le coût supplémentaire de recharger le mode fusil de chasse.
 
-Par exemple, s'il vous reste 8 cartouches, vous pouvez les utiliser pleinement en mode fusil de chasse, puis continuer à utiliser le tir normal sans en épuiser automatiquement huit autres. Cela vous permet d'économiser des munitions en changeant de mode judicieusement.
+Par exemple, si vous avez encore 8 rondes, vous pouvez les utiliser complètement en mode fusil de chasse et continuer à utiliser un feu normal sans épuiser automatiquement huit autres. Cela vous permet de conserver les munitions en changeant de mode sagement.
 
-REMARQUES :
+REMARQUES:
 
-- Un tir normal peut détruire la plupart des cibles en un seul coup.
-- Le tir secondaire tire 8 cartouches de fusil de chasse.
-- Le rechargement du mode fusil de chasse nécessite 8 cartouches.
-- Le rechargement n'est pas automatique, vous pouvez donc économiser les munitions.
-- Le tir normal est efficace à moyenne et longue portée.
-- Le mode fusil de chasse est plus efficace à courte portée.
-- Si vous ne rechargez pas le mode fusil à pompe, l'arme ne consomme pas les 8 cartouches supplémentaires.
-- Si vous épuisez complètement vos cartouches de fusil de chasse, vous devez considérer vos munitions restantes avant de recharger.
-- L'apparence peut varier : pistolet 9 mm ou revolver .357 Magnum.
+- Un feu normal peut détruire la plupart des cibles avec un seul coup.
+- Huit obus de fusil.
+- Recharger le mode fusil nécessite 8 tours.
+- Le rechargement n'est pas automatique, donc vous pouvez conserver les munitions.
+- Le feu normal est efficace à moyen ou long terme.
+- Mode fusil de chasse est plus efficace à proximité.
+- Si vous ne rechargez pas le mode fusil de chasse, l'arme ne consomme pas les 8 tours supplémentaires.
+- Si vous épuisez complètement vos obus de fusil, vous devez considérer vos munitions restantes avant de recharger.
+- L'apparence peut varier : pistolet 9mm ou .357 Revolver Magnum.

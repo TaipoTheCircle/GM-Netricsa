@@ -1,23 +1,23 @@
-COMBINEZ UN SUPER SOLDAT D'ÉLITE
+SOLDATEUR SUPER ELITE COMBINE
 
 
-CLASS: Combinez un super soldat d'élite
-METABOLISM: Synthé
-PERCEPTION: Unité d'assaut lourd Synth Elite
-HEIGHT: 13 pieds
-ENDURANCE: Très élevé
-HOSTILITY: Extrême
-WEAPONS: Principalement armes lourdes/missiles intégrés, parfois canons
-REWARD: 1500FC
-THREAT: Critique
+CLASSE:      Combiner Elite Super Soldier
+MÉTABOLISME: Synthét
+PERCEPTION: Unité d'assaut lourde Synth Elite
+HEIGHT:     13 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Extrême
+ARMES:    Armes principalement lourdes / missiles intégrés, parfois canons
+RÉCOMPENSE:     1500 FC
+MENACE:     Critique
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine Elite Super Soldier est une unité de combat synthétique, conçue à l'origine comme un soldat d'infanterie d'élite.
+Le Combine Elite Super Soldier est une unité de synthèse de combat, conçue à l'origine comme un soldat d'infanterie d'élite.
 
-Essentiellement une créature bipède avec une armure massive et un accent sur les attaques rapprochées.
+Essentiellement une créature bipède avec une armure massive et un accent sur l'attaque des quartiers proches.
 
-TIPS: 
+CONSEILS:
 
 - Il vaut mieux ne pas discuter avec un tel colosse.
 - Utilisez RPG V2, il faudra 2-3 coups parfaits pour l'éliminer complètement.

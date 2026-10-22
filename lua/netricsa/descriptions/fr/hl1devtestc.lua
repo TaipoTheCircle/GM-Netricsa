@@ -1,6 +1,6 @@
-DEVTEST NOIR MESA, BRIS DE VERRE
+BLACK MESA DEVTEST, GLASS BREAK
 
 
-Au lieu d'une sortie normale, l'action est canalisée vers le fracas du miroir d'observation - une solution très directe et très théâtrale.
+Au lieu d'une sortie normale, l'entonnoir est percuté dans le verre d'observation - une solution très directe, très théâtrale.
 
-On the other side, there's no natural transition: juste un bout de portail lumineux, délibérément placé pour faire avancer rapidement la démo. En passant, vous vous retrouvez directement dans le couloir où un scientifique frappe à une porte, suppliant un garde de le laisser entrer. C'est également là que le H.E.C.U. les soldats font leur première apparition dans la démo, prenant d'assaut le complexe pour un effet dramatique maximal.
+De l'autre côté, il n'y a pas de transition naturelle : juste un talon de portail lumineux, délibérément placé pour accélérer la démo. En passant par là, vous vous rendez directement dans le couloir où un scientifique frappe sur une porte, suppliant un garde de le laisser entrer. C'est également là que les soldats de l'U.S.E.C. font leur première apparition dans la démo, en prenant le complexe pour un effet dramatique maximum.

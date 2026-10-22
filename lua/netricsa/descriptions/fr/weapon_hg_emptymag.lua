@@ -1,13 +1,13 @@
 MAGAZINE
 
 
-ITEM: Chargeur de fusil d'assaut
+ITEM:      Magazine de fusils d'assaut
 
 
 DESCRIPTION:
 
-Un chargeur provenant d'une sorte de fusil d'assaut. On peut le lancer.
+Un magazine pris d'un fusil d'assaut. Il peut être jeté.
 
-NOTES:
+REMARQUES:
 
-- Il peut être utilisé pour distraire les ennemis.
+- Il peut servir à distraire les ennemis.

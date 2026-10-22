@@ -1,23 +1,23 @@
-LANCE-GRENADES M79
+M79 GRENADE LAUNCHER
 
 
-ARME : Lance-grenades M79
-MUNITIONS : 40x46mm
-ROF : ~6-7 tours/min
-POIDS : ~2,93 kg
+ARME: M79 Lanceur de grenade
+MUNITIONS:   40x46mm
+CADENCE DE TIR:    ~6-7 tours/min
+POIDS: ~2,93 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-This American single-shot hand-held grenade launcher was designed to engage enemies at ranges beyond the reach of conventional hand grenades. It saw widespread use during the Vietnam War and was used as a lightweight infantry support weapon.
+Ce lance-grenades portatifs à simple tir américain a été conçu pour engager des ennemis à des distances hors de portée des grenades à main conventionnelles. Il a vu une utilisation généralisée pendant la guerre du Vietnam et a été utilisé comme une arme légère de soutien d'infanterie.
 
-The grenade launcher features a break-open barrel through which a single 40mm round is loaded. After firing, the barrel opens, the spent cartridge is extracted, and the next round can be loaded. This design makes the M79 a simple and fairly reliable weapon, although the shooter must reload after each shot.
+Le lance-grenades est doté d'un canon ouvert par lequel un seul tour de 40 mm est chargé. Après le tir, le canon s'ouvre, la cartouche est extraite, et le prochain tour peut être chargé. Cette conception fait du M79 une arme simple et assez fiable, bien que le tireur doit recharger après chaque tir.
 
-The M79 can fire a variety of 40mm ammunition, including fragmentation, smoke, and other special rounds. The weapon's primary purpose is to engage groups of enemies and targets behind cover.
+Le M79 peut tirer une variété de munitions de 40mm, y compris la fragmentation, la fumée, et d'autres rondes spéciales. L'objectif principal de l'arme est d'engager des groupes d'ennemis et de cibles derrière la couverture.
 
-REMARQUES :
+REMARQUES:
 
-- Particularly effective against groups of enemies and targets behind cover.
-- À moyenne portée, il permet aux grenades d'être lancées bien plus loin qu'un lancer manuel standard.
-- N'oubliez pas la portée effective de la grenade. Un tir trop rapproché peut transformer le problème en un problème à l’échelle de l’équipe.
-- The single-shot design requires reloading after each shot, so it's best not to turn a miss into a three-shot streak.
-- "Thump!" is the sound that usually makes the enemy very curious about where the grenade landed.
+- Particulièrement efficace contre les groupes d'ennemis et les cibles derrière la couverture.
+- À portée moyenne, il permet de livrer des grenades nettement plus loin qu'un lancer à main standard.
+- N'oublie pas la portée de la grenade. Un tir trop serré peut transformer le problème en un coup d'équipe.
+- La conception d'un seul coup nécessite un rechargement après chaque coup, il est donc préférable de ne pas transformer une perte en trois coups.
+- "Thump!" est le son qui rend généralement l'ennemi très curieux sur l'endroit où la grenade a atterri.

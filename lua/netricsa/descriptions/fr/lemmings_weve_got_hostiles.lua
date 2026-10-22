@@ -1,10 +1,10 @@
-BLACK MESA, ARRIVÉE DE H.E.C.U.
+MESA BLACK, ARRIVÉE DE S.E.C.U.
 
 
-Sam, new signatures detected: Unité de combat expéditionnaire humaine-nom de code H.E.C.U. Sur le papier, il s'agit d'une équipe de secours d'élite déployée pour contenir la catastrophe et aider les survivants. En pratique... disons simplement que leur définition du « confinement » inclut généralement de tirer sur tout ce qui bouge, y compris les survivants.
+Sam, nouvelles signatures détectées : Code de l'unité de combat expéditionnaire humaine H.E.C.U. Sur le papier, ils sont une équipe de sauvetage d'élite déployée pour contenir la catastrophe et aider les survivants. Dans la pratique... disons simplement que leur définition du « confinement » inclut généralement le fait de tirer sur tout ce qui bouge, y compris les survivants.
 
-Les premiers rapports civils indiquent un enthousiasme : les scientifiques pensaient en fait que l'aide était arrivée. Pauvres imbéciles. En quelques minutes, cette « aide » a ouvert le feu sur les intrus Xen et sur le personnel de recherche. Efficace? Oui. Amical? Même pas proche.
+Les premiers rapports civils indiquent que les scientifiques enthousiasmants pensaient que l'aide était arrivée. Pauvres imbéciles. En quelques minutes, cette « aide » a ouvert le feu sur les intrus Xen et le personnel de recherche. Efficace ? Oui. C'est amical ? Même pas proche.
 
-Now the office complex is a three-way battlefield: Des créatures Xen affluant à travers des portails instables, les troupes de Mental jalonnant le territoire et H.E.C.U. Les Marines déferlent avec l'ordre d'effacer les témoins. Vous n’êtes que la cerise sur le gâteau de cette coupe glacée interdimensionnelle.
+Now the office complex is a three-way battlefield: Xen créatures déversant à travers des portails instables, les troupes de Mental piétinent le territoire, et S.E.C.U. Marines balayant à travers avec des ordres d'effacer les témoins. Tu es juste la cerise au-dessus de ce sundae interdimensionnel.
 
-Recommendation: N'attendez pas un sauvetage. S'il porte un camouflage et un fusil, ce n'est pas votre ami. Utilisez leur puissance de feu à votre avantage : laissez-les combattre les extraterrestres et les forces de Mental en premier. Ensuite, entrez et épongez les survivants.
+Recommendation: N'attendez pas le secours. Si elle porte un camouflage et un fusil, ce n'est pas ton ami. Utilisez leur puissance de feu à votre avantage - laissez-les combattre les aliens et les forces de Mental d'abord. Puis entrez et écrasez les survivants.

@@ -1,15 +1,15 @@
-CHARGE DU SAC
+CHARGE D'ÉTIQUETAGE
 
 
-WEAPON: Charge de sacoche
-AMMO: Packs d'explosifs plastiques
-ROF: Détonation à distance
+ARME:      Charge de la satchelle
+MUNITIONS:        Emballages explosifs en plastique
+CADENCE DE TIR:         Détonation à distance
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Pack explosif télécommandé. Peut être placé et déclenché à volonté avec un émetteur portatif. Utile pour les pièges ou les embuscades.
+Pack explosif télécommandé. Peut être placé et détoné à volonté avec un émetteur portatif. Utile pour les pièges ou les embuscades.
 
-NOTES: 
+REMARQUES:
 
 - Permet un placement stratégique.
-- La détonation à distance offre un contrôle précis.
+- Détonation à distance offre un contrôle précis.

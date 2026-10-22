@@ -1,25 +1,25 @@
 STROGG BERSERKER DE STROGGOS
 
 
-CLASS: Berserker Strogg
-METABOLISM: Organisme cybernétique
-PERCEPTION: Brute de mêlée Strogg
-SIZE: ~7 pieds de haut
-ENDURANCE: Haut
-HOSTILITY: Extrême
-WEAPONS: Bras de lame (lame à pointe métallique), masse extensible sur l'autre bras
-Attaques électriques à distance (onde de choc au sol ; éclair)
-REWARD: 1000FC
-THREAT: Très élevé
+CLASSE:      Strogg Berserker
+MÉTABOLISME: Organisme cybernétique
+PERCEPTION: Strogg Melee Brute
+TAILLE:       ~7 pi de haut 
+ENDURANCE:  Haut 
+HOSTILITÉ:  Extrême
+ARMES:    Bras à lame (lampe à pointe métallique), masse extensible sur l'autre bras 
+Attaques électriques (onde de choc au sol; éclair)
+RÉCOMPENSE:     1000 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Berserker est une redoutable unité Strogg conçue pour dominer les combats rapprochés. Il est plus rapide que de nombreux Stroggs, conçu pour la vitesse et le combat brutal au corps à corps. Avec un bras tranchant, une masse puissante et la capacité de générer des ondes de choc électriques soit à travers le sol, soit en tirant des éclairs, il peut surprendre les adversaires et les rapprocher rapidement.
+Le Berserker est une redoutable unité de strogg conçue pour dominer les quartiers proches. C'est plus rapide que beaucoup de Stroggs, construit pour la vitesse et le combat brutal. Avec un bras à lame tranchante, une masse puissante, et la capacité de générer des ondes de choc électriques soit à travers le sol ou en tirant des éclairs, il peut attraper les adversaires hors de garde et de proximité rapidement.
 
 
-Il charge souvent directement sa cible, ignorant les engagements à distance sauf si cela est nécessaire. Il saute, esquive et utilise ses attaques par ondes de choc pour perturber la couverture ou chasser les ennemis de leur cachette.
+Il charge souvent directement à sa cible, ignorant les engagements variés sauf si nécessaire. Il saute, évite et utilise ses attaques d'onde de choc pour perturber la couverture ou chasse les ennemis de se cacher.
 
-TIPS: 
+CONSEILS:
 
-- N'oubliez pas que leur armure ne vous permet pas de récupérer les pièces les plus précieuses du champ de bataille, alors ne les comptez pas comme butin.
-- Utilisez des armes à cadence de tir élevée ou un fusil de chasse à courte portée. Visez les coups à la tête pour maximiser les dégâts.
+- N'essaie pas de le dépasser, c'est trop rapide. Mieux vaut garder la distance.
+- Utilisez des armes à fort taux de tir ou de fusil à portée de main. Visez des coups de tête pour maximiser les dommages.

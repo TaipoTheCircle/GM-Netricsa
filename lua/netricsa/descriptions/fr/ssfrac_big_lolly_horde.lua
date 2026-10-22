@@ -1,10 +1,10 @@
-CRÉATURES DES ÎLES DOUCES DU GRAND LOLLY
+CRÉATURES DES GRANDES ÎLES DU GRAND LOL
 
 
-Les créatures des Sweet Islands sont des habitants d'une dimension isolée connue sous le nom de Big Lolly. À première vue, leur monde natal semble inoffensif, mais derrière ce vernis se cache un écosystème agressif qui ne tolère pas les intrusions étrangères.
+Les créatures des Sweet Islands sont des habitants d'une dimension isolée connue sous le nom de Big Lolly. À première vue, leur monde semble inoffensif, mais derrière ce placage se trouve un écosystème agressif qui ne tolère pas les intrusions étrangères.
 
-Pour eux, tout étranger constitue une menace qui doit être détruite immédiatement.
+Pour eux, tout étranger est une menace qui doit être détruite immédiatement.
 
-Leur société se compose d'une variété de formes de vie, des petits oursons gommeux aux bonhommes en pain d'épice, composés de sucre, de pâte et de caramel.
+Leur société se compose d'une variété de formes de vie, des petits ours gommy aux gingembres, composés de sucre, de pâte et de caramel.
 
-Ils ne négocient pas et ne reculent pas. Mais cela ne veut pas dire qu’ils manquent d’intelligence, puisqu’ils ont appris à utiliser les Xen HoundEyes comme montures.
+Ils ne négocient ni ne reculent. Mais cela ne signifie pas qu'ils manquent d'intelligence, comme ils ont appris à utiliser Xen HoundEyes comme montures.

@@ -1,16 +1,16 @@
 PHEROPOD
 
 
-WEAPON:      PHEROPOD
-ROF: ~1 lancer/sec
+ARME:      PHEROPOD
+CADENCE DE TIR:         ~1 lancer/sec
 
 DESCRIPTION:
 
-Arme organique utilisée pour contrôler les fourmilions. Lors du lancement, les larves libèrent des phéromones qui attirent les fourmilions proches pour attaquer les ennemis. Sert à la fois de distraction tactique et d’outil de soutien offensif.
+Arme organique utilisée pour contrôler les fourmis. En jetant, les larves libèrent des phéromones qui attirent des fourmis à proximité pour attaquer les ennemis. Serait à la fois un outil de distraction tactique et de soutien offensif.
 
-NOTES:
+REMARQUES:
 
-- Efficace pour contrôler les foules et rediriger l'attention de l'ennemi.
-- Approvisionnement infini tant que les larves sont disponibles dans l'inventaire.
-- Nécessite un timing et un placement minutieux pour un effet maximal.
-- Mieux utilisé dans les zones où les fourmilions sont présents.
+- Efficace pour contrôler la foule et réorienter l'attention ennemie.
+- Approvisionnement en infini tant que les larves sont disponibles dans l'inventaire.
+- Nécessite un timing et un placement minutieux pour un effet maximum.
+- Meilleur usage dans les zones où des fourmis sont présentes.

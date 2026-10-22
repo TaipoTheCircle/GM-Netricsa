@@ -1,22 +1,22 @@
-GRAND REQUIN BLANC DE L'ARCHIPEL KRIEGER
+GRAND PARTAGE BLANC DE L'ARCHIPELAGO KRIEGER
 
 
-CLASS: Grand requin blanc
-METABOLISM: Poisson cartilagineux
-PERCEPTION: Prédateur au sommet
-SIZE: 16 pieds
-ENDURANCE: Très élevé
-HOSTILITY: Élevé (dans l'eau), absent (sur terre)
-WEAPONS: Mâchoires avec plusieurs rangées de dents dentelées
-REWARD: 1100 FC
-THREAT: Extrême (dans l'eau, à l'approche)
+CLASSE:      Grand requin blanc
+MÉTABOLISME: Poissons cartiagineux
+PERCEPTION: Prédateur Apex
+TAILLE:       16 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Haute (dans l'eau), absente (sur terre)
+ARMES:    Jaws avec plusieurs rangées de dents dentelées
+RÉCOMPENSE:     1100 FC
+MENACE:     Extreme (dans l'eau, à l'approche)
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le principal prédateur de l’archipel. Trouvé dans les eaux libres autour des îles, en particulier dans les eaux profondes. Jack Carver a surtout vu ses carcasses suspendues. Cependant, un spécimen vivant présente un danger mortel pour quiconque s’aventure trop loin. Attaques sans avertissement, infligeant des dégâts massifs avec des morsures puissantes. Sa seule « faiblesse » est son incapacité à sortir de l’eau.
+Le prédateur de l'archipel. Trouvé dans les eaux libres autour des îles, en particulier dans les eaux profondes. Jack Carver a surtout vu ses carcasses suspendues. Cependant, un spécimen vivant représente un danger mortel pour quiconque s'aventure trop loin. Attaques sans avertissement, infligeant des dégâts massifs avec des morsures puissantes. Sa seule « faiblesse » est son incapacité à quitter l'eau.
 
-TIPS: 
+CONSEILS:
 
-- Évitez les eaux profondes. Ne nagez pas loin du rivage.
-- Retournez rapidement au bateau ou au rivage si un requin apparaît.
+- Éviter les eaux profondes. Ne nagez pas loin du rivage.
+- Retournez rapidement au bateau ou à la rive si un requin apparaît.
 - Complètement impuissant sur terre.

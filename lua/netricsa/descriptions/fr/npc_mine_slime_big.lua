@@ -1,21 +1,21 @@
-BIG SLIME FROM THE MINECRAFT OVERWORLD
+GRANDE LIMITE DE L'EXERCICE MINECRAFT
 
 
-CLASS: Grosse bave
-PERCEPTION: Monstre visqueux
-METABOLISM: Organisme amorphe
-SIZE: ~4,9 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Moyenne
-WEAPONS: Sauter, Crash
-REWARD:     30 FC
-THREAT: Moyenne
+CLASSE:      Gros slime
+PERCEPTION: Monstre slim
+MÉTABOLISME: Organisme amorphe
+TAILLE:       ~4,9 ft
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Moyenne
+ARMES:    Saut, crash
+RÉCOMPENSE:     30 FC
+MENACE:     Moyenne
 
 DESCRIPTION:
 
-Le Big Slime est une créature amorphe et visqueuse qui semble n'avoir aucun sens d'espace personnel. Il bondit, se jette sur tout ce qui vit et se divise parfois en morceaux plus petits lorsqu'il est endommagé, créant ainsi des copies encore plus ennuyeuses.
+Le Big Slime est une créature amorphe et visqueuse qui semble n'avoir aucun sens de l'espace personnel. Il saute, se lance à tout ce qui vit, et parfois se divise en petits morceaux quand endommagé, créant des copies encore plus ennuyeux.
 
-TIPS:
+CONSEILS:
 
-- Combattez des Slimes plus gros à distance.
-- Les Slimes plus petits ne représentent aucune menace en eux-mêmes, mais en groupe, ils peuvent provoquer le chaos.
+- Combattre de loin les plus grandes limaces.
+- Les petites limaces ne posent aucune menace, mais dans un groupe elles peuvent causer le chaos.

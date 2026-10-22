@@ -1,16 +1,16 @@
-XEN, FORGE ISLAND
+XEN, ÎLE FORGE
 
 
-Nihilanth whispers: "Vous mourrez. Vous mourrez tous" Charmant.
+Nihilanth whispers: "Tu vas mourir. Vous mourrez tous" Charmant.
 
-Vortigaunts run the strange machines. The island hums: des matières organiques et des machines fusionnées dans une chaîne de production.
+Les vortigaunts dirigent les étranges machines. Les hums de l'île : organiques et machines fusionnées dans une chaîne de production.
 
-Qu'y a-t-il ici
+Qu'est-ce qu'il y a là 
 
-Gargantua patrouille sur les ponts ouverts – lourd, brutal et déterminé.
+Gargantua patrouille les ponts ouverts - lourds, brutaux, et mono-esprit.
 
-Les tentacules gardent les verticales ; ils punissent le bruit et les sauts mal chronométrés.
+Les tentacules gardent les verticales; ils punissent le bruit et les sauts mal chronométrés.
 
-Portail actif quelque part sur l'île - il renvoie aux halls de production d'infanterie.
+Portail actif quelque part sur l'île - il relie aux salles de production d'infanterie.
 
-Les Vortigaunts fonctionnent, pas immédiatement hostiles si vous ne déclenchez pas un échange de tirs.
+Les Vortigaunts ne sont pas immédiatement hostiles si vous ne lancez pas une fusillade.

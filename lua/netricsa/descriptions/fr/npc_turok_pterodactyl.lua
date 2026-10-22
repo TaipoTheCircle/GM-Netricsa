@@ -1,23 +1,23 @@
-PTERANODON DE LA PLANÈTE TERRAFORMÉE
+PTERANODON DU PLANET TERRAFORMÉ
 
 
-CLASS: Ptéranodon
-METABOLISM: Lézard volant, ptérosaure
+CLASSE:      Pteranodon
+MÉTABOLISME: Lézard volant, Pterosaur
 PERCEPTION: Prédateur aérien
-SIZE: Enorme envergure
-ENDURANCE: Faible
-HOSTILITY: Haut
-WEAPONS: Bec, griffes, attaque en piqué
-REWARD: 400FC
-THREAT: Moyen
+TAILLE:       Énorme envergure
+ENDURANCE:  Faible
+HOSTILITÉ:  Haut
+ARMES:    Bec, griffes, attaque de plongée
+RÉCOMPENSE:     400 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-L'un des rares lézards volants qui ne se contente pas de planer dans le ciel, mais chasse activement tout ce qui bouge au sol. Cette sous-espèce est agressive et considère les humains comme des proies légitimes.
+Un des rares lézards volants qui ne s'envole pas seulement dans le ciel, mais chasse activement tout ce qui se déplace au sol. Cette sous-espèce est agressive et considère les humains comme des proies légitimes.
 
-Au combat, le Ptéranodon utilise une tactique "plonger-picorer-voler". Il apparaît hors de vue, plonge sur sa cible, la frappant avec son bec ou tentant de l'agripper avec ses serres, et se relève immédiatement pour répéter l'attaque quelques secondes plus tard.
+Dans le combat, le Pteranodon utilise une tactique « dive-peck-fly ». Il apparaît hors de vue, plonge à sa cible, frappe avec son bec ou tente de saisir avec ses talons, et se lève immédiatement pour répéter l'attaque quelques secondes plus tard.
 
-TIPS: 
+CONSEILS:
 
-- Ne restez pas à l'air libre.
-- Un fusil à canon tronqué le tuera en deux coups.
+- Ne restez pas ouvert.
+- Un fusil scié le tuera en deux coups.

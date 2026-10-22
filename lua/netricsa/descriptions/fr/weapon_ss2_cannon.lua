@@ -1,16 +1,16 @@
-CANON SBC
+SBC CANNON
 
 
-WEAPON: Canon SBC
-AMMO: Boulets de canon HP remplis d'uranium
-ROF: variable
+ARME:    Cannon SBC
+MUNITIONS:      Balles à canon remplies d'uranium HP
+CADENCE DE TIR:       variable
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Il s'agit de l'arme d'infanterie la plus puissante dont disposent les forces de la fédération. Son mécanisme de tir et son canon n'ont pas été conçus par des scientifiques humains, mais par ingénierie inverse à partir de puissantes armes technomagiques utilisées par l'artillerie de Mental. La conception de l'arme permet de tirer des obus très lourds à grande vitesse pour offrir un excellent effet de pénétration.
-Chargé de boulets de canon remplis d'uranium très perforants, il peut même percer plusieurs adversaires coriaces d'affilée.
+C'est l'arme d'infanterie la plus puissante dont disposent les forces de la fédération. Son mécanisme de tir et son canon n'ont pas été conçus par des scientifiques humains, mais à l'aide d'armes technomagiques puissantes utilisées par l'artillerie de Mental. La conception de l'arme permet de tirer des balles très lourdes à grande vitesse pour fournir un excellent effet de pénétration.
+Chargeé avec des boulettes de canon à uranium haute perçage, il peut même forer à travers plusieurs adversaires difficiles dans une rangée.
 
-NOTES: 
+REMARQUES:
 
-- Les experts militaires affirment que l'enveloppe en plomb utilisée sur les boulets de canon élimine complètement les risques potentiels pour l'opérateur causés par le remplissage d'uranium.
-- Les dangers causés par l'uranium pour la cible ne sont pas considérés comme importants, compte tenu de l'objectif de l'appareil.
+- Les experts militaires affirment que l'enveloppe de plomb utilisée sur les boulettes de canon élimine complètement les risques potentiels pour l'exploitant causés par le remplissage de l'uranium.
+- Les dangers causés par l'uranium à la cible ne sont pas considérés comme importants, compte tenu de l'objet du dispositif.

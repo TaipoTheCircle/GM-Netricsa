@@ -1,28 +1,28 @@
-SERPENT EN OS, PETIT DU KLEER
+SNAKE NON, PETIT DU KLEER
 
 
-CLASSE : Serpent d'os, petit
-MÉTABOLISME : Mort-vivant
-PERCEPTION : Créature Magique
-TAILLE : 18 pieds
-ENDURANCE : Très faible
-HOSTILITÉ : Extrême
-ARMES : Boules de feu
-RÉCOMPENSE : 50 FC
-MENACE : Faible
+CLASSE:      Snake désossé, petit
+MÉTABOLISME: Morts
+PERCEPTION: Créature magique
+TAILLE:       18 pieds
+ENDURANCE:  Très faible
+HOSTILITÉ:  Extrême
+ARMES:    Boules de feu
+RÉCOMPENSE:     50 FC
+MENACE:     Faible
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Les serpents osseux habitent les grottes de la planète Kleer. Ce sont des créations monstrueuses du comte Kleerofski lui-même. Ils sont imprégnés d'une plus grande énergie magique que la plupart des squelettes et sont donc capables de cracher des boules de feu.
+Les serpents osseux habitent les grottes de la planète Kleer - ce sont les créations monstrueuses du comte Kleerofski lui-même. Ils sont imprégnés d'une énergie magique plus grande que la plupart des squelettes, et donc capables de bruler des boules de feu.
 
-Comme un mauvais poisson, le serpent est plein de petits os qui vous endommageront facilement si vous osez vous en approcher, ou s'il ne rampe pas jusqu'à vous.
+Comme un mauvais poisson, le serpent est rempli de petits os qui vous endommageront facilement si vous osez l'approcher, ou s'il ne rampe pas vers vous.
 
-Même s’ils semblent immobiles, ils peuvent réellement bouger, bien que rarement. Pouvez-vous leur en vouloir ? Imaginez devoir sauter à chaque pas !
+Bien qu'ils puissent sembler immobiles, ils peuvent en fait bouger, bien que rarement. Tu peux leur en vouloir ? Imaginez avoir à sauter à chaque pas!
 
-Leur longue langue saillante nous narguera, et nous devrions l'utiliser pour détruire ces artefacts archéologiques.
+Leur longue et proéminente langue nous taquinera, que nous devrions utiliser pour détruire ces artefacts archéologiques.
 
-CONSEILS :
+CONSEILS:
 
-- Leurs projectiles lents sont facilement évités en esquivant sur le côté.
-- Ils devraient être des cibles peu prioritaires parmi les autres ennemis.
-- Ils peuvent être détruits d'un coup de fusil de chasse à bout portant.
+- Leurs projectiles lents sont facilement évités en échappant au côté.
+- Ils devraient être des cibles de faible priorité parmi les autres ennemis.
+- Ils peuvent être détruits avec un fusil à bout portant.

@@ -1,32 +1,32 @@
-LES CROCS D'EVOKER DU MONDE MINECRAFT
+LES FANGS D'EVOKER DU MINECRAFT
 
 
-CLASS: Crocs d'évocateur
-METABOLISM: Projectile magique
+CLASSE:      Les Fangs d'Evoker
+MÉTABOLISME: Projectile magique
 PERCEPTION: Projectile magique du sort de l'Evoker
-SIZE: 2,6 pieds
-ENDURANCE: Aucun
-HOSTILITY: Absolu
-WEAPONS: Mordre
-REWARD: 10 FC
-THREAT: Haut
+TAILLE:       2,6 pieds
+ENDURANCE:  Aucune
+HOSTILITÉ:  Absolu
+ARMES:    Bite
+RÉCOMPENSE:     10 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Ce n’est ni une arme, ni un outil, ni un être vivant au sens traditionnel du terme. C'est de la pure magie, matérialisée sous la forme de dents sortant du sol pour vous dévorer vivant. Ils n'existent pas indépendamment, mais font partie de l'arsenal de l'Evoker - l'un des sorciers les plus dangereux parmi les Illagers.
+Ce n'est pas une arme, pas un outil, et pas une créature vivante au sens traditionnel. C'est de la pure magie, matérialisée sous la forme de dents jaillissant du sol pour vous dévorer vivant. Ils n'existent pas indépendamment, mais font partie de l'arsenal de l'Evoker - l'un des sorciers les plus dangereux parmi les Illagers.
 
-Lorsque l'Evoker se prépare à attaquer, ses mains commencent à briller en violet. Un son grave, semblable à celui d'une trompette, se fait entendre et une fraction de seconde plus tard, une rangée de crocs pointus émerge du sol juste devant vous. Ils se rapprochent, infligent des dégâts, puis disparaissent comme s'ils n'avaient jamais été là.
+Lorsque l'Evoker se prépare à attaquer, ses mains commencent à briller pourpre. Un son bas, semblable à une trompette, est entendu, et une fraction de seconde plus tard, une rangée de crosses pointues émerge du sol juste devant vous. Ils se rapprochent, infligent des dégâts, puis disparaissent comme s'ils n'étaient jamais là.
 
-There are two types of fangs. If you're far from the Evoker, he'll summon 16 fangs in a line that extends directly toward your position. If you dare get closer than three blocks, the Sorcerer will change tactics: deux anneaux de crocs apparaîtront autour de lui : un anneau intérieur de cinq et un anneau extérieur de huit. Cette attaque ne vous laisse aucune marge de manœuvre si vous êtes dans le rayon d'attaque.
+Il y a deux types de crosses. Si vous êtes loin de l'Evoker, il convoquera 16 crocs dans une ligne qui s'étend directement vers votre position. Si vous osez vous rapprocher de trois blocs, le Sorcier changera de tactique : deux anneaux de crosses apparaîtront autour de lui-un anneau intérieur de cinq et un anneau extérieur de huit. Cette attaque ne vous laisse aucune marge de manœuvre si vous êtes dans le rayon de l'attaque.
 
-Les crocs infligent 6 dégâts magiques dans n'importe quelle difficulté, ce qui signifie qu'ils ignorent complètement votre armure. Votre seule défense est l’enchantement « Protection », qui peut absorber une partie de la magie. Les crocs n'endommagent pas les autres Illagers, l'Evoker peut donc se frayer un chemin à travers une foule de serviteurs sans craindre de les toucher.
+Les crocs infligent 6 dégâts magiques sur toute difficulté, ce qui signifie qu'ils ignorent complètement votre armure. Votre seule défense est l'enchantement "Protection", qui peut absorber une partie de la magie. Les crocs n'endommagent pas les autres Illagers, de sorte que l'Evoker peut se balancer dans une foule de minions sans craindre de les frapper.
 
-Si vous combattez dans un couloir étroit ou une grotte, les crocs peuvent ne pas apparaître : ils nécessitent une surface solide pour être générés. Cependant, en terrain découvert, ils vous frapperont n'importe où.
+Si vous vous battez dans un couloir étroit ou une grotte, les crocs peuvent ne pas apparaître - ils ont besoin d'une surface solide pour générer. Cependant, dans un champ ouvert, ils vous frapperont n'importe où.
 
-TIPS: 
+CONSEILS:
 
-- Dès que vous voyez des particules violettes autour des mains de l'Evoker, éloignez-vous immédiatement de votre champ de vision. Les crocs bougent en ligne droite.
-- Ne vous tenez pas trop près de l'Evoker, sinon vous serez pris dans l'attaque en anneau. La distance est votre meilleure alliée.
-- Les crocs ne pénètrent pas dans les murs, mais ils peuvent atteindre les coins s'il y a une ligne de vue dégagée.
-- La meilleure défense contre les crocs est de tuer l'Evoker avant qu'il ne puisse les invoquer.
-- Utilisez un bouclier. Les crocs peuvent être bloqués, contrairement à de nombreuses autres attaques magiques.
+- Dès que vous voyez des particules violettes autour des mains d'Evoker, sortez immédiatement de la ligne de vue. Les crocs se déplacent en ligne droite.
+- Ne restez pas trop près de l'Evoker, ou vous serez pris dans l'attaque de l'anneau. La distance est votre plus grand allié.
+- Les crocs ne pénètrent pas les murs, mais ils peuvent atteindre les coins s'il y a une ligne de vue claire.
+- La meilleure défense contre les crocs est de tuer l'Evoker avant qu'ils puissent les appeler.
+- Utilisez un bouclier. Les crocs peuvent être bloqués, contrairement à beaucoup d'autres attaques magiques.

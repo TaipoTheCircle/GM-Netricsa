@@ -1,27 +1,27 @@
-GIOVANNI L'OIE DE LA PLAGE BROADSIDE
+GIOVANNI LES GOOSES DE LA CHAQUE BROADSIDE
 
 
-CLASS: Giovanni l'Oie
-METABOLISM: Oiseau anthropomorphe, Bernache du Canada
-PERCEPTION: Chef célèbre / Star du dessin animé d'animation Broadside
-SIZE: 5 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Faible
-WEAPONS: Compétences culinaires, commentaires sarcastiques
-REWARD: 100 FC
-THREAT: Minimal
+CLASSE:      Giovanni l'Oie
+MÉTABOLISME: Oiseau anthropomorphe, Oie du Canada
+PERCEPTION: Célèbre Chef / Broadside Animation Cartoon Star
+TAILLE:       5 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Faible
+ARMES:    Compétences culinaires, commentaires sarcastiques
+RÉCOMPENSE:     100 FC
+MENACE:     Minimal
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un chef de renommée mondiale et star des films d'animation de Broadside Animation. Il s'agit d'une bernache du Canada anthropomorphe en noir et blanc portant une toque blanche. Dans les dessins animés, il est dépeint comme un cuisinier légèrement arrogant mais talentueux qui prépare des plats exquis et taquine parfois son ami Bucky le Castor, le traitant de « rongeur ».
+Chef et star mondiale des films d'animation de Broadside Animation. C'est un oie du Canada anthropomorphe noir et blanc portant un chapeau de chef blanc. Dans les dessins animés, il est représenté comme un cuisinier un peu arrogant mais talentueux qui prépare des plats exquis et parfois taquine son ami Bucky le Beaver, le traitant de «rodent».
 
-Un jour, lui et ses amis, Bucky le castor et Olivia la loutre, sont allés pêcher, mais leur bateau s'est écrasé au large de la mystérieuse île de Nulla Terra. Les loups locaux, terrifiés par l'invasion, chargent chacun de leurs amis de réparer les dégâts. Giovanni, en tant que chef, était chargé de préparer la nourriture pour la meute de loups.
+Un jour, lui et ses amis, Bucky the Beaver et Olivia the Otter, allaient pêcher, mais leur bateau s'est écrasé au large de la mystérieuse île de Nulla Terra. Les habitants du loup, terrifiés par l'invasion, ont chargé chacun de leurs amis de réparer les dégâts. Giovanni, en tant que chef, a été chargé de préparer la nourriture pour la meute de loup.
 
-Comme beaucoup de personnages de Broadside, il a pris vie grâce à la technologie terrifiante des combinaisons vivantes « Starlings » dans lesquelles les humains ont été placés. Dans le cas de Giovanni, l'homme à l'intérieur du costume était Gary Wilson.
+Comme beaucoup de personnages de Broadside, il a été amené à la vie grâce à la technologie terrifiante de « Starlings »-vêtements vivants dans lesquels les humains ont été placés. Dans le cas de Giovanni, l'homme à l'intérieur du costume était Gary Wilson.
 
-According to the encrypted files, Gary was brutally murdered: sa tête a été enfoncée dans une friteuse en marche. Après cela, la conscience de Gary est apparemment restée piégée à l'intérieur du costume d'oie, créant l'une des entités corrompues.
+Selon les fichiers chiffrés, Gary a été brutalement assassiné : sa tête a été poussée dans une friteuse profonde. Après cela, la conscience de Gary est apparemment devenue piégée dans le costume d'oie, créant une des entités corrompues.
 
-TIPS: 
+CONSEILS:
 
-- Giovanni est inoffensif et même utile.
-- N'échouez pas sa mission plusieurs fois de suite, sauf si vous voulez voir quelque chose que vous ne pouvez pas oublier. Il est préférable de ne pas découvrir certaines choses.
+Giovanni est inoffensif et même utile.
+- Ne ratez pas sa mission plusieurs fois de suite à moins de vouloir voir quelque chose que vous ne pouvez pas oublier. Il vaut mieux que certaines choses ne soient pas découvertes.

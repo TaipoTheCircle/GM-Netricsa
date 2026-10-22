@@ -1,23 +1,23 @@
-STROGG ÉCHEC DU TRANSFERT DE ZOMBIE DEPUIS STROGGOS
+STROGG TRANSFERT DE STROGG EN ZOMBIE
 
 
-CLASS: Zombie corrompu Strogg
-METABOLISM: Humain partiellement stroggifié (hybride de chair et de mutation)
-PERCEPTION: Zombie ambulant
-SIZE: ~5,5 pieds
-ENDURANCE: Moyen-Faible
-HOSTILITY: Haut
-WEAPONS: Fusil de chasse
-REWARD: 300FC
-THREAT: Moyen
+CLASSE:      Zombie corrompue de Strogg
+MÉTABOLISME: Humain partiellement stroggifié (hybride de chair et mutation)
+PERCEPTION: Zombie à pied
+TAILLE:       ~5,5 pi
+ENDURANCE:  Faible
+HOSTILITÉ:  Haut
+ARMES:    Fusée
+RÉCOMPENSE:     300 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les transferts ratés sont plus mobiles (bien qu'en général lents), armés de fusils de chasse et capables d'infliger des dégâts importants si vous les laissez s'approcher trop près.
+Les transferts échoués sont plus mobiles (bien qu'ils soient encore lents en général), armés de fusils de chasse, et capables d'infliger des dommages importants si vous les laissez trop près.
 
-Les échecs de transfert apparaissent également dans la zone Nexus lors des séquences majeures. Même coupés en deux, certains zombies continuent de constituer une menace (des parties du corps peuvent toujours attaquer).
+Les transferts échoués apparaissent également dans la région de Nexus pendant les séquences majeures. Même lorsqu'ils sont coupés en deux, certains Zombies continuent de représenter une menace (les parties du corps peuvent encore attaquer).
 
-TIPS: 
+CONSEILS:
 
-- Les fusils de chasse et les armes de puissance moyenne sont efficaces contre les échecs de transfert.
-- Visez la tête ou la poitrine - les tirs à la tête infligent des dégâts supplémentaires.
+- Les fusils de chasse et les armes de moyen calibre sont efficaces contre les transferts échoués.
+- Visez la tête ou la poitrine - les têtes causent des dommages supplémentaires.

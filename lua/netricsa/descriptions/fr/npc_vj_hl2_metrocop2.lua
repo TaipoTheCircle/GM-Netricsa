@@ -1,27 +1,27 @@
-COMBINEZ LA PROTECTION CIVILE
+PROTECTION CIVILE COMBINE
 
 
-CLASS: Combiner la Protection Civile
-METABOLISM: Humain, mâle
-PERCEPTION: Application de la loi transhumaine (CP / Métropolice)
-SIZE: 5,9 pieds
-ENDURANCE: Faible-Moyen
-HOSTILITY: Haut
-WEAPONS: Stun Stun-Stick, pistolet 9 mm, SMG1, barils explosifs, Manhack
-REWARD: 200FC
-THREAT: Faible-Moyen
+CLASSE:      Combiner la protection civile
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Transhuman Law Enforcement (CP / Police métropolitaine)
+TAILLE:       5,9 pieds
+ENDURANCE:  Faible-moyenne
+HOSTILITÉ:  Haut
+ARMES:    Stun Stun-Stick, 9mm Pistol, SMG1, Barreaux explosifs, Manhack
+RÉCOMPENSE:     200 FC
+MENACE:     Faible-moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-La Protection Civile du Combine, souvent appelée Metropolice ou Metro Cops, sert de première ligne de contrôle dans les villes occupées par le Combine. Ce sont des recrues humaines ordinaires, conditionnées et fidèles à la hiérarchie du Combine, bénéficiant d'augmentations et d'équipements limités pour maintenir le contrôle sur la population civile.
+La protection civile combinée, souvent appelée police métropolitaine ou police métropolitaine, sert de première ligne d'application dans les villes occupées par la police mixte. Il s'agit de recrues humaines ordinaires, conditionnées et loyales à la hiérarchie du Combine, qui ont accordé des augmentations et du matériel limités pour maintenir le contrôle sur la population civile.
 
-Leurs tâches consistent notamment à patrouiller dans les zones urbaines, à faire respecter les couvre-feux, à procéder à des arrestations et à réprimer les activités de résistance. Les unités du CP s'appuient fortement sur l'intimidation, la brutalité et l'utilisation de leurs emblématiques Stun-Sticks pour maîtriser les citoyens. Au combat, ils fonctionnent comme une infanterie légèrement armée, plus dangereuse en nombre qu'en tant qu'individus.
+Leur tâche consiste notamment à patrouiller dans les zones urbaines, à faire respecter les couvre-feu, à procéder à des arrestations et à réprimer les activités de résistance. Les unités du CP comptent beaucoup sur l'intimidation, la brutalité et l'utilisation de leurs stun sticks emblématiques pour soumettre les citoyens. Au combat, ils fonctionnent comme des infanteries légèrement armées, plus dangereuses en nombre que les individus.
 
-Malgré leur blindage limité et leur endurance plus faible par rapport aux soldats d'Overwatch, les unités de protection civile sont essentielles à la domination urbaine du Combine. Leurs masques blancs et leurs voix froides filtrées par radio sont devenus un symbole d’oppression à travers la Terre.
+Malgré leur armure limitée et leur endurance plus faible par rapport aux soldats Overwatch, les unités de protection civile sont essentielles à la domination urbaine du Combine. Leurs masques blancs et leurs voix froides et filtrées par radio sont devenus un symbole d'oppression sur la Terre.
 
-TIPS: 
+CONSEILS:
 
-- Individuellement faibles - profitez de leur faible endurance.
-- Ils s'appuient sur des pistolets et des SMG ; le combat rapproché signifie une utilisation intensive du Stun-Stick.
-- Attendez-vous à des embuscades et à des appels de secours via des liaisons radio montantes.
-- Les provisions se trouvent souvent dans leurs avant-postes de patrouille.
+- Individuellement faible - profiter de leur faible endurance.
+- Ils s'appuient sur des pistolets et des SMG; un combat rapproché signifie une utilisation stupéfiante.
+- S'attendre à des embuscades et des appels de secours via des liaisons radio.
+- On trouve souvent des fournitures dans leurs postes de patrouille.

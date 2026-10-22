@@ -1,26 +1,26 @@
-COMBINEZ LE SYNTHÉ DE MORTIER
+SYNTHÈSE MORTAIRE COMBINE
 
 
-CLASS: Combiner un synthétiseur de mortier
-METABOLISM: Organisme d'artillerie biomécanique (alimentation à noyau acide)
-PERCEPTION: Synthé d'artillerie
-SIZE: ~ 18 pieds de haut (avec le canon levé)
-ENDURANCE: Élevé (carapace blindée, mais moins mobile)
-HOSTILITY: Extrême
-WEAPONS: Canon à mortier organique lourd, modules de bombardement électrique
-REWARD: 1600 FC
-THREAT: Catastrophique (unité de classe siège)
+CLASSE:      Combiner le synth Mortar
+MÉTABOLISME: Organisme d'artillerie biomécanique (soutènement du noyau acide)
+PERCEPTION: Synthétisation de l'artillerie
+TAILLE:       ~18 pieds de haut (avec canon surélevé)
+ENDURANCE:  Haut (carapace blindée, mais moins mobile)
+HOSTILITÉ:  Extrême
+ARMES:    Canon de mortier organique lourd, gousses de bombardement électrique
+RÉCOMPENSE:     1600 FC
+MENACE:     Catastrophes (unité de classe siége)
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine Mortar Synth est un organisme d'artillerie conçu par le Combine pour anéantir à distance les bastions de la résistance. Sa forme grotesque ressemble à un insecte biomécanique fusionné avec un canon de siège : la colonne vertébrale se courbe vers le haut pour lancer des capsules explosives sur de grandes distances.
+Le Combine Mortar Synth est un organisme d'artillerie conçu par le Combine pour oblitérer les forteresses de résistance de loin. Sa forme grotesque ressemble à un insecte biomécanique fusionné avec un canon de siège - la colonne vertébrale arquée vers le haut pour lancer des gousses explosives sur de grandes distances.
 
-Each mortar shot is devastating: Les modules de bombardement acides éclatent en nuages ​​corrosifs lors de l'impact, brûlant les armures, les fortifications et la chair. Bien que dévastateurs à distance, les Mortar Synths se déplacent lentement et moins efficaces au corps à corps, s'appuyant sur leur masse massive pour écraser tout ennemi qui s'approche trop près.
+Each mortar shot is devastating: les gousses de bombardement acides éclatent en nuages corrosifs à l'impact, brûlant à travers les armures, les fortifications et la chair. Bien que dévastateurs à portée de gamme, Mortar Synths sont lents et moins efficaces dans les quartiers proches, en comptant sur leur masse massive pour écraser tout ennemi qui se rapproche trop.
 
-Ils sont souvent déployés sur le champ de bataille en tandem avec des Striders et des Crab Synths, fournissant un tir de suppression pendant que les unités d'assaut plus lourdes avancent. Des bases entières de résistance ont été réduites à des cratères fumants après des bombardements prolongés de Mortar Synth.
+Ils sont souvent déployés sur le champ de bataille en tandem avec Striders et Crab Synths, fournissant des tirs suppressifs tandis que les unités d'assaut plus lourdes avancent. Les bases de résistance entière ont été réduites à des cratères smolder après des bombardements prolongés de Mortar Synth.
 
-TIPS: 
+CONSEILS:
 
-- Ne restez jamais à découvert : leur bombardement est très précis à distance.
-- Utiliser des tactiques de délit de fuite ; rapprochez-vous rapidement pour éviter des bombardements prolongés.
-- Les RPG et les explosifs dirigés vers la colonne vertébrale du mortier sont les contre-attaques les plus efficaces.
+- Ne restez jamais en liberté - leur bombardement est très précis sur la distance.
+- Utilisez des tactiques de frappe et de descente; fermez la distance rapidement pour éviter les bombardements prolongés.
+- Les RPG et les explosifs destinés à la colonne vertébrale de mortier sont le compteur le plus efficace.

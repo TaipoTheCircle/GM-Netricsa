@@ -1,23 +1,23 @@
-FROST ZORG GRUNT DE BEELMEZ IV
+GRONTE DE ZORG FROST DE BEELMEZ IV
 
 
-CLASS: Grunt Zorg de givre
-METABOLISM: Mammifère extrêmement hypothermique
-DEFINITION: Course de guerriers d'assaut
-SIZE: 6,5 pieds
-ENDURANCE: Moyen
-HOSTILITY: Moyen
-WEAPON: Fusil laser de givre
-REWARD: 1200FC
-THREAT: Moyen
+CLASSE:      Frost Zorg Grunt
+MÉTABOLISME: Mammifère extrêmement hypothermique
+DEFINITION: Course des guerriers d'assaut
+TAILLE:       6,5 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Moyenne
+ARME:     Rifle laser de gel
+RÉCOMPENSE:     1200 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Frost Zorg Grunt est le résultat d'un événement rare au cours duquel les Zorgs ont décidé de ne pas prendre de soleil, mais plutôt de se rafraîchir complètement. Ces unités ont été déployées par Mental sur des planètes glacées et adaptées aux conditions du pergélisol. Leurs corps sont recouverts d’une épaisse armure semblable à de la glace, gelée en couches directement sur la peau, agissant comme une coque protectrice naturelle.
+Le Frost Zorg Grunt est le résultat d'un événement rare où Zorgs a décidé de ne pas bronzer, mais plutôt de se rafraîchir complètement. Ces unités ont été déployées par les planètes mentales à glace et adaptées aux conditions de pergélisol. Leurs corps sont recouverts d'une épaisse armure de glace, congelés en couches directement sur la peau, agissant comme une coquille protectrice naturelle.
 
-Au combat, les Zorgs de givre utilisent des pistolets laser de givre qui tirent deux impulsions bleues en succession rapide. Un coup ne tue pas tant mais fige la cible, entravant temporairement son mouvement et la transformant en une cible immobile. Le Zorg lui-même agit tranquillement et calmement, comme s'il n'était pas pressé, ce qui, en fait, est vrai.
+Dans le combat, gel Zorgs utilisent des pistolets laser gel qui tirent deux impulsions bleues en succession rapide. Un coup ne tue pas autant que le gel de la cible, empêchant temporairement leur mouvement et les transformant en une cible immobile. Le Zorg lui-même agit tranquillement et calmement, comme s'il n'était pas pressé, ce qui, en fait, est vrai.
 
-TIPS: 
+CONSEILS:
 
-- Évitez les lasers !
-- Les geler élimine toute possibilité de manœuvre.
+- Évitez les lasers !
+- Les geler élimine toute chance de manœuvrer.

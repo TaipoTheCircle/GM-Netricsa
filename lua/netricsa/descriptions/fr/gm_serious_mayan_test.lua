@@ -1,8 +1,8 @@
-LE FUTUR CHANTIER DE TEOTIHUACAN, FOSSE GÉANTE - LA CONSTRUCTION A COMMENCÉ
+LE SITE FUTUR DE TEOTIHUACAN, PIT GIANT - CONSTRUCTION A BEGUN
 
 
-Eh bien, Sam, la construction bat son plein ! Les Mayas n’ont visiblement pas perdu de temps. A la place de la fosse géante, il y a désormais une clôture. Une clôture en pierre ordinaire. Mais un côté est transparent.
+Sam, la construction est en plein essor ! Les Mayas n'ont pas perdu de temps. Au lieu de la fosse géante, il y a une clôture maintenant. Une clôture ordinaire en pierre. Mais un côté est transparent.
 
-Et savez-vous ce qui se cache derrière cette barrière transparente ? Des arbres. De vrais arbres. En plein milieu de la fosse, où hier encore il n'y avait que de la terre nue et des murs d'origine inconnue. Les Mayas savent certainement comment vous surprendre. Ou peut-être que ce n'est pas les Mayas. Ou peut-être que ce ne sont même pas des arbres du tout.
+Et savez-vous ce qu'il y a derrière cette barrière transparente ? Des arbres. De vrais arbres. Au milieu de la fosse, où il n'y avait hier que de la terre nue et des murs d'origine inconnue. Les Mayas savent certainement vous surprendre. Ou peut-être pas les Mayas. Ou peut-être que ce ne sont même pas des arbres.
 
 Je ne suis plus sûr de rien, Sam !

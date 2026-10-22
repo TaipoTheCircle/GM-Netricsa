@@ -1,57 +1,57 @@
-MAÎTRE ARTISTE MARTIAL DU CHI-FANG
+MAÎTRE D'ARTISTE MARTIAL DU CHI-FANG
 
 
-CLASSE : Maître des artistes martiaux
-MÉTABOLISME : Être intelligent
-PERCEPTION : Ancien Maître, Mentor
-TAILLE : 11,8 pieds
-ENDURANCE : Très élevée
-HOSTILITÉ : Faible
-ARMES : Arts martiaux
-RÉCOMPENSE : 2000 FC
-MENACE : Très élevée
+CLASSE:      Maître artiste martial
+MÉTABOLISME: Être intelligent
+PERCEPTION: Ancien maître, mentor
+TAILLE:       11,8 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Faible
+ARMES:    Arts martiaux
+RÉCOMPENSE:     2000 FC
+MENACE:     Très élevé
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Il est l’un des mentors les plus respectés de la planète. Ce vieux et sage guerrier a consacré une grande partie de sa vie à étudier les arts martiaux et à former une nouvelle génération de combattants.
+Il est l'un des mentors les plus respectés de la planète. Ce vieux guerrier sage a consacré une grande partie de sa vie à étudier les arts martiaux et à former une nouvelle génération de combattants.
 
-Pour lui, ses élèves n’étaient jamais que des subordonnés ou des combattants. Il les traitait comme sa propre famille, prenant soin de leur vie, de leur formation et de leur caractère. Dans son école, les élèves les plus jeunes respectaient leurs aînés et chacun considérait collectivement le maître comme un père et un mentor.
+Pour lui, ses étudiants n'étaient jamais que des subordonnés ou des combattants. Il les traitait comme sa propre famille, prenant soin de leur vie, de leur formation et de leur caractère. Dans son école, les élèves plus jeunes respectaient leurs aînés, et chacun considérait le maître collectivement comme un père et un mentor.
 
-Un maître avait un élève qui suivait un chemin complètement différent. Amer et rejeté, il tourne le dos à la tradition et se consacre à la magie noire.
+Un maître avait un étudiant qui a pris un chemin complètement différent. Embêté et rejeté, il tourne le dos à la tradition et se consacre aux arts sombres.
 
-Au fil du temps, il rassembla ses propres partisans et devint un maître des arts sombres.
+Au fil du temps, il rassembla ses propres disciples et devint maître des arts sombres.
 
-Un jour, il a attaqué l'école de son ancien professeur avec ses élèves. À son arrivée, le sombre maître a utilisé ses capacités pour transformer les étudiants du Maître des Arts Martiaux en poulets et les emmener avec lui.
+Un jour, il a attaqué l'école de son ancien professeur avec ses élèves. À son arrivée, le maître noir a utilisé ses capacités pour transformer les étudiants du Master of Martial Arts en poulets et les emmener avec lui.
 
-Ce fut un coup terrible pour le vieux maître.
+C'était un terrible coup pour le vieux maître.
 
-Pour autant, il n’abandonne pas ses élèves.
+Cependant, il n'abandonna pas ses élèves.
 
-Il partit seul, avec l'intention de les ramener chez lui.
+Il partit seul, dans l'intention de les ramener chez eux.
 
-Sur son chemin, le maître rencontra de nombreux élèves de son ancien élève. Malgré son âge, il a fait preuve d’incroyables prouesses au combat.
+En chemin, le maître rencontra de nombreux étudiants de son ancien élève. Malgré son âge, il a fait des prouesses de combat incroyables.
 
-Des dizaines d'opposants l'affrontèrent, mais le maître ne recula pas.
+Des dizaines d'opposants l'ont confronté, mais le maître n'a pas reculé.
 
-Chaque adversaire vaincu le rapprochait de ses élèves capturés.
+Chaque adversaire vaincu l'a rapproché de ses étudiants capturés.
 
-Finalement, le maître atteignit lui-même le Maître des Arts Noirs. Mais ce dernier n’avait pas l’intention d’abandonner.
+Enfin, le maître atteint lui-même le maître des arts noirs. Mais ce dernier n'avait aucune intention d'abandonner.
 
-Réalisant qu'il perdrait dans une confrontation directe, le Maître des Arts Noirs invoqua l'essence ancienne de la race dragonoïde.
+Réalisant qu'il perdrait dans une confrontation directe, le Maître des Arts Noirs convoqua l'essence ancienne de la race dragonoïde.
 
-Une bataille longue et ardue commença.
+Une longue et ardue bataille commença.
 
-L'ancienne créature surpassait son adversaire ordinaire en force et en taille, mais le vieux maître ne laissa pas la peur le vaincre. Grâce à ses compétences et à son ingéniosité, il a réussi à vaincre même cette entité monstrueuse.
+L'ancienne créature surpassait son adversaire ordinaire en force et en taille, mais le vieux maître ne permettait pas à la peur de le vaincre. Utilisant ses compétences et son ingéniosité, il réussit à surmonter même cette entité monstrueuse.
 
-Au moment décisif, le maître lui arracha la langue, le privant d'une de ses armes principales. Ainsi, le Maître des Arts Noirs fut finalement vaincu.
+Au moment décisif, le maître déchira sa langue, la privant de l'une de ses armes principales. Ainsi, le Maître des Arts Noirs fut finalement vaincu.
 
-Et son charme fut rompu.
+Et son sort était brisé.
 
-Les élèves, transformés en poulets, ont retrouvé leur forme originelle.
+Les élèves, transformés en poulets, ont retrouvé leurs formes originales.
 
-Pour ses actions, le maître devint très vénéré à la fois sur Chi-fan et parmi les Chinois sur Terre.
+Pour ses actions, le maître est devenu très vénéré à la fois sur Chi-fan et parmi les Chinois sur Terre.
 
 CONSEILS:
 
-- Ne le sous-estimez pas à cause de son âge. La vieillesse ne cache que sa vaste expérience du combat.
-- Ne touchez pas ses élèves.
+- Ne le sous-estime pas à cause de son âge. La vieillesse ne cache que sa vaste expérience de combat.
+- Ne touchez pas à ses élèves.

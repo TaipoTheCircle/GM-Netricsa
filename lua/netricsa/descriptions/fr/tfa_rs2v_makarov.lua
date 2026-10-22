@@ -1,16 +1,16 @@
-PISTOLET MAKAROV
+PISTOL DE MAKAROV
 
 
-ARME : Makarov Pistol
+ARME:          Pistolet Makarov
 AMMUNITION:      9x18
-ROF : 30 rounds / min
+CADENCE DE TIR:             30 tours/min
 
-DESCRIPTIF :
+DESCRIPTION:
 
-The Makarov pistol is a Soviet self-loading pistol designed by Soviet engineer Nikolai Fedorovich Makarov in 1948. It was adopted for service in 1951. It is a personal weapon for attack and defense, designed to engage enemies at close range, used by the armed forces and law enforcement agencies, and one of the most widely used pistols in the USSR and the post-Soviet space. It was used in the Vietnam War, the Afghan War, and the Syrian Civil War, as well as in almost all hot spots in the post-Soviet space.
+Le pistolet Makarov est un pistolet soviétique conçu par l'ingénieur soviétique Nikolai Fedorovich Makarov en 1948. Il a été adopté pour le service en 1951. C'est une arme personnelle pour l'attaque et la défense, conçue pour engager des ennemis à portée de main, utilisée par les forces armées et les forces de l'ordre, et l'un des pistolets les plus utilisés en URSS et dans l'espace post-soviétique. Il a été utilisé dans la guerre du Vietnam, la guerre afghane et la guerre civile syrienne, ainsi que dans presque tous les points chauds dans l'espace post-soviétique.
 
-REMARQUES :
+REMARQUES:
 
-- Ideal for concealed carry.
-- The favorite weapon of gangsters in the 90s.
-- The magazine is a little difficult to pull out.
+- Idéal pour le transport caché.
+- L'arme préférée des gangsters dans les années 90.
+- Le magazine est un peu difficile à sortir.

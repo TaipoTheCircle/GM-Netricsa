@@ -1,15 +1,15 @@
-ÉPÉE1
+SWORD1
 
-WEAPON: Épée1
-AMMO: Aucun requis
-ROF: ~1 coup/seconde
-WEIGHT: 2,0 kg
+ARME: Épée1
+MUNITIONS:   Aucun besoin
+CADENCE DE TIR:    ~1 oscillation / seconde
+POIDS: 2,0 kg
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Une épée de mêlée avec des effets visuels uniques. Il change de couleur en synchronisation avec le générateur physique et brille dans le noir, offrant ainsi visibilité et élément de surprise. La conception est simple et fiable, avec un minimum de mécanismes complexes.
+Une épée en melee avec des effets visuels uniques. Il change de couleur en synchronisation avec le générateur physique et brille dans l'obscurité, fournissant la visibilité et l'élément de surprise. La conception est simple et fiable, avec un minimum de mécanismes complexes.
 
-NOTES: 
+REMARQUES:
 
-- Son poids léger et sa conception simple le rendent pratique pour le combat rapproché.
-- Son effet esthétique est renforcé par sa lueur dans le noir.
+- Son poids léger et son design simple le rendent pratique pour un combat rapproché.
+- Son effet esthétique est renforcé par son éclat dans le noir.

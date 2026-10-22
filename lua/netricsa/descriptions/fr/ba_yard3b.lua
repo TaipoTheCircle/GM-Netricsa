@@ -1,10 +1,10 @@
-ENTREPÔT BLACK MESA, AMATEUR DE TV
+MESA BLACK WAREHOUSE, TV LOVER
 
 
-Sam, tu es toujours dans l'entrepôt de Black Mesa, mais maintenant c'est du pur surréalisme. Au centre de la pièce, parmi des piles de caisses rouillées et de téléviseurs empilés, se tient un vortigaunt solitaire.
+Sam, tu es toujours dans l'entrepôt Black Mesa, mais maintenant c'est du surréalisme pur. Au centre de la pièce, entre des piles de caisses rouillées et des téléviseurs empilés, se dresse un vortigaun solitaire.
 
-Et non, il n'attend pas les informations du soir, il étudie cette montagne de technologie. Les téléviseurs ne sont pas connectés, les écrans sont morts, mais Vortigaunt semble y voir quelque chose qui lui est propre. Peut-être un écho d’autres mondes ? Ou peut-être qu'il s'amuse juste.
+Et non, il n'attend pas les nouvelles du soir, il étudie cette montagne de technologie. Les téléviseurs ne sont pas connectés, les écrans sont morts, mais Vortigaunt semble voir quelque chose de son propre en eux. Peut-être un écho des autres mondes ? Ou peut-être qu'il s'amuse.
 
-Votre objectif est la ventilation à l'étage. Le chemin à parcourir est évident... mais, comme toujours, il y a une CHOSE. Et ce « MAIS » est gros, rouge et sacrément explosif.
+Votre objectif est la ventilation en haut. La façon dont il y a est évidente... mais, comme toujours, il y a une chose. Et ce "BUT" est gros, rouge et explosif.
 
-Il y a des barils explosifs à côté du Vortigaunt, soigneusement entre celui-ci et les escaliers menant à la ventilation. Deux pièces. Une seule étincelle suffit - et tout ce défilé télévisé se transformera en feu d'artifice.
+Il y a des barils explosifs à côté du vortigaun, bien entre lui et les escaliers de la ventilation. Deux morceaux. Une seule étincelle suffit - et tout ce défilé de télévision se transformera en feu d'artifice.

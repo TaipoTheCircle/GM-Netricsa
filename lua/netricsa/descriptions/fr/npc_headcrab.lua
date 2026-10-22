@@ -1,21 +1,21 @@
-CRABE DE TERRE
+LE SIÈGE DE LA TERRE
 
 
-CLASS: Crabe, Terre
-METABOLISM: parasite
-PERCEPTION: Arme biologique
-SIZE: 1,5 pied
-ENDURANCE: très faible
-HOSTILITY: haut
-WEAPONS: saut, morsure, infection parasitaire
-REWARD: 100 FC
-THREAT: faible-moyen
+CLASSE:      Gratte-tête, Terre
+MÉTABOLISME: parasite
+PERCEPTION: Armes biologiques
+TAILLE:       1,5 pi
+ENDURANCE:  très faible
+HOSTILITÉ:  élevé
+ARMES:    saut, morsure, infection parasitaire
+RÉCOMPENSE:     100 FC
+MENACE:     moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Originaires du monde frontalier de Xen, les natifs du monde frontalier de Xen, s'étant retrouvés sur terre, ont muté, devenant des parasites capables de sauter de leurs hôtes. Les crabes sont de petits organismes parasites conçus par l'évolution pour asservir des hôtes plus grands. Ils sautent avec une force surprenante, s'agrippant au crâne et enfonçant leur bec directement dans le système nerveux. L'hôte reste vivant mais dénué de contrôle, transformé en zombie sous le commandement du parasite. Bien qu’individuellement faibles, leurs sauts irréguliers et leur tendance à essaimer les rendent bien plus dangereux que leur taille ne le suggère.
+Originaire du monde frontalier de Xen, les indigènes du monde frontalier de Xen, s'étant retrouvés sur terre, mutés, devenant des parasites qui peuvent sauter de leurs hôtes. Les cabillauds sont de petits organismes parasitaires conçus par l'évolution pour asservir de grands hôtes. Ils sautent avec une force surprenante, se verrouillant sur le crâne et conduisant leur bec directement dans le système nerveux. L'hôte reste vivant mais dépouillé de contrôle, transformé en zombie sous le commandement du parasite. Bien qu'individuellement faibles, leurs sauts erratiques et leur tendance à l'essaim les rendent beaucoup plus dangereux que leur taille ne le suggère.
 
-TIPS: 
+CONSEILS:
 
-- Continuez à avancer ; leurs sauts sont prévisibles mais rapides.
-- Un seul coup de fusil de chasse suffit généralement.
+- Continuez à avancer; leurs sauts sont prévisibles mais rapides.
+- Un seul coup de fusil suffit.

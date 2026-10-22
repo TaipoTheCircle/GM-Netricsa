@@ -1,22 +1,22 @@
-FLOTTEUR DE FLOCAGE DE XEN
+FLOCKING FLOATER DE XEN
 
 
-CLASS: Flotteur de flocage
-METABOLISM: organisme aérien, rempli de gaz
+CLASSE:      Floater flottant
+MÉTABOLISME: organisme aérien rempli de gaz
 PERCEPTION: Flotteur de Xen
-SIZE: 4 à 5 pieds de diamètre
-ENDURANCE: moyen
-HOSTILITY: comportement d'essaim réactif
-WEAPONS: crachat acide, épines venimeuses
-REWARD: 250 FC
-THREAT: moyen
+TAILLE:       diamètre de 4 à 5 pieds
+ENDURANCE:  moyenne
+HOSTILITÉ:  comportement réactif des essaims
+ARMES:    cracher acide, épines toxiques
+RÉCOMPENSE:     250 FC
+MENACE:     moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Flocking Floater est une étrange forme de vie aéroportée originaire de Xen. Son corps est un sac bulbeux rempli de gaz plus légers que l’air qui lui permettent de planer sans effort. De grandes membranes en forme d'ailes stabilisent son mouvement, tandis que ses antennes détectent les vibrations et les traces chimiques dans l'air. Normalement calme, le Flotteur devient agressif lorsqu'il est menacé. Dans de tels cas, des groupes d’entre eux se rassemblent, crachant des jets d’acide corrosif de leur bouche sur l’attaquant. Leurs épines venimeuses agissent comme un moyen de dissuasion contre les contacts étroits, ce qui les rend dangereux en nombre.
+Le Floater est une forme de vie aérienne étrange originaire de Xen. Son corps est un sac bulbeux, rempli de gaz plus légers que l'air qui lui permettent de voler sans effort. De grandes membranes ailées stabilisent son mouvement, tandis que ses antennes détectent des vibrations et des traces chimiques dans l'air. Normalement calme, le Floater devient agressif lorsqu'il est menacé. Dans de tels cas, des groupes d'entre eux s'assombrissent, crachant des jets d'acide corrosif de leur bouche à l'attaquant. Leurs épines toxiques sont un moyen de dissuasion contre les contacts étroits, les rendant dangereux en nombre.
 
-TIPS: 
+CONSEILS:
 
-- Ils attaquent rarement seuls ; attendez-vous à plusieurs flotteurs lorsqu'un d'entre eux est provoqué.
-- Leur crachat acide est précis à mi-portée.
-- Mieux vaut neutraliser rapidement avant que l'essaim ne se forme autour de vous.
+- Ils attaquent rarement seuls; attendez plusieurs Floaters quand on est provoqué.
+- Leur cracher acide est précis à mi-chemin.
+- Mieux neutralisé rapidement avant que l'essaim se forme autour de vous.

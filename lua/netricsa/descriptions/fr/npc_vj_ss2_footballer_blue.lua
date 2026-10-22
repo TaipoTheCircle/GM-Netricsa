@@ -1,29 +1,29 @@
-JOUEUR DE FOOTBALL AMÉRICAIN ORC (ÉQUIPE BLEUE)
+ÉQUIPE BLUE DE L'ORAZIO
 
 
-CLASSE:      Joueur de football américain orc, équipe bleue
+CLASSE:      American Orc Footballer, Blue Team
 MÉTABOLISME: Mammifère
-PERCEPTION:  Athlète professionnel
-TAILLE:      3,6 m (12 pieds)
-ENDURANCE:   Moyenne
-HOSTILITÉ:   Élevée
-ARMES:       Ballon de football (explosif), bélier
-RÉCOMPENSE:  200 FC
-MENACE:      Élevée
+PERCEPTION: Athlète professionnel
+TAILLE:       12 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Balle de soccer (explosive), boulette
+RÉCOMPENSE:     200 FC
+MENACE:     Haut
 
 DESCRIPTION:
 
-Certains orcs étaient trop imposants et brutaux physiquement pour être enrôlés dans l'infanterie de Mental. Ils ont donc été recrutés par la Sirius Athletic Association. Sans surprise, la plupart de leurs matchs se terminent par des bagarres violentes.
+Certaines orques étaient trop grandes et physiquement brutales pour être repêchées dans le corps d'infanterie de Mental. Au lieu de cela, ils ont été recrutés par la Sirius Athletic Association. Sans surprise, la plupart de leurs jeux se terminent par des combats brutaux.
 
-Il s'agit en réalité de clones de l'orc John A.J. Dibaggio, le pire joueur de football de tous les temps. Il était si mauvais qu'il ne tapait jamais dans le ballon, se contentant de courir avec. Toutefois, comme il plaisait beaucoup aux dames, il a conservé sa place. Sa carrière a pris fin lorsqu'il a surpris des défenseurs en train de s'enfuir avec sa femme et les a tués.
+Ce sont en fait des clones de l'orc John A.J. Dibaggio, le pire joueur de football de tous les temps. Il était si mauvais qu'il n'a jamais donné de coups de pied, qu'il a couru avec. Cependant, les dames l'aimaient, alors il est resté. Sa carrière a pris fin quand il a attrapé les défenseurs en courant avec sa femme et les a tués.
 
-Après un long procès et malgré des preuves irréfutables accablantes, il a été acquitté. Plusieurs années plus tard, on a appris que certains jurés avaient été soudoyés par Mental ; ce dernier l'appréciait énormément et ne supportait pas l'idée que l'un de ses héros puisse aller en prison.
+Après un long procès et des preuves irréfutables contre lui, il a été reconnu non coupable. Plusieurs années plus tard, il a été révélé que certains jurés avaient été soudoyés par Mental, qui l'aimait beaucoup et ne supportait pas l'idée d'un de ses héros allant en prison.
 
-La rumeur court qu'il se trouve actuellement sur Sirius, où il entraîne les fils de Mental au football.
+Il paraît qu'on peut le trouver sur Sirius, où il forme les fils de Mental au football.
 
-Bien qu'ils soient trop brutaux pour l'infanterie classique, certains commandants engagent tout de même ces joueurs de football. Ils ne leur donnent cependant pas d'ordres précis, les laissant simplement agir à leur guise. Ils poursuivent leurs cibles pour tenter de marquer un point ou de leur lancer des ballons explosifs.
+Bien qu'il soit trop dur pour l'infanterie régulière, certains commandants embauchent encore des footballeurs. Cependant, ils ne leur donnent pas d'ordres précis, ils les laissent simplement faire ce qu'ils veulent. Ils poursuivent des cibles et essaient de marquer ou de lancer des ballons explosifs.
 
-CONSEILS :
+CONSEILS:
 
-- Leurs ballons explosent à l'impact, mais il est possible de les faire tomber en plein vol.
-- Essayez de les éliminer à distance ; leurs attaques sont difficiles à esquiver au corps à corps.
+- Leurs boules explosent à l'impact, mais elles peuvent être abattues en plein air.
+- Essayez de les tuer à distance; leurs attaques sont difficiles à éviter à distance.

@@ -1,15 +1,15 @@
-LANCE-FUSÉE XPML30
+XPML30 ROCKET LAUNCHER
 
 
-WEAPON: Lance-roquettes XPML30
-AMMO: Roquettes Hellion de 75 mm
-RR: 100 tr/min
+ARME: Lanceur de fusée XPML30
+MUNITIONS:   Rockets Hellion 75mm
+RR:     100 RPM
 
-DESCRIPTION: 
+DESCRIPTION:
 
-The XPML30 is an upgraded version of the XPML21, using lighter 75mm Hellion rockets instead of 85mm Inferno rockets. It does not require reloading: une nouvelle fusée est automatiquement chargée à chaque pression sur la gâchette. Les roquettes suivent une trajectoire droite et ont une vitesse élevée, ce qui les rend efficaces à moyenne et longue portée.
+Le XPML30 est une version améliorée du XPML21, utilisant des fusées Hellion de 75mm plus légères que des fusées Inferno de 85mm. Il n'est pas nécessaire de recharger : une nouvelle fusée est automatiquement chargée à chaque traction de la détente. Les fusées volent dans une trajectoire droite et ont une vitesse élevée, ce qui les rend efficaces à moyenne et longue portée.
 
-NOTES: 
+REMARQUES:
 
-- Efficace contre les ennemis blindés comme le T-Mech en raison de sa cadence de tir élevée et de sa puissante explosion.
+- Efficace contre les ennemis blindés comme le T-Mech en raison de son taux élevé de feu et d'explosion puissante.
 - Moins efficace contre les ennemis aériens à moyenne et longue portée en raison de la vitesse plus faible de la fusée.

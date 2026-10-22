@@ -1,17 +1,17 @@
-FUSIL MARIN
+MARINE
 
 
-WEAPON: Fusil de chasse (fusil de chasse à pompe)
-AMMO: Coquilles
-ROF: ~48 tours/min
+ARME: Fusil de chasse
+MUNITIONS: Coques
+CADENCE DE TIR: ~48 tours/min 
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le fusil de chasse est une arme à pompe de combat rapproché. Chaque pression sur la gâchette déclenche une propagation de plombs et la pompe doit être actionnée avant le tir suivant. Commence avec un chargeur interne de huit obus, avec une mise à niveau ultérieure permettant un chargeur de dix obus. Excellent dans les espaces restreints et contre les ennemis à courte portée.
+Le fusil de chasse est une arme à pompe de quartier proche. Chaque gâchette tire une propagation de pastilles, et la pompe doit être cyclique avant le tir suivant. Commence par un magazine interne de huit coquillages, avec une mise à niveau plus tard permettant un magazine dix coquillages. Excellent dans les espaces étroits et contre les ennemis à portée de main.
 
-NOTES: 
+REMARQUES:
 
-- Les dégâts peuvent atteindre jusqu'à 140 si tous les plombs touchent.
-- La réserve maximale de munitions est d'environ 50 obus.
-- Inefficace à moyenne et longue portée en raison de la propagation des pellets.
-- La mise à niveau du chargeur améliore l'efficacité du rechargement et réduit les temps d'arrêt entre les tirs.
+- Les dommages peuvent atteindre jusqu'à 140 si toutes les boulettes sont touchées.
+- Les munitions de réserve sont d'environ 50 coquillages.
+- Inefficacité à moyenne à longue distance en raison de l'étalement des granulés.
+- La mise à niveau du magazine améliore l'efficacité du rechargement et réduit les temps d'arrêt entre les prises de vue.

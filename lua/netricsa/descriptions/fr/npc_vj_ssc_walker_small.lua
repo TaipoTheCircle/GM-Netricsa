@@ -1,22 +1,22 @@
-BIO-MÉCANOÏDE, MINEUR
+BIO-MÉCHANOID, MINOR
 
 
-CLASS: Bio-mécanoïde, mineur
-METABOLISM: cyborg endotherme
+CLASSE:      Biomécanoïde, mineur
+MÉTABOLISME: cyborg endotherme
 PERCEPTION: génétiquement programmé
-SIZE: 15 pieds debout
-ENDURANCE: moyen
-HOSTILITY: haut
-WEAPONS: lasers à impulsions
-REWARD: 2000 FC
-THREAT: moyen
+TAILLE:       15 pieds debout
+ENDURANCE:  moyenne
+HOSTILITÉ:  élevé
+ARMES:    lasers à impulsions
+RÉCOMPENSE:     2000 FC
+MENACE:     moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un mécanisme biologique cultivé dans les bio-réservoirs de Mental. Son génome est programmé pour lui donner des pièces mécaniques cultivées biologiquement et des fentes latérales où des lasers à impulsions sont fixés et directement connectés à son système nerveux.
-Ajusté pour attaquer sans réfléchir.
+Un mécanisme biologique cultivé dans les réservoirs biologiques de Mental. Son génome est programmé pour lui donner biologiquement des parties mécaniques et des fentes latérales où les lasers pulsés sont attachés et directement connectés à son système nerveux.
+Ajusté à l'attaque sans penser.
 
-TIPS: 
+CONSEILS:
 
-- Rapide et dangereux, éliminez rapidement.
-- Assurez-vous d'éviter les flux d'énergie de ses lasers, ils sont très dangereux.
+- Vite et dangereux, éliminez vite.
+- Assurez-vous d'échapper aux flux d'énergie de ses lasers, ils sont très dangereux.

@@ -1,18 +1,18 @@
-SPECTACLE DEMI-SÉMEMENT, ENFER
+C'EST BON
 
 
 J'ai scanné la zone.
 
-Et tu sais, Sam, c'est ce qui gâche vraiment l'ambiance de la série.
+Et tu sais, Sam, c'est ce qui détruit vraiment l'atmosphère du spectacle.
 
-Sur le côté, derrière la douleur et la folie des designers, se trouve un agent de sécurité. Pas un acteur. Pas une cible. Vivant. Pour l'instant. Couverte de sang, son armure ressemble davantage à un accessoire après une répétition générale de l'enfer. Sa respiration est irrégulière. Ses mouvements sont prudents, comme si son corps lui-même avait peur de rappeler son existence à qui que ce soit.
+Sur le côté, derrière la douleur et la folie du designer, se trouve un gardien de sécurité. Pas un acteur. Pas une cible. Vivant. Pour l'instant. Couvert de sang, son armure ressemble plus à un accessoire après une répétition en enfer. Sa respiration est bâclée. Ses mouvements sont prudents, comme si son corps avait peur de rappeler à quiconque son existence.
 
-The local rules are simple and disgusting: Les gardes sont également soumis à des épreuves. Pour se motiver. Pour la discipline. Pour les statistiques. La série adore quand tout le monde souffre sans exception. L'égalité, pour ainsi dire.
+The local rules are simple and disgusting: Des gardes sont également jugés. Pour la motivation. Pour la discipline. Pour les statistiques. Le spectacle aime quand tout le monde souffre sans exception. L'égalité, pour ainsi dire.
 
-Cela vaut la peine de lui parler. Il pouvait voir plus qu'un présentateur avec un microphone. Il savait où se trouvaient les boutons, où se trouvaient les pièges, où le public aimait particulièrement applaudir. Et peut-être est-il encore en vie précisément parce qu'il attendait quelqu'un qui, par habitude, ne l'achèverait pas.
+Ça vaut la peine de lui parler. Il voyait plus qu'un annonceur avec un micro. Il savait où se trouvaient les boutons, où se trouvaient les pièges, où le public aimait particulièrement applaudir. Et peut-être qu'il est encore vivant précisément parce qu'il attendait quelqu'un qui ne voulait pas le finir par habitude.
 
 Et si vous pouvez aider...
 
-Eh bien alors.
+Alors.
 
-Cet endroit s'appelle l'Enfer.
+Cet endroit s'appelle l'enfer.

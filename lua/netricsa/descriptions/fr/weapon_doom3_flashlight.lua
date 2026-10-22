@@ -1,19 +1,19 @@
-LAMPE DE POCHE
+FLASHLIGHT
 
 
-ARME : Lampe de poche
-MUNITIONS : Piles
-ROF : 60 HBP
+ARME: Lampe de poche
+MUNITIONS:   Piles
+CADENCE DE TIR:    60 BPH
 
-DESCRIPTIF :
+DESCRIPTION:
 
-A compact handheld flashlight designed for illuminating dark spaces and searching for objects in low-visibility conditions. It is battery-powered and can be used independently of other equipment.
+Une lampe de poche compacte conçue pour éclairer les espaces sombres et rechercher des objets dans des conditions de faible visibilité. Il est alimenté par batterie et peut être utilisé indépendamment d'autres équipements.
 
-Malgré sa simplicité, la lampe de poche facilite grandement la navigation dans les endroits sombres. Sa petite taille vous permet de l'emporter avec vous à tout moment. Il peut également être utilisé pour frapper des ennemis plus faibles.
+Malgré sa simplicité, la lampe de poche facilite considérablement la navigation dans les endroits sombres. Sa petite taille vous permet de le porter avec vous en tout temps. Il peut également être utilisé pour pummel ennemis plus faibles.
 
-REMARQUES :
+REMARQUES:
 
 - Aide à éclairer les espaces sombres.
-- Alimenté par batterie.
-- Vous permet de repérer des objets et des ennemis dans l'obscurité.
-- Fournit une arme utile pour battre les ennemis lorsque vous êtes à court de munitions.
+- Batterie.
+- Permet de repérer des objets et des ennemis dans l'obscurité.
+- Fournit une arme utile pour battre les ennemis quand vous êtes hors de munitions.

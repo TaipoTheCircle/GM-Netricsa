@@ -1,26 +1,26 @@
-ZOMBIE GÉANT DU MONDE MINECRAFT
+DONNEES DE ZOMBIE DU MINECRAFT
 
 
-CLASS: Géant zombie
-METABOLISM: Mort-vivant
-PERCEPTION: Zombie colossal
-SIZE: ~60 pieds
-ENDURANCE: Extrême
-HOSTILITY: Haut
-WEAPONS: Piétiner, frapper
-REWARD: 1000FC
-THREAT: Absolu
+CLASSE:      Géant zombie
+MÉTABOLISME: Morts
+PERCEPTION: Zombie colossale
+TAILLE:       ~60 pieds
+ENDURANCE:  Extrême
+HOSTILITÉ:  Haut
+ARMES:    Poêle, coup de poing
+RÉCOMPENSE:     1000 FC
+MENACE:     Absolu
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Il s'agit d'une réplique exacte d'un zombie normal, six fois plus gros. La même chair pourrie, les mêmes haillons, mais la taille d'une maison de village. Alors qu'un zombie normal atteint à peine votre visage, le géant vous regarde à dix-huit mètres de hauteur. Ses pas secouent la terre et une seule attaque peut détruire un adversaire.
+C'est une réplique exacte d'un zombie normal, six fois plus grand. La même chair pourrie, les mêmes chiffons, mais la taille d'une maison de village. Alors qu'un zombie normal atteint à peine votre visage, le géant vous fixe à partir de dix-huit mètres au-dessus. Ses pas secouent la terre, et une seule attaque peut détruire un adversaire.
 
-Le géant a aussi d’autres bizarreries. Ce n'est pas un mort-vivant, même s'il ressemble à un zombie. Il est affecté par des potions nocives, guéri par des potions de guérison, immunisé contre l'enchantement « Punition céleste » et est immunisé contre le soleil. Il ne se noie pas dans l'eau, mais s'étouffe lentement. Les golems de fer l'attaqueront toujours comme n'importe quel autre ennemi.
+Le géant a d'autres bizarreries aussi. Il n'est pas mort, bien qu'il ressemble à un zombie. Il est affecté par les potions nuisibles, guéri par la guérison des potions, immunisé par l'enchantement de la « punition céleste », et est immunisé par le soleil. Il ne se noie pas dans l'eau, mais suffoque lentement. Les golems de fer l'attaqueront toujours comme tout autre ennemi.
 
-Si vous mettez un géant dans un wagonnet, il flottera au-dessus comme un fantôme, sans jamais toucher les rails.
+Si vous mettez un géant dans une minecart, il flottera au-dessus comme un fantôme, ne touchant jamais les rails.
 
-TIPS: 
+CONSEILS:
 
-- Pour le tuer, il faut une arme à longue portée. Ne tirez que sur les jambes. Les coups au corps et au-dessus ne comptent pas.
-- Le géant ne brûle pas au soleil, ne se noie pas et ne répond pas aux invocations de zombies.
-- N'essayez pas de le tenir en laisse. Cela ne fonctionnera pas.
+- Pour le tuer, il te faut une arme à longue portée. Tirez sur les jambes et les jambes sur le corps et au-dessus ne comptent pas.
+- Le géant ne brûle pas au soleil, ne se noie pas, et ne répond pas aux convocations de zombies.
+- N'essayez pas de le laisser. Ça ne marchera pas.

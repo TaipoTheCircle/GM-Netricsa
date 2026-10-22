@@ -1,15 +1,15 @@
-VODKA SPIRITUELLE
+SPIRIT VODKA
 
 
-WEAPON: Vodka Spirituelle
-ROW: Une bouteille
+ARME:      Vodka Esprit
+ROW:         Une bouteille
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un breuvage mystique imprégné d'énergie brute. Le boire inonde immédiatement le corps de force, même si la brûlure de l’alcool demeure.
+Une bière mystique infusée d'énergie brute. Boire il inonde le corps avec force immédiatement, bien que la brûlure de l'alcool reste.
 
-NOTES: 
+REMARQUES:
 
-- Augmentation de la force lors de la consommation.
-- Porte le poids d'une véritable ivresse.
-- Mieux utilisé dans les moments désespérés.
+- Renforcer la force sur la consommation.
+- Il porte le poids de l'intoxication.
+- C'est mieux utilisé dans les moments désespérés.

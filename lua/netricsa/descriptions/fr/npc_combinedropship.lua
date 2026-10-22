@@ -1,26 +1,26 @@
-COMBINEZ LA LIVRAISON DIRECTE
+LUTTE CONTRE LA DROGUE
 
 
-CLASS: Combiner le dropshipping
-METABOLISM: Entièrement synthétique
-PERCEPTION: Support / Déploiement Synthé
-SIZE: ~60-70 pieds (avec conteneur)
-ENDURANCE: Haut
-HOSTILITY: Haut
-WEAPONS: Tourelle à impulsions montée sur son conteneur, laisse tomber occasionnellement des Rollermines
-REWARD: 3000FC
-THREAT: Haut
+CLASSE:      Combiner Dropship
+MÉTABOLISME: Entièrement synthétique
+PERCEPTION: Synthétisation de soutien/déploiement
+TAILLE:       ~60-70 pi (avec conteneur)
+ENDURANCE:  Haut
+HOSTILITÉ:  Haut
+ARMES:    Tourelle d'impulsion montée sur son récipient, chute occasionnellement Rollermines
+RÉCOMPENSE:     3000 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine Dropship est un synthétiseur de transport massif utilisé par le Combine pour déployer rapidement des troupes à travers les zones de combat. Il possède une façade semblable à un requin-baleine, de multiples « pattes » de levage (nacelles moteur), des ailes rétractables pour les manœuvres et de grands conteneurs de fret dotés de puissantes tourelles à impulsions fixées à l'avant pour supprimer l'opposition lorsque les troupes débarquent.
+Le Combine Dropship est un synthé de transport massif utilisé par le Combine pour déployer rapidement des troupes dans les zones de bataille. Il a un front ressemblant à des baleines, plusieurs levants, des ailes rétractables pour manœuvrer, et de grands conteneurs avec des tourelles à impulsions fortes apposées sur le front pour supprimer l'opposition lors du débarquement des troupes.
 
-Bien que le Dropship lui-même soit invulnérable à la plupart des armes, ses conteneurs peuvent être détruits (nécessitant généralement environ 4 tirs de RPG) pour réduire son efficacité. Il transporte plusieurs unités d’Overwatch ou de Protection Civile à l’intérieur. Le Dropship répand aussi parfois des Rollermines sur des zones côtières ou ouvertes.
+Bien que le Dropship lui-même soit invulnérable pour la plupart des armes, ses conteneurs peuvent être détruits (qui nécessitent habituellement environ 4 coups RPG) pour réduire son efficacité. Il transporte plusieurs unités Overwatch ou Protection Civile à l'intérieur. Le Dropship s'étend aussi parfois sur des zones côtières ou ouvertes.
 
 
-TIPS: 
+CONSEILS:
 
-- Ciblez le conteneur, en particulier la tourelle à impulsions, pour avoir une chance d'arrêter son déploiement de troupes.
-- Utiliser des RPG ou des armes classiques à explosifs lourds est presque inutile.
-- Rester debout sous la zone de déploiement d'un Dropship est dangereux.
-- Surveillez les largages de mines (Rollermines) lorsqu'elles survolent des zones vulnérables.
+- Ciblez le conteneur, en particulier la tourelle de pouls, pour une chance d'arrêter son déploiement de troupes.
+- Utilisez des RPG ou des armes lourdes et régulières sont presque inutiles.
+- Il est dangereux de se déplacer dans la zone de déploiement d'un Dropship.
+- Surveillez les chutes de mines (Rollermines) lorsqu'elles survolent des zones vulnérables.

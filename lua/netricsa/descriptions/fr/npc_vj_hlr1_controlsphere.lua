@@ -1,22 +1,22 @@
-On pense que des spécimens de ce type ont été les premières expériences de l'écosystème adaptatif de Xen, peut-être antérieures à la lignée perfectionnée de Panthereye. Certains chercheurs émettent l’hypothèse que des hybrides instables comme celui-ci ont ouvert la voie à des monstruosités plus avancées.
+PRESCRIPTIONS DE CONTRÔLE DE XEN
 
 
-CLASS: Sphère de contrôle
-METABOLISM: Noyau biomécanique
+CLASSE:      Sphère de contrôle
+MÉTABOLISME: Noyau biomécanique
 PERCEPTION: Organisme synthétique de Xen
-SIZE: 6 pieds de diamètre
-ENDURANCE: Haut
-HOSTILITY: Extrême
-WEAPONS: Éclairs énergétiques, perturbation psychique
-REWARD: 1200FC
-THREAT: Très élevé
+TAILLE:       diamètre de 6 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Extrême
+ARMES:    Boules d'énergie, perturbation psychique
+RÉCOMPENSE:     1200 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-La Sphère de Contrôle est une mystérieuse entité biomécanique censée agir comme une unité pour les forces Xen. Son corps sphérique flotte sans effort, rayonnant des impulsions d'énergie extraterrestre. Ces impulsions perturbent l'esprit des créatures Xen inférieures, les soumettant à sa volonté, tout en interférant avec l'activité neuronale humaine. Lorsqu'elle est menacée, la Sphère de Contrôle libère de puissantes explosions d'énergie concentrée, capables de déchiqueter l'armure et l'électronique. Rares sont ceux qui l'ont vu sans une multitude de serviteurs Xen à proximité, ce qui suggère que son rôle principal est de guider et de commander plutôt que de combattre directement.
+La sphère de contrôle est une entité biomécanique mystérieuse qui agit comme une unité pour les forces Xen. Son corps sphérique flotte sans effort, des impulsions rayonnantes d'énergie étrangère. Ces pulsations perturbent l'esprit des petites créatures Xen, les inclinant à sa volonté, tout en interférant avec l'activité neuronale humaine. Lorsqu'elle est menacée, la sphère de contrôle déclenche de puissantes explosions d'énergie concentrée, capables de déchiqueter l'armure et l'électronique. Peu l'ont vu sans une foule de Xen minions à proximité, suggérant que son rôle principal est de guider et de commander plutôt que de combattre directement.
 
-TIPS: 
+CONSEILS:
 
-- Attendez-vous à ce qu'il soit entouré d'autres créatures Xen sous son influence.
-- Ses éclairs d'énergie se déplacent rapidement ; la couverture est essentielle.
-- Le perturber ou le détruire peut affaiblir la coordination des forces Xen proches.
+- S'attendre à ce qu'il soit entouré par d'autres créatures Xen sous son influence.
+- Ses boulons d'énergie voyagent rapidement; la couverture est essentielle.
+- Perturbation ou destruction peut affaiblir la coordination des forces voisines de Xen.

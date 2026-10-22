@@ -1,16 +1,16 @@
-FUSIL D'ASSAUT M16A1
+RISQUE D'ASSAULT M16A1
 
 
-WEAPON: Colt M16A1
-AMMO: Obus OTAN 5,56x45 mm + grenades 40 mm
-ROF: ~700 tours/min
+ARME:      Colt M16A1
+MUNITIONS:        5.56x45mm rondes de l'OTAN + grenades de 40mm
+CADENCE DE TIR:         ~700 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Fusil d'assaut fiable de fabrication américaine, largement distribué à H.E.C.U. forces. Fournit un tir automatique soutenu avec une précision décente. Équipé d'un lance-grenades sous le canon, permettant à la fois un tir de suppression et un soutien explosif sur une seule plate-forme.
+Fusil d'assaut fiable de fabrication américaine, largement délivré aux forces de l'U.S.E. Fournit un feu automatique soutenu avec une précision décente. Équipé d'un lance-grenades sous-marin, permettant à la fois un incendie et un appui explosif dans une plate-forme.
 
-NOTES: 
+REMARQUES:
 
-- Arme d'infanterie standard avec de solides performances.
-- Lance-grenades efficace pour le contrôle des foules et les ennemis retranchés.
-- La précision souffre en cas de rafales prolongées.
+- Arme d'infanterie standard avec des performances solides.
+- Lanceur de grenade efficace pour le contrôle de la foule et les ennemis retranchés.
+- L'exactitude souffre sous des rafales prolongées.

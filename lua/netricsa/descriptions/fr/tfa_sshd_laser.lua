@@ -1,16 +1,16 @@
-FUSIL LASER XL2
+XL2 LASERGUN
 
 
-WEAPON: Pistolet laser XL2
-AMMO: Cellules de puissance X7
-ROF: 600 tours/min
-WEIGTH: 20 livres
+ARME:    Gun laser XL2
+MUNITIONS:      Cellules électriques X7
+CADENCE DE TIR:       600 tours/min
+WEIGTH:    20 lbs
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Cette arme est encore en phase expérimentale, mais s’est jusqu’à présent révélée très fiable. Quatre canons tirent successivement, permettant à l'arme de délivrer des impulsions d'énergie lentes avec une cadence de tir extrêmement élevée pendant une longue période sans surchauffe.
-Fabriqué entièrement en titane, il est à la fois très léger et insensible aux problèmes de surchauffe habituels, ce qui en fait une excellente arme énergétique.
+Cette arme est encore en phase expérimentale, mais elle s'est révélée jusqu'à présent très fiable. Quatre barils tirent successivement, permettant à l'arme de délivrer des impulsions d'énergie lentes avec un taux de feu extrêmement élevé pendant une longue période sans surchauffe.
+Fabriqué entièrement en titane, il est à la fois très léger et immunisé aux problèmes habituels de surchauffe, ce qui en fait une excellente arme énergétique.
 
-NOTES: 
+REMARQUES:
 
-- Utile pour couvrir de vastes zones et éloigner les masses ennemies.
+- Utile pour couvrir de grandes zones et tenir les masses ennemies loin.

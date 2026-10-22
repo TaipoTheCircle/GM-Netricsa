@@ -1,26 +1,26 @@
-OURS GUMMY ROUGE DES ÎLES CANDY DE BIG LOLLY
+LA GOMME ROUGE DE L'ÎLE DE CANDY
 
 
-CLASS: Ours gommeux rouge
-METABOLISM: Organisme gélatineux ressemblant à un ours
+CLASSE:      Ours roux
+MÉTABOLISME: Organisme gélatineux semblable à un ours
 PERCEPTION: Petit prédateur des îles Candy
-SIZE: 1,9 pi
-ENDURANCE: Faible
-HOSTILITY: Haut
-WEAPONS: Sauter, mordre
-REWARD: 150 FC
-THREAT: Faible-Moyen
+TAILLE:       1,9 ft
+ENDURANCE:  Faible
+HOSTILITÉ:  Haut
+ARMES:    Sauter, piquer
+RÉCOMPENSE:     150 FC
+MENACE:     Faible-moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-The red gummy bear is one of the most common, yet cunning, inhabitants of the Candy Islands of Big Lolly. Outwardly, it looks like an ordinary bear-shaped gummy bear: un corps rouge, des pattes arrondies et une expression figée. C'est cette apparition qui entraîne le plus souvent la mort d'invités imprudents.
+L'ours gommy rouge est l'un des plus communs, mais rusés, habitants des îles Candy de Big Lolly. À l'extérieur, on dirait un ours gommé ordinaire en forme d'ours : un corps rouge, des pattes arrondies et une expression gelée. C'est cette apparence qui mène le plus souvent à la mort d'invités méfiants.
 
-Malgré leur petite taille, les oursons gommeux sont extrêmement agressifs. Ils se déplacent par courtes rafales et attaquent soudainement, sautant sur leur proie de tout leur corps. Après le saut, ils mordent avec les dents.
+Malgré leur petite taille, les ours gommés sont extrêmement agressifs. Ils se déplacent en courtes rafales et attaquent soudainement, bondissant sur leur proie avec tout leur corps. Après le saut, ils mordent avec leurs dents.
 
-Ils chassent généralement en meute.
+Ils chassent habituellement en meute.
 
-TIPS: 
+CONSEILS:
 
-- Ne les laissez pas s'approcher trop près, ils sautent presque instantanément.
-- Détruisez-les d'abord lorsqu'ils apparaissent.
-- Ne les confondez pas avec des bonbons ordinaires.
+- Ne les laissez pas s'approcher, ils sautent presque instantanément.
+- Détruisez-les en premier.
+- Ne les confondez pas avec des bonbons.

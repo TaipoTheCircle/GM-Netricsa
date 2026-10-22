@@ -1,21 +1,21 @@
-ACTEUR DE L'ÉDUCATION PAPIER FONDAMENTALE
+ÉDUCATION DU PAPIER FONDAMENTAL
 
 
-CLASS: Joueur
-METABOLISM: Organisme papier instable
-PERCEPTION: Sale pirate informatique
-SIZE: ~4 pieds
-ENDURANCE: Absolu
-HOSTILITY: Absolu
-WEAPONS: Astuces
-REWARD: Tue, puis nous parlerons
-THREAT: Catastrophique
+CLASSE:      Joueur
+MÉTABOLISME: Organisme de papier instable
+PERCEPTION: Pire pirate
+TAILLE:       ~4 pi
+ENDURANCE:  Absolu
+HOSTILITÉ:  Absolu
+ARMES:    Cheats
+RÉCOMPENSE:     Tuez, alors nous parlerons
+MENACE:     Catastrophes
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Anomalie dans le système Paper School - un étudiant qui a eu accès aux commandes cachées de la console et à un menu de triche. À la « mort », il ne meurt pas, mais redémarre ou continue d'agir en pleine santé. Après avoir activé les astuces, son seul objectif est la destruction systématique de l'ensemble du corps professoral et, éventuellement, de l'école elle-même. Il a la capacité de tuer instantanément et de s'infliger n'importe quel effet. Il est l'incarnation du chaos absolu au sein de l'ordre scolaire.
+Anomalie dans le système Paper School - un étudiant qui a obtenu l'accès aux commandes de console cachée et un menu tricheur. À la « mort », il ne meurt pas, mais reboote ou continue d'agir en pleine santé. Après avoir activé les tricheurs, son seul but est la destruction systématique de toute la faculté et, éventuellement, de l'école elle-même. Il a la capacité de tuer et d'infliger des effets sur lui-même. Il est l'incarnation du chaos absolu dans l'ordre de l'école.
 
-TIPS: 
+CONSEILS:
 
 - La confrontation directe est inutile. Toute attaque contre lui est inutile.
-- Les enseignants, et même les créatures comme Δlice, sont impuissants contre lui, car il opère selon un niveau de règles plus élevé.
+- Les enseignants, et même les créatures comme le Δlice, sont impuissants contre lui, car il opère sur un niveau supérieur de règles.

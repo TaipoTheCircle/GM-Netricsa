@@ -1,22 +1,22 @@
-M16A1 ASSAULT RIFLE GOLD
+M16A1 RISQUE D'ASSAULT
 
 
-ARME : M16A1 Assault Rifle GOLD
-MUNITIONS : 5,56x45 mm OTAN (M193)
-ROF : Automatic, 650-750 rounds / minute
-WEIGHT  2,97 kg
+ARME: M16A1 Rifle d'assaut GOLD
+MUNITIONS:   5.56x45mm OTAN (M193)
+CADENCE DE TIR:    Automatique, 650-750 tours / minute
+POIDS 2,97 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-This American assault rifle chambered for 5.56x45mm is designed for accurate and concentrated fire at medium ranges. The rifle is characterized by its relatively light weight, low recoil, and good accuracy, making it suitable for both single-shot and automatic fire.
+Ce fusil d'assaut américain de 5,56x45mm est conçu pour un tir précis et concentré à portée moyenne. Le fusil se caractérise par son poids relativement léger, son faible recul et sa bonne précision, ce qui le rend adapté à un seul tir et à un feu automatique.
 
-The weapon uses a 20- or 30-round magazine and is gas-operated with a rotating bolt. The M16A1 is capable of a high rate of fire, with an effective range of approximately 450 meters.
+L'arme utilise un chargeur de 20 ou 30 tours et fonctionne au gaz avec un boulon rotatif. Le M16A1 est capable d'un taux élevé d'incendie, avec une portée efficace d'environ 450 mètres.
 
-REMARQUES :
+REMARQUES:
 
-- High accuracy and relatively low recoil.
-- Capable of single-shot and automatic fire.
-- Uses 20- or 30-round magazines.
-- Effective primarily at medium and long ranges.
-- Light weight makes the rifle comfortable for extended carry.
-- The 5.56x45mm cartridge provides good penetration against light targets.
+- Haute précision et recul relativement faible.
+- Capable d'incendie simple et automatique.
+- Utilise 20 ou 30 magazines.
+- efficace principalement à moyenne et longue distance.
+- Le poids léger rend le fusil confortable pour le transport prolongé.
+- La cartouche 5,56x45mm assure une bonne pénétration contre les cibles lumineuses.

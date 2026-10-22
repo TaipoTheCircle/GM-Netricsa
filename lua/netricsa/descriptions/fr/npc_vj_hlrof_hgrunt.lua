@@ -1,24 +1,24 @@
-H.E.C.U. INGÉNIEUR DE COMBAT
+S.E.C.U. MARINE (SQUAD D'ADRIEN)
 
 
-CLASS: H.E.C.U. Marine (équipe d'Adrian Shepard)
-METABOLISM: Humain, mâle (Corps des Marines des États-Unis)
-PERCEPTION: Infanterie standard
-SIZE: ~6 pieds
-ENDURANCE: moyen
-HOSTILITY: extrême envers les extraterrestres et les forces hostiles
-WEAPONS: MP5 SMG, pistolet M1911, grenades
-REWARD: 500FC
-THREAT: modéré individuellement, élevé en groupe
+CLASSE:      S.E.C.U. Marine (équipe de Shepard)
+MÉTABOLISME: Humain, Homme (US Marine Corps)
+PERCEPTION: Infanterie Standard
+TAILLE:       6 pieds
+ENDURANCE:  moyenne
+HOSTILITÉ:  extrême envers les étrangers et les forces hostiles
+ARMES:    MP5 SMG, pistolet M1911, grenades
+RÉCOMPENSE:     500 FC
+MENACE:     modéré individuellement, élevé en groupes
 
-DESCRIPTION: 
+DESCRIPTION:
 
-H.E.C.U. Les grognements de l'escouade de Shephard sont des marines de combat entraînés et déployés sur les sites de Xen et Black Mesa pour contenir les incursions extraterrestres et sécuriser les zones de recherche sensibles. Ils opèrent en escouades coordonnées sous le commandement de Shephard, équilibrant l'agressivité et la discipline tactique.
+Des navires de combat entraînés sont déployés sur les sites de Xen et Black Mesa pour contenir des incursions extraterrestres et sécuriser des zones de recherche sensibles. Ils opèrent dans des brigades coordonnées sous le commandement de Shephard, conciliant l'agression et la discipline tactique.
 
-Ces marines sont compétents en combat à distance, capables de lancer des tirs de suppression et d'utiliser des grenades pour débusquer les entités hostiles. Contrairement à leurs homologues H.E.C.U. escouades, l'équipe de Shephard démontre un degré plus élevé de coordination et de réactivité aux menaces, reflétant leur formation d'élite et leur supervision directe.
+Ces marines sont compétents dans les combats variés, capables d'abattre les tirs et d'utiliser des grenades pour chasser les entités hostiles. Contrairement à leurs homologues des équipes de l'U.S.E.C., l'équipe de Shephard démontre un degré plus élevé de coordination et de réactivité aux menaces, reflétant leur entraînement d'élite et leur supervision directe.
 
-TIPS: 
+CONSEILS:
 
 
-- Surveillez l'utilisation des grenades - ils les lancent tactiquement pour débusquer les ennemis.
-- Exploiter la couverture environnementale ; ils quittent rarement leur poste sans motif.
+- Attention à l'utilisation de grenades - ils les jettent tactiquement pour chasser les ennemis.
+- Exploiter la couverture environnementale; ils quittent rarement leur position sans cause.

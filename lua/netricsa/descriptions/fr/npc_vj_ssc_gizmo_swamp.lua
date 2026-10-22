@@ -1,21 +1,21 @@
-MARAIS-HOPPER DE RIGIL KENTAURUS
+MARSH-HOPPER DE RIGIL KENTAURUS
 
 
-CLASS: Marsh-Hopper des marais de Rigil Kentaurus
-METABOLISM: amphibien terrestre
-PERCEPTION: animal sauvage
-SIZE: 3 pieds
-ENDURANCE: aucun
-HOSTILITY: extrême
-WEAPONS: éclaboussure de boue toxique
-REWARD: 500FC
-THREAT: très faible
+CLASSE:      Swamp Marsh-Hopper de Rigil Kentaurus
+MÉTABOLISME: amphibiens terrestres
+PERCEPTION: animaux sauvages
+TAILLE:       3 pieds
+ENDURANCE:  aucune
+HOSTILITÉ:  extrême
+ARMES:    éclaboussures toxiques
+RÉCOMPENSE:     500 FC
+MENACE:     très faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un étrange organisme originaire des friches marécageuses du système de Rigil Kentaurus. Ils vivent en grands groupes et ont un instinct suicidaire pour protéger leur territoire. Dans un chaos dévastateur, tous les individus tentent de bondir sur l'intrus et d'exploser en se gonflant excessivement. Lors de l'explosion, la bave toxique contenue dans leurs intestins éclabousse la cible.
+Un étrange organisme issu de friches marécageuses du système de Rigil Kentaurus. Ils vivent en grands groupes et ont l'instinct suicidaire de protéger leur territoire. Dans les ravages dévastateurs, tous les individus essaient de sauter à l'intrus et d'exploser, en se gonfleant trop. Au moment de l'explosion, la boue toxique contenue dans leurs intestins éclabousse la cible.
 
-TIPS: 
+CONSEILS:
 
-- Un seul d'entre eux n'est pas dangereux, mais un essaim est mortel.
-- Détruire à distance.
+- L'un d'eux seul n'est pas dangereux, mais un essaim est mortel.
+- Détruire à portée de main.

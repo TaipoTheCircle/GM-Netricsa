@@ -1,23 +1,23 @@
-ARACHNOÏDE, JUVÉNILE DU SCORPIUS
+ARACHNOID, JUVENILE DU SCORPIUS
 
 
-CLASS: Arachnoïde, juvénile
-METABOLISM: ectotherme, arthropode
-PERCEPTION: race sensible primitive
-SIZE: 10 pieds
-ENDURANCE: moyen
-HOSTILITY: extrême
-WEAPONS: pistolet à chaîne, piqûre de queue
-REWARD: 1000FC
-THREAT: haut
+CLASSE:      Arachnoide juvénile
+MÉTABOLISME: ectothermes, arthropodes
+PERCEPTION: race primitive sensible
+TAILLE:       10 pieds
+ENDURANCE:  moyenne
+HOSTILITÉ:  extrême
+ARMES:    fusil à chaîne, piqûre de queue
+RÉCOMPENSE:     1000 FC
+MENACE:     élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un guerrier sacré issu d'une race primitive a évolué à partir d'arthropodes. Extrêmement hostile en raison de leurs convictions religieuses.
-Porte un Chaingun avec un réapprovisionnement en munitions dans une main. L'exosquelette couvre tout le corps de l'arachnoïde et offre une bonne protection contre les balles, les explosifs et le feu.
-Les juvéniles sont les arachnoïdes les plus faibles, ayant un exosquelette jaune faible et « non mûr » et une taille plus petite.
+Un guerrier sacré issu d'une race primitive a évolué à partir d'arthropodes. Très hostile en raison de leurs convictions religieuses.
+Il porte un fusil à chaîne avec une seule main. Exoskeleton couvre tout le corps d'Arachnoid et offre une bonne protection contre les balles, les explosifs et le feu.
+Les juvéniles sont les plus faibles des arachnoïdes, ayant un exosquelette jaune « non mûr » et une taille plus petite.
 
-TIPS: 
+CONSEILS:
 
-- Piqûre dangereuse - ne vous approchez pas de trop près.
-- Tireront sur leurs propres rangs avec fureur.
+- Merde dangereuse - ne pas approcher trop près.
+- Ils s'enfuient.

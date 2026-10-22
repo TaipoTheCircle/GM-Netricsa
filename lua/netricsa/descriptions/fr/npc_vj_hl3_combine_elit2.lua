@@ -1,23 +1,23 @@
-COMBINEZ LE COMMANDO ARCTIQUE D'ÉLITE D'OVERWATCH
+COMBINE SURVEILLANCE ELITE ARCTIQUE COMMANDO
 
 
-CLASS: Combinez Overwatch Elite Arctic Commando
-METABOLISM: Humain augmenté, mâle
-PERCEPTION: Infanterie transhumaine, unité d'assaut d'élite
-SIZE: 5,9 pieds
-ENDURANCE: Très élevé
-HOSTILITY: Extrême
-WEAPONS: Fusil à impulsion AR2 V2, boules d'énergie
-REWARD: 900 FC
-THREAT: Très élevé
+CLASSE:      Combiner Overwatch Elite Arctic Commando
+MÉTABOLISME: Augmenté Humain, Homme
+PERCEPTION: Infanterie transhumaine, unité d'assaut Elite
+TAILLE:       5,9 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Extrême
+ARMES:    AR2 V2 Fuseau d'impulsion, boules d'énergie
+RÉCOMPENSE:     900 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les commandos d’élite Combine Overwatch sont la forme la plus élevée d’infanterie terrestre Combine, conçue pour supprimer et détruire complètement la résistance. Reconnaissables à leur armure blanche éblouissante, à leur cape sur l'épaule droite et à leur seule visière rouge sinistrement brillante, ces soldats sont un symbole de l'abandon des négociations par le Combine.
+Combiner Overwatch Elite Commandos sont la forme la plus élevée de Combiner l'infanterie au sol, conçu pour supprimer et détruire complètement la résistance. Reconnus par leur armure blanche éblouissante, leur cape sur l'épaule droite et leur visière rouge éclatante, ces soldats sont un symbole de l'abandon des négociations par le Combiné.
 
-Une caractéristique clé de l'équipement du Elite Commando est son système de survie intégré. Un tube épais traverse l'épaule gauche du respirateur et pénètre dans l'armure, où il se connecte à une poche à oxygène située dans le dos. Ce module, marqué du logo Combine, offre une respiration autonome, une filtration des toxines et un approvisionnement stable en oxygène même dans des environnements complètement hostiles, des ruines enfumées aux zones contaminées.
+Une caractéristique clé de l'équipement de l'Elite Commando est leur système de survie intégré. Un tube épais traverse l'épaule gauche du respirateur et pénètre dans l'armure, où il se connecte à un paquet d'oxygène sur le dos. Ce module, marqué par le logo Combine, fournit une respiration autonome, une filtration à toxines et une alimentation en oxygène stable même dans des environnements complètement hostiles - des ruines fumées aux zones contaminées.
 
-TIPS: 
+CONSEILS:
 
-- Ne sous-estimez pas leur capacité de survie : les tirs conventionnels sont rarement efficaces.
-- Les commandos d'élite n'opèrent presque jamais seuls, même s'il semble contraire.
+- Ne sous-estimez pas leur survivabilité-incendie conventionnel est rarement efficace.
+- Elite Commandos n'opère presque jamais seul, même s'il semble le contraire.

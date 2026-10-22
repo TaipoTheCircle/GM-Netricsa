@@ -1,17 +1,17 @@
-LANCE-FUSÉE
+LAUNCHER
 
 
-WEAPON: Lance-roquettes
-AMMO: Fusées
-ROF: ~40 tours/min
+ARME: Lance-roquettes
+MUNITIONS:   Rochettes
+CADENCE DE TIR:    ~40 tours/min
 
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le lance-roquettes tire de puissantes roquettes qui explosent à l'impact ou après un temps défini, infligeant des dégâts de zone. Les roquettes génèrent de fortes impulsions de souffle qui peuvent repousser les ennemis et détruire les structures faibles. Choix idéal pour nettoyer une zone et faire face à des ennemis groupés.
+Le lanceur de fusées tire de puissantes fusées qui détonent à l'impact ou après un certain temps, causant des dommages à la zone. Les fusées génèrent de fortes impulsions qui peuvent faire reculer les ennemis et détruire les structures faibles. Choix idéal pour le nettoyage de zone et le traitement des ennemis groupés.
 
-NOTES: 
+REMARQUES:
 
-- Les explosions causent d'importants dégâts par éclaboussures et peuvent blesser le tireur si elles sont tirées trop près.
-- Idéal pour le contrôle des foules et les rencontres, mais moins efficace contre les petits ennemis agiles.
-- La conservation des munitions et la précision des tirs sont cruciales – les ratés coûtent cher.
+- Les explosions causent de lourds dégâts et peuvent nuire au tireur si on tire trop près.
+- Idéal pour le contrôle de foule et les rencontres, mais moins efficace contre les petits ennemis agiles.
+- La conservation des munitions et les prises de vues précises sont cruciales - les erreurs sont coûteuses.

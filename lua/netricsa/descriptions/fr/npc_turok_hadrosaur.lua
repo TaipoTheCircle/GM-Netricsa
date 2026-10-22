@@ -1,23 +1,23 @@
-PARASAUROLOPHUS FROM THE TERRAFORMED PLANET
+PARASAUROLOPHUS DU PLANET TERRAFORME
 
 
-CLASS: Parasaurolophus
-METABOLISM: Herbivore
-PERCEPTION: Animal de troupeau paisible
-SIZE: 10 pieds
-ENDURANCE: Faible
-HOSTILITY: Aucun
-WEAPONS: Jambes
-REWARD:      50 FC
-THREAT: Minimal
+CLASSE:       Parasaurolophe
+MÉTABOLISME:  Herbivore
+PERCEPTION:  Animaux de compagnie
+TAILLE:        10 pieds
+ENDURANCE:   Faible
+HOSTILITÉ:   Aucune
+ARMES:     Jambes
+RÉCOMPENSE:      50 FC
+MENACE:      Minimal
 
 DESCRIPTION:
 
-Ce sont des dinosaures à bec de canard pacifiques et herbivores qui passent la plupart de leur temps à chercher des buissons à grignoter.
+Ce sont de paisibles dinosaures herbivores à bec de canard qui passent la majeure partie de leur temps à chercher des buissons pour les abattre.
 
-Ils n’attaquent ni ne font de mal à personne ; ils existent simplement et égayent le paysage de leur présence.
+Ils n'attaquent ni ne nuisent à personne ; ils existent tout simplement et illuminent le paysage par leur présence.
 
-TIPS:
+CONSEILS:
 
 - Ne gaspillez pas de munitions.
-- Utilisez-les pour vous couvrir. Les prédateurs se tournent souvent vers eux, vous laissant le temps de vous échapper.
+- Utilisez-les comme couverture. Les prédateurs passent souvent à eux, vous donnant le temps de vous échapper.

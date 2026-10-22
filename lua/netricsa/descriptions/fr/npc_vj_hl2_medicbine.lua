@@ -1,25 +1,25 @@
-COMBINEZ LE SOLDAT MEDIC D'OVERWATCH
+VENDU MÉDICAL SURVEILLANCE DE LA COMBINE
 
 
-CLASS: Combiner Overwatch Medic Soldier
-METABOLISM: Humain augmenté, mâle
-PERCEPTION: Infanterie transhumaine - Unité médicale de campagne
-SIZE: 5,9 pieds
-ENDURANCE: Haut
-HOSTILITY: Élevé (mais donne la priorité au soutien de l'équipe)
-WEAPONS: SMG1, Kit de santé médical
-REWARD: 750 FC
-THREAT: Moyen-élevé
+CLASSE:      Combiner le soldat Medic Overwatch
+MÉTABOLISME: Augmenté Humain, Homme
+PERCEPTION: Infanterie Transhumaine - Unité Médicale de Campagne
+TAILLE:       5,9 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Haut (mais priorise le soutien de l'équipe)
+ARMES:    SMG1, trousse de santé médicale
+RÉCOMPENSE:     750 FC
+MENACE:     Moyenne-haute
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine Overwatch Medic est une unité de soutien spécialisée sur le champ de bataille, qui se distingue visuellement des soldats standards par son armure blanche avec un insigne médical orange et des lentilles de visière jaunes.
+Le Combine Overwatch Medic est une unité de soutien sur le champ de bataille spécialisée, distinguée visuellement des soldats standard par leur armure blanche avec des insignes médicaux orange et des lentilles visières jaunes.
 
-Contrairement à l'infanterie régulière, les médecins sont chargés de maintenir les escouades d'Overwatch en état de combat lors d'engagements prolongés. Équipés de bioscanners et d'injecteurs de guérison portables, ils peuvent rapidement stabiliser les soldats blessés, administrer des stimulants fabriqués par Combine et prolonger l'endurance au combat d'unités entières.
+Contrairement à l'infanterie régulière, les médecins sont chargés de maintenir les équipes de Surveillants dans l'état des combats pendant les engagements prolongés. Équipés de bioscanners et d'injecteurs portatifs de guérison, ils peuvent rapidement stabiliser les soldats blessés, administrer des stimulants de fabrication combinée et prolonger l'endurance au combat de toutes les unités.
 
-Bien qu'ils soient principalement orientés vers le soutien, ils restent lourdement armés et n'hésiteront pas à engager directement leurs ennemis s'ils sont menacés. Leur présence rend les escouades du Combine beaucoup plus difficiles à éliminer, obligeant souvent les résistants à des échanges de tirs interminables.
+Bien que principalement axés sur le soutien, ils restent lourdement armés et n'hésiteront pas à engager des ennemis directement s'ils sont menacés. Leur présence fait en sorte que les escadrons Combine sont beaucoup plus difficiles à éliminer, forçant souvent les combattants de la résistance à se livrer à des combats de feu.
 
-TIPS: 
+CONSEILS:
 
-- Ciblez d'abord les médecins : leurs soins prolongeront considérablement les combats.
-- Surveillez-le : chaque soldat du syndicat blessé peut soudainement retrouver toutes ses forces.
+- Ciblez les médicaments d'abord - leur guérison prolongera considérablement les batailles.
+- Surveillez-le - chaque soldat blessé Combine peut soudainement se remettre à pleine force.

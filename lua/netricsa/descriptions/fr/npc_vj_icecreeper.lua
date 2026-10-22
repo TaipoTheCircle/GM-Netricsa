@@ -1,31 +1,31 @@
-ICE CREEPER DU MINECRAFT OVERWORLD
+CREEPER DU MINECRAFT
 
 
-CLASS: Grimpereau de glace
-METABOLISM: Cryogénique, neige composite
-PERCEPTION: Le Combine Overwatch Hybrid Prison Soldier with Shotgun est une version renforcée du soldat Nova Prospekt, déployé temporairement ou définitivement à l’extérieur des complexes pénitentiaires. Le Combine utilise ces soldats dans des situations où les forces standards sont insuffisantes et où le déploiement de forces d’élite n’est pas pratique.
-SIZE: 5,5 pieds
-ENDURANCE: Faible
-HOSTILITY: Faible
-WEAPONS: Froid
-REWARD: 40 FC
-THREAT: Moyen
+CLASSE:      Creuser de glace
+MÉTABOLISME: Cryogène, composite neige
+PERCEPTION: Fournisseur de neige gratuit
+TAILLE:       5,5 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Faible
+ARMES:    Froid
+RÉCOMPENSE:     40 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-This is a white snow creeper that leaves a chill in its wake. If you encounter one in the tundra or on icy plains, you might not even notice it: sa peau blanche se marie parfaitement avec le paysage enneigé.
+Il s'agit d'une neige blanche qui laisse un frisson dans son sillage. Si vous en rencontrez un dans la toundra ou sur les plaines glacées, vous ne le remarquerez peut-être même pas : sa peau blanche se marie parfaitement avec le paysage enneigé.
 
-Contrairement à ses homologues vertes et de type poudre à canon, ce type de plante grimpante n'essaie pas de vous tuer avec une onde de choc. Sa principale force est son contrôle du terrain. Partout où il passe, il laisse derrière lui une couche de neige recouvrant le sol. Lorsqu'il explose, au lieu de provoquer une explosion destructrice, il gèle tout autour de lui. L'eau se transforme en glace et si elle explose près d'une source de lave, la lave durcira en obsidienne.
+Contrairement à ses homologues de type vert et poudre, ce type de rampant n'essaie pas de vous tuer avec une onde de choc. Sa force principale est son contrôle du terrain. Partout où elle passe, elle laisse derrière elle une couche de neige couvrant le sol. Quand il explose, au lieu de provoquer une explosion destructrice, il gèle tout autour. L'eau se transforme en glace, et si elle détone près d'une source de lave, la lave va durcir en obsidienne.
 
-La particularité de son explosion est qu’elle n’inflige aucun dégât aux ennemis ni aux blocages. Au lieu de cela, il recouvre simplement la zone qui l’entoure d’une couche de neige et gèle les surfaces d’eau.
+La particularité de son explosion est qu'elle ne cause aucun dommage aux ennemis ou aux blocs. Au lieu de cela, il couvre simplement la zone autour avec une couche de neige et gèle les surfaces d'eau.
 
-The Ice Creeper can be found in cold biomes: toundra, déserts glacés, forêts saisonnières et, bien sûr, biomes de neige.
+The Ice Creeper can be found in cold biomes: la toundra, les déserts glacés, les forêts saisonnières et, bien sûr, les biomes de neige.
 
-TIPS: 
+CONSEILS:
 
-- C'est le moyen idéal pour obtenir de la neige gratuite.
-- N'ayez pas peur de son explosion. Cela ne détruira pas votre maison ni ne vous tuera, mais votre cour entière se transformera en un champ blanc.
-- Gardez-le à l'écart des sources de lave ou des structures d'eau précieuses. Congeler votre aquarium de poissons tropicaux serait une triste expérience.
-- Il est facilement reconnaissable à sa couleur blanche, surtout sur le fond de l'herbe et des rochers normaux des grottes.
-- Le tuer avec des armes ordinaires est inutile si vous recherchez spécifiquement la neige : vous devez déclencher une explosion.
-- La lave gelée se transforme en obsidienne. Cela peut être utile si vous êtes tombé dans le monde souterrain et qu'une plante grimpante comme celle-ci se trouve à proximité.
+- C'est la meilleure façon d'obtenir de la neige.
+- N'ayez pas peur de son explosion. Il ne va pas détruire votre maison ou vous tuer, mais toute votre cour va se transformer en un champ blanc.
+- Gardez-le loin des sources de lave ou des structures d'eau précieuses. Geler votre réservoir de poisson tropical serait une expérience triste.
+- Il est facilement reconnaissable par sa couleur blanche, surtout contre l'herbe normale et la roche dans les grottes.
+- Tuer avec des armes régulières est inutile si vous chassez spécifiquement la neige - vous devez déclencher une explosion.
+- La lave congelée devient obsidienne. Cela peut être utile si vous êtes tombé dans le monde et qu'un tel monstre se trouve à proximité.

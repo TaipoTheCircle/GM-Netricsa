@@ -1,22 +1,22 @@
-VAPORWAVE DÉCAPÉE
+À VAPORWAVE
 
 
-CLASS: Vaporwave décapité
-METABOLISM: cyber-zombie
+CLASSE:      Vaporve décapité
+MÉTABOLISME: cyber-zombie
 PERCEPTION: insensible, contrôlé par LCU
-SIZE: 6 pieds
-ENDURANCE: faible
-HOSTILITY: moyen
-WEAPONS: lanceur multiple polyvalent
-REWARD: 400FC
-THREAT: haut
+TAILLE:       6 pieds
+ENDURANCE:  faible
+HOSTILITÉ:  moyenne
+ARMES:    lanceur multiple tout-terrain
+RÉCOMPENSE:     400 FC
+MENACE:     élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un soldat sirien exécuté, ressuscité des morts par Mental et télécommandé par Life Control Unit (LCU).
-Un Vaporwave porte sa propre tête dans une main pour recevoir des informations audiovisuelles. Variante hautement expérimentale du Firecracker, le Vaporwave est doté d'un système d'arme unique qui tire un cercle complet de divers projectiles magiques autour de lui, essayant d'inonder la zone environnante de dégâts. Pour pouvoir supporter le poids de cette arme, sa peau a été alliée à une sorte de biométal, ce qui la rend un peu plus résistante que ses frères ordinaires.
+Un soldat sirien exécuté, ressuscité d'entre les morts par Mental et télécommandé par l'Unité de contrôle de la vie.
+Un Vaporwave porte sa propre tête dans une main pour recevoir des informations audiovisuelles. Variante très expérimentale du Firecracker, le Vaporwave porte un système d'armes unique qui tire un cercle complet de divers projectiles magiques autour de lui, essayant d'inondation de la région environnante avec des blessures. Pour résister au poids de cette arme, sa peau était alliée à une sorte de biométal, ce qui la rendait un peu plus dure que ses frères réguliers.
 
-TIPS: 
+CONSEILS:
 
-- Peut attaquer dans toutes les directions à la fois.
-- Possède plusieurs options d'attaque qui semblent être choisies sans considération.
+- Peut attaquer dans toutes les directions.
+- A plusieurs options d'attaque qui semblent être choisies sans considération.

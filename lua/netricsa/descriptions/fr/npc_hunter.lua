@@ -1,27 +1,27 @@
-CHASSEUR DE COMBINE
+COMBINE HUNTER
 
 
-CLASS: Combinez le chasseur
-METABOLISM: Synthé biomécanique
-PERCEPTION: Unité de soutien d'élite
-SIZE: 8 pieds
-ENDURANCE: Haut
-HOSTILITY: Extrême
-WEAPONS: Lanceur de fléchettes, charge d'éperonnage, membres lames
-REWARD: 600 FC
-THREAT: Haut
+CLASSE:      Combiner Hunter
+MÉTABOLISME: Synthétisation biomécanique
+PERCEPTION: Groupe d ' appui Elite
+TAILLE:       8 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Extrême
+ARMES:    Lanceur Flechette, charge Ramming, Membres Bladed
+RÉCOMPENSE:     600 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les chasseurs sont des synthés mortels de taille moyenne conçus par le Combine comme unités anti-infanterie et anti-véhicules. Souvent déployés en meute aux côtés des Striders, ils servent de tirailleurs, balayant les ruines urbaines et chassant les combattants de la Résistance avec une efficacité brutale.
+Les chasseurs sont des Synthés létaux de taille moyenne conçus par le Combine comme unités anti-infantry et anti-véhicule. Souvent déployées en meutes aux côtés de Striders, elles servent d'escarmouches, balayent les ruines urbaines et chassent les résistants avec une efficacité brutale.
 
-Bien que plus petits que les Striders, les Chasseurs sont terriblement rapides et agiles, capables de sauter par-dessus les obstacles, d'enfoncer les ennemis dans les murs et de déchirer les abris. Leur arme emblématique est le lanceur de fléchettes, qui tire des fléchettes lumineuses qui explosent après l'impact. À courte distance, ils utilisent leurs membres antérieurs en forme de lame pour trancher et embrocher leurs proies.
+Bien que plus petits que les Striders, les chasseurs sont terrifiantment rapides et agiles, capables de sauter sur les obstacles, les ennemis de bélier dans les murs, et déchirer à travers le couvert. Leur arme de signature est le lanceur de flechette, tirant des fléchettes qui explosent après l'impact. À portée de main étroite, ils utilisent leurs membres antérieurs lamelles pour couper les proies et les brochettes.
 
-Les chasseurs affichent des tactiques de meute, communiquent avec des hurlements et des cris étranges, coordonnent les charges et flanquent les ennemis. Ils sont implacables et intrépides, poursuivant leurs cibles jusqu'à ce qu'ils soient détruits ou victorieux. Les vétérans de la Résistance les considèrent comme l'une des unités combinées les plus dangereuses, après un Strider et un Crab Synth.
+Les chasseurs exposent des tactiques, communiquent avec les hurlements et les shrieks, coordonnent les charges et flanquent les ennemis. Ils sont inlassables et intrépides, poursuivant des cibles jusqu'à ce qu'elles soient détruites ou victorieuses. Les vétérans de la résistance les considèrent parmi les plus dangereux Combinez des unités à court d'un Strider et Crab Synth.
 
-TIPS: 
+CONSEILS:
 
-- Continuez à avancer - Les chasseurs excellent dans les virages des cibles stationnaires.
-- Leurs fléchettes collent brièvement avant d'exploser - profitez de ce moment pour esquiver.
-- Visez le groupe tête/œil pour un maximum de dégâts.
-- Utilisez une puissance de feu importante (RPG, fusils de chasse ou explosifs, AR2 Ball) - les armes légères sont moins efficaces.
+Les chasseurs excellent à coincer des cibles fixes.
+- Leurs flechettes se collent brièvement avant d'exploser - utilisez ce moment pour éviter.
+- Visez l'amas tête/œil pour un maximum de dommages.
+- Utiliser une puissance de feu lourde (RPG, fusils de chasse ou explosifs, balle AR2) - les armes légères sont moins efficaces.

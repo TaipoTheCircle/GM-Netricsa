@@ -1,28 +1,28 @@
-COMBINEZ L'ÉQUIPE DE SEAL 6 SOLDAT DE LA PRISON D'OVERWATCH
+ÉQUIPE DE SALE DE COMBINAGE 6 VENDU DE PRISON DE SURVEILLANCE
 
 
-CLASS: Combinez Overwatch SEAL Team 6 Prison Soldier
-METABOLISM: Humain augmenté, mâle
-PERCEPTION: Forces spéciales du groupe d'élite
-SIZE: 5,9 pieds
-ENDURANCE: Très élevé
-HOSTILITY: Extrême
-WEAPONS: AK-47, AR2, M4A1, SMG2
-REWARD: 900 FC
-THREAT: Très élevé
+CLASSE:      Combiner Overwatch SEAL Team 6 Soldat de prison
+MÉTABOLISME: Augmenté Humain, Homme
+PERCEPTION: Elite combine les forces spéciales
+TAILLE:       5,9 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Extrême
+ARMES:    AK-47, AR2, M4A1, SMG2
+RÉCOMPENSE:     900 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Ces soldats étaient autrefois de véritables Navy SEALs des États-Unis, maîtres des raids surprises et des opérations de sauvetage dans les points chauds les plus dangereux du monde.
+Ces soldats étaient autrefois de véritables SEAL de la Marine américaine, maîtres des raids surprises et des opérations de sauvetage dans les points chauds les plus dangereux du monde.
 
-Ils opéraient au sein d'une équipe capable de contourner toute sécurité et d'éliminer une cible derrière les lignes ennemies, risquant parfois leur vie pour quelques minutes d'avantage stratégique.
+Ils ont agi dans le cadre d'une équipe capable de contourner toute sécurité et d'éliminer une cible derrière les lignes ennemies, risquant parfois leur vie pendant quelques minutes d'avantage stratégique.
 
-Ces combattants menaient auparavant des opérations de sauvetage d'otages et de neutralisation de prisonniers dangereux.
+Ces combattants ont précédemment mené des opérations de sauvetage en otage et la neutralisation de prisonniers dangereux.
 
-Ils étaient des spécialistes des assauts et des évacuations en toute sécurité jusqu'à ce qu'ils tombent sous l'influence du Combine.
+Ils étaient spécialistes des agressions et des évacuations sécuritaires jusqu'à ce qu'ils tombent sous l'influence du Combiné.
 
-Ils servent désormais Overwatch, opérant dans les fortifications de la prison Nova Prospekt.
+Maintenant ils servent Overwatch, opérant dans les fortifications de la prison de Nova Prospekt.
 
-TIPS: 
+CONSEILS:
 
 - Leurs compétences sont particulièrement dangereuses dans les espaces confinés.

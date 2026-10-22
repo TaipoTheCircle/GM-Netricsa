@@ -1,22 +1,22 @@
-ESCLAVE VORTIGAUNT DE XEN
+ÉCRAN DE VORTIGAUNT DE XEN
 
 
-CLASS: Esclave Vortigaunt
-METABOLISM: mammifère intelligent (origine Xen)
-PERCEPTION: Race extraterrestre intelligente
-SIZE: 6 pieds
-ENDURANCE: moyen
-HOSTILITY: forcé (sous Nihilanth)
-WEAPONS: éclair vert (décharge bioélectrique), griffes
-REWARD: 300FC
-THREAT: moyen
+CLASSE:      Vortigaunt Esclave
+MÉTABOLISME: mammifères intelligents (origine Xen)
+PERCEPTION: Race Alien intelligente
+TAILLE:       6 pieds
+ENDURANCE:  moyenne
+HOSTILITÉ:  forcé (sous Nihilanth)
+ARMES:    foudre verte (décharge bio-électrique), griffes
+RÉCOMPENSE:     300 FC
+MENACE:     moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-The Vortigaunts were once a free, intelligent race, but under the rule of the Nihilanth they became enslaved shock troops of the Xen invasion. Driven by psionic chains, they were forced to fight humans despite their reluctance. Vortigaunts channel bio-electric energy through their hands, unleashing destructive bolts of green lightning. In Black Mesa they were as feared as any alien attacker, but their strange chants and mournful voices hinted at something deeper: un peuple qui lutte contre sa volonté.
+Les Vortiguants étaient autrefois une race libre et intelligente, mais sous la domination de Nihilanth, ils devinrent esclaves des troupes de choc de l'invasion des Xen. Poussés par des chaînes psioniques, ils ont été contraints de combattre les humains malgré leur réticence. Vortigaunts canalise l'énergie bio-électrique par leurs mains, libérant des boulons destructeurs de la foudre verte. Dans Black Mesa, ils étaient aussi craints que n'importe quel attaquant extraterrestre, mais leurs chants étranges et leurs voix tristes ont laissé entendre quelque chose de plus profond : un peuple qui combat contre sa volonté.
 
-TIPS: 
+CONSEILS:
 
-- Restez à couvert entre vous et leurs éclairs.
-- Réduisez rapidement la distance, ils sont plus faibles en mêlée.
-- Ne sous-estimez pas les groupes ; ils se coordonnent bien.
+- Couvrez-vous entre vous et leur foudre.
+- Fermez la distance rapidement - ils sont plus faibles en mêlée.
+- Ne sous-estimez pas les groupes, ils se coordonnent bien.

@@ -1,21 +1,21 @@
 ANTLION DE XEN
 
 
-CLASS: Fourmilion
-METABOLISM: Insectoïde
-PERCEPTION: Créature extraterrestre ressemblant à un insecte
-SIZE: 4-5 pieds
-ENDURANCE: Moyen
-HOSTILITY: Haut
-WEAPONS: Griffes, ailes (rafales courtes), tactiques d'essaim
-REWARD: 250 FC
-THREAT: Moyen
+CLASSE:      Fourmion
+MÉTABOLISME: Insectoïde
+PERCEPTION: Creature d'Alien semblable à des insectes
+TAILLE:       4-5 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Griffes, ailes (petites rafales), tactiques d'essaim
+RÉCOMPENSE:     250 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les fourmilions sont des prédateurs insectoïdes de Xen, attirés sur Terre avant l'incursion du Combine. Ils parcourent les zones sablonneuses en essaims, surgissant du sol pour tendre une embuscade à leurs proies. Agiles et implacables, ils submergent par leur nombre plutôt que par leur force individuelle. Malgré leur agressivité, ils peuvent être pacifiés ou même commandés grâce à l'utilisation de phéropodes spéciaux récoltés sur les cadavres des Gardes Antlion. Leur bourdonnement semblable à celui d'un insecte annonce une attaque imminente, souvent quelques instants avant que le sable n'éclate sous vos pieds.
+Les antlions sont des prédateurs insectoïdes de Xen, attirés vers la Terre avant l'incursion du Combine. Ils errent dans des zones sablonneuses en essaims, éclatant du sous-sol pour embusquer des proies. Agiles et inlassables, ils ont envahi par de simples nombres plutôt que par la force individuelle. Malgré leur agression, ils peuvent être pacifiés ou même commandés par l'utilisation de phéropodes spéciaux récoltés à partir de cadavres d'Antlion Guards. Leur bourdonnement comme un insecte annonce une attaque entrante, souvent quelques instants avant que le sable éclate sous vos pieds.
 
-TIPS: 
+CONSEILS:
 
-- Évitez de marcher sur le sable ; les vibrations les attirent instantanément.
-- Use pheropods to turn swarms into allies.
+- Évitez de marcher sur le sable; les vibrations les attirent instantanément.
+- Utilisez des phéropodes pour transformer des essaims en alliés.

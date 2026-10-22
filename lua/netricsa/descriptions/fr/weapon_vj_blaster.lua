@@ -1,16 +1,16 @@
-FUSIL BLASTER E-5
+E-5 RIVEAU DE LA CLASSE
 
 
-WEAPON: Fusil blaster E-5
-AMMO: Cellules énergétiques
-ROF: ~600 tirs/min
+ARME:      E-5 Fuseau de blaster
+MUNITIONS:        Cellules énergétiques
+CADENCE DE TIR:         ~600 coups/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Fusil blaster standard pour les unités d'élite. Tire des éclairs d'énergie rapides capables de percer une armure légère et de causer des dégâts importants à moyenne portée. Fiable, léger et efficace dans les rôles de suppression et de tir de précision.
+Fusil de tir standard pour unités d'élite. Incendie des boulons d'énergie rapides capables de percer l'armure légère et causant des dommages importants à portée moyenne. Fiable, léger et efficace dans les rôles de suppression et de précision.
 
-NOTES: 
+REMARQUES:
 
-- Cadence de tir élevée avec recul modéré.
+- Taux élevé de feu avec un recul modéré.
 - Efficace contre l'infanterie et les cibles légèrement blindées.
-- Les cellules énergétiques doivent être surveillées pour éviter de s'épuiser en plein combat.
+- Les cellules d'énergie doivent être surveillées afin d'éviter la fuite.

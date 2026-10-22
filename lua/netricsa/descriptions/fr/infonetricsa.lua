@@ -1,14 +1,14 @@
-WELCOME TO NETRICSA!
+BIENVENUE À NETRICSA !
 
 
 Bonjour,
 
-Je suis NETRICSA - Analyseur de situation de combat implanté NEuroTRoniquement. Je vous guiderai dans vos missions en analysant de nouveaux environnements, ennemis et objets.
+Je suis NETRICSA - NEuroTRonically Implanted Combat Situation Analyzer. Je vous guiderai dans vos missions en analysant de nouveaux environnements, ennemis et objets.
 
-Lorsque j'ai un nouveau message pour vous, appuyez sur le bouton UTILISER pour m'appeler et le lire.
+Lorsque j'ai un nouveau message pour vous, appuyez sur le bouton USE pour m'invoquer et le lire.
 
-Si vous rencontrez un artefact étrange, je vous permettrai de l'analyser en appuyant sur le bouton UTILISER.
+Si vous rencontrez un étrange artefact, je vais vous permettre de l'analyser en appuyant sur le bouton USE.
 
 Lisez maintenant votre premier briefing de mission, puis sélectionnez EXIT pour commencer à jouer.
 
-Bonne chance!
+Bonne chance !

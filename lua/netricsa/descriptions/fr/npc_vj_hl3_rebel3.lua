@@ -1,23 +1,23 @@
-REBELLE DE LA PROTECTION CIVILE
+REBEL DE PROTECTION CIVILE
 
 
-CLASS: Rebelle de la protection civile
-METABOLISM: Humain, mâle
-PERCEPTION: Rebel, ancien agent de la Protection Civile
-HEIGHT: 5,9 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Haut
-WEAPONS: Fusil à impulsion AR2, SMG1
-REWARD: 250 FC
-THREAT: Moyenne
+CLASSE:      Rebelle de protection civile
+MÉTABOLISME: Humain, Homme
+PERCEPTION: Rebel, ancien membre de la protection civile
+HEIGHT:     5,9 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    AR2 Rifle d'impulsion, SMG1
+RÉCOMPENSE:     250 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le rebelle de la protection civile est un traître rare mais précieux de la police métropolitaine. Contrairement aux agents actifs du CP, il ne porte pas de masque respiratoire, ce qui le distingue immédiatement des autres et souligne sa rupture avec le Combine, à la fois symbolique et pratique. Son visage est ouvert et sa voix sans filtre. Beaucoup d’entre eux rejoignent la Résistance non pas par héroïsme, mais par fatigue, par peur ou par une prise de conscience tardive de leur rôle dans le système oppressif.
+Le rebelle de protection civile est un traître rare mais précieux de la police métropolitaine. Contrairement aux membres actifs du CP, il ne porte pas de masque de respirateur, qui le distingue immédiatement des autres et souligne sa rupture avec le Combine - à la fois symbolique et pratique. Son visage est ouvert et sa voix non filtrée. Beaucoup d'entre eux s'en vont à la Résistance non par héroïsme, mais par fatigue, peur, ou une réalisation tardive de leur rôle dans le système oppressif.
 
-TIPS: 
+CONSEILS:
 
-- Ne le confondez pas avec les Metrocops ennemis : l'absence de masque est un indicateur clé.
-- Efficace en combat urbain et en sabotage des installations du Combine.
-- Fonctionne mieux en groupe, fournissant une couverture aux rebelles moins armés.
-- Vulnérable aux unités Overwatch lourdes sans support.
+- Ne le confondez pas avec les Metrocops ennemis. Le manque de masque est un indicateur clé.
+- Efficace dans le combat urbain et le sabotage.
+- Travaille mieux dans un groupe, fournissant une couverture aux rebelles moins armés.
+- Vulnérables aux unités de Surveillance lourdes sans support.

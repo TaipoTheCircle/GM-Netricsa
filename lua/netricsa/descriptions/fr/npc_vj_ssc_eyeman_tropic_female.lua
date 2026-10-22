@@ -1,25 +1,25 @@
-GNAAR TROPICAL, FEMELLE
+GNAAR TROPIQUE, FEMME
 
 
-CLASS: Gnaar tropical, femelle
-METABOLISM: Mammifère
-PERCEPTION: Animal de guerre reproducteur dressé
-SIZE: 5 pieds
-ENDURANCE: Faible
-HOSTILITY: Faible
-WEAPONS: morsures, coups de poing
-REWARD: 400FC
-THREAT: Faible
+CLASSE:      Gnaar tropical, femelle
+MÉTABOLISME: Mammifère
+PERCEPTION: Animaux de guerre formés
+TAILLE:       5 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Faible
+ARMES:    morsures, coups de poing
+RÉCOMPENSE:     400 FC
+MENACE:     Faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un petit animal bipède sans tête, avec un œil et une grande bouche. Originaire de Sirius et entraîné par Mental pour attaquer les forces adverses. Les femelles sont de couleur bleue et jaune et sont plus grandes et plus fortes que les mâles.
+Un petit animal bipède sans tête, un œil et une grande bouche. Originaire de Sirius, et entraîné par Mental à attaquer les forces opposées. Les femelles sont de couleur bleue et jaune et sont plus grandes et plus fortes que les mâles.
 
-La variété tropicale est considérée comme l'une des branches les plus « primitives » de la lignée Gnaar : c'est à ce stade que leur développement génétique a essentiellement stagné. Ils n’ont pas dépassé les structures sociales les plus élémentaires et restent au niveau de petits clans, presque entièrement concentrés sur le combat.
+La variété tropicale est considérée comme l'une des branches les plus « primitives » de la lignée Gnaar-c'est à ce stade que leur développement reproducteur est essentiellement stagné. Ils n'ont pas dépassé les structures sociales les plus élémentaires et restent au niveau des petits clans, presque entièrement axés sur le combat.
 
-TIPS: 
+CONSEILS:
 
-- Ils n'ont pas d'armes de tir, restez simplement à l'écart.
+- Ils n'ont pas d'armes.
 - Certaines espèces peuvent léviter.
-- Des spécimens rares seraient invisibles.
-- La sous-espèce tropicale n'a pas évolué au-delà du stade précoce de reproduction, son comportement est donc primitif et facilement prévisible.
+- Des spécimens rares ont été signalés comme invisibles.
+- La sous-espèce tropicale n'a pas évolué au-delà du stade de reproduction précoce, de sorte que leur comportement est primitif et facilement prévisible.

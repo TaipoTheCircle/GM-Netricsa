@@ -1,39 +1,39 @@
-VASE PUR DES ABYSSES
+BATEAU DE PURE DE L'ABISSE
 
 
-CLASS: Récipient pur
-METABOLISM: Magique, vide
-PERCEPTION: Récipient parfait, insensé
-SIZE: 8,2 pieds
-ENDURANCE: Extrême
-HOSTILITY: Absolu
-WEAPONS: Clou, attaques d'ombre, lances du Vide
-REWARD: 1500FC
-THREAT: Absolu
+CLASSE:      Navire pur
+MÉTABOLISME: Magique, Vide
+PERCEPTION: Vaisseau parfait, sans esprit
+TAILLE:       8,2 pi
+ENDURANCE:  Extrême
+HOSTILITÉ:  Absolu
+ARMES:    Nail, Attaques d'ombre, Void Spears
+RÉCOMPENSE:     1500 FC
+MENACE:     Absolu
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Il s'agit de la version du Vaisseau (Hollow Knight) telle qu'elle était il y a de nombreuses années - à son apogée, avant la corruption, avant que Radiance ne commence à le corrompre de l'intérieur. C'est un spécimen « absolument pur », une coquille parfaite qui n'a jamais connu l'émotion ni le doute.
+C'est la version du Navire (Hollow Knight) comme il y a de nombreuses années - à son apogée, avant la corruption, avant que la Radiance commence à la corrompre de l'intérieur. C'est un spécimen « absolument pur », une coquille parfaite qui n'a jamais connu d'émotion ou de doute.
 
-Extérieurement, le Pure Vessel est étonnamment différent de son moi brisé et « adulte ». Il est plus grand, plus tonique et se déplace avec douceur, mais avec une grâce mécanique peu naturelle. Sa cape est intacte et flotte presque, et les mouvements de son Clou sont ultra-rapides.
+À l'extérieur, le Vaisseau Pur est remarquablement différent de son moi «adulte» brisé. Il est plus grand, plus tonique, et se déplace en douceur, mais avec une grâce contre nature et mécanique. Son manteau est intact et presque flottant, et les mouvements de ses ongles sont rapides.
 
-Le Pure Vessel démontre le plan original du Roi Pâle pour contenir le Radiance. Le Récipient devait devenir un corps « vide », dépourvu d'esprit, de voix et de volonté. Mais même le Vaisseau Pur montre des signes d'« impureté » au combat : il respire et ses mouvements, bien que rapides comme l'éclair, contiennent parfois des notes de rage à peine contenue.
+Le vaisseau Pure démontre le plan original du Roi Pale pour contenir la Radiance. Le vaisseau devait devenir un corps « vide », dépourvu d'esprit, de voix et de volonté. Mais même le vaisseau pur montre des signes d'"impureté" dans le combat - il respire, et ses mouvements, bien que la foudre-rapide, contiennent parfois des indices de rage à peine freiné.
 
-He is very fast and aggressive, and uses a variety of moves: 
+Il est très rapide et agressif, et utilise une variété de mouvements:
 
-Des tirets rapides avec un coup de clous. Il couvre près de la moitié de l’arène en une seconde.
+Des coups rapides avec une barre de ongles. Il couvre presque la moitié de l'arène en une seconde.
 
-Triples attaques tranchantes en combat rapproché.
+Des attaques triples en combat rapproché.
 
-Lancer des lances du Vide. Il crée des lances à partir du vide qui transpercent le sol et l'arène, puis libère une sphère (semblable à la sphère de Reaper) qui se dilate et détruit les plates-formes.
+Jetant des lances du Vide. Il crée des lances à partir du vide qui perce le sol et l'arène, puis libère une sphère (similaire à la sphère de Reaper) qui élargit et détruit les plates-formes.
 
-Ceiling attack: Il bondit vers le haut, puis enfonce son clou dans le sol, créant une onde de choc, ou plane et plonge sur l'adversaire.
+Ceiling attack: Il saute vers le haut, puis claque son clou dans le sol, créant une onde de choc, ou vole et plonge sur l'adversaire.
 
-Control: Il peut bloquer les attaques à une vitesse fulgurante et passer instantanément aux siennes.
+Control: Il peut bloquer les attaques à la vitesse de la foudre, en passant instantanément à la sienne.
 
-TIPS: 
+CONSEILS:
 
-- Ne pas paniquer. Ses attaques sont très rapides, mais prévisibles. Le plus dur est de s’habituer à la vitesse.
-- Spear attack: Lorsqu'il se fige dans les airs et que des faisceaux de lumière commencent à jaillir du sol, placez-vous simplement entre eux. L’attaque de sphère en expansion nécessite de la traverser.
-- Lorsqu'il bloque, il répondra presque toujours par une contre-attaque instantanée.
-- Il ne ressent aucune douleur et ne connaît aucune pitié. C'est l'arme parfaite.
+- Ne panique pas. Ses attaques sont très rapides, mais prévisibles. La partie la plus difficile est de s'habituer à la vitesse.
+- Attaque de lance : Quand il gèle au milieu de l'air et que les faisceaux de lumière commencent à éclater du sol, il suffit de se tenir entre eux. L'attaque de sphère en expansion nécessite de sauter à travers elle.
+- Quand il bloque, il répond presque toujours avec une contre-attaque instantanée.
+- Il ne ressent aucune douleur et ne connaît aucune miséricorde. C'est l'arme parfaite.

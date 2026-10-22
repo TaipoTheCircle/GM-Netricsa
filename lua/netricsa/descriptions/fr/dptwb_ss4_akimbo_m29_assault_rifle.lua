@@ -1,15 +1,15 @@
-FUSIL D'ASSAUT D'INFANTERIE M29
+RIFLE D'ASSAULTE D'INFANTRY M29
 
 
-ARME : Fusil d'assaut d'infanterie M29
-MUNITIONS : cartouches à fléchettes en tungstène de 5,56 mm.
-ROF : jusqu'à 600 tr/min.
+ARME: M29 Infantry Assault Rifle
+MUNITIONS:   des rondelles de tungstène-flechette de 5,56 mm.
+CADENCE DE TIR:    jusqu'à 600 RPM.
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Le fusil d'assaut standard d'EDF - une conception hybride robuste et produite en série utilisant un mécanisme à boulon rotatif fonctionnant au gaz. Équipé d'un canon allongé pour une portée étendue et d'un viseur réflexe pour une acquisition rapide de la cible. Le tir à la hanche produit une large diffusion ; viser vers le bas donne une grande précision.
+Le fusil d'assaut standard EDF - un modèle hybride robuste et produit en série au moyen d'un mécanisme à gaz rotatif. Installé avec un barillet allongé pour une portée étendue et une vue réflexe pour une acquisition de cible rapide. Hip-fire produit une large diffusion; la visée vers le bas donne une haute précision.
 
-REMARQUES :
+REMARQUES:
 
-- Faible recul, bonne précision à la visée - idéal pour les engagements moyens à longs. 
-- Un seul coup par pression, maintenir pour un tir continu ; ADS améliore considérablement le regroupement.
+- Faible recul, bonne précision en vue - idéal pour les engagements moyens à longs.
+- Un seul coup par presse, tenir pour un feu continu; ADS améliore grandement le regroupement.

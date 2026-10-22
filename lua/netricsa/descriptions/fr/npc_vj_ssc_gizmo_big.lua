@@ -1,25 +1,25 @@
-MARSH-HOPPER DE RIGIL KENTAURUS, ÉNORME
+MARSH-HOPPER DE RIGIL KENTAURUS, BIG
 
 
-CLASS: Marsh-Hopper de Rigil Kentaurus, grand
-METABOLISM: amphibien terrestre
-PERCEPTION: animal sauvage
-SIZE: 13 pieds (debout)
-ENDURANCE: aucun
-HOSTILITY: extrême
-WEAPONS: éclaboussure de boue toxique
-REWARD: 500FC
-THREAT: très faible
+CLASSE:      Marsh-Hopper de Rigil Kentaurus, Big
+MÉTABOLISME: amphibiens terrestres
+PERCEPTION: animaux sauvages
+TAILLE:       13 pieds (en attente)
+ENDURANCE:  aucune
+HOSTILITÉ:  extrême
+ARMES:    éclaboussures toxiques
+RÉCOMPENSE:     500 FC
+MENACE:     très faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un étrange organisme originaire des friches marécageuses du système de Rigil Kentaurus. Ils vivent en grands groupes et ont un instinct suicidaire pour protéger leur territoire. Dans un chaos dévastateur, tous les individus tentent de bondir sur l'intrus et d'exploser en se gonflant excessivement. Lors de l'explosion, la bave toxique contenue dans leurs intestins éclabousse la cible.
+Un étrange organisme issu de friches marécageuses du système de Rigil Kentaurus. Ils vivent en grands groupes et ont l'instinct suicidaire de protéger leur territoire. Dans les ravages dévastateurs, tous les individus essaient de sauter à l'intrus et d'exploser, en se gonfleant trop. Au moment de l'explosion, la boue toxique contenue dans leurs intestins éclabousse la cible.
 
-Mental, inspired by his successes in size manipulation, watched with glee as this tiny swamp creature transformed into a colossal beast. However, he overlooked a key flaw: la physiologie du sauteur n’avait pas évolué. Ses tissus restaient fragiles, ses organes internes vulnérables. C’était maintenant une goutte gigantesque, mais incroyablement fragile. Ses sauts étaient devenus encombrants et prévisibles, et son instinct suicidaire le faisait exploser au contact, ce qui en faisait une cible idéale. Mental n'avait pas encore réalisé qu'un seul coup de pistolet bien ciblé suffisait à abattre ce colosse.
+Mental, inspiré par ses succès dans la manipulation de la taille, a regardé avec joie cette petite créature marécageuse transformée en une bête colossale. Cependant, il a négligé un défaut clé: la physiologie du sauteur n'avait pas augmenté. Ses tissus restent fragiles, ses organes internes vulnérables. C'était maintenant un blob gigantesque, mais incroyablement timide. Ses sauts étaient devenus lourds et prévisibles, et son instinct suicidaire l'a fait exploser au contact, en faisant une cible parfaite. Mental n'avait pas encore réalisé qu'un seul coup de pistolet bien conçu était suffisant pour faire tomber ce colosse.
 
-TIPS: 
+CONSEILS:
 
-- Visez n'importe quelle partie du corps - les dommages seront critiques en raison de sa nature fragile.
-- Ne gaspillez pas d'armes lourdes dessus, c'est un gaspillage de munitions.
-- Une seule créature n'est pas dangereuse, mais il vaut mieux éviter une meute entière.
+- L'objectif de toute partie du dommage corporel sera critique en raison de sa nature fragile.
+Ne gaspillez pas d'armes lourdes, c'est un gaspillage de munitions.
+- Une seule créature n'est pas dangereuse, mais un paquet entier est mieux évité.
 - Tirez à distance.

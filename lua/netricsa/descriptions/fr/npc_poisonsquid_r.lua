@@ -1,22 +1,22 @@
-POISONSQUID FROM XEN
+POISONSQUID DE XEN
 
 
-CLASS: Mutant Bullsquid, Poison
-METABOLISM: Carnivore (mutation venimeuse)
-PERCEPTION: Prédateur terrestre de Xen
-SIZE: 7-8 pieds
-ENDURANCE: Moyen
-HOSTILITY: Extrême
-WEAPONS: Crachat de venin corrosif, griffes venimeuses, fouet de queue
-REWARD:     450 FC
-THREAT: Haut
+CLASSE:      Mutant de calmars, Poison
+MÉTABOLISME: Carnivore (mutation veineuse)
+PERCEPTION: Prédateur de terrain de Xen
+TAILLE:       7-8 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Extrême
+ARMES:    Crache de venin corrosif, griffes toxiques, cils de queue
+RÉCOMPENSE:     450 FC
+MENACE:     Haut
 
 DESCRIPTION:
 
-Le Poisonsquid sécrète un venin violet hautement toxique, qui corrode les armures et empoisonne la chair. Un seul coup peut laisser une proie paralysée et mourir lentement. Leurs repaires sont jonchés de cadavres en décomposition.
+Le Poisonsquid sécrète le venin violet hautement toxique, qui corrode l'armure et empoisonne la chair. Une seule frappe peut laisser la proie paralysée et mourir lentement. Leurs tanières sont jonchées de cadavres pourris.
 
-TIPS:
+CONSEILS:
 
-- Utiliser des antidotes ou un équipement antitoxine avant l'engagement.
-- Le combat à longue distance évite les projections de venin.
-- Le feu ou les explosifs constituent le moyen le plus rapide de les neutraliser.
+- Utilisez des antidotes ou des engins antitoxine avant l'engagement.
+- Un combat à longue portée évite le venin.
+- Le feu ou les explosifs sont le moyen le plus rapide de les neutraliser.

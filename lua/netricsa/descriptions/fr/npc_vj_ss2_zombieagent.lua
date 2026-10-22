@@ -1,27 +1,27 @@
-COURTIER ZOMBIE
+ZOMBIE STOCKBROKER
 
 
-CLASS: Agent de change zombie
-METABOLISM: Mort-vivant
-PERCEPTION: Soldat zombie
-SIZE: 6 pieds
-ENDURANCE: Faible
-HOSTILITY: Moyen
-WEAPONS: Fusil à pompe
-REWARD: 50 FC
-THREAT: Moyen
+CLASSE:      Stockbroker Zombie
+MÉTABOLISME: Morts
+PERCEPTION: Zombie Soldat
+TAILLE:       6 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Moyenne
+ARMES:    Fusil à pompe
+RÉCOMPENSE:     50 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Il s'agit d'une unité spéciale du ministère mental des Finances. Ils parcourent les mondes conquis, cherchant à « faire des affaires » avec les hommes d'affaires locaux. Et par « faire des affaires », j'entends voler de l'argent ou tirer au visage d'un homme d'affaires, puis le voler.
+Il s'agit d'une unité spéciale du Ministère des finances mentales. Ils errent dans des mondes conquis, cherchant à "faire des affaires" avec des hommes d'affaires locaux. Et par "faire des affaires", je veux dire voler de l'argent ou tirer sur un homme d'affaires en face et ensuite le voler.
 
-Dans un humour cruel, des hommes d'affaires tués par des courtiers zombies reviennent à la vie et deviennent eux-mêmes des courtiers zombies.
+Dans une cruelle humour, les hommes d'affaires tués par Zombie Brokers reviennent à la vie et deviennent Zombie Stockbrokers eux-mêmes.
 
-Comme on peut s'y attendre d'un cadavre ambulant, ils se déplacent plutôt lentement et sont fragiles. Quelques balles les feront tomber. Cependant, leurs fusils de chasse ne sont pas une blague. Quelques tirs à bout portant et vous appartiendrez au passé.
+Comme on s'y attendait d'un cadavre marchant, ils bougent assez lentement et sont fragiles. Quelques balles les feront tomber. Cependant, leurs fusils ne sont pas une blague. Quelques tirs à portée de main, et vous serez l'histoire.
 
-TIPS: 
+CONSEILS:
 
-- Les armes infligeant des dégâts de zone détruisent facilement des groupes entiers d'ennemis.
-- Si vous êtes à proximité, cachez-vous derrière les murs et utilisez des grenades à ricochet pour les éliminer.
-- Bien sûr, gardez vos distances. Vous avez déjà vu ce que votre fusil de chasse peut faire en combat rapproché.
+- Les armes à effet de serre détruisent facilement des groupes entiers d'ennemis.
+- Si vous êtes près, cachez-vous derrière les murs et utilisez des grenades ricochet pour les enlever.
+- Bien sûr, gardez vos distances. Vous avez déjà vu ce que votre fusil peut faire au combat.
 - Il a la capacité de se régénérer.

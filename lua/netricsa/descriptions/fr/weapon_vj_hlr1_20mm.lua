@@ -1,16 +1,16 @@
-CANON 20MM
+20MM CANNON
 
 
-WEAPON: Canon de 20 mm (canon automatique monté)
-AMMO: Obus à haute vitesse de 20x102 mm
-ROF: ~450 tours/min
+ARME:      Cannon de 20 mm (autocannon monté)
+MUNITIONS:        coques à grande vitesse de 20x102mm
+CADENCE DE TIR:         ~450 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Canon automatique stationnaire lourd. Tire des obus explosifs de 20 mm à grande vitesse, déchiquetant l'infanterie et les blindés légers avec une efficacité dévastatrice. Conçu pour le déni de zone et la suppression défensive.
+Autocannon stationnaire lourd. Incendie des obus explosifs de 20 mm à grande vitesse, déchiquetant l'infanterie et l'armure légère avec une efficacité dévastatrice. Conçu pour le déni de zone et la répression défensive.
 
-NOTES: 
+REMARQUES:
 
 - Puissance de feu extrême, très efficace contre les groupes.
 - L'emplacement fixe limite la mobilité.
-- Surchauffe en cas d'utilisation prolongée, nécessitant de courtes rafales.
+- Surchauffe avec utilisation prolongée, nécessitant de courtes rafales.

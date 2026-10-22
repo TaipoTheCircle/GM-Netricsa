@@ -1,24 +1,24 @@
-MANITEUR DE POULAIN DÉCAPÉ
+MÉTHODES DE COLT
 
 
-CLASS: Gestionnaire de poulain décapité
-METABOLISM: cyber-zombie
+CLASSE:      Colt Handler décapité
+MÉTABOLISME: cyber-zombie
 PERCEPTION: insensible, contrôlé par LCU
-SIZE: 6 pieds
-ENDURANCE: moyen
-HOSTILITY: haut
-WEAPONS: poulain (TMAR)
-REWARD: 210 FC
-THREAT: moyen
+TAILLE:       6 pieds
+ENDURANCE:  moyenne
+HOSTILITÉ:  élevé
+ARMES:    colt (TMAR)
+RÉCOMPENSE:     210 FC
+MENACE:     moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un soldat sirien exécuté, ressuscité des morts par Mental et télécommandé par Life Control Unit (LCU).
+Un soldat sirien exécuté, ressuscité d'entre les morts par Mental et télécommandé par l'Unité de contrôle de la vie.
 
-Le gestionnaire du Colt porte sa propre tête dans une main pour recevoir des informations audiovisuelles, en utilisant le Colt (TMAR) comme arme principale.
+Le gestionnaire Colt porte sa propre tête dans une main pour recevoir des informations audio / visuelles, en utilisant le Colt (TMAR) comme arme principale.
 
-TIPS: 
+CONSEILS:
 
 - Aucun problème connu.
-- Efficace à longue portée.
-- Ne pas utiliser de projectiles, dégâts instantanés.
+- Efficace à long terme.
+- Ne pas utiliser de projectiles, dommages instantanés.

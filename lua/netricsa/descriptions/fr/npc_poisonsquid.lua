@@ -1,21 +1,21 @@
 TOXIQUEQUIDE
 
 
-CLASS: Mutant Bullsquid, Acide
-METABOLISM: Omnivore (digestion acide)
-PERCEPTION: Prédateur terrestre de Xen
-SIZE: 8 pieds
-ENDURANCE: Haut
-HOSTILITY: Très élevé
-WEAPONS: Nuages ​​biliaires acides, morsure corrosive, fracas de queue
-REWARD: 550 FC
-THREAT: Très élevé
+CLASSE:      Mutant de calmars, acide
+MÉTABOLISME: Omnivore (digestion acide)
+PERCEPTION: Prédateur de terrain de Xen
+TAILLE:       8 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Très élevé
+ARMES:    Nuages biliaires acides, morsure corrosive, écrasement de la queue
+RÉCOMPENSE:     550 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Toxicsquid émet des nuages ​​​​acides verts qui persistent dans l'air, étouffant et brûlant toute personne à l'intérieur. Sa salive fond à travers l'acier et sa peau épaisse résiste à la plupart des balles conventionnelles.
+Le Toxicsquid émet des nuages acides verts qui s'attardent dans l'air, étouffant et brûlant n'importe qui à l'intérieur. Sa salive fond à travers l'acier, et sa peau épaisse résiste à la plupart des balles conventionnelles.
 
-TIPS: 
+CONSEILS:
 
-- Masques à gaz ou combinaisons de protection recommandées.
-- Il est préférable d'utiliser des explosifs pour éviter les combats rapprochés.
+- Masques à gaz ou combinaisons de hazmat recommandées.
+- Les explosifs sont mieux pour éviter les combats rapprochés.

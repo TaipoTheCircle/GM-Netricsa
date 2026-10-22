@@ -1,20 +1,20 @@
-UN VILLAGE COOL, DES SECRETS AU SOUS-SOL
+UN VILLAGE DE COOL, DES SECRETS DE BASE
 
 
-Sam, à en juger par le nom, nous nous sommes retrouvés dans un village que les locaux ont surnommé « Cool », soit par ironie, soit par défi.
+Sam, à en juger par le nom, nous avons fini dans un village que les habitants ont surnommé "Cool", soit ironiquement ou avec défi.
 
-But the coolness here is unique: soit ils tournaient un rap de village, soit c'était un terrain d'essai expérimental pour croiser des mouches avec des fourmilions.
+But the coolness here is unique: soit ils filmaient un rap de village, soit c'était un terrain expérimental pour traverser des mouches avec des fourmis.
 
-Il n'y a presque aucune information provenant des canaux officiels, mais le bouche à oreille prospère.
+Il n'y a presque aucune information des canaux officiels, mais le bouche à oreille prospère.
 
-Word of mouth is more reliable than any documentation. They say that in this village: 
+Le bouche à oreille est plus fiable que toute documentation. On dit que dans ce village :
 
-Les sous-sols ne sont pas pour les pommes de terre. Les habitants disent que quelqu'un garde les zombies dans les sous-sols sombres et humides. Soit pour des raisons de sécurité, soit comme animaux de compagnie, soit simplement parce que l'arrière-pays russe est ennuyeux sans zombies. Si vous entendez un sifflement distinctif provenant du sous-sol, n'y descendez pas sans un fusil de chasse.
+Les sous-sols ne sont pas pour les pommes de terre. Les locaux disent que quelqu'un garde les zombies dans les sous-sols sombres et humides. Soit pour la sécurité, soit comme animaux de compagnie, soit simplement parce que l'arrière-pays russe est ennuyeux sans zombies. Si vous entendez un bruit sifflant distinctif du sous-sol, ne descendez pas sans fusil.
 
-Les toilettes en bois sont une zone d'exclusion. Une mutation s'est produite dans les toilettes. Les mouches ordinaires qui ont toujours été abondantes ici se sont transformées en fourmilions.
+La Toilette en bois est une zone d'exclusion. Une mutation s'est produite dans les toilettes. Les mouches ordinaires qui étaient toujours abondantes ici se sont transformées en fourmi.
 
-Imagine: vous allez aux toilettes et une créature avec des mandibules fond sur vous depuis son trou. Les locaux y sont probablement habitués désormais et utilisent des seaux dans leurs jardins.
+Imagine: tu vas aux toilettes, et une créature avec des mandibules t'échappe de son trou. Les habitants y sont probablement habitués et utilisent des seaux dans leurs jardins.
 
-The houses are excellent shelters, but entering them is risky: il y a des zombies dans les sous-sols et des monstres dans les toilettes. La meilleure tactique consiste à s’en tenir aux espaces ouverts et à ne pas regarder par les fenêtres. Et n'utilise jamais, Sam, les toilettes locales. Même si c’est vraiment nécessaire. Attendez d'atteindre la forêt.
+Les maisons sont d'excellents abris, mais leur entrée est risquée: il y a des zombies dans les sous-sols, et des monstres dans les toilettes. La meilleure tactique est de s'en tenir aux espaces ouverts et de ne pas regarder dans les fenêtres. Et jamais, Sam, ne jamais utiliser les toilettes locales. Même si tu en as vraiment besoin. Attendez que vous atteigniez la forêt.
 
-Allons-y, jetons un oeil. Ne reniflez pas.
+Allons voir. Mais ne reniflez pas.

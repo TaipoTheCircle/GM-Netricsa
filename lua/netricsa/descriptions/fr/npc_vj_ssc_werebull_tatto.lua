@@ -1,23 +1,23 @@
-SIRIAN TATTO WEREBULL
+TATTO SÉRIEN
 
 
-CLASS: Tatouage Sirien Taureau-Garou
-PERCEPTION: Bête de trait domestiquée
-METABOLISM: Mammifère
-SIZE: 9 pieds
-ENDURANCE: Faible
-HOSTILITY: Moyenne
-WEAPONS: Cornes, regard intimidant
-REWARD:     2500 FC
-THREAT: Moyenne
+CLASSE:      Sirian Tatto Werebull
+PERCEPTION: Projet de Bête Domestique
+MÉTABOLISME: Mammifère
+TAILLE:       9 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Moyenne
+ARMES:    Cornes, regard intimidant
+RÉCOMPENSE:     2500 FC
+MENACE:     Moyenne
 
 DESCRIPTION:
 
-A genetic hybrid of a Sirian and a bovine species. The Werebull's behavior is similar to that of a normal bull: il charge à toute vitesse, dans le but d'encorner son adversaire.
+Un hybride génétique d'une espèce de Sirian et d'une espèce bovine. Le comportement de Werebull est similaire à celui d'un taureau normal : il se charge à pleine vitesse, visant à gore son adversaire.
 
-The Sirian Werebull Tatto is a standard Sirian werebull, but with a bit of artistic flair: les tribus primitives Gnaar ont peint un serpent jaune avec d'énormes rayures rouges sur ses flancs, afin que les adversaires comprennent qu'il est à la fois sérieux et brutal.
+Le Sirian Werebull Tatto est un standard sirian warebull, mais avec un peu de flair artistique: les tribus Primitive Gnaar peint un serpent jaune avec d'énormes rayures rouges sur ses flancs, afin que les adversaires comprennent que c'est à la fois sérieux et brutal.
 
-TIPS:
+CONSEILS:
 
-- Sortez du champ de vision de l'attaque.
-- Si tu le vois renifler les buissons, il cherche probablement l'inspiration pour son prochain tatouage.
+- Sortez de la ligne de vue de l'attaque.
+- Si vous le voyez renifler les buissons, il est probablement à la recherche d'inspiration pour son prochain tatto.

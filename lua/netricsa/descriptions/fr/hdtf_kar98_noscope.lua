@@ -1,18 +1,18 @@
-FUSIL SW-022 KAR98K
+RISQUE DE KAR98K
 
 
-WEAPON: SW-022 Kar98k (Snow Wolf) - réplique de tireur d'élite à ressort à verrou
-AMMO: Billes de 6 mm
-ROF: Coup unique
-WEIGHT: 3,3kg
-LENGTH: 1100 millimètres
+ARME: SW-022 Kar98k (Snow Wolf) - réplique de sniper à ressort à action de boulon
+MUNITIONS:   6 mm BB
+CADENCE DE TIR:    Cap unique 
+POIDS: 3,3 kg 
+LENGTH: 1100 mm
 
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un Mauser Kar98k réaliste, proposé en bois véritable ou en ABS avec des extérieurs en métal. Le verrou à ressort (armement pneumatique) nécessite un armement manuel avant chaque tir. Un hop-up réglable sous la hausse améliore la précision et permet de régler les BB plus lourds.
+Un mauser Kar98k réaliste, offert en bois réel ou en ABS avec des extérieurs métalliques. L'action du boulon à ressort (aération) nécessite un cocking manuel avant chaque tir. Un saut réglable sous la vue arrière améliore la précision et permet un réglage pour les BB plus lourds.
 
-NOTES: 
+REMARQUES:
 
-- Bon équilibre entre authenticité et convivialité en escarmouche - populaire pour la reconstitution de la Seconde Guerre mondiale, le cosplay et le tir à petit budget.
-- Le hop-up réglable prend en charge les BB de 0,25 à 0,30 g pour de meilleures performances à longue portée.
+- Bon équilibre entre authenticité et facilité d'utilisation - populaire pour la reconstitution, le cosplay et le bricolage budgétaire.
+- Supports de saut réglables 0,25-0,30-g BBs pour une meilleure performance à longue portée.

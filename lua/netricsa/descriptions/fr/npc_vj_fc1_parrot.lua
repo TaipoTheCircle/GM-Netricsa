@@ -1,20 +1,20 @@
-RED-CUT MACAW FROM THE KRIEGER ARCHIPELAGO
+ROUGE DE L'ARCHIPELAGO KRIEGER
 
 
-CLASS: Ara coupé en rouge
-METABOLISM: Oiseau
-PERCEPTION: Perroquet rouge
-SIZE: ~ 3 pieds (y compris la queue)
-ENDURANCE: Très faible
-HOSTILITY: Aucun
-WEAPON: Bec
-REWARD:     10 FC
-THREAT: Zéro
+CLASSE:      Macaw rouge
+MÉTABOLISME: Oiseaux
+PERCEPTION: Parroquet rouge
+TAILLE:       ~3 pi (y compris la queue)
+ENDURANCE:  Très faible
+HOSTILITÉ:  Aucune
+ARME:     Bec
+RÉCOMPENSE:     10 FC
+MENACE:     Zéro
 
 DESCRIPTION:
 
-Oiseau tropical aux couleurs vives originaire des jungles de l’archipel, l’ara rouge est un oiseau inoffensif et ne représentant aucune menace. On le voit souvent voler haut dans le ciel. Le perroquet n'attaque pas et n'interagit pas avec d'autres ennemis, faisant partie de l'environnement pour créer une atmosphère.
+Oiseau tropical aux couleurs vives, originaire des jungles de l'archipel, le Red-Cut Macaw est un oiseau inoffensif, sans danger. On le voit souvent voler haut dans le ciel. Le perroquet n'attaque ni n'interagit avec d'autres ennemis, faisant partie de l'environnement pour créer de l'atmosphère.
 
-TIPS:
+CONSEILS:
 
-- Pas un ennemi. Il n’y a ni besoin ni avantage à l’attaquer.
+- Pas un ennemi. Il n'y a pas besoin ou avantage à l'attaquer.

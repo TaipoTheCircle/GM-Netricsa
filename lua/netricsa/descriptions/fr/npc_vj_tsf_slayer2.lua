@@ -1,28 +1,28 @@
-SLAYER, VARIANTE URBAINE DE L'ÎLE CARNATE
+SLAYER, URBAIN VARIANT DE L'ÎLE CARNÉE
 
 
-CLASS:      Slayer Of Carnate Island, Urban Variant
-METABOLISM: Supernatural
-PERCEPTION: Malefactor / Horror Entity
-SIZE:       ~6 ft
-ENDURANCE:  High
-HOSTILITY:  Extreme
-WEAPONS:    Blade Limbs (Arms And Legs Are Long, Sharp Blades)
-REWARD:     1000 FC
-MENACE : Très élevée
+CLASSE:      Tueuse de l'île Carnate, variante urbaine
+MÉTABOLISME: Surnaturel
+PERCEPTION: Mâle-facteur / entité horror
+TAILLE:       6 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Extrême
+ARMES:    Membres des lames (les bras et les jambes sont longs, les lames pointues)
+RÉCOMPENSE:     1000 FC
+MENACE:     Très élevé
 
-DESCRIPTIF :
+DESCRIPTION:
 
-The Slayer is one of the most iconic and terrifying enemies on the island. Created as a representation of execution by beheading, its body is gruesomely melded: its head is detached and held above its body by flesh and steel apparati, while its limbs have transformed into long, lethal blades. 
+La Tueuse est l'un des ennemis les plus emblématiques et terrifiants de l'île. Créée en tant que représentation de l'exécution par décapitation, son corps est épouvantablement mêlé : sa tête est détachée et maintenue au-dessus de son corps par la chair et l'acier, tandis que ses membres se sont transformés en longues lames mortelles.
 
-Slayers move with unnatural agility, able to skulk along walls and ceilings, drop down on victims, or slash at them from "above". They are often heard before seen - their blade-limbs scrape and whisper, giving away their approach.
+Les tueuses se déplacent avec une agilité anti-naturelle, capables de s'écraser le long des murs et des plafonds, de tomber sur les victimes ou de les abattre de « plus haut ». Ils sont souvent entendus avant d'être vus - leurs lames grattent et murmurent, donnant leur approche.
 
-This is the most numerous type of monster discovered to date.
+C'est le type de monstre le plus nombreux découvert à ce jour.
 
-Its body resembles that of a human, but its arms and legs are long, sharp blades, and some kind of metal device stands in the place of a head. Simply put, a Slayer resembles those criminals who roam the streets with knives in hand, only these knives are much longer and sharper.
+Son corps ressemble à celui d'un humain, mais ses bras et ses jambes sont de longues lames pointues, et une sorte de dispositif métallique se tient à la place d'une tête. Simplement, une Tueuse ressemble à ces criminels qui errent dans les rues avec des couteaux à la main, seuls ces couteaux sont beaucoup plus longs et plus tranchants.
 
-TIPS:
+CONSEILS:
 
-- Always aim to destroy the head—without it, Slayers become less vigilant.
-- Keep moving - standing still invites their ambush.
-- Listen carefully—their blades on the walls and ceilings often warn you before striking.
+- Toujours viser à détruire la tête — sans elle, les Tueuses deviennent moins vigilantes.
+- Continuez à bouger - debout invite toujours leur embuscade.
+- Écoutez attentivement – leurs lames sur les murs et les plafonds vous avertissent souvent avant de frapper.

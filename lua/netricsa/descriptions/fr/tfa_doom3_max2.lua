@@ -1,18 +1,18 @@
-MITRAILLEUSE MACH 2
+MACHET 2 MACHINE
 
 
-ARME : Mitrailleuse Mach 2
-MUNITIONS : 7,62x51mm
-RR : ~900 tours/min
+ARME: Mach 2 mitrailleuse
+MUNITIONS:   7,62x51mm
+RR:     ~900 tours/min
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Une mitrailleuse puissante à tir rapide conçue pour un tir automatique intense. Sa cadence de tir élevée lui permet d'engager rapidement plusieurs cibles et de supprimer efficacement les ennemis à courte et moyenne portée.
+Une puissante mitrailleuse à feu rapide conçue pour un feu automatique lourd. Son taux élevé de feu lui permet d'engager rapidement plusieurs cibles et de supprimer efficacement les ennemis à proximité de gammes moyennes.
 
-La mitrailleuse utilise un chargeur en forme de boîte et possède une cadence de tir élevée. Son principal inconvénient est sa consommation rapide de munitions, ce qui signifie que la réserve de munitions s'épuise rapidement lors de tirs prolongés.
+La mitrailleuse utilise un magazine de boîtes et a un taux élevé de feu. Son principal inconvénient est sa consommation rapide de munitions, ce qui signifie que l'approvisionnement en munitions s'épuise rapidement lors de tirs prolongés.
 
-REMARQUES :
+REMARQUES:
 
-- Cadence de tir très élevée.
+- Très fort.
 - Particulièrement efficace contre plusieurs cibles simultanément.
-- Consomme rapidement des munitions lors de tirs continus.
+- Consomme rapidement des munitions pendant les tirs continus.

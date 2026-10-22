@@ -1,32 +1,32 @@
-SPECTACLE DEMI-SÉMEMENT, ÉGOUTS MAISON
+HALF-QUAKE SHOW, HOUSE SEWER
 
 
 Les procès sont terminés.
 
-Pas parce que la série a décidé de nous laisser partir : les décors étaient tout simplement épuisés.
+Pas parce que le spectacle a décidé de nous laisser aller-les décors tout simplement épuisé.
 
-Vous êtes tombé dans les égouts. Pas de public, pas d'annonceur, pas d'applaudissements. L'odeur de l'humidité, des vieilles canalisations et des mauvaises décisions des autres. Ce n'est plus une scène. Ce sont les coulisses d’un monde où personne ne fait semblant.
+Vous êtes tombé dans les égouts. Pas de public, pas d'annonceur, pas d'applaudissements. L'odeur de l'humidité, les vieux tuyaux, et les mauvaises décisions des autres. Ce n'est plus une scène. C'est les coulisses d'un monde où personne ne prétend.
 
-Nous nous sommes échappés. Mais nous n’avons pas gagné et nous n’avons pas gâché le spectacle. Nous sommes simplement partis, glissés entre les scripts, comme une erreur de diffusion que personne n'avait le temps de supprimer.
+Nous nous sommes échappés. Mais nous n'avons pas gagné, et nous n'avons pas ruiné le spectacle. Nous sommes simplement partis, glissés entre les scripts, comme une erreur de diffusion personne n'a eu le temps de modifier.
 
-A scan of the surroundings reveals an interesting detail: l'égout passe sous une maison. La maison de quelqu'un. À en juger par la structure, les affaires et le nombre d'objets étranges, ceux d'un artiste.
+A scan of the surroundings reveals an interesting detail: les égouts passent sous une maison. La maison de quelqu'un. A en juger par la structure, les biens, et le nombre d'objets étranges-un artiste.
 
-Quelque part au-dessus se trouvent les salons, les escaliers, les portes. Et surtout une sortie. Pas la porte d’entrée, bien sûr. Au contraire, celui dont le propriétaire préfère ne pas se souvenir.
+Au-dessus se trouvent les salons, les escaliers, les portes. Et surtout, une sortie. Pas la porte d'entrée. Au contraire, le propriétaire préfère ne pas se souvenir.
 
-The task is clear and finally human: 
+The task is clear and finally human:
 
 Entrez dans la maison,
 
-Ne restez pas coincé dans l'art de quelqu'un d'autre,
+Ne sois pas coincé dans l'art de quelqu'un d'autre,
 
-Trouvez une issue.
+Trouve une sortie.
 
-Aucun test.
+Pas de test.
 
 Pas de boutons.
 
-Pas d'applaudissements.
+Aucun applaudissement.
 
-Évadez-vous, Sam.
+Laisse tomber, Sam.
 
-Et c’est parfois la partie la plus agréable du voyage.
+Et parfois c'est la partie la plus agréable du voyage.

@@ -1,14 +1,14 @@
-MESA NOIRE, CANYONS
+MESA BLACK, CANYONS
 
 
-S'échapper à la surface ne signifiait pas liberté - cela signifiait entrer directement dans H.E.C.U. territoire. Le canyon du désert qui se trouve devant a été fortifié pour devenir une zone de destruction, avec des bunkers, des sacs de sable et des canons montés transformant les formations rocheuses naturelles en un champ de bataille improvisé.
+Échapper à la surface ne signifiait pas la liberté - cela signifiait marcher directement dans le territoire de l'U.S.E. Le canyon désertique devant lui a été fortifié en zone de destruction, avec des bunkers, des sacs de sable et des canons montés transformant les formations rocheuses naturelles en champ de bataille improvisé.
 
-Intel confirms a disturbing trend: le quatrième Apache n’était pas la fin. Un autre hélicoptère de combat arrive, minutes ETA. Ils ne s'arrêteront pas tant que tout ce secteur ne sera pas réduit en ruines.
+Intel confirms a disturbing trend: le quatrième Apache n'était pas la fin. Un autre vaisseau est à l'arrivée. Ils ne s'arrêteront pas avant que tout ce secteur soit réduit en décombres.
 
-Situational overview: 
+Situational overview:
 
-Terrain: fond de canyon ouvert avec une couverture limitée, entouré de falaises abruptes. Les mouvements sont prévisibles, ce qui fait de vous une cible facile pour les mitrailleuses et les roquettes.
+Terrain: plancher de canyon ouvert avec couverture limitée, entouré de falaises. Le mouvement est prévisible, ce qui fait de vous une cible facile pour les mitrailleuses et les roquettes.
 
-Forces: plusieurs escouades de H.E.C.U. retranchés avec des tourelles et des charges explosives pré-placées le long des parois du canyon.
+Forces: plusieurs escouades de H.E.C.U. enchaînées avec tourelles et charges explosives pré-placées le long des murs du canyon.
 
-Air threat: un deuxième Apache entrant. Celui-ci se coordonnera probablement avec les troupes terrestres pour une suppression maximale.
+Air threat: un deuxième Apache entrant. Celle-ci sera probablement coordonnée avec les troupes au sol pour une suppression maximale.

@@ -1,22 +1,22 @@
-ZOMBIE BÊTA DU MONDE MINECRAFT
+BETA ZOMBIE DE L'EXPLOITATION MINECRAFT
 
 
-CLASS: Zombie bêta
-METABOLISM: Mort-vivant
+CLASSE:      Bêta Zombie
+MÉTABOLISME: Morts
 PERCEPTION: Humanoïde hostile
-SIZE: 6,2 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Haut
-WEAPONALS: Les mains, l'entêtement et l'équipement de quelqu'un d'autre
-REWARD: 800 FC
-THREAT: Moyenne
+TAILLE:       6,2 pi
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+WEAPONALS:  Mains, entêtement et équipement de quelqu'un d'autre
+RÉCOMPENSE:     800 FC
+MENACE:     Moyenne
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les Beta Zombies sont d'anciens humains du monde Minecraft qui ont décidé un jour de ne pas s'endormir et l'ont profondément regretté. Lents, persistants et étonnamment déterminés, ils errent la nuit à la recherche de tout être vivant capable encore de penser.
+Beta Zombies sont d'anciens humains du monde Minecraft qui ont décidé une fois de ne pas dormir et l'ont profondément regretté. Lents, persistants et étonnamment déterminés, ils errent la nuit à la recherche de toute chose vivante qui peut encore penser.
 
-Les Beta Zombies manquent d’intelligence, mais ils compensent par leur nombre. Ils peuvent ramasser des objets, porter des armures et avoir parfois l'air d'avoir simplement cambriolé l'entrepôt d'un aventurier. Ils s’illuminent lorsqu’ils sont exposés au soleil, ce qui les amène cependant rarement à reconsidérer leurs priorités dans la vie.
+Beta Zombies manque d'intelligence, mais ils compensent en nombres. Ils peuvent ramasser des objets, porter des armures, et parfois on dirait qu'ils ont volé l'entrepôt d'un aventurier. Ils s'allument lorsqu'ils sont exposés à la lumière du soleil, ce qui, cependant, les fait rarement reconsidérer leurs priorités dans la vie.
 
-TIPS: 
+CONSEILS:
 
-- Le soleil est votre liberté - utilisez la matinée à bon escient.
+- Le soleil est votre libre - utilisez le matin avec sagesse.

@@ -1,7 +1,7 @@
-CHANTIER AÉRO, UN LIEU VIBE
+SITE AÉRO CONSTRUCTE, UN LIEU VIBE
 
-Sam, apparemment, quelqu'un a pris un bon vieux chantier et a décidé qu'il manquait... de l'ambiance.
+Sam, apparemment quelqu'un a pris un bon vieux chantier et a décidé qu'il manquait... vibe.
 
-Il y a une piscine ici. Car tout complexe qui se respecte devrait avoir un endroit pour se détendre après une nouvelle résonance en cascade. L'eau est apparemment présente.
+Il y a une piscine ici. Parce que tout complexe qui se respecte devrait avoir un endroit pour se détendre après une autre résonance en cascade. L'eau, apparemment, est présente.
 
-Et la musique. Une bande sonore joue constamment dans tout le parc. La source du son est une télévision dans une pièce secrète. Si vous voulez le silence, vous devrez trouver ce téléviseur et l'éteindre manuellement.
+Et de la musique. Une bande son joue constamment dans tout le terrain. La source du son est une télévision dans une salle secrète. Si vous voulez le silence, vous devrez trouver cette TV et l'éteindre manuellement.

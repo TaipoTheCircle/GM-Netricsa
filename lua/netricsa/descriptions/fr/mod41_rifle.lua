@@ -1,17 +1,17 @@
-ZASTAVA MOD-49 SUBMACHINE GUN
+MOD-49 DE ZASTAVA
 
 
-ARME : Zastava Mod-49 Submachine Gun
-MUNITIONS : 7.62x25mm TT
-ROF : ~750 rounds / min
+ARME: Zastava Mod-49 Sous-machine Gun
+MUNITIONS:   7.62x25mm TT
+CADENCE DE TIR:    ~750 tours/min
 
-DESCRIPTIF :
+DESCRIPTION:
 
-A Yugoslav submachine gun developed by Zastava for the Yugoslav People's Army. Externally, the Mod-49 resembles the Soviet PPSh, but has its own design with a cylindrical, machined receiver and a blowback action.
+Une mitrailleuse yougoslave développée par Zastava pour l'Armée populaire yougoslave. Extérieurement, le Mod-49 ressemble au PSh soviétique, mais a sa propre conception avec un récepteur cylindrique usiné et une action de rappel.
 
-The weapon is capable of single-shot and automatic fire. It uses 35-round box magazines or 71-round drum magazines. The wooden stock and massive construction make the Mod-49 quite heavy, but it is sturdy and solid.
+L'arme est capable d'un seul tir et d'un tir automatique. Il utilise des magazines de 35 tours ou 71 tours de tambour. Le matériel en bois et la construction massive rendent le Mod-49 assez lourd, mais il est robuste et solide.
 
-REMARQUES :
+REMARQUES:
 
-- It looks like the PPSh, but has completely different mechanics inside.
-- It's heavy, but well suited for dense automatic fire.
+- On dirait le PPSh, mais il a une mécanique complètement différente.
+- C'est lourd, mais bien adapté pour un feu automatique dense.

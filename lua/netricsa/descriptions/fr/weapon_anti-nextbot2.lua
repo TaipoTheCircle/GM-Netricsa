@@ -1,19 +1,19 @@
-LASER ANTI-NEXTBOT V2
+ANTI-NEXTBOT LASER V2
 
 
-WEAPON: Laser anti-Nextbot V2
-AMMO: Énergie pulsée
-ROF: Faisceau continu
+ARME: Laser V2 anti-bot suivant
+MUNITIONS:   Énergie pulsée
+CADENCE DE TIR:    Faisceau continu
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Une version radicalement repensée de la V1, abandonnant la sélectivité au profit de la destruction absolue. L'arme génère un faisceau violet stable qui non seulement inflige des dégâts, mais efface complètement tout ce avec quoi elle entre en contact.
+Une version radicalement repensée du V1, abandonnant la sélectivité en faveur de la destruction absolue. L'arme génère un faisceau violet stable qui ne se contente pas de causer des dommages, mais oblitère complètement tout ce qu'elle entre en contact avec.
 
-Unlike the previous model, this one has no modes-the beam operates on a single principle: éliminez la cible de l'existence, qu'il s'agisse d'un Nextbot, d'un accessoire ou de tout autre objet. Il est utilisé dans les situations où les méthodes conventionnelles échouent ou où la cible doit être éliminée sans laisser de trace.
+Contrairement au modèle précédent, celui-ci n'a aucun mode - le faisceau fonctionne sur un seul principe: éliminer la cible de l'existence, que ce soit un Nextbot, un prop, ou tout autre objet. Il est utilisé dans les situations où les méthodes conventionnelles échouent ou où la cible doit être éliminée sans trace.
 
-NOTES: 
+REMARQUES:
 
-- Eliminates everything: ennemis, accessoires, structures et couverture.
-- Ne fait aucune distinction entre les cibles – danger élevé pour les alliés.
-- Efficace à n'importe quelle distance en visant directement.
-- Destruction complète sans laisser de résidus ou de débris.
+- Élimine tout : ennemis, accessoires, structures et couverture.
+- Ne fait pas de discrimination entre les cibles et les grands dangers pour les alliés.
+- Efficace à n'importe quelle portée lorsque vous visez directement.
+- Détruire complètement sans laisser de résidus ou de débris.

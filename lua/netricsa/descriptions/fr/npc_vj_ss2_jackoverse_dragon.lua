@@ -1,38 +1,38 @@
 DRAGON CHINOIS DE CHI-FANG
 
 
-CLASS:      Chinese Dragon
-MÉTABOLISME : Créature ressemblant à un dragon
-PERCEPTION: Passive Intelligent Creature
-SIZE:       59 ft
-ENDURANCE:  Very High
-HOSTILITY:  Very Low
-WEAPONS:    None
-REWARD:     300 FC
-THREAT:     Low
+CLASSE:      Dragon chinois
+MÉTABOLISME: Créature dragon
+PERCEPTION: Créature intelligente passive
+TAILLE:       59 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Très faible
+ARMES:    Aucune
+RÉCOMPENSE:     300 FC
+MENACE:     Faible
 
-DESCRIPTIF :
+DESCRIPTION:
 
-The Chinese Dragon of Chi-fang is a huge snake-like creature native to remote regions of this planet. Despite its impressive size and appearance, which could inspire panic in any unprepared observer, the dragon is a passive creature and does not display aggression without serious provocation.
+Le Dragon chinois de Chi-fang est une énorme créature semblable à un serpent originaire de régions éloignées de cette planète. Malgré sa taille et son apparence impressionnantes, qui pourraient inspirer la panique chez n'importe quel observateur non préparé, le dragon est une créature passive et ne fait pas preuve d'agression sans provocation sérieuse.
 
-Its body is covered in thick scales, and its long, flexible form allows it to move easily between cliffs, plains, and bodies of water. The dragon is capable of rising into the air and hovering above the surface without any visible wings, which is one of the most mysterious features of its biology.
+Son corps est recouvert d'écailles épaisses, et sa forme longue et flexible lui permet de se déplacer facilement entre les falaises, les plaines et les plans d'eau. Le dragon est capable de s'élever dans l'air et de planer au-dessus de la surface sans ailes visibles, qui est l'une des caractéristiques les plus mystérieuses de sa biologie.
 
-Chi-fang dragons prefer quiet places, especially large bodies of water, mountain valleys, and areas remote from large settlements. They spend most of their time slowly moving, resting, or observing their surroundings.
+Les dragons de Chi-fang préfèrent les endroits tranquilles, en particulier les grandes étendues d'eau, les vallées de montagne et les zones éloignées des grandes agglomérations. Ils passent la plupart de leur temps à se déplacer lentement, à se reposer ou à observer leur environnement.
 
-The dragon does not hunt intelligent beings and does not perceive them as prey. In most cases, when encountering a human, it simply continues on its way.
+Le dragon ne chasse pas les êtres intelligents et ne les perçoit pas comme des proies. Dans la plupart des cas, lorsqu'il rencontre un humain, il continue simplement son chemin.
 
-Une caractéristique particulièrement intéressante de cette espèce réside dans les rares visites de spécimens individuels sur Terre. Pour une raison inconnue, certains dragons de Chi-fang apparaissent occasionnellement dans des zones associées à la culture chinoise.
+Une caractéristique particulièrement intéressante de cette espèce est la rare visite de spécimens individuels sur Terre. Pour une raison inconnue, certains dragons de Chi-fang apparaissent occasionnellement dans des zones associées à la culture chinoise.
 
-It is these rare appearances that likely gave rise to numerous ancient tales of dragons.
+Ce sont ces apparences rares qui ont probablement donné lieu à de nombreuses histoires anciennes de dragons.
 
-Earthly observers could only see a huge, serpentine beast hovering among the clouds, appearing near rivers, or disappearing into the fog. It's no surprise that over thousands of years, real encounters gradually turned into legends.
+Les observateurs terrestres ne pouvaient voir qu'une énorme bête serpentine planant parmi les nuages, apparaissant près des rivières ou disparaissant dans le brouillard. Il n'est pas surprenant que pendant des milliers d'années, de vraies rencontres se transforment progressivement en légendes.
 
-Les histoires de dragons contrôlant l'eau, apportant la pluie, vivant parmi les nuages ​​et possédant des pouvoirs surnaturels auraient très bien pu apparaître comme des descriptions très exagérées de visites réelles de ces créatures.
+Des histoires de dragons contrôlant l'eau, apportant la pluie, vivant parmi les nuages, et possédant des pouvoirs surnaturels auraient pu bien surgi comme des descriptions beaucoup exagérées des visites réelles de ces créatures.
 
-The dragon itself, of course, knows nothing of this.
+Le dragon lui-même, bien sûr, ne sait rien de cela.
 
 CONSEILS:
 
-- Don't attack it first. The dragon is not hostile.
-- Don't panic because of its size: its enormous size doesn't indicate aggressive behavior.
-- En fait, il s'agit simplement d'un très grand habitant de Chi-fang, très ancien et totalement indifférent aux affaires humaines.
+- Ne l'attaquez pas d'abord. Le dragon n'est pas hostile.
+- Ne paniquez pas en raison de sa taille : sa taille énorme n'indique pas un comportement agressif.
+- En fait, c'est tout simplement un très grand, très ancien, et complètement désintéressé dans les affaires humaines habitant le Chi-fang.

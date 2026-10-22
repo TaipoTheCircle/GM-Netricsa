@@ -1,23 +1,23 @@
-FUSIL AUTOMATIQUE FOSTECH ORIGIN 12
+D'ORIGINE FOSTECH 12 ARRÊT AUTOMATIQUE
 
 
-ARME : Fusil automatique Fostech Origin 12
-MUNITIONS : Fusil de chasse de calibre 12
-ROF : Automatique, ~120 tours/min
-POIDS : ~5 kg
+ARME: Fusil de chasse automatique Fostech Origin 12
+MUNITIONS:   12 fusil de chasse
+CADENCE DE TIR:    Automatique, ~120 tours / min
+POIDS: ~5 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Une puissante arme de combat rapproché conçue pour éliminer rapidement les adversaires avec un flux dense de plombs. Contrairement aux fusils à pompe, l'arme ne nécessite pas d'armement manuel après chaque tir, ce qui permet un tir continu à une cadence élevée.
+Une puissante arme de combat rapproché conçue pour envoyer rapidement des adversaires avec un flux dense de pellets. Contrairement aux fusils à pompe, l'arme n'exige pas de coq manuel après chaque tir, ce qui permet un tir continu à grande vitesse.
 
-Chaque tir libère une grande quantité de plombs, créant une large zone d'effet. Cela rend l'arme particulièrement efficace contre des groupes d'adversaires et de grandes cibles à courte portée. À plus longue distance, les plombs se dispersent rapidement, réduisant considérablement leur efficacité.
+Chaque prise libère une grande quantité de pastilles, créant ainsi une large zone d'effet. Cela rend l'arme particulièrement efficace contre des groupes d'opposants et de grandes cibles à portée de main. À de plus longues distances, les granulés se dispersent rapidement, ce qui réduit considérablement leur efficacité.
 
-REMARQUES :
+REMARQUES:
 
-- Haute puissance par tir.
+- Puissance élevée par tir.
 - Feu entièrement automatique.
-- Très efficace à courte portée.
+- Très efficace à proximité.
 - Bien adapté pour combattre plusieurs adversaires.
-- A moyenne portée, l'efficacité diminue progressivement en raison de la dispersion des pellets.
-- Une cadence de tir élevée entraîne une consommation rapide de munitions.
-- Aucun armement manuel requis entre les tirs.
+- À moyenne distance, l'efficacité diminue progressivement en raison de la dispersion des granules.
+- Le taux élevé d'incendie entraîne une consommation rapide de munitions.
+- Pas de coq manuel entre les tirs.

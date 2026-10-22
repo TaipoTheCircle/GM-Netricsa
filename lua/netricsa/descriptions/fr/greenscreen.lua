@@ -1,4 +1,4 @@
-GREEN SCREEN
+ÉCRAN VERT
 
 
-Conçu pour découper facilement des objets.
+Conçu pour une découpe facile des objets.

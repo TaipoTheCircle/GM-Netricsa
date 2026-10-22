@@ -1,25 +1,25 @@
-COMBINEZ LE HUNTER-CHOPPER ARCTIQUE
+COMBINE ARCTIQUE HUNTER-CHOPPER
 
 
-CLASS: Combiner Artic Hunter-Chopper
-METABOLISM: Hélicoptère mécanique/avancé, propulsé par les systèmes électriques de l'Alliance
+CLASSE:      Combiner Chasseur-Chopper Artique
+MÉTABOLISME: Hélicoptère mécanique / avancé, alimenté par des systèmes d'alimentation Alliance
 PERCEPTION: Hélicoptère d'attaque lourd
-SIZE: 43 pieds
-ENDURANCE: Très élevé
-HOSTILITY: Extrême
-WEAPONS: Canon à impulsions, largages de bombes/mines, missiles guidés
-REWARD: 5000FC
-THREAT: Très élevé
+TAILLE:       43 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Extrême
+ARMES:    Canon pulsé, bombes / mines, missiles guidés
+RÉCOMPENSE:     5000 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine Arctic Hunter-Chopper est un formidable giravion Combine utilisé pour fournir un appui-feu lourd, patrouiller les zones et chasser des cibles de grande valeur comme les réfugiés ou les unités de la Résistance. Piloté par deux soldats Overwatch (pilote et tireur), il combine conception humaine et technologie Combine pour créer un prédateur aérien.
+Le Combine Arctic Hunter-Chopper est un formidable giravion Combine utilisé pour fournir un important soutien au feu, des zones de patrouille et pour chasser des cibles de grande valeur comme des réfugiés ou des unités de résistance. Porté par deux soldats Overwatch (pilote et artilleur), il combine la conception humaine et Combine la technologie pour créer un prédateur aérien.
 
-Il dispose d'un canon à impulsion avant pour le tir direct, d'ailes équipées de missiles et peut larguer des bombes à retardement et des mines en dessous. Il est équipé de puissants capteurs et systèmes de suivi (y compris infrarouges) pour suivre les ennemis à couvert. Son cockpit, fait de verre pare-balles et opaque, protège l'équipage, le rendant difficile à viser directement.
+Il a un canon à impulsions frontales pour le feu direct, des ailes équipées de missiles, et il peut déposer des bombes et des mines chronométrées en dessous. Il est équipé de capteurs puissants et de systèmes de suivi (y compris infrarouge) pour suivre les ennemis à travers la couverture. Son cockpit, fait de verre pare-balles et opaque, protège l'équipage, ce qui rend difficile de cibler directement.
 
-TIPS: 
+CONSEILS:
 
-- Les tirs d'armes légères sont pour la plupart inutiles tant que vous n'avez pas d'armes ou de position plus lourdes.
-- Continuez toujours à bouger ; rester ouvert vous fera toucher par son canon à impulsions ou ses bombes.
-- Surveillez ses largages de bombes/mines – ils sont mortels, surtout sous les véhicules ou dans les passages étroits.
-- Utilisez un abri ou une élévation pour esquiver sa ligne de vue.
+- Les tirs d'armes légères sont pour la plupart inutiles jusqu'à ce que vous ayez des armes ou des positions plus lourdes.
+- Continuez toujours à bouger; rester ouvert vous fera frapper par son canon à impulsions ou des bombes.
+- Surveillez sa bombe / les gouttes de la mine - ils sont mortels, particulièrement sous les véhicules ou dans les passages serrés.
+- Utilisez la couverture ou l'altitude pour éviter sa ligne de feu.

@@ -1,14 +1,14 @@
-HOMEMADE PM9 "EVIL GUN" PISTOL
+HOMEMADE PM9 "VIL GUN" PISTOL
 
 
-WEAPON: PM9 "Arme maléfique"
-MUNITIONS Cartouches 9x19
-ROF: ~15 tours/min
+ARME:      PM9 "Mauvais pistolet"
+MUNITIONS:        cartouches 9x19
+CADENCE DE TIR:         ~15 tours/min
 
 DESCRIPTION:
 
-Un pistolet artisanal extrêmement peu fiable, mais mieux vaut l'avoir que pas.
+Un pistolet fait maison qui est extrêmement peu fiable, mais mieux que pas.
 
-NOTES:
+REMARQUES:
 
 - Mauvaise précision et apparence peu fiable.

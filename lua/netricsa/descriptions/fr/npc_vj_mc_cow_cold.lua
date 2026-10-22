@@ -1,26 +1,26 @@
-VACHE FROIDE DU MINECRAFT OVERWORLD
+COUVERTURE DE L'EXERCICE MINECRAFT
 
 
-CLASS: VACHE MOOLIP DU MONDE MINECRAFT
-METABOLISM: Mammifère à sang chaud
-PERCEPTION: Animal sauvage/domestique
-SIZE: 5,2 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Faible
-WEAPONS: Aucun
-REWARD: 50 FC
-THREAT: Faible
+CLASSE:      Vache froide
+MÉTABOLISME: Mammifère à sang chaud
+PERCEPTION: Animaux sauvages / domestiques
+TAILLE:       5,2 pi
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Faible
+ARMES:    Aucune
+RÉCOMPENSE:     50 FC
+MENACE:     Faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-La vache froide vit exclusivement dans les biomes Coldy. Il se distingue par sa fourrure orange uniforme, l'absence de taches et son pelage dense, qui l'aident à retenir la chaleur dans un environnement froid.
+La vache froide vit exclusivement dans les biomes froids. Il se distingue par sa fourrure orange uniforme, son manque de taches et sa shaggie dense qui l'aide à conserver la chaleur dans l'environnement froid.
 
-Une caractéristique distinctive de cette espèce est ses cornes droites tournées vers l’avant, qui donnent à la vache une apparence majestueuse et sévère.
+Une caractéristique de cette espèce est ses cornes droites, orientées vers l'avant, qui donnent à la vache un aspect majestueux et sévère.
 
 Les vaches froides sont paisibles, paissent en petits groupes et sont bien adaptées à la vie dans des conditions froides et froides.
 
-TIPS: 
+CONSEILS:
 
-- Le lait est sans danger pour la chasse.
+- Le lait est sûr pour la chasse.
 - La viande est nutritive.
-- Leur pelage hirsute se démarque du froid, ce qui en fait une cible facile pour les chasseurs mais attractive pour la reproduction dans les enclos couverts par le froid.
+- Leur manteau chaotique se distingue contre le Cold, ce qui en fait une cible facile pour les chasseurs, mais attrayante pour l'élevage dans des enclos recouverts de froid.

@@ -1,21 +1,21 @@
-VODKA FROIDE
+VODKA DE POUVOIR
 
 
-WEAPON: Vodka froide
-AMMO: Éclats de bouteille
-ROF: ~90-120 battements par minute
+ARME: Vodka froide
+MUNITIONS:   Bouteilles
+CADENCE DE TIR:    ~90-120 bpm
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Une arme de mêlée improvisée créée par Jack le Mocassin après un moment d'inspiration douteux dans un bar. En entendant des histoires sur les exploits de "Gnaar sur son taureau garou", il a décidé d'aller de l'avant et a simplement brisé une bouteille de vodka, ignorant l'existence de la Rose, plus "classique".
+Une arme improvisée créée par Jack le Loafer après un moment douteux d'inspiration dans un bar. En entendant des histoires sur les exploits de "Gnaar sur son Werebull", il décida d'aller de l'avant et fracassé simplement une bouteille de vodka, ignorant l'existence de la plus "classique Rose".
 
-Cependant, ce n’était pas la fin. L'arme était enchantée par des enchantements connus sous le nom de bénédictions de Mehrunes Dagon et Marka Ragnos. En conséquence, la bouteille a acquis une propriété anormale : elle se reforme si elle n’est pas regardée.
+Mais ce n'était pas la fin. L'arme a été enchantée par des enchantements connus comme les bénédictions de Mehrunes Dagon et Marka Ragnos. Par conséquent, la bouteille a acquis une propriété anormale-il réformes si pas regardé.
 
-It is used in combat in two stages: le premier coup est porté avec la bouteille pleine, après quoi elle se brise, se transformant en une arme tranchante pour les attaques ultérieures.
+It is used in combat in two stages: la première frappe est livrée avec la bouteille pleine, après quoi elle éclate, se transformant en une arme forte pour les attaques ultérieures.
 
-NOTES: 
+REMARQUES:
 
-- Le premier coup est lourd et brutal, comme une tête de Cucurbito.
-- Après la frappe, il se transforme en une arme tranchante avec des dégâts tranchants.
-- S'il n'est pas observé, il se régénère en une bouteille entière.
-- Efficace à courte portée.
+- La première frappe est lourde et émoussée, comme la tête d'un Cucurbito.
+- Après la frappe, il se transforme en une arme tranchante avec des dommages coupants.
+- Si non observé, il se régénère dans une bouteille entière.
+- Efficace à proximité.

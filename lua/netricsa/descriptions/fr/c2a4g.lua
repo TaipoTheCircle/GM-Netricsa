@@ -1,14 +1,14 @@
-BLACK MESA, ACCÈS À LA SURFACE À NOUVEAU
+MESA BLACK, AGAINE D'ACCÈS SURFACE
 
 
-Finally, fresh air! You made it outside-though I doubt it's the kind of welcome party you were hoping for. The courtyard is littered with bodies: des scientifiques, du personnel de sécurité et même des troupes extraterrestres de Mental, tous abattus par H.E.C.U. feu.
+Enfin, l'air frais ! Tu l'as fait dehors, même si je doute que ce soit le genre de fête de bienvenue que tu espérais. La cour est jonchée de corps : scientifiques, personnel de sécurité, et même les troupes extraterrestres de Mental, toutes abattues par le feu de l'U.E.C.
 
-Et juste au cas où vous penseriez à profiter de la vue, ne le faites pas. Il y a deux tourelles automatisées montées sur le toit, balayant la zone avec la patience que seules les machines peuvent se permettre. Ces choses ne demanderont pas de pièce d'identité avant d'ouvrir le feu.
+Et juste au cas où vous pensiez à profiter de la vue-ne pas. Il y a deux tourelles automatisées montées sur le toit, balayant la zone avec la patience que seules les machines peuvent se permettre. Ces choses ne demanderont pas d'identité avant d'ouvrir le feu.
 
-Summary of the situation: 
+Summary of the situation:
 
-MESA NOIRE, MANTE
+La surface n'est pas plus sûre, juste plus forte.
 
-H.E.C.U. a déjà sécurisé cette zone, mais pas à votre bénéfice.
+H.E.C.U. a déjà sécurisé cette zone, mais pas à votre avantage.
 
-Si vous ne voulez pas vous retrouver dans le nombre croissant de morts, vous devrez vous déplacer rapidement, rester bas et traiter chaque coin comme un peloton d'exécution déguisé.
+Si vous ne voulez pas finir par faire partie du nombre croissant de corps, vous aurez besoin de bouger rapidement, rester bas, et traiter chaque coin comme un peloton d'exécution déguisé.

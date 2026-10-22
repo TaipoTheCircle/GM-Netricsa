@@ -1,29 +1,29 @@
-DRONE ESSAIS "BETA", PETIT
+"BETA" DRONE SWARM, PETIT
 
 
-CLASSE : Drone essaim « Bêta », petit
-MÉTABOLISME : Xénobiologique
-PERCEPTION : Meute Prédateur
-TAILLE : 7,2 pieds
-ENDURANCE : Faible
-HOSTILITÉ : Très élevée
-ARMES : Griffes, Dents
-RÉCOMPENSE : 250 FC
-MENACE : Moyenne
+CLASSE:        "Beta" Swarm Drone, Petit
+MÉTABOLISME:   Xénobiologique
+PERCEPTION:   Prédateur de conditionnement
+TAILLE:         7,2 pi
+ENDURANCE:    Faible
+HOSTILITÉ:    Très élevé
+WEAPONRY:     Griffes, dents
+RÉCOMPENSE:       250 FC
+MENACE:       Moyenne
 
-DESCRIPTIF :
+DESCRIPTION:
 
-L'Essaim "Bêta" est considéré comme l'une des branches évolutives les plus primitives de l'infestation extraterrestre découverte en marge de l'espace habité. Ses faux-bourdons diffèrent nettement de ceux des essaims plus connus : ils sont plus grands, possèdent des membres allongés et sont dépourvus de plaques chitineuses protectrices, bien qu'ils aient trois yeux.
+Le swarm "Beta" est considéré comme l'une des branches évolutives les plus primitives de l'infestation extraterrestre découverte sur les franges de l'espace fixé. Ses drones diffèrent nettement de ceux des essaims les plus connus : ils sont plus grands, possèdent des membres allongés et manquent de protection chitineuse, bien qu'ils aient trois yeux.
 
-L'absence d'armure lourde rend ces créatures vulnérables aux tirs d'armes légères, mais elles compensent ce manque de protection par leur agilité. Les drones « Beta » Swarm peuvent couvrir rapidement de grandes distances et attaquer leurs proies avec une série de frappes rapides, empêchant la cible de se concentrer sur sa visée.
+L'absence d'armure lourde rend ces créatures vulnérables au feu de petites armes, mais elles compensent ce manque de protection avec agilité. Les drones "Beta" Swarm peuvent rapidement parcourir de grandes distances et attaquer leurs proies avec un flot de frappes rapides, empêchant la cible de se concentrer sur la visée.
 
-Les xénobiologistes se demandent encore si l'essaim « bêta » est un ancêtre des essaims modernes ou une impasse évolutive. Les drones eux-mêmes ne partagent pas cet intérêt scientifique et interrompent généralement ces recherches alors qu’elles sont encore en phase d’observation.
+Les xénobiologistes continuent de se demander si le "Beta" Swarm est un ancêtre des essaims modernes ou une impasse évolutive. Les drones eux-mêmes ne partagent pas cet intérêt scientifique et réduisent généralement ces recherches pendant qu'elles sont encore en phase d'observation.
 
-Malgré leur apparence décharnée, ces créatures possèdent une résilience surprenante et continuent d’attaquer même après avoir subi de graves blessures. Il semble que l’instinct de conservation ait été considéré comme un organe inutile et ait disparu avec le temps.
+Malgré leur apparence épouvantable, ces créatures possèdent une résistance surprenante et continuent à attaquer même après avoir subi de graves blessures. Il semble que l'instinct pour la conservation de soi ait été considéré comme un organe inutile et disparu au fil du temps.
 
-CONSEILS :
+CONSEILS:
 
-- Ne les laissez pas s'approcher.
+- Ne les laissez pas approcher.
 - Ils sont particulièrement dangereux dans les espaces ouverts.
-- Le tir précis est plus efficace que le tir aveugle.
-- Si un drone vous charge directement, il a probablement déjà pris sa décision.
+- Un feu précis est plus efficace que des tirs aveugles.
+- Si un drone se charge directement sur vous, il a probablement déjà décidé.

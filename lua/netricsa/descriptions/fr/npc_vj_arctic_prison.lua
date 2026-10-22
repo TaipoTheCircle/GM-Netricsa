@@ -1,28 +1,28 @@
-COMBINEZ LE SOLDAT DE LA PRISON ARCTIQUE D'OVERWATCH
+VENDU DE PRISON ARCTIQUE SURVEILLANCE DE LA COMBINE
 
 
-CLASS: Combiner Overwatch Soldat de la prison arctique
-METABOLISM: Humain augmenté, mâle
-PERCEPTION: Combinez une unité d'assaut punitif à longue et moyenne portée
-SIZE: 5,9 pieds
-ENDURANCE: Haut
-HOSTILITY: Extrême
-WEAPONS: Fusil à impulsion AR2, SMG
-REWARD: 650 FC
-THREAT: Haut
+CLASSE:      Combiner le soldat de la prison arctique Overwatch
+MÉTABOLISME: Augmenté Humain, Homme
+PERCEPTION: Combiner l'unité d'assaut punitif à longue et à moyenne portée
+TAILLE:       5,9 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Extrême
+ARMES:    AR2 Rifle d'impulsion, SMG
+RÉCOMPENSE:     650 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine Overwatch Arctic Prison Soldier est un garde des installations de Nova Prospekt reconverti, réutilisé par le Combine pour le combat dans des climats extrêmes. Lorsque les forces standards d’Overwatch s’avèrent insuffisantes, le Combine retire sans hésitation des soldats de la réserve des prisons et les déploie dans les régions les plus inhospitalières de la planète.
+Le soldat de la prison arctique Combine Overwatch est une garde de l'installation de Nova Prospekt réutilisée par le Combine pour le combat dans des climats extrêmes. Lorsque les forces de Surveillance standard sont insuffisantes, le Combine attire sans hésitation les soldats de la réserve pénitentiaire et les déploie dans les régions les plus inhospitalières de la planète.
 
-Contrairement à la variante du fusil de chasse, ce soldat sert d'agent de suppression et de contrôle des tirs. Il est équipé d'un fusil à impulsion AR2 ou d'une mitraillette SMG, lui permettant d'opérer efficacement à moyenne portée, couvrant l'avancée des autres unités et dégageant les approches des objectifs.
+Contrairement à la variante des fusils, ce soldat sert d'agent de répression et de lutte contre le feu. Il est équipé d'un fusil à impulsions AR2 ou d'une mitrailleuse SMG, ce qui lui permet de fonctionner efficacement à portée moyenne, couvrant l'avance d'autres unités et les approches de compensation des objectifs.
 
-The equipment is adapted for the Arctic: Le camouflage blanc et gris réduit la visibilité sur la glace et la neige, mais des éléments de l'uniforme de la prison sont toujours visibles par-dessus.
+The equipment is adapted for the Arctic: le camouflage blanc et gris réduit la visibilité contre la glace et la neige, mais des éléments de l'uniforme de la prison sont encore visibles au-dessus.
 
-Comme les autres soldats de la prison, il porte sur le dos l'inscription bleue « Nova Prospekt ».
+Comme d'autres soldats de prison, il porte sur son dos des marques bleues "Nova Prospekt".
 
-TIPS: 
+CONSEILS:
 
-- L'AR2 lui permet de garder ses distances et de supprimer la couverture avec des tirs énergétiques.
-- La visière jaune est facilement visible dans l'obscurité, mais difficile à repérer lors des tempêtes de neige.
-- Il est préférable de le sortir à distance avant qu'il n'atteigne une position favorable.
+- L'AR2 lui permet de garder sa distance et de supprimer la couverture avec le feu d'énergie.
+- La visière jaune est facilement visible dans l'obscurité, mais difficile à repérer dans les tempêtes de neige.
+- Il vaut mieux l'emmener de loin avant qu'il n'atteigne une position favorable.

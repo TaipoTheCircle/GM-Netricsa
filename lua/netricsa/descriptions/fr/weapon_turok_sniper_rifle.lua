@@ -1,25 +1,25 @@
-FUSIL DE SNIPER TRIGLAV 92 STALKER
+TRIGLAV 92 STALKER SNIPER RIFLE
 
 
-ARME : Fusil de précision TRIGLAV 92 Stalker
-Munitions : cartouches de fusil
-ROF : ~30 tours/min
-POIDS : ~4,5kg
+ARME: TRIGLAV 92 Sniper Sniper Rifle
+MUNITIONS:   Cartouches à spires
+CADENCE DE TIR:    ~30 tours/min
+POIDS: ~4,5 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Un fusil de précision de haute précision fabriqué par TRIGLAV, conçu pour engager des cibles à longue distance. L'arme offre une précision presque parfaite lorsqu'elle est utilisée avec une lunette et une puissance d'arrêt élevée, lui permettant de détruire la plupart des petites cibles d'un seul coup.
+Un fusil à sniper de haute précision fabriqué par TRIGLAV, conçu pour atteindre des cibles à longue portée. L'arme a une précision quasi parfaite lorsqu'elle utilise une portée et une puissance d'arrêt élevée, ce qui lui permet de détruire la plupart des petites cibles avec un seul tir.
 
-Le fusil utilise un mécanisme à verrou, nécessitant un temps de rechargement après chaque tir. Le magazine contient 5 tours. Un indicateur de munitions sur le corps du fusil affiche les munitions restantes.
+Le fusil utilise un mécanisme d'action de boulon, nécessitant un temps de recharge après chaque tir. Le magazine tient 5 tours. Un indicateur de munitions sur le corps du fusil affiche les munitions restantes.
 
-La lunette a plusieurs niveaux de grossissement : 2x, 5x et 10x, permettant de tirer à moyenne et extrême longue portée. Tirer sans lunette réduit considérablement la précision, c'est pourquoi l'utilisation du Stalker dans ce mode n'est recommandée que dans des cas extrêmes.
+The scope has several magnification levels: 2x, 5x et 10x, permettant de tirer à des distances moyennes et extrêmes. Il est donc recommandé d'utiliser le Stalker dans ce mode uniquement dans les cas extrêmes.
 
-REMARQUES :
+REMARQUES:
 
-- Précision exceptionnellement élevée lors du tir à travers une lunette.
-- La plupart des petites cibles sont détruites d'un seul coup.
-- A un grossissement 2x / 5x / 10x.
-- Le chargeur contient 5 tours.
-- Le mécanisme à verrou crée un délai notable entre les tirs.
-- Conçu principalement pour les longues et extrêmement longues portées.
-- Le tir depuis la hanche est nettement moins précis.
+- Une précision exceptionnellement élevée lors du tir à travers un champ.
+- La plupart des petites cibles sont détruites avec un seul coup.
+- A 2x / 5x / 10x grossissement.
+- Le magazine tient 5 tours.
+- Le mécanisme d'action du boulon crée un retard notable entre les tirs.
+- Conçu principalement pour les longues et extrêmes portées.
+- Le tir de la hanche est significativement moins précis.

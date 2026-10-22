@@ -1,22 +1,22 @@
-FUNGUS FROM XEN, SMALL
+FUNGUS DE XEN, PETIT
 
 
-CLASS: Flore extraterrestre de Xen
-METABOLISM: Saprophyte / Parasite
-PERCEPTION: Détection de vibrations + produits chimiques
-SIZE: ~ 2 pieds de haut
-ENDURANCE: Moyen
-HOSTILITY: Faible (défensif)
-WEAPONS: Aucun
-REWARD:     0 FC
-THREAT: Faible
+CLASSE:      Alien Flora de Xen
+MÉTABOLISME: Saprophyte / Parasitique
+PERCEPTION: Vibrations + détection chimique
+TAILLE:       ~2 pi de haut
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Faible (défensif)
+ARMES:    Aucune
+RÉCOMPENSE:     0 FC
+MENACE:     Faible
 
 DESCRIPTION:
 
-Les petits champignons Xen sont une flore répandue dans le monde frontalier Xen, que l'on trouve souvent dans les grottes, les tunnels humides et les zones saturées de pourriture organique.
+Petits champignons Xen sont une flore répandue du monde frontalier Xen, souvent trouvé dans des grottes, des tunnels humides, et des zones saturées de décomposition organique.
 
-Selon les recherches xénobiologiques, les champignons Xen partagent une lignée évolutive lointaine avec une faune parasitaire telle que les crabes. Bien que beaucoup moins mobiles, ils présentent des facettes similaires.
+Selon des recherches Xenobiological, les champignons Xen partagent une lignée évolutive lointaine avec la faune parasitaire telle que les cratères. Bien que beaucoup moins mobiles, ils montrent des côtés similaires.
 
-TIPS:
+CONSEILS:
 
-- Aucun problème.
+- Pas de problème.

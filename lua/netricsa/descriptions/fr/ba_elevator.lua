@@ -1,6 +1,6 @@
-BLACK MESA, ELEVATOR IN THE SECTOR "C"
+MESA BLACK, ÉLEVATEUR DANS LE SECTEUR "C"
 
 
-L'ascenseur attend. Il y a deux scientifiques à l’intérieur. Les visages sont calmes, presque sereins, mais les yeux... les yeux regardent de trop près. Ils savent qui tu es. Ou alors ils pensent le faire.
+L'ascenseur attend. Deux scientifiques sont à l'intérieur. Les visages sont calmes, presque sereins, mais les yeux... les yeux regardent de trop près. Ils te connaissent. Ou ils pensent que oui.
 
-Anti‑Le spectromètre de masse est dans sa phase finale – vous pouvez le sentir à chaque clignement des lampes.
+Lutte contre ‐Le spectromètre de masse en est à ses dernières étapes - vous pouvez le sentir en chaque clin d'œil des lampes.

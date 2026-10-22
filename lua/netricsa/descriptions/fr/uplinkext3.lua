@@ -1,4 +1,4 @@
-BLACK MESA,  ANTENNA CONTROL
+MESA BLACK, CONTRÔLE ANTENNE
 
 
-You've made it inside the communications building. The objective is straightforward: réalignez manuellement l'antenne satellite vers le récepteur USNRC et transmettez le signal d'urgence. Ce n’est qu’alors que les scientifiques du complexe Lambda ouvriront les portes du réacteur.
+Vous êtes dans le bâtiment des communications. L'objectif est simple : réaligner manuellement l'antenne satellite vers le récepteur USNRC et transmettre le signal d'urgence. Ce n'est qu'alors que les scientifiques du complexe Lambda ouvriront les portes du réacteur.

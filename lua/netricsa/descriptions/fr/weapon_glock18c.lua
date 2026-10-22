@@ -1,16 +1,16 @@
-PISTOLET GLOCK 18C
+GLOCK PISTOL 18C
 
 
-WEAPON: Glock18C
+ARME:     Glock 18C
 AMMUNITION: 9X19
-ROF: 1200 tours/min
+CADENCE DE TIR:        1 200 tours/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le pistolet Glock 18C est un pistolet automatique autrichien fabriqué par Glock GmbH en calibre Parabellum 9×19 mm. Il est conçu pour être utilisé par des unités spéciales de l’armée et de la police. Le Glock 18 a suscité l'intérêt des structures policières et militaires, mais il n'a pas gagné la popularité attendue en raison de la faible efficacité du tir automatique par rapport aux mitraillettes, même assez compactes. En général, le pistolet Glock 18 a hérité de tous les avantages du pistolet Glock 17 de base et sa conception est très similaire. L'une des différences réside dans le levier de sélection du mode de tir situé à l'arrière gauche de la glissière. Dans la culture populaire, les modèles présentés comme des Glock 18 sont souvent des Glock 17 convertis (avec capacité de tir automatique), généralement avec un chargeur de 17 cartouches. Du point de vue du jeu, ce pistolet est très populaire.
+Le pistolet Glock 18C est un pistolet automatique autrichien fabriqué par Glock GmbH en calibre 9×19 mm Parabellum. Il est conçu pour être utilisé par des unités spéciales de l'armée et de la police. Le Glock 18 a attiré l'intérêt de la police et des structures militaires, mais il n'a pas gagné la popularité attendue en raison de la faible efficacité des tirs automatiques par rapport aux mitrailleuses sous-machines même assez compactes. En général, le pistolet Glock 18 a hérité de tous les avantages du pistolet Glock 17 de base et est très similaire dans la conception. Une des différences est le levier de sélection du mode feu à l'arrière gauche de la diapositive. Dans la culture populaire, les modèles présentés comme Glock 18s sont souvent convertis (avec une capacité de feu automatique) Glock 17s, généralement avec un magazine 17-round. Du point de vue du jeu, ce pistolet est très populaire.
 
-NOTES: 
+REMARQUES:
 
-- Vous pouvez changer le mode de tir.
-- Si vous comptez tirer en mode automatique, essayez de tirer par courtes rafales pour économiser les munitions.
-- Populaire dans la culture de rue américaine.
+- Vous pouvez changer le mode feu.
+- Si vous allez tirer en mode automatique, essayez de tirer en courtes rafales pour sauver des munitions.
+- Populaire dans la culture de la rue.

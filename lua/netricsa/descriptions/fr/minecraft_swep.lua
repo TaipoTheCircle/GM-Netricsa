@@ -1,23 +1,23 @@
-ARME DE SCRIPT MINECRAFT
+ARMES DE SCRIPTION MINECRAFT
 
 
-WEAPONS: Arme de script Minecraft
-AMMO: Divers blocs
-ROF: ~3 à 6 emplacements par seconde
+ARMES: Arme de Script de Minecraft
+MUNITIONS:    Différents blocs
+CADENCE DE TIR:     ~3-6 placements par seconde
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Un outil de construction de matériaux universel qui vous permet de placer et de remplacer instantanément des blocs dans l'espace environnant. C'est un générateur compact qui convertit l'énergie en éléments cubiques structurés.
+Un outil universel de construction de matériaux qui vous permet de placer instantanément et de remplacer les blocs dans l'espace environnant. C'est un générateur compact qui convertit l'énergie en éléments cubiques structurés.
 
-Allows the user to build any structure: des abris, des murs, des tours, des châteaux et des bases fortifiées à part entière pendant le combat. Le passage d’un type de bloc à l’autre est instantané, vous permettant de vous adapter à n’importe quelle situation tactique.
+Allows the user to build any structure: abris, murs, tours, châteaux et bases fortifiées à part entière pendant le combat. La commutation entre les types de blocs est instantanée, vous permettant de vous adapter à toute situation tactique.
 
-Malgré son objectif non lié au combat, il peut être utilisé pour contrôler un territoire, créer des barricades ou isoler l’ennemi.
+Malgré son but non combattant, il peut être utilisé pour contrôler le territoire, créer des barricades ou isoler l'ennemi.
 
-NOTES: 
+REMARQUES:
 
-- Vous permet de construire des structures de toute complexité en temps réel.
-- Changez rapidement de type de bloc.
+- Permet de construire des structures de toute complexité en temps réel.
+- Changez rapidement les types de blocs.
 - Efficace pour créer des abris et des positions défensives.
-- Très utile à courte portée et en combat de position.
-- N'inflige pas de dégâts directs, mais peut bloquer, piéger ou ralentir les adversaires.
+- Très utile à portée de main et au combat de position.
+- Ne cause pas de dommages directs, mais peut bloquer, piéger, ou des adversaires lents.
 - Nécessite une conscience spatiale et des réflexes rapides.

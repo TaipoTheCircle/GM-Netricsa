@@ -1,29 +1,29 @@
-COMBINEZ LE COMMANDANT D'ÉLITE D'OVERWATCH
+COMBINE SURVEILLANCE COMMANDE ELITE
 
 
-CLASS: Combinez Overwatch Elite Commander
-METABOLISM: Humain augmenté, mâle
-PERCEPTION: Combiner Haut Commandement et Tacticien Anormal
-SIZE: 5,9 pieds
-ENDURANCE: Très élevé
-HOSTILITY: Absolu
-WEAPONS: Fusil à impulsion AR2, champs de capture de portail
-REWARD: 2500FC
-THREAT: Extrême
+CLASSE:      Combiner Overwatch Elite Commander
+MÉTABOLISME: Augmenté Humain, Homme
+PERCEPTION: Combinez le Haut Commandement, Tacticien Anomal
+TAILLE:       5,9 pieds
+ENDURANCE:  Très élevé
+HOSTILITÉ:  Absolu
+ARMES:    AR2 Pulse Rifle, Champs de capture de portail
+RÉCOMPENSE:     2500 FC
+MENACE:     Extrême
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le commandant d'élite d'Overwatch est l'un des officiers de combat les plus haut gradés du Combine, alliant génie tactique et technologie de suppression expérimentale.
+Le commandant d'élite Overwatch est l'un des officiers de combat les plus élevés de la Combine, combinant génie tactique et technologie de suppression expérimentale.
 
-Il porte un costume de camouflage aux accents violets et une cape noire avec une bordure rouge, soulignant son statut et son arrogance presque théâtrale.
+Il porte un costume de camouflage avec des accents violets et une cape noire avec des garnitures rouges, soulignant son statut et presque l'arrogance théâtrale.
 
-Son visage est caché sous un casque avec un seul « œil » orange brillant qui sert non seulement de visière mais également de nœud de capteur pour le système de portail.
+Son visage est caché sous un casque avec une seule orange brillante "Eye", qui sert non seulement de visière mais aussi de nœud de capteur pour le système de portail.
 
-La capacité principale du commandant est la téléportation forcée. Il crée un portail jaune autour de la cible, la transportant instantanément directement devant lui. La couverture, la distance et les manœuvres n'ont plus aucun sens : la victime est littéralement livrée au canon du commandant.
+La principale capacité du commandant est la téléportation forcée. Il crée un portail jaune autour de la cible, les transportant instantanément directement devant lui. La couverture, la distance et les manœuvres deviennent inutiles - la victime est littéralement livrée au canon du commandant.
 
-Le Commandant poursuit rarement ses ennemis. Il préfère les laisser « venir » à lui au gré de l'espace.
+Le commandant poursuit rarement les ennemis. Il préfère les laisser « venir » à lui à la demande de l'espace.
 
-TIPS: 
+CONSEILS:
 
-- Si un portail jaune apparaît autour de vous, préparez-vous à un contact instantané avec un fusil à impulsion.
-- Plus il survit, plus le champ de bataille devient pervers : il le transforme en salle d'exécution personnelle.
+- Si un portail jaune apparaît autour de vous, préparez-vous à un contact instantané avec un fusil à impulsions.
+- Plus il survit, plus le champ de bataille devient pervers, il le transforme en chambre d'exécution personnelle.

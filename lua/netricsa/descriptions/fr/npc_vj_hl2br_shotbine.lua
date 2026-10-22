@@ -1,26 +1,26 @@
-COMBINER LE SHOTGUNNER D'OVERWATCH
+COMBINE SURVEILLANCE
 
 
-CLASS: Combinez le tireur de chasse Overwatch
-METABOLISM: Humain augmenté, mâle
-PERCEPTION: Infanterie transhumaine (spécialiste des combats rapprochés)
-SIZE: 5,9 pieds
-ENDURANCE: Haut
-HOSTILITY: Extrême
-WEAPONS: Fusil de chasse SPAS-12, grenades à fragmentation
-REWARD: 450 FC
-THREAT: Haut
+CLASSE:      Combiner Overwatch Shotgunner
+MÉTABOLISME: Augmenté Humain, Homme
+PERCEPTION: Transhuman Infantry (Spécialiste des quasi-quarters)
+TAILLE:       5,9 pieds
+ENDURANCE:  Haut
+HOSTILITÉ:  Extrême
+ARMES:    SPAS-12 fusil de chasse, Frag Grenades
+RÉCOMPENSE:     450 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine Overwatch Shotgun Soldier est un exécuteur brutal à courte portée conçu pour la suppression urbaine et le combat dans les couloirs. Équipés d'un gilet pare-balles plus lourd et d'augmentations musculaires améliorées, ces soldats prospèrent dans des environnements confinés où leurs fusils de chasse dévastateurs peuvent instantanément annihiler des ennemis non préparés.
+Le fusil de chasse Combine Overwatch Soldier est une force d'exécution brutale à courte portée conçue pour la répression urbaine et le combat contre les couloirs. Dotés d'armure corporelle plus lourde et d'augmentation musculaire accrue, ces soldats prospèrent dans des environnements confinés où leurs fusils de chasse dévastateurs peuvent immédiatement anéantir des ennemis non préparés.
 
-Contrairement aux unités Overwatch standard, les Shotgun Soldiers sont programmés pour une agression implacable, chargeant souvent tête baissée dans les positions ennemies pour maximiser le potentiel destructeur de leurs armes.
+Contrairement aux unités de surveillance standard, les soldats fusils de chasse sont programmés pour une agression incessante, se chargeant souvent de front dans des positions ennemies pour maximiser le potentiel destructeur de leurs armes.
 
-Ils constituent le fer de lance des assauts du Combine, brisant les lignes de résistance avant que l'infanterie transhumaine, plus organisée, n'intervienne pour sécuriser le territoire. Même si leur blindage lourd et leur puissance de feu dévastatrice les rendent redoutables, ils sont bien moins efficaces à moyenne ou longue portée, s'appuyant fortement sur les embuscades et les manœuvres agressives.
+Ils forment le fer de lance de Combiner les assauts, brisant les lignes de résistance avant que l'infanterie transhumaine plus organisée s'installe en territoire sécurisé. Bien que leur armure lourde et leur puissance de feu dévastatrice les rendent redoutables, ils sont beaucoup moins efficaces à moyen ou long terme, en s'appuyant lourdement sur des embuscades et des manœuvres agressives.
 
-TIPS: 
+CONSEILS:
 
-- Gardez vos distances - leurs fusils de chasse dominent à courte portée.
+- Gardez votre distance - leurs fusils dominent à portée de main.
 - Les explosifs sont efficaces contre les groupes de soldats fusils de chasse.
-- Évitez les couloirs étroits si vous savez qu'ils se trouvent à proximité.
+- Évitez les couloirs serrés si vous savez qu'ils sont à proximité.

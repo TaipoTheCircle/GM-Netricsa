@@ -1,23 +1,23 @@
-ORO "POING ROUGE" RPG
+RPG ORO "RED FIST"
 
 
-ARME : RPG ORO "Red Fist"
-MUNITIONS : Grenades propulsées par fusée
-ROF : ~15 tours/min
-POIDS : ~7-8 kg
+ARME: ORO "Red Fist" RPG
+MUNITIONS:   Grenades à roquette
+CADENCE DE TIR:    ~15 tours/min
+POIDS: ~7-8 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Un puissant lance-roquettes portable fabriqué par ORO. L'arme tire une seule roquette à grande vitesse, qui explose lors de l'impact avec une grande force destructrice, endommageant la cible et tout ce qui l'entoure. Les munitions sont limitées, mais chaque roquette est si puissante qu'un seul tir précis peut décider de l'issue d'un conflit.
+Un puissant lance-roquettes portable fabriqué par ORO. L'arme tire une seule fusée à grande vitesse, qui explose à l'impact avec une grande force destructrice, endommage la cible et tout autour. Les munitions sont limitées, mais chaque fusée est si puissante qu'un seul tir précis peut décider de l'issue d'un conflit.
 
-L'arme a deux modes. Le premier est un lancement normal, non guidé, dans lequel la fusée vole directement dans la direction du viseur. La seconde active le système d'acquisition de cible : après le verrouillage, la fusée ajuste automatiquement sa trajectoire et poursuit la cible sélectionnée, ce qui est particulièrement utile contre les objets et véhicules en mouvement rapide.
+L'arme a deux modes. Le premier est un lancement normal, non guidé, dans lequel la fusée vole directement en direction de la vue. Le second active le système d'acquisition de la cible : après le verrouillage, la fusée ajuste automatiquement sa trajectoire et poursuit la cible sélectionnée, qui est particulièrement utile contre les objets et les véhicules en mouvement rapide.
 
-REMARQUES :
+REMARQUES:
 
-- Dégâts très élevés par fusée. - Un grand rayon de souffle permet l'engagement simultané de plusieurs cibles.
+- Très gros dégâts par fusée. - Un grand rayon d'explosion permet d'engager simultanément plusieurs cibles.
 - Premier mode : lancement direct standard.
-- Deuxième mode : acquisition de cible et référencement selon le principe "tirer et oublier".
+- Deuxième mode: acquisition de la cible et hooming en utilisant le principe "feu et oublier".
 - Efficace à moyenne et longue portée.
-- Particulièrement utile contre les véhicules en mouvement et les grandes cibles.
-- Le chargeur contient un missile, avec un total de 10 missiles lorsque l'arme est ramassée.
-- Le poids important de l'arme réduit la mobilité du tireur.
+- Particulièrement utile contre les véhicules mobiles et les grandes cibles.
+- Le magazine détient un missile, avec un total de 10 missiles lorsque l'arme est récupérée.
+Le poids de l'arme réduit la mobilité du tireur.

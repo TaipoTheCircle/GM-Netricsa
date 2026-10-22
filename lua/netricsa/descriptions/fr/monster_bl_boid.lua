@@ -1,24 +1,24 @@
-PAPILLON DE L'ÎLE DOUCE DE LA GRANDE LOLLY
+BUTTERFLY DE L'ÎLE DU GRAND LOLLY
 
 
-CLASS: Papillon de l'île douce
-METABOLISM: ~ 20 pieds de haut
+CLASSE:      Sweet Island Papillon
+MÉTABOLISME: Imago
 PERCEPTION: Faune volante passive
-SIZE: 2,9 pieds
-ENDURANCE: Très faible
-HOSTILITY: Aucun
-WEAPONS: Aucun
-REWARD: 10 FC
-THREAT: Aucun
+TAILLE:       2,9 pieds
+ENDURANCE:  Très faible
+HOSTILITÉ:  Aucune
+ARMES:    Aucune
+RÉCOMPENSE:     10 FC
+MENACE:     Aucune
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le papillon Big Lolly Sweet Island est un analogue local des oiseaux, remplissant le même rôle écologique. Ces créatures sont complètement passives et ne font jamais preuve d'agressivité, même en contact direct avec les autres habitants de l'île.
+Le papillon de l'île Big Lolly Sweet est un analogue local des oiseaux, remplissant le même rôle écologique. Ces créatures sont totalement passives et ne montrent jamais d'agression, même en contact direct avec d'autres habitants de l'île.
 
-Leurs ailes sont grandes et d'un bleu riche.
+Leurs ailes sont grandes et un bleu riche.
 
-Ils volent généralement en groupe, suivant les courants d'air stables au-dessus des îles.
+Ils volent généralement en groupes, suivant les courants d'air stables au-dessus des îles.
 
-TIPS: 
+CONSEILS:
 
-- Ils ne représentent aucune menace.
+- Ils ne posent aucune menace.

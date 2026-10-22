@@ -1,22 +1,22 @@
-COMBINEZ LES MEDIC DE LA PROTECTION CIVILE
+MÉDICAMENT DE PROTECTION CIVILE COMBINE
 
 
-CLASS: Combiner Médecin de la Protection Civile
-METABOLISM: Humain augmenté
-PERCEPTION: Personnel de soutien à la répression
-SIZE: 5,9 pieds
-ENDURANCE: Moyen
-HOSTILITY: Faible
-WEAPONS: Pistolet, Stun-Stick, mitraillette, fournitures médicales.
-REWARD: 450 FC
-THREAT: Faible
+CLASSE:      Combiner la protection civile
+MÉTABOLISME: Augmenté Humain
+PERCEPTION: Personnel d ' appui chargé de la répression
+TAILLE:       5,9 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Faible
+ARMES:    Pistol, stun Stun-Stick, mitrailleuse, fournitures médicales.
+RÉCOMPENSE:     450 FC
+MENACE:     Faible
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Combine Civil Protection Medic est un module de commande mobile destiné au personnel du Combine. La plupart étaient des paracs, des médecins militaires, des médecins de campagne ou des étudiants en médecine. Après l'arrivée du Combine, leurs connaissances furent considérées comme actives.
+Le Combine Civil Protection Medic est un module de commande mobile pour le personnel Combine. La plupart étaient des paracs, des médecins militaires, des médecins de terrain ou des étudiants en médecine. Après l'arrivée du Combiné, leurs connaissances ont été considérées comme actives.
 
-Les médecins portent des uniformes modifiés de la Protection Civile avec l'insigne rouge du secteur médical Combine.
+Les médicaments portent des uniformes de protection civile modifiés avec l'insigne rouge du secteur médical Combine.
 
-TIPS: 
+CONSEILS:
 
-- L'élimination de l'équipe médicale réduit considérablement la capacité de survie de l'escouade Combine.
+- L'élimination de l'équipe médicale réduit considérablement la survie de l'équipe.

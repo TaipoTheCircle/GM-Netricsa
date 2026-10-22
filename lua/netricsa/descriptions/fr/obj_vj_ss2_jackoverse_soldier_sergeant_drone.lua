@@ -1,28 +1,28 @@
-DRONE "KAMIKAZE" DU SERGEANT STORMTROOPER
+"KAMIKAZE" DRONE DU SERGEANT
 
 
-CLASSE : Drone "Kamikaze" du Stormtrooper Sergeant
-MÉTABOLISME : Mécanique
-PERCEPTION : Drone d'attaque kamikaze, bombardier suicide
-TAILLE : 1 pied
-ENDURANCE : Faible
-HOSTILITÉ : Absolue
-ARMES : Auto-détonation
-RÉCOMPENSE : 60 FC
-MENACE : Moyenne
+CLASSE:      Le sergent de Stormtrooper "Kamikaze" Drone
+MÉTABOLISME: Mécanique
+PERCEPTION: Kamikaze Attaque Drone, Suicide Bomber
+TAILLE:       1 pi
+ENDURANCE:  Faible
+HOSTILITÉ:  Absolu
+ARMES:    Autodétonation
+RÉCOMPENSE:     60 FC
+MENACE:     Moyenne
 
-DESCRIPTIF :
+DESCRIPTION:
 
-C'est l'un des « jouets » préférés de Stormtrooper Sergeant, fabriqué à partir de vieux débris de batailles précédentes. Lorsque des Stormtroopers et des ennemis morts depuis longtemps tombaient, le sergent récupérait leurs restes et les transformait en quelque chose de nouveau. Ainsi est né ce drone sphérique futuriste doté de deux manipulateurs rétractables situés sur ses côtés, qu'il utilise pour se déplacer dans les airs.
+C'est l'un des « jouets » préférés du sergent Stormtrooper, fabriqués à partir de vieux débris provenant de batailles antérieures. Lorsque des Stormtroopers et des ennemis morts depuis longtemps sont tombés, le sergent s'est emparé de leurs restes et les a transformés en quelque chose de nouveau. Ainsi naît ce drone sphérique futuriste avec deux manipulateurs rétractables situés sur ses côtés, qu'il utilise pour se déplacer dans l'air.
 
-La partie centrale du corps du drone est noire avec une fine bande orange entourant son équateur. Au centre du devant du corps se trouve un « œil » circulaire rouge.
+La partie centrale du corps du drone est noire avec une mince bande orange entourant son équateur. Au centre de l'avant du corps est un "œil" circulaire rouge.
 
-Lorsqu'il détecte un ennemi, le drone Kamikaze se précipite vers lui à vitesse maximale. Sa tâche est de voler vers la cible et simplement de s'y écraser. Au contact de la cible ou à la réception d'un signal du Sergent, le drone explose, provoquant des dégâts importants dans son rayon.
+Lorsqu'il détecte un ennemi, le drone Kamikaze se précipite vers eux à une vitesse maximale. Sa tâche est de voler jusqu'à la cible et de simplement s'écraser dedans. Au contact de la cible ou après avoir reçu un signal du sergent, le drone explose, causant des dommages importants dans son rayon.
 
-Ils ne disposent pas d'armes à distance, mais uniquement d'autodestruction.
+Ils n'ont pas d'autodestruction des armes.
 
-CONSEILS :
+CONSEILS:
 
-- Abattez les drones à leur approche. Un coup de fusil de chasse ou de fusil d'assaut les détruit avant qu'ils ne s'approchent.
-- Ne reste pas immobile.
-- Utilisez une couverture. Les drones ne peuvent pas contourner les obstacles aussi rapidement qu’ils peuvent attaquer directement.
+- Tirez sur des drones à l'approche. Un tir d'un fusil de chasse ou d'assaut les détruit avant qu'ils ne se rapprochent.
+- Ne bougez pas.
+- Couvre-toi. Les drones ne peuvent pas contourner les obstacles aussi rapidement qu'ils peuvent attaquer directement.

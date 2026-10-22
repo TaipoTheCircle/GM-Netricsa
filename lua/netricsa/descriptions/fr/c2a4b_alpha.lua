@@ -1,14 +1,14 @@
-LABORATOIRE DE RECHERCHE ALIEN DE BLACK MESA, LABORATOIRE ROUGE
+BLACK MESA ALIEN RESEARCH LAB, RED LAB
 
 
-Le laboratoire rouge. Il est à la hauteur de sa couleur. Non pas par ses murs, mais par son contenu. Et dans le liquide se trouvent ceux amenés ici pour étude.
+Le laboratoire rouge. Il est à sa hauteur. Pas par ses murs, mais par son contenu. Et dans le liquide sont ceux qui sont amenés ici pour étudier.
 
-Infanterie extraterrestre. Ils ont été capturés, tranquillisés, trempés dans du formol et alignés comme des objets à conviction. Mais ils ne sont pas morts. Ils attendent leur heure. Et aujourd’hui, semble-t-il, c’est leur jour de congé.
+L'infanterie étrangère. Ils ont été capturés, tranquillisés, trempés de formine et alignés comme des expositions. Mais ils ne sont pas morts. Ils demandent leur temps. Et aujourd'hui, il semble, est leur jour de congé.
 
-Parce que tout le laboratoire est jonché de Mental et de H.E.C.U. forces. Ils sont là. En même temps.
+Parce que le labo entier est jonché de forces mentales et de S.E.C.U. Ils sont là. En même temps.
 
-Dans une pièce. C'est comme une poudrière, où quelqu'un fume, quelqu'un allume un briquet et quelqu'un apporte un bidon d'essence juste pour avoir de la compagnie.
+Dans une pièce. C'est comme un baril de poudre, où quelqu'un fume, quelqu'un allume un briquet, et quelqu'un a apporté une boîte d'essence juste pour la compagnie.
 
-Nous recherchons le scientifique rapidement, mais sans compromettre la sécurité. Once you find it, assess the situation. If the exit is clear, lead the way. Sinon, attendez que les ennemis se dispersent ou soient distraits.
+Nous cherchons le scientifique rapidement, mais sans compromettre la sécurité. Une fois que vous le trouvez, évaluez la situation. Si la sortie est libre, dirigez-vous. Sinon, attendez que les ennemis se dispersent ou soient distraits.
 
-Aller.
+Allez.

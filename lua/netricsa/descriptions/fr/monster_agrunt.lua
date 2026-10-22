@@ -1,23 +1,23 @@
-GROGNEMENT ALIEN DE XEN
+MONTANT DE L'ALIEN DE XEN
 
 
-CLASS: Grunt extraterrestre
-METABOLISM: infanterie xénobiologique
-PERCEPTION: Infanterie cultivée artificiellement
-SIZE: ~6 pieds de haut
-ENDURANCE: moyen
-HOSTILITY: haut
-WEAPONS: Frelons (tirés depuis un canon à bras intégré), attaques au corps à corps, tactiques de meute
-REWARD: 700FC
-THREAT: modéré individuellement, élevé en équipe
+CLASSE:      Alien Grunt
+MÉTABOLISME: infanterie xénobiologique
+PERCEPTION: Infanterie artificielle
+TAILLE:       6 pieds de haut
+ENDURANCE:  moyenne
+HOSTILITÉ:  élevé
+ARMES:    Hornets (tirés du canon à bras intégré), attaques à la mêlée, tactiques de pack
+RÉCOMPENSE:     700 FC
+MENACE:     modéré individuellement, haut dans les équipes
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les Alien Grunts sont des fantassins de Xen produits en série, essentiellement construits dans des usines comme troupes de choc obéissantes. Leurs corps coriaces et humanoïdes sont équipés de canons à bras organiques qui tirent sur des frelons grouillants - une arme à projectile intégrée qui cherche sans relâche des cibles.
+Alien Grunts sont des soldats de pied de Xen, fabriqués en série, construits essentiellement dans des usines comme des troupes de choc obéissantes. Leurs corps humanoïdes en cuir sont équipés de canons à bras organiques qui tirent des Hornets en essaimage - une arme projectile intégrée qui cherche sans relâche des cibles.
 
-Bien qu'ils ne soient pas très intelligents individuellement, les Grunts sont terrifiants en groupe. Ils patrouillent avec précision dans les couloirs Xen, souvent guidés par des contrôleurs pour faire respecter la loi sur les extraterrestres. Leurs visages légèrement semblables à ceux d'un contrôleur leur confèrent une aura étrangement menaçante, comme celle d'un gars d'usine grincheux avec des jouets mortels.
+Bien que individuellement pas très intelligent, Grunts sont terrifiants en groupes. Ils patrouillent les couloirs Xen avec précision, souvent guidés par des contrôleurs pour faire respecter la loi extraterrestre. Leurs visages légèrement contrôleurs leur donnent une aura bizarrement menaçante, comme un homme d'usine grincheux avec des jouets mortels.
 
-TIPS: 
+CONSEILS:
 
-- Le feu des frelons est rapide et persistant - continuez à avancer pour éviter d'être submergé.
-- Les explosifs ou les tirs concentrés fonctionnent mieux que les tirs isolés.
+- Le feu de cornet est rapide et persistant - continuez à bouger pour éviter d'être submergé.
+- Les explosifs ou le feu concentré fonctionnent mieux que les tirs simples.

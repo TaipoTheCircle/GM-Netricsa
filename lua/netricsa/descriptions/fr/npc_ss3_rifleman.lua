@@ -1,20 +1,20 @@
-M29 RIFLEMAN CLONED SOLDIER
+M29 REFLEMAN VENDU
 
 
-CLASS: Soldat cloné de carabinier M29
-METABOLISM: Clone humain modifié cybernétiquement
+CLASSE:      M29 Rifleman Soldat cloné
+MÉTABOLISME: Clone humain modifié de façon cybernétique
 PERCEPTION: Cyber-infanterie mentale
-SIZE: 6 pieds
-ENDURANCE: Faible
-HOSTILITY: Moyen
-WEAPONS: Fusil d'assaut M29, coup de pied
-REWARD:     300 FC
-THREAT: Faible
+TAILLE:       6 pieds
+ENDURANCE:  Faible
+HOSTILITÉ:  Moyenne
+ARMES:    M29 Rifle d'assaut, coup de pied
+RÉCOMPENSE:     300 FC
+MENACE:     Faible
 
 DESCRIPTION:
 
-The basic infantry of Mental's army, created by cloning and cybernetically modifying captured or deceased Earth Defense Alliance soldiers. They have a distinctive metal helmet with five red sensors in place of a face, allowing them to see in poor visibility. Their free will is suppressed by an implanted life-control unit, leaving only basic combat instincts and the ability to receive orders. They wear standard camouflage and light armor. Despite their modifications, they retain a vestige of humanity: ils ressentent de la douleur, peuvent boiter lorsqu'ils sont blessés et agoniser avant de mourir. Au combat, ils utilisent la couverture, rechargent et opèrent en groupe.
+L'infanterie de base de l'armée de Mental, créée par le clonage et modifiant cybernétiquement les soldats capturés ou décédés de l'Alliance de Défense de la Terre. Ils ont un casque métallique distinctif avec cinq capteurs rouges à la place d'un visage, leur permettant de voir dans une mauvaise visibilité. Leur libre arbitre est supprimé par une unité de contrôle de la vie implantée, ne laissant que les instincts de combat de base et la capacité de recevoir des ordres. Ils portent un camouflage standard et une armure légère. Malgré leurs modifications, ils conservent un vestige de l'humanité : ils ressentent la douleur, peuvent boiter lorsqu'ils sont blessés et s'agonisent avant la mort. Au combat, ils utilisent la couverture, rechargent et opèrent en groupes.
 
-TIPS:
+CONSEILS:
 
-- Des tirs en rafale avec un fusil d'assaut. Faible seul, dangereux en groupe à moyenne portée.
+- Un fusil d'assaut a explosé. Faible seul, dangereux dans un groupe à moyenne portée.

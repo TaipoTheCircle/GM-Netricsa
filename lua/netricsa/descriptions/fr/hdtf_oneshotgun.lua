@@ -1,15 +1,15 @@
-FUSIL DOUBLE
+FEUILLES
 
 
-WEAPON: Fusil double
-AMMO: Coquilles de calibre 12
-ROF: ~46,5 explosions/min
+ARME: Double fusil de chasse
+MUNITIONS:   coques de 12 calibres
+CADENCE DE TIR:    ~46,5 explosions/min 
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Double Shotgun est un fusil de chasse à double canon côte à côte. Lorsqu'il est déclenché, il tire les deux canons simultanément, délivrant une puissante propagation de plombs. Sa portée est relativement faible pour ce type d'arme, ce qui la rend viable à moyenne portée. Après le tir, il y a un bref délai avant de pouvoir tirer à nouveau.
+Le fusil à double canon est un fusil à double canon. Lorsqu'il est déclenché, il tire les deux barils simultanément, fournissant une puissante propagation de pellets. Il est relativement serré pour ce type d'arme, ce qui le rend viable à moyenne portée. Après le tir, il y a un court délai avant qu'il puisse tirer à nouveau.
 
-NOTES: 
+REMARQUES:
 
-- Idéalement utilisé contre les ennemis de force moyenne comme les squelettes et les lévitateurs de Kleer.
-- La courte portée avec une propagation complète des plombs peut éliminer de nombreux ennemis faibles en un seul coup.
+- Mieux utilisé contre les ennemis à moyenne résistance comme Kleer Skeletons et Levitators.
+- Ferme portée avec la pleine épandage de granulés peut éliminer de nombreux ennemis faibles en un seul coup.

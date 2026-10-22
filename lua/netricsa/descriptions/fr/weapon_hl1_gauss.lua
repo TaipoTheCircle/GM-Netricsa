@@ -1,16 +1,16 @@
-CANON TAU
+TAU CANNON
 
 
-WEAPON: Canon Tau (arme à énergie expérimentale)
-AMMO: Cellules à l'uranium 235
-ROF: Faisceau continu ou tir chargé
+ARME:      Tau Cannon (arme à énergie expérimentale)
+MUNITIONS:        Cellules Uranium-235
+CADENCE DE TIR:         Poutre continue ou tir chargé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Accélérateur de particules prototype tirant des particules d'uranium à haute vitesse. Peut libérer des faisceaux rapides de faible puissance ou charger une décharge massive capable d'effacer des cibles instantanément.
+Prototype accélérateur de particules tirant des particules d'uranium à haute vitesse. Peut libérer des faisceaux rapides de faible puissance ou de charge pour une décharge massive capable d'effacer instantanément des cibles.
 
-NOTES: 
+REMARQUES:
 
-- Le mode Charge inflige d'immenses dégâts.
-- Risque d'automutilation en cas de décharge trop près.
-- Efficace contre les ennemis organiques et blindés.
+- Le mode charge provoque d'énormes dégâts.
+- Risque d'automutilation s'il est libéré trop près.
+- Efficace contre les ennemis biologiques et blindés.

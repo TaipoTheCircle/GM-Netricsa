@@ -1,16 +1,16 @@
-COMBINEZ LE SLAM
+SLAM COMBINE
 
 
-WEAPON: Combiner SLAM (Combiner des munitions d'attaque légères sélectionnables)
-AMMO: Charges explosives déclenchées à distance
-ROF: Placement manuel, détonation à distance
+ARME:      Combiner SLAM (Munition d'attaque légère sélectionnable en combinaison)
+MUNITIONS:        Charges explosives détonées à distance
+CADENCE DE TIR:         Emplacement manuel, détonation à distance
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Engin explosif tactique déployable capable d’être fixé à des surfaces. Peut être armé et déclenché à distance, permettant des embuscades, des pièges ou le nettoyage de positions fortifiées. Utilisé aussi bien par la Résistance que par les forces combinées.
+Dispositif explosif tactique déployable pouvant être fixé aux surfaces. Peut être armé et détoné à distance, permettant des embuscades, des pièges ou le dégagement de positions fortifiées. Utilisé par Résistance et Combiner les forces.
 
-NOTES: 
+REMARQUES:
 
-- Permet un placement stratégique pour le refus de zone.
+- Permet un placement stratégique pour le déni de zone.
 - La détonation à distance assure un timing précis.
-- Peut adhérer aux murs, aux sols ou aux véhicules.
+- Peut coller aux murs, aux planchers ou aux véhicules.

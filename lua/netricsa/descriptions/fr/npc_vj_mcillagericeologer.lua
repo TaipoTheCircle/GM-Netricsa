@@ -1,33 +1,33 @@
-ICEOLOGER DU MINECRAFT OVERWORLD
+ICEOLOGER DE L'EXERCICE MINECRAFT
 
-CLASS: Iceologue
-METABOLISM: Illageur doté de dons magiques
-PERCEPTION: Sorcière des Glaces/lanceur de sorts
-SIZE: 6,2 pieds
-ENDURANCE: Haut
-HOSTILITY: Absolu
-WEAPONS: Invoquer un bloc de glace
-REWARD: 700FC
-THREAT: Très élevé
+CLASSE:      Iceologer
+MÉTABOLISME: Illager magiquement doué
+PERCEPTION: Sorcière / Spellcaster
+TAILLE:       6,2 pi
+ENDURANCE:  Haut
+HOSTILITÉ:  Absolu
+ARMES:    Invoquer le bloc de glace
+RÉCOMPENSE:     700 FC
+MENACE:     Très élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-L'un des mages les plus dangereux parmi les Illagers, il utilise une puissante magie de glace au combat. Alors qu'un voleur normal tire simplement et qu'un invocateur crée des crocs et des Vex, l'Iceologer invoque un bloc de glace sur la tête de la victime, qui non seulement inflige d'énormes dégâts mais étourdit également l'ennemi pendant plusieurs secondes.
+Un des mages les plus dangereux parmi les Illagers, il utilise une puissante magie de glace au combat. Alors qu'un voyou normal tire tout simplement, et qu'un invocateur crée des crocs et du Vex, l'Iceologer convoque un bloc de glace sur la tête de la victime, qui non seulement inflige des dégâts massifs, mais aussi étourdit l'ennemi pendant plusieurs secondes.
 
-L'apparence de l'Iceologer est remarquablement différente de celle de ses homologues Rogue et Vindicator. Il porte une longue robe bleue avec des bordures blanches et ses yeux sont brun rougeâtre. Des motifs bleus – des marques rituelles – ornent son visage, soulignant son lien avec la magie.
+L'apparence de l'Iceologer est remarquablement différente de ses homologues Rogue et Vindicator. Il porte une longue robe bleue avec des garnitures blanches, et ses yeux sont brun rougeâtre. Des motifs bleus-dessins rituels-adorn son visage, soulignant son lien avec la magie.
 
-Au combat, l'Iceologer est un mage de soutien classique. Il ne s'engage jamais dans un combat rapproché, préférant garder ses distances et faire pleuvoir des sorts sur ses ennemis.
+Au combat, l'Iceologer est un mage de soutien classique. Il ne s'engage jamais dans un combat étroit, préférant garder sa distance et les sorts de pluie sur ses ennemis.
 
-The Sorcerer's main and only combat ability is summoning a huge ice block directly above the enemy's head. The block doesn't fall instantly: il plane pendant 1,75 à 4 secondes, poursuivant la cible, puis s'écrase. Lors d'un impact avec le sol ou une victime, le bloc explose, infligeant d'énormes dégâts et étourdissant tout le monde dans son rayon.
+La seule capacité de combat du Sorcier est de convoquer un énorme bloc de glace directement au-dessus de la tête de l'ennemi. Le bloc ne tombe pas instantanément : il vole pendant 1,75-4 secondes, poursuit la cible, puis s'écrase. Lors de l'impact avec le sol ou une victime, le bloc explose, infligeant des dégâts massifs et étourdissant tout le monde dans son rayon.
 
 Techniquement, le bloc est un triple cube de glace recouvert de neige.
 
-Il déteste les Glow Squids.
+Il déteste les calmars.
 
-TIPS: 
+CONSEILS:
 
-- L'Iceologer est une cible prioritaire. Tant qu'il est en vie, un bloc de glace sera constamment suspendu au-dessus de votre tête.
-- Pendant le lancement, il est immobile, la fenêtre parfaite pour une attaque.
-- Ne reste pas immobile. Le bloc suit la cible, mais tombe là où vous étiez lorsqu'il s'est verrouillé. Un mouvement constant réduit le risque de coup direct.
-- Si vous entendez le son distinctif d'un sort, déplacez-vous immédiatement sur le côté.
-- Utilisez une couverture. Le bloc ne tombe que là où vous avez une ligne de vue dégagée.
+- Iceologer est une cible prioritaire. Pendant qu'il est en vie, un bloc de glace vous pendra constamment au-dessus de la tête.
+- En casting, il est immobile, la fenêtre parfaite pour une attaque.
+- Ne bougez pas. Le bloc suit la cible, mais tombe là où vous étiez quand il est verrouillé. Un mouvement constant réduit le risque de frappe directe.
+- Si vous entendez le son distinctif d'un sort, passez immédiatement sur le côté.
+- Couvre-toi. Le bloc tombe seulement là où vous avez une ligne de vue claire.

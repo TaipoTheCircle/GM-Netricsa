@@ -1,16 +1,16 @@
-HACHE
+AXE
 
 
-WEAPON: Hache
-AMMO: Aucun (mêlée)
-ROF: ~60 frappes/min
+ARME: Axe
+MUNITIONS:   Aucune
+CADENCE DE TIR:    ~60 grèves/min
 
-DESCRIPTION: 
+DESCRIPTION:
 
-The axe is a crude but reliable melee weapon. Its sharp blade and heavy poll deliver powerful chopping blows capable of ripping flesh and smashing wooden obstacles. Simple to use and effective when paired with mobility or ambush tactics: une ou deux frappes bien placées peuvent éliminer des ennemis faibles ou blesser gravement des ennemis plus gros.
+La hache est une arme brute mais fiable. Sa lame tranchante et son lourd sondage délivrent de puissants coups de coupe capables de déchirer la chair et de briser les obstacles en bois. Simple à utiliser et efficace lorsqu'il est associé à des tactiques de mobilité ou d'embuscade : une ou deux frappes bien placées peuvent envoyer des ennemis faibles ou des ennemis plus grands gravement blessés.
 
-NOTES: 
+REMARQUES:
 
-- Dégâts élevés en un seul coup lors d'un impact direct ; utile pour déchiqueter les ennemis regroupés à courte portée.
-- Peut briser des accessoires en bois et certains objets de couverture présents dans l'environnement.
-- Mécanique simple - niveau de compétence faible, mais nécessite une distance proche de la cible.
+- De grands dommages à l'impact direct; utiles pour déchiqueter les ennemis groupés à portée de main.
+- Peut casser des accessoires en bois et certains objets de couverture dans l'environnement.
+- Mécanique directe - plancher de faible compétence, mais nécessite une distance de fermeture à la cible.

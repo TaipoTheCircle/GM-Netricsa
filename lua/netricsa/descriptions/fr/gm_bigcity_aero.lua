@@ -1,16 +1,16 @@
-GRANDE VILLE AÉRO, VILLE VIBE
+BIG AERO CITY, VIBE CITY
 
 
-Sam, nous venons d'être transportés dans une ville du futur... des années 2000.
+Sam, nous venons d'être transportés dans une ville du futur... depuis les années 2000.
 
-La nature a conquis le béton. Un tiers de la ville a été démoli (littéralement « rasé ») pour y ajouter de la verdure. Parce que dans un avenir radieux, les gens ont besoin de respirer.
+La nature a conquis le béton. Un tiers de la ville a été démoli (littéralement « rasé au sol ») pour ajouter de la verdure. Parce que dans un avenir radieux, les gens doivent respirer.
 
-L'eau est enfin apparue. Les canaux autrefois secs et tristes sont désormais remplis d'eau. Vous pouvez tremper vos ennemis ou simplement vous mouiller les pieds.
+L'eau est enfin apparue. Les canaux autrefois secs et tristes sont maintenant remplis d'eau. Vous pouvez tremper vos ennemis ou simplement mouiller vos pieds.
 
-Une piscine. Cela devient déjà une tradition. Apparemment, aucun reskin Aero qui se respecte n’est complet sans un jacuzzi.
+Une piscine. Cela devient déjà une tradition. Apparemment, il n'y a pas de reskin Aero qui se respecte sans jacuzzi.
 
-Les Twin Towers (WTC) sont ouvertes. Vous pouvez y monter et explorer les environs. Si vous n'avez pas peur des hauteurs et du karma de l'avion.
+Les tours jumelles (WTC) sont ouvertes. Vous pouvez aller là-haut et explorer les environs. Si vous n'avez pas peur des hauteurs et du karma d'avion.
 
-Aucune ambiance d'horreur. L’architecte a délibérément nettoyé tout ce qui était effrayant, désagréable et oppressant. Fini les frayeurs dans les ruelles sombres. Juste de la lumière, de la verdure et du calme. Parenté, bien sûr.
+Pas d'ambiance d'horreur. L'architecte a délibérément tout nettoyé effrayant, désagréable et oppressif. Plus de sauts dans les ruelles sombres. Juste la lumière, la verdure et la paix. Relativement, bien sûr.
 
-Allons nager... ou plutôt regarder autour de nous.
+Allons nager... ou plutôt regarder autour.

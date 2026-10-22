@@ -1,23 +1,23 @@
-CRABE ZOMBIE COMMUN, ALPHA
+CHEADCRAB ZOMBIE COMMUN, ALPHA
 
 
-CLASS: Crabe Zombie Commun, Alpha
-METABOLISM: Hôte humain (Alpha Scientist) + Crabe parasite commun
+CLASSE:      Cramoisi Zombie Fréquent, Alpha 
+MÉTABOLISME: Hôte humain (Alpha Scientist) + Crabou parasite commun
 PERCEPTION: Entité zombifiée
-SIZE: ~6 pieds
-ENDURANCE: Élevé (mutation alpha, tissu résilient)
-HOSTILITY: Extrême (agressif, mène d'autres zombies)
-WEAPONS: Attaques de mêlée (griffes, balançoires), grappling
-REWARD: 400FC
-THREAT: Élevé individuellement, catastrophique en groupe
+TAILLE:       6 pieds
+ENDURANCE:  Élevée (mutation alpha, tissu résilient)
+HOSTILITÉ:  Extreme (agressive, mène d'autres zombies)
+ARMES:    Attaques de Melee ( griffes, balançoires)
+RÉCOMPENSE:     400 FC
+MENACE:     Élevé individuellement, catastrophique en groupes
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les Alpha Scientist Zombies sont d'anciens chercheurs de Black Mesa infectés et mutés par des Headcrabs en formes idiotes. Contrairement aux zombies crabes communs, les alphas – VOUS PRENDEZ TROP LONG.
+Alpha Scientist Zombies sont d'anciens chercheurs de Black Mesa infectés et mutés par les cabillauds sous des formes idiotes. Contrairement aux zombies de cambriolage communs, alphas - VOTRE TAKING TOO LONG.
 
-Leur transformation grotesque laisse des parties de la blouse de l'hôte fusionnées avec des tissus extraterrestres, leur donnant une apparence tordue, intellectuelle mais monstrueuse.
+Leur transformation grotesque laisse des parties de la couche de laboratoire de l'hôte fusionné avec des tissus exotiques, leur donnant une apparence tordue, intellectuelle mais monstrueuse.
 
-TIPS: 
+CONSEILS:
 
-- Les armes à feu ou les explosifs fonctionnent mieux ; évitez la mêlée si possible.
-- Surveillez les embuscades : elles apparaissent souvent là où les scientifiques travaillaient autrefois.
+- Les armes à feu ou les explosifs fonctionnent mieux; évitez de se mêler si possible.
+- Surveillez les embuscades - elles apparaissent souvent là où les scientifiques travaillaient.

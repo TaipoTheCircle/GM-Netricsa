@@ -1,12 +1,12 @@
-BLACK MESA, PERCHOIR DU SNIPER
+MESA BLACK, PERCEPTEUR
 
 
-Sam, finally some good news. The interference cloud is dissipating - my full sensor suite is back online. I can once again read terrain, structures, and long-range activity. Translation: vous ne volez plus à l'aveugle.
+Sam, enfin une bonne nouvelle. Le nuage d'interférence se dissipe - ma suite de capteurs est de retour en ligne. Je peux à nouveau lire le terrain, les structures et l'activité à longue distance. Traduction : vous n'êtes plus aveugle.
 
-Cependant, la situation en surface est... compliquée. Le trafic de renseignements confirme que le H.E.C.U. et Black Ops convergent vers votre emplacement. Tout le monde dit encore que « Freeman » est le facteur clé de tout ce chaos. Devine quoi, Sam, ils parlent de toi. Soit personne n'a pris la peine de vérifier les identités, soit l'univers pense simplement qu'« une armée composée d'un seul homme au sens de la mode douteux » est une constante universelle.
+Cependant, la situation est... compliquée. Le trafic de renseignements confirme que les opérations H.E.C.U. et Black convergent sur votre emplacement. Tout le monde parle encore de "Freeman" étant le facteur clé de tout ce chaos. Ils parlent de toi. Soit personne n'a pris la peine de vérifier les ID, soit l'univers pense simplement que "Un homme armée avec sens de la mode douteux" est une constante universelle.
 
-As for the immediate threat: les capteurs ont détecté un H.E.C.U. organisme de tireur d'élite, camouflé contre la paroi rocheuse. Les habitants l'appellent le Stone Sniper. Très précis, très dangereux et ce n'est pas quelque chose que vous voulez regarder deux fois.
+As for the immediate threat: des détecteurs ont capté un organisme de sniper stationnaire de l'U.E.C.S., camouflé contre la paroi rocheuse. Les locaux l'appellent le tireur d'élite. Très précis, très dangereux, et pas quelque chose que vous voulez regarder à deux reprises.
 
-Pour compliquer encore les choses, deux H.E.C.U. les soldats à proximité discutaient de Freeman. Ils ont pour ordre de vous capturer ou de vous éliminer à vue. De toute évidence, votre légende vous précède – mais pas d’une manière qui vous aide.
+En plus de compliquer les choses, deux soldats de l'U.S.E. à proximité discutaient de Freeman. Ils ont ordre de vous capturer ou de vous éliminer à vue. Clairement, votre légende vous précède - tout simplement pas d'une manière qui aide.
 
-Recommendation: gardez la tête basse, repérez le tireur d'élite avant qu'il ne vous repère et rappelez-vous : qu'ils vous appellent Freeman ou Sam, une balle dans le crâne ne se soucie pas des noms. étant le facteur clé de tout ce chaos.
+Recommendation: garde la tête baissée, repère le tireur avant qu'il ne te repère, et souviens-toi - qu'ils t'appellent Freeman ou Sam, une balle dans le crâne ne se soucie pas des noms. être le facteur clé de tout ce chaos.

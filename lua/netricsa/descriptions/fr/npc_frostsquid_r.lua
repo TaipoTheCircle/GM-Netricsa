@@ -1,22 +1,22 @@
-FROSTSQUID DE XEN
+FROSTSQUID FROM XEN
 
 
-CLASS: Mutant Bullsquid, Givre
-METABOLISM: Carnivore (mutation cryogénique)
-PERCEPTION: Prédateur terrestre de Xen
-SIZE: 8-9 pieds
-ENDURANCE: Moyen (mais résistant aux dommages causés par le froid)
-HOSTILITY: Haut
-WEAPONS: Crachat glacial, griffes de givre, coup de queue glacial
-REWARD: 500FC
-THREAT: Haut
+CLASSE:      Mutant de calmars, Frost
+MÉTABOLISME: Carnivore (mutation cryogène)
+PERCEPTION: Prédateur de terrain de Xen
+TAILLE:       8-9 pieds
+ENDURANCE:  Moyenne (mais résistante au froid)
+HOSTILITÉ:  Haut
+ARMES:    Crache verglaçante, griffes de gel, coup de queue refroidissant
+RÉCOMPENSE:     500 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Les calmars de glace ont évolué pour libérer un liquide surfondu qui gèle les proies. Leurs morsures et leur queue frappent leurs victimes lentes avec des engelures, rendant la fuite presque impossible. On craint qu’ils transforment les champs de bataille en tombeaux glacés.
+Les givres ont évolué pour libérer du liquide surfroid qui gèle les proies solides. Leurs morsures et leur queue frappent lentement les victimes avec des gelures, rendant l'évasion presque impossible. Ils sont craints pour avoir transformé les champs de bataille en tombeaux glacés.
 
-TIPS: 
+CONSEILS:
 
-- La protection thermique permet de résister à ses crachats gelés.
-- Restez mobile pour éviter l'immobilisation par le gel.
+- La protection thermique aide à résister à sa crachat.
+- Restez mobile pour éviter le gel.
 - Les armes à feu sont extrêmement efficaces.

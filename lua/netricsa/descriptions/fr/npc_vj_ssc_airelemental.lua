@@ -1,22 +1,21 @@
-- Peut attaquer dans toutes les directions à la fois.
+KUKULKÁN, LE DIEU VIN
 
 
-CLASS: Kukulkán
-METABOLISM: inorganique
+CLASSE:      Kukulkán, Le Dieu du Vent
+MÉTABOLISME: inorganique
 PERCEPTION: ancienne divinité
-SIZE: variable
-ENDURANCE: extrême
-HOSTILITY: faible
-WEAPONS: tornades, boules de tornade
-REWARD: 500000FC
-THREAT: haut
+TAILLE:       variable
+ENDURANCE:  extrême
+HOSTILITÉ:  faible
+ARMES:    tornades, boules de tornade
+RÉCOMPENSE:     500000 FC
+MENACE:     élevé
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Ancienne divinité maya, Kukulkán n’a rien à voir avec le mental.  En fait, c’est vraiment un bon dieu.  On pense que Kukulkán contrôle le vent et est donc très apprécié des Mayas.  Mais il est aussi le gardien d'un portail laissé par les Siriens, et il faut dire très sérieux !  Kukulkán ne peut pas être détruit - mais c'est un joueur loyal - une fois vaincu, il s'évaporera dans les airs et ouvrira le portail au vainqueur en signe de respect.  Il est vraiment un dieu à tous points de vue.
+Une ancienne divinité maya, Kukulkán n'a rien à voir avec Mental. En fait, c'est un bon dieu. On pense que Kukulkán contrôle le vent donc il est très favorisé par les Mayas. Cependant, il est aussi le gardien d'un portail que les Siriens ont laissé, et il faut dire un portail très sérieux! Kukulkán ne peut pas être détruit - mais il est un joueur équitable - quand défait, il s'évaporera dans l'air mince et ouvrira le portail pour le vainqueur comme un signe de respect. Il est vraiment un dieu de toutes les manières possibles.
 
-TIPS: 
+CONSEILS:
 
-- Évitez les tornades ou vous serez plus près du paradis en un rien de temps.
+- Évitez les torsions ou vous serez plus près du ciel en un rien de temps.
 - Kukulkán est très résistant aux balles, utilisez plutôt des armes explosives.
-

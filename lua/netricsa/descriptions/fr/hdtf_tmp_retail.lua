@@ -1,18 +1,18 @@
-PISTOLET-MACHINE TACTIQUE STEYR TMP
+MACHINE TACTIQUE
 
 
-WEAPON: Pistolet-mitrailleur tactique Steyr TMP
-AMMO: Parabellum 9 × 19 mm
-ROF: 900 tours/min.
-WEIGHT: 1,3 kg
-LENGTH: 282 mm hors tout
+ARME: Pistol de machine tactique Steyr TMP
+MUNITIONS:   9×19 mm Parabellum
+CADENCE DE TIR:    900 tours/min. 
+POIDS: 1,3 kg
+LENGTH: 282 mm au total
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Une mitrailleuse autrichienne compacte conçue par Friedrich Aigner et produite par Steyr Mannlicher dans les années 1990. Construite comme une arme légère et ergonomique de combat rapproché avec une construction en polymère, un canon fileté pour le montage d'un suppresseur et une crosse d'épaule en option pour améliorer le contrôle. Le TMP excelle dans les rôles CQB mobiles où des rafales courtes et à haut débit sont requises.
+Une machine-pistol autrichienne compacte conçue par Friedrich Aigner et produite par Steyr Mannlicher dans les années 1990. Construite comme une arme légère et ergonomique à quartiers rapprochés avec une construction en polymère, baril fileté pour le montage des suppresseurs et un support d'épaule en option pour améliorer le contrôle. Le TMP excelle dans les rôles de CQB mobiles où des rafales courtes et rapides sont nécessaires.
 
-NOTES: 
+REMARQUES:
 
-- Un taux cyclique très élevé favorise les rafales courtes et contrôlées plutôt que le fonctionnement entièrement automatique et soutenu.
-- Portée d'engagement efficace ~ 100 m ; une crosse et une optique améliorent sensiblement la précision pratique.
-- Plate-forme légère et ergonomique qui a servi de base aux conceptions SMG compactes ultérieures.
+- Le taux cyclique très élevé favorise les rafales courtes contrôlées plutôt que les autos complètes soutenues.
+- Plage d'engagement efficace ~100 m; un stock et l'optique améliorent sensiblement la précision pratique.
+- Plate-forme ergonomique légère qui a servi de base à des conceptions SMG plus tard compactes.

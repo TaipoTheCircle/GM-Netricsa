@@ -1,21 +1,21 @@
-Fusil d'assaut Kalachnikov raccourci et pliable AKS-74U
+AKS-74U Rifle d'assaut Kalachnikov raccourci par pliage
 
 
-ARME : Fusil d'assaut Kalachnikov raccourci et pliable AKS-74U
-MUNITIONS : 5,45x39mm
-ROF : ~650-700 tours/min
-POIDS : ~2,7 kg
+ARME: AKS-74U Rifle d'assaut Kalachnikov raccourci par pliage
+MUNITIONS:   5,45x39mm
+CADENCE DE TIR:    ~650-700 tours/min
+POIDS: ~2,7 kg
 
-DESCRIPTIF :
+DESCRIPTION:
 
-Une version raccourcie de l'AKS-74, développée à la fin des années 1970 pour les équipages de véhicules de combat, les avions et autres unités nécessitant l'arme automatique la plus compacte possible. Il est entré en service en URSS en 1980.
+Une version abrégée de l'AKS-74, développée à la fin des années 1970 pour les équipages de véhicules de combat, les aéronefs et d'autres unités nécessitant l'arme automatique la plus compacte possible. Il est entré en service en URSS en 1980.
 
-Le fusil d'assaut présente une longueur de canon d'environ 206 mm seulement, une crosse pliable et une fixation de bouche spéciale qui sert de suppresseur de flash et de chambre d'expansion. Il utilise la cartouche standard de 5,45 x 39 mm et contient 30 cartouches. Malgré sa taille compacte, l'AKS-74U conserve le design général de l'AK-74.
+Le fusil d'assaut est doté d'un canon d'une longueur d'environ 206 mm, d'un dispositif de pliage et d'une muselière spéciale qui sert de dispositif d'extinction et de chambre d'expansion. Il utilise la cartouche standard 5,45x39mm et détient 30 ronds. Malgré sa taille compacte, l'AKS-74U conserve la conception générale de l'AK-74.
 
-En raison de son canon très court, l'AKS-74U est sensiblement inférieur à l'AK-74 pleine grandeur en termes de précision et de portée efficace, mais il est beaucoup plus pratique dans les espaces restreints, lors du transport et lorsqu'il est transporté dissimulé.
+En raison de son barillet très court, l'AKS-74U est nettement inférieur à l'AK-74 pleine grandeur en précision et en portée efficace, mais est beaucoup plus pratique dans les espaces restreints, le transport et lorsqu'il est transporté caché.
 
-REMARQUES :
+REMARQUES:
 
-- Un fusil d'assaut très compact, particulièrement adapté au combat rapproché.
-- Designed for vehicle crews and other soldiers for whom the standard AK-74 was too long.
-- When folded, it becomes so short that a full-size AK-74 looks almost like a rifle next to it.
+- Un fusil d'assaut très compact, particulièrement adapté pour les combats de quartier rapproché.
+- Conçu pour les équipages de véhicules et les autres soldats pour lesquels l'AK-74 standard était trop long.
+- Lorsqu'il est replié, il devient si court qu'un AK-74 ressemble presque à un fusil à côté.

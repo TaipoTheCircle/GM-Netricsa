@@ -1,22 +1,22 @@
-DEVILSQUID DE XEN
+DEVILSQUIES DE XEN
 
 
-CLASS: Mutant Bullsquid, Feu
-METABOLISM: Carnivore (pyro-augmenté)
-PERCEPTION: Prédateur terrestre de Xen
-SIZE: 8 pieds
-ENDURANCE: Élevé (peau ignifuge)
-HOSTILITY: Extrême
-WEAPONS: Crachat enflammé, griffes, fouet à queue brûlant
-REWARD: 500FC
-THREAT: Haut
+CLASSE:      Mutant de calmars, feu
+MÉTABOLISME: Carnivore (pyro-augmenté)
+PERCEPTION: Prédateur de terrain de Xen
+TAILLE:       8 pieds
+ENDURANCE:  Élevée (peau résistante au feu)
+HOSTILITÉ:  Extrême
+ARMES:    Crache flamboyante, griffes, fouet de queue brûlant
+RÉCOMPENSE:     500 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Le Devilsquid est une mutation infernale du Bullsquid, crachant une bile incendiaire qui enflamme tout ce qu'il touche. Son corps rayonne de chaleur et son coup de queue laisse des traînées brûlantes sur le sol. Ces bêtes mettent souvent le feu à tout leur terrain de chasse.
+Le diable est une mutation infernale du taureau, crachant la bile incendiaire qui allume tout ce qu'il touche. Son corps rayonne de chaleur, et sa queue glisse des traces brûlantes sur le sol. Ces bêtes ont souvent mis tout leur terrain de chasse en feu.
 
-TIPS: 
+CONSEILS:
 
-- Une armure ignifuge est indispensable.
-- Utilisez des armes à glace ou à base d'eau lorsque cela est possible.
+- Une armure anti-incendie est essentielle.
+- Utilisez des armes à base de glace ou d'eau si possible.
 - Ne le combattez pas dans des espaces clos et inflammables.

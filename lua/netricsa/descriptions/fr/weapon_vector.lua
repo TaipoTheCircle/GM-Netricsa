@@ -1,15 +1,15 @@
-KRISS VECTOR SUBMACHINE GUN
+SUBMACHINE DU SECTEUR KRISS
 
 
-WEAPON: Kriss vecteur
-MUNITIONS Cartouches .45 ACP
-ROF: ~850 tours/min
+ARME:      Vecteur KRISS
+MUNITIONS:        .45 cartouches ACP 
+CADENCE DE TIR:         ~850 tours/min
 
 DESCRIPTION:
 
-Une mitraillette développée par Transformational Defence Industries (TDI). Il présente une conception unique qui minimise le recul et la montée de la bouche.
+Une mitrailleuse développée par Transformational Defense Industries (TDI). Il dispose d'un design unique qui minimise le recul et l'élévation du museau.
 
-NOTES:
+REMARQUES:
 
 - Convient aux opérations secrètes.
 

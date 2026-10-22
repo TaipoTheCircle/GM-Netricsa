@@ -1,38 +1,38 @@
-GHAST DU MINECRAFT NETHER
+GHAST DU RÉSEAU MINECRAFT
 
 
-CLASS: Horreur
-METABOLISM: Indéfini
-PERCEPTION: Foule volante hostile
-SIZE: ~13 pieds
-ENDURANCE: Moyenne
-HOSTILITY: Haut
-WEAPONS: Boules de feu
-REWARD: 350FC
-THREAT: Haut
+CLASSE:      Ghaste
+MÉTABOLISME: Indéfini
+PERCEPTION: La mafia aérienne hostile
+TAILLE:       ~13 pieds
+ENDURANCE:  Moyenne
+HOSTILITÉ:  Haut
+ARMES:    Boules de feu
+RÉCOMPENSE:     350 FC
+MENACE:     Haut
 
-DESCRIPTION: 
+DESCRIPTION:
 
-Elle ressemble à une énorme méduse blanche dotée de neuf tentacules, flottant sans but dans le Nether, émettant des sons déchirants rappelant les cris d'un enfant. Les yeux et la bouche du Ghast sont généralement fermés, ce qui le fait paraître, sinon paisible, du moins indifférent. Mais cette impression est trompeuse.
+Il ressemble à une énorme méduse blanche avec neuf tentacules, flottant sans but à travers la Nether, émettant des sons déchirants qui rappellent le cri d'un enfant. Les yeux et la bouche du Ghast sont généralement fermés, ce qui le rend, sinon paisible, au moins indifférent. Mais cette impression est trompeuse.
 
-Les Ghasts habitent les terres désolées du Nether, les deltas de basalte et les vallées de sable des âmes, partout où il y a suffisamment d'espace ouvert pour s'étendre.
+Les Ghasts habitent les friches du Nether, des deltas basaltes et des vallées de sable de l'âme, n'importe où avec suffisamment d'espace libre pour s'étendre.
 
-Ghasts have a unique way of detecting targets: ils peuvent les repérer jusqu'à 100 mètres de distance, mais ne tirent que lorsqu'ils ont une ligne de vue dégagée. Tous les blocs solides, y compris le verre et le feuillage, interrompent leur ligne de vue. Les Ghasts ne tentent pas d'approcher leurs victimes.
+Ghasts have a unique way of detecting targets: ils peuvent les repérer de jusqu'à 100 mètres, mais seulement le feu quand ils ont une ligne de vue claire. Tous les blocs solides, y compris le verre et le feuillage, interrompent leur ligne de vue. Les Ghasts ne tentent pas d'approcher leurs victimes.
 
-The ghast's main weapon is a fireball, which flies in a perfectly straight trajectory at the speed of a projectile and explodes on impact. The fireball cannot be knocked off course, but can be deflected by any attack: une épée, une main, une flèche, une boule de neige ou même un œuf. Un projectile qui touche un fantôme inflige 1 000 dégâts, garantissant une mort instantanée.
+L'arme principale est une boule de feu, qui vole dans une trajectoire parfaitement droite à la vitesse d'un projectile et explose à l'impact. La boule de feu ne peut être arrachée, mais peut être déviée par n'importe quelle attaque : une épée, une main, une flèche, une boule de neige ou même un œuf. Un projectile qui frappe un affreux inflige 1000 dégâts, garantissant la mort instantanée.
 
-Malgré leur apparence et leur taille terrifiantes, les Ghasts ont moins de santé que les zombies. Vous pouvez en tuer un avec un arc, une épée (si vous pouvez vous en approcher) ou une boule de feu réfléchie. Un horrible mort laisse tomber de la poudre à canon et une larme horrible, qui sont nécessaires pour fabriquer une potion de régénération et fabriquer un cristal final.
+Malgré son apparence terrifiante et sa taille, les ghasts ont moins de santé que les zombies. Vous pouvez en tuer un avec un arc, une épée (si vous pouvez vous approcher), ou une boule de feu réfléchie. Un ghast mort tombe de la poudre et une déchirure, qui est nécessaire pour faire une potion de régénération et fabriquer un cristal d'extrémité.
 
-Les Ghasts ont de nombreuses propriétés étranges. Ce ne sont pas des morts-vivants : ils se noient dans l'eau, subissent des dégâts causés par des potions dommageables et sont soignés par des potions de guérison. Ils sont également complètement immunisés contre le feu et la lave, peuvent s'asseoir dans des wagonnets (tout en continuant à tirer) et leur célèbre cri est tout aussi fort à n'importe quelle distance. Si un fantôme vole trop près d'un mur, il peut se faire exploser avec son propre projectile.
+Les Ghasts ont de nombreuses propriétés étranges. Ils ne sont pas morts-ils se noient dans l'eau, prennent des dommages de potions nuisibles, et sont guéris par potions de guérison. Ils sont également complètement à l'abri du feu et de la lave, peuvent s'asseoir dans des mines dearts (tout en tirant), et leur célèbre cri est tout aussi fort de toute distance. Si un hast vole trop près d'un mur, il peut se faire exploser avec son propre projectile.
 
-Dernièrement, des rumeurs ont circulé en ligne à propos des « ghasts heureux », des « ghasts pour bébés » et des « ghasts séchés » – tous des fanfictions et mods ; rien de tel n'existe dans le jeu officiel.
+Dernièrement, des rumeurs ont circulé en ligne au sujet de « happy ghasts », « baby ghasts », et « dryed ghasts »-tout fan fiction et mods; rien de ce genre n'existe dans le jeu officiel.
 
-TIPS: 
+CONSEILS:
 
-- Si vous entendez des pleurs, levez les yeux et cherchez leur source. L’horreur est peut-être loin, mais vous pouvez toujours l’entendre.
-- Ne vous tenez pas au bord d'une falaise de Netherrack. Une explosion et vous tomberez dans la lave.
-- Les boules de feu peuvent et doivent être déviées. C'est le moyen le plus rapide de tuer un horrible.
-- Cachez-vous sous les surplombs ou dans les tunnels étroits - les horribles ne peuvent pas vous y voir.
-- Pour une victoire garantie, utilisez un arc avec un enchantement Force.
-- Si le fantôme est suspendu directement au-dessus de la lave, préparez-vous à ce que la goutte brûle. Il est préférable de l'attirer sur une surface solide.
-- Les vitres, le feuillage et les portails bloquent votre vue - vous pouvez vous cacher derrière eux.
+- Si vous entendez pleurer, cherchez sa source. Le malheur est peut-être loin, mais vous pouvez toujours l'entendre.
+- Ne restez pas sur le bord d'une falaise. Une explosion et vous tomberez dans la lave.
+- Les boules de feu peuvent et doivent être déviées. C'est le moyen le plus rapide de tuer un monstre.
+- Cachez-vous sous les surplombs ou dans les tunnels étroits - le ghast ne peut pas vous voir là-bas.
+- Pour un meurtre garanti, utilisez un arc avec un enchantement de Force.
+- Si le gâchis est suspendu directement sur la lave, préparez-vous à brûler. Il vaut mieux l'attirer sur une surface solide.
+- Le verre, le feuillage et les portails bloquent votre vue - vous pouvez vous cacher derrière eux.
