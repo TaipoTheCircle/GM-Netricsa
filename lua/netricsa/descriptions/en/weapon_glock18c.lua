@@ -1,9 +1,9 @@
 GLOCK 18C PISTOL
 
 
-WEAPON:     Glock 18C
-AMMUNITION: 9X19
-ROF:        1200 rounds / min
+WEAPON: Glock 18C Pistol
+AMMO:   9X19
+ROF:    1200 rounds / min
 
 DESCRIPTION:
 

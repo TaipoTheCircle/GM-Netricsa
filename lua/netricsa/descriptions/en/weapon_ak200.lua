@@ -1,13 +1,13 @@
 AK-200 ASSAULT RIFLE
 
 
-WEAPON:      AK-200 assault rifle
-AMMUNITION:  5.45×39 mm
-ROF:         ~900 rounds / min
+WEAPON: AK-200 assault rifle
+AMMO:   5.45x39 mm
+ROF:    ~900 rounds / min
 
 DESCRIPTION:
 
-A modern modification of the iconic assault rifle, known for its reliability and durability. Redesigned to fire 5.45×39 mm cartridges. Various modules can be attached to it.
+A modern modification of the iconic assault rifle, known for its reliability and durability. Redesigned to fire 5.45x39 mm cartridges. Various modules can be attached to it.
 
 NOTES:
 

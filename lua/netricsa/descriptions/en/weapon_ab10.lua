@@ -1,9 +1,9 @@
 AB-10 SELF-LOADING PISTOL
 
 
-WEAPON:      AB-10
-AMMUNITION:  9x19 cartridges
-ROF:         ~20 rounds / min
+WEAPON: AB-10
+AMMO:   9x19 cartridges
+ROF:    ~20 rounds / min
 
 DESCRIPTION:
 
@@ -12,9 +12,3 @@ A semi-automatic pistol manufactured in the United States, a modification of the
 NOTES:
 
 - Like the TEC9, the pistol was popular with gangsters, but did not achieve the same popularity in pop culture.
-
-
-
-
-
-

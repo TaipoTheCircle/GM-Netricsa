@@ -1,9 +1,9 @@
 RPG-7
 
 
-WEAPON:             RPG-7
-AMMUNITION:         Rockets for RPG-7
-ROF:                1 shot/min
+WEAPON: RPG-7
+AMMO:   Rockets for RPG-7
+ROF:    1 shot/min
 
 DESCRIPTION:
 

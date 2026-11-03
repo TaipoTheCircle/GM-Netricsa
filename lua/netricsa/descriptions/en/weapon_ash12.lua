@@ -1,9 +1,9 @@
 AS-12 ASSAULT RIFLE
 
 
-WEAPON:      AS-12
-AMMUNITION:  2.7 mm.
-ROF:         ~650 rounds / min 
+WEAPON: As-12 Assault Rifle
+AMMO:   2.7 mm.
+ROF:    ~650 rounds / min 
 
 DESCRIPTION:
 

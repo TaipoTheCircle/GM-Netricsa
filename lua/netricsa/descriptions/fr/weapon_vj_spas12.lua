@@ -1,9 +1,9 @@
-ESPAS-12 FEUILLE
+FEUX DE CHASSE SPAS-12
 
 
-ARME:      Feux de chasse SPAS-12
-MUNITIONS:        coques de 12 calibres
-CADENCE DE TIR:         Pompe-action, ~60 rds/min
+ARME:           Feux de chasse SPAS-12
+MUNITIONS:      coques de 12 calibres
+CADENCE DE TIR: Pompe-action, ~60 rds / min
 
 DESCRIPTION:
 

@@ -1,9 +1,9 @@
 MP-7 SUBMACHINE GUN
 
 
-WEAPON:     MP-7
-AMMUNITION: 4.6x30 mm
-ROF:        ~950 rounds / min
+WEAPON: MP-7 Submachine Gun
+AMMO:   4.6x30 mm
+ROF:    ~950 rounds / min
 
 DESCRIPTION:
 

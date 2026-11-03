@@ -1,9 +1,9 @@
 HK416 ASSAULT RIFLE
 
 
-WEAPON:      HK416
-AMMUNITION:  5.56×45mm NATO cartridges
-ROF:         ~850 rounds / min
+WEAPON: HK416 Assault Rifle
+AMMO:   5.56x45mm NATO cartridges
+ROF:    ~850 rounds / min
 
 DESCRIPTION:
 

@@ -1,9 +1,9 @@
 MR-80-13T TRAUMATIC PISTOL
 
 
-WEAPON:     MR-80-13T
-AMMUNITION: .45 Rubber cartridges
-ROF:        ~20 rounds / min
+WEAPON: MR-80-13T Traumatic Pistol
+AMMO:   .45 Rubber cartridges
+ROF:    ~20 rounds / min
 
 DESCRIPTION:
 
@@ -13,4 +13,3 @@ NOTES:
 
 - Suitable for self-defense, but not for combat.
 - It is recommended to shoot at the head if you want to kill someone with this pistol.
-

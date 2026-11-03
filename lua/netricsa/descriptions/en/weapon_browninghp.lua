@@ -1,9 +1,9 @@
 BROWNING HI-POWER SELF-LOADING PISTOL
 
 
-WEAPON:     Browning Hi-Power
-AMMUNITION: .40 SW cartridges
-ROF:        ~30 rounds / min
+WEAPON: Browning Hi-Power Self-Loading Pistol
+AMMO:   .40 SW cartridges
+ROF:    ~30 rounds / min
 
 DESCRIPTION:
 
@@ -13,6 +13,3 @@ NOTES:
 
 - Although the description states that the magazine holds 13 rounds, it actually holds 10 rounds.
 - Nevertheless, the pistol is good and powerful.
-
-
-

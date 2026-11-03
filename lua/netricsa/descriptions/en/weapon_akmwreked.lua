@@ -1,9 +1,9 @@
 HOMEMADE AK ASSAULT RIFLE
 
 
-WEAPON:      Hand-assembled AK
-AMMUNITION:  7.62x39 mm
-ROF:         ~600 rounds / min
+WEAPON: Homemade Ak Assault Rifle
+AMMO:   7.62x39 mm
+ROF:    ~600 rounds / min
 
 DESCRIPTION:
 

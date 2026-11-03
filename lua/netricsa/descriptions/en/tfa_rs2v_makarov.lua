@@ -1,9 +1,9 @@
 MAKAROV PISTOL
 
 
-WEAPON:          Makarov Pistol
-AMMUNITION:      9x18
-ROF:             30 rounds / min
+WEAPON: Makarov Pistol
+AMMO:   9x18
+ROF:    30 rounds / min
 
 DESCRIPTION:
 

@@ -1,9 +1,9 @@
 AK-12 ASSAULT RIFLE
 
 
-WEAPON:      AK-12 assault rifle
-AMMUNITION:  5.45×39 mm
-ROF:         ~900 rounds / min
+WEAPON: AK-12 assault rifle
+AMMO:   5.45x39 mm
+ROF:    ~900 rounds / min
 
 DESCRIPTION:
 

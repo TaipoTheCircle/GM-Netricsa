@@ -1,9 +1,9 @@
 HANDS
 
 
-WEAPON:      HANDS
-AMMUNITION:  None (hand-to-hand combat)
-ROF:         ~90 strikes/min
+WEAPON: Hands
+AMMO:   None (hand-to-hand combat)
+ROF:    ~90 strikes/min
 
 DESCRIPTION:
 

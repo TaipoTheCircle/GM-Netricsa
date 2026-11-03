@@ -1,9 +1,9 @@
 AR-15 SELF-LOADING PISTOL
 
 
-WEAPON:      AR-15
-AMMUNITION:  5.56x45 MM cartridges
-ROF:         ~20 rounds / min
+WEAPON: Ar-15 Self-Loading Pistol
+AMMO:   5.56x45 MM cartridges
+ROF:    ~20 rounds / min
 
 DESCRIPTION:
 
@@ -13,9 +13,3 @@ NOTES:
 
 - Due to its caliber, this pistol has good penetration.
 - Not to be confused with the AR-15 rifle.
-
-
-
-
-
-

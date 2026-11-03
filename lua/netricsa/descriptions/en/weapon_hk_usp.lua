@@ -1,9 +1,9 @@
-HK USP SELF-LOADING PISTOL
+HECKLER & KOCH USP SELF-LOADING PISTOL
 
 
-WEAPON:     Heckler & Koch USP
-AMMUNITION: 9x19 cartridges
-ROF:        ~20 rounds / min
+WEAPON: Heckler & Koch USP Self-Loading Pistol
+AMMO:   9x19 cartridges
+ROF:    ~20 rounds / min
 
 DESCRIPTION:
 
@@ -13,7 +13,3 @@ NOTES:
 
 - This pistol is of good quality.
 - The "HK USP MATCH" variant of this pistol is used by Alliance forces and rebels.
-
-
-
-

@@ -1,9 +1,9 @@
 FLINTLOCK PISTOL
 
 
-WEAPON:     Flintlock Pistol
-AMMUNITION: 17.5 to 21.5 mm
-ROF:        1 shot/min
+WEAPON: Flintlock Pistol
+AMMO:   17.5 to 21.5 mm
+ROF:    1 shot/min
 
 DESCRIPTION:
 

@@ -1,9 +1,9 @@
 IMI UZI SUBMACHINE GUN
 
 
-WEAPON:     IMI UZI
-AMMUNITION: 9×19 mm Parabellum cartridges
-ROF:        ~600 rounds / min
+WEAPON: IMI UZI Sunmachine Gun
+AMMO:   9x19 mm Parabellum cartridges
+ROF:    ~600 rounds / min
 
 DESCRIPTION:
 
@@ -13,5 +13,3 @@ NOTES:
 
 - Compactness and high cyclic rate of fire are offset by relatively low accuracy at ranges over 50-100 m.
 - Simple to manufacture and maintain, popular in the 20th century; civilian and export versions with fire mode restrictions exist.
-
-

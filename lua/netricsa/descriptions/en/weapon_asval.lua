@@ -1,9 +1,9 @@
-AS VAL
+AS VAL AUTOMATIC RIFLE
 
 
-WEAPON:          AS Val
-AMMUNITION:      9x39 mm
-ROF:             ~900-960 rounds / min
+WEAPON: AS Val Automatic Rifle
+AMMO:   9x39 mm
+ROF:    ~900-960 rounds / min
 
 DESCRIPTION:
 

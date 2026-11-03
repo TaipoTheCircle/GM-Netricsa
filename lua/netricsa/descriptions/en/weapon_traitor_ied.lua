@@ -1,9 +1,9 @@
 HOMEMADE EXPLOSIVE DEVICE
 
 
-WEAPON:     Homemade Explosive Device
-AMMUNITION: Remote-detonated explosive charges
-ROF:        Hand-placed, remote detonation
+WEAPON: Homemade Explosive Device
+AMMO:   Remote-detonated explosive charges
+ROF:    Hand-placed, remote detonation
 
 DESCRIPTION:
 

@@ -1,9 +1,9 @@
 DESERT EAGLE LARGE-CALIBER SEMI-AUTOMATIC PISTOL
 
 
-WEAPON:      Desert Eagle
-AMMUNITION:  .50 Action Express cartridges
-ROF:         ~20 rounds / min
+WEAPON: Desert Eagle Large-Caliber Semi-Automatic Pistol
+AMMO:   .50 Action Express cartridges
+ROF:    ~20 rounds / min
 
 DESCRIPTION:
 
@@ -13,7 +13,3 @@ NOTES:
 
 - This pistol is very powerful and has tremendous penetration.
 - Extremely powerful recoil makes it impossible to shoot with one hand.
-
-
-
-

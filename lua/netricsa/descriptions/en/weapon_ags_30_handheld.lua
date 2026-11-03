@@ -1,9 +1,9 @@
 AGS-30 AUTOMATIC GRENADE LAUNCHER
 
 
-WEAPON:      AGS-30
-AMMUNITION:  30 mm cartridges
-ROF:         ~400 rounds / min
+WEAPON: AGS-30 Automatic Grenade Launcher
+AMMO:   30 mm cartridges
+ROF:    ~400 rounds / min
 
 DESCRIPTION:
 
@@ -13,6 +13,3 @@ NOTES:
 
 - You can rain grenades down on the enemy.
 - Better be careful with this thing, you could blow yourself up.
-
-
-

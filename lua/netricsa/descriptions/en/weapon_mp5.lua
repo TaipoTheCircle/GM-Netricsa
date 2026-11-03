@@ -1,9 +1,9 @@
 MP5 SUBMACHINE GUN
 
 
-WEAPON:     MP5 submachine gun
-AMMUNITION: 9x19 mm cartridges 
-ROF:        ~700 rounds / min
+WEAPON: MP5 submachine gun
+AMMO:   9x19 mm cartridges 
+ROF:    ~700 rounds / min
 
 DESCRIPTION:
 

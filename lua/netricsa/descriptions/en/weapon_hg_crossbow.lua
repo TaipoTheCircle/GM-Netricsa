@@ -1,9 +1,9 @@
 CROSSBOW
 
 
-WEAPON:     Crossbow
-AMMUNITION: Steel bolts
-ROF:        Bolt action, ~15 bolts/min.
+WEAPON: Crossbow
+AMMO:   Steel bolts
+ROF:    Bolt action, ~15 bolts/min.
 
 DESCRIPTION:
 

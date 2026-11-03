@@ -1,9 +1,9 @@
-SIX-SEVEN SELF-LOADING PISTOL
+FN SIX-SEVEN SELF-LOADING PISTOL
 
 
-WEAPON:      FN Five-seveN
-AMMUNITION:  9x19 cartridges 
-ROF:         ~15 rounds / min
+WEAPON: FN Six-seveN Self-Loading Pistol
+AMMO:   9x19 cartridges 
+ROF:    ~15 rounds / min
 
 DESCRIPTION:
 
@@ -12,4 +12,3 @@ DESCRIPTION:
 NOTES:
 
 - The name SIX-SEVEN refers to a meme popular in 2025.
-
