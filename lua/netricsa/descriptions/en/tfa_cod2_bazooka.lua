@@ -1,10 +1,10 @@
 M1 "BAZOOKA" ANTI-TANK GRENADE LAUNCHER
 
 
-Weapon:     M1 "Bazooka" Anti-Tank Grenade Launcher
-Cartridges: 60mm Rocket-Propelled Anti-Tank Grenades
-Rate:      ~4-6 rounds / min
-Weight:    ~6,8-8 kg
+WEAPON: M1 "Bazooka" Anti-Tank Grenade Launcher
+AMMO:   60mm Rocket-Propelled Anti-Tank Grenades
+ROF:    ~4-6 rounds / min
+WEIGHT: ~6,8-8 kg
 
 DESCRIPTION:
 
