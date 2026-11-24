@@ -1206,6 +1206,7 @@ end)
 ["npc_vj_ss2_jackoverse_kleer_god"] = true,
 ["npc_turok_giganotosaurus_2006"] = true,
 ["npc_vj_ss2_pyramidslow"] = true,
+["obj_ss2_zeppelin"] = true,
     }
 
 local function AnnounceSpecialNPC(ent)
